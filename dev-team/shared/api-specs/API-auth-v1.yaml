@@ -1,0 +1,144 @@
+openapi: 3.0.0
+info:
+  title: DevTeam Auth API
+  version: 1.0.0
+  description: 用户认证相关API
+
+servers:
+  - url: https://api.devteam.com/v1
+    description: 生产环境
+  - url: https://api-staging.devteam.com/v1
+    description: 测试环境
+
+paths:
+  /auth/login:
+    post:
+      summary: 用户登录
+      tags:
+        - Authentication
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - username
+                - password
+              properties:
+                username:
+                  type: string
+                  description: 用户名或手机号
+                  example: "testuser"
+                password:
+                  type: string
+                  format: password
+                  description: 密码
+                  example: "Password123"
+                rememberMe:
+                  type: boolean
+                  description: 是否记住登录
+                  default: false
+      responses:
+        '200':
+          description: 登录成功
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: integer
+                    example: 0
+                  data:
+                    type: object
+                    properties:
+                      token:
+                        type: string
+                        description: JWT Token
+                      expiresIn:
+                        type: integer
+                        description: 过期时间(秒)
+        '401':
+          description: 认证失败
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+
+  /auth/logout:
+    post:
+      summary: 用户登出
+      tags:
+        - Authentication
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: 登出成功
+
+  /auth/refresh:
+    post:
+      summary: 刷新Token
+      tags:
+        - Authentication
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: 刷新成功
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: integer
+                    example: 0
+                  data:
+                    type: object
+                    properties:
+                      token:
+                        type: string
+                      expiresIn:
+                        type: integer
+
+  /auth/sms/send:
+    post:
+      summary: 发送短信验证码
+      tags:
+        - Authentication
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - phone
+              properties:
+                phone:
+                  type: string
+                  description: 手机号
+                  example: "13800138000"
+      responses:
+        '200':
+          description: 发送成功
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+
+  schemas:
+    Error:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 401
+        message:
+          type: string
+          example: "认证失败"

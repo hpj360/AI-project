@@ -1,0 +1,218 @@
+{
+  "identity": {
+    "name": "DevTeam",
+    "theme": "software development team collaboration",
+    "emoji": "🚀"
+  },
+  "agents": {
+    "defaults": {
+      "workspace": "~/.openclaw/workspace/dev-team",
+      "userTimezone": "Asia/Shanghai",
+      "model": {
+        "primary": "anthropic/claude-sonnet-4-5",
+        "fallbacks": ["anthropic/claude-3-5-sonnet", "openai/gpt-4o"]
+      },
+      "thinkingDefault": "medium",
+      "verboseDefault": "off",
+      "elevatedDefault": "on",
+      "timeoutSeconds": 600,
+      "heartbeat": {
+        "every": "1h",
+        "model": "anthropic/claude-sonnet-4-5",
+        "target": "last",
+        "directPolicy": "allow"
+      },
+      "memorySearch": {
+        "provider": "gemini",
+        "model": "gemini-embedding-001",
+        "extraPaths": ["../shared", "../project-docs"]
+      },
+      "sandbox": {
+        "mode": "non-main",
+        "perSession": true,
+        "workspaceRoot": "~/.openclaw/sandboxes/dev-team"
+      }
+    },
+    "entries": [
+      {
+        "id": "ba",
+        "name": "Business Analyst",
+        "description": "业务分析师 - 负责需求分析、用户故事编写、业务流程梳理",
+        "workspace": "~/.openclaw/workspace/dev-team/ba",
+        "model": {
+          "primary": "anthropic/claude-sonnet-4-5"
+        },
+        "skills": ["notion", "trello"],
+        "tools": {
+          "allow": ["exec", "read", "write", "edit"],
+          "deny": ["browser"]
+        },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["architect", "frontend", "backend", "qa", "ui"],
+          "sessionVisibility": ["architect", "frontend", "backend", "qa", "ui"]
+        },
+        "params": {
+          "role": "business-analyst",
+          "expertise": ["需求分析", "用户故事", "业务流程", "数据建模", "UML"],
+          "deliverables": ["需求文档", "用户故事地图", "业务流程图", "验收标准"]
+        }
+      },
+      {
+        "id": "architect",
+        "name": "Product Architect",
+        "description": "产品架构师 - 负责系统架构设计、技术选型、接口规范制定",
+        "workspace": "~/.openclaw/workspace/dev-team/architect",
+        "model": {
+          "primary": "anthropic/claude-sonnet-4-5"
+        },
+        "skills": ["github", "notion"],
+        "tools": {
+          "allow": ["exec", "read", "write", "edit", "apply_patch"],
+          "deny": ["browser"]
+        },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["ba", "frontend", "backend", "qa", "ui"],
+          "sessionVisibility": ["ba", "frontend", "backend", "qa", "ui"]
+        },
+        "params": {
+          "role": "architect",
+          "expertise": ["系统架构", "技术选型", "API设计", "数据库设计", "微服务", "设计模式"],
+          "deliverables": ["架构设计文档", "技术方案", "API规范", "数据库设计"]
+        }
+      },
+      {
+        "id": "frontend",
+        "name": "Frontend Developer",
+        "description": "前端开发工程师 - 负责UI实现、前端架构、用户体验优化",
+        "workspace": "~/.openclaw/workspace/dev-team/frontend",
+        "model": {
+          "primary": "anthropic/claude-sonnet-4-5"
+        },
+        "skills": ["github", "notion"],
+        "tools": {
+          "allow": ["exec", "read", "write", "edit", "apply_patch"],
+          "deny": []
+        },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["ba", "architect", "backend", "qa", "ui"],
+          "sessionVisibility": ["ba", "architect", "backend", "qa", "ui"]
+        },
+        "params": {
+          "role": "frontend-developer",
+          "expertise": ["React", "Vue", "TypeScript", "CSS", "性能优化", "组件设计"],
+          "deliverables": ["前端代码", "组件库", "页面实现", "前端文档"]
+        }
+      },
+      {
+        "id": "backend",
+        "name": "Backend Developer",
+        "description": "后端开发工程师 - 负责服务端开发、API实现、数据库管理",
+        "workspace": "~/.openclaw/workspace/dev-team/backend",
+        "model": {
+          "primary": "anthropic/claude-sonnet-4-5"
+        },
+        "skills": ["github", "notion"],
+        "tools": {
+          "allow": ["exec", "read", "write", "edit", "apply_patch"],
+          "deny": []
+        },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["ba", "architect", "frontend", "qa", "ui"],
+          "sessionVisibility": ["ba", "architect", "frontend", "qa", "ui"]
+        },
+        "params": {
+          "role": "backend-developer",
+          "expertise": ["Node.js", "Python", "Java", "数据库", "API开发", "微服务"],
+          "deliverables": ["后端代码", "API实现", "数据库脚本", "接口文档"]
+        }
+      },
+      {
+        "id": "qa",
+        "name": "QA Engineer",
+        "description": "测试工程师 - 负责测试计划、自动化测试、质量保障",
+        "workspace": "~/.openclaw/workspace/dev-team/qa",
+        "model": {
+          "primary": "anthropic/claude-sonnet-4-5"
+        },
+        "skills": ["github", "trello"],
+        "tools": {
+          "allow": ["exec", "read", "write", "edit"],
+          "deny": []
+        },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["ba", "architect", "frontend", "backend", "ui"],
+          "sessionVisibility": ["ba", "architect", "frontend", "backend", "ui"]
+        },
+        "params": {
+          "role": "qa-engineer",
+          "expertise": ["测试计划", "自动化测试", "性能测试", "安全测试", "测试框架"],
+          "deliverables": ["测试用例", "测试报告", "Bug报告", "自动化脚本"]
+        }
+      },
+      {
+        "id": "ui",
+        "name": "UI Designer",
+        "description": "UI设计师 - 负责界面设计、交互设计、设计规范制定",
+        "workspace": "~/.openclaw/workspace/dev-team/ui",
+        "model": {
+          "primary": "anthropic/claude-sonnet-4-5"
+        },
+        "skills": ["notion", "trello"],
+        "tools": {
+          "allow": ["exec", "read", "write", "edit"],
+          "deny": []
+        },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["ba", "architect", "frontend", "backend", "qa"],
+          "sessionVisibility": ["ba", "architect", "frontend", "backend", "qa"]
+        },
+        "params": {
+          "role": "ui-designer",
+          "expertise": ["界面设计", "交互设计", "设计系统", "原型设计", "用户体验"],
+          "deliverables": ["设计稿", "原型图", "设计规范", "图标资源"]
+        }
+      }
+    ]
+  },
+  "channels": {
+    "slack": {
+      "enabled": true,
+      "botToken": "${SLACK_BOT_TOKEN}",
+      "channels": {
+        "#dev-team": { "allow": true, "requireMention": false },
+        "#standup": { "allow": true, "requireMention": false },
+        "#code-review": { "allow": true, "requireMention": false }
+      },
+      "dm": { "enabled": true, "allowFrom": ["*"] }
+    }
+  },
+  "tools": {
+    "allow": ["exec", "process", "read", "write", "edit", "apply_patch"],
+    "deny": [],
+    "exec": {
+      "backgroundMs": 10000,
+      "timeoutSec": 1800,
+      "cleanupMs": 1800000
+    }
+  },
+  "skills": {
+    "allowBundled": ["github", "trello", "notion"],
+    "entries": {
+      "github": { "enabled": true },
+      "trello": { "enabled": true },
+      "notion": { "enabled": true }
+    }
+  },
+  "gateway": {
+    "mode": "local",
+    "port": 18790,
+    "bind": "loopback",
+    "controlUi": { "enabled": true, "basePath": "/dev-team" }
+  }
+}
