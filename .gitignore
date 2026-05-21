@@ -1,7 +1,12 @@
+# Dependencies
 node_modules/
+
+# Build artifacts
 *.exe
 *.zip
 *.tar.gz
+
+# Logs
 *.log
 error*.txt
 output*.txt
@@ -11,12 +16,21 @@ skillhub-search-error.txt
 skillhub-output.txt
 skillhub-calendar.txt
 skillhub-search.txt
+
+# OS files
 .DS_Store
 Thumbs.db
+
+# Environment & secrets
 .env
 .env.local
+auth-profiles.json
+
+# Python cache
 *.pyc
 __pycache__/
+
+# IDE
 .idea/
 .vscode/
 *.swp
