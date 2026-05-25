@@ -1,14 +1,7 @@
 ---
 name: diagram
 description: "使用 Mermaid 或 PlantUML 语法生成图表。适用场景：(1) 绘制架构图，(2) 绘制时序图/流程图/类图，(3) 可视化业务流程，(4) 生成数据库 ER 图。通过 npx @mermaid-js/mermaid-cli 渲染 Mermaid，或输出 PlantUML 源码供外部渲染。"
-metadata:
-  {
-    "openclaw":
-      {
-        "emoji": "📊",
-        "requires": { "bins": ["npx"] },
-      },
-  }
+metadata: { "openclaw": { "emoji": "📊", "requires": { "bins": ["npx"] } } }
 ---
 
 # 图表技能
