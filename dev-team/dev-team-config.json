@@ -31,6 +31,23 @@
         "mode": "non-main",
         "perSession": true,
         "workspaceRoot": "~/.openclaw/sandboxes/dev-team"
+      },
+      "a2a": {
+        "retryPolicy": {
+          "maxRetries": 3,
+          "initialDelayMs": 5000,
+          "backoffMultiplier": 2,
+          "maxDelayMs": 60000
+        },
+        "timeoutMs": 300000,
+        "fallbackChain": {
+          "architect": ["backend"],
+          "frontend": ["backend"],
+          "backend": ["architect"],
+          "qa": ["backend"],
+          "ui": ["frontend"],
+          "ba": ["architect"]
+        }
       }
     },
     "entries": [
@@ -42,7 +59,7 @@
         "model": {
           "primary": "anthropic/claude-sonnet-4-5"
         },
-        "skills": ["notion", "trello"],
+        "skills": ["notion", "trello", "slack", "diagram", "product-manager"],
         "tools": {
           "allow": ["exec", "read", "write", "edit"],
           "deny": ["browser"]
@@ -66,7 +83,7 @@
         "model": {
           "primary": "anthropic/claude-sonnet-4-5"
         },
-        "skills": ["github", "notion"],
+        "skills": ["github", "notion", "slack", "diagram"],
         "tools": {
           "allow": ["exec", "read", "write", "edit", "apply_patch"],
           "deny": ["browser"]
@@ -90,7 +107,7 @@
         "model": {
           "primary": "anthropic/claude-sonnet-4-5"
         },
-        "skills": ["github", "notion"],
+        "skills": ["github", "coding-agent", "slack"],
         "tools": {
           "allow": ["exec", "read", "write", "edit", "apply_patch"],
           "deny": []
@@ -114,7 +131,7 @@
         "model": {
           "primary": "anthropic/claude-sonnet-4-5"
         },
-        "skills": ["github", "notion"],
+        "skills": ["github", "coding-agent", "slack", "db"],
         "tools": {
           "allow": ["exec", "read", "write", "edit", "apply_patch"],
           "deny": []
@@ -136,9 +153,10 @@
         "description": "测试工程师 - 负责测试计划、自动化测试、质量保障",
         "workspace": "~/.openclaw/workspace/dev-team/qa",
         "model": {
-          "primary": "anthropic/claude-sonnet-4-5"
+          "primary": "anthropic/claude-3-5-haiku",
+          "fallbacks": ["anthropic/claude-sonnet-4-5"]
         },
-        "skills": ["github", "trello"],
+        "skills": ["github", "trello", "slack", "api-test"],
         "tools": {
           "allow": ["exec", "read", "write", "edit"],
           "deny": []
@@ -160,9 +178,10 @@
         "description": "UI设计师 - 负责界面设计、交互设计、设计规范制定",
         "workspace": "~/.openclaw/workspace/dev-team/ui",
         "model": {
-          "primary": "anthropic/claude-sonnet-4-5"
+          "primary": "anthropic/claude-3-5-haiku",
+          "fallbacks": ["anthropic/claude-sonnet-4-5"]
         },
-        "skills": ["notion", "trello"],
+        "skills": ["notion", "trello", "slack", "diagram"],
         "tools": {
           "allow": ["exec", "read", "write", "edit"],
           "deny": []
@@ -202,11 +221,17 @@
     }
   },
   "skills": {
-    "allowBundled": ["github", "trello", "notion"],
+    "allowBundled": ["github", "trello", "notion", "slack", "coding-agent", "diagram", "api-test", "db", "product-manager"],
     "entries": {
       "github": { "enabled": true },
       "trello": { "enabled": true },
-      "notion": { "enabled": true }
+      "notion": { "enabled": true },
+      "slack": { "enabled": true },
+      "coding-agent": { "enabled": true },
+      "diagram": { "enabled": true },
+      "api-test": { "enabled": true },
+      "db": { "enabled": true },
+      "product-manager": { "enabled": true }
     }
   },
   "gateway": {

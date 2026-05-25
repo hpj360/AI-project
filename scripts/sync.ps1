@@ -16,13 +16,35 @@ param(
     [string]$Action = ""
 )
 
-$ProjectRoot = "d:\AI" + [char]0x9879 + [char]0x76EE
+$ScriptDir = $PSScriptRoot
+if (-not $ScriptDir) { $ScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Definition }
+$ProjectRoot = $ScriptDir
+while ($ProjectRoot -and -not (Test-Path (Join-Path $ProjectRoot ".git"))) {
+    $Parent = Split-Path -Parent $ProjectRoot
+    if ($Parent -eq $ProjectRoot) { break }
+    $ProjectRoot = $Parent
+}
+if (-not (Test-Path (Join-Path $ProjectRoot ".git"))) {
+    Write-Host "Error: Cannot find Git repository root from $ScriptDir" -ForegroundColor Red
+    exit 1
+}
 $PmTeamDir = Join-Path $ProjectRoot "pm-team"
+
+$SensitivePatterns = @(
+    ".env"
+    "*.key"
+    "*.pem"
+    "*.p12"
+    "*.pfx"
+    "credentials/"
+    ".secrets.*"
+)
 
 function Write-Header {
     Write-Host "========================================" -ForegroundColor Cyan
     Write-Host "  AI project sync tool" -ForegroundColor Cyan
     Write-Host "========================================" -ForegroundColor Cyan
+    Write-Host "  Repo: $ProjectRoot" -ForegroundColor Gray
     Write-Host ""
 }
 
@@ -46,60 +68,128 @@ function Show-Menu {
 function Do-Pull {
     Write-Host ""
 
-    # Pull main repo
     Write-Host "[1/2] Pulling main repo..." -ForegroundColor Green
-    Set-Location $ProjectRoot
-    git pull origin main
-    if ($LASTEXITCODE -ne 0) { Write-Host "Pull main repo failed" -ForegroundColor Red; return }
-    Write-Host "Main repo: OK" -ForegroundColor Green
+    Push-Location $ProjectRoot
+    try {
+        git pull origin main
+        if ($LASTEXITCODE -ne 0) { Write-Host "Pull main repo failed" -ForegroundColor Red; return }
+        Write-Host "Main repo: OK" -ForegroundColor Green
+    }
+    finally { Pop-Location }
 
-    # Pull pm-team
     Write-Host ""
     Write-Host "[2/2] Pulling pm-team repo..." -ForegroundColor Green
-    Set-Location $PmTeamDir
-    git pull origin master
-    if ($LASTEXITCODE -ne 0) { Write-Host "Pull pm-team failed" -ForegroundColor Red; return }
-    Write-Host "pm-team repo: OK" -ForegroundColor Green
+    if (Test-Path $PmTeamDir) {
+        Push-Location $PmTeamDir
+        try {
+            git pull origin master
+            if ($LASTEXITCODE -ne 0) { Write-Host "Pull pm-team failed" -ForegroundColor Red; return }
+            Write-Host "pm-team repo: OK" -ForegroundColor Green
+        }
+        finally { Pop-Location }
+    } else {
+        Write-Host "pm-team directory not found, skipped." -ForegroundColor Gray
+    }
 
     Write-Host ""
     Write-Host "Done! Pull completed." -ForegroundColor Green
 }
 
+function Invoke-SafeGitAdd {
+    param([string]$RepoPath)
+
+    Push-Location $RepoPath
+    try {
+        $allChanges = git status --porcelain
+        if (-not $allChanges) { return $false }
+
+        $safeFiles = @()
+        $blockedFiles = @()
+        foreach ($line in $allChanges) {
+            $filePath = $line.Substring(3)
+            $isSensitive = $false
+            foreach ($pattern in $SensitivePatterns) {
+                if ($filePath -like $pattern) {
+                    $isSensitive = $true
+                    break
+                }
+            }
+            if ($isSensitive) {
+                $blockedFiles += $filePath
+            } else {
+                $safeFiles += $filePath
+            }
+        }
+
+        if ($blockedFiles) {
+            Write-Host "  Blocked sensitive files:" -ForegroundColor Red
+            foreach ($f in $blockedFiles) { Write-Host "    [SKIP] $f" -ForegroundColor Red }
+        }
+
+        if ($safeFiles) {
+            foreach ($f in $safeFiles) {
+                git add $f
+            }
+            return $true
+        }
+        return $false
+    }
+    finally { Pop-Location }
+}
+
 function Do-Push {
     Write-Host ""
 
-    # Check & push pm-team first
-    Write-Host "[1/2] Checking pm-team changes..." -ForegroundColor Green
-    Set-Location $PmTeamDir
-    $subChanges = git status --porcelain
-    if ($subChanges) {
-        Write-Host "pm-team changes found, committing..." -ForegroundColor Yellow
-        git add -A
-        $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-        git commit -m "sync: auto commit $timestamp"
-        git push origin master
-        if ($LASTEXITCODE -ne 0) { Write-Host "Push pm-team failed" -ForegroundColor Red; return }
-        Write-Host "pm-team pushed." -ForegroundColor Green
+    if (Test-Path $PmTeamDir) {
+        Write-Host "[1/2] Checking pm-team changes..." -ForegroundColor Green
+        Push-Location $PmTeamDir
+        try {
+            $subChanges = git status --porcelain
+            if ($subChanges) {
+                Write-Host "pm-team changes found, committing..." -ForegroundColor Yellow
+                $hasSafeFiles = Invoke-SafeGitAdd $PmTeamDir
+                if ($hasSafeFiles) {
+                    $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+                    $shortHash = (git log -1 --format="%h" 2>$null) ?? "unknown"
+                    git commit -m "sync: auto commit $timestamp (base: $shortHash)"
+                    git push origin master
+                    if ($LASTEXITCODE -ne 0) { Write-Host "Push pm-team failed" -ForegroundColor Red; return }
+                    Write-Host "pm-team pushed." -ForegroundColor Green
+                } else {
+                    Write-Host "Only sensitive files changed, skipping commit." -ForegroundColor Yellow
+                }
+            } else {
+                Write-Host "No pm-team changes, skipped." -ForegroundColor Gray
+            }
+        }
+        finally { Pop-Location }
     } else {
-        Write-Host "No pm-team changes, skipped." -ForegroundColor Gray
+        Write-Host "[1/2] pm-team directory not found, skipped." -ForegroundColor Gray
     }
 
-    # Check & push main repo
     Write-Host ""
     Write-Host "[2/2] Checking main repo changes..." -ForegroundColor Green
-    Set-Location $ProjectRoot
-    $mainChanges = git status --porcelain
-    if ($mainChanges) {
-        Write-Host "Main repo changes found, committing..." -ForegroundColor Yellow
-        git add -A
-        $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-        git commit -m "sync: auto commit $timestamp"
-        git push origin main
-        if ($LASTEXITCODE -ne 0) { Write-Host "Push main repo failed" -ForegroundColor Red; return }
-        Write-Host "Main repo pushed." -ForegroundColor Green
-    } else {
-        Write-Host "No main repo changes, nothing to push." -ForegroundColor Gray
+    Push-Location $ProjectRoot
+    try {
+        $mainChanges = git status --porcelain
+        if ($mainChanges) {
+            Write-Host "Main repo changes found, committing..." -ForegroundColor Yellow
+            $hasSafeFiles = Invoke-SafeGitAdd $ProjectRoot
+            if ($hasSafeFiles) {
+                $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+                $shortHash = (git log -1 --format="%h" 2>$null) ?? "unknown"
+                git commit -m "sync: auto commit $timestamp (base: $shortHash)"
+                git push origin main
+                if ($LASTEXITCODE -ne 0) { Write-Host "Push main repo failed" -ForegroundColor Red; return }
+                Write-Host "Main repo pushed." -ForegroundColor Green
+            } else {
+                Write-Host "Only sensitive files changed, skipping commit." -ForegroundColor Yellow
+            }
+        } else {
+            Write-Host "No main repo changes, nothing to push." -ForegroundColor Gray
+        }
     }
+    finally { Pop-Location }
 
     Write-Host ""
     Write-Host "Done! Push completed." -ForegroundColor Green
@@ -109,20 +199,31 @@ function Do-Status {
     Write-Host ""
 
     Write-Host "=== Main Repo Status ===" -ForegroundColor Yellow
-    Set-Location $ProjectRoot
-    git status -sb
-    Write-Host ""
-    Write-Host "=== Recent Commits ===" -ForegroundColor Yellow
-    git log --oneline -5
+    Push-Location $ProjectRoot
+    try {
+        git status -sb
+        Write-Host ""
+        Write-Host "=== Recent Commits ===" -ForegroundColor Yellow
+        git log --oneline -5
+    }
+    finally { Pop-Location }
     Write-Host ""
 
-    Write-Host "=== pm-team Repo Status ===" -ForegroundColor Yellow
-    Set-Location $PmTeamDir
-    git status -sb
-    Write-Host ""
-    Write-Host "=== pm-team Recent Commits ===" -ForegroundColor Yellow
-    git log --oneline -3
-    Write-Host ""
+    if (Test-Path $PmTeamDir) {
+        Write-Host "=== pm-team Repo Status ===" -ForegroundColor Yellow
+        Push-Location $PmTeamDir
+        try {
+            git status -sb
+            Write-Host ""
+            Write-Host "=== pm-team Recent Commits ===" -ForegroundColor Yellow
+            git log --oneline -3
+        }
+        finally { Pop-Location }
+        Write-Host ""
+    } else {
+        Write-Host "=== pm-team directory not found ===" -ForegroundColor Gray
+        Write-Host ""
+    }
 }
 
 Write-Header
