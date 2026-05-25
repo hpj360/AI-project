@@ -22,6 +22,28 @@ AI项目/
 │   ├── SOUL.md                  # 团队灵魂/价值观
 │   └── dev-team-config.json     # 团队配置
 │
+├── content-team/                # 内容智能体团队配置
+│   ├── agents/                  # 各角色 Agent 定义
+│   │   ├── director/            #   策划总监
+│   │   ├── writer/              #   内容写手
+│   │   ├── editor/              #   资深编辑
+│   │   ├── researcher/          #   调研分析师
+│   │   ├── seo/                 #   SEO/增长专家
+│   │   ├── operator/            #   社媒运营
+│   │   ├── analyst/             #   数据分析师
+│   │   └── designer/            #   视觉设计师
+│   ├── shared/                  # 共享资源
+│   │   ├── content-calendar/    #   内容日历
+│   │   ├── drafts/              #   内容草稿
+│   │   ├── research/            #   调研报告
+│   │   ├── seo-data/            #   SEO 数据
+│   │   ├── analytics/           #   数据分析
+│   │   ├── designs/             #   设计素材
+│   │   └── templates/           #   内容模板
+│   ├── AGENTS.md                # Agent 总览
+│   ├── SOUL.md                  # 团队灵魂/价值观
+│   └── content-team-config.json # 团队配置
+│
 ├── pm-team/                     # 项目管理团队 (独立 Git 仓库)
 │   ├── openclaw.json            # OpenClaw 飞书 Bot 配置
 │   ├── package.json             # Node.js 依赖
@@ -89,14 +111,35 @@ AI项目/
 - **协作**: 支持 Agent-to-Agent (A2A) 通信
 - **配置**: `agile-team-agent.json` / `dev-team/dev-team-config.json`
 
-### 2. PM Team - 项目管理
+### 2. ContentTeam - 内容智能体团队
+
+基于 OpenClaw 的多智能体内容创作系统，包含 8 个角色：
+
+| 角色 | 职责 | 技能 |
+|------|------|------|
+| Director (策划总监) | 内容策略、选题规划、团队调度 | Notion, Trello |
+| Writer (内容写手) | 文章撰写、多风格改写 | Notion, Trello |
+| Editor (资深编辑) | 内容审核、润色、风格统一 | Notion, Trello |
+| Researcher (调研分析师) | 热点追踪、竞品分析 | Notion, Trello |
+| SEO (增长专家) | 关键词研究、SEO优化 | Notion, Trello |
+| Operator (社媒运营) | 发布排期、多平台分发 | Notion, Trello |
+| Analyst (数据分析师) | 效果分析、策略优化 | Notion, Trello |
+| Designer (视觉设计师) | 封面设计、配图制作 | Notion, Trello |
+
+- **模型**: Claude Sonnet 4.5 (主) / GPT-4o (备/设计师主模型)
+- **协作**: 支持 Agent-to-Agent (A2A) 通信，与 DevTeam 可互通
+- **渠道**: 飞书
+- **配置**: `content-team/content-team-config.json`
+- **特色**: 多角色方案评审机制（快速/标准/深度三级评审）
+
+### 3. PM Team - 项目管理
 
 基于 OpenClaw 的飞书 Bot 集成，用于项目管理和团队协作。
 
 - **仓库**: [hpj360/pm-team](https://github.com/hpj360/pm-team)
 - **功能**: 飞书消息处理、环境检查
 
-### 3. Skillhub - 技能管理平台
+### 4. Skillhub - 技能管理平台
 
 本地技能商店 CLI，支持搜索、安装、升级 Agent 技能。
 
@@ -110,7 +153,7 @@ python skillhub-local/skills_store_cli.py self-upgrade
 
 **已安装技能**: product-manager, product-manager-skills, aipm-news-digest, self-improving-agent
 
-### 4. OpenClaw - AI Agent 框架
+### 5. OpenClaw - AI Agent 框架
 
 开源 AI Agent 框架，支持多渠道（WhatsApp、Telegram、Slack 等）。
 
@@ -121,7 +164,7 @@ python skillhub-local/skills_store_cli.py self-upgrade
 
 ### 环境要求
 
-- Node.js 18+
+- Node.js 22+（OpenClaw 源码要求 >= 22.16.0）
 - Python 3.7+
 - Git
 
@@ -151,6 +194,20 @@ scripts/install.sh                     # Linux/Mac
 
 # 查看同步状态
 .\scripts\sync.ps1 status
+```
+
+### 启动 ContentTeam
+
+```powershell
+# 1. 检查环境依赖
+.\content-team\env-setup.ps1
+
+# 2. 配置环境变量
+copy content-team\.env.example content-team\.env
+# 编辑 .env 填入 API Key
+
+# 3. 启动团队
+.\content-team\start-content-team.ps1
 ```
 
 ## Git 仓库

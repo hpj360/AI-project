@@ -1,0 +1,230 @@
+{
+  "identity": {
+    "name": "ContentTeam",
+    "theme": "content creation & operations",
+    "emoji": "✍️"
+  },
+  "agents": {
+    "defaults": {
+      "workspace": "~/.openclaw/workspace/content-team",
+      "userTimezone": "Asia/Shanghai",
+      "model": {
+        "primary": "anthropic/claude-sonnet-4-5",
+        "fallbacks": ["anthropic/claude-3-5-sonnet", "openai/gpt-4o"]
+      },
+      "thinkingDefault": "medium",
+      "verboseDefault": "off",
+      "elevatedDefault": "on",
+      "timeoutSeconds": 600,
+      "heartbeat": {
+        "every": "1h",
+        "model": "anthropic/claude-sonnet-4-5",
+        "target": "last",
+        "directPolicy": "allow"
+      },
+      "memorySearch": {
+        "provider": "gemini",
+        "model": "gemini-embedding-001",
+        "extraPaths": ["../shared", "../project-docs"]
+      },
+      "sandbox": {
+        "mode": "non-main",
+        "perSession": true,
+        "workspaceRoot": "~/.openclaw/sandboxes/content-team"
+      }
+    },
+    "entries": [
+      {
+        "id": "director",
+        "name": "Content Director",
+        "description": "策划总监 - 负责内容策略制定、选题规划、团队调度、质量把控",
+        "workspace": "~/.openclaw/workspace/content-team/director",
+        "model": { "primary": "anthropic/claude-sonnet-4-5" },
+        "skills": ["notion", "trello", "github"],
+        "tools": { "allow": ["exec", "read", "write", "edit"], "deny": ["browser"] },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["writer", "editor", "researcher", "seo", "operator", "analyst", "designer"],
+          "sessionVisibility": ["writer", "editor", "researcher", "seo", "operator", "analyst", "designer"],
+          "crossTeam": { "enabled": true, "allowTo": ["dev-team:architect", "dev-team:ba"] }
+        },
+        "params": {
+          "role": "content-director",
+          "expertise": ["内容策略", "选题规划", "团队管理", "质量把控", "内容日历"],
+          "deliverables": ["内容日历", "选题方案", "任务分配", "评审决策"]
+        }
+      },
+      {
+        "id": "writer",
+        "name": "Content Writer",
+        "description": "内容写手 - 负责文章撰写、多风格改写、标题优化",
+        "workspace": "~/.openclaw/workspace/content-team/writer",
+        "model": { "primary": "anthropic/claude-sonnet-4-5" },
+        "skills": ["notion", "trello", "summarize"],
+        "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["director", "editor", "researcher", "seo"],
+          "sessionVisibility": ["director", "editor", "researcher", "seo"]
+        },
+        "params": {
+          "role": "content-writer",
+          "expertise": ["文案撰写", "内容创作", "标题优化", "多风格写作", "视频脚本"],
+          "deliverables": ["文章初稿", "社媒文案", "视频脚本", "改写版本"]
+        }
+      },
+      {
+        "id": "editor",
+        "name": "Senior Editor",
+        "description": "资深编辑 - 负责内容审核、润色、风格统一、事实核查",
+        "workspace": "~/.openclaw/workspace/content-team/editor",
+        "model": { "primary": "anthropic/claude-sonnet-4-5" },
+        "skills": ["notion", "trello", "summarize"],
+        "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["director", "writer", "seo"],
+          "sessionVisibility": ["director", "writer", "seo"]
+        },
+        "params": {
+          "role": "senior-editor",
+          "expertise": ["内容审核", "文字润色", "风格统一", "事实核查", "质量标准"],
+          "deliverables": ["终稿", "审核意见", "风格指南", "评审记录"]
+        }
+      },
+      {
+        "id": "researcher",
+        "name": "Research Analyst",
+        "description": "调研分析师 - 负责热点追踪、竞品分析、行业趋势、用户画像",
+        "workspace": "~/.openclaw/workspace/content-team/researcher",
+        "model": { "primary": "anthropic/claude-sonnet-4-5" },
+        "skills": ["notion", "trello", "blogwatcher", "summarize"],
+        "tools": { "allow": ["exec", "read", "write", "edit", "browser"], "deny": [] },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["director", "writer", "analyst"],
+          "sessionVisibility": ["director", "writer", "analyst"]
+        },
+        "params": {
+          "role": "research-analyst",
+          "expertise": ["热点追踪", "竞品分析", "行业趋势", "用户画像", "数据收集"],
+          "deliverables": ["调研报告", "趋势分析", "竞品动态", "用户画像"]
+        }
+      },
+      {
+        "id": "seo",
+        "name": "SEO & Growth Specialist",
+        "description": "SEO/增长专家 - 负责关键词研究、SEO优化、标题/描述优化、增长策略",
+        "workspace": "~/.openclaw/workspace/content-team/seo",
+        "model": { "primary": "anthropic/claude-sonnet-4-5" },
+        "skills": ["notion", "trello"],
+        "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["director", "writer", "editor", "operator"],
+          "sessionVisibility": ["director", "writer", "editor", "operator"]
+        },
+        "params": {
+          "role": "seo-growth-specialist",
+          "expertise": ["关键词研究", "SEO优化", "标题优化", "增长策略", "数据分析"],
+          "deliverables": ["关键词库", "SEO方案", "增长建议", "优化报告"]
+        }
+      },
+      {
+        "id": "operator",
+        "name": "Social Media Operator",
+        "description": "社媒运营 - 负责发布排期、多平台分发、互动管理、粉丝运营",
+        "workspace": "~/.openclaw/workspace/content-team/operator",
+        "model": { "primary": "anthropic/claude-sonnet-4-5" },
+        "skills": ["notion", "trello"],
+        "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["director", "editor", "designer", "analyst"],
+          "sessionVisibility": ["director", "editor", "designer", "analyst"]
+        },
+        "params": {
+          "role": "social-media-operator",
+          "expertise": ["平台运营", "发布排期", "互动管理", "粉丝运营", "内容分发"],
+          "deliverables": ["发布计划", "运营报告", "互动数据", "粉丝分析"]
+        }
+      },
+      {
+        "id": "analyst",
+        "name": "Data Analyst",
+        "description": "数据分析师 - 负责内容效果分析、数据看板、策略优化建议",
+        "workspace": "~/.openclaw/workspace/content-team/analyst",
+        "model": { "primary": "anthropic/claude-sonnet-4-5" },
+        "skills": ["notion", "trello"],
+        "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["director", "operator", "seo", "researcher"],
+          "sessionVisibility": ["director", "operator", "seo", "researcher"]
+        },
+        "params": {
+          "role": "data-analyst",
+          "expertise": ["数据分析", "效果评估", "策略优化", "数据可视化", "A/B测试"],
+          "deliverables": ["数据报告", "效果评估", "优化建议", "数据看板"]
+        }
+      },
+      {
+        "id": "designer",
+        "name": "Visual Designer",
+        "description": "视觉设计师 - 负责封面图设计、配图、视觉规范、排版优化",
+        "workspace": "~/.openclaw/workspace/content-team/designer",
+        "model": { "primary": "openai/gpt-4o" },
+        "skills": ["notion", "trello", "openai-image-gen"],
+        "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
+        "a2a": {
+          "enabled": true,
+          "allowFrom": ["director", "editor", "operator"],
+          "sessionVisibility": ["director", "editor", "operator"]
+        },
+        "params": {
+          "role": "visual-designer",
+          "expertise": ["封面设计", "配图制作", "视觉规范", "排版优化", "品牌视觉"],
+          "deliverables": ["设计稿", "配图素材", "视觉规范", "排版模板"]
+        }
+      }
+    ]
+  },
+  "channels": {
+    "feishu": {
+      "enabled": true,
+      "botToken": "${FEISHU_BOT_TOKEN}",
+      "channels": {
+        "#content-team": { "allow": true, "requireMention": false },
+        "#content-review": { "allow": true, "requireMention": false },
+        "#content-ops": { "allow": true, "requireMention": false }
+      },
+      "dm": { "enabled": true, "allowFrom": ["*"] }
+    }
+  },
+  "tools": {
+    "allow": ["exec", "process", "read", "write", "edit", "apply_patch"],
+    "deny": [],
+    "exec": {
+      "backgroundMs": 10000,
+      "timeoutSec": 1800,
+      "cleanupMs": 1800000
+    }
+  },
+  "skills": {
+    "allowBundled": ["notion", "trello", "github", "blogwatcher", "summarize", "openai-image-gen"],
+    "entries": {
+      "notion": { "enabled": true },
+      "trello": { "enabled": true },
+      "github": { "enabled": true },
+      "blogwatcher": { "enabled": true },
+      "summarize": { "enabled": true },
+      "openai-image-gen": { "enabled": true }
+    }
+  },
+  "gateway": {
+    "mode": "local",
+    "port": 18791,
+    "bind": "loopback",
+    "controlUi": { "enabled": true, "basePath": "/content-team" }
+  }
+}
