@@ -41,6 +41,27 @@
 
 ## 共享协作
 
+### 工具分工
+
+团队使用多种工具，各工具有明确的使用边界：
+
+| 工具 | 用途 | 负责人 |
+|------|------|--------|
+| **Notion** | 文档协作：需求文档、架构文档、设计规范、会议纪要 | BA、Architect、UI |
+| **Trello** | 任务看板：用户故事卡、Bug 卡、Sprint 看板 | BA、QA、UI |
+| **GitHub** | 代码管理：PR、代码审查、CI 状态 | Architect、Frontend、Backend、QA |
+| **Slack** | 团队通信：消息确认、Pin 决策、频道通知 | 所有成员 |
+| **coding-agent** | 代码生成：编写、审查、重构代码 | Frontend、Backend |
+| **diagram** | 图表生成：架构图、流程图、时序图、ER 图 | BA、Architect、UI |
+| **api-test** | API 测试：发送请求、验证响应、断言检查 | QA |
+| **db** | 数据库操作：查询、Schema 检查、迁移 | Backend |
+| **product-manager** | 产品管理：需求优先级、竞品分析、路线图 | BA |
+
+**Notion vs Trello 分工原则**：
+- Notion 用于**文档**（长文本、规范、知识库）
+- Trello 用于**任务**（卡片、看板、状态流转）
+- 不要在 Trello 中写长文档，不要在 Notion 中跟踪任务状态
+
 ### 共享文件区
 共享文件区 (`/data/.openclaw/shared/`) 是团队协作的关键：
 

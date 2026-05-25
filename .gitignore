@@ -24,7 +24,14 @@ Thumbs.db
 # Environment & secrets
 .env
 .env.local
+.env.*.local
 auth-profiles.json
+*.key
+*.pem
+*.p12
+*.pfx
+credentials/
+.secrets.*
 
 # Python cache
 *.pyc
