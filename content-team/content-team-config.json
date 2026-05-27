@@ -35,7 +35,7 @@
         "description": "策划总监 - 唯一对接人，负责内容策略制定、选题规划、团队调度、质量终审",
         "workspace": "~/.openclaw/workspace/content-team/director",
         "model": { "primary": "zai/glm-5.1" },
-        "skills": ["feishu", "feishu-base", "feishu-task", "feishu-calendar", "feishu-doc"],
+        "skills": ["feishu", "feishu-base", "feishu-task", "feishu-calendar", "feishu-doc", "open-prose", "lobster"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": ["browser"] },
         "a2a": {
           "enabled": true,
@@ -55,7 +55,7 @@
         "description": "内容写手 - 负责公众号文章、小红书笔记、短视频脚本撰写，多风格改写",
         "workspace": "~/.openclaw/workspace/content-team/writer",
         "model": { "primary": "zai/glm-5" },
-        "skills": ["feishu", "feishu-doc"],
+        "skills": ["feishu", "feishu-doc", "open-prose", "byted-seedream-image-generate"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
           "enabled": true,
@@ -74,7 +74,7 @@
         "description": "资深编辑 - 负责去AI味、违禁词检查、风格统一、事实核查、润色定稿",
         "workspace": "~/.openclaw/workspace/content-team/editor",
         "model": { "primary": "zai/glm-5" },
-        "skills": ["feishu", "feishu-doc"],
+        "skills": ["feishu", "feishu-doc", "open-prose", "feishu-wiki"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
           "enabled": true,
@@ -93,7 +93,7 @@
         "description": "调研分析师 - 负责AI/科技热点追踪、竞品分析、行业趋势、选题挖掘",
         "workspace": "~/.openclaw/workspace/content-team/researcher",
         "model": { "primary": "zai/glm-5.1" },
-        "skills": ["feishu", "feishu-doc", "blogwatcher"],
+        "skills": ["feishu", "feishu-doc", "feishu-drive", "feishu-wiki", "blogwatcher"],
         "tools": { "allow": ["exec", "read", "write", "edit", "browser"], "deny": [] },
         "a2a": {
           "enabled": true,
@@ -112,7 +112,7 @@
         "description": "SEO/增长专家 - 负责关键词研究、标题优化、标签策略、平台SEO规则",
         "workspace": "~/.openclaw/workspace/content-team/seo",
         "model": { "primary": "zai/glm-5-turbo" },
-        "skills": ["feishu", "feishu-base"],
+        "skills": ["feishu", "feishu-base", "feishu-sheets"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
           "enabled": true,
@@ -131,7 +131,7 @@
         "description": "社媒运营 - 负责发布排期、多平台分发、互动管理、粉丝运营",
         "workspace": "~/.openclaw/workspace/content-team/operator",
         "model": { "primary": "zai/glm-5-turbo" },
-        "skills": ["feishu", "feishu-task", "feishu-calendar", "feishu-im"],
+        "skills": ["feishu", "feishu-task", "feishu-calendar", "feishu-im", "feishu-sheets", "feishu-drive"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
           "enabled": true,
@@ -150,7 +150,7 @@
         "description": "数据分析师 - 负责内容效果分析、数据看板、策略优化建议",
         "workspace": "~/.openclaw/workspace/content-team/analyst",
         "model": { "primary": "zai/glm-5" },
-        "skills": ["feishu", "feishu-base", "feishu-sheets"],
+        "skills": ["feishu", "feishu-base", "feishu-sheets", "chart-visualization"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
           "enabled": true,
@@ -169,7 +169,7 @@
         "description": "视觉设计师 - 负责封面图设计、配图、视觉规范、排版优化",
         "workspace": "~/.openclaw/workspace/content-team/designer",
         "model": { "primary": "zai/glm-5" },
-        "skills": ["feishu", "feishu-doc"],
+        "skills": ["feishu", "feishu-doc", "feishu-drive", "byted-seedream-image-generate"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
           "enabled": true,
@@ -188,6 +188,7 @@
     "feishu": {
       "enabled": true,
       "botToken": "${FEISHU_BOT_TOKEN}",
+      "dmPolicy": "pairing",
       "channels": {
         "#content-team": { "allow": true, "requireMention": false },
         "#content-review": { "allow": true, "requireMention": false },
@@ -206,7 +207,7 @@
     }
   },
   "skills": {
-    "allowBundled": ["feishu", "feishu-base", "feishu-doc", "feishu-im", "feishu-task", "feishu-calendar", "feishu-sheets", "blogwatcher"],
+    "allowBundled": ["feishu", "feishu-base", "feishu-doc", "feishu-im", "feishu-task", "feishu-calendar", "feishu-sheets", "feishu-drive", "feishu-wiki", "feishu-perm", "open-prose", "lobster", "blogwatcher", "byted-seedream-image-generate", "chart-visualization"],
     "entries": {
       "feishu": { "enabled": true },
       "feishu-base": { "enabled": true },
@@ -215,7 +216,14 @@
       "feishu-task": { "enabled": true },
       "feishu-calendar": { "enabled": true },
       "feishu-sheets": { "enabled": true },
-      "blogwatcher": { "enabled": true }
+      "feishu-drive": { "enabled": true },
+      "feishu-wiki": { "enabled": true },
+      "feishu-perm": { "enabled": true },
+      "open-prose": { "enabled": true },
+      "lobster": { "enabled": true },
+      "blogwatcher": { "enabled": true },
+      "byted-seedream-image-generate": { "enabled": true },
+      "chart-visualization": { "enabled": true }
     }
   },
   "gateway": {
