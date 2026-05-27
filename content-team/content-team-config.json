@@ -9,8 +9,8 @@
       "workspace": "~/.openclaw/workspace/content-team",
       "userTimezone": "Asia/Shanghai",
       "model": {
-        "primary": "copilot-proxy/claude-sonnet-4.5",
-        "fallbacks": ["copilot-proxy/gpt-4o", "copilot-proxy/claude-haiku-4.5"]
+        "primary": "zai/glm-5-turbo",
+        "fallbacks": ["zai/glm-5", "zai/glm-4.7"]
       },
       "thinkingDefault": "medium",
       "verboseDefault": "off",
@@ -18,7 +18,7 @@
       "timeoutSeconds": 600,
       "heartbeat": {
         "every": "1h",
-        "model": "copilot-proxy/claude-sonnet-4.5",
+        "model": "zai/glm-5-turbo",
         "target": "last",
         "directPolicy": "allow"
       },
@@ -34,7 +34,7 @@
         "name": "Content Director",
         "description": "策划总监 - 唯一对接人，负责内容策略制定、选题规划、团队调度、质量终审",
         "workspace": "~/.openclaw/workspace/content-team/director",
-        "model": { "primary": "copilot-proxy/claude-opus-4.6" },
+        "model": { "primary": "zai/glm-5.1" },
         "skills": ["feishu", "feishu-base", "feishu-task", "feishu-calendar", "feishu-doc"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": ["browser"] },
         "a2a": {
@@ -54,7 +54,7 @@
         "name": "Content Writer",
         "description": "内容写手 - 负责公众号文章、小红书笔记、短视频脚本撰写，多风格改写",
         "workspace": "~/.openclaw/workspace/content-team/writer",
-        "model": { "primary": "copilot-proxy/claude-sonnet-4.5" },
+        "model": { "primary": "zai/glm-5" },
         "skills": ["feishu", "feishu-doc"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
@@ -73,7 +73,7 @@
         "name": "Senior Editor",
         "description": "资深编辑 - 负责去AI味、违禁词检查、风格统一、事实核查、润色定稿",
         "workspace": "~/.openclaw/workspace/content-team/editor",
-        "model": { "primary": "copilot-proxy/claude-sonnet-4.5" },
+        "model": { "primary": "zai/glm-5" },
         "skills": ["feishu", "feishu-doc"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
@@ -92,7 +92,7 @@
         "name": "Research Analyst",
         "description": "调研分析师 - 负责AI/科技热点追踪、竞品分析、行业趋势、选题挖掘",
         "workspace": "~/.openclaw/workspace/content-team/researcher",
-        "model": { "primary": "copilot-proxy/gemini-2.5-pro" },
+        "model": { "primary": "zai/glm-5.1" },
         "skills": ["feishu", "feishu-doc", "blogwatcher"],
         "tools": { "allow": ["exec", "read", "write", "edit", "browser"], "deny": [] },
         "a2a": {
@@ -111,7 +111,7 @@
         "name": "SEO & Growth Specialist",
         "description": "SEO/增长专家 - 负责关键词研究、标题优化、标签策略、平台SEO规则",
         "workspace": "~/.openclaw/workspace/content-team/seo",
-        "model": { "primary": "copilot-proxy/claude-sonnet-4.5" },
+        "model": { "primary": "zai/glm-5-turbo" },
         "skills": ["feishu", "feishu-base"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
@@ -130,7 +130,7 @@
         "name": "Social Media Operator",
         "description": "社媒运营 - 负责发布排期、多平台分发、互动管理、粉丝运营",
         "workspace": "~/.openclaw/workspace/content-team/operator",
-        "model": { "primary": "copilot-proxy/claude-sonnet-4.5" },
+        "model": { "primary": "zai/glm-5-turbo" },
         "skills": ["feishu", "feishu-task", "feishu-calendar", "feishu-im"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
@@ -149,7 +149,7 @@
         "name": "Data Analyst",
         "description": "数据分析师 - 负责内容效果分析、数据看板、策略优化建议",
         "workspace": "~/.openclaw/workspace/content-team/analyst",
-        "model": { "primary": "copilot-proxy/claude-sonnet-4.5" },
+        "model": { "primary": "zai/glm-5" },
         "skills": ["feishu", "feishu-base", "feishu-sheets"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
@@ -168,7 +168,7 @@
         "name": "Visual Designer",
         "description": "视觉设计师 - 负责封面图设计、配图、视觉规范、排版优化",
         "workspace": "~/.openclaw/workspace/content-team/designer",
-        "model": { "primary": "copilot-proxy/gpt-4o" },
+        "model": { "primary": "zai/glm-5" },
         "skills": ["feishu", "feishu-doc"],
         "tools": { "allow": ["exec", "read", "write", "edit"], "deny": [] },
         "a2a": {
