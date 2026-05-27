@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@openclaw-cn/feishu": "^0.1.11",
     "openclaw": "^2026.3.13",
     "openclaw-cn": "^0.1.8-fix.3"
   }
