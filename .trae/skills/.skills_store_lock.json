@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving-agent": {
+      "name": "self-improving-agent",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=self-improving-agent",
+      "source": "community",
+      "version": "1.0.11",
+      "installedAt": "2026-05-29T11:48:57Z"
+    },
+    "github": {
+      "name": "Github",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=github",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-29T11:50:01Z"
+    },
+    "frontend-design": {
+      "name": "Frontend Design",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=frontend-design",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-29T11:50:35Z"
+    },
+    "weather": {
+      "name": "Weather",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=weather",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-29T11:50:57Z"
+    },
+    "brave-search": {
+      "name": "Brave Search",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=brave-search",
+      "source": "community",
+      "version": "1.0.1",
+      "installedAt": "2026-05-29T11:51:17Z"
+    },
+    "summarize": {
+      "name": "Summarize",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=summarize",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-29T11:51:19Z"
+    },
+    "notion": {
+      "name": "Notion",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=notion",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-29T11:51:41Z"
+    },
+    "trello": {
+      "name": "Trello",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=trello",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-29T11:51:43Z"
+    },
+    "find-skills": {
+      "name": "Find Skills",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=find-skills",
+      "source": "community",
+      "version": "0.1.0",
+      "installedAt": "2026-05-29T11:58:09Z"
+    },
+    "tavily-search": {
+      "name": "Tavily Web Search",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=tavily-search",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-29T11:58:09Z"
+    },
+    "youtube-watcher": {
+      "name": "YouTube Watcher",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=youtube-watcher",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-29T11:58:09Z"
+    },
+    "stock-analysis": {
+      "name": "Stock Analysis",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=stock-analysis",
+      "source": "community",
+      "version": "6.2.0",
+      "installedAt": "2026-05-29T11:58:09Z"
+    }
+  }
+}
