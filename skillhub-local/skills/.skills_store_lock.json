@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skills": {
+      "name": "Find Skills",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=find-skills",
+      "source": "community",
+      "version": "0.1.0",
+      "installedAt": "2026-05-29T11:57:08Z"
+    },
+    "tavily-search": {
+      "name": "Tavily Web Search",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=tavily-search",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-29T11:57:11Z"
+    },
+    "youtube-watcher": {
+      "name": "YouTube Watcher",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=youtube-watcher",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-29T11:57:13Z"
+    },
+    "stock-analysis": {
+      "name": "Stock Analysis",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=stock-analysis",
+      "source": "community",
+      "version": "6.2.0",
+      "installedAt": "2026-05-29T11:57:14Z"
+    }
+  }
+}
