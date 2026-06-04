@@ -1,6 +1,8 @@
 ---
 name: find-skills
-description: Helps users discover and install agent skills when they ask questions like "how do I do X", "find a skill for X", "is there a skill that can...", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.
+description: |
+  Helps users discover and install agent skills when they ask questions like "how do I do X", "find a skill for X", "is there a skill that can...", or express interest in extending capabilities.
+  Triggers: "找skill"、"安装skill"、"发现技能"、"扩展能力"、"技能推荐"
 ---
 
 # Find Skills
@@ -123,7 +125,6 @@ If no relevant skills exist:
 3. Suggest the user could create their own skill with `npx skills init`
 
 Example:
-
 ```
 I searched for skills related to "xyz" but didn't find any matches.
 I can still help you with this task directly! Would you like me to proceed?
@@ -131,3 +132,42 @@ I can still help you with this task directly! Would you like me to proceed?
 If this is something you do often, you could create your own skill:
 npx skills init my-xyz-skill
 ```
+
+---
+
+## 🔴 CHECKPOINT · Before Installation
+
+Before installing any skill, confirm with user:
+"找到以下技能：[skill-name]。确认安装吗？安装位置：~/.trae/skills/[skill-name]"
+
+---
+
+## 失败处理
+
+| 场景 | 处理方式 |
+|------|----------|
+| npx skills 命令不存在 | 提示用户安装：`npm install -g @skills/cli` |
+| 网络失败 | 重试2次（间隔3秒），仍失败则提示稍后重试 |
+| 技能不存在 | 提示用户尝试其他关键词 |
+| 安装目录已存在 | 提示用户使用 `--force` 参数覆盖 |
+| 权限不足 | 提示用户以管理员身份运行或检查目录权限 |
+
+---
+
+## 反例清单（What NOT to do）
+
+1. **不要未经确认就安装** — 安装前必须获得用户明确同意
+2. **不要推荐不安全的技能** — 只推荐来自可信来源的技能
+3. **不要忽略用户偏好** — 如果用户明确说"不安装"，立即停止
+4. **不要安装重复的技能** — 先检查是否已安装
+5. **不要在网络不可用时强行安装** — 告知用户网络问题，提供替代方案
+
+---
+
+## 输出格式规范
+
+每次输出包含：
+- [ ] 技能名称和描述
+- [ ] 安装命令
+- [ ] 来源链接
+- [ ] 确认提示（安装前）
