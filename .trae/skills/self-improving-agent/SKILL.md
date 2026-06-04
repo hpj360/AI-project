@@ -283,12 +283,25 @@ Other status values:
 
 When a learning is broadly applicable (not a one-off fix), promote it to permanent project memory.
 
+### 🔴 CHECKPOINT · Before Any Promotion
+
+Before promoting a learning to CLAUDE.md, AGENTS.md, or any agent context file:
+- Confirm: "这条经验要固化到项目文档中吗？会永久修改 [文件名]，确认后我来执行。"
+- If user says no → respect the decision, keep the learning in `.learnings/`
+- If user says yes → proceed with promotion
+
 ### When to Promote
 
+Promote when ALL are true:
 - Learning applies across multiple files/features
 - Knowledge any contributor (human or AI) should know
 - Prevents recurring mistakes
 - Documents project-specific conventions
+
+### 🔴 CHECKPOINT · After Promotion
+
+After promoting, confirm with user:
+"已将学习固化到 [文件名]。这条 `.learnings/` 记录要保留还是标记为 `promoted`？"
 
 ### Promotion Targets
 
@@ -543,6 +556,13 @@ This is optional. The recommended default is activator-only setup; enable `PostT
 | `scripts/error-detector.sh` | PostToolUse (Bash) | Triggers on command errors |
 
 See `references/hooks-setup.md` for detailed configuration and troubleshooting.
+
+## 🔴 CHECKPOINT · Before Extracting a Learning as a Skill
+
+Before extracting a learning to a new reusable skill:
+- Confirm: "这条经验要提取成独立skill吗？会在 skills/ 下创建新目录。"
+- If user says yes → proceed with extraction workflow below
+- If user says no → keep in `.learnings/`
 
 ## Automatic Skill Extraction
 
