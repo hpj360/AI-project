@@ -326,3 +326,198 @@ agent-browser --cdp 9222 snapshot                    # Connect via CDP
 
 - Skill issues: Open an issue at https://github.com/TheSethRose/Agent-Browser-CLI
 - agent-browser CLI issues: Open an issue at https://github.com/vercel-labs/agent-browser
+
+---
+
+## 标准工作流
+
+### Step 1: 打开页面
+
+```bash
+agent-browser open <url>
+```
+
+**CHECKPOINT**: 页面是否成功加载？
+- 检查方式：`agent-browser get url` 确认 URL 正确
+- 失败处理：如果超时，增加 `--timeout 30000`；如果被拦截，尝试 `--headed` 查看实际情况
+
+### Step 2: 获取页面快照
+
+```bash
+agent-browser snapshot -i
+```
+
+**CHECKPOINT**: 是否获取到交互元素？
+- 成功标志：输出包含 `[ref=e1]` 等元素引用
+- 失败处理：如果输出为空，页面可能还在加载，执行 `agent-browser wait 2000` 后重试
+
+### Step 3: 执行交互
+
+```bash
+agent-browser click @e1
+agent-browser fill @e2 "text"
+```
+
+**CHECKPOINT**: 操作是否生效？
+- 检查方式：重新 `snapshot -i` 确认状态变化
+- 失败处理：如果元素不存在，重新获取快照；如果点击无反应，尝试 `agent-browser wait @e1` 等待元素可交互
+
+### Step 4: 验证结果
+
+```bash
+agent-browser get text @e1
+agent-browser wait --url "/success"
+```
+
+**CHECKPOINT**: 结果是否符合预期？
+- 成功标志：页面显示预期内容或跳转到预期 URL
+- 失败处理：检查 `agent-browser errors` 查看页面错误
+
+---
+
+## 失败处理流程
+
+### 常见失败场景
+
+| 场景 | 原因 | 处理方式 |
+|------|------|---------|
+| 元素不存在 | 页面未加载完成 | `agent-browser wait @e1` 或 `wait --load networkidle` |
+| 点击无反应 | 元素被遮挡或不可交互 | `agent-browser scrollintoview @e1` 后重试 |
+| 超时错误 | 页面响应慢 | 增加 `--timeout 60000` |
+| 验证码拦截 | 网站有反爬机制 | 使用 `--headed` 手动完成验证，或 `state save` 保存登录态 |
+| 登录失效 | Session 过期 | `state load auth.json` 恢复登录态 |
+| 网络错误 | 连接问题 | 检查网络，使用 `agent-browser network requests` 查看请求状态 |
+
+### 失败时的用户通知
+
+当浏览器自动化失败时，**明确告知用户**：
+
+1. 具体失败原因（不是笼统的"出错了"）
+2. 当前页面状态（URL、标题、可见元素）
+3. 建议的修复方案
+
+**示例**：
+```
+❌ 元素 @e3 点击失败：元素不可见
+
+当前页面：https://example.com/form
+页面标题：表单提交
+
+建议修复：
+- 执行 `agent-browser scrollintoview @e3` 滚动到元素
+- 或使用 `agent-browser wait @e3` 等待元素可交互
+
+是否需要我尝试这些方案？
+```
+
+---
+
+## 反例与黑名单
+
+### 禁止行为
+
+| 禁止 | 原因 | 替代方案 |
+|------|------|---------|
+| ❌ 不获取快照直接操作 | ref 可能已失效 | 每次操作前 `snapshot -i` |
+| ❌ 硬编码 ref（如 @e1） | ref 随页面变化 | 从快照动态获取 ref |
+| ❌ 不等待页面加载 | 元素可能不存在 | `wait --load networkidle` |
+| ❌ 无限循环等待 | 可能永远不成功 | 设置 `--timeout` 上限 |
+| ❌ 在无头模式下调试 | 看不到实际页面 | 使用 `--headed` 调试 |
+| ❌ 忽略页面错误 | 可能导致后续失败 | 定期 `agent-browser errors` |
+
+### 错误示例（反例）
+
+**❌ 错误示例 1：不获取快照直接操作**
+
+```bash
+agent-browser open example.com
+agent-browser click @e1  # ref 可能已过期
+```
+
+**问题**：页面加载后 ref 会变化，直接使用旧 ref 会失败
+
+**✅ 正确做法**：
+
+```bash
+agent-browser open example.com
+agent-browser wait --load networkidle
+agent-browser snapshot -i  # 获取最新 ref
+agent-browser click @e1    # 使用新 ref
+```
+
+---
+
+**❌ 错误示例 2：不处理验证码**
+
+```bash
+agent-browser open https://example.com/protected
+agent-browser snapshot -i  # 返回验证码页面
+agent-browser fill @e1 "data"  # 填写到验证码输入框
+```
+
+**问题**：无头模式下无法处理验证码
+
+**✅ 正确做法**：
+
+```bash
+# 方案 1：使用 headed 模式手动完成验证
+agent-browser open https://example.com/protected --headed
+# 用户手动完成验证码
+agent-browser state save auth.json  # 保存登录态
+
+# 方案 2：加载已保存的登录态
+agent-browser state load auth.json
+agent-browser open https://example.com/protected
+```
+
+---
+
+**❌ 错误示例 3：无限等待**
+
+```bash
+agent-browser wait @e1  # 如果元素永远不出现，会一直等待
+```
+
+**问题**：可能导致进程卡死
+
+**✅ 正确做法**：
+
+```bash
+agent-browser wait @e1 --timeout 10000  # 最多等待 10 秒
+# 或检查元素是否存在
+agent-browser is visible @e1 || echo "元素不存在"
+```
+
+---
+
+## FAQ 常见问题
+
+**Q: 如何处理需要登录的页面？**
+A: 使用 `state save` 保存登录态，后续用 `state load` 加载。首次登录可用 `--headed` 手动完成。
+
+**Q: 如何处理动态加载的内容？**
+A: 使用 `wait --text "关键词"` 或 `wait --load networkidle` 等待内容加载完成。
+
+**Q: 如何处理 iframe 中的元素？**
+A: 使用 `agent-browser frame "#iframe_id"` 切换到 iframe，操作完成后用 `frame main` 返回主框架。
+
+**Q: 如何处理弹窗/对话框？**
+A: 使用 `agent-browser dialog accept` 或 `dialog dismiss` 处理 JavaScript 弹窗。
+
+**Q: 如何调试看不到的问题？**
+A: 使用 `--headed` 显示浏览器窗口，或 `screenshot` 截图查看当前页面状态。
+
+**Q: ref 为什么会变化？**
+A: 页面导航或 DOM 更新后，元素的 ref 会重新分配。每次页面变化后都需要重新 `snapshot`。
+
+**Q: 如何处理多标签页？**
+A: 使用 `agent-browser tab` 系列命令管理多标签页，`tab 2` 切换到第二个标签页。
+
+**Q: 如何模拟移动端访问？**
+A: 使用 `agent-browser set device "iPhone 14"` 设置设备模拟。
+
+**Q: 如何处理文件上传？**
+A: 使用 `agent-browser upload @e1 file.pdf` 上传文件，@e1 是 file input 元素的 ref。
+
+**Q: 如何获取页面中的所有链接？**
+A: 使用 `agent-browser snapshot` 获取完整页面结构，或 `agent-browser eval "Array.from(document.querySelectorAll('a')).map(a=>a.href)"` 执行 JavaScript 提取。

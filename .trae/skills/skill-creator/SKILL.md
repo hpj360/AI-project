@@ -483,3 +483,183 @@ Repeating one more time the core loop here for emphasis:
 Please add steps to your TodoList, if you have such a thing, to make sure you don't forget. If you're in Cowork, please specifically put "Create evals JSON and run `eval-viewer/generate_review.py` so human can review test cases" in your TodoList to make sure it happens.
 
 Good luck!
+
+---
+
+## CHECKPOINT 设计
+
+在 skill 创建流程的关键节点，执行以下检查：
+
+### CHECKPOINT 1: 意图确认后
+
+**触发时机**：用户确认 skill 的目标、触发条件、输出格式后
+
+**检查项**：
+- [ ] skill 名称符合 kebab-case 规范
+- [ ] description 包含触发场景（"当用户..."）
+- [ ] 已明确输出格式（文件/文本/JSON）
+- [ ] 用户确认是否需要测试用例
+
+**失败处理**：如果用户未确认，暂停并询问"这些理解正确吗？"
+
+### CHECKPOINT 2: SKILL.md 草稿完成后
+
+**触发时机**：SKILL.md 初稿写完，准备测试前
+
+**检查项**：
+- [ ] YAML frontmatter 完整（name + description）
+- [ ] description 长度 50-1024 字符
+- [ ] 包含至少一个示例
+- [ ] 包含失败处理说明
+
+**失败处理**：如果缺少关键内容，提示"建议补充：[缺失项]"
+
+### CHECKPOINT 3: 测试用例执行后
+
+**触发时机**：测试用例运行完成，准备评估前
+
+**检查项**：
+- [ ] 至少 2 个测试用例通过
+- [ ] 输出格式符合预期
+- [ ] 无严重错误或异常
+
+**失败处理**：如果测试失败，分析原因并返回修改 SKILL.md
+
+---
+
+## 失败处理流程
+
+### 常见失败场景
+
+| 场景 | 原因 | 处理方式 |
+|------|------|---------|
+| 测试用例全部失败 | SKILL.md 逻辑有误 | 返回修改，增加更具体的指令 |
+| 部分测试失败 | 边界情况处理不足 | 补充边界情况说明和反例 |
+| 触发率低 | description 不够明确 | 运行描述优化脚本 |
+| 评估器报错 | JSON 格式错误 | 检查 evals.json 语法 |
+| 子代理超时 | 测试用例太复杂 | 简化用例或增加超时时间 |
+
+### 失败时的用户通知
+
+当 skill 创建失败时，**明确告知用户**：
+
+1. 具体失败原因（不是笼统的"出错了"）
+2. 建议的修复方案
+3. 是否需要用户提供更多信息
+
+**示例**：
+```
+❌ 测试用例 TC-002 失败：skill 未正确处理空输入
+
+建议修复：
+- 在 SKILL.md 中增加"输入为空时的处理"说明
+- 添加反例：当用户未提供必要参数时，应询问而非猜测
+
+是否需要我帮您修改 SKILL.md？
+```
+
+---
+
+## 反例与黑名单
+
+### 禁止行为
+
+| 禁止 | 原因 | 替代方案 |
+|------|------|---------|
+| ❌ 在 description 中写教程 | description 是触发机制，不是文档 | 教程写在 SKILL.md 正文中 |
+| ❌ SKILL.md 超过 500 行 | 加载慢，token 消耗大 | 拆分为 references/ |
+| ❌ 硬编码敏感信息 | 安全风险 | 使用环境变量或配置文件 |
+| ❌ 创建误导性 skill | 违反"无惊吓原则" | skill 内容应与描述一致 |
+| ❌ 无限制调用外部 API | 成本失控、速率限制 | 增加重试次数上限和超时 |
+
+### 错误示例（反例）
+
+**❌ 错误示例 1：description 过于简单**
+
+```yaml
+description: A skill for data processing.
+```
+
+**问题**：无法触发，用户不知道何时使用
+
+**✅ 正确做法**：
+
+```yaml
+description: 处理 CSV/Excel 数据清洗和转换。当用户提到"清洗数据""处理表格""转换格式"或需要数据预处理时，使用此 skill。
+```
+
+---
+
+**❌ 错误示例 2：无失败处理**
+
+```markdown
+## Workflow
+1. 读取文件
+2. 处理数据
+3. 输出结果
+```
+
+**问题**：文件不存在时 Agent 会卡住
+
+**✅ 正确做法**：
+
+```markdown
+## Workflow
+1. 读取文件
+   - CHECKPOINT: 文件存在？
+   - 失败处理：告知用户"文件不存在，请检查路径"
+2. 处理数据
+   - 失败处理：记录错误，跳过该行
+3. 输出结果
+```
+
+---
+
+**❌ 错误示例 3：测试用例无断言**
+
+```json
+{
+  "prompt": "创建一个 skill",
+  "expected_output": "应该能工作"
+}
+```
+
+**问题**：无法客观判断成功/失败
+
+**✅ 正确做法**：
+
+```json
+{
+  "prompt": "创建一个 skill 用于读取 PDF",
+  "assertions": [
+    {"type": "file_exists", "path": "pdf-reader/SKILL.md"},
+    {"type": "contains", "content": "description:"},
+    {"type": "contains", "content": "pdf"}
+  ]
+}
+```
+
+---
+
+## FAQ 常见问题
+
+**Q: skill-creator 和 skill-vetter 有什么区别？**
+A: skill-creator 用于**创建和优化** skill，skill-vetter 用于**安全审核** skill。建议先用 skill-creator 创建，再用 skill-vetter 审核。
+
+**Q: 测试用例要写多少个？**
+A: 建议 2-5 个。太少覆盖不全，太多运行时间长。关键场景必须覆盖。
+
+**Q: evals.json 放在哪里？**
+A: 放在 skill 目录下的 `evals/evals.json`。
+
+**Q: 如何判断 skill 质量好坏？**
+A: 运行批量评估器：`python3 evals/scripts/batch_eval.py`，查看分数和等级。A/B 级为合格。
+
+**Q: description 优化后触发率还是低怎么办？**
+A: 检查是否"过于谦虚"——description 应该"pushy"一些，明确告诉 Agent 何时使用。
+
+**Q: 子代理超时怎么办？**
+A: 简化测试用例，或拆分为多个小用例。避免在单个用例中测试多个功能。
+
+**Q: 如何更新已安装的 skill？**
+A: 修改 SKILL.md 后，重新运行 `skillhub install <path>` 或手动替换文件。
