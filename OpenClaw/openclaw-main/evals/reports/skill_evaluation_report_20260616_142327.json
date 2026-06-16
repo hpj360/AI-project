@@ -1,0 +1,1522 @@
+{
+  "evaluated_at": "2026-06-16T14:23:27.106056",
+  "total_skills": 22,
+  "successful": 22,
+  "failed": 0,
+  "grade_distribution": {
+    "A+": 3,
+    "A": 6,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "F": 13
+  },
+  "average_score": 51.5,
+  "results": [
+    {
+      "skill": "summarize",
+      "path": "/workspace/.trae/skills/summarize",
+      "total_score": 97.14,
+      "max_score": 100,
+      "percentage": 97.1,
+      "grade": "A+ (优秀)",
+      "scores": {
+        "deterministic": 20,
+        "deterministic_max": 20,
+        "model": 60,
+        "model_max": 60,
+        "human": 17.14,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": true
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": true
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": true
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": true
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": true
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": true
+          }
+        ]
+      },
+      "issues": [],
+      "recommendations": [
+        "【反例覆盖】增加禁止行为和错误示例，降低 Agent 犯错概率"
+      ]
+    },
+    {
+      "skill": "skill-creator",
+      "path": "/workspace/.trae/skills/skill-creator",
+      "total_score": 96.14,
+      "max_score": 100,
+      "percentage": 96.1,
+      "grade": "A+ (优秀)",
+      "scores": {
+        "deterministic": 19,
+        "deterministic_max": 20,
+        "model": 60,
+        "model_max": 60,
+        "human": 17.14,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": true
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": true
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": true
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": true
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": true
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": true
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "SKILL.md 过长 (665 行)，建议拆分为 references/"
+      ],
+      "recommendations": [
+        "【反例覆盖】增加禁止行为和错误示例，降低 Agent 犯错概率"
+      ]
+    },
+    {
+      "skill": "self-improving-agent",
+      "path": "/workspace/.trae/skills/self-improving-agent",
+      "total_score": 92.14,
+      "max_score": 100,
+      "percentage": 92.1,
+      "grade": "A+ (优秀)",
+      "scores": {
+        "deterministic": 18,
+        "deterministic_max": 20,
+        "model": 57,
+        "model_max": 60,
+        "human": 17.14,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": true
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": true
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": true
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": true
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": true
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": true
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "SKILL.md 过长 (837 行)，建议拆分为 references/",
+        "错误类型覆盖不足，建议增加更多具体错误场景"
+      ],
+      "recommendations": [
+        "【反例覆盖】增加禁止行为和错误示例，降低 Agent 犯错概率"
+      ]
+    },
+    {
+      "skill": "agent-browser",
+      "path": "/workspace/.trae/skills/agent-browser",
+      "total_score": 86.57,
+      "max_score": 100,
+      "percentage": 86.6,
+      "grade": "A (良好)",
+      "scores": {
+        "deterministic": 18,
+        "deterministic_max": 20,
+        "model": 60,
+        "model_max": 60,
+        "human": 8.57,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": true
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": true
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": true
+          }
+        ]
+      },
+      "issues": [
+        "SKILL.md 过长 (523 行)，建议拆分为 references/"
+      ],
+      "recommendations": [
+        "【反例覆盖】增加禁止行为和错误示例，降低 Agent 犯错概率"
+      ]
+    },
+    {
+      "skill": "find-skills",
+      "path": "/workspace/.trae/skills/find-skills",
+      "total_score": 86.29,
+      "max_score": 100,
+      "percentage": 86.3,
+      "grade": "A (良好)",
+      "scores": {
+        "deterministic": 18,
+        "deterministic_max": 20,
+        "model": 54,
+        "model_max": 60,
+        "human": 14.29,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": true
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": true
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": true
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": true
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": true
+          }
+        ]
+      },
+      "issues": [
+        "缺少边界情况处理",
+        "缺少输入或输出的明确定义",
+        "错误类型覆盖不足，建议增加更多具体错误场景"
+      ],
+      "recommendations": [
+        "【反例覆盖】增加禁止行为和错误示例，降低 Agent 犯错概率"
+      ]
+    },
+    {
+      "skill": "tavily-search",
+      "path": "/workspace/.trae/skills/tavily-search",
+      "total_score": 85.29,
+      "max_score": 100,
+      "percentage": 85.3,
+      "grade": "A (良好)",
+      "scores": {
+        "deterministic": 19,
+        "deterministic_max": 20,
+        "model": 52,
+        "model_max": 60,
+        "human": 14.29,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": true
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": true
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": true
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": true
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": true
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少输入或输出的明确定义",
+        "缺少分层执行策略（如 Layer 1/2/3）"
+      ],
+      "recommendations": [
+        "【反例覆盖】增加禁止行为和错误示例，降低 Agent 犯错概率"
+      ]
+    },
+    {
+      "skill": "wechat-reader",
+      "path": "/workspace/.trae/skills/wechat-reader",
+      "total_score": 83.43,
+      "max_score": 100,
+      "percentage": 83.4,
+      "grade": "A (良好)",
+      "scores": {
+        "deterministic": 17,
+        "deterministic_max": 20,
+        "model": 55,
+        "model_max": 60,
+        "human": 11.43,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": true
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": true
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": true
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": true
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少边界情况处理",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "Skill 质量良好，建议定期回归测试保持稳定性"
+      ]
+    },
+    {
+      "skill": "skill-manager",
+      "path": "/workspace/.trae/skills/skill-manager",
+      "total_score": 83.29,
+      "max_score": 100,
+      "percentage": 83.3,
+      "grade": "A (良好)",
+      "scores": {
+        "deterministic": 17,
+        "deterministic_max": 20,
+        "model": 52,
+        "model_max": 60,
+        "human": 14.29,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": true
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": true
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": true
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": true
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": true
+          }
+        ]
+      },
+      "issues": [
+        "描述过短 (35 字符)，建议增加触发场景",
+        "缺少边界情况处理",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "错误类型覆盖不足，建议增加更多具体错误场景"
+      ],
+      "recommendations": [
+        "【反例覆盖】增加禁止行为和错误示例，降低 Agent 犯错概率"
+      ]
+    },
+    {
+      "skill": "douyin-reader",
+      "path": "/workspace/.trae/skills/douyin-reader",
+      "total_score": 82.43,
+      "max_score": 100,
+      "percentage": 82.4,
+      "grade": "A (良好)",
+      "scores": {
+        "deterministic": 19,
+        "deterministic_max": 20,
+        "model": 52,
+        "model_max": 60,
+        "human": 11.43,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": true
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": true
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": true
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": true
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "错误类型覆盖不足，建议增加更多具体错误场景",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "Skill 质量良好，建议定期回归测试保持稳定性"
+      ]
+    },
+    {
+      "skill": "weather",
+      "path": "/workspace/.trae/skills/weather",
+      "total_score": 33.0,
+      "max_score": 100,
+      "percentage": 33.0,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 11,
+        "deterministic_max": 20,
+        "model": 22,
+        "model_max": 60,
+        "human": 0.0,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "SKILL.md 过短 (49 行)，内容可能不完整",
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入或输出的明确定义",
+        "缺少 FAQ 部分",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少判断/分支逻辑说明",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "frontend-design",
+      "path": "/workspace/.trae/skills/frontend-design",
+      "total_score": 32.0,
+      "max_score": 100,
+      "percentage": 32.0,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 9,
+        "deterministic_max": 20,
+        "model": 23,
+        "model_max": 60,
+        "human": 0.0,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "SKILL.md 过短 (42 行)，内容可能不完整",
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少失败处理说明",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入和输出的定义",
+        "缺少 FAQ 部分",
+        "内容可以更具体，增加具体命令和路径",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "brave-search",
+      "path": "/workspace/.trae/skills/brave-search",
+      "total_score": 29.86,
+      "max_score": 100,
+      "percentage": 29.9,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 10,
+        "deterministic_max": 20,
+        "model": 17,
+        "model_max": 60,
+        "human": 2.86,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": true
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少失败处理说明",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入或输出的明确定义",
+        "缺少 FAQ 部分",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "youtube-watcher",
+      "path": "/workspace/.trae/skills/youtube-watcher",
+      "total_score": 29.0,
+      "max_score": 100,
+      "percentage": 29.0,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 12,
+        "deterministic_max": 20,
+        "model": 17,
+        "model_max": 60,
+        "human": 0.0,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "SKILL.md 过短 (48 行)，内容可能不完整",
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入或输出的明确定义",
+        "缺少 FAQ 部分",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "github",
+      "path": "/workspace/.trae/skills/github",
+      "total_score": 28.0,
+      "max_score": 100,
+      "percentage": 28.0,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 11,
+        "deterministic_max": 20,
+        "model": 17,
+        "model_max": 60,
+        "human": 0.0,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "SKILL.md 过短 (47 行)，内容可能不完整",
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入或输出的明确定义",
+        "缺少 FAQ 部分",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "notion",
+      "path": "/workspace/.trae/skills/notion",
+      "total_score": 28.0,
+      "max_score": 100,
+      "percentage": 28.0,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 11,
+        "deterministic_max": 20,
+        "model": 17,
+        "model_max": 60,
+        "human": 0.0,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少失败处理说明",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入或输出的明确定义",
+        "缺少 FAQ 部分",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "stock-analysis",
+      "path": "/workspace/.trae/skills/stock-analysis",
+      "total_score": 28.0,
+      "max_score": 100,
+      "percentage": 28.0,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 11,
+        "deterministic_max": 20,
+        "model": 17,
+        "model_max": 60,
+        "human": 0.0,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少失败处理说明",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入或输出的明确定义",
+        "缺少 FAQ 部分",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "obsidian",
+      "path": "/workspace/.trae/skills/obsidian",
+      "total_score": 27.86,
+      "max_score": 100,
+      "percentage": 27.9,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 10,
+        "deterministic_max": 20,
+        "model": 15,
+        "model_max": 60,
+        "human": 2.86,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": true
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少失败处理说明",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入和输出的定义",
+        "缺少使用示例",
+        "缺少 FAQ 部分",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "aipm-news-digest",
+      "path": "/workspace/.trae/skills/aipm-news-digest",
+      "total_score": 27.0,
+      "max_score": 100,
+      "percentage": 27.0,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 10,
+        "deterministic_max": 20,
+        "model": 17,
+        "model_max": 60,
+        "human": 0.0,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少失败处理说明",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入或输出的明确定义",
+        "缺少 FAQ 部分",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "product-manager-skills",
+      "path": "/workspace/.trae/skills/product-manager-skills",
+      "total_score": 25.86,
+      "max_score": 100,
+      "percentage": 25.9,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 15,
+        "deterministic_max": 20,
+        "model": 8,
+        "model_max": 60,
+        "human": 2.86,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": true
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少输入和输出的定义",
+        "缺少使用示例",
+        "缺少 FAQ 部分",
+        "内容可以更具体，增加具体命令和路径",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "trello",
+      "path": "/workspace/.trae/skills/trello",
+      "total_score": 25.0,
+      "max_score": 100,
+      "percentage": 25.0,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 10,
+        "deterministic_max": 20,
+        "model": 15,
+        "model_max": 60,
+        "human": 0.0,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少失败处理说明",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入和输出的定义",
+        "缺少 FAQ 部分",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "skill-vetter",
+      "path": "/workspace/.trae/skills/skill-vetter",
+      "total_score": 14.0,
+      "max_score": 100,
+      "percentage": 14.0,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 9,
+        "deterministic_max": 20,
+        "model": 5,
+        "model_max": 60,
+        "human": 0.0,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "SKILL.md 过短 (28 行)，内容可能不完整",
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少失败处理说明",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入和输出的定义",
+        "缺少使用示例",
+        "缺少 FAQ 部分",
+        "内容过于泛泛，缺少具体命令和路径",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    },
+    {
+      "skill": "product-manager",
+      "path": "/workspace/.trae/skills/product-manager",
+      "total_score": 13.0,
+      "max_score": 100,
+      "percentage": 13.0,
+      "grade": "F (不合格)",
+      "scores": {
+        "deterministic": 10,
+        "deterministic_max": 20,
+        "model": 3,
+        "model_max": 60,
+        "human": 0.0,
+        "human_max": 20,
+        "human_checklist": [
+          {
+            "item": "复杂输入处理",
+            "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+            "evidence": false
+          },
+          {
+            "item": "多轮交互支持",
+            "check": "Skill 是否支持多轮对话中的上下文保持",
+            "evidence": false
+          },
+          {
+            "item": "安全与隐私",
+            "check": "Skill 是否考虑了数据安全和隐私保护",
+            "evidence": false
+          },
+          {
+            "item": "文档完整性",
+            "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+            "evidence": false
+          },
+          {
+            "item": "可扩展性",
+            "check": "Skill 是否容易扩展新功能或适配新场景",
+            "evidence": false
+          },
+          {
+            "item": "输出可读性",
+            "check": "Skill 的输出是否清晰、结构化、易于理解",
+            "evidence": false
+          },
+          {
+            "item": "反馈机制",
+            "check": "Skill 是否提供清晰的进度反馈和状态说明",
+            "evidence": false
+          }
+        ]
+      },
+      "issues": [
+        "缺少明确的步骤/流程说明",
+        "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+        "缺少失败处理说明",
+        "缺少反例/黑名单，Agent 容易犯错",
+        "缺少边界情况处理",
+        "缺少输入和输出的定义",
+        "缺少使用示例",
+        "缺少 FAQ 部分",
+        "内容可以更具体，增加具体命令和路径",
+        "缺少分层执行策略（如 Layer 1/2/3）",
+        "步骤缺少序号，建议用 Step 1/2/3 或 ①②③ 标注",
+        "缺少判断/分支逻辑说明",
+        "缺少失败处理流程",
+        "缺少具体错误类型说明",
+        "失败时缺少用户通知或替代方案",
+        "缺少禁止行为说明",
+        "缺少错误示例（反例）"
+      ],
+      "recommendations": [
+        "【结构合规】完善 YAML frontmatter，确保 name/description 完整；增加 CHECKPOINT 和失败处理",
+        "【内容质量】增加具体示例、FAQ、输入/输出定义；内容更具体化",
+        "【工作流】增加分层执行策略（Layer 1/2/3），明确步骤序号和判断分支"
+      ]
+    }
+  ]
+}
