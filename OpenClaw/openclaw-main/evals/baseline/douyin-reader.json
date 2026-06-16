@@ -1,0 +1,61 @@
+{
+  "skill": "douyin-reader",
+  "path": "/workspace/.trae/skills/douyin-reader",
+  "total_score": 82.43,
+  "max_score": 100,
+  "percentage": 82.4,
+  "grade": "A (良好)",
+  "scores": {
+    "deterministic": 19,
+    "deterministic_max": 20,
+    "model": 52,
+    "model_max": 60,
+    "human": 11.43,
+    "human_max": 20,
+    "human_checklist": [
+      {
+        "item": "复杂输入处理",
+        "check": "Skill 是否能处理复杂/异常的输入（如混合文本和 URL、多个链接等）",
+        "evidence": false
+      },
+      {
+        "item": "多轮交互支持",
+        "check": "Skill 是否支持多轮对话中的上下文保持",
+        "evidence": true
+      },
+      {
+        "item": "安全与隐私",
+        "check": "Skill 是否考虑了数据安全和隐私保护",
+        "evidence": false
+      },
+      {
+        "item": "文档完整性",
+        "check": "Skill 是否有足够的文档说明，新用户能否快速上手",
+        "evidence": true
+      },
+      {
+        "item": "可扩展性",
+        "check": "Skill 是否容易扩展新功能或适配新场景",
+        "evidence": true
+      },
+      {
+        "item": "输出可读性",
+        "check": "Skill 的输出是否清晰、结构化、易于理解",
+        "evidence": true
+      },
+      {
+        "item": "反馈机制",
+        "check": "Skill 是否提供清晰的进度反馈和状态说明",
+        "evidence": false
+      }
+    ]
+  },
+  "issues": [
+    "缺少 CHECKPOINT 设计，建议增加关键节点验证",
+    "错误类型覆盖不足，建议增加更多具体错误场景",
+    "缺少错误示例（反例）"
+  ],
+  "recommendations": [
+    "Skill 质量良好，建议定期回归测试保持稳定性"
+  ]
+}
