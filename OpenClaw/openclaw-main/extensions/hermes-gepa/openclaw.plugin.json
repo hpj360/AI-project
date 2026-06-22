@@ -1,0 +1,22 @@
+{
+  "id": "hermes-gepa",
+  "name": "Hermes GEPA",
+  "description": "GEPA 周期性自我进化评估插件，每 N 次工具调用后自动触发会话评估，借鉴 Hermes Agent 的 GEPA 算法。",
+  "version": "1.0.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "threshold": {
+        "type": "number",
+        "description": "触发评估的工具调用次数阈值",
+        "default": 15
+      },
+      "enabled": {
+        "type": "boolean",
+        "description": "是否启用 GEPA 周期性评估",
+        "default": true
+      }
+    }
+  }
+}

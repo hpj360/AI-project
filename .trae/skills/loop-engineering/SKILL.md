@@ -1,7 +1,9 @@
 ---
 name: loop-engineering
 description: "Implement Loop Engineering patterns: /goal for progress-driven tasks with verifiable completion criteria, /loop for time-driven recurring tasks. Use when user wants to set up autonomous agent loops, recurring task automation, or goal-based iterative execution. 也适用于用户提到'循环工程''自动循环''/goal''/loop''让AI自己跑'等场景。"
-version: 1.0.0
+version: 1.1.0
+user-invocable: true
+command-dispatch: model
 triggers:
   - "/goal"
   - "/loop"

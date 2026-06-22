@@ -1,0 +1,22 @@
+{
+  "id": "memory-layer",
+  "name": "Memory Layer",
+  "description": "三层记忆模型插件：通过 before_prompt_build 钩子将 USER.md（L3 语义记忆）自动注入 system prompt，实现用户偏好的永久记忆。",
+  "version": "1.0.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "userProfilePath": {
+        "type": "string",
+        "description": "USER.md 文件路径（相对于 workspace）",
+        "default": "USER.md"
+      },
+      "enabled": {
+        "type": "boolean",
+        "description": "是否启用 USER.md 注入",
+        "default": true
+      }
+    }
+  }
+}

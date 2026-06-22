@@ -1,0 +1,9 @@
+{
+  "name": "@openclaw/hermes-gepa",
+  "version": "1.0.0",
+  "description": "GEPA 周期性自我进化评估插件",
+  "type": "module",
+  "openclaw": {
+    "extensions": ["./index.ts"]
+  }
+}

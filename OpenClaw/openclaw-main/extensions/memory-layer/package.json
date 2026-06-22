@@ -1,0 +1,9 @@
+{
+  "name": "@openclaw/memory-layer",
+  "version": "1.0.0",
+  "description": "三层记忆模型插件：USER.md 语义记忆注入",
+  "type": "module",
+  "openclaw": {
+    "extensions": ["./index.ts"]
+  }
+}
