@@ -1,7 +1,7 @@
 {
   "name": "@openclaw/hermes-gepa",
-  "version": "1.0.0",
-  "description": "GEPA 周期性自我进化评估插件",
+  "version": "2.0.0",
+  "description": "GEPA 自我进化引擎：方案 C（会话级评估提醒）+ 方案 D（后台 GEPA 引擎自动进化技能）",
   "type": "module",
   "openclaw": {
     "extensions": ["./index.ts"]

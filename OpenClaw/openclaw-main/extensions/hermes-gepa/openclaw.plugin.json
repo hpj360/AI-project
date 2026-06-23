@@ -1,21 +1,67 @@
 {
   "id": "hermes-gepa",
   "name": "Hermes GEPA",
-  "description": "GEPA 周期性自我进化评估插件，每 N 次工具调用后自动触发会话评估，借鉴 Hermes Agent 的 GEPA 算法。",
-  "version": "1.0.0",
+  "description": "GEPA 自我进化引擎：方案 C（会话级评估提醒）+ 方案 D（后台 GEPA 引擎自动进化技能）",
+  "version": "2.0.0",
   "configSchema": {
     "type": "object",
     "additionalProperties": false,
     "properties": {
-      "threshold": {
+      "reminderEnabled": {
+        "type": "boolean",
+        "description": "是否启用会话级 GEPA 评估提醒（方案 C）",
+        "default": true
+      },
+      "reminderThreshold": {
         "type": "number",
-        "description": "触发评估的工具调用次数阈值",
+        "description": "触发评估提醒的工具调用次数阈值",
         "default": 15
       },
-      "enabled": {
+      "engineEnabled": {
         "type": "boolean",
-        "description": "是否启用 GEPA 周期性评估",
+        "description": "是否启用后台 GEPA 引擎（方案 D）",
         "default": true
+      },
+      "engineIntervalHours": {
+        "type": "number",
+        "description": "GEPA 引擎触发间隔（小时）",
+        "default": 6
+      },
+      "numCandidates": {
+        "type": "number",
+        "description": "每次进化生成的候选数量",
+        "default": 3
+      },
+      "numEvalSamples": {
+        "type": "number",
+        "description": "每次评估的样本数量",
+        "default": 10
+      },
+      "maxIterations": {
+        "type": "number",
+        "description": "最大迭代轮次",
+        "default": 3
+      },
+      "llmModel": {
+        "type": "string",
+        "description": "变异用的 LLM 模型（OpenAI 兼容）",
+        "default": "deepseek/deepseek-chat"
+      },
+      "evaluatorPath": {
+        "type": "string",
+        "description": "skill_evaluator.py 路径",
+        "default": ""
+      },
+      "targetSkills": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "要进化的技能列表（空 = 自动发现）",
+        "default": []
+      },
+      "dataDir": {
+        "type": "string",
+        "description": ".gepa 数据目录（相对于 workspace）",
+        "default": ".gepa"
       }
     }
   }
