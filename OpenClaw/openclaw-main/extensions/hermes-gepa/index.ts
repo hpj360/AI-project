@@ -1,17 +1,23 @@
 /**
- * Hermes GEPA 插件 — 方案 C + D 合体
+ * Hermes GEPA 插件 v3.0 — 方案 C + D + Judge + 自动 PR
  *
  * 方案 C（指令层）：after_tool_call 钩子 + enqueueSystemEvent
  *   每 N 次工具调用后注入 GEPA 评估提醒，模型按 self-improving-agent skill 执行评估。
  *
  * 方案 D（代码层）：原生 TypeScript GEPA 引擎
  *   1. after_tool_call 钩子 → 收集执行轨迹到 .gepa/traces/
- *   2. 后台服务定期触发 → 变异引擎生成候选 → 帕累托选择 → 约束门控 → 应用改进
- *   3. 通过 registerService 注册后台进化服务
+ *   2. 后台服务定期触发 → 变异引擎生成候选 → 帕累托选择 → 约束门控
  *
- * 两层协同：
- *   - 方案 C 的提醒让模型在会话中即时学习（快速反馈）
- *   - 方案 D 的引擎在后台批量进化技能（深度优化）
+ * Judge 评判器（古德哈特定律防护）：
+ *   约束门控通过后，独立 LLM 判定变异是否是真正的改进（防止钻评估器空子）
+ *   - approve: 变异是真正的改进
+ *   - reject: 变异在钻空子或无实质改进
+ *   - needs_revision: 方向正确但需调整（记录建议但不应用）
+ *
+ * 自动 PR：
+ *   Judge 通过后，不直接替换 SKILL.md，而是创建 Git 分支 → 提交 → 推送 → 创建 PR
+ *   - 降级策略：gh 不可用 → 仅分支 | git 不可用 → 直接写入
+ *   - 自动合并：Judge confidence ≥ 0.9 且 goodhartRisk=none 时可自动合并
  *
  * 参考：arXiv:2507.19457 (ICLR 2026 Oral)
  */
@@ -55,6 +61,14 @@ const DEFAULT_CONFIG: GepaPluginConfig = {
   evaluatorPath: "",
   targetSkills: [],
   dataDir: ".gepa",
+  judgeEnabled: true,
+  judgeModel: "anthropic/claude-3.5-sonnet",
+  judgeRejectThreshold: 0.6,
+  prEnabled: true,
+  prBaseBranch: "main",
+  prLabels: ["gepa", "auto-evolution"],
+  autoMerge: false,
+  autoMergeThreshold: 0.9,
 };
 
 // ─── GEPA 引擎状态 ─────────────────────────────────────────
@@ -75,7 +89,7 @@ const plugin = {
   id: "hermes-gepa",
   name: "Hermes GEPA",
   description:
-    "GEPA 自我进化引擎：方案 C（会话级评估提醒）+ 方案 D（后台 GEPA 引擎自动进化技能）",
+    "GEPA 自我进化引擎 v3.0：方案 C（会话级评估提醒）+ 方案 D（后台 GEPA 引擎）+ Judge 评判器（古德哈特防护）+ 自动 PR",
   configSchema: {
     type: "object",
     additionalProperties: false,
@@ -135,6 +149,47 @@ const plugin = {
         type: "string",
         description: ".gepa 数据目录（相对于 workspace）",
         default: ".gepa",
+      },
+      judgeEnabled: {
+        type: "boolean",
+        description: "是否启用 Judge 评判器（古德哈特定律防护）",
+        default: true,
+      },
+      judgeModel: {
+        type: "string",
+        description: "Judge 模型（建议用不同于变异引擎的模型，避免同源偏见）",
+        default: "anthropic/claude-3.5-sonnet",
+      },
+      judgeRejectThreshold: {
+        type: "number",
+        description: "Judge 置信度低于此值时否决变异（0.0-1.0）",
+        default: 0.6,
+      },
+      prEnabled: {
+        type: "boolean",
+        description: "是否启用自动 PR（通过 git+gh 创建 Pull Request）",
+        default: true,
+      },
+      prBaseBranch: {
+        type: "string",
+        description: "PR 目标分支",
+        default: "main",
+      },
+      prLabels: {
+        type: "array",
+        items: { type: "string" },
+        description: "PR 标签",
+        default: ["gepa", "auto-evolution"],
+      },
+      autoMerge: {
+        type: "boolean",
+        description: "是否允许自动合并（Judge confidence ≥ autoMergeThreshold 且 goodhartRisk=none）",
+        default: false,
+      },
+      autoMergeThreshold: {
+        type: "number",
+        description: "自动合并的 confidence 阈值（0.0-1.0）",
+        default: 0.9,
       },
     },
   },
@@ -278,6 +333,14 @@ const plugin = {
             numCandidates: config.numCandidates,
             numEvalSamples: config.numEvalSamples,
             maxIterations: config.maxIterations,
+            judgeEnabled: config.judgeEnabled,
+            judgeModel: config.judgeModel,
+            judgeRejectThreshold: config.judgeRejectThreshold,
+            prEnabled: config.prEnabled,
+            prBaseBranch: config.prBaseBranch,
+            prLabels: config.prLabels,
+            autoMerge: config.autoMerge,
+            autoMergeThreshold: config.autoMergeThreshold,
             log: (msg) => api.logger.info(msg),
           });
 
@@ -395,6 +458,14 @@ const plugin = {
                 numCandidates: config.numCandidates,
                 numEvalSamples: config.numEvalSamples,
                 maxIterations: config.maxIterations,
+                judgeEnabled: config.judgeEnabled,
+                judgeModel: config.judgeModel,
+                judgeRejectThreshold: config.judgeRejectThreshold,
+                prEnabled: config.prEnabled,
+                prBaseBranch: config.prBaseBranch,
+                prLabels: config.prLabels,
+                autoMerge: config.autoMerge,
+                autoMergeThreshold: config.autoMergeThreshold,
                 log: (msg) => console.log(msg),
               });
 

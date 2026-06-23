@@ -1,8 +1,8 @@
 {
   "id": "hermes-gepa",
   "name": "Hermes GEPA",
-  "description": "GEPA 自我进化引擎：方案 C（会话级评估提醒）+ 方案 D（后台 GEPA 引擎自动进化技能）",
-  "version": "2.0.0",
+  "description": "GEPA 自我进化引擎 v3.0：方案 C（会话级评估提醒）+ 方案 D（后台 GEPA 引擎）+ Judge 评判器（古德哈特防护）+ 自动 PR",
+  "version": "3.0.0",
   "configSchema": {
     "type": "object",
     "additionalProperties": false,
@@ -62,6 +62,47 @@
         "type": "string",
         "description": ".gepa 数据目录（相对于 workspace）",
         "default": ".gepa"
+      },
+      "judgeEnabled": {
+        "type": "boolean",
+        "description": "是否启用 Judge 评判器（古德哈特定律防护）",
+        "default": true
+      },
+      "judgeModel": {
+        "type": "string",
+        "description": "Judge 模型（建议用不同于变异引擎的模型）",
+        "default": "anthropic/claude-3.5-sonnet"
+      },
+      "judgeRejectThreshold": {
+        "type": "number",
+        "description": "Judge 置信度低于此值时否决变异（0.0-1.0）",
+        "default": 0.6
+      },
+      "prEnabled": {
+        "type": "boolean",
+        "description": "是否启用自动 PR",
+        "default": true
+      },
+      "prBaseBranch": {
+        "type": "string",
+        "description": "PR 目标分支",
+        "default": "main"
+      },
+      "prLabels": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "PR 标签",
+        "default": ["gepa", "auto-evolution"]
+      },
+      "autoMerge": {
+        "type": "boolean",
+        "description": "是否允许自动合并",
+        "default": false
+      },
+      "autoMergeThreshold": {
+        "type": "number",
+        "description": "自动合并的 confidence 阈值（0.0-1.0）",
+        "default": 0.9
       }
     }
   }

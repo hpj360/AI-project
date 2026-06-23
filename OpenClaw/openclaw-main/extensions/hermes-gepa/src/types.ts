@@ -171,6 +171,40 @@ export interface GepaStateSnapshot {
   history: EvolveResult[];
 }
 
+// ─── Judge 评判器 ──────────────────────────────────────────
+
+/** GEPA Judge 判定结果 */
+export interface JudgeVerdict {
+  /** 判定：approve（通过）/ reject（否决）/ needs_revision（需修改） */
+  verdict: "approve" | "reject" | "needs_revision";
+  /** 置信度（0.0-1.0） */
+  confidence: number;
+  /** 判定理由 */
+  reason: string;
+  /** 证据列表 */
+  evidence: string[];
+  /** 古德哈特风险等级 */
+  goodhartRisk: "none" | "low" | "medium" | "high" | "unknown";
+  /** 改进建议（如果 needs_revision） */
+  suggestions: string[];
+}
+
+/** Goal Judge 判定结果 */
+export interface GoalJudgeResult {
+  /** 判定：done（目标达成）/ continue（继续执行） */
+  verdict: "done" | "continue";
+  /** 置信度（0.0-1.0） */
+  confidence: number;
+  /** 判定理由 */
+  reason: string;
+  /** 各验收标准是否满足 */
+  criteriaMet: boolean[];
+  /** 证据列表 */
+  evidence: string[];
+  /** 下一步建议（如果 continue） */
+  nextAction: string;
+}
+
 // ─── 插件配置 ────────────────────────────────────────────
 
 /** hermes-gepa 插件配置 */
@@ -197,4 +231,20 @@ export interface GepaPluginConfig {
   targetSkills: string[];
   /** .gepa 数据目录（相对于 workspace） */
   dataDir: string;
+  /** 是否启用 Judge 评判器 */
+  judgeEnabled: boolean;
+  /** Judge 模型（建议用不同于变异引擎的模型） */
+  judgeModel: string;
+  /** Judge 否决阈值（confidence 低于此值时否决） */
+  judgeRejectThreshold: number;
+  /** 是否启用自动 PR */
+  prEnabled: boolean;
+  /** PR 目标分支 */
+  prBaseBranch: string;
+  /** PR 标签 */
+  prLabels: string[];
+  /** 是否允许自动合并（Judge confidence ≥ autoMergeThreshold 且 goodhartRisk=none） */
+  autoMerge: boolean;
+  /** 自动合并的 confidence 阈值 */
+  autoMergeThreshold: number;
 }

@@ -1,7 +1,7 @@
 {
   "name": "@openclaw/hermes-gepa",
-  "version": "2.0.0",
-  "description": "GEPA 自我进化引擎：方案 C（会话级评估提醒）+ 方案 D（后台 GEPA 引擎自动进化技能）",
+  "version": "3.0.0",
+  "description": "GEPA 自我进化引擎 v3.0：方案 C（会话级评估提醒）+ 方案 D（后台 GEPA 引擎）+ Judge 评判器（古德哈特防护）+ 自动 PR",
   "type": "module",
   "openclaw": {
     "extensions": ["./index.ts"]

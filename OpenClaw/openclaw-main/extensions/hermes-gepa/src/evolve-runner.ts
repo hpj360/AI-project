@@ -24,11 +24,14 @@ import type {
   EvalSampleScore,
   ConstraintGateResult,
   SessionTrace,
+  JudgeVerdict,
 } from "./types.js";
 import { TraceCollector } from "./trace-collector.js";
 import { MutationEngine } from "./mutation-engine.js";
 import { ParetoSelector } from "./pareto-selector.js";
 import { ConstraintGate } from "./constraint-gate.js";
+import { Judge } from "./judge.js";
+import { PrPublisher, type PrPublishResult } from "./pr-publisher.js";
 
 /** 进化运行器配置 */
 export interface EvolveRunnerConfig {
@@ -52,6 +55,22 @@ export interface EvolveRunnerConfig {
   numEvalSamples: number;
   /** 最大迭代轮次 */
   maxIterations: number;
+  /** 是否启用 Judge */
+  judgeEnabled: boolean;
+  /** Judge 模型 */
+  judgeModel: string;
+  /** Judge 否决阈值 */
+  judgeRejectThreshold: number;
+  /** 是否启用 PR */
+  prEnabled: boolean;
+  /** PR 目标分支 */
+  prBaseBranch: string;
+  /** PR 标签 */
+  prLabels: string[];
+  /** 是否允许自动合并 */
+  autoMerge: boolean;
+  /** 自动合并阈值 */
+  autoMergeThreshold: number;
   /** 日志函数 */
   log: (msg: string) => void;
 }
@@ -261,7 +280,7 @@ export class EvolveRunner {
       };
     }
 
-    // Step 8: 应用改进
+    // Step 8: Judge 评判（古德哈特定律防护）
     const bestCandidate = candidates.find(
       (c) => c.id === selection.best!.candidateId,
     );
@@ -281,17 +300,123 @@ export class EvolveRunner {
       };
     }
 
-    // 备份原 SKILL.md
-    const backupDir = path.join(this.config.dataDir, "backups");
-    fs.mkdirSync(backupDir, { recursive: true });
-    const backupPath = path.join(
-      backupDir,
-      `${skillName}-${Date.now()}.md`,
-    );
-    fs.writeFileSync(backupPath, baselineContent, "utf-8");
+    let judgeVerdict: JudgeVerdict | null = null;
 
-    // 写入改进版
-    fs.writeFileSync(skillPath, bestCandidate.content, "utf-8");
+    if (this.config.judgeEnabled) {
+      this.config.log(`[GEPA] Judge 评判中...`);
+
+      const judge = new Judge({
+        model: this.config.llmModel,
+        apiKey: this.config.apiKey,
+        apiBaseUrl: this.config.apiBaseUrl,
+        judgeModel: this.config.judgeModel || undefined,
+      });
+
+      judgeVerdict = await judge.judgeMutation(
+        baselineContent,
+        bestCandidate,
+        selection.best.gateResult,
+        traces,
+        baselineScore,
+      );
+
+      this.config.log(
+        `[GEPA] Judge 判定: ${judgeVerdict.verdict} (confidence: ${(judgeVerdict.confidence * 100).toFixed(0)}%, goodhart: ${judgeVerdict.goodhartRisk})`,
+      );
+
+      // Judge 否决逻辑
+      if (judgeVerdict.verdict === "reject") {
+        this.config.log(`[GEPA] Judge 否决了变异: ${judgeVerdict.reason}`);
+        return {
+          skillName,
+          improved: false,
+          baselineScore,
+          bestScore: baselineScore,
+          improvement: 0,
+          bestCandidateId: selection.best.candidateId,
+          appliedMutation: null,
+          iterations: 1,
+          timestamp,
+          failureReason: `Judge 否决: ${judgeVerdict.reason}`,
+        };
+      }
+
+      // 低置信度否决
+      if (
+        judgeVerdict.verdict === "approve" &&
+        judgeVerdict.confidence < this.config.judgeRejectThreshold
+      ) {
+        this.config.log(
+          `[GEPA] Judge 置信度过低 (${(judgeVerdict.confidence * 100).toFixed(0)}% < ${this.config.judgeRejectThreshold * 100}%)，否决变异`,
+        );
+        return {
+          skillName,
+          improved: false,
+          baselineScore,
+          bestScore: baselineScore,
+          improvement: 0,
+          bestCandidateId: selection.best.candidateId,
+          appliedMutation: null,
+          iterations: 1,
+          timestamp,
+          failureReason: `Judge 置信度过低: ${(judgeVerdict.confidence * 100).toFixed(0)}%`,
+        };
+      }
+
+      // needs_revision：记录建议但不应用
+      if (judgeVerdict.verdict === "needs_revision") {
+        this.config.log(`[GEPA] Judge 认为需要修改，记录建议但不应用`);
+        this.recordJudgeSuggestions(skillName, judgeVerdict);
+        return {
+          skillName,
+          improved: false,
+          baselineScore,
+          bestScore: baselineScore,
+          improvement: 0,
+          bestCandidateId: selection.best.candidateId,
+          appliedMutation: null,
+          iterations: 1,
+          timestamp,
+          failureReason: `Judge 建议修改: ${judgeVerdict.reason}`,
+        };
+      }
+    }
+
+    // Step 9: 通过 Judge，发布改进（PR 或直接写入）
+    this.config.log(`[GEPA] 通过 Judge 评判，发布改进...`);
+
+    const prPublisher = new PrPublisher({
+      workspaceDir: this.config.workspaceDir,
+      skillsDir: this.config.skillsDir,
+      enabled: this.config.prEnabled,
+      baseBranch: this.config.prBaseBranch,
+      labels: this.config.prLabels,
+      autoMerge: this.config.autoMerge,
+      autoMergeThreshold: this.config.autoMergeThreshold,
+      log: this.config.log,
+    });
+
+    const prResult = await prPublisher.publish(
+      skillName,
+      skillPath,
+      bestCandidate.content,
+      bestCandidate,
+      judgeVerdict ?? {
+        verdict: "approve",
+        confidence: 1.0,
+        reason: "Judge 未启用",
+        evidence: [],
+        goodhartRisk: "unknown",
+        suggestions: [],
+      },
+      baselineScore,
+      selection.best.avgScore,
+      traces.length,
+    );
+
+    this.config.log(
+      `[GEPA] 发布方式: ${prResult.method}${prResult.prUrl ? ` | PR: ${prResult.prUrl}` : ""}${prResult.autoMerged ? " | 已自动合并" : ""}`,
+    );
 
     this.config.log(
       `[GEPA] 技能 ${skillName} 已改进: ${baselineScore.toFixed(1)} → ${selection.best.avgScore.toFixed(1)}`,
@@ -405,6 +530,37 @@ export class EvolveRunner {
     this.traceCollector.cleanupOldTraces(100);
 
     return results;
+  }
+
+  /** 记录 Judge 建议到 .gepa/suggestions/ */
+  private recordJudgeSuggestions(
+    skillName: string,
+    verdict: JudgeVerdict,
+  ): void {
+    const dir = path.join(this.config.dataDir, "suggestions");
+    fs.mkdirSync(dir, { recursive: true });
+
+    const file = path.join(dir, `${skillName}-${Date.now()}.md`);
+    const content = [
+      `# Judge 建议: ${skillName}`,
+      ``,
+      `> 时间: ${new Date().toISOString()}`,
+      ``,
+      `## 判定: ${verdict.verdict}`,
+      ``,
+      `### 理由`,
+      verdict.reason,
+      ``,
+      `### 古德哈特风险: ${verdict.goodhartRisk}`,
+      ``,
+      `### 建议`,
+      ...verdict.suggestions.map((s) => `- ${s}`),
+      ``,
+      `### 证据`,
+      ...verdict.evidence.map((e) => `- ${e}`),
+    ].join("\n");
+
+    fs.writeFileSync(file, content, "utf-8");
   }
 
   /** 写入进化日志 */
