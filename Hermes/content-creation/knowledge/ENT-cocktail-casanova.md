@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 伏特加, 荔枝, 香槟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-between-the-sheets, ENT-vodka-grey-goose-original, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary, ENT-vodka-absolut-original]
 ---
 
 # 卡萨诺瓦

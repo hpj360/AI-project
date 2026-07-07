@@ -6,6 +6,7 @@ tags: [起泡酒, 香槟, LVMH, 霞多丽, 黑皮诺]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-pol-roger-winston-churchill-2013, ENT-wine-sparkling-perrier-jouet-belle-epoque-2013]
 ratings:
   vivino: {score: 4.8, votes: 7163}
   wine_spectator: {score: 90, year: 2021}

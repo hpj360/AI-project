@@ -6,6 +6,7 @@ tags: [红酒, 纳帕谷, 美国, 单一园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-screaming-eagle-2015, ENT-wine-red-opus-one-2016, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016]
 ratings:
   vivino: {score: 4.2, votes: 34429}
   parker: {score: 82, year: 2021}

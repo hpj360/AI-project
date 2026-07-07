@@ -6,6 +6,7 @@ tags: [红酒, 波尔多, 一级庄, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-levangile-2015, ENT-wine-red-pichon-baron-2016, ENT-wine-red-pichon-lalande-2016]
 ratings:
   vivino: {score: 4.8, votes: 4266}
   parker: {score: 98, year: 2020}

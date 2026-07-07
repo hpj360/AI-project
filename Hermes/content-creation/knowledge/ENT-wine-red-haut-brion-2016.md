@@ -6,6 +6,7 @@ tags: [红酒, 波尔多, 一级庄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-la-mission-haut-brion-2016]
 ratings:
   vivino: {score: 4.0, votes: 32133}
   parker: {score: 80, year: 2022}

@@ -6,6 +6,7 @@ tags: [金酒, 伦敦干, 英国, 孟买]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-bombay-sapphire]
 ratings:
   vivino: {score: 4.8, votes: 35189}
   wine_enthusiast: {score: 94, year: 2020}

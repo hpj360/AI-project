@@ -6,6 +6,7 @@ tags: [白酒, 酱香, 贵州, 习酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-xijiu-junpin-xijiu, ENT-baijiu-xijiu-jinzhi-xijiu]
 ratings:
   vivino: {score: 4.2, votes: 7878}
   csl: {score: 81, year: 2020}

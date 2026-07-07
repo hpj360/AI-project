@@ -6,6 +6,7 @@ tags: [红酒, 波尔多, 佩萨克-雷奥良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-haut-brion-2016]
 ratings:
   vivino: {score: 4.8, votes: 46024}
   parker: {score: 83, year: 2023}

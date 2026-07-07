@@ -6,6 +6,7 @@ tags: [清酒, 日本, 纯米大吟醸, 八海山]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-hakkaisan-3nen, ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-genshu, ENT-sake-josen-mizunogotoshi]
 ratings:
   vivino: {score: 4.8, votes: 4418}
   sake_revue: {score: 99, year: 2020}

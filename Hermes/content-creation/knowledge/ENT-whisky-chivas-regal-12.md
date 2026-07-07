@@ -6,6 +6,7 @@ tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25, ENT-whisky-dewars-12, ENT-whisky-ballantines-12, ENT-whisky-ballantines-17]
 ratings:
   vivino: {score: 4.8, votes: 28881}
   whisky_fun: {score: 91, year: 2022}

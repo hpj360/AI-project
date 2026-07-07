@@ -6,6 +6,7 @@ tags: [起泡酒, 卡瓦, Raventós, 年份, 单一园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-juve-y-camps-reserva-2017]
 ratings:
   vivino: {score: 4.8, votes: 47384}
   wine_spectator: {score: 83, year: 2020}

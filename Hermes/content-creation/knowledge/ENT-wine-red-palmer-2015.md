@@ -6,6 +6,7 @@ tags: [红酒, 波尔多, 玛歌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-rauzan-segla-2016, ENT-wine-red-margaux-2015]
 ratings:
   vivino: {score: 4.8, votes: 13047}
   parker: {score: 88, year: 2021}

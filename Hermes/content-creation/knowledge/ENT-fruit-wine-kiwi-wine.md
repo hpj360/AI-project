@@ -6,6 +6,7 @@ tags: [果酒, 猕猴桃, 中国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-fruit-wine-sangshen-jiu, ENT-fruit-wine-cherry-wine, ENT-mead-chinese-traditional]
 ---
 
 # 猕猴桃酒

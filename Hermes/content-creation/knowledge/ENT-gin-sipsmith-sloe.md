@@ -6,6 +6,7 @@ tags: [金酒, sloe, 英国, Sipsmith, 水果金酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-gordons-london-dry, ENT-gin-tanqueray-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-gordons-elderflower, ENT-gin-tanqueray-rangpur]
 ratings:
   vivino: {score: 4.8, votes: 43081}
   wine_enthusiast: {score: 86, year: 2020}

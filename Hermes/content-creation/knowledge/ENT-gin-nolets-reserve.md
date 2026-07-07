@@ -6,6 +6,7 @@ tags: [金酒, 荷兰, Nolet's, 限量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-ketel-one]
 ratings:
   vivino: {score: 4.8, votes: 5183}
   wine_enthusiast: {score: 83, year: 2022}

@@ -6,6 +6,7 @@ tags: [清酒, 日本, 纯米吟醸, 加茂锦, 新潟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-kikusui]
 ratings:
   vivino: {score: 4.4, votes: 3598}
   sake_revue: {score: 82, year: 2020}

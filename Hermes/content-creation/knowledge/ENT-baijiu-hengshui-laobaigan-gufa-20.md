@@ -6,6 +6,7 @@ tags: [白酒, 老白干香, 河北, 衡水老白干]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-hengshui-laobaigan-shijiujiufang]
 ratings:
   vivino: {score: 4.8, votes: 27697}
   csl: {score: 86, year: 2022}

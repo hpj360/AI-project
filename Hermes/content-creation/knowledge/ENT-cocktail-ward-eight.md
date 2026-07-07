@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酸酒, 黑麦, 橙, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-macallan-12-sherry-oak, ENT-cocktail-ward-eight-sig, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
 ---
 
 # 第八选区

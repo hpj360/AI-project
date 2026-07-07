@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 威士忌, 姜, 蜂蜜, 烟熏]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-old-cuban, ENT-whisky-macallan-12-double-cask, ENT-cocktail-paper-plane, ENT-cocktail-red-hook, ENT-whisky-macallan-18-sherry-oak]
 ---
 
 # 盘尼西林

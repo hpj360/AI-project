@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 青柠, 西柚]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-kamikaze, ENT-cocktail-brown-derby, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire]
 ---
 
 # 西岸

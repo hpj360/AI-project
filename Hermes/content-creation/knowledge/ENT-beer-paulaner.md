@@ -6,6 +6,7 @@ tags: [啤酒, 德国, 保罗拉纳, 小麦啤酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-hofbrau]
 ratings:
   vivino: {score: 4.1, votes: 47369}
   ratebeer: {score: 83, year: 2022}

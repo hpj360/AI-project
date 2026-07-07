@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 波本, 葡萄柚, 蜂蜜]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-kamikaze, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-cocktail-westside, ENT-whisky-macallan-12-sherry-oak]
 ---
 
 # 棕色德比

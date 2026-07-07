@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 番茄, 早午餐]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-between-the-sheets, ENT-vodka-grey-goose-original, ENT-cocktail-mimosa, ENT-vodka-absolut-original, ENT-cocktail-sidecar]
 ---
 
 # 血腥玛丽

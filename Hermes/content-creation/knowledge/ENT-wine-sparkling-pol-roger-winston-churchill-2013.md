@@ -6,6 +6,7 @@ tags: [起泡酒, 香槟, Pol Roger, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-perrier-jouet-belle-epoque-2013, ENT-wine-sparkling-dom-perignon-2012]
 ratings:
   vivino: {score: 4.2, votes: 46467}
   wine_spectator: {score: 80, year: 2022}

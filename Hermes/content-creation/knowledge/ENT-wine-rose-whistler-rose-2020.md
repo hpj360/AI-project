@@ -6,6 +6,7 @@ tags: [桃红, 澳洲, Barossa, Whistler]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-rose-charles-melton-rose-virginia-2019]
 ratings:
   vivino: {score: 4.8, votes: 46248}
   parker: {score: 86, year: 2021}

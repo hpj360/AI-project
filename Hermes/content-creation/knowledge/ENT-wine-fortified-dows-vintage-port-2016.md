@@ -6,6 +6,7 @@ tags: [加强酒, 波特, 年份, Dow's]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-fortified-cockburns-vintage-port-2015, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-warres-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-grahams-vintage-port-2017]
 ratings:
   vivino: {score: 4.4, votes: 43941}
   wine_spectator: {score: 81, year: 2021}

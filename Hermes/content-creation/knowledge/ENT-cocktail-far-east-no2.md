@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 荔枝, 热带]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire]
 ---
 
 # 远东二号

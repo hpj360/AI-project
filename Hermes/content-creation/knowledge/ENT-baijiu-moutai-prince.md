@@ -6,6 +6,7 @@ tags: [白酒, 酱香, 贵州, 茅台]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-moutai-yingbin, ENT-baijiu-guotai-guobiao, ENT-baijiu-laimao-chuancheng, ENT-baijiu-diaoyutai-guobin, ENT-baijiu-moutai-feitian-53]
 ratings:
   vivino: {score: 4.8, votes: 32209}
   csl: {score: 88, year: 2023}

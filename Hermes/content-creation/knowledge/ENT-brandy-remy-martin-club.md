@@ -6,6 +6,7 @@ tags: [白兰地, 干邑, 法国, 人头马]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-brandy-louis-xiii, ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-xo, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
 ratings:
   vivino: {score: 4.8, votes: 22961}
   wine_enthusiast: {score: 95, year: 2020}

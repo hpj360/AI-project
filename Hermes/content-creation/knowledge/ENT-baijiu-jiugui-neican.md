@@ -6,6 +6,7 @@ tags: [白酒, 馥郁香, 湖南, 酒鬼酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-jiugui-zitao]
 ratings:
   vivino: {score: 4.8, votes: 12067}
   csl: {score: 88, year: 2021}

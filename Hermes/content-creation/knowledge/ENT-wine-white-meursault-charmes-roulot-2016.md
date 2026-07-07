@@ -6,6 +6,7 @@ tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-meursault-genevrieres-roulot-2015, ENT-wine-white-meursault-perrieres-coche-dury-2015]
 ratings:
   vivino: {score: 4.8, votes: 45422}
   parker: {score: 85, year: 2021}

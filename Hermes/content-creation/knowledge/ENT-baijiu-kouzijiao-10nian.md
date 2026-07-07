@@ -6,6 +6,7 @@ tags: [白酒, 兼香, 安徽, 口子窖]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-kouzijiao-20nian]
 ratings:
   vivino: {score: 4.2, votes: 30017}
   csl: {score: 80, year: 2021}

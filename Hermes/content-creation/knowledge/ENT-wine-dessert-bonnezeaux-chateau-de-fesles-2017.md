@@ -6,6 +6,7 @@ tags: [甜酒, 卢瓦尔, Bonnezeaux, 白诗南]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-dessert-quarts-de-chaume-baudouin-2016]
 ratings:
   vivino: {score: 4.4, votes: 7848}
   parker: {score: 83, year: 2020}

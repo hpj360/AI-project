@@ -6,6 +6,7 @@ tags: [啤酒, 比利时, 罗斯福, 修道院啤酒, 双料]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-rochefort-8, ENT-beer-rochefort-10]
 ratings:
   vivino: {score: 4.8, votes: 15579}
   ratebeer: {score: 88, year: 2022}

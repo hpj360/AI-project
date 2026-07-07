@@ -6,6 +6,7 @@ tags: [红酒, 西班牙, Ribera del Duero]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine-red-pingus-2015]
 ratings:
   vivino: {score: 4.4, votes: 18849}
   parker: {score: 81, year: 2020}

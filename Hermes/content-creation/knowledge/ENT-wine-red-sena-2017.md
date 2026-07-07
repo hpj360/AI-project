@@ -6,6 +6,7 @@ tags: [红酒, 智利, 波尔多混酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-don-maximiano-2017]
 ratings:
   vivino: {score: 4.0, votes: 44170}
   parker: {score: 80, year: 2020}

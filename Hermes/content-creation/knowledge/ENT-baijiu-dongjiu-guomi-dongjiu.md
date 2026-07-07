@@ -6,6 +6,7 @@ tags: [白酒, 药香, 贵州, 董酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-dongjiu-hongbiao-dongjiu, ENT-baijiu-zhenjiu-zhensanshi]
 ratings:
   vivino: {score: 4.8, votes: 28226}
   csl: {score: 90, year: 2023}

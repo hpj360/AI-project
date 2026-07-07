@@ -6,6 +6,7 @@ tags: [白酒, 波尔多, 赛美蓉, 长相思]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-domaine-de-chevalier-blanc-2017, ENT-wine-white-smith-haut-lafitte-blanc-2017]
 ratings:
   vivino: {score: 4.8, votes: 43422}
   parker: {score: 90, year: 2020}

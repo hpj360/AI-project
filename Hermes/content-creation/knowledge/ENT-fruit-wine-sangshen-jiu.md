@@ -6,6 +6,7 @@ tags: [果酒, 桑葚, 中国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-fruit-wine-cherry-wine, ENT-fruit-wine-kiwi-wine, ENT-mead-chinese-traditional]
 ---
 
 # 桑葚酒

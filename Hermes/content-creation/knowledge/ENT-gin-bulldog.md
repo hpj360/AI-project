@@ -6,6 +6,7 @@ tags: [金酒, 伦敦干, 英国, 狮牌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-gordons-london-dry, ENT-gin-tanqueray-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-gordons-elderflower, ENT-gin-tanqueray-rangpur]
 ratings:
   vivino: {score: 4.8, votes: 36295}
   wine_enthusiast: {score: 83, year: 2022}

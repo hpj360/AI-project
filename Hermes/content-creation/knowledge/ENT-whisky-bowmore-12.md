@@ -6,6 +6,7 @@ tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-lagavulin-16, ENT-whisky-bowmore-15, ENT-whisky-lagavulin-8, ENT-whisky-ardbeg-uigeadail, ENT-whisky-ardbeg-10]
 ratings:
   vivino: {score: 4.8, votes: 47398}
   whisky_fun: {score: 87, year: 2022}

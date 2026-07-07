@@ -6,6 +6,7 @@ tags: [起泡酒, 香槟, Philipponnat, 独占园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009]
 ratings:
   vivino: {score: 4.8, votes: 21469}
   wine_spectator: {score: 87, year: 2020}

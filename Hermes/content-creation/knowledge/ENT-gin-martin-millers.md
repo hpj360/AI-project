@@ -6,6 +6,7 @@ tags: [金酒, 英国, 冰岛, Martin Miller]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-gordons-london-dry, ENT-gin-tanqueray-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-gordons-elderflower, ENT-gin-tanqueray-rangpur]
 ratings:
   vivino: {score: 4.3, votes: 12099}
   wine_enthusiast: {score: 81, year: 2022}

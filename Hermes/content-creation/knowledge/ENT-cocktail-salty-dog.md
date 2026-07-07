@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 葡萄柚, 盐边]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-vodka-grey-goose-original]
 ---
 
 # 咸狗

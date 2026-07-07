@@ -6,6 +6,7 @@ tags: [白酒, 酱香, 贵州, 国台]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-moutai-yingbin, ENT-baijiu-diaoyutai-guobin, ENT-baijiu-laimao-chuancheng, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-feitian-53]
 ratings:
   vivino: {score: 4.8, votes: 37984}
   csl: {score: 86, year: 2020}

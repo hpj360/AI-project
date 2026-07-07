@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 龙舌兰, 渐变]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-margarita, ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold]
 ---
 
 # 龙舌兰日出

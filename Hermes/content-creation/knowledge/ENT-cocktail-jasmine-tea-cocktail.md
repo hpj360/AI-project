@@ -6,6 +6,7 @@ tags: [鸡尾酒, 亚洲, 茶, 茉莉花茶, 中国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-vodka-grey-goose-original]
 ---
 
 # 茉莉花茶鸡尾酒

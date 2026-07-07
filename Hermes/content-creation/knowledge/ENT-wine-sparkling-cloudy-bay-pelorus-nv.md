@@ -6,6 +6,7 @@ tags: [起泡酒, 新世界, Cloudy Bay, 新西兰, 传统法]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-cloudy-bay-sauvignon-blanc-2020]
 ratings:
   vivino: {score: 4.8, votes: 31367}
   wine_spectator: {score: 89, year: 2020}

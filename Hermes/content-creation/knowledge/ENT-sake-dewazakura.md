@@ -6,6 +6,7 @@ tags: [清酒, 日本, 纯米吟醸, 出羽樱, 山形]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-dewazakura-ichiro]
 ratings:
   vivino: {score: 4.8, votes: 28354}
   sake_revue: {score: 90, year: 2022}

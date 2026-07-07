@@ -6,6 +6,7 @@ tags: [鸡尾酒, 分子, 澄清, 伏特加, 蔓越莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-vodka-grey-goose-original, ENT-vodka-absolut-original, ENT-vodka-absolut-citron]
 ---
 
 # 澄清大都会

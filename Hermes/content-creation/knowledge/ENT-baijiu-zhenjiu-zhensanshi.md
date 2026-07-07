@@ -6,6 +6,7 @@ tags: [白酒, 酱香, 贵州, 珍酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-dongjiu-hongbiao-dongjiu, ENT-baijiu-dongjiu-guomi-dongjiu]
 ratings:
   vivino: {score: 4.8, votes: 8495}
   csl: {score: 90, year: 2022}

@@ -6,6 +6,7 @@ tags: [起泡酒, 弗兰恰科塔, Berlucchi, 无年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-berlucchi-cellarius-nv]
 ratings:
   vivino: {score: 4.8, votes: 42365}
   wine_spectator: {score: 86, year: 2020}

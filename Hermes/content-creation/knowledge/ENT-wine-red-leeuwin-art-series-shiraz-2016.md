@@ -6,6 +6,7 @@ tags: [红酒, 澳洲, 设拉子, 玛格丽特河]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-leeuwin-art-series-chardonnay-2017]
 ratings:
   vivino: {score: 3.8, votes: 45490}
   parker: {score: 80, year: 2023}

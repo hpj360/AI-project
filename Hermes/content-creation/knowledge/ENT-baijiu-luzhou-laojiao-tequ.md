@@ -6,6 +6,7 @@ tags: [白酒, 浓香, 四川, 泸州老窖]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-luzhou-touqu, ENT-baijiu-luzhou-guojiao-1573]
 ratings:
   vivino: {score: 4.8, votes: 23102}
   csl: {score: 97, year: 2023}

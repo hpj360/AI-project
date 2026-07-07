@@ -6,6 +6,7 @@ tags: [红酒, 勃艮第, 特级园, 热夫雷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-latricieres-chambertin-2015]
 ratings:
   vivino: {score: 4.8, votes: 20040}
   parker: {score: 88, year: 2021}

@@ -6,6 +6,7 @@ tags: [桃红, 卢瓦尔, 黑皮诺, Sancerre]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-bourgeois-sancerre-2019]
 ratings:
   vivino: {score: 4.8, votes: 48292}
   parker: {score: 85, year: 2020}

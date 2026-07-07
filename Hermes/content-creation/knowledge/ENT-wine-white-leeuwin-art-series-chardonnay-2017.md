@@ -6,6 +6,7 @@ tags: [白酒, 新世界, 霞多丽, 玛格丽特河]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-leeuwin-art-series-shiraz-2016]
 ratings:
   vivino: {score: 4.7, votes: 23204}
   parker: {score: 83, year: 2022}

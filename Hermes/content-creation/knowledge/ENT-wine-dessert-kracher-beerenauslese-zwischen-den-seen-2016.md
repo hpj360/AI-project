@@ -6,6 +6,7 @@ tags: [甜酒, 奥地利, BA, Kracher, 贵腐]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-dessert-kracher-tba-12-2015]
 ratings:
   vivino: {score: 4.8, votes: 44142}
   parker: {score: 84, year: 2021}

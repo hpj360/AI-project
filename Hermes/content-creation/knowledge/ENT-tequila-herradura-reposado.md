@@ -6,6 +6,7 @@ tags: [龙舌兰, 墨西哥, 赫雷德拉, Reposado]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-patron-silver, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco]
 ratings:
   vivino: {score: 4.8, votes: 24338}
   wine_enthusiast: {score: 90, year: 2021}

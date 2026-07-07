@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 马拉斯加, 紫罗兰]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire]
 ---
 
 # 飞行特调

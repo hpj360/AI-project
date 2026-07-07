@@ -6,6 +6,7 @@ tags: [鸡尾酒, 分子, 胶化, 金酒, 果冻]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire]
 ---
 
 # 金汤力果冻

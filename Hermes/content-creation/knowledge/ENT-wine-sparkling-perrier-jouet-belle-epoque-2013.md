@@ -6,6 +6,7 @@ tags: [起泡酒, 香槟, Perrier-Jouët, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-pol-roger-winston-churchill-2013, ENT-wine-sparkling-dom-perignon-2012]
 ratings:
   vivino: {score: 4.8, votes: 35701}
   wine_spectator: {score: 90, year: 2023}

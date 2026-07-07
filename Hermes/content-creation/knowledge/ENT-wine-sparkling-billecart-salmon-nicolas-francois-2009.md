@@ -6,6 +6,7 @@ tags: [起泡酒, 香槟, Billecart-Salmon, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-philipponnat-clos-des-goisses-2012]
 ratings:
   vivino: {score: 4.8, votes: 9000}
   wine_spectator: {score: 85, year: 2022}

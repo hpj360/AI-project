@@ -6,6 +6,7 @@ tags: [起泡酒, 普罗塞克, Bisol, DOCG]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-adami-garbel-nv, ENT-wine-sparkling-valdo-prosecco-nv]
 ratings:
   vivino: {score: 4.8, votes: 7325}
   wine_spectator: {score: 88, year: 2023}

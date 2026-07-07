@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 苹果白兰地, 等比]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-old-cuban, ENT-whisky-macallan-12-double-cask, ENT-brandy-hennessy-xo, ENT-cocktail-paper-plane, ENT-cocktail-red-hook]
 ---
 
 # 最终守护

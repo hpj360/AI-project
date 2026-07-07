@@ -6,6 +6,7 @@ tags: [金酒, 伦敦干, 英国, 希克林]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-gordons-london-dry, ENT-gin-tanqueray-london-dry, ENT-gin-haymans-old-tom, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
 ratings:
   vivino: {score: 4.3, votes: 2691}
   wine_enthusiast: {score: 82, year: 2023}

@@ -6,6 +6,7 @@ tags: [朗姆酒, 英国, 摩根船长, 黑朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-captain-morgan-spiced]
 ratings:
   vivino: {score: 4.8, votes: 43707}
   wine_enthusiast: {score: 89, year: 2022}

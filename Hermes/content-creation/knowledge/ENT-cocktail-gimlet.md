@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 金酒, 青柠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky, ENT-cocktail-bramble, ENT-gin-bombay-sapphire]
 ---
 
 # 吉姆雷特

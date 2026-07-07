@@ -6,6 +6,7 @@ tags: [加强酒, 雪莉, Fino, González Byass]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-williams-humbert-dry-oloroso]
 ratings:
   vivino: {score: 4.8, votes: 12584}
   wine_spectator: {score: 90, year: 2022}

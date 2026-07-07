@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 龙舌兰, 墨西哥]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco, ENT-cocktail-tequila-sunrise, ENT-tequila-jose-cuervo-especial-gold]
 ---
 
 # 玛格丽特

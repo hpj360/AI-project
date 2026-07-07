@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 龙舌兰, 青柠, 蜂蜜]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-fogcutter, ENT-cocktail-martinez, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco]
 ---
 
 # 汤米的玛格丽特

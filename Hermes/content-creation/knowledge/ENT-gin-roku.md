@@ -6,6 +6,7 @@ tags: [金酒, 日本, 三得利, 樱花]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-yamazaki-25, ENT-whisky-yamazaki-18, ENT-whisky-yamazaki-12]
 ratings:
   vivino: {score: 4.8, votes: 306}
   wine_enthusiast: {score: 87, year: 2022}

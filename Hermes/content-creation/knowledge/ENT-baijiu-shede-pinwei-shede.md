@@ -6,6 +6,7 @@ tags: [白酒, 浓香, 四川, 舍得]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-tuopai-tequ, ENT-baijiu-shede-zhihui-shede]
 ratings:
   vivino: {score: 4.8, votes: 8610}
   csl: {score: 87, year: 2020}

@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 朗姆, 薄荷, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-cocktail-el-presidente, ENT-cocktail-mary-pickford, ENT-cocktail-hotel-nacional-special, ENT-cocktail-casablanca]
 ---
 
 # 莫吉托

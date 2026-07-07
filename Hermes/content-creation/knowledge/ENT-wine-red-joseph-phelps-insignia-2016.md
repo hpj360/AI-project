@@ -6,6 +6,7 @@ tags: [红酒, 纳帕谷, 美国, 波尔多混酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-beringer-private-reserve-2016]
 ratings:
   vivino: {score: 4.2, votes: 29077}
   parker: {score: 84, year: 2021}

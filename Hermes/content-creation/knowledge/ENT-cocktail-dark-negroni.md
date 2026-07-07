@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 黑朗姆, 苦味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-cocktail-whiskey-sour, ENT-rum-captain-morgan-spiced]
 ---
 
 # 黑色尼格罗尼

@@ -6,6 +6,7 @@ tags: [红酒, 罗讷河谷, 北罗讷, 西拉]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-hermitage-chapelle-2015]
 ratings:
   vivino: {score: 4.8, votes: 32012}
   parker: {score: 89, year: 2023}

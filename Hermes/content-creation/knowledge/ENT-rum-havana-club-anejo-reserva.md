@@ -6,6 +6,7 @@ tags: [朗姆酒, 古巴, 哈瓦那俱乐部, 陈年]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-havana-club-3, ENT-rum-caribbean-ron-del-caribe, ENT-rum-havana-club-7]
 ratings:
   vivino: {score: 4.8, votes: 46428}
   wine_enthusiast: {score: 90, year: 2021}

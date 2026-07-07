@@ -6,6 +6,7 @@ tags: [桃红, 普罗旺斯, Ott]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018]
 ratings:
   vivino: {score: 4.0, votes: 16038}
   parker: {score: 82, year: 2023}

@@ -6,6 +6,7 @@ tags: [金酒, 伦敦干, 英国, 哥顿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-beefeater-london-dry, ENT-gin-tanqueray-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-gordons-elderflower, ENT-gin-tanqueray-rangpur]
 ratings:
   vivino: {score: 4.7, votes: 34818}
   wine_enthusiast: {score: 85, year: 2021}

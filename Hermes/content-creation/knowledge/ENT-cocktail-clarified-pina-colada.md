@@ -6,6 +6,7 @@ tags: [鸡尾酒, 分子, 离心, 朗姆, 椰子, 菠萝]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morgan-spiced]
 ---
 
 # 澄清椰林飘香

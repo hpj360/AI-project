@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 咖啡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-cocktail-white-russian, ENT-vodka-grey-goose-original]
 ---
 
 # 黑色俄罗斯

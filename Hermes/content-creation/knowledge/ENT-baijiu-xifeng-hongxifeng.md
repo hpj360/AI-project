@@ -6,6 +6,7 @@ tags: [白酒, 凤香, 陕西, 西凤]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-xifeng-15nian]
 ratings:
   vivino: {score: 4.8, votes: 12686}
   csl: {score: 86, year: 2020}

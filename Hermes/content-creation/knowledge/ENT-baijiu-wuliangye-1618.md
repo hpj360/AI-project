@@ -6,6 +6,7 @@ tags: [白酒, 浓香, 四川, 五粮液]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-wuliangye-puwu]
 ratings:
   vivino: {score: 4.8, votes: 31914}
   csl: {score: 95, year: 2021}

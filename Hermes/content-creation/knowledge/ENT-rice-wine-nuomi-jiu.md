@@ -6,6 +6,7 @@ tags: [米酒, 糯米, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rice-wine-zhaquan, ENT-rice-wine-tian-jiuniang]
 ---
 
 # 糯米酒

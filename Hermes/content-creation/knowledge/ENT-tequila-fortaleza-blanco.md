@@ -6,6 +6,7 @@ tags: [龙舌兰, 墨西哥, Fortaleza, Blanco, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-tequila-herradura-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco]
 ratings:
   vivino: {score: 4.3, votes: 36993}
   wine_enthusiast: {score: 84, year: 2020}

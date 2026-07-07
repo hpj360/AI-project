@@ -6,6 +6,7 @@ tags: [朗姆酒, 危地马拉, Zacapa, 陈年]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-zacapa-centenario-25]
 ratings:
   vivino: {score: 4.8, votes: 21439}
   wine_enthusiast: {score: 96, year: 2020}

@@ -6,6 +6,7 @@ tags: [红酒, 波尔多, 波美侯, 车库酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine-red-petrus-2015, ENT-wine-red-trotanoy-2015]
 ratings:
   vivino: {score: 4.2, votes: 37660}
   parker: {score: 83, year: 2023}

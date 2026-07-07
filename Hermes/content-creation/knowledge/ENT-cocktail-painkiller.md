@@ -6,6 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 椰子, 英属维京群岛]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morgan-spiced]
 ---
 
 # 止痛药

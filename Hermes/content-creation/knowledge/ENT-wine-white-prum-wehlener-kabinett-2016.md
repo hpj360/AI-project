@@ -6,6 +6,7 @@ tags: [白酒, 德国, 雷司令, Kabinett]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-loosen-wehlener-kabinett-2016]
 ratings:
   vivino: {score: 4.0, votes: 37041}
   parker: {score: 80, year: 2020}

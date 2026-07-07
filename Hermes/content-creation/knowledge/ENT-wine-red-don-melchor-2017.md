@@ -6,6 +6,7 @@ tags: [红酒, 智利, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-carmin-de-peumo-2017]
 ratings:
   vivino: {score: 4.8, votes: 44896}
   parker: {score: 83, year: 2022}

@@ -6,6 +6,7 @@ tags: [威士忌, 苏格兰, 单一麦芽, 岛屿区]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-highland-park-18]
 ratings:
   vivino: {score: 4.8, votes: 1561}
   whisky_fun: {score: 85, year: 2022}

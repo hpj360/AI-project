@@ -6,6 +6,7 @@ tags: [威士忌, 日本, 单一麦芽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-taketsuru-17, ENT-whisky-taketsuru-21, ENT-whisky-yoichi-10]
 ratings:
   vivino: {score: 4.8, votes: 7368}
   whisky_fun: {score: 90, year: 2021}

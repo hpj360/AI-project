@@ -6,6 +6,7 @@ tags: [鸡尾酒, 分子, 真空低温, 波本, 萃取]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak]
 ---
 
 # 真空低温古典

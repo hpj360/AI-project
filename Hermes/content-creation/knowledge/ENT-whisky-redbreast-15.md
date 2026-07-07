@@ -6,6 +6,7 @@ tags: [威士忌, 爱尔兰, 单一麦芽壶式, 雪莉桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-midleton-very-rare, ENT-whisky-jameson-black-barrel, ENT-whisky-green-spot, ENT-whisky-jameson, ENT-whisky-redbreast-12]
 ratings:
   vivino: {score: 4.1, votes: 25767}
   whisky_fun: {score: 82, year: 2020}

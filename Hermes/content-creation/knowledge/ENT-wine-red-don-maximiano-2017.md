@@ -6,6 +6,7 @@ tags: [红酒, 智利, 波尔多混酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-sena-2017]
 ratings:
   vivino: {score: 4.8, votes: 36182}
   parker: {score: 91, year: 2021}

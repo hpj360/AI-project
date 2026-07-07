@@ -6,6 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 杏仁, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-cocktail-qb-cooler, ENT-cocktail-navy-grog, ENT-cocktail-zombie, ENT-cocktail-nui-nui]
 ---
 
 # 试飞员

@@ -6,6 +6,7 @@ tags: [啤酒, 中国, 青岛, 纯生]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-tsingtao]
 ratings:
   vivino: {score: 4.2, votes: 45784}
   ratebeer: {score: 83, year: 2023}

@@ -6,6 +6,7 @@ tags: [起泡酒, 卡瓦, Codorníu, 传统法]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-juve-y-camps-reserva-2017]
 ratings:
   vivino: {score: 4.1, votes: 31287}
   wine_spectator: {score: 80, year: 2021}

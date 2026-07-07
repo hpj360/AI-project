@@ -6,6 +6,7 @@ tags: [白酒, 新世界, 霞多丽, 加州]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-kendall-jackson-reserve-2018]
 ratings:
   vivino: {score: 4.1, votes: 8710}
   parker: {score: 81, year: 2021}

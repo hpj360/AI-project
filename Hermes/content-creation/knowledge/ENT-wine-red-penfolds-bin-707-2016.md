@@ -6,6 +6,7 @@ tags: [红酒, 澳洲, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-penfolds-yattarna-2016, ENT-wine-red-penfolds-grange-2015]
 ratings:
   vivino: {score: 4.8, votes: 34770}
   parker: {score: 89, year: 2021}

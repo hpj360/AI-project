@@ -6,6 +6,7 @@ tags: [起泡酒, 新世界, Domaine Chandon, 加州]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-schramsberg-blanc-de-blancs-2016]
 ratings:
   vivino: {score: 4.8, votes: 41404}
   wine_spectator: {score: 83, year: 2021}

@@ -6,6 +6,7 @@ tags: [龙舌兰, 墨西哥, Agavita, Blanco]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-tequila-herradura-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco]
 ratings:
   vivino: {score: 4.8, votes: 39699}
   wine_enthusiast: {score: 86, year: 2022}

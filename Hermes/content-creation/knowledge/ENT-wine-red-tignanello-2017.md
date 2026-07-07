@@ -6,6 +6,7 @@ tags: [红酒, 意大利, 超级托斯卡纳, 桑娇维塞]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-flaccianello-2017, ENT-wine-red-solaia-2016]
 ratings:
   vivino: {score: 4.8, votes: 48960}
   parker: {score: 84, year: 2021}

@@ -6,6 +6,7 @@ tags: [白酒, 特香, 江西, 四特酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-site-jiu-hongyun]
 ratings:
   vivino: {score: 4.8, votes: 38315}
   csl: {score: 86, year: 2023}

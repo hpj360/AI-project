@@ -6,6 +6,7 @@ tags: [起泡酒, 弗兰恰科塔, Berlucchi]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-guido-berlucchi-61-nv]
 ratings:
   vivino: {score: 4.8, votes: 13723}
   wine_spectator: {score: 88, year: 2021}

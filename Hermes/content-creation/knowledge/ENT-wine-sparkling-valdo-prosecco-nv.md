@@ -6,6 +6,7 @@ tags: [起泡酒, 普罗塞克, Valdo, 无年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-bisol-crede-nv, ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-adami-garbel-nv]
 ratings:
   vivino: {score: 4.4, votes: 3192}
   wine_spectator: {score: 81, year: 2023}

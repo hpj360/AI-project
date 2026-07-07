@@ -6,6 +6,7 @@ tags: [红酒, 勃艮第, 特级园, 独占园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-clos-des-lambrays-2015]
 ratings:
   vivino: {score: 4.8, votes: 30446}
   parker: {score: 86, year: 2022}

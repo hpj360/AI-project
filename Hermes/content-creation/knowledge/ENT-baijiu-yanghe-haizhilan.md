@@ -6,6 +6,7 @@ tags: [白酒, 浓香, 江苏, 洋河]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-yanghe-tianzhilan, ENT-baijiu-yanghe-mengzhilan-m9, ENT-baijiu-yanghe-mengzhilan-m3]
 ratings:
   vivino: {score: 4.7, votes: 21571}
   csl: {score: 82, year: 2023}

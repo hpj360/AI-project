@@ -6,6 +6,7 @@ tags: [红酒, 波尔多, 圣朱利安]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-leoville-las-cases-2016, ENT-wine-red-ducru-beaucaillou-2016]
 ratings:
   vivino: {score: 4.2, votes: 16444}
   parker: {score: 80, year: 2021}

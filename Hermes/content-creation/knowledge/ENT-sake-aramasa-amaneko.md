@@ -6,6 +6,7 @@ tags: [清酒, 日本, 纯米酒, 新政, 秋田, 亜麻猫]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-takashimizu, ENT-sake-arabashiri-no6]
 ratings:
   vivino: {score: 4.6, votes: 19073}
   sake_revue: {score: 84, year: 2021}

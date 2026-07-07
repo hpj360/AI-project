@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 朗姆, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morgan-spiced, ENT-cocktail-bacardi-cocktail]
 ---
 
 # 得其利

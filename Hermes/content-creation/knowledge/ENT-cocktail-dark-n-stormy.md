@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 朗姆, 姜啤, 百慕大]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morgan-spiced]
 ---
 
 # 黑暗风暴

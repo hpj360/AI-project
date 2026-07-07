@@ -6,6 +6,7 @@ tags: [威士忌, 台湾, 单一麦芽, 原桶强度]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-kavalan-classic]
 ratings:
   vivino: {score: 4.8, votes: 4609}
   whisky_fun: {score: 87, year: 2022}

@@ -6,6 +6,7 @@ tags: [红酒, 勃艮第, 特级园, 传奇]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-echezeaux-drc-2015, ENT-wine-red-grands-echezeaux-2015]
 ratings:
   vivino: {score: 4.8, votes: 11589}
   parker: {score: 87, year: 2022}

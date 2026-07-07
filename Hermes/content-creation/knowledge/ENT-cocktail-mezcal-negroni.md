@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 梅斯卡尔, 苦味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-in-the-rocks, ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold]
 ---
 
 # 梅斯卡尔尼格罗尼

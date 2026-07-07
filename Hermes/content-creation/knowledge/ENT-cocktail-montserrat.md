@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 查特酒, 番石榴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire]
 ---
 
 # 蒙特塞拉特

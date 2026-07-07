@@ -6,6 +6,7 @@ tags: [朗姆酒, 牙买加, Appleton, 陈年]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-appleton-12]
 ratings:
   vivino: {score: 4.8, votes: 28209}
   wine_enthusiast: {score: 84, year: 2020}

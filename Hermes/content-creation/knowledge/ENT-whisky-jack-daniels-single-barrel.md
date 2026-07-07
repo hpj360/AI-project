@@ -6,6 +6,7 @@ tags: [威士忌, 美国, 田纳西威士忌, 单桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-jack-daniels-gentleman-jack, ENT-whisky-jack-daniels-old-no7]
 ratings:
   vivino: {score: 3.8, votes: 31821}
   whisky_fun: {score: 79, year: 2021}

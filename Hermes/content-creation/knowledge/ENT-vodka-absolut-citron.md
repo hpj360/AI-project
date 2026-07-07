@@ -6,6 +6,7 @@ tags: [伏特加, 调味, 瑞典, 绝对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-absolut-original]
 ratings:
   vivino: {score: 4.8, votes: 34311}
   wine_enthusiast: {score: 89, year: 2022}

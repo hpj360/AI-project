@@ -6,6 +6,7 @@ tags: [红酒, 西班牙, Priorat]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-alvaro-palacios-lermita-2017]
 ratings:
   vivino: {score: 4.8, votes: 43986}
   parker: {score: 85, year: 2022}

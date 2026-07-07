@@ -6,6 +6,7 @@ tags: [白酒, 西班牙, Viura, Rioja]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009]
 ratings:
   vivino: {score: 4.8, votes: 31351}
   parker: {score: 88, year: 2021}

@@ -6,6 +6,7 @@ tags: [朗姆酒, 英国, 摩根船长, 香料朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-captain-morgan-black]
 ratings:
   vivino: {score: 4.8, votes: 7532}
   wine_enthusiast: {score: 88, year: 2021}

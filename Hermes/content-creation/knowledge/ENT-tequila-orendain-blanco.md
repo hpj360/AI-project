@@ -6,6 +6,7 @@ tags: [龙舌兰, 墨西哥, Orendain, Blanco, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-tequila-don-valente-blanco]
 ratings:
   vivino: {score: 4.8, votes: 6640}
   wine_enthusiast: {score: 91, year: 2020}

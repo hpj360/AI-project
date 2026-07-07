@@ -6,6 +6,7 @@ tags: [起泡酒, 香槟, Krug, 独占园, 黑中白]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-krug-grande-cuvee-170]
 ratings:
   vivino: {score: 4.8, votes: 36796}
   wine_spectator: {score: 91, year: 2022}

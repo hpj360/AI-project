@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 金酒, 伏特加, 邦德]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-vodka-grey-goose-original, ENT-vodka-absolut-original]
 ---
 
 # 维斯帕

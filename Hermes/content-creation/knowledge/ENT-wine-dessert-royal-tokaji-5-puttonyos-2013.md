@@ -6,6 +6,7 @@ tags: [甜酒, 托卡伊, 5 Puttonyos, 皇家托卡伊]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-dessert-royal-tokaji-eszencia-2008]
 ratings:
   vivino: {score: 4.8, votes: 848}
   parker: {score: 84, year: 2023}

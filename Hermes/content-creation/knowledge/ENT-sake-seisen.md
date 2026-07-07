@@ -6,6 +6,7 @@ tags: [清酒, 日本, 纯米吟醸, 清泉, 新潟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-echigo-toji]
 ratings:
   vivino: {score: 3.8, votes: 2604}
   sake_revue: {score: 81, year: 2020}

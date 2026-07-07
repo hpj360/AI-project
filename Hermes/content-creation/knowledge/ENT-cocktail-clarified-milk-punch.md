@@ -6,6 +6,7 @@ tags: [鸡尾酒, 分子, 澄清, 朗姆, 牛奶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-whisky-macallan-12-double-cask, ENT-cocktail-hanky-panky, ENT-cocktail-bramble, ENT-whisky-macallan-18-sherry-oak]
 ---
 
 # 澄清牛奶潘趣

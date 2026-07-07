@@ -6,6 +6,7 @@ tags: [加强酒, 雪莉, Amontillado, Hidalgo]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-fortified-la-gitana-manzanilla]
 ratings:
   vivino: {score: 4.8, votes: 17915}
   wine_spectator: {score: 87, year: 2022}

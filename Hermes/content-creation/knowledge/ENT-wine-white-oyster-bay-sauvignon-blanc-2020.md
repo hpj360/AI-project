@@ -6,6 +6,7 @@ tags: [白酒, 新世界, 长相思, 马尔堡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-dog-point-sauvignon-blanc-2020, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020]
 ratings:
   vivino: {score: 4.6, votes: 24858}
   parker: {score: 83, year: 2021}

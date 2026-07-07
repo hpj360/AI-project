@@ -6,6 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 多香果, 法属马提尼克]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-cocktail-three-dots-and-a-dash, ENT-rum-captain-morgan-spiced, ENT-rum-bacardi-carta-blanca]
 ---
 
 # 蛇牙

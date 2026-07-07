@@ -6,6 +6,7 @@ tags: [白酒, 卢瓦尔, 长相思, Sancerre]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-rose-bourgeois-sancerre-rose-2019]
 ratings:
   vivino: {score: 4.8, votes: 34285}
   parker: {score: 88, year: 2021}

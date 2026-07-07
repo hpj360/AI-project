@@ -6,6 +6,7 @@ tags: [清酒, 日本, 纯米大吟醸, 十四代, 雫酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-juyondai-shirakumo, ENT-sake-juyondai-honmaru, ENT-sake-juyondai-ryugetsu, ENT-sake-juyondai-soko]
 ratings:
   vivino: {score: 4.8, votes: 4963}
   sake_revue: {score: 91, year: 2023}

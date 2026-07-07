@@ -6,6 +6,7 @@ tags: [龙舌兰, 墨西哥, Olmeca Altos, Blanco, 纯龙舌兰]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-tequila-camarena-reposado]
 ratings:
   vivino: {score: 4.8, votes: 19569}
   wine_enthusiast: {score: 93, year: 2020}

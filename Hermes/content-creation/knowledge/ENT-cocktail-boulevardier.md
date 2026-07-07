@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 波本, 苦味, 巴黎]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-between-the-sheets, ENT-whisky-macallan-12-double-cask, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary, ENT-cocktail-sidecar]
 ---
 
 # 林荫大道

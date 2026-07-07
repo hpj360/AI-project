@@ -6,6 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 百香果, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-cocktail-vieux-carre, ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-rum-bacardi-carta-blanca]
 ---
 
 # 飓风

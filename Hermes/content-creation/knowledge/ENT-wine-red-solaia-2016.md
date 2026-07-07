@@ -6,6 +6,7 @@ tags: [红酒, 意大利, 超级托斯卡纳]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-flaccianello-2017, ENT-wine-red-tignanello-2017]
 ratings:
   vivino: {score: 4.7, votes: 25816}
   parker: {score: 86, year: 2020}

@@ -6,6 +6,7 @@ tags: [威士忌, 爱尔兰, 单一麦芽, 三桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-bushmills-original]
 ratings:
   vivino: {score: 4.8, votes: 18894}
   whisky_fun: {score: 91, year: 2022}

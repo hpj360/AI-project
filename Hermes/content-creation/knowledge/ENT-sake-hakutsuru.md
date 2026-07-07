@@ -6,6 +6,7 @@ tags: [清酒, 日本, 本酿造, 白鹤, 兵库]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-kikumasamune]
 ratings:
   vivino: {score: 4.4, votes: 39925}
   sake_revue: {score: 82, year: 2022}

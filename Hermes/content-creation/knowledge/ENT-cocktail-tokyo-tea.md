@@ -6,6 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 长饮, 派对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-sake-bomb, ENT-rum-bacardi-8, ENT-gin-bombay-sapphire-east, ENT-vodka-grey-goose-original, ENT-gin-tanqueray-london-dry]
 ---
 
 # 东京冰茶

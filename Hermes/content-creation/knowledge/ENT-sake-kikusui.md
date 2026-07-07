@@ -6,6 +6,7 @@ tags: [清酒, 日本, 本酿造, 菊水, 新潟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-kamonishiki]
 ratings:
   vivino: {score: 3.9, votes: 21128}
   sake_revue: {score: 82, year: 2020}

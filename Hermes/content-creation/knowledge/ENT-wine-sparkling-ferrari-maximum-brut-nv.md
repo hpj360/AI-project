@@ -6,6 +6,7 @@ tags: [起泡酒, Trento DOC, Ferrari, 无年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-ferrari-riserva-del-fondatore-2012]
 ratings:
   vivino: {score: 4.4, votes: 6476}
   wine_spectator: {score: 83, year: 2023}

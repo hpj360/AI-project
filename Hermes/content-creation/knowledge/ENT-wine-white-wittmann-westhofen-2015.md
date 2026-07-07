@@ -6,6 +6,7 @@ tags: [白酒, 德国, 雷司令, 有机]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-keller-abtserde-2015]
 ratings:
   vivino: {score: 4.4, votes: 42159}
   parker: {score: 81, year: 2021}

@@ -6,6 +6,7 @@ tags: [红酒, 罗讷河谷, 南罗讷, GSM]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-pegau-2016, ENT-wine-red-clos-des-papes-2016]
 ratings:
   vivino: {score: 4.8, votes: 248}
   parker: {score: 85, year: 2023}

@@ -6,6 +6,7 @@ tags: [朗姆酒, 危地马拉, Zacapa, 限量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-zacapa-23]
 ratings:
   vivino: {score: 4.8, votes: 31270}
   wine_enthusiast: {score: 97, year: 2020}

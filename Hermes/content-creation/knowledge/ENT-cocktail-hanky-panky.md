@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 金酒, 芬内特]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-bramble, ENT-gin-bombay-sapphire]
 ---
 
 # 汉基潘基

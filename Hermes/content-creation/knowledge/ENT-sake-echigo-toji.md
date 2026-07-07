@@ -6,6 +6,7 @@ tags: [清酒, 日本, 纯米酒, 越后杜氏, 新潟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-seisen]
 ratings:
   vivino: {score: 4.3, votes: 12993}
   sake_revue: {score: 84, year: 2022}

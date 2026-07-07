@@ -6,6 +6,7 @@ tags: [龙舌兰, 墨西哥, Camarena, Reposado]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-tequila-olmeca-altos-plata]
 ratings:
   vivino: {score: 3.9, votes: 23158}
   wine_enthusiast: {score: 78, year: 2021}

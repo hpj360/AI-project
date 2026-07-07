@@ -6,6 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 威士忌, 经典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-sake-bomb, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-cocktail-tokyo-tea, ENT-whisky-macallan-12-sherry-oak]
 ---
 
 # 武士

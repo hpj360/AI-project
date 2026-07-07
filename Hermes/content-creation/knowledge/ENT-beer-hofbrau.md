@@ -6,6 +6,7 @@ tags: [啤酒, 德国, HB, 皇家啤酒, 慕尼黑清啤]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-paulaner]
 ratings:
   vivino: {score: 4.8, votes: 40235}
   ratebeer: {score: 84, year: 2022}

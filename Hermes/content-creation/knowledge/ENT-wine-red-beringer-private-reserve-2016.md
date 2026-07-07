@@ -6,6 +6,7 @@ tags: [红酒, 纳帕谷, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-joseph-phelps-insignia-2016]
 ratings:
   vivino: {score: 4.8, votes: 27450}
   parker: {score: 87, year: 2021}

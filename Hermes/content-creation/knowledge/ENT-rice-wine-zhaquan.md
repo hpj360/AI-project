@@ -6,6 +6,7 @@ tags: [米酒, 扎泉, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rice-wine-tian-jiuniang, ENT-rice-wine-nuomi-jiu]
 ---
 
 # 扎泉酒

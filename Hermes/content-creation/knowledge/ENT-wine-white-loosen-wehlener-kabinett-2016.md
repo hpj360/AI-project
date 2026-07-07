@@ -6,6 +6,7 @@ tags: [白酒, 德国, 雷司令, Kabinett]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-prum-wehlener-kabinett-2016]
 ratings:
   vivino: {score: 4.8, votes: 17974}
   parker: {score: 87, year: 2022}

@@ -6,6 +6,7 @@ tags: [红酒, 智利, 波尔多混酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-rose-montes-cherub-2020]
 ratings:
   vivino: {score: 3.9, votes: 36908}
   parker: {score: 82, year: 2020}

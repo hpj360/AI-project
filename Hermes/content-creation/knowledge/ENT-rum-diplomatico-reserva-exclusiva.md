@@ -6,6 +6,7 @@ tags: [朗姆酒, 委内瑞拉, Diplomatico, 陈年]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-diplomatico-ambassador]
 ratings:
   vivino: {score: 4.8, votes: 32559}
   wine_enthusiast: {score: 97, year: 2022}

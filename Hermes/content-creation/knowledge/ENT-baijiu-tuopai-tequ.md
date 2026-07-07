@@ -6,6 +6,7 @@ tags: [白酒, 浓香, 四川, 沱牌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-shede-zhihui-shede]
 ratings:
   vivino: {score: 4.8, votes: 14620}
   csl: {score: 89, year: 2023}

@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 实验, 蛋壳]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-cocktail-mezcal-negroni, ENT-rum-captain-morgan-spiced]
 ---
 
 # 岩石中

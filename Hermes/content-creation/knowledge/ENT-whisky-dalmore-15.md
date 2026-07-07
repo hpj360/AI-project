@@ -6,6 +6,7 @@ tags: [威士忌, 苏格兰, 单一麦芽, 高地, 雪莉桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-dalmore-12, ENT-whisky-glenmorangie-original, ENT-whisky-glenmorangie-lasanta, ENT-whisky-clynelish-14]
 ratings:
   vivino: {score: 4.8, votes: 14466}
   whisky_fun: {score: 89, year: 2021}

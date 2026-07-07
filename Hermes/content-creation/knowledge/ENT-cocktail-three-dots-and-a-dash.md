@@ -6,6 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 蜂蜜, 法属马提尼克]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-cobras-fang, ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-rum-captain-morgan-spiced]
 ---
 
 # 三点一划

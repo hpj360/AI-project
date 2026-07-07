@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 酸酒, 梅斯卡尔]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-cocktail-whiskey-sour]
 ---
 
 # 赤裸与成名

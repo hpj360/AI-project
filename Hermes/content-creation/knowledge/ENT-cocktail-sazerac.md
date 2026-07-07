@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 威士忌, 新奥尔良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-vieux-carre, ENT-whisky-macallan-12-double-cask, ENT-cocktail-hurricane, ENT-cocktail-brandy-crusta, ENT-whisky-macallan-18-sherry-oak]
 ---
 
 # 赛泽瑞克

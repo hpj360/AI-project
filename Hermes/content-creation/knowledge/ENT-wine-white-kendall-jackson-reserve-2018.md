@@ -6,6 +6,7 @@ tags: [白酒, 新世界, 霞多丽, 加州]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-kistler-les-embisees-2017]
 ratings:
   vivino: {score: 4.8, votes: 1250}
   parker: {score: 84, year: 2022}

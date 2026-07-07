@@ -6,6 +6,7 @@ tags: [金酒, 英国, Whitley Neill]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-gordons-london-dry, ENT-gin-tanqueray-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-gordons-elderflower, ENT-gin-tanqueray-rangpur]
 ratings:
   vivino: {score: 4.8, votes: 46020}
   wine_enthusiast: {score: 87, year: 2023}

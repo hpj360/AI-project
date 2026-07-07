@@ -6,6 +6,7 @@ tags: [起泡酒, 卡瓦, Freixenet, 无年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-juve-y-camps-reserva-2017]
 ratings:
   vivino: {score: 4.8, votes: 46425}
   wine_spectator: {score: 89, year: 2020}

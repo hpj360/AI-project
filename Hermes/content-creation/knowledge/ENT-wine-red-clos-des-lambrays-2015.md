@@ -6,6 +6,7 @@ tags: [红酒, 勃艮第, 特级园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-clos-de-tart-2016]
 ratings:
   vivino: {score: 4.1, votes: 6455}
   parker: {score: 80, year: 2022}

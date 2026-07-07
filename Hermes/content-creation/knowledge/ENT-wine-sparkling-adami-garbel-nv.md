@@ -6,6 +6,7 @@ tags: [起泡酒, 普罗塞克, Adami, DOCG]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-sparkling-bisol-crede-nv, ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-valdo-prosecco-nv]
 ratings:
   vivino: {score: 4.8, votes: 46247}
   wine_spectator: {score: 85, year: 2022}

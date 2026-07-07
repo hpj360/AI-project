@@ -6,6 +6,7 @@ tags: [清酒, 日本, 纯米酒, 十四代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-juyondai-honmaru, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-ryugetsu, ENT-sake-juyondai-soko]
 ratings:
   vivino: {score: 4.8, votes: 4342}
   sake_revue: {score: 92, year: 2021}

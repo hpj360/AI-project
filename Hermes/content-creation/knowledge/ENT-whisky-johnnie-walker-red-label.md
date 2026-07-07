@@ -6,6 +6,7 @@ tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25, ENT-whisky-johnnie-walker-blue-label, ENT-whisky-chivas-regal-12, ENT-whisky-johnnie-walker-black-label]
 ratings:
   vivino: {score: 4.0, votes: 3851}
   whisky_fun: {score: 80, year: 2023}

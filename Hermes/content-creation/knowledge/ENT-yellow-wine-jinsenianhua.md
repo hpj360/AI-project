@@ -6,6 +6,7 @@ tags: [黄酒, 上海, 金色年华, 海派]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-yellow-wine-shikumen, ENT-yellow-wine-hejiu]
 ---
 
 # 金色年华

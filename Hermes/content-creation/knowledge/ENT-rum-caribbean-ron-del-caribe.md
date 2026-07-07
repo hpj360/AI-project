@@ -6,6 +6,7 @@ tags: [朗姆酒, 古巴, 加勒比]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-havana-club-3, ENT-rum-havana-club-anejo-reserva, ENT-rum-havana-club-7]
 ratings:
   vivino: {score: 4.8, votes: 27759}
   wine_enthusiast: {score: 87, year: 2023}

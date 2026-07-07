@@ -6,6 +6,7 @@ tags: [白兰地, 干邑, 法国, 马爹利, 经典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-brandy-hennessy-vs, ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-noblige, ENT-brandy-hennessy-vsop]
 ratings:
   vivino: {score: 4.8, votes: 31666}
   wine_enthusiast: {score: 98, year: 2022}

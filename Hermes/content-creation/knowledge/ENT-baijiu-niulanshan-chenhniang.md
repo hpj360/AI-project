@@ -6,6 +6,7 @@ tags: [白酒, 清香, 北京, 牛栏山]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-niulanshan-erguotou-lvping]
 ratings:
   vivino: {score: 4.1, votes: 2727}
   csl: {score: 80, year: 2023}

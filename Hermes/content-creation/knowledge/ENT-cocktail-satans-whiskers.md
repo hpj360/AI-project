@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 橙味力乔, 橙汁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-corpse-reviver-no2, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky-savoy, ENT-cocktail-hanky-panky]
 ---
 
 # 撒旦的胡须

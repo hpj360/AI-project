@@ -6,6 +6,7 @@ tags: [加强酒, 雪莉, Oloroso, Williams & Humbert]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-lustau-palo-cortado-vors]
 ratings:
   vivino: {score: 4.8, votes: 12881}
   wine_spectator: {score: 88, year: 2023}

@@ -6,6 +6,7 @@ tags: [威士忌, 爱尔兰, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-redbreast-15, ENT-whisky-midleton-very-rare, ENT-whisky-green-spot, ENT-whisky-jameson, ENT-whisky-redbreast-12]
 ratings:
   vivino: {score: 4.8, votes: 20546}
   whisky_fun: {score: 94, year: 2023}

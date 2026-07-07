@@ -6,6 +6,7 @@ tags: [白酒, 清香, 山西, 汾酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-fenjiu-qinghua-30, ENT-baijiu-fenjiu-laobaifen-10]
 ratings:
   vivino: {score: 4.8, votes: 29308}
   csl: {score: 91, year: 2023}

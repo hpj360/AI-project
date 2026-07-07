@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 威士忌, 黑麦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-old-cuban, ENT-whisky-macallan-12-double-cask, ENT-cocktail-paper-plane, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak]
 ---
 
 # 红钩

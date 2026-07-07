@@ -6,6 +6,7 @@ tags: [啤酒, 中国, 燕京, 工业拉格]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-snow, ENT-beer-jing-a, ENT-beer-nbpt, ENT-beer-great-leap, ENT-beer-slowboat]
 ratings:
   vivino: {score: 4.8, votes: 47901}
   ratebeer: {score: 89, year: 2020}

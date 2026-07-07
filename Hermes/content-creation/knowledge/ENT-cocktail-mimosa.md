@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 起泡酒, 早午餐]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-between-the-sheets, ENT-cocktail-bloody-mary, ENT-cocktail-sidecar, ENT-cocktail-bees-knees, ENT-cocktail-white-lady]
 ---
 
 # 含羞草

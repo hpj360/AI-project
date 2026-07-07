@@ -6,6 +6,7 @@ tags: [红酒, 罗讷河谷, 北罗讷, 西拉]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-red-chave-hermitage-2015]
 ratings:
   vivino: {score: 4.7, votes: 2543}
   parker: {score: 82, year: 2021}

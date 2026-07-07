@@ -6,6 +6,7 @@ tags: [啤酒, 比利时, 智美, 修道院啤酒, 金啤]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-chimay-red, ENT-beer-chimay-blue]
 ratings:
   vivino: {score: 4.8, votes: 29060}
   ratebeer: {score: 87, year: 2021}

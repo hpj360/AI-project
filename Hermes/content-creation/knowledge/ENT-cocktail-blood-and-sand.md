@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 波本, 樱桃, 橙汁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-macallan-12-double-cask, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak]
 ---
 
 # 血与沙

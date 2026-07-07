@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 威士忌, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-dirty-martini, ENT-whisky-macallan-12-double-cask, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-macallan-18-sherry-oak]
 ---
 
 # 威士忌酸酒

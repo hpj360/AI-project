@@ -6,6 +6,7 @@ tags: [啤酒, 丹麦, 嘉士伯, 工业拉格]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-fruit-wine-somersby]
 ratings:
   vivino: {score: 4.8, votes: 18707}
   ratebeer: {score: 87, year: 2020}

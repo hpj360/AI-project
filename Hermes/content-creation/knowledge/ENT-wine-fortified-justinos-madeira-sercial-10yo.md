@@ -6,6 +6,7 @@ tags: [加强酒, 马德拉, Sercial, 陈年]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-fortified-blandys-vintage-bual-1996]
 ratings:
   vivino: {score: 4.5, votes: 38428}
   wine_spectator: {score: 84, year: 2021}

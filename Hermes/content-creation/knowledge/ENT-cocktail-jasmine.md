@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 坎帕里, 酸酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-fogcutter, ENT-gin-tanqueray-london-dry, ENT-cocktail-martinez, ENT-cocktail-tommys-margarita]
 ---
 
 # 茉莉

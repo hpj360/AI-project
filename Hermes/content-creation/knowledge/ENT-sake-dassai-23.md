@@ -6,6 +6,7 @@ tags: [清酒, 日本, 纯米大吟醸, 獭祭]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-dassai-39, ENT-sake-dassai-50, ENT-sake-dassai-39-nigori, ENT-sake-dassai-45, ENT-sake-dassai-23-nigori]
 ratings:
   vivino: {score: 4.8, votes: 7088}
   sake_revue: {score: 97, year: 2023}

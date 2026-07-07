@@ -6,6 +6,7 @@ tags: [鸡尾酒, 分子, 球化, 金巴利, 橙汁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres]
 ---
 
 # 金巴利橙球

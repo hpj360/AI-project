@@ -6,6 +6,7 @@ tags: [威士忌, 爱尔兰, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-bushmills-16]
 ratings:
   vivino: {score: 4.8, votes: 49337}
   whisky_fun: {score: 91, year: 2023}

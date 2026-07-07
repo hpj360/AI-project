@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 橙味力乔, 等比]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky-savoy, ENT-cocktail-hanky-panky, ENT-cocktail-satans-whiskers]
 ---
 
 # 尸体复活者二号

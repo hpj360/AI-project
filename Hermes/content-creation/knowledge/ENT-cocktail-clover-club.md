@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 金酒, 覆盆子]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry]
 ---
 
 # 三叶草俱乐部

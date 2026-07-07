@@ -6,6 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 金酒, 雪莉, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-bacardi-8, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-scorpion, ENT-brandy-hennessy-xo]
 ---
 
 # 破雾者

@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 树莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-grey-goose-original, ENT-cocktail-cosmopolitan, ENT-vodka-absolut-original, ENT-cocktail-aviation, ENT-vodka-absolut-citron]
 ---
 
 # 法兰西马天尼

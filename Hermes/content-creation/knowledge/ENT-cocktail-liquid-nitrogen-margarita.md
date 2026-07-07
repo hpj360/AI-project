@@ -6,6 +6,7 @@ tags: [鸡尾酒, 分子, 液氮, 龙舌兰, 冰沙]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco]
 ---
 
 # 液氮玛格丽特

@@ -6,6 +6,7 @@ tags: [龙舌兰, 墨西哥, Gran Centenario, Reposado]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-tequila-herradura-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco]
 ratings:
   vivino: {score: 4.8, votes: 13107}
   wine_enthusiast: {score: 83, year: 2022}

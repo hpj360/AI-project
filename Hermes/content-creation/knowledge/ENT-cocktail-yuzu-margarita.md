@@ -6,6 +6,7 @@ tags: [鸡尾酒, 亚洲, 柚子, 龙舌兰, 日本]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-sake-bomb, ENT-cocktail-samurai, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-cocktail-tokyo-tea]
 ---
 
 # 柚子玛格丽特

@@ -6,6 +6,7 @@ tags: [鸡尾酒, 分子, 洗油, 波本, 培根]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-dry-martini]
 ---
 
 # 培根脂肪洗油波本

@@ -6,6 +6,7 @@ tags: [清酒, 日本, 本酿造, 菊正宗, 兵库]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-hakutsuru]
 ratings:
   vivino: {score: 4.0, votes: 8095}
   sake_revue: {score: 82, year: 2020}

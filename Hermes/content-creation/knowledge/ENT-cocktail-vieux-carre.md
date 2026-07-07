@@ -6,6 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 干邑, 新奥尔良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-macallan-12-double-cask, ENT-cocktail-sazerac, ENT-cocktail-hurricane, ENT-brandy-hennessy-xo, ENT-cocktail-brandy-crusta]
 ---
 
 # 老广场

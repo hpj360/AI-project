@@ -6,6 +6,7 @@ tags: [鸡尾酒, 托迪, 威士忌, 热饮, 冬季]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
 ---
 
 # 热托迪

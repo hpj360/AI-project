@@ -6,6 +6,7 @@ tags: [白酒, 勃艮第, 夏布利, 特级园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-white-chablis-vaudesir-dauvissat-2016, ENT-wine-white-chablis-clos-raveneau-2016]
 ratings:
   vivino: {score: 4.8, votes: 35333}
   parker: {score: 89, year: 2022}

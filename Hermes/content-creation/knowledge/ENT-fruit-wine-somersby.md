@@ -6,6 +6,7 @@ tags: [果酒, 西打酒, 苹果酒, 丹麦, Somersby]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-carlsberg]
 ---
 
 # Somersby 西打酒

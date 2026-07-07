@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 伏特加, 咖啡, 伦敦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-grey-goose-original, ENT-vodka-absolut-original, ENT-cocktail-hanky-panky, ENT-vodka-absolut-citron, ENT-cocktail-espresso-martini]
 ---
 
 # 浓缩咖啡马天尼（迪克原版）

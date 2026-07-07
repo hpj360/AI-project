@@ -6,6 +6,7 @@ tags: [鸡尾酒, 斯马修, 白兰地, 薄荷, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-cosmopolitan, ENT-brandy-hennessy-xo, ENT-cocktail-aviation, ENT-brandy-hennessy-vs, ENT-cocktail-whiskey-sour]
 ---
 
 # 白兰地斯马修
