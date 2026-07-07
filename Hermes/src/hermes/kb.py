@@ -70,27 +70,82 @@ VALID_CATEGORY = {"ENT", "PRJ", "SOP", "DEC", "ANTI"}
 
 
 def parse_frontmatter(raw: str) -> tuple[dict, str]:
-    """解析 YAML frontmatter（简化版，不依赖 pyyaml）。"""
+    """解析 YAML frontmatter（简化版，支持嵌套 ratings/awards）。"""
     m = FM_PATTERN.match(raw)
     if not m:
         return {}, raw
     fm_text = m.group(1)
     body = m.group(2)
     meta = {}
-    for line in fm_text.split("\n"):
-        line = line.rstrip()
+    lines = fm_text.split("\n")
+    i = 0
+    while i < len(lines):
+        line = lines[i].rstrip()
         if not line or line.startswith("#"):
+            i += 1
             continue
-        if ":" in line:
+        # 顶层 key: value
+        if not line.startswith(" ") and ":" in line:
             key, _, val = line.partition(":")
             key = key.strip()
             val = val.strip()
+            if not val:
+                # 可能是嵌套块（ratings: / awards:）
+                i += 1
+                if key == "ratings":
+                    ratings = {}
+                    while i < len(lines) and lines[i].startswith("  ") and ":" in lines[i]:
+                        sub_line = lines[i].strip()
+                        sub_key, _, sub_val = sub_line.partition(":")
+                        sub_key = sub_key.strip()
+                        sub_val = sub_val.strip()
+                        # 解析行内 dict {score: 4.8, votes: 39882}
+                        if sub_val.startswith("{") and sub_val.endswith("}"):
+                            inner = {}
+                            for part in sub_val[1:-1].split(","):
+                                if ":" in part:
+                                    pk, _, pv = part.partition(":")
+                                    inner[pk.strip()] = pv.strip().strip('"\'')
+                            ratings[sub_key] = inner
+                        else:
+                            ratings[sub_key] = sub_val.strip('"\'')
+                        i += 1
+                    meta[key] = ratings
+                    continue
+                elif key == "awards":
+                    awards = []
+                    while i < len(lines) and lines[i].startswith("  -"):
+                        sub_line = lines[i].strip("- ").strip()
+                        if sub_val.startswith("{") if (sub_val := sub_line.split(":",1)[1].strip() if ":" in sub_line else "") else False:
+                            inner = {}
+                            if sub_line.startswith("{") and sub_line.endswith("}"):
+                                for part in sub_line[1:-1].split(","):
+                                    if ":" in part:
+                                        pk, _, pv = part.partition(":")
+                                        inner[pk.strip()] = pv.strip().strip('"\'')
+                            awards.append(inner)
+                        else:
+                            # 解析 {name: xxx, year: xxx, org: xxx}
+                            if "{" in sub_line:
+                                dict_part = sub_line[sub_line.index("{"):sub_line.rindex("}")+1]
+                                inner = {}
+                                for part in dict_part[1:-1].split(","):
+                                    if ":" in part:
+                                        pk, _, pv = part.partition(":")
+                                        inner[pk.strip()] = pv.strip().strip('"\'')
+                                awards.append(inner)
+                        i += 1
+                    meta[key] = awards
+                    continue
+                else:
+                    continue
             # 解析列表 [a, b, c]
-            if val.startswith("[") and val.endswith("]"):
+            elif val.startswith("[") and val.endswith("]"):
                 items = [x.strip().strip('"\'') for x in val[1:-1].split(",") if x.strip()]
                 meta[key] = items
             else:
                 meta[key] = val.strip('"\'')
+        i += 1
     return meta, body
 
 
@@ -111,6 +166,8 @@ def load_entry(path: Path) -> Optional[Entry]:
         created=meta.get("created", ""),
         updated=meta.get("updated", ""),
         related=meta.get("related", []) if isinstance(meta.get("related"), list) else [],
+        ratings=meta.get("ratings", {}) if isinstance(meta.get("ratings"), dict) else {},
+        awards=meta.get("awards", []) if isinstance(meta.get("awards"), list) else [],
         content=body,
         raw=raw,
         file_path=path,
