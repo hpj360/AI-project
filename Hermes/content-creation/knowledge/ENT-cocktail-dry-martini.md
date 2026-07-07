@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 金酒, 经典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-dirty-martini, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-cocktail-dirty-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ---
 
 # 干马天尼
@@ -55,6 +55,11 @@ related: [ENT-cocktail-dirty-martini, ENT-gin-bombay-sapphire-east, ENT-gin-tanq
 - **出品容量**：75ml 冰镇鸡尾酒杯
 - **装饰**：柠檬皮或橄榄
 - **估算酒精度**：30%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥28
+- **风味平衡**：干烈纯净
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

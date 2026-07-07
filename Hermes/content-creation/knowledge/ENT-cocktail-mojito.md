@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 朗姆, 薄荷, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-el-presidente, ENT-cocktail-mary-pickford, ENT-cocktail-hotel-nacional-special, ENT-cocktail-casablanca]
+related: [ENT-cocktail-el-presidente, ENT-cocktail-hotel-nacional-special, ENT-cocktail-mary-pickford, ENT-cocktail-casablanca, ENT-rum-off-164-bumbu-original-rum-40]
 ---
 
 # 莫吉托
@@ -58,6 +58,11 @@ related: [ENT-rum-bacardi-8, ENT-cocktail-el-presidente, ENT-cocktail-mary-pickf
 - **出品容量**：200ml 高杯
 - **装饰**：薄荷枝与青柠片
 - **估算酒精度**：13%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥15
+- **风味平衡**：清凉酸甜
+- **适饮季节**：夏季
+- **适饮场合**：午后
 
 ## 风味描述
 

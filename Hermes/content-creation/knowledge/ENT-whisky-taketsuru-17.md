@@ -6,7 +6,7 @@ tags: [威士忌, 日本, 调和麦芽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-taketsuru-21, ENT-whisky-hibiki-21, ENT-whisky-yoichi-10, ENT-whisky-hibiki-17, ENT-whisky-yoichi-15]
+related: [ENT-whisky-yoichi-10, ENT-whisky-hibiki-21, ENT-whisky-hibiki-17, ENT-whisky-taketsuru-21, ENT-whisky-yoichi-15]
 ratings:
   vivino: {score: 4.7, votes: 43614}
   whisky_fun: {score: 82, year: 2023}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 禁酒令, 金酒, 力乔酒, 复苏]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky, ENT-cocktail-bramble, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini, ENT-gin-tanqueray-london-dry]
 ---
 
 # 尸体复活者二号
@@ -57,6 +57,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cockta
 - **出品容量**：80ml 冰镇鸡尾酒杯
 - **装饰**：橙皮
 - **估算酒精度**：24%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥28
+- **风味平衡**：酸甜均衡
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

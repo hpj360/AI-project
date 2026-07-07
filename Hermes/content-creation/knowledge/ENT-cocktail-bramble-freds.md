@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 黑莓力乔, 伦敦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini-dick]
+related: [ENT-cocktail-espresso-martini-dick, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini, ENT-gin-tanqueray-london-dry]
 ---
 
 # 荆棘（弗雷德俱乐部版本）
@@ -57,6 +57,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cockta
 - **出品容量**：120ml 古典杯
 - **装饰**：黑莓与青柠片
 - **估算酒精度**：20%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥28
+- **风味平衡**：酸甜浆果
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

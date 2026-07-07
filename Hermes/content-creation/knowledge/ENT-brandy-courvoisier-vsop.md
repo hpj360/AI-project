@@ -6,7 +6,7 @@ tags: [白兰地, 干邑, 法国, 拿破仑]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vs, ENT-brandy-courvoisier-champs-elysees, ENT-brandy-courvoisier-xo, ENT-brandy-hennessy-vsop]
+related: [ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees, ENT-brandy-off-228-cognac-vs]
 ratings:
   vivino: {score: 4.8, votes: 5446}
   wine_enthusiast: {score: 100, year: 2022}

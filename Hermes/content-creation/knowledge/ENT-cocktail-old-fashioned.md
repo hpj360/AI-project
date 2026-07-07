@@ -6,7 +6,7 @@ tags: [鸡尾酒, 古典, 威士忌, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-242-ballantine-s-finest]
 ---
 
 # 古典
@@ -57,6 +57,11 @@ related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask,
 - **出品容量**：90ml 冰块古典杯
 - **装饰**：橙皮与酒渍樱桃
 - **估算酒精度**：32%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥28
+- **风味平衡**：甜苦烈润
+- **适饮季节**：秋冬
+- **适饮场合**：餐后
 
 ## 风味描述
 

@@ -6,7 +6,7 @@ tags: [加强酒, 雪莉, Palo Cortado, VORS]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-williams-humbert-dry-oloroso]
+related: [ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-gonzalez-byass-tio-pepe-fino]
 ratings:
   vivino: {score: 4.7, votes: 34654}
   wine_spectator: {score: 82, year: 2020}

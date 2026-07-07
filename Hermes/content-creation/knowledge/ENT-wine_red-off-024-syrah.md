@@ -1,0 +1,62 @@
+---
+id: ENT-wine_red-off-024-syrah
+title: Syrah
+category: ENT
+tags: [OpenFoodFacts, wine_red, 红葡萄酒, Mar de Uvas]
+status: active
+created: 2026-07-07
+updated: 2026-07-07
+ratings:
+  vivino: {score: 4.1, votes: 20736}
+  parker: {score: 83, year: 2021}
+  wine_spectator: {score: 81, year: 2023}
+  james_suckling: {score: 81, year: 2020}
+  cellar_tracker: {score: 3.8, votes: 441}
+---
+
+# Syrah
+
+**Syrah**
+
+## 概述
+
+OpenFoodFacts 真实产品数据：Syrah（Mar de Uvas）
+
+## 基础信息
+
+- **中文名**：Syrah
+- **外文名**：Syrah
+- **别名**：Mar de Uvas
+- **分类**：红葡萄酒
+- **产地**：未知
+- **生产商**：Mar de Uvas
+- **酒精度**：未知
+- **容量**：750 ml
+- **参考价格（RMB）**：¥50-300
+- **价格档位**：daily
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.1 | 20736 |
+| Robert Parker (WA) | 83 | 2021 |
+| Wine Spectator | 81 | 2023 |
+| James Suckling | 81 | 2020 |
+| CellarTracker | 3.8 | 441 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：16-18℃
+- **推荐酒杯**：波尔多杯
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。

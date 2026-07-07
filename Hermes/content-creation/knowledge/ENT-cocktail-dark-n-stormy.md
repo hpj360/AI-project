@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 朗姆, 姜啤, 百慕大]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morgan-spiced]
+related: [ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
 ---
 
 # 黑暗风暴
@@ -56,6 +56,11 @@ related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morga
 - **出品容量**：200ml 高杯
 - **装饰**：青柠片
 - **估算酒精度**：10%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥18
+- **风味平衡**：辛辣微甜
+- **适饮季节**：夏季
+- **适饮场合**：午后
 
 ## 风味描述
 

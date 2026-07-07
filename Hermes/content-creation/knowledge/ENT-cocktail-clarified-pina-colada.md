@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 离心, 朗姆, 椰子, 菠萝]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morgan-spiced]
+related: [ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-mojito-spheres]
 ---
 
 # 澄清椰林飘香
@@ -56,6 +56,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-ru
 - **出品容量**：90ml coupe
 - **装饰**：菠萝叶
 - **估算酒精度**：16%
+- **用冰类型**：无
+- **成本（RMB）**：¥48
+- **风味平衡**：甜润清爽
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

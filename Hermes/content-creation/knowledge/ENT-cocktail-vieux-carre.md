@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 干邑, 新奥尔良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-double-cask, ENT-cocktail-sazerac, ENT-cocktail-hurricane, ENT-brandy-hennessy-xo, ENT-cocktail-brandy-crusta]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-gin-fizz]
 ---
 
 # 老广场
@@ -59,6 +59,11 @@ related: [ENT-whisky-macallan-12-double-cask, ENT-cocktail-sazerac, ENT-cocktail
 - **出品容量**：75ml 冰镇古典杯
 - **装饰**：橙皮与樱桃
 - **估算酒精度**：27%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥35
+- **风味平衡**：甜润复杂
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

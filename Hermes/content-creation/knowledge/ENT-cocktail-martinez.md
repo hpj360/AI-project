@@ -6,7 +6,7 @@ tags: [鸡尾酒, 古典, 金酒, 味美思, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-fogcutter, ENT-gin-tanqueray-london-dry, ENT-cocktail-tommys-margarita, ENT-gin-bombay-sapphire]
+related: [ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-jasmine, ENT-cocktail-chartreuse-swizzle, ENT-gin-bombay-sapphire-east]
 ---
 
 # 马天尼斯
@@ -56,6 +56,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-fogcutter, ENT-gin-tanquera
 - **出品容量**：80ml 冰镇鸡尾酒杯
 - **装饰**：柠檬皮
 - **估算酒精度**：26%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥26
+- **风味平衡**：甜润草本
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 香草, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-qb-cooler, ENT-cocktail-test-pilot, ENT-cocktail-navy-grog, ENT-cocktail-zombie]
+related: [ENT-cocktail-qb-cooler, ENT-cocktail-test-pilot, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-zombie, ENT-rum-off-162-captain-morgan-spiced-gold]
 ---
 
 # 努伊努伊
@@ -58,6 +58,11 @@ related: [ENT-rum-bacardi-8, ENT-cocktail-qb-cooler, ENT-cocktail-test-pilot, EN
 - **出品容量**：150ml 提基杯
 - **装饰**：香草荚与薄荷
 - **估算酒精度**：22%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥32
+- **风味平衡**：甜润香草
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

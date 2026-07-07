@@ -6,7 +6,7 @@ tags: [红酒, 波尔多, 一级庄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-palmer-2015, ENT-wine-red-rauzan-segla-2016]
+related: [ENT-wine-red-rauzan-segla-2016, ENT-wine-red-palmer-2015]
 ratings:
   vivino: {score: 4.8, votes: 14998}
   parker: {score: 94, year: 2022}

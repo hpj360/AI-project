@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 白兰地, 朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary, ENT-brandy-hennessy-xo, ENT-cocktail-sidecar]
+related: [ENT-brandy-hennessy-xo, ENT-cocktail-bees-knees, ENT-brandy-hennessy-vsop, ENT-cocktail-white-lady, ENT-rum-off-164-bumbu-original-rum-40]
 ---
 
 # 枕边话
@@ -57,6 +57,11 @@ related: [ENT-rum-bacardi-8, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary, ENT-
 - **出品容量**：80ml 冰镇鸡尾酒杯
 - **装饰**：柠檬皮
 - **估算酒精度**：28%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥32
+- **风味平衡**：酸甜有力
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

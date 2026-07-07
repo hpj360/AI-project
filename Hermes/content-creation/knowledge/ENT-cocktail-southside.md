@@ -6,7 +6,7 @@ tags: [鸡尾酒, 禁酒令, 金酒, 薄荷, 酸酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-dry-martini]
 ---
 
 # 南区
@@ -56,6 +56,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cockta
 - **出品容量**：80ml 冰镇鸡尾酒杯
 - **装饰**：薄荷枝
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥22
+- **风味平衡**：清凉酸甜
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

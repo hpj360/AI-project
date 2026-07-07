@@ -6,7 +6,7 @@ tags: [白兰地, 干邑, 法国, 卡慕]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-camus-vsop, ENT-brandy-camus-xo]
+related: [ENT-brandy-camus-xo, ENT-brandy-camus-vsop]
 ratings:
   vivino: {score: 4.8, votes: 20165}
   wine_enthusiast: {score: 93, year: 2022}

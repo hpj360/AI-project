@@ -6,7 +6,7 @@ tags: [龙舌兰, 墨西哥, 豪帅, Gold, Mixto]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-herradura-reposado, ENT-tequila-don-julio-reposado, ENT-tequila-patron-silver, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco]
+related: [ENT-tequila-off-193-blue-agave-gold-tequila, ENT-tequila-sauza-blanco, ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco]
 ratings:
   vivino: {score: 4.4, votes: 40964}
   wine_enthusiast: {score: 82, year: 2022}

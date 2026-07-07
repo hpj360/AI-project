@@ -6,7 +6,7 @@ tags: [鸡尾酒, 禁酒令, 金酒, 蜂蜜]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-between-the-sheets, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary]
+related: [ENT-cocktail-white-lady, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire-east, ENT-cocktail-sidecar]
 ---
 
 # 蜜蜂之膝
@@ -55,6 +55,11 @@ related: [ENT-cocktail-between-the-sheets, ENT-gin-bombay-sapphire-east, ENT-gin
 - **出品容量**：80ml 冰镇鸡尾酒杯
 - **装饰**：柠檬皮
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥22
+- **风味平衡**：甜润酸甜
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

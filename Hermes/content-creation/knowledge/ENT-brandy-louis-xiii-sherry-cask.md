@@ -6,7 +6,7 @@ tags: [白兰地, 干邑, 法国, 人头马, 限量, 雪莉桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-xo, ENT-brandy-hennessy-vs, ENT-brandy-remy-martin-club, ENT-brandy-hennessy-vsop]
+related: [ENT-brandy-hennessy-vsop, ENT-brandy-remy-martin-vsop, ENT-brandy-hennessy-vs, ENT-brandy-remy-martin-xo, ENT-brandy-remy-martin-club]
 ratings:
   vivino: {score: 4.7, votes: 25209}
   wine_enthusiast: {score: 85, year: 2021}

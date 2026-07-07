@@ -6,7 +6,7 @@ tags: [甜酒, 苏玳, Suduiraut, 一级庄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-guiraud-2015, ENT-wine-dessert-yquem-2015]
+related: [ENT-wine-dessert-yquem-2015, ENT-wine-dessert-guiraud-2015]
 ratings:
   vivino: {score: 4.4, votes: 28618}
   parker: {score: 82, year: 2023}

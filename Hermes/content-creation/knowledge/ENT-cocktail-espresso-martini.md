@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 咖啡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-gimlet, ENT-vodka-grey-goose-original, ENT-vodka-absolut-original, ENT-cocktail-hanky-panky, ENT-cocktail-bramble]
+related: [ENT-cocktail-vesper, ENT-cocktail-gimlet, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-earl-grey-martini, ENT-vodka-off-143-vodka-triple-distilled]
 ---
 
 # 浓缩咖啡马天尼
@@ -57,6 +57,11 @@ related: [ENT-cocktail-gimlet, ENT-vodka-grey-goose-original, ENT-vodka-absolut-
 - **出品容量**：90ml 冰镇鸡尾酒杯
 - **装饰**：咖啡豆三粒
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥22
+- **风味平衡**：苦甜浓郁
+- **适饮季节**：四季
+- **适饮场合**：餐后
 
 ## 风味描述
 

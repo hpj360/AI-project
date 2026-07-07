@@ -6,7 +6,7 @@ tags: [起泡酒, 香槟, Lanson, 无年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170]
+related: [ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
 ratings:
   vivino: {score: 4.8, votes: 17428}
   wine_spectator: {score: 87, year: 2022}

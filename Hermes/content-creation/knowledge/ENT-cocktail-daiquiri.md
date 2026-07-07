@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 朗姆, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morgan-spiced, ENT-cocktail-bacardi-cocktail]
+related: [ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-bacardi-cocktail, ENT-rum-off-163-rhum-negrita]
 ---
 
 # 得其利
@@ -56,6 +56,11 @@ related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morga
 - **出品容量**：90ml 冰镇鸡尾酒杯
 - **装饰**：青柠片
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥15
+- **风味平衡**：酸甜清爽
+- **适饮季节**：夏季
+- **适饮场合**：餐前
 
 ## 风味描述
 

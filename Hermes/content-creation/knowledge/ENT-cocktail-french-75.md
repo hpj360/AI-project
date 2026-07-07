@@ -6,7 +6,7 @@ tags: [鸡尾酒, 禁酒令, 金酒, 香槟, 气泡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-between-the-sheets, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary]
+related: [ENT-cocktail-white-lady, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire-east, ENT-cocktail-sidecar]
 ---
 
 # 法兰西 75
@@ -56,6 +56,11 @@ related: [ENT-cocktail-between-the-sheets, ENT-gin-bombay-sapphire-east, ENT-gin
 - **出品容量**：150ml 笛形香槟杯
 - **装饰**：柠檬皮
 - **估算酒精度**：12%
+- **用冰类型**：无冰
+- **成本（RMB）**：¥30
+- **风味平衡**：酸甜气泡
+- **适饮季节**：四季
+- **适饮场合**：庆典
 
 ## 风味描述
 

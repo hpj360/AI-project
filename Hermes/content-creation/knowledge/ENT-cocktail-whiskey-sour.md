@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 威士忌, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-dirty-martini, ENT-whisky-macallan-12-double-cask, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-cocktail-dirty-martini, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-dry-martini]
 ---
 
 # 威士忌酸酒
@@ -57,6 +57,11 @@ related: [ENT-cocktail-dirty-martini, ENT-whisky-macallan-12-double-cask, ENT-co
 - **出品容量**：100ml 冰镇酸酒杯
 - **装饰**：柠檬片与酒渍樱桃
 - **估算酒精度**：20%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥22
+- **风味平衡**：酸甜均衡
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

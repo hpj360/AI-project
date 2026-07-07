@@ -6,7 +6,7 @@ tags: [鸡尾酒, 禁酒令, 朗姆, 味美思, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-mojito, ENT-cocktail-mary-pickford, ENT-cocktail-hotel-nacional-special, ENT-cocktail-casablanca]
+related: [ENT-cocktail-mojito, ENT-cocktail-hotel-nacional-special, ENT-cocktail-mary-pickford, ENT-cocktail-casablanca, ENT-rum-off-164-bumbu-original-rum-40]
 ---
 
 # 总统
@@ -56,6 +56,11 @@ related: [ENT-rum-bacardi-8, ENT-cocktail-mojito, ENT-cocktail-mary-pickford, EN
 - **出品容量**：80ml 冰镇鸡尾酒杯
 - **装饰**：橙皮
 - **估算酒精度**：24%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥25
+- **风味平衡**：甜润微苦
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

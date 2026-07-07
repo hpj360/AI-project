@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 龙舌兰, 青柠, 蜂蜜]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-fogcutter, ENT-cocktail-martinez, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco]
+related: [ENT-cocktail-martinez, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-185-silver-tequila-40, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-jasmine]
 ---
 
 # 汤米的玛格丽特
@@ -57,6 +57,11 @@ related: [ENT-cocktail-fogcutter, ENT-cocktail-martinez, ENT-tequila-jose-cuervo
 - **出品容量**：100ml 古典杯
 - **装饰**：青柠轮
 - **估算酒精度**：24%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥30
+- **风味平衡**：酸甜纯净
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

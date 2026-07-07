@@ -6,7 +6,7 @@ tags: [白兰地, 干邑, 法国, 轩尼诗]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-vs, ENT-brandy-martell-vsop, ENT-brandy-hennessy-richard]
+related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-martell-vsop, ENT-brandy-hennessy-richard, ENT-brandy-hennessy-vs]
 ratings:
   vivino: {score: 4.8, votes: 32425}
   wine_enthusiast: {score: 98, year: 2021}

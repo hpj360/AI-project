@@ -6,7 +6,7 @@ tags: [威士忌, 爱尔兰, 单一麦芽壶式]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-redbreast-15, ENT-whisky-midleton-very-rare, ENT-whisky-jameson-black-barrel, ENT-whisky-jameson, ENT-whisky-redbreast-12]
+related: [ENT-whisky-redbreast-15, ENT-whisky-jameson-black-barrel, ENT-whisky-midleton-very-rare, ENT-whisky-redbreast-12, ENT-whisky-jameson]
 ratings:
   vivino: {score: 4.2, votes: 45866}
   whisky_fun: {score: 82, year: 2022}

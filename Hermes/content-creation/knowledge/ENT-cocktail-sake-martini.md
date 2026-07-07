@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 金酒, 优雅]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-bomb, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-samurai, ENT-cocktail-tokyo-tea]
+related: [ENT-cocktail-yuzu-margarita, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb, ENT-gin-bombay-sapphire-east]
 ---
 
 # 清酒马天尼
@@ -54,6 +54,11 @@ related: [ENT-cocktail-sake-bomb, ENT-gin-bombay-sapphire-east, ENT-gin-tanquera
 - **出品容量**：75ml 冰镇 coupe
 - **装饰**：黄瓜片或橄榄
 - **估算酒精度**：28%
+- **用冰类型**：无
+- **成本（RMB）**：¥28
+- **风味平衡**：干爽米香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

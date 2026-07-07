@@ -6,7 +6,7 @@ tags: [鸡尾酒, 柯伯乐, 雪利酒, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-cocktail-dry-martini, ENT-cocktail-cosmopolitan, ENT-cocktail-whiskey-sour]
 ---
 
 # 雪利柯伯乐
@@ -55,6 +55,11 @@ related: [ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-cocktail-whiskey
 - **出品容量**：200ml 高杯或红酒杯
 - **装饰**：橙片与时令水果，吸管
 - **估算酒精度**：17%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥20
+- **风味平衡**：甜润坚果
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

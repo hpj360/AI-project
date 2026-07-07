@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 橙味力乔, 等比]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky-savoy, ENT-cocktail-hanky-panky, ENT-cocktail-satans-whiskers]
+related: [ENT-cocktail-hanky-panky, ENT-gin-bombay-sapphire, ENT-cocktail-satans-whiskers, ENT-cocktail-espresso-martini, ENT-gin-tanqueray-london-dry]
 ---
 
 # 尸体复活者二号
@@ -58,6 +58,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cockta
 - **出品容量**：80ml 冰镇 coupe
 - **装饰**：橙皮
 - **估算酒精度**：24%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥32
+- **风味平衡**：酸甜清爽
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

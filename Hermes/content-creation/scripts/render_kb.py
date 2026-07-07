@@ -265,6 +265,22 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
             body.append(f"- **装饰**：{entry['garnish']}")
         if entry.get("abv_estimate"):
             body.append(f"- **估算酒精度**：{entry['abv_estimate']}%")
+        if entry.get("ice_type"):
+            body.append(f"- **用冰类型**：{entry['ice_type']}")
+        if entry.get("smoke_type"):
+            body.append(f"- **烟熏类型**：{entry['smoke_type']}")
+        if entry.get("cost_rmb"):
+            body.append(f"- **成本（RMB）**：¥{entry['cost_rmb']}")
+        if entry.get("balance"):
+            body.append(f"- **风味平衡**：{entry['balance']}")
+        if entry.get("season"):
+            body.append(f"- **适饮季节**：{entry['season']}")
+        if entry.get("occasion"):
+            occ = entry["occasion"]
+            if isinstance(occ, list):
+                body.append(f"- **适饮场合**：{', '.join(occ)}")
+            else:
+                body.append(f"- **适饮场合**：{occ}")
         body.append("")
 
     # 分子技法

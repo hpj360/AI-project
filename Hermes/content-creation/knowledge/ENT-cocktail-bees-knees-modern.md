@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 蜂蜜, 柠檬, 禁酒令]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-between-the-sheets, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary]
+related: [ENT-cocktail-white-lady, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire-east, ENT-cocktail-sidecar]
 ---
 
 # 蜜蜂之吻（现代改良）
@@ -56,6 +56,11 @@ related: [ENT-cocktail-between-the-sheets, ENT-gin-bombay-sapphire-east, ENT-gin
 - **出品容量**：90ml 冰镇 coupe
 - **装饰**：柠檬皮
 - **估算酒精度**：24%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥28
+- **风味平衡**：甜蜜酸甜
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

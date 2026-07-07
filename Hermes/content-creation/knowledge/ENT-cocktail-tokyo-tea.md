@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 长饮, 派对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-bomb, ENT-rum-bacardi-8, ENT-gin-bombay-sapphire-east, ENT-vodka-grey-goose-original, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-sake-martini, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-yuzu-margarita, ENT-rum-off-164-bumbu-original-rum-40, ENT-gin-bombay-sapphire]
 ---
 
 # 东京冰茶
@@ -60,6 +60,11 @@ related: [ENT-cocktail-sake-bomb, ENT-rum-bacardi-8, ENT-gin-bombay-sapphire-eas
 - **出品容量**：300ml 高杯
 - **装饰**：柠檬角
 - **估算酒精度**：22%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥35
+- **风味平衡**：甜酸烈润
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

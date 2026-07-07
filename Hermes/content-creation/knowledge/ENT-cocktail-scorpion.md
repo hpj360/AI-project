@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 白兰地, 橙, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-rum-bacardi-carta-blanca]
+related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-rum-off-164-bumbu-original-rum-40, ENT-brandy-hennessy-vs, ENT-rum-off-162-captain-morgan-spiced-gold]
 ---
 
 # 蝎子
@@ -58,6 +58,11 @@ related: [ENT-rum-bacardi-8, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vs, ENT
 - **出品容量**：240ml 提基碗
 - **装饰**：水果与薄荷
 - **估算酒精度**：20%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥30
+- **风味平衡**：甜润果香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

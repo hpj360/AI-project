@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 洗油, 波本, 培根]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-cocktail-dry-martini, ENT-cocktail-cosmopolitan, ENT-cocktail-whiskey-sour]
 ---
 
 # 培根脂肪洗油波本
@@ -56,6 +56,11 @@ related: [ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-cocktail-whiskey
 - **出品容量**：80ml 冰镇古典杯
 - **装饰**：培根片
 - **估算酒精度**：28%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥48
+- **风味平衡**：咸甜烟熏
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

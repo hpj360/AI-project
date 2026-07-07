@@ -6,7 +6,7 @@ tags: [金酒, 伦敦干, 英国, 添加利]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-gordons-london-dry, ENT-gin-beefeater-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-gordons-elderflower, ENT-gin-tanqueray-rangpur]
+related: [ENT-gin-tanqueray-no-ten, ENT-gin-off-120-tanqueray-london-dry-gin, ENT-gin-gordons-london-dry, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-elderflower]
 ratings:
   vivino: {score: 4.8, votes: 2718}
   wine_enthusiast: {score: 94, year: 2023}

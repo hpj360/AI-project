@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 费内特布兰卡, 伦敦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-corpse-reviver-no2, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky, ENT-cocktail-satans-whiskers]
+related: [ENT-cocktail-corpse-reviver-no2, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-cocktail-satans-whiskers, ENT-cocktail-espresso-martini]
 ---
 
 # 汉基潘基（萨伏伊版本）
@@ -56,6 +56,11 @@ related: [ENT-cocktail-corpse-reviver-no2, ENT-gin-bombay-sapphire-east, ENT-gin
 - **出品容量**：75ml 冰镇 coupe
 - **装饰**：橙皮
 - **估算酒精度**：27%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥33
+- **风味平衡**：甜润苦烈
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

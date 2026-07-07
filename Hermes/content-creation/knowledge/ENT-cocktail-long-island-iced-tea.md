@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 烈, 长饮]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-gin-bombay-sapphire-east, ENT-vodka-grey-goose-original, ENT-gin-tanqueray-london-dry, ENT-vodka-absolut-original]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-tequila-off-183-tequila-gold, ENT-gin-bombay-sapphire, ENT-rum-off-164-bumbu-original-rum-40, ENT-vodka-off-143-vodka-triple-distilled]
 ---
 
 # 长岛冰茶
@@ -61,6 +61,11 @@ related: [ENT-rum-bacardi-8, ENT-gin-bombay-sapphire-east, ENT-vodka-grey-goose-
 - **出品容量**：250ml 高杯
 - **装饰**：柠檬片
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥28
+- **风味平衡**：甜烈有力
+- **适饮季节**：夏季
+- **适饮场合**：派对
 
 ## 风味描述
 

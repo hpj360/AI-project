@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 白兰地, 菠萝, 朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-cocktail-hanky-panky, ENT-cocktail-bramble, ENT-brandy-hennessy-vs, ENT-cocktail-espresso-martini]
+related: [ENT-cocktail-vesper, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-earl-grey-martini, ENT-cocktail-espresso-martini]
 ---
 
 # 东印度二号
@@ -57,6 +57,11 @@ related: [ENT-brandy-hennessy-xo, ENT-cocktail-hanky-panky, ENT-cocktail-bramble
 - **出品容量**：80ml 冰镇 coupe
 - **装饰**：酒渍樱桃与菠萝
 - **估算酒精度**：26%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥34
+- **风味平衡**：甜润果香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

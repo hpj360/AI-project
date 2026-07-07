@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 查特酒, 苹果白兰地]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-double-cask, ENT-brandy-hennessy-xo, ENT-whisky-macallan-18-sherry-oak, ENT-brandy-hennessy-vs, ENT-whisky-macallan-12-sherry-oak]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-whisky-off-243-whisky-40, ENT-brandy-hennessy-vs]
 ---
 
 # 响尾蛇
@@ -55,6 +55,11 @@ related: [ENT-whisky-macallan-12-double-cask, ENT-brandy-hennessy-xo, ENT-whisky
 - **出品容量**：75ml 冰镇古典杯
 - **装饰**：酒渍樱桃
 - **估算酒精度**：30%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥36
+- **风味平衡**：甜烈草本
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

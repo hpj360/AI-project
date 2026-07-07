@@ -6,7 +6,7 @@ tags: [红酒, 纳帕谷, 美国, 膜拜酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-opus-one-2016, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014]
+related: [ENT-wine-red-heitz-cellar-martha-2014, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-harlan-estate-2015, ENT-wine-red-opus-one-2016]
 ratings:
   vivino: {score: 4.8, votes: 45241}
   parker: {score: 89, year: 2023}

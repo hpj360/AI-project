@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 蜂蜜, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-qb-cooler, ENT-cocktail-test-pilot, ENT-cocktail-zombie, ENT-cocktail-nui-nui]
+related: [ENT-cocktail-qb-cooler, ENT-cocktail-test-pilot, ENT-cocktail-nui-nui, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-zombie]
 ---
 
 # 海军格罗格
@@ -58,6 +58,11 @@ related: [ENT-rum-bacardi-8, ENT-cocktail-qb-cooler, ENT-cocktail-test-pilot, EN
 - **出品容量**：160ml 提基杯
 - **装饰**：薄荷枝
 - **估算酒精度**：26%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥35
+- **风味平衡**：烈甜酸平衡
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

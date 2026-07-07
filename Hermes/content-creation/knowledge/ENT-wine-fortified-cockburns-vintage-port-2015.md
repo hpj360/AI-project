@@ -6,7 +6,7 @@ tags: [加强酒, 波特, 年份, Cockburn's]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-warres-vintage-port-2016, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related: [ENT-wine-fortified-warres-vintage-port-2016, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016]
 ratings:
   vivino: {score: 4.8, votes: 17732}
   wine_spectator: {score: 87, year: 2023}

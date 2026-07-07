@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 真空低温, 金酒, 浸渍]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ---
 
 # 真空低温金酒浸渍
@@ -57,6 +57,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-gi
 - **出品容量**：60ml 冰镇 coupe
 - **装饰**：柠檬皮
 - **估算酒精度**：40%
+- **用冰类型**：无
+- **成本（RMB）**：¥50
+- **风味平衡**：干爽烈香
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

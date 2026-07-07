@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 柚子, 龙舌兰, 日本]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-bomb, ENT-cocktail-samurai, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-cocktail-tokyo-tea]
+related: [ENT-cocktail-sake-martini, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-sake-bomb, ENT-cocktail-saketini]
 ---
 
 # 柚子玛格丽特
@@ -57,6 +57,11 @@ related: [ENT-cocktail-sake-bomb, ENT-cocktail-samurai, ENT-tequila-jose-cuervo-
 - **出品容量**：100ml 古典杯
 - **装饰**：盐边与柚子皮
 - **估算酒精度**：20%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥30
+- **风味平衡**：酸甜清香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 苹果白兰地, 等比]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-old-cuban, ENT-whisky-macallan-12-double-cask, ENT-brandy-hennessy-xo, ENT-cocktail-paper-plane, ENT-cocktail-red-hook]
+related: [ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-paper-plane]
 ---
 
 # 最终守护
@@ -57,6 +57,11 @@ related: [ENT-cocktail-old-cuban, ENT-whisky-macallan-12-double-cask, ENT-brandy
 - **出品容量**：80ml 冰镇 coupe
 - **装饰**：酒渍樱桃
 - **估算酒精度**：26%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥34
+- **风味平衡**：酸甜果烈均衡
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

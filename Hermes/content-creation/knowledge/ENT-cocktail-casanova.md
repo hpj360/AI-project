@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 伏特加, 荔枝, 香槟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-between-the-sheets, ENT-vodka-grey-goose-original, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary, ENT-vodka-absolut-original]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-cocktail-white-lady, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sidecar]
 ---
 
 # 卡萨诺瓦
@@ -56,6 +56,11 @@ related: [ENT-cocktail-between-the-sheets, ENT-vodka-grey-goose-original, ENT-co
 - **出品容量**：120ml 笛型杯
 - **装饰**：荔枝
 - **估算酒精度**：18%
+- **用冰类型**：无
+- **成本（RMB）**：¥32
+- **风味平衡**：甜润花香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

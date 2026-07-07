@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 波本, 葡萄柚, 蜂蜜]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-kamikaze, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-cocktail-westside, ENT-whisky-macallan-12-sherry-oak]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-melon-ball, ENT-cocktail-test-pilot-modern, ENT-whisky-off-243-whisky-40, ENT-cocktail-smoke-signal]
 ---
 
 # 棕色德比
@@ -55,6 +55,11 @@ related: [ENT-cocktail-kamikaze, ENT-whisky-macallan-12-double-cask, ENT-whisky-
 - **出品容量**：100ml 冰镇 coupe
 - **装饰**：葡萄柚皮
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥28
+- **风味平衡**：酸甜微苦
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

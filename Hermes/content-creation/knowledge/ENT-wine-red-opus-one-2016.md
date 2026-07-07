@@ -6,7 +6,7 @@ tags: [红酒, 纳帕谷, 美国, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014]
+related: [ENT-wine-red-heitz-cellar-martha-2014, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-harlan-estate-2015, ENT-wine-red-screaming-eagle-2015]
 ratings:
   vivino: {score: 4.7, votes: 23257}
   parker: {score: 84, year: 2022}

@@ -6,7 +6,7 @@ tags: [红酒, 意大利, 超级托斯卡纳, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-ornellaia-2016, ENT-wine-red-masseto-2016]
+related: [ENT-wine-red-masseto-2016, ENT-wine-red-ornellaia-2016]
 ratings:
   vivino: {score: 4.6, votes: 16644}
   parker: {score: 84, year: 2022}

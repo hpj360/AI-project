@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 樱桃力乔]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-double-cask, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-dry-martini, ENT-cocktail-cosmopolitan]
 ---
 
 # 缅怀缅因号
@@ -57,6 +57,11 @@ related: [ENT-whisky-macallan-12-double-cask, ENT-cocktail-cosmopolitan, ENT-coc
 - **出品容量**：75ml 冰镇古典杯
 - **装饰**：酒渍樱桃
 - **估算酒精度**：28%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥32
+- **风味平衡**：甜润微烈
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

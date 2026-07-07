@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 坎帕里, 酸酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-fogcutter, ENT-gin-tanqueray-london-dry, ENT-cocktail-martinez, ENT-cocktail-tommys-margarita]
+related: [ENT-cocktail-martinez, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-chartreuse-swizzle, ENT-gin-bombay-sapphire-east]
 ---
 
 # 茉莉
@@ -56,6 +56,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-fogcutter, ENT-gin-tanquera
 - **出品容量**：80ml 冰镇 coupe
 - **装饰**：青柠皮
 - **估算酒精度**：24%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥28
+- **风味平衡**：苦酸微甜
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

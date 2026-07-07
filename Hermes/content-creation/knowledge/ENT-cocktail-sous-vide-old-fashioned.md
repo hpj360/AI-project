@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 真空低温, 波本, 萃取]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-whisky-off-243-whisky-40]
 ---
 
 # 真空低温古典
@@ -57,6 +57,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-wh
 - **出品容量**：80ml 冰镇古典杯
 - **装饰**：橙皮
 - **估算酒精度**：30%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥48
+- **风味平衡**：甜润浓郁烈香
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

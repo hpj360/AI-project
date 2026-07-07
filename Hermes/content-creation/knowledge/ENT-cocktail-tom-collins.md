@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 金酒, 长饮]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-dry-martini]
 ---
 
 # 汤姆柯林斯
@@ -57,6 +57,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cockta
 - **出品容量**：200ml 柯林斯杯
 - **装饰**：柠檬片与酒渍樱桃
 - **估算酒精度**：12%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥15
+- **风味平衡**：酸甜清爽
+- **适饮季节**：夏季
+- **适饮场合**：午后
 
 ## 风味描述
 

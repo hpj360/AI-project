@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 加利亚诺]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-vodka-grey-goose-original]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-142-poliakov]
 ---
 
 # 哈维撞墙
@@ -56,6 +56,11 @@ related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-vodka-grey-g
 - **出品容量**：200ml 高杯
 - **装饰**：橙片与酒渍樱桃
 - **估算酒精度**：13%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥18
+- **风味平衡**：甜润草本
+- **适饮季节**：夏季
+- **适饮场合**：午后
 
 ## 风味描述
 

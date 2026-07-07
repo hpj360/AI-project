@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 朗姆, 菠萝, 杏, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-el-presidente, ENT-cocktail-mojito, ENT-cocktail-mary-pickford, ENT-cocktail-casablanca]
+related: [ENT-cocktail-mojito, ENT-cocktail-el-presidente, ENT-cocktail-mary-pickford, ENT-cocktail-casablanca, ENT-rum-off-164-bumbu-original-rum-40]
 ---
 
 # 国家酒店特调
@@ -58,6 +58,11 @@ related: [ENT-rum-bacardi-8, ENT-cocktail-el-presidente, ENT-cocktail-mojito, EN
 - **出品容量**：120ml 冰镇 coupe
 - **装饰**：菠萝叶与樱桃
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥34
+- **风味平衡**：甜酸果香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

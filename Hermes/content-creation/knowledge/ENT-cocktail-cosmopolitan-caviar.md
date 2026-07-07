@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 球化, 伏特加, 蔓越莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-vodka-grey-goose-original, ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-cocktail-whiskey-cola-spheres]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-off-143-vodka-triple-distilled]
 ---
 
 # 大都会鱼子酱
@@ -58,6 +58,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-vodka-grey-goose-original, ENT-vodka
 - **出品容量**：60ml 浅碟
 - **装饰**：橙皮
 - **估算酒精度**：16%
+- **用冰类型**：无
+- **成本（RMB）**：¥46
+- **风味平衡**：酸甜果香
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

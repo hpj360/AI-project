@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 查特酒, 苦精]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-old-cuban, ENT-whisky-macallan-12-double-cask, ENT-cocktail-paper-plane, ENT-cocktail-red-hook, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-paper-plane, ENT-cocktail-old-cuban, ENT-cocktail-dry-martini]
 ---
 
 # 绿点
@@ -58,6 +58,11 @@ related: [ENT-cocktail-old-cuban, ENT-whisky-macallan-12-double-cask, ENT-cockta
 - **出品容量**：75ml 冰镇古典杯
 - **装饰**：酒渍樱桃
 - **估算酒精度**：28%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥33
+- **风味平衡**：甜润苦烈
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

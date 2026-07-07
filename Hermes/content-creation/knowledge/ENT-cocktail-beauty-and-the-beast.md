@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 查特酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-dry-martini]
 ---
 
 # 美女与野兽
@@ -56,6 +56,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cockta
 - **出品容量**：75ml 冰镇古典杯
 - **装饰**：柠檬皮
 - **估算酒精度**：26%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥34
+- **风味平衡**：甜润苦香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

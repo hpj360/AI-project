@@ -6,7 +6,7 @@ tags: [红酒, 罗讷河谷, 南罗讷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-pegau-2016, ENT-wine-red-chateauneuf-beaucastel-2016]
+related: [ENT-wine-red-chateauneuf-beaucastel-2016, ENT-wine-red-pegau-2016]
 ratings:
   vivino: {score: 4.8, votes: 30490}
   parker: {score: 87, year: 2023}

@@ -6,7 +6,7 @@ tags: [朗姆酒, 波多黎各, 百加得, 陈年]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-carta-blanca]
+related: [ENT-rum-off-181-bacardi-razz, ENT-rum-bacardi-carta-blanca]
 ratings:
   vivino: {score: 4.8, votes: 17076}
   wine_enthusiast: {score: 93, year: 2022}

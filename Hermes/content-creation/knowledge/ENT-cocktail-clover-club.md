@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 金酒, 覆盆子]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-philadelphia-fish-house-punch, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry]
 ---
 
 # 三叶草俱乐部
@@ -57,6 +57,11 @@ related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanquer
 - **出品容量**：90ml 冰镇鸡尾酒杯
 - **装饰**：覆盆子
 - **估算酒精度**：20%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥24
+- **风味平衡**：酸甜绵密
+- **适饮季节**：春夏
+- **适饮场合**：餐前
 
 ## 风味描述
 

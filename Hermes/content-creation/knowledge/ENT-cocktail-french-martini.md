@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 树莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-grey-goose-original, ENT-cocktail-cosmopolitan, ENT-vodka-absolut-original, ENT-cocktail-aviation, ENT-vodka-absolut-citron]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-dry-martini]
 ---
 
 # 法兰西马天尼
@@ -56,6 +56,11 @@ related: [ENT-vodka-grey-goose-original, ENT-cocktail-cosmopolitan, ENT-vodka-ab
 - **出品容量**：100ml 冰镇鸡尾酒杯
 - **装饰**：柠檬皮
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥22
+- **风味平衡**：甜润果香
+- **适饮季节**：春夏
+- **适饮场合**：餐前
 
 ## 风味描述
 

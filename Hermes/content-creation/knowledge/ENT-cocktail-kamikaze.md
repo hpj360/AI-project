@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 青柠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-brown-derby, ENT-vodka-grey-goose-original, ENT-vodka-absolut-original, ENT-cocktail-westside, ENT-vodka-absolut-citron]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-brown-derby, ENT-cocktail-melon-ball, ENT-cocktail-test-pilot-modern, ENT-vodka-off-143-vodka-triple-distilled]
 ---
 
 # 神风特攻
@@ -56,6 +56,11 @@ related: [ENT-cocktail-brown-derby, ENT-vodka-grey-goose-original, ENT-vodka-abs
 - **出品容量**：75ml 冰镇鸡尾酒杯
 - **装饰**：青柠片
 - **估算酒精度**：26%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥18
+- **风味平衡**：酸爽凛冽
+- **适饮季节**：四季
+- **适饮场合**：派对
 
 ## 风味描述
 

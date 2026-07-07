@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 酸酒, 波士顿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-ward-eight, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-ward-eight]
 ---
 
 # 第八选区特调
@@ -57,6 +57,11 @@ related: [ENT-cocktail-ward-eight, ENT-whisky-macallan-12-sherry-oak, ENT-whisky
 - **出品容量**：90ml 冰镇 coupe
 - **装饰**：橙片与樱桃
 - **估算酒精度**：24%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥28
+- **风味平衡**：酸甜微烈
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

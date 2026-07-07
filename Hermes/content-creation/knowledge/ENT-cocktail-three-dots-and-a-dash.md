@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 蜂蜜, 法属马提尼克]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-cobras-fang, ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-rum-captain-morgan-spiced]
+related: [ENT-cocktail-cobras-fang, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
 ---
 
 # 三点一划
@@ -58,6 +58,11 @@ related: [ENT-cocktail-cobras-fang, ENT-rum-bacardi-carta-blanca, ENT-rum-bacard
 - **出品容量**：150ml 提基杯
 - **装饰**：三樱桃一肉桂棒
 - **估算酒精度**：22%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥36
+- **风味平衡**：甜润辛香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

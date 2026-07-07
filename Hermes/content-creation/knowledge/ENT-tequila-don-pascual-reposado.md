@@ -6,7 +6,7 @@ tags: [龙舌兰, 墨西哥, Don Pascual, Reposado]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-herradura-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco]
+related: [ENT-tequila-herradura-reposado, ENT-tequila-sauza-blanco, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco]
 ratings:
   vivino: {score: 4.5, votes: 14364}
   wine_enthusiast: {score: 82, year: 2023}

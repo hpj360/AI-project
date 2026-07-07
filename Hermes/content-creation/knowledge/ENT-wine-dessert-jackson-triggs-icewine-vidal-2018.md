@@ -6,7 +6,7 @@ tags: [甜酒, 冰酒, 加拿大, Jackson-Triggs]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-inniskillin-icewine-vidal-2018, ENT-wine-dessert-inniskillin-icewine-riesling-2018]
+related: [ENT-wine-dessert-inniskillin-icewine-riesling-2018, ENT-wine-dessert-inniskillin-icewine-vidal-2018]
 ratings:
   vivino: {score: 4.1, votes: 35880}
   parker: {score: 83, year: 2023}

@@ -6,7 +6,7 @@ tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 原桶强度]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-bowmore-15, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8, ENT-whisky-bowmore-12, ENT-whisky-ardbeg-10]
+related: [ENT-whisky-lagavulin-16, ENT-whisky-bowmore-12, ENT-whisky-lagavulin-8, ENT-whisky-ardbeg-10, ENT-whisky-bowmore-15]
 ratings:
   vivino: {score: 4.8, votes: 19035}
   whisky_fun: {score: 91, year: 2021}

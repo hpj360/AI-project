@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 金酒, 雪莉, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-scorpion, ENT-brandy-hennessy-xo]
+related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-scorpion, ENT-rum-off-164-bumbu-original-rum-40, ENT-gin-bombay-sapphire]
 ---
 
 # 破雾者
@@ -59,6 +59,11 @@ related: [ENT-rum-bacardi-8, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-lon
 - **出品容量**：180ml 提基杯
 - **装饰**：薄荷与水果
 - **估算酒精度**：24%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥38
+- **风味平衡**：复合烈甜酸
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

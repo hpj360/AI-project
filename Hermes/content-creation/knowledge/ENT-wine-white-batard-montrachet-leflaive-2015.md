@@ -6,7 +6,7 @@ tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-chevalier-montrachet-leflaive-2015, ENT-wine-white-puligny-combettes-leflaive-2016, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-pucelles-leflaive-2015]
+related: [ENT-wine-white-chevalier-montrachet-leflaive-2015, ENT-wine-white-puligny-pucelles-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-combettes-leflaive-2016, ENT-wine-white-montrachet-leflaive-2014]
 ratings:
   vivino: {score: 4.5, votes: 31738}
   parker: {score: 83, year: 2021}

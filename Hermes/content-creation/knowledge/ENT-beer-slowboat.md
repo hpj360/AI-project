@@ -6,7 +6,7 @@ tags: [啤酒, 中国, 悠航, 精酿, 北京]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-jing-a, ENT-beer-nbpt, ENT-beer-yanjing, ENT-beer-great-leap]
+related: [ENT-beer-yanjing, ENT-beer-nbpt, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-snow]
 ratings:
   vivino: {score: 4.8, votes: 32405}
   ratebeer: {score: 88, year: 2020}

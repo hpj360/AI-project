@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 橙汁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-vodka-grey-goose-original]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-142-poliakov]
 ---
 
 # 螺丝刀
@@ -55,6 +55,11 @@ related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-vodka-grey-g
 - **出品容量**：200ml 高杯
 - **装饰**：橙片
 - **估算酒精度**：10%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥12
+- **风味平衡**：甜润果香
+- **适饮季节**：四季
+- **适饮场合**：午后
 
 ## 风味描述
 

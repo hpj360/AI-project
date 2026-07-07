@@ -6,6 +6,7 @@ tags: [朗姆酒, 法国, Bardinet]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-off-163-rhum-negrita]
 ratings:
   vivino: {score: 4.8, votes: 28189}
   wine_enthusiast: {score: 84, year: 2020}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 杏仁, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-qb-cooler, ENT-cocktail-navy-grog, ENT-cocktail-zombie, ENT-cocktail-nui-nui]
+related: [ENT-cocktail-qb-cooler, ENT-cocktail-nui-nui, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-zombie, ENT-rum-off-162-captain-morgan-spiced-gold]
 ---
 
 # 试飞员
@@ -58,6 +58,11 @@ related: [ENT-rum-bacardi-8, ENT-cocktail-qb-cooler, ENT-cocktail-navy-grog, ENT
 - **出品容量**：120ml 提基杯
 - **装饰**：薄荷与樱桃
 - **估算酒精度**：30%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥35
+- **风味平衡**：浓烈甜苦
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 姜, 薄荷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-aviation, ENT-gin-bombay-sapphire, ENT-cocktail-whiskey-sour]
+related: [ENT-cocktail-pegu-club-cocktail, ENT-cocktail-manhattan, ENT-cocktail-earl-grey-marteani, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ---
 
 # 姜姜骡子
@@ -58,6 +58,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cockta
 - **出品容量**：180ml 高杯
 - **装饰**：薄荷尖与青柠角
 - **估算酒精度**：18%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥28
+- **风味平衡**：清凉甜辣
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

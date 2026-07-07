@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 苦精, 缅甸]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-cocktail-gin-gin-mule, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-earl-grey-marteani, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire-east, ENT-cocktail-gin-gin-mule]
 ---
 
 # 佩古俱乐部
@@ -57,6 +57,11 @@ related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-cocktail-gi
 - **出品容量**：80ml 冰镇 coupe
 - **装饰**：青柠皮
 - **估算酒精度**：26%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥30
+- **风味平衡**：清爽酸甜
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

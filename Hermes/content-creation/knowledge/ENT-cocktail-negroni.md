@@ -56,6 +56,11 @@ related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanquer
 - **出品容量**：90ml 冰块 Old Fashioned 杯
 - **装饰**：橙皮
 - **估算酒精度**：24%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥22
+- **风味平衡**：苦甜均衡
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

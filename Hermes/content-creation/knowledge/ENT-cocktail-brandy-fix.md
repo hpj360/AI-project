@@ -6,7 +6,7 @@ tags: [鸡尾酒, 菲克斯, 白兰地, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-cosmopolitan, ENT-brandy-hennessy-xo, ENT-cocktail-aviation, ENT-brandy-hennessy-vs, ENT-cocktail-whiskey-sour]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-dry-martini]
 ---
 
 # 白兰地菲克斯
@@ -56,6 +56,11 @@ related: [ENT-cocktail-cosmopolitan, ENT-brandy-hennessy-xo, ENT-cocktail-aviati
 - **出品容量**：150ml 红酒杯
 - **装饰**：时令水果
 - **估算酒精度**：22%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥28
+- **风味平衡**：酸甜果香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

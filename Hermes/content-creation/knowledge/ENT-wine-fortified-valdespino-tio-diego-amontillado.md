@@ -6,7 +6,7 @@ tags: [加强酒, 雪莉, Amontillado, Valdespino]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-williams-humbert-dry-oloroso]
+related: [ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-lustau-palo-cortado-vors]
 ratings:
   vivino: {score: 4.1, votes: 29055}
   wine_spectator: {score: 82, year: 2022}

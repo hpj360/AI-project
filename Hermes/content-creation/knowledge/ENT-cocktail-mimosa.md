@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 起泡酒, 早午餐]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-between-the-sheets, ENT-cocktail-bloody-mary, ENT-cocktail-sidecar, ENT-cocktail-bees-knees, ENT-cocktail-white-lady]
+related: [ENT-cocktail-bees-knees, ENT-cocktail-white-lady, ENT-cocktail-sidecar, ENT-cocktail-bloody-mary, ENT-cocktail-between-the-sheets]
 ---
 
 # 含羞草
@@ -55,6 +55,11 @@ related: [ENT-cocktail-between-the-sheets, ENT-cocktail-bloody-mary, ENT-cocktai
 - **出品容量**：150ml 笛形香槟杯
 - **装饰**：橙片
 - **估算酒精度**：8%
+- **用冰类型**：无冰
+- **成本（RMB）**：¥18
+- **风味平衡**：清甜果香
+- **适饮季节**：春夏
+- **适饮场合**：早午餐
 
 ## 风味描述
 

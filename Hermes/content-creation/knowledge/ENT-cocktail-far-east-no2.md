@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 荔枝, 热带]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-dry-martini]
 ---
 
 # 远东二号
@@ -57,6 +57,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cockta
 - **出品容量**：100ml 冰镇 coupe
 - **装饰**：荔枝与青柠
 - **估算酒精度**：20%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥28
+- **风味平衡**：甜酸热带
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

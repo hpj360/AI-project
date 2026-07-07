@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 威士忌, 姜, 蜂蜜, 烟熏]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-old-cuban, ENT-whisky-macallan-12-double-cask, ENT-cocktail-paper-plane, ENT-cocktail-red-hook, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-paper-plane, ENT-cocktail-old-cuban, ENT-cocktail-dry-martini]
 ---
 
 # 盘尼西林
@@ -57,6 +57,11 @@ related: [ENT-cocktail-old-cuban, ENT-whisky-macallan-12-double-cask, ENT-cockta
 - **出品容量**：90ml 冰镇古典杯
 - **装饰**：糖渍姜片
 - **估算酒精度**：26%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥35
+- **风味平衡**：辛辣甜酸烟熏
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

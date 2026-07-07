@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 啤酒, 派对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-samurai, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-yuzu-margarita]
+related: [ENT-cocktail-sake-martini, ENT-cocktail-yuzu-margarita, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 ---
 
 # 清酒炸弹
@@ -54,6 +54,11 @@ related: [ENT-cocktail-samurai, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martin
 - **出品容量**：250ml 啤酒杯
 - **装饰**：无
 - **估算酒精度**：8%
+- **用冰类型**：无
+- **成本（RMB）**：¥18
+- **风味平衡**：清爽微苦
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

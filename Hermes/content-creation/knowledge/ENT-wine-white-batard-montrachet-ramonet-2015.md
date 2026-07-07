@@ -6,7 +6,7 @@ tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-chassagne-caillerets-ramonet-2016, ENT-wine-white-criots-batard-ramonet-2015]
+related: [ENT-wine-white-criots-batard-ramonet-2015, ENT-wine-white-chassagne-caillerets-ramonet-2016]
 ratings:
   vivino: {score: 4.8, votes: 23089}
   parker: {score: 84, year: 2022}

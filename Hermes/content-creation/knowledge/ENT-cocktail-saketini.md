@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 伏特加, 极简]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-bomb, ENT-vodka-grey-goose-original, ENT-cocktail-samurai, ENT-vodka-absolut-original, ENT-cocktail-tokyo-tea]
+related: [ENT-cocktail-sake-martini, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-yuzu-margarita, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb]
 ---
 
 # 清酒天尼
@@ -54,6 +54,11 @@ related: [ENT-cocktail-sake-bomb, ENT-vodka-grey-goose-original, ENT-cocktail-sa
 - **出品容量**：75ml 冰镇 coupe
 - **装饰**：黄瓜片
 - **估算酒精度**：26%
+- **用冰类型**：无
+- **成本（RMB）**：¥28
+- **风味平衡**：纯净干爽
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

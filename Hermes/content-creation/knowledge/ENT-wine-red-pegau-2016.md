@@ -6,7 +6,7 @@ tags: [红酒, 罗讷河谷, 南罗讷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-chateauneuf-beaucastel-2016, ENT-wine-red-clos-des-papes-2016]
+related: [ENT-wine-red-clos-des-papes-2016, ENT-wine-red-chateauneuf-beaucastel-2016]
 ratings:
   vivino: {score: 3.9, votes: 4430}
   parker: {score: 79, year: 2021}

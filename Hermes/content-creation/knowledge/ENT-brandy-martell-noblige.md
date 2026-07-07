@@ -6,7 +6,7 @@ tags: [白兰地, 干邑, 法国, 马爹利]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-martell-cordon-bleu, ENT-brandy-hennessy-vs, ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-hennessy-vsop]
+related: [ENT-brandy-martell-cordon-bleu, ENT-brandy-hennessy-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-vsop, ENT-brandy-hennessy-vs]
 ratings:
   vivino: {score: 4.8, votes: 30744}
   wine_enthusiast: {score: 94, year: 2022}

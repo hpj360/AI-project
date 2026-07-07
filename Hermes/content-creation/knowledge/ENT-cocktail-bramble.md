@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 金酒, 黑莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-vesper, ENT-cocktail-gimlet, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini]
 ---
 
 # 荆棘
@@ -57,6 +57,11 @@ related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-l
 - **出品容量**：120ml 古典杯
 - **装饰**：黑莓与柠檬片
 - **估算酒精度**：20%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥22
+- **风味平衡**：酸甜莓果
+- **适饮季节**：春夏
+- **适饮场合**：餐前
 
 ## 风味描述
 

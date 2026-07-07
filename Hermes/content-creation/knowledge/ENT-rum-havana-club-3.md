@@ -6,7 +6,7 @@ tags: [朗姆酒, 古巴, 哈瓦那俱乐部, 白朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-caribbean-ron-del-caribe, ENT-rum-havana-club-anejo-reserva, ENT-rum-havana-club-7]
+related: [ENT-rum-havana-club-anejo-reserva, ENT-rum-off-174-rhum-cubain, ENT-rum-havana-club-7, ENT-rum-caribbean-ron-del-caribe]
 ratings:
   vivino: {score: 4.8, votes: 8607}
   wine_enthusiast: {score: 92, year: 2020}

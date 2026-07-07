@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 蔓越莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-dirty-martini, ENT-vodka-grey-goose-original, ENT-vodka-absolut-original, ENT-cocktail-aviation, ENT-vodka-absolut-citron]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-cocktail-dirty-martini, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-143-vodka-triple-distilled]
 ---
 
 # 柯梦波丹
@@ -57,6 +57,11 @@ related: [ENT-cocktail-dirty-martini, ENT-vodka-grey-goose-original, ENT-vodka-a
 - **出品容量**：100ml 冰镇鸡尾酒杯
 - **装饰**：青柠片或橙皮
 - **估算酒精度**：20%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥20
+- **风味平衡**：酸甜清爽
+- **适饮季节**：四季
+- **适饮场合**：派对
 
 ## 风味描述
 

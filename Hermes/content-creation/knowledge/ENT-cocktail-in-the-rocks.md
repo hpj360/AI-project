@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 实验, 蛋壳]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-cocktail-mezcal-negroni, ENT-rum-captain-morgan-spiced]
+related: [ENT-cocktail-mezcal-negroni, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-verbena, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
 ---
 
 # 岩石中
@@ -56,6 +56,11 @@ related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-cocktail-mezcal-n
 - **出品容量**：60ml 蛋壳
 - **装饰**：薄荷叶
 - **估算酒精度**：18%
+- **用冰类型**：无
+- **成本（RMB）**：¥45
+- **风味平衡**：清爽甜酸
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 波本, 樱桃, 橙汁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-double-cask, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-dry-martini, ENT-cocktail-cosmopolitan]
 ---
 
 # 血与沙
@@ -56,6 +56,11 @@ related: [ENT-whisky-macallan-12-double-cask, ENT-cocktail-cosmopolitan, ENT-coc
 - **出品容量**：80ml 冰镇 coupe
 - **装饰**：酒渍樱桃
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥30
+- **风味平衡**：甜润果香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

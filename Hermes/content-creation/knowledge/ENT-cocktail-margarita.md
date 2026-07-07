@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 龙舌兰, 墨西哥]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco, ENT-cocktail-tequila-sunrise, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40, ENT-cocktail-tequila-sunrise]
 ---
 
 # 玛格丽特
@@ -56,6 +56,11 @@ related: [ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco, ENT-cock
 - **出品容量**：120ml 冰镇玛格丽特杯
 - **装饰**：青柠轮片，杯口盐边
 - **估算酒精度**：23%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥20
+- **风味平衡**：酸咸清爽
+- **适饮季节**：夏季
+- **适饮场合**：派对
 
 ## 风味描述
 

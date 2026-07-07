@@ -6,7 +6,7 @@ tags: [威士忌, 苏格兰, 单一麦芽, 雪莉桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-double-cask, ENT-whisky-glenfiddich-15-solera, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-glenfiddich-12, ENT-whisky-macallan-classic-cut]
+related: [ENT-whisky-glenfiddich-12, ENT-whisky-macallan-classic-cut, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-glenfiddich-15-solera, ENT-whisky-macallan-12-double-cask]
 ratings:
   vivino: {score: 4.8, votes: 39882}
   whisky_fun: {score: 96, year: 2022}

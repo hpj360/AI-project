@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 茶, 伯爵茶, 金酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky, ENT-cocktail-bramble, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-vesper, ENT-cocktail-gimlet, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini, ENT-gin-tanqueray-london-dry]
 ---
 
 # 伯爵茶马天尼
@@ -55,6 +55,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cockta
 - **出品容量**：75ml 冰镇 coupe
 - **装饰**：柠檬皮
 - **估算酒精度**：28%
+- **用冰类型**：无
+- **成本（RMB）**：¥30
+- **风味平衡**：干爽茶香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

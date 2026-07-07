@@ -6,7 +6,7 @@ tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-double-cask, ENT-whisky-glenlivet-18, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-glenlivet-12]
+related: [ENT-whisky-glenlivet-12, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-glenlivet-18, ENT-whisky-macallan-12-double-cask]
 ratings:
   vivino: {score: 4.8, votes: 13557}
   whisky_fun: {score: 97, year: 2022}

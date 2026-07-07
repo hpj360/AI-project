@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 枫糖, 加拿大]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-242-ballantine-s-finest]
 ---
 
 # 自治领
@@ -56,6 +56,11 @@ related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask,
 - **出品容量**：80ml 冰镇古典杯
 - **装饰**：橙皮
 - **估算酒精度**：28%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥30
+- **风味平衡**：甜润微烈
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

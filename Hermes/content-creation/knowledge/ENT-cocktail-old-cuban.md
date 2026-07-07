@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 朗姆, 薄荷, 香槟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-paper-plane, ENT-cocktail-red-hook, ENT-rum-captain-morgan-spiced, ENT-cocktail-manhattan]
+related: [ENT-cocktail-manhattan, ENT-cocktail-paper-plane, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-dry-martini, ENT-cocktail-red-hook]
 ---
 
 # 老古巴
@@ -59,6 +59,11 @@ related: [ENT-rum-bacardi-8, ENT-cocktail-paper-plane, ENT-cocktail-red-hook, EN
 - **出品容量**：120ml 冰镇 coupe
 - **装饰**：薄荷尖
 - **估算酒精度**：20%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥38
+- **风味平衡**：清爽甜酸
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

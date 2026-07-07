@@ -6,7 +6,7 @@ tags: [白兰地, 干邑, 法国, 拿破仑, 限量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-courvoisier-vsop, ENT-brandy-hennessy-vs, ENT-brandy-courvoisier-xo, ENT-brandy-hennessy-vsop]
+related: [ENT-brandy-courvoisier-vsop, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-courvoisier-xo, ENT-brandy-off-228-cognac-vs]
 ratings:
   vivino: {score: 4.8, votes: 30234}
   wine_enthusiast: {score: 99, year: 2020}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 液氮, 伏特加, 咖啡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-vodka-grey-goose-original, ENT-vodka-absolut-original, ENT-vodka-absolut-citron]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-off-143-vodka-triple-distilled]
 ---
 
 # 氮气浓缩咖啡马天尼
@@ -57,6 +57,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-vo
 - **出品容量**：100ml coupe
 - **装饰**：咖啡豆
 - **估算酒精度**：20%
+- **用冰类型**：无
+- **成本（RMB）**：¥55
+- **风味平衡**：苦甜绵密
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

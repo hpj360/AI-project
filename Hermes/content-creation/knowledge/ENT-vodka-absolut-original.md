@@ -6,7 +6,7 @@ tags: [伏特加, 瑞典, 绝对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-absolut-citron]
+related: [ENT-vodka-off-160-absolut, ENT-vodka-off-141-absolut-vodka, ENT-vodka-absolut-citron]
 ratings:
   vivino: {score: 4.8, votes: 35554}
   wine_enthusiast: {score: 87, year: 2020}

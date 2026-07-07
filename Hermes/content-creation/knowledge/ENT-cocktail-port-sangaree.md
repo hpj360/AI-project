@@ -6,7 +6,7 @@ tags: [鸡尾酒, 桑格里, 波特酒, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-cocktail-dry-martini, ENT-cocktail-cosmopolitan, ENT-cocktail-whiskey-sour]
 ---
 
 # 波特桑格里
@@ -55,6 +55,11 @@ related: [ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-cocktail-whiskey
 - **出品容量**：150ml 红酒杯
 - **装饰**：肉豆蔻粉
 - **估算酒精度**：12%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥18
+- **风味平衡**：甜润香料
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

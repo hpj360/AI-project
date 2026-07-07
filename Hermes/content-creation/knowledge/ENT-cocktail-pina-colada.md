@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 朗姆, 椰子, 菠萝]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morgan-spiced]
+related: [ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
 ---
 
 # 椰林飘香
@@ -56,6 +56,11 @@ related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-rum-captain-morga
 - **出品容量**：200ml 飓风杯或 Tiki 杯
 - **装饰**：菠萝片与酒渍樱桃
 - **估算酒精度**：13%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥18
+- **风味平衡**：甜润丝滑
+- **适饮季节**：夏季
+- **适饮场合**：午后
 
 ## 风味描述
 

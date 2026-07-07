@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 球化, 威士忌, 可乐]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-whisky-off-243-whisky-40]
 ---
 
 # 威士忌可乐球
@@ -56,6 +56,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-wh
 - **出品容量**：50ml 浅碟
 - **装饰**：无
 - **估算酒精度**：14%
+- **用冰类型**：无
+- **成本（RMB）**：¥40
+- **风味平衡**：甜润焦糖
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

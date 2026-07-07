@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 威士忌, 经典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-bomb, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-cocktail-tokyo-tea, ENT-whisky-macallan-12-sherry-oak]
+related: [ENT-cocktail-sake-martini, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-yuzu-margarita, ENT-whisky-off-243-whisky-40, ENT-cocktail-sake-bomb]
 ---
 
 # 武士
@@ -55,6 +55,11 @@ related: [ENT-cocktail-sake-bomb, ENT-whisky-macallan-12-double-cask, ENT-whisky
 - **出品容量**：75ml 冰镇古典杯
 - **装饰**：柠檬皮
 - **估算酒精度**：28%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥32
+- **风味平衡**：干爽烈润
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

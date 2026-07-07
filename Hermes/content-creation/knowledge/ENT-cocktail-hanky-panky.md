@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 金酒, 芬内特]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-bramble, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-vesper, ENT-cocktail-gimlet, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini, ENT-gin-tanqueray-london-dry]
 ---
 
 # 汉基潘基
@@ -56,6 +56,11 @@ related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-l
 - **出品容量**：75ml 冰镇鸡尾酒杯
 - **装饰**：橙皮
 - **估算酒精度**：25%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥25
+- **风味平衡**：苦甜浓郁
+- **适饮季节**：秋冬
+- **适饮场合**：餐前
 
 ## 风味描述
 

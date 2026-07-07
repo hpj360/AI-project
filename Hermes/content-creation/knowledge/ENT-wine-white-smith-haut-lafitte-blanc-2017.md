@@ -6,7 +6,7 @@ tags: [白酒, 波尔多, 赛美蓉, 长相思]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-domaine-de-chevalier-blanc-2017, ENT-wine-white-haut-brion-blanc-2017]
+related: [ENT-wine-white-haut-brion-blanc-2017, ENT-wine-white-domaine-de-chevalier-blanc-2017]
 ratings:
   vivino: {score: 4.3, votes: 21700}
   parker: {score: 84, year: 2022}

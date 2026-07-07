@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 朗姆, 金酒, 白兰地, Tiki]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-martinez, ENT-brandy-hennessy-xo]
+related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-martinez, ENT-rum-off-164-bumbu-original-rum-40, ENT-gin-bombay-sapphire]
 ---
 
 # 雾刀
@@ -61,6 +61,11 @@ related: [ENT-rum-bacardi-8, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-lon
 - **出品容量**：200ml 提基杯
 - **装饰**：薄荷与花卉
 - **估算酒精度**：24%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥38
+- **风味平衡**：甜烈果香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

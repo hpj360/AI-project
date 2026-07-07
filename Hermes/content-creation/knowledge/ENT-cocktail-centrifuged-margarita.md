@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 离心, 龙舌兰, 青柠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco]
+related: [ENT-cocktail-bloody-mary-spheres, ENT-tequila-off-183-tequila-gold, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-tequila-off-184-sierra-tequila-silver]
 ---
 
 # 离心玛格丽特
@@ -56,6 +56,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-te
 - **出品容量**：80ml coupe
 - **装饰**：盐边与青柠
 - **估算酒精度**：18%
+- **用冰类型**：无
+- **成本（RMB）**：¥48
+- **风味平衡**：纯净酸甜
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 威士忌, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-dirty-martini, ENT-whisky-macallan-12-double-cask, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-cocktail-dirty-martini, ENT-cocktail-aviation, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-dry-martini, ENT-cocktail-cosmopolitan]
 ---
 
 # 曼哈顿
@@ -56,6 +56,11 @@ related: [ENT-cocktail-dirty-martini, ENT-whisky-macallan-12-double-cask, ENT-co
 - **出品容量**：75ml 冰镇鸡尾酒杯
 - **装饰**：酒渍樱桃
 - **估算酒精度**：26%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥30
+- **风味平衡**：甜烈均衡
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

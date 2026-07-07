@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, Suze, 苦味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-between-the-sheets, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary]
+related: [ENT-cocktail-white-lady, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire-east, ENT-cocktail-sidecar]
 ---
 
 # 白色尼格罗尼
@@ -55,6 +55,11 @@ related: [ENT-cocktail-between-the-sheets, ENT-gin-bombay-sapphire-east, ENT-gin
 - **出品容量**：90ml 古典杯
 - **装饰**：西柚皮
 - **估算酒精度**：26%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥34
+- **风味平衡**：苦甜草本
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

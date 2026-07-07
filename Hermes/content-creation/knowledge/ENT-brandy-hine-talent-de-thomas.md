@@ -6,7 +6,7 @@ tags: [白兰地, 干邑, 法国, 御鹿, 限量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hine-xo, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
+related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hine-xo]
 ratings:
   vivino: {score: 4.4, votes: 16412}
   wine_enthusiast: {score: 84, year: 2020}

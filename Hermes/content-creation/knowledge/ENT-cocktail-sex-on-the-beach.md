@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 派对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-greyhound, ENT-vodka-absolut-original, ENT-vodka-grey-goose-original, ENT-vodka-absolut-citron]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-greyhound, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-142-poliakov]
 ---
 
 # 性感沙滩
@@ -58,6 +58,11 @@ related: [ENT-cocktail-greyhound, ENT-vodka-absolut-original, ENT-vodka-grey-goo
 - **出品容量**：200ml 高杯
 - **装饰**：橙片与酒渍樱桃
 - **估算酒精度**：15%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥20
+- **风味平衡**：甜润果香
+- **适饮季节**：夏季
+- **适饮场合**：派对
 
 ## 风味描述
 

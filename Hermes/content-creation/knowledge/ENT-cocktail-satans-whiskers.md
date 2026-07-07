@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 橙味力乔, 橙汁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-corpse-reviver-no2, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky-savoy, ENT-cocktail-hanky-panky]
+related: [ENT-cocktail-corpse-reviver-no2, ENT-cocktail-hanky-panky, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini, ENT-gin-tanqueray-london-dry]
 ---
 
 # 撒旦的胡须
@@ -59,6 +59,11 @@ related: [ENT-cocktail-corpse-reviver-no2, ENT-gin-bombay-sapphire-east, ENT-gin
 - **出品容量**：80ml 冰镇 coupe
 - **装饰**：橙皮
 - **估算酒精度**：24%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥28
+- **风味平衡**：甜润橙香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

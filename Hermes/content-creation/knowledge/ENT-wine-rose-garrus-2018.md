@@ -6,7 +6,7 @@ tags: [桃红, 普罗旺斯, Grenache, 橡木桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019]
+related: [ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-whispering-angel-2020]
 ratings:
   vivino: {score: 4.8, votes: 19682}
   parker: {score: 85, year: 2020}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 茱莉普, 波本, 薄荷, 美国南方]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-whiskey-smash, ENT-whisky-off-243-whisky-40, ENT-cocktail-kentucky-buck, ENT-whisky-off-242-ballantine-s-finest]
 ---
 
 # 薄荷茱莉普
@@ -55,6 +55,11 @@ related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask,
 - **出品容量**：200ml 银质 Julep 杯
 - **装饰**：薄荷枝与糖粉
 - **估算酒精度**：22%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥22
+- **风味平衡**：清凉甜润
+- **适饮季节**：春夏
+- **适饮场合**：午后
 
 ## 风味描述
 

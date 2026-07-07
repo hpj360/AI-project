@@ -6,7 +6,7 @@ tags: [鸡尾酒, 禁酒令, 金酒, 查特酒, 均衡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-bombay-sapphire, ENT-cocktail-bull-shot, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry]
 ---
 
 # 临别赠言
@@ -56,6 +56,11 @@ related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanquer
 - **出品容量**：80ml 冰镇鸡尾酒杯
 - **装饰**：酒渍樱桃
 - **估算酒精度**：26%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥30
+- **风味平衡**：酸甜苦均衡
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

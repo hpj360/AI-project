@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 番茄, 早午餐]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-between-the-sheets, ENT-vodka-grey-goose-original, ENT-cocktail-mimosa, ENT-vodka-absolut-original, ENT-cocktail-sidecar]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bees-knees, ENT-vodka-off-142-poliakov, ENT-cocktail-white-lady, ENT-vodka-off-143-vodka-triple-distilled]
 ---
 
 # 血腥玛丽
@@ -58,6 +58,11 @@ related: [ENT-cocktail-between-the-sheets, ENT-vodka-grey-goose-original, ENT-co
 - **出品容量**：250ml 高杯
 - **装饰**：芹菜枝柠檬片橄榄
 - **估算酒精度**：12%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥18
+- **风味平衡**：咸鲜微辣
+- **适饮季节**：四季
+- **适饮场合**：早午餐
 
 ## 风味描述
 

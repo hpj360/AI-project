@@ -6,7 +6,7 @@ tags: [起泡酒, 香槟, Veuve Clicquot, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-lanson-black-label-nv, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170]
+related: [ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-lanson-black-label-nv, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
 ratings:
   vivino: {score: 4.7, votes: 28987}
   wine_spectator: {score: 84, year: 2023}

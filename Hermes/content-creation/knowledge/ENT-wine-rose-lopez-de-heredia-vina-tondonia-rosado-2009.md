@@ -6,7 +6,7 @@ tags: [桃红, 里奥哈, Gran Reserva, López de Heredia]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009, ENT-wine-rose-muga-rosado-2020]
+related: [ENT-wine-rose-muga-rosado-2020, ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009]
 ratings:
   vivino: {score: 3.9, votes: 34565}
   parker: {score: 80, year: 2023}

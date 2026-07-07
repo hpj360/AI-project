@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 澄清, 朗姆, 牛奶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-whisky-macallan-12-double-cask, ENT-cocktail-hanky-panky, ENT-cocktail-bramble, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-cocktail-vesper, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-earl-grey-martini, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-espresso-martini]
 ---
 
 # 澄清牛奶潘趣
@@ -58,6 +58,11 @@ related: [ENT-rum-bacardi-8, ENT-whisky-macallan-12-double-cask, ENT-cocktail-ha
 - **出品容量**：100ml 冰镇 coupe
 - **装饰**：肉豆蔻粉
 - **估算酒精度**：20%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥48
+- **风味平衡**：丝滑甜润
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

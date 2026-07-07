@@ -6,7 +6,7 @@ tags: [红酒, 波尔多, 玛歌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-palmer-2015, ENT-wine-red-margaux-2015, ENT-wine-red-canon-2015]
+related: [ENT-wine-red-canon-2015, ENT-wine-red-palmer-2015, ENT-wine-red-margaux-2015]
 ratings:
   vivino: {score: 3.9, votes: 11445}
   parker: {score: 83, year: 2023}

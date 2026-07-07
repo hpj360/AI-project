@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 泡沫, 伏特加, 番茄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-vodka-grey-goose-original, ENT-vodka-absolut-original, ENT-vodka-absolut-citron]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-off-143-vodka-triple-distilled]
 ---
 
 # 血腥玛丽泡沫
@@ -57,6 +57,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-vo
 - **出品容量**：100ml 高杯
 - **装饰**：芹菜杆
 - **估算酒精度**：12%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥38
+- **风味平衡**：咸鲜轻盈
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

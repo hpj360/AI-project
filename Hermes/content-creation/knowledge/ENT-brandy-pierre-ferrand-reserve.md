@@ -6,7 +6,7 @@ tags: [白兰地, 干邑, 法国, 皮埃尔费朗]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-ferrand-1840-original, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
+related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-vs, ENT-brandy-ferrand-1840-original]
 ratings:
   vivino: {score: 4.8, votes: 48315}
   wine_enthusiast: {score: 88, year: 2021}

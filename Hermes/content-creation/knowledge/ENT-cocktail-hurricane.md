@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 百香果, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-vieux-carre, ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-rum-bacardi-carta-blanca]
+related: [ENT-cocktail-grasshopper, ENT-cocktail-ramos-gin-fizz, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-gin-fizz, ENT-cocktail-brandy-crusta]
 ---
 
 # 飓风
@@ -56,6 +56,11 @@ related: [ENT-rum-bacardi-8, ENT-cocktail-vieux-carre, ENT-cocktail-sazerac, ENT
 - **出品容量**：180ml 飓风杯
 - **装饰**：橙片与樱桃
 - **估算酒精度**：18%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥22
+- **风味平衡**：甜酸热带
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 朗姆, 蜂蜜, 柠檬]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-cocktail-whiskey-sour, ENT-rum-captain-morgan-spiced]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-dry-martini, ENT-cocktail-cosmopolitan]
 ---
 
 # 蜜蜂
@@ -55,6 +55,11 @@ related: [ENT-rum-bacardi-8, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, E
 - **出品容量**：90ml 冰镇 coupe
 - **装饰**：蜂蜜棒
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥25
+- **风味平衡**：甜蜜酸甜
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

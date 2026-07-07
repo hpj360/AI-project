@@ -6,7 +6,7 @@ tags: [威士忌, 美国, 田纳西威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-jack-daniels-single-barrel, ENT-whisky-jack-daniels-gentleman-jack]
+related: [ENT-whisky-jack-daniels-gentleman-jack, ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-single-barrel, ENT-whisky-off-247-whisky-old-n-7]
 ratings:
   vivino: {score: 4.6, votes: 19967}
   whisky_fun: {score: 82, year: 2021}

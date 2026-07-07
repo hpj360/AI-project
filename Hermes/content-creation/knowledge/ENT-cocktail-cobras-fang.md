@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 多香果, 法属马提尼克]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-cocktail-three-dots-and-a-dash, ENT-rum-captain-morgan-spiced, ENT-rum-bacardi-carta-blanca]
+related: [ENT-cocktail-three-dots-and-a-dash, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
 ---
 
 # 蛇牙
@@ -58,6 +58,11 @@ agricole 朗姆配法尔纳姆与 falernum 多香果苦精，Don the Beachcomber
 - **出品容量**：140ml 提基杯
 - **装饰**：蛇形装饰与薄荷
 - **估算酒精度**：26%
+- **用冰类型**：碎冰
+- **成本（RMB）**：¥33
+- **风味平衡**：辛烈甜苦
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

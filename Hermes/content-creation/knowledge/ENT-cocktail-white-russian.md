@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 咖啡, 奶油]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-cocktail-black-russian, ENT-vodka-grey-goose-original]
+related: [ENT-cocktail-black-russian, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-142-poliakov]
 ---
 
 # 白色俄罗斯
@@ -56,6 +56,11 @@ related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-cocktail-bla
 - **出品容量**：90ml 冰块古典杯
 - **装饰**：无
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥20
+- **风味平衡**：甜滑浓郁
+- **适饮季节**：秋冬
+- **适饮场合**：餐后
 
 ## 风味描述
 

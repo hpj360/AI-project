@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 泡沫, 金酒, 汤力水]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ---
 
 # 金汤力泡沫
@@ -56,6 +56,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-gi
 - **出品容量**：150ml 高球杯
 - **装饰**：青柠皮
 - **估算酒精度**：12%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥35
+- **风味平衡**：清爽苦甜
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

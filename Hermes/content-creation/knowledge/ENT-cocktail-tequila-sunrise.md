@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 龙舌兰, 渐变]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-margarita, ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-off-183-tequila-gold, ENT-cocktail-margarita, ENT-tequila-off-185-silver-tequila-40, ENT-tequila-off-184-sierra-tequila-silver]
 ---
 
 # 龙舌兰日出
@@ -56,6 +56,11 @@ related: [ENT-cocktail-margarita, ENT-tequila-don-julio-blanco, ENT-tequila-don-
 - **出品容量**：200ml 高杯
 - **装饰**：橙片与酒渍樱桃
 - **估算酒精度**：12%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥16
+- **风味平衡**：甜润果香
+- **适饮季节**：夏季
+- **适饮场合**：午后
 
 ## 风味描述
 

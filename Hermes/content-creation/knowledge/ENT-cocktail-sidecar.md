@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 白兰地, 法国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-between-the-sheets, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vs]
+related: [ENT-brandy-hennessy-xo, ENT-cocktail-bees-knees, ENT-brandy-hennessy-vsop, ENT-cocktail-white-lady, ENT-brandy-hennessy-vs]
 ---
 
 # 侧车
@@ -56,6 +56,11 @@ related: [ENT-cocktail-between-the-sheets, ENT-cocktail-mimosa, ENT-cocktail-blo
 - **出品容量**：80ml 冰镇鸡尾酒杯
 - **装饰**：杯口糖边，橙皮
 - **估算酒精度**：27%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥35
+- **风味平衡**：酸甜丰润
+- **适饮季节**：秋冬
+- **适饮场合**：餐前
 
 ## 风味描述
 

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 伏特加, 咖啡, 伦敦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-grey-goose-original, ENT-vodka-absolut-original, ENT-cocktail-hanky-panky, ENT-vodka-absolut-citron, ENT-cocktail-espresso-martini]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bramble-freds, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-vodka-off-143-vodka-triple-distilled]
 ---
 
 # 浓缩咖啡马天尼（迪克原版）
@@ -57,6 +57,11 @@ related: [ENT-vodka-grey-goose-original, ENT-vodka-absolut-original, ENT-cocktai
 - **出品容量**：100ml 冰镇 coupe
 - **装饰**：咖啡豆
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥30
+- **风味平衡**：苦甜微烈
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

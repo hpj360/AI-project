@@ -6,7 +6,7 @@ tags: [红酒, 意大利, 超级托斯卡纳, 梅洛]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-ornellaia-2016, ENT-wine-red-sassicaia-2016]
+related: [ENT-wine-red-sassicaia-2016, ENT-wine-red-ornellaia-2016]
 ratings:
   vivino: {score: 4.0, votes: 43000}
   parker: {score: 82, year: 2023}

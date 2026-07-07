@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 威士忌, 新奥尔良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vieux-carre, ENT-whisky-macallan-12-double-cask, ENT-cocktail-hurricane, ENT-cocktail-brandy-crusta, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-grasshopper, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-gin-fizz, ENT-cocktail-brandy-crusta]
 ---
 
 # 赛泽瑞克
@@ -57,6 +57,11 @@ related: [ENT-cocktail-vieux-carre, ENT-whisky-macallan-12-double-cask, ENT-cock
 - **出品容量**：75ml 冰镇古典杯
 - **装饰**：柠檬皮
 - **估算酒精度**：30%
+- **用冰类型**：无冰
+- **成本（RMB）**：¥28
+- **风味平衡**：苦烈茴香
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

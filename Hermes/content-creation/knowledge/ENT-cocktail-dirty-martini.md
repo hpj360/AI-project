@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 金酒, 橄榄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-dry-martini]
 ---
 
 # 脏马天尼
@@ -56,6 +56,11 @@ related: [ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cockta
 - **出品容量**：80ml 冰镇鸡尾酒杯
 - **装饰**：三颗橄榄
 - **估算酒精度**：28%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥26
+- **风味平衡**：咸鲜凛冽
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

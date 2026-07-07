@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酸酒, 黑麦, 橙, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-sherry-oak, ENT-cocktail-ward-eight-sig, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
+related: [ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-242-ballantine-s-finest, ENT-cocktail-ward-eight-sig]
 ---
 
 # 第八选区
@@ -56,6 +56,11 @@ related: [ENT-whisky-macallan-12-sherry-oak, ENT-cocktail-ward-eight-sig, ENT-wh
 - **出品容量**：90ml 冰镇鸡尾酒杯
 - **装饰**：橙片与樱桃
 - **估算酒精度**：24%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥25
+- **风味平衡**：酸甜微烈
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 酸酒, 梅斯卡尔]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-cocktail-whiskey-sour]
+related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-cocktail-oaxaca-old-fashioned, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
 ---
 
 # 赤裸与成名
@@ -56,6 +56,11 @@ related: [ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-tequila-jose-cue
 - **出品容量**：100ml 双层杯
 - **装饰**：青柠皮
 - **估算酒精度**：22.5%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥35
+- **风味平衡**：烟熏苦甜酸均衡
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

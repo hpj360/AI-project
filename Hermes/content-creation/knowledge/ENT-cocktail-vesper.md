@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 金酒, 伏特加, 邦德]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-vodka-grey-goose-original, ENT-vodka-absolut-original]
+related: [ENT-cocktail-gimlet, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini]
 ---
 
 # 维斯帕
@@ -56,6 +56,11 @@ related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-l
 - **出品容量**：90ml 冰镇鸡尾酒杯
 - **装饰**：柠檬皮
 - **估算酒精度**：32%
+- **用冰类型**：大方块冰
+- **成本（RMB）**：¥30
+- **风味平衡**：干烈凛冽
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

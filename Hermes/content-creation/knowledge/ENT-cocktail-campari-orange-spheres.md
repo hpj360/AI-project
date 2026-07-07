@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 球化, 金巴利, 橙汁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres]
+related: [ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-mojito-spheres, ENT-cocktail-ginish-tonic]
 ---
 
 # 金巴利橙球
@@ -56,6 +56,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-co
 - **出品容量**：50ml 浅碟
 - **装饰**：橙皮
 - **估算酒精度**：12%
+- **用冰类型**：无
+- **成本（RMB）**：¥42
+- **风味平衡**：苦甜爆裂
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

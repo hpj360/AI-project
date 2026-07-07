@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 梅斯卡尔, 苦味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-in-the-rocks, ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-off-183-tequila-gold, ENT-cocktail-verbena, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-in-the-rocks, ENT-tequila-off-185-silver-tequila-40]
 ---
 
 # 梅斯卡尔尼格罗尼
@@ -55,6 +55,11 @@ related: [ENT-cocktail-in-the-rocks, ENT-tequila-don-julio-blanco, ENT-tequila-d
 - **出品容量**：90ml 古典杯
 - **装饰**：橙皮
 - **估算酒精度**：26%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥36
+- **风味平衡**：烟熏苦甜
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

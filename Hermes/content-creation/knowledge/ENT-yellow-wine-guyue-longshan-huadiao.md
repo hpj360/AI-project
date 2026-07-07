@@ -6,7 +6,7 @@ tags: [黄酒, 绍兴, 古越龙山, 花雕]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-guyue-longshan-chundiao, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-50y]
+related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-chundiao]
 ---
 
 # 古越龙山 花雕酒

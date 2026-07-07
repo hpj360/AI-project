@@ -6,7 +6,7 @@ tags: [伏特加, 法国, 灰雁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-grey-goose-le-citron]
+related: [ENT-vodka-off-156-grey-goose-original, ENT-vodka-grey-goose-le-citron]
 ratings:
   vivino: {score: 4.8, votes: 46946}
   wine_enthusiast: {score: 86, year: 2023}

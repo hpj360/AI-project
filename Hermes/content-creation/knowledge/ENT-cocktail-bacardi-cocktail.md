@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 朗姆, 百加得]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-cocktail-daiquiri, ENT-rum-captain-morgan-spiced]
+related: [ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-daiquiri, ENT-rum-off-163-rhum-negrita]
 ---
 
 # 百加得鸡尾酒
@@ -56,6 +56,11 @@ related: [ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-cocktail-daiquiri
 - **出品容量**：90ml 冰镇鸡尾酒杯
 - **装饰**：无
 - **估算酒精度**：22%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥18
+- **风味平衡**：酸甜果香
+- **适饮季节**：夏季
+- **适饮场合**：餐前
 
 ## 风味描述
 

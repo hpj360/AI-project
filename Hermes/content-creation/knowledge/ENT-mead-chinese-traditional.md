@@ -6,7 +6,7 @@ tags: [蜂蜜酒, 中国, 传统, mead]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-fruit-wine-sangshen-jiu, ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-cherry-wine]
+related: [ENT-fruit-wine-sangshen-jiu, ENT-fruit-wine-cherry-wine, ENT-fruit-wine-kiwi-wine]
 ---
 
 # 蜂蜜酒

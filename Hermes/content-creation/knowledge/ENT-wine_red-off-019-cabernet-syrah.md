@@ -1,0 +1,63 @@
+---
+id: ENT-wine_red-off-019-cabernet-syrah
+title: CABERNET-SYRAH
+category: ENT
+tags: [OpenFoodFacts, wine_red, 红葡萄酒, JP. CHENET]
+status: active
+created: 2026-07-07
+updated: 2026-07-07
+related: [ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-015-cabernet-sauvigon]
+ratings:
+  vivino: {score: 4.4, votes: 46525}
+  parker: {score: 84, year: 2022}
+  wine_spectator: {score: 81, year: 2020}
+  james_suckling: {score: 81, year: 2022}
+  cellar_tracker: {score: 4.1, votes: 3093}
+---
+
+# CABERNET-SYRAH
+
+**CABERNET-SYRAH**
+
+## 概述
+
+OpenFoodFacts 真实产品数据：CABERNET-SYRAH（JP. CHENET），产地 France
+
+## 基础信息
+
+- **中文名**：CABERNET-SYRAH
+- **外文名**：CABERNET-SYRAH
+- **别名**：JP. CHENET
+- **分类**：红葡萄酒
+- **产地**：France / France
+- **生产商**：JP. CHENET
+- **酒精度**：未知
+- **容量**：未知
+- **参考价格（RMB）**：¥50-300
+- **价格档位**：daily
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 46525 |
+| Robert Parker (WA) | 84 | 2022 |
+| Wine Spectator | 81 | 2020 |
+| James Suckling | 81 | 2022 |
+| CellarTracker | 4.1 | 3093 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：16-18℃
+- **推荐酒杯**：波尔多杯
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。

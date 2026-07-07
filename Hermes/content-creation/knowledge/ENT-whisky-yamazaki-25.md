@@ -6,7 +6,7 @@ tags: [威士忌, 日本, 单一麦芽, 限量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-roku, ENT-whisky-yamazaki-18, ENT-whisky-yamazaki-12]
+related: [ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-gin-roku]
 ratings:
   vivino: {score: 4.8, votes: 13905}
   whisky_fun: {score: 95, year: 2022}

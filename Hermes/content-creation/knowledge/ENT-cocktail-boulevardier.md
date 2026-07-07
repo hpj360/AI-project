@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 波本, 苦味, 巴黎]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-between-the-sheets, ENT-whisky-macallan-12-double-cask, ENT-cocktail-mimosa, ENT-cocktail-bloody-mary, ENT-cocktail-sidecar]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-white-lady, ENT-whisky-off-243-whisky-40, ENT-cocktail-sidecar, ENT-cocktail-mimosa]
 ---
 
 # 林荫大道
@@ -55,6 +55,11 @@ related: [ENT-cocktail-between-the-sheets, ENT-whisky-macallan-12-double-cask, E
 - **出品容量**：90ml 古典杯
 - **装饰**：橙皮
 - **估算酒精度**：28%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥32
+- **风味平衡**：甜烈苦润
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

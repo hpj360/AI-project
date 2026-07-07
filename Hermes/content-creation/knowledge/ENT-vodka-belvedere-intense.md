@@ -6,7 +6,7 @@ tags: [伏特加, 波兰, 雪树, 原桶强度]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-belvedere-original]
+related: [ENT-vodka-belvedere-original, ENT-vodka-off-161-organic-vodka]
 ratings:
   vivino: {score: 4.8, votes: 13416}
   wine_enthusiast: {score: 90, year: 2020}

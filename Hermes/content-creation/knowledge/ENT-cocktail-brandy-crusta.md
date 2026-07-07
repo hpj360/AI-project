@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 白兰地, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vieux-carre, ENT-cocktail-sazerac, ENT-cocktail-hurricane, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vs]
+related: [ENT-brandy-hennessy-xo, ENT-cocktail-grasshopper, ENT-cocktail-ramos-gin-fizz, ENT-brandy-hennessy-vsop, ENT-cocktail-gin-fizz]
 ---
 
 # 白兰地克鲁斯塔
@@ -58,6 +58,11 @@ related: [ENT-cocktail-vieux-carre, ENT-cocktail-sazerac, ENT-cocktail-hurricane
 - **出品容量**：80ml 冰镇古典杯
 - **装饰**：整条柠檬皮围杯，糖边
 - **估算酒精度**：28%
+- **用冰类型**：方块冰
+- **成本（RMB）**：¥33
+- **风味平衡**：酸甜苦润
+- **适饮季节**：四季
+- **适饮场合**：餐前
 
 ## 风味描述
 

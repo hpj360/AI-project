@@ -6,7 +6,7 @@ tags: [起泡酒, 卡瓦, Juvé y Camps, 珍藏]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-codorniu-gran-reserva-nv]
+related: [ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010]
 ratings:
   vivino: {score: 4.8, votes: 7150}
   wine_spectator: {score: 90, year: 2022}

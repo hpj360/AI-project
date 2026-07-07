@@ -6,7 +6,7 @@ tags: [起泡酒, 香槟, Taittinger, 白中白]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-lanson-black-label-nv, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170]
+related: [ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-lanson-black-label-nv, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
 ratings:
   vivino: {score: 4.8, votes: 39818}
   wine_spectator: {score: 89, year: 2020}

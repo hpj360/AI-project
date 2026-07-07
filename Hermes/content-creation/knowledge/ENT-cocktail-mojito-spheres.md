@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 球化, 朗姆, 薄荷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-rum-bacardi-8, ENT-rum-bacardi-carta-blanca, ENT-cocktail-whiskey-cola-spheres]
+related: [ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-margarita-spheres]
 ---
 
 # 莫吉托球
@@ -58,6 +58,11 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-cosmopolitan-caviar, ENT-ru
 - **出品容量**：50ml 浅碟
 - **装饰**：薄荷叶
 - **估算酒精度**：14%
+- **用冰类型**：无
+- **成本（RMB）**：¥42
+- **风味平衡**：清凉酸甜
+- **适饮季节**：四季
+- **适饮场合**：品鉴
 
 ## 分子技法
 

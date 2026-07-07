@@ -6,7 +6,7 @@ tags: [威士忌, 日本, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-taketsuru-17, ENT-gin-roku, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-hibiki-17]
+related: [ENT-whisky-yamazaki-12, ENT-whisky-taketsuru-17, ENT-whisky-hibiki-17, ENT-whisky-yamazaki-18, ENT-gin-roku]
 ratings:
   vivino: {score: 4.8, votes: 22223}
   whisky_fun: {score: 95, year: 2021}
