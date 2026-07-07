@@ -19,7 +19,9 @@ import sys
 import time
 from pathlib import Path
 
-REPO_DIR = Path(__file__).resolve().parent.parent.parent  # /workspace
+# 脚本路径 /workspace/Hermes/content-creation/scripts/git_guard.py
+# 需回到 4 层 parent 才到 git root /workspace
+REPO_DIR = Path(__file__).resolve().parent.parent.parent.parent  # /workspace
 
 
 def run(cmd: str, check: bool = True, timeout: int = 60) -> tuple[int, str]:
