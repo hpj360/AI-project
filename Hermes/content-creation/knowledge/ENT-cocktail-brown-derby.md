@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 波本, 葡萄柚, 蜂蜜]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-melon-ball, ENT-cocktail-test-pilot-modern, ENT-whisky-off-243-whisky-40, ENT-cocktail-smoke-signal]
+related: [ENT-cocktail-melon-ball, ENT-cocktail-smoke-signal, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-westside]
 ---
 
 # 棕色德比

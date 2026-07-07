@@ -6,7 +6,7 @@ tags: [鸡尾酒, 古典, 金酒, 味美思, 橙汁, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire-east]
 ---
 
 # 布朗克斯

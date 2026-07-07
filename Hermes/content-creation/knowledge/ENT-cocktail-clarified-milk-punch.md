@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 澄清, 朗姆, 牛奶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-earl-grey-martini, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-espresso-martini]
+related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-rum-off-163-rhum-negrita, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40]
 ---
 
 # 澄清牛奶潘趣

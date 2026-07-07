@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, Gallia]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-off-080-3-monts]
+related: [ENT-beer-snow, ENT-beer-off-080-3-monts, ENT-beer-tsingtao, ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-budweiser]
 ratings:
   vivino: {score: 4.8, votes: 43106}
   ratebeer: {score: 85, year: 2021}

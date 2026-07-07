@@ -6,7 +6,7 @@ tags: [加强酒, 波特, 年份, Niepoort]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-warres-vintage-port-2016, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016]
+related: [ENT-wine-fortified-warres-vintage-port-2016, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-grahams-vintage-port-2017]
 ratings:
   vivino: {score: 4.6, votes: 9023}
   wine_spectator: {score: 81, year: 2021}

@@ -6,6 +6,7 @@ tags: [啤酒, 中国, 哈尔滨, 工业拉格]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.8, votes: 22049}
   ratebeer: {score: 83, year: 2020}

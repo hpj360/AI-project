@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, whisky, 威士忌, Label 5]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-250-blended-scotch-wiskhy]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-245-monkey-shoulder]
 ratings:
   vivino: {score: 4.8, votes: 4308}
   whisky_fun: {score: 90, year: 2022}

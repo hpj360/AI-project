@@ -6,7 +6,7 @@ tags: [黄酒, 上海, 石库门, 海派]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-jinsenianhua, ENT-yellow-wine-hejiu]
+related: [ENT-yellow-wine-jinsenianhua, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-hejiu]
 ---
 
 # 石库门

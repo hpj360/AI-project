@@ -6,7 +6,7 @@ tags: [伏特加, 俄罗斯, 贝尔鲁卡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-five-lakes, ENT-vodka-birch]
+related: [ENT-vodka-birch, ENT-vodka-off-141-absolut-vodka, ENT-vodka-five-lakes, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.8, votes: 8191}
   wine_enthusiast: {score: 91, year: 2022}

@@ -6,7 +6,7 @@ tags: [伏特加, 俄罗斯, Kristall]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-polugar, ENT-vodka-stolichnaya-soviet, ENT-vodka-stolichnaya]
+related: [ENT-vodka-stolichnaya, ENT-vodka-off-141-absolut-vodka, ENT-vodka-stolichnaya-soviet, ENT-vodka-off-142-poliakov, ENT-vodka-polugar]
 ratings:
   vivino: {score: 4.8, votes: 19710}
   wine_enthusiast: {score: 86, year: 2022}

@@ -6,7 +6,7 @@ tags: [甜酒, 巴萨克, Climens, 一级庄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-coutet-2015]
+related: [ENT-wine-dessert-rieussec-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-guiraud-2015, ENT-wine-dessert-suduiraut-2015]
 ratings:
   vivino: {score: 4.8, votes: 39958}
   parker: {score: 89, year: 2022}

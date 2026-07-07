@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 费内特布兰卡, 伦敦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-corpse-reviver-no2, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-cocktail-satans-whiskers, ENT-cocktail-espresso-martini]
+related: [ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cocktail-corpse-reviver-no2, ENT-cocktail-hanky-panky, ENT-gin-bombay-sapphire-east]
 ---
 
 # 汉基潘基（萨伏伊版本）

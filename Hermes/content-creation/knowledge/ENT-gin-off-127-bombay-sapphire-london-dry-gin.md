@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, gin, 金酒, Bombay Sapphire]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-off-124-gin-tonic, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east]
+related: [ENT-gin-off-124-gin-tonic, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-no-ten, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 4.8, votes: 35766}
   wine_enthusiast: {score: 96, year: 2020}

@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Nicolas Feuillatte]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-065-champagne-brut-ros, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge, ENT-wine_sparkling-off-067-canard-duch-ne]
+related: [ENT-wine_sparkling-off-067-canard-duch-ne, ENT-wine_sparkling-off-065-champagne-brut-ros, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge, ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-wine_sparkling-off-048-clairette-de-die-tradition]
 ratings:
   vivino: {score: 4.8, votes: 15548}
   wine_spectator: {score: 82, year: 2020}

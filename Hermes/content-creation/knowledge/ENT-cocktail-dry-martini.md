@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 金酒, 经典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-cocktail-dirty-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-bombay-sapphire, ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation]
 ---
 
 # 干马天尼

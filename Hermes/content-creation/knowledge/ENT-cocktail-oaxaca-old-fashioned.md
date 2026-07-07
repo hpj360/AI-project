@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 梅斯卡尔, 龙舌兰, 古典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-tequila-off-183-tequila-gold, ENT-cocktail-dry-martini]
 ---
 
 # 瓦哈卡古典

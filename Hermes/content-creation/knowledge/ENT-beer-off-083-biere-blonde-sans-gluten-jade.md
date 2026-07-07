@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, Jade]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-off-082-bi-re-blonde-pur-malt]
+related: [ENT-beer-off-082-bi-re-blonde-pur-malt, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.8, votes: 46439}
   ratebeer: {score: 88, year: 2021}

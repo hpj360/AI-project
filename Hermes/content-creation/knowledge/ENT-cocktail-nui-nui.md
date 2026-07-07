@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 香草, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-qb-cooler, ENT-cocktail-test-pilot, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-zombie, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-test-pilot, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-qb-cooler]
 ---
 
 # 努伊努伊

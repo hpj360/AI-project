@@ -6,6 +6,7 @@ tags: [红酒, 意大利, 巴罗洛, 内比奥罗]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
 ratings:
   vivino: {score: 4.7, votes: 36143}
   parker: {score: 85, year: 2021}

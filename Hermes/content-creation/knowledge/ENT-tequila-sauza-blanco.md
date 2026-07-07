@@ -6,7 +6,7 @@ tags: [龙舌兰, 墨西哥, 索萨, Blanco]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-herradura-reposado, ENT-tequila-patron-silver, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco]
+related: [ENT-tequila-don-julio-reposado, ENT-tequila-herradura-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-patron-silver, ENT-tequila-jose-cuervo-especial-gold]
 ratings:
   vivino: {score: 4.8, votes: 22811}
   wine_enthusiast: {score: 92, year: 2022}

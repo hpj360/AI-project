@@ -6,7 +6,7 @@ tags: [白酒, 酱香, 贵州, 赖茅]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-moutai-yingbin, ENT-baijiu-diaoyutai-guobin, ENT-baijiu-moutai-feitian-53, ENT-baijiu-guotai-guobiao, ENT-baijiu-moutai-prince]
+related: [ENT-baijiu-diaoyutai-guobin, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-guotai-guobiao, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.8, votes: 31218}
   csl: {score: 88, year: 2022}

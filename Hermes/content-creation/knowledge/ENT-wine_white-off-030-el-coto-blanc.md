@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, wine_white, 白葡萄酒, El Coto]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-008-vino-tinto-rioja-crianza]
+related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-031-vino-blanco]
 ratings:
   vivino: {score: 4.8, votes: 15781}
   parker: {score: 86, year: 2023}

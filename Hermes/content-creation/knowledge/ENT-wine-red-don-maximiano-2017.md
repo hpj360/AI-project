@@ -6,7 +6,7 @@ tags: [红酒, 智利, 波尔多混酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-sena-2017]
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-sena-2017, ENT-wine_red-off-003-adama]
 ratings:
   vivino: {score: 4.8, votes: 36182}
   parker: {score: 91, year: 2021}

@@ -6,6 +6,7 @@ tags: [金酒, 普利茅斯, 英国, 原产地]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-tanqueray-rangpur, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-no-ten, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 4.8, votes: 3940}
   wine_enthusiast: {score: 86, year: 2020}

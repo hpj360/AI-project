@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, wine_white, 白葡萄酒, FREIXENET]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-043-vino-blanco-semidulce, ENT-wine_white-off-031-vino-blanco]
+related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-043-vino-blanco-semidulce, ENT-wine_white-off-031-vino-blanco]
 ratings:
   vivino: {score: 4.8, votes: 15301}
   parker: {score: 89, year: 2020}

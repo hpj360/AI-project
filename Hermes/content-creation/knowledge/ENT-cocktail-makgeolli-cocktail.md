@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 马格利, 米酒, 韩国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-soju-mojito]
+related: [ENT-cocktail-soju-mojito, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
 ---
 
 # 马格利鸡尾酒

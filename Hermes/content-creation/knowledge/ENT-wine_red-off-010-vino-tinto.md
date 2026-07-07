@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, wine_red, 红葡萄酒, Don Simón]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-029-vino-blanco-chardonay]
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_white-off-029-vino-blanco-chardonay]
 ratings:
   vivino: {score: 4.8, votes: 37302}
   parker: {score: 89, year: 2023}

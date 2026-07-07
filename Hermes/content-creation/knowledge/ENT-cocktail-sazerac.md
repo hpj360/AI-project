@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 威士忌, 新奥尔良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-grasshopper, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-gin-fizz, ENT-cocktail-brandy-crusta]
+related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-brandy-crusta, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40]
 ---
 
 # 赛泽瑞克

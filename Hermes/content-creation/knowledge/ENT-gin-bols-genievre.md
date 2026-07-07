@@ -6,6 +6,7 @@ tags: [金酒, 荷兰, genever, 杰纳斯]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-tanqueray-rangpur, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-no-ten, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 4.5, votes: 32423}
   wine_enthusiast: {score: 82, year: 2021}

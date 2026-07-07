@@ -6,7 +6,7 @@ tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-richebourg-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-echezeaux-jayer-1999, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-romanee-conti-2015]
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-echezeaux-jayer-1999, ENT-wine-red-grands-echezeaux-2015]
 ratings:
   vivino: {score: 4.5, votes: 20892}
   parker: {score: 82, year: 2021}

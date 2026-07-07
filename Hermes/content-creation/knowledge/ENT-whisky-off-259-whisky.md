@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, whisky, 威士忌, togouchi]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-246-jack-daniel-s-no-7, ENT-whisky-off-245-monkey-shoulder]
 ratings:
   vivino: {score: 4.1, votes: 26711}
   whisky_fun: {score: 83, year: 2020}

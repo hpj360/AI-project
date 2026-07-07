@@ -6,7 +6,7 @@ tags: [红酒, 西班牙, Ribera del Duero, 丹魄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-vega-sicilia-unico-2010, ENT-wine-red-pingus-2015]
+related: [ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-pingus-2015, ENT-wine-red-vega-sicilia-unico-2010, ENT-wine_red-off-003-adama]
 ratings:
   vivino: {score: 4.8, votes: 39155}
   parker: {score: 87, year: 2022}

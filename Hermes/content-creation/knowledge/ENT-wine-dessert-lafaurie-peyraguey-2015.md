@@ -6,6 +6,7 @@ tags: [甜酒, 苏玳, Lafaurie-Peyraguey, 一级庄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-dessert-climens-2015, ENT-wine-dessert-rieussec-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015]
 ratings:
   vivino: {score: 3.9, votes: 48008}
   parker: {score: 82, year: 2020}

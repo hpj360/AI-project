@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, Brewdog]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-brewdog-punk-ipa, ENT-beer-off-087-alus-brewdog-punk-ipa]
+related: [ENT-beer-brewdog-punk-ipa, ENT-beer-snow, ENT-beer-tsingtao, ENT-beer-off-087-alus-brewdog-punk-ipa, ENT-beer-budweiser]
 ratings:
   vivino: {score: 4.8, votes: 18195}
   ratebeer: {score: 84, year: 2020}

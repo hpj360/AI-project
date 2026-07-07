@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, Jenlain]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.8, votes: 43390}
   ratebeer: {score: 89, year: 2022}

@@ -39,11 +39,23 @@ def load_all_entries():
 
 
 def find_relations(entries):
-    """为每个条目找出关联条目。"""
+    """为每个条目找出关联条目。
+
+    关联策略（按优先级）：
+    1. 同品牌（最多 3 个）
+    2. 同产区同子类（补到 5）
+    3. 跨子类：基酒→鸡尾酒
+    4. 跨产区同子类（补到 4）：不同产区同类酒（如不同产区的赤霞珠）
+    5. 同子类兜底（补到 5）：相同子类的其他条目随机选
+    6. 同风味标签（补到 5）：相同风味标签的条目
+    """
     # 建立索引
     by_subcat = defaultdict(list)
     by_brand = defaultdict(list)
     by_region = defaultdict(list)
+    by_flavor_tag = defaultdict(list)
+    by_subcat_region = defaultdict(list)
+    by_country = defaultdict(list)
     for e in entries:
         eid = e.get("id", "")
         sub = e.get("subcategory", "")
@@ -55,6 +67,13 @@ def find_relations(entries):
         region = (e.get("region", "") or "").lower()
         if region:
             by_region[region].append(e)
+            by_subcat_region[(sub, region)].append(e)
+        country = (e.get("country", "") or "").lower()
+        if country:
+            by_country[(sub, country)].append(e)
+        # 风味标签
+        for tag in (e.get("flavor_tags") or []):
+            by_flavor_tag[tag.lower()].append(e)
 
     relations = defaultdict(set)
     for e in entries:
@@ -64,6 +83,7 @@ def find_relations(entries):
         sub = e.get("subcategory", "")
         producer = (e.get("producer", "") or "").lower()
         region = (e.get("region", "") or "").lower()
+        country = (e.get("country", "") or "").lower()
 
         # 1. 同品牌（最多 3 个）
         if producer and len(by_brand[producer]) > 1:
@@ -108,30 +128,78 @@ def find_relations(entries):
                 elif "白兰地" in name or "brandy" in name or "干邑" in name:
                     for other in by_subcat.get("brandy", [])[:3]:
                         relations[eid].add(other.get("id", ""))
+                elif "清酒" in name or "sake" in name:
+                    for other in by_subcat.get("sake", [])[:3]:
+                        relations[eid].add(other.get("id", ""))
+                elif "白酒" in name or "baijiu" in name:
+                    for other in by_subcat.get("baijiu", [])[:3]:
+                        relations[eid].add(other.get("id", ""))
+
+        # 4. 跨产区同子类（补到 4）：不同产区/国家的同类酒
+        if len(relations[eid]) < 4 and sub:
+            same_sub_diff_region = [
+                other for other in by_subcat.get(sub, [])
+                if other.get("id", "") != eid
+                and (other.get("region", "") or "").lower() != region
+            ]
+            for other in same_sub_diff_region[:3]:
+                oid = other.get("id", "")
+                if oid:
+                    relations[eid].add(oid)
+                    if len(relations[eid]) >= 4:
+                        break
+
+        # 5. 同子类兜底（补到 5）：相同子类的其他条目随机选
+        if len(relations[eid]) < 5 and sub:
+            for other in by_subcat.get(sub, []):
+                oid = other.get("id", "")
+                if oid and oid != eid and oid not in relations[eid]:
+                    relations[eid].add(oid)
+                    if len(relations[eid]) >= 5:
+                        break
+
+        # 6. 同风味标签（补到 5）
+        if len(relations[eid]) < 5:
+            for tag in (e.get("flavor_tags") or []):
+                for other in by_flavor_tag.get(tag.lower(), []):
+                    oid = other.get("id", "")
+                    if oid and oid != eid and oid not in relations[eid]:
+                        relations[eid].add(oid)
+                        if len(relations[eid]) >= 5:
+                            break
+                if len(relations[eid]) >= 5:
+                    break
 
     # 截断到 5 个
     return {k: list(v)[:5] for k, v in relations.items() if v}
 
 
 def update_md_files(relations):
-    """更新 .md 文件，注入 related 字段。"""
+    """更新 .md 文件，注入或替换 related 字段。"""
     updated = 0
     for eid, related in relations.items():
         md_path = KB_DIR / f"{eid}.md"
         if not md_path.exists():
             continue
         content = md_path.read_text(encoding="utf-8")
-        # 如果已有 related 字段，跳过
-        if "related:" in content[:500]:
-            continue
-        # 在 updated: 行后插入 related
         related_str = f"related: [{', '.join(related)}]"
-        content = re.sub(
-            r'(updated: \d{4}-\d{2}-\d{2})',
-            r'\1\n' + related_str,
-            content,
-            count=1
-        )
+        # 如果已有 related 字段，替换它
+        if re.search(r'^related:.*$', content, re.MULTILINE):
+            content = re.sub(
+                r'^related:.*$',
+                related_str,
+                content,
+                count=1,
+                flags=re.MULTILINE,
+            )
+        else:
+            # 在 updated: 行后插入 related
+            content = re.sub(
+                r'(updated: \d{4}-\d{2}-\d{2})',
+                r'\1\n' + related_str,
+                content,
+                count=1,
+            )
         md_path.write_text(content, encoding="utf-8")
         updated += 1
     return updated

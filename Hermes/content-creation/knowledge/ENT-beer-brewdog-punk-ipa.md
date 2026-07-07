@@ -6,7 +6,7 @@ tags: [啤酒, 英国, 酿酒狗, IPA, 精酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-off-093-punk-ipa, ENT-beer-off-087-alus-brewdog-punk-ipa]
+related: [ENT-beer-snow, ENT-beer-off-093-punk-ipa, ENT-beer-tsingtao, ENT-beer-off-087-alus-brewdog-punk-ipa, ENT-beer-budweiser]
 ratings:
   vivino: {score: 4.8, votes: 49481}
   ratebeer: {score: 87, year: 2020}

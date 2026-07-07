@@ -6,7 +6,7 @@ tags: [鸡尾酒, 高球, 苏格兰, 苏打水, 清爽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-243-whisky-40, ENT-cocktail-rusty-nail, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-rusty-nail, ENT-whisky-off-242-ballantine-s-finest, ENT-cocktail-sake-bomb]
 ---
 
 # 苏打苏格兰

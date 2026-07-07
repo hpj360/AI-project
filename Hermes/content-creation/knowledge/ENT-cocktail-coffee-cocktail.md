@@ -6,7 +6,7 @@ tags: [鸡尾酒, 古典, 波特酒, 朗姆, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-dry-martini, ENT-cocktail-cosmopolitan]
+related: [ENT-cocktail-whiskey-sour, ENT-rum-off-163-rhum-negrita, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation]
 ---
 
 # 咖啡鸡尾酒

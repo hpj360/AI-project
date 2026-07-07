@@ -6,6 +6,7 @@ tags: [金酒, 日本, 京都, 季之美]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-tanqueray-rangpur, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-no-ten, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 4.3, votes: 26135}
   wine_enthusiast: {score: 80, year: 2023}

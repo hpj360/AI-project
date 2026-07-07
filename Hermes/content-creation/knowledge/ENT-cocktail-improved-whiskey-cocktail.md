@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 威士忌, 古典, 苦精]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-dry-martini, ENT-cocktail-cosmopolitan]
+related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey]
 ---
 
 # 改良威士忌鸡尾酒

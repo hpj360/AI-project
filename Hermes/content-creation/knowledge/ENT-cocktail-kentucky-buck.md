@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 波本, 草莓, 高球]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-mint-julep, ENT-cocktail-whiskey-smash, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest]
+related: [ENT-cocktail-mint-julep, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-whiskey-smash, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest]
 ---
 
 # 肯塔基巴克

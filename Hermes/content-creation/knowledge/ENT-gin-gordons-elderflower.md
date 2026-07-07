@@ -6,7 +6,7 @@ tags: [金酒, 调味金酒, 英国, 哥顿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-tanqueray-no-ten, ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-tanqueray-london-dry, ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-gordons-london-dry]
+related: [ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-gordons-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 4.8, votes: 38853}
   wine_enthusiast: {score: 85, year: 2021}

@@ -6,7 +6,7 @@ tags: [啤酒, 比利时, 智美, 修道院啤酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-chimay-gold, ENT-beer-chimay-blue]
+related: [ENT-beer-snow, ENT-beer-tsingtao, ENT-beer-chimay-blue, ENT-beer-chimay-gold, ENT-beer-budweiser]
 ratings:
   vivino: {score: 4.2, votes: 41531}
   ratebeer: {score: 81, year: 2020}

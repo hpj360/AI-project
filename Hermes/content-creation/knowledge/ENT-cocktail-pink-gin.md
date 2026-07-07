@@ -6,7 +6,7 @@ tags: [鸡尾酒, 古典, 金酒, 苦精, 英国海军]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-sake-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb]
 ---
 
 # 粉红金酒

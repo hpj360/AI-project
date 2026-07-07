@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, sake, 清酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-096-cooking-sake, ENT-sake-off-113-amazake]
 ratings:
   vivino: {score: 4.1, votes: 12048}
   sake_revue: {score: 82, year: 2020}

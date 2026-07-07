@@ -6,7 +6,7 @@ tags: [鸡尾酒, 禁酒令, 金酒, 橙汁, 苦艾酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-white-lady, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire-east, ENT-cocktail-sidecar]
+related: [ENT-cocktail-white-lady, ENT-cocktail-sidecar, ENT-gin-bombay-sapphire-east, ENT-cocktail-bloody-mary, ENT-cocktail-between-the-sheets]
 ---
 
 # 猴腺

@@ -6,7 +6,7 @@ tags: [清酒, 日本, 纯米大吟醸, 久保田, 原酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-kubota-hyakuju, ENT-sake-kubota-manju, ENT-sake-kubota-hachiban, ENT-sake-kubota-suiju, ENT-sake-kubota-senju]
+related: [ENT-sake-kubota-suiju, ENT-sake-kubota-senju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban, ENT-sake-kubota-manju]
 ratings:
   vivino: {score: 4.8, votes: 33891}
   sake_revue: {score: 97, year: 2020}

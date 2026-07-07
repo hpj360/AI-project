@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, gin, 金酒, Gordon's]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower]
+related: [ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-gordons-london-dry, ENT-gin-bombay-sapphire-east, ENT-gin-gordons-elderflower, ENT-gin-bombay-sapphire]
 ratings:
   vivino: {score: 4.1, votes: 13407}
   wine_enthusiast: {score: 81, year: 2020}

@@ -6,7 +6,7 @@ tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-la-tache-2015, ENT-wine-red-la-romane-liger-belair-2015, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-romanee-conti-2015]
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-la-romane-liger-belair-2015, ENT-wine-red-grands-echezeaux-2015]
 ratings:
   vivino: {score: 4.8, votes: 35930}
   parker: {score: 91, year: 2023}

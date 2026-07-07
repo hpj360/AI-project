@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 伏特加, 荔枝, 香槟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-cocktail-white-lady, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sidecar]
+related: [ENT-cocktail-white-lady, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-sidecar, ENT-vodka-off-142-poliakov, ENT-cocktail-bloody-mary]
 ---
 
 # 卡萨诺瓦

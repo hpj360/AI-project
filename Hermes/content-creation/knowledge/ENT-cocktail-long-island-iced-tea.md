@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 烈, 长饮]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-tequila-off-183-tequila-gold, ENT-gin-bombay-sapphire, ENT-rum-off-164-bumbu-original-rum-40, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-rum-off-163-rhum-negrita, ENT-tequila-off-183-tequila-gold, ENT-rum-off-164-bumbu-original-rum-40, ENT-tequila-off-184-sierra-tequila-silver]
 ---
 
 # 长岛冰茶

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 查特酒, 苦精]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-paper-plane, ENT-cocktail-old-cuban, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-red-hook]
 ---
 
 # 绿点

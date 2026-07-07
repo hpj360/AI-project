@@ -6,7 +6,7 @@ tags: [加强酒, 雪莉, Manzanilla, Sanlúcar]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-hidalgo-la-gitana-amontillado]
+related: [ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-hidalgo-la-gitana-amontillado]
 ratings:
   vivino: {score: 4.8, votes: 4133}
   wine_spectator: {score: 87, year: 2022}

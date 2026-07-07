@@ -6,7 +6,7 @@ tags: [金酒, old tom, 英国, 希克林]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-haymans-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-london-dry, ENT-gin-gordons-london-dry, ENT-gin-tanqueray-rangpur]
+related: [ENT-gin-tanqueray-rangpur, ENT-gin-haymans-london-dry, ENT-gin-gordons-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 4.6, votes: 30554}
   wine_enthusiast: {score: 83, year: 2020}

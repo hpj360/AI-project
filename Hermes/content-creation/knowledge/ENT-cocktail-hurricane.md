@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 百香果, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-grasshopper, ENT-cocktail-ramos-gin-fizz, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-gin-fizz, ENT-cocktail-brandy-crusta]
+related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-brandy-crusta, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-sazerac, ENT-rum-off-164-bumbu-original-rum-40]
 ---
 
 # 飓风

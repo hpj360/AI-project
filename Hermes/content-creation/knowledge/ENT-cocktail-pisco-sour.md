@@ -6,6 +6,7 @@ tags: [鸡尾酒, 酸酒, 皮斯科, 青柠, 秘鲁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
 ---
 
 # 皮斯科酸酒

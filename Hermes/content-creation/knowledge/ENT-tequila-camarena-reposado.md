@@ -6,7 +6,7 @@ tags: [龙舌兰, 墨西哥, Camarena, Reposado]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-olmeca-altos-plata]
+related: [ENT-tequila-off-186-tequila, ENT-tequila-off-183-tequila-gold, ENT-tequila-olmeca-altos-plata, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40]
 ratings:
   vivino: {score: 3.9, votes: 23158}
   wine_enthusiast: {score: 78, year: 2021}

@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, Brouwerij Bosteels]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.5, votes: 39547}
   ratebeer: {score: 81, year: 2021}

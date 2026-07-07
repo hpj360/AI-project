@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 荔枝, 伏特加, 中国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-142-poliakov]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
 ---
 
 # 荔枝马天尼

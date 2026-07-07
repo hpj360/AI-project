@@ -6,7 +6,7 @@ tags: [伏特加, 俄罗斯, 白桦树]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-five-lakes, ENT-vodka-beluga]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-five-lakes, ENT-vodka-beluga, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.8, votes: 36264}
   wine_enthusiast: {score: 85, year: 2020}

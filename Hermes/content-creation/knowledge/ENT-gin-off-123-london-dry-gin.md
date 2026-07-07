@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, gin, 金酒, Beefeater]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-off-132-pink-strawberry, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24]
+related: [ENT-gin-beefeater-london-dry, ENT-gin-off-132-pink-strawberry, ENT-gin-beefeater-24, ENT-gin-bombay-sapphire-east, ENT-gin-bombay-sapphire]
 ratings:
   vivino: {score: 4.8, votes: 4126}
   wine_enthusiast: {score: 88, year: 2023}

@@ -6,7 +6,7 @@ tags: [起泡酒, Trento DOC, Ferrari, 无年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-ferrari-riserva-del-fondatore-2012]
+related: [ENT-wine-sparkling-ferrari-riserva-del-fondatore-2012, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
 ratings:
   vivino: {score: 4.4, votes: 6476}
   wine_spectator: {score: 83, year: 2023}

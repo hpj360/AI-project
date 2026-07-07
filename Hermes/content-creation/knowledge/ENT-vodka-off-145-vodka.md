@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, vodka, 伏特加, Eristoff]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-151-eristoff-black-70cl-18]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-146-premium-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-151-eristoff-black-70cl-18]
 ratings:
   vivino: {score: 4.8, votes: 22651}
   wine_enthusiast: {score: 89, year: 2023}

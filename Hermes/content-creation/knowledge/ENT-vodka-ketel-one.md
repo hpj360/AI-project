@@ -6,7 +6,7 @@ tags: [伏特加, 荷兰, Ketel One]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-nolets-reserve]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-gin-nolets-reserve, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.2, votes: 12699}
   wine_enthusiast: {score: 81, year: 2021}

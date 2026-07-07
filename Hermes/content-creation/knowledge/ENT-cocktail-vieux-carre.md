@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 干邑, 新奥尔良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-gin-fizz]
+related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-brandy-crusta, ENT-cocktail-sazerac, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey]
 ---
 
 # 老广场

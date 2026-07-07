@@ -6,7 +6,7 @@ tags: [啤酒, 中国, 京A, 精酿, 北京]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-yanjing, ENT-beer-nbpt, ENT-beer-great-leap, ENT-beer-slowboat, ENT-beer-snow]
+related: [ENT-beer-yanjing, ENT-beer-snow, ENT-beer-nbpt, ENT-beer-great-leap, ENT-beer-slowboat]
 ratings:
   vivino: {score: 4.8, votes: 47329}
   ratebeer: {score: 85, year: 2022}

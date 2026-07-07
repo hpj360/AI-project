@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 番茄, 早午餐]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bees-knees, ENT-vodka-off-142-poliakov, ENT-cocktail-white-lady, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-cocktail-white-lady, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bees-knees, ENT-cocktail-sidecar, ENT-vodka-off-142-poliakov]
 ---
 
 # 血腥玛丽

@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, vodka, 伏特加, Three Sixty]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-146-premium-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 3.9, votes: 8845}
   wine_enthusiast: {score: 81, year: 2021}

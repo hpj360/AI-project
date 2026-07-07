@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, wine_red, 红葡萄酒, Baron Philippe de Rothschild]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-015-cabernet-sauvigon, ENT-wine_red-off-017-naturae]
+related: [ENT-wine_red-off-015-cabernet-sauvigon, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-017-naturae]
 ratings:
   vivino: {score: 4.8, votes: 32691}
   parker: {score: 93, year: 2020}

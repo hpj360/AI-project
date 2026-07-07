@@ -6,6 +6,7 @@ tags: [朗姆酒, 巴拿马, Selvarey]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
 ratings:
   vivino: {score: 4.8, votes: 22728}
   wine_enthusiast: {score: 90, year: 2020}

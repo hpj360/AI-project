@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 葡萄柚, 蜂蜜]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire-east]
 ---
 
 # 回廊

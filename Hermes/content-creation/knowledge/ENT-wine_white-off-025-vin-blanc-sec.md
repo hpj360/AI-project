@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, wine_white, 白葡萄酒, La Villageoise]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-034-vin-blanc]
+related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay]
 ratings:
   vivino: {score: 4.8, votes: 20615}
   parker: {score: 85, year: 2021}

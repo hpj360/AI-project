@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, whisky, 威士忌, Johnnie walker]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-265-black-label, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-270-red-label]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-270-red-label, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-265-black-label]
 ratings:
   vivino: {score: 4.5, votes: 191}
   whisky_fun: {score: 84, year: 2021}

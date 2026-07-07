@@ -6,7 +6,7 @@ tags: [红酒, 澳洲, 设拉子]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-penfolds-grange-2015]
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-penfolds-grange-2015, ENT-wine_red-off-003-adama]
 ratings:
   vivino: {score: 4.1, votes: 1784}
   parker: {score: 80, year: 2021}

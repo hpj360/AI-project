@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 白兰地, 菠萝, 朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-earl-grey-martini, ENT-cocktail-espresso-martini]
+related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-cocktail-hanky-panky]
 ---
 
 # 东印度二号

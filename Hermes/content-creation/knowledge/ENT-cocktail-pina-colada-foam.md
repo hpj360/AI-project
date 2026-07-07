@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 泡沫, 朗姆, 椰子, 菠萝]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-mojito-spheres]
+related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-rum-off-163-rhum-negrita, ENT-cocktail-ginish-tonic, ENT-rum-off-164-bumbu-original-rum-40]
 ---
 
 # 椰林飘香泡沫

@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, whisky, 威士忌, Grant's]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-258-grant-s-triple-wood-blended-scotch-whisky]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-258-grant-s-triple-wood-blended-scotch-whisky, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-245-monkey-shoulder]
 ratings:
   vivino: {score: 4.8, votes: 30545}
   whisky_fun: {score: 89, year: 2021}

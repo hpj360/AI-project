@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 黑莓力乔, 伦敦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-martini-dick, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-bombay-sapphire, ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cocktail-espresso-martini-dick, ENT-cocktail-hanky-panky]
 ---
 
 # 荆棘（弗雷德俱乐部版本）

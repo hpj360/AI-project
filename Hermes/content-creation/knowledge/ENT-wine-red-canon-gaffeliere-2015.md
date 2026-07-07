@@ -6,7 +6,7 @@ tags: [红酒, 波尔多, 圣埃美隆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-ausone-2015, ENT-wine-red-cheval-blanc-2015, ENT-wine-red-angelus-2015, ENT-wine-red-peby-faugeres-2015, ENT-wine-red-pavie-2015]
+related: [ENT-wine-red-angelus-2015, ENT-wine-red-pavie-2015, ENT-wine-red-cheval-blanc-2015, ENT-wine-red-ausone-2015, ENT-wine-red-peby-faugeres-2015]
 ratings:
   vivino: {score: 4.8, votes: 47404}
   parker: {score: 85, year: 2022}

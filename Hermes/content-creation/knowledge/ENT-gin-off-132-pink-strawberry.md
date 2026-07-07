@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, gin, 金酒, Beefeater]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-beefeater-london-dry, ENT-gin-off-120-tanqueray-london-dry-gin, ENT-gin-beefeater-24, ENT-gin-off-123-london-dry-gin]
+related: [ENT-gin-beefeater-london-dry, ENT-gin-off-120-tanqueray-london-dry-gin, ENT-gin-off-123-london-dry-gin, ENT-gin-beefeater-24, ENT-gin-bombay-sapphire]
 ratings:
   vivino: {score: 4.0, votes: 35872}
   wine_enthusiast: {score: 80, year: 2022}

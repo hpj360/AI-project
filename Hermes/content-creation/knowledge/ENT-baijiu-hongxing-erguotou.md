@@ -6,7 +6,7 @@ tags: [白酒, 清香, 北京, 红星]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-hongxing-lanhua-15]
+related: [ENT-baijiu-hongxing-lanhua-15, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.8, votes: 10305}
   csl: {score: 87, year: 2021}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 咖啡, 奶油]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-black-russian, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-142-poliakov]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-cocktail-black-russian, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb]
 ---
 
 # 白色俄罗斯

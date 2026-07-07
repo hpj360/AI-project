@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 白兰地, 朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-cocktail-bees-knees, ENT-brandy-hennessy-vsop, ENT-cocktail-white-lady, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-cocktail-white-lady, ENT-rum-off-163-rhum-negrita, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-rum-off-164-bumbu-original-rum-40]
 ---
 
 # 枕边话

@@ -6,6 +6,7 @@ tags: [米酒, 广东, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rice-wine-hongli-hongmi, ENT-rice-wine-changle-shao, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
 ---
 
 # 广东米酒

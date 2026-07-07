@@ -6,7 +6,7 @@ tags: [鸡尾酒, 无酒精, Seedlip, 菲士, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-hanky-panky]
+related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-bramble, ENT-cocktail-espresso-martini]
 ---
 
 # Seedlip 花园菲士

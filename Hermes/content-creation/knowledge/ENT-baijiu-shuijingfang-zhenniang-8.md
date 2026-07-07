@@ -6,7 +6,7 @@ tags: [白酒, 浓香, 四川, 水井坊]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-shuijingfang-jingtai, ENT-baijiu-quanxing-daqu]
+related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-quanxing-daqu, ENT-baijiu-shuijingfang-jingtai, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.8, votes: 47728}
   csl: {score: 87, year: 2023}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 球化, 金酒, 干味美思]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bombay-sapphire, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres]
 ---
 
 # 马天尼珍珠

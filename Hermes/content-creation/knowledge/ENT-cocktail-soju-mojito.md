@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 烧酒, 薄荷, 韩国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-makgeolli-cocktail]
+related: [ENT-cocktail-makgeolli-cocktail, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
 ---
 
 # 烧酒莫吉托

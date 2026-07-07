@@ -6,7 +6,7 @@ tags: [鸡尾酒, 创意, 浓缩咖啡, 汤力水, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-bloody-mary-spheres, ENT-cocktail-aviation-caviar, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres, ENT-cocktail-ginish-tonic]
+related: [ENT-cocktail-aviation-caviar, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres, ENT-cocktail-bloody-mary-spheres]
 ---
 
 # 咖啡汤力

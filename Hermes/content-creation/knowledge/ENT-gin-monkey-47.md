@@ -6,6 +6,7 @@ tags: [金酒, 德国, 黑森林, 复合植物]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-tanqueray-rangpur, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-no-ten, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 4.8, votes: 47886}
   wine_enthusiast: {score: 85, year: 2023}

@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, wine_red, 红葡萄酒, Christkindl]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
 ratings:
   vivino: {score: 4.0, votes: 10529}
   parker: {score: 79, year: 2022}

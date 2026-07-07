@@ -6,6 +6,7 @@ tags: [甜酒, 托卡伊, Aszú, 6 Puttonyos]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-dessert-climens-2015, ENT-wine-dessert-rieussec-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015]
 ratings:
   vivino: {score: 4.8, votes: 15151}
   parker: {score: 91, year: 2022}

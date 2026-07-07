@@ -6,7 +6,7 @@ tags: [鸡尾酒, 短饮, 伏特加, 蜜瓜利口酒, 果味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-brown-derby, ENT-cocktail-test-pilot-modern, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-142-poliakov]
+related: [ENT-cocktail-brown-derby, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-smoke-signal, ENT-cocktail-westside, ENT-vodka-off-142-poliakov]
 ---
 
 # 蜜瓜球

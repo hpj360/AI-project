@@ -6,7 +6,7 @@ tags: [甜酒, 苏玳, Rieussec, 一级庄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-de-fargues-2015]
+related: [ENT-wine-dessert-climens-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-de-fargues-2015]
 ratings:
   vivino: {score: 4.8, votes: 18476}
   parker: {score: 86, year: 2020}

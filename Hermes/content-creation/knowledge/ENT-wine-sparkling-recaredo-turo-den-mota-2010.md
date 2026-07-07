@@ -6,7 +6,7 @@ tags: [起泡酒, 卡瓦, Recaredo, 单一园, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-juve-y-camps-reserva-2017]
+related: [ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 ratings:
   vivino: {score: 4.2, votes: 36636}
   wine_spectator: {score: 83, year: 2022}

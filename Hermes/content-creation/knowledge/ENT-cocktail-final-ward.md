@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 黑麦, 苹果白兰地, 等比]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-paper-plane]
+related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-vsop, ENT-whisky-off-243-whisky-40]
 ---
 
 # 最终守护

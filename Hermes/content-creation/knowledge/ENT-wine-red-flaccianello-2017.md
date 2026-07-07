@@ -6,7 +6,7 @@ tags: [红酒, 意大利, 超级托斯卡纳, 桑娇维塞]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-solaia-2016, ENT-wine-red-tignanello-2017]
+related: [ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-tignanello-2017, ENT-wine-red-solaia-2016, ENT-wine_red-off-003-adama]
 ratings:
   vivino: {score: 4.3, votes: 29890}
   parker: {score: 82, year: 2020}

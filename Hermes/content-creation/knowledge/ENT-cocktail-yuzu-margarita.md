@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 柚子, 龙舌兰, 日本]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-martini, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-sake-bomb, ENT-cocktail-saketini]
+related: [ENT-cocktail-samurai, ENT-tequila-off-183-tequila-gold, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-tequila-off-184-sierra-tequila-silver]
 ---
 
 # 柚子玛格丽特

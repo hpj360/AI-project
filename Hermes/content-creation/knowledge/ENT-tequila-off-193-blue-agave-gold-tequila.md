@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, tequila, 龙舌兰, Jose Cuervo]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-off-185-silver-tequila-40]
 ratings:
   vivino: {score: 4.8, votes: 43558}
   wine_enthusiast: {score: 87, year: 2022}

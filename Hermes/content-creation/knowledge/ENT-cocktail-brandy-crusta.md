@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 白兰地, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-cocktail-grasshopper, ENT-cocktail-ramos-gin-fizz, ENT-brandy-hennessy-vsop, ENT-cocktail-gin-fizz]
+related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-sazerac, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs]
 ---
 
 # 白兰地克鲁斯塔

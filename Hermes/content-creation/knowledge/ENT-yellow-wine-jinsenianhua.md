@@ -6,7 +6,7 @@ tags: [黄酒, 上海, 金色年华, 海派]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-hejiu, ENT-yellow-wine-shikumen]
+related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-shikumen, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-hejiu]
 ---
 
 # 金色年华

@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 树莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-whiskey-sour, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation]
 ---
 
 # 法兰西马天尼

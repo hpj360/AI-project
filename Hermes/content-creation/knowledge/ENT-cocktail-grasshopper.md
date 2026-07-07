@@ -6,7 +6,7 @@ tags: [鸡尾酒, 短饮, 薄荷, 可可, 奶油, 餐后]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-ramos-gin-fizz, ENT-cocktail-gin-fizz, ENT-cocktail-brandy-crusta, ENT-cocktail-sazerac, ENT-cocktail-hurricane]
+related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-brandy-crusta, ENT-cocktail-sazerac, ENT-cocktail-gin-fizz]
 ---
 
 # 蚱蜢

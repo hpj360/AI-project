@@ -6,7 +6,7 @@ tags: [伏特加, 调味, 法国, 灰雁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-grey-goose-original, ENT-vodka-off-156-grey-goose-original]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-156-grey-goose-original, ENT-vodka-off-142-poliakov, ENT-vodka-grey-goose-original, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.8, votes: 15417}
   wine_enthusiast: {score: 83, year: 2021}

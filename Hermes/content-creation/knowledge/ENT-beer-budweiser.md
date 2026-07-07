@@ -6,7 +6,7 @@ tags: [啤酒, 美国, 百威, 工业拉格]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-bud-ice]
+related: [ENT-beer-snow, ENT-beer-carlsberg, ENT-beer-bud-ice, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 3.9, votes: 42450}
   ratebeer: {score: 80, year: 2023}

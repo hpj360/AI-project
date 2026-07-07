@@ -6,7 +6,7 @@ tags: [加强酒, 雪莉, Fino, González Byass]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-lustau-palo-cortado-vors]
+related: [ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-lustau-palo-cortado-vors]
 ratings:
   vivino: {score: 4.8, votes: 12584}
   wine_spectator: {score: 90, year: 2022}

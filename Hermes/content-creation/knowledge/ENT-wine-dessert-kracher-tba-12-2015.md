@@ -6,7 +6,7 @@ tags: [甜酒, 奥地利, TBA, Kracher, 贵腐]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-kracher-beerenauslese-zwischen-den-seen-2016]
+related: [ENT-wine-dessert-climens-2015, ENT-wine-dessert-kracher-beerenauslese-zwischen-den-seen-2016, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-suduiraut-2015]
 ratings:
   vivino: {score: 4.8, votes: 4926}
   parker: {score: 87, year: 2022}

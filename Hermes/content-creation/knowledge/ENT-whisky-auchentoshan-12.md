@@ -6,6 +6,7 @@ tags: [威士忌, 苏格兰, 单一麦芽, 低地]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-246-jack-daniel-s-no-7, ENT-whisky-off-245-monkey-shoulder]
 ratings:
   vivino: {score: 4.8, votes: 10636}
   whisky_fun: {score: 87, year: 2023}

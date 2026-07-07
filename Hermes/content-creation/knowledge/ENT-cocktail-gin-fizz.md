@@ -6,7 +6,7 @@ tags: [鸡尾酒, 菲士, 金酒, 苏打水, IBA]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-grasshopper, ENT-cocktail-ramos-gin-fizz, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-brandy-crusta]
+related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-brandy-crusta, ENT-cocktail-sazerac, ENT-gin-bombay-sapphire-east]
 ---
 
 # 金菲士

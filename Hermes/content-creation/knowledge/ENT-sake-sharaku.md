@@ -6,7 +6,7 @@ tags: [清酒, 日本, 纯米吟醸, 写乐, 福岛]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-sharaku-junmai-ginjo]
+related: [ENT-sake-sharaku-junmai-ginjo, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake]
 ratings:
   vivino: {score: 4.8, votes: 40747}
   sake_revue: {score: 87, year: 2022}

@@ -6,6 +6,7 @@ tags: [鸡尾酒, 亚洲, 白酒, 椰子, 菠萝]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-cocktail-sake-martini, ENT-baijiu-moutai-yingbin, ENT-cocktail-sake-bomb]
 ---
 
 # 中国椰林飘香

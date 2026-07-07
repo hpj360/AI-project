@@ -6,7 +6,7 @@ tags: [白酒, 兼香, 湖北, 白云边]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-baiyunbian-15nian]
+related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-baiyunbian-15nian, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.2, votes: 23686}
   csl: {score: 80, year: 2021}

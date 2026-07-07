@@ -6,6 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 卡沙萨, 巴西]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
 ---
 
 # 卡匹林尼亚

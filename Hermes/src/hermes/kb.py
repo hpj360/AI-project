@@ -184,11 +184,13 @@ class BM25Index:
     参数：k1=1.5, b=0.75（业界标准值）
     """
 
-    def __init__(self, k1: float = 1.5, b: float = 0.75):
+    def __init__(self, k1: float = 1.5, b: float = 0.75, title_boost: float = 3.0):
         self.k1 = k1
         self.b = b
+        self.title_boost = title_boost  # 标题命中加权倍数
         self.docs: list[list[str]] = []
         self.doc_ids: list[str] = []
+        self.titles: list[list[str]] = []  # 标题 tokens（用于加权）
         self.df: Counter = Counter()  # 文档频率
         self.doc_len: list[int] = []
         self.avgdl: float = 0.0
@@ -203,11 +205,14 @@ class BM25Index:
         cn_chars = re.findall(r'[\u4e00-\u9fff]', text)
         return en_tokens + cn_chars
 
-    def add(self, doc_id: str, text: str):
-        """添加文档。"""
+    def add(self, doc_id: str, text: str, title: str = "", slug: str = ""):
+        """添加文档（支持标题和 slug 加权）。"""
         tokens = self._tokenize(text)
         self.docs.append(tokens)
         self.doc_ids.append(doc_id)
+        # 标题 + slug 联合加权字段
+        boost_text = f"{title} {title} {slug}" if slug else title
+        self.titles.append(self._tokenize(boost_text) if boost_text else [])
         self.doc_len.append(len(tokens))
         for t in set(tokens):
             self.df[t] += 1
@@ -221,26 +226,56 @@ class BM25Index:
             # BM25 IDF 公式（加 1 平滑）
             self.idf[term] = math.log((N - df + 0.5) / (df + 0.5) + 1)
 
+    def _extract_cn_phrases(self, query: str) -> list[str]:
+        """提取查询中的中文连续片段（>=2 字视为短语）。"""
+        return [p for p in re.findall(r'[\u4e00-\u9fff]{2,}', query)]
+
     def search(self, query: str, top_k: int = 10) -> list[tuple[str, float]]:
-        """检索，返回 [(doc_id, score), ...]。"""
+        """检索，返回 [(doc_id, score), ...]。
+
+        评分包含：
+        - BM25 正文分数
+        - 标题/slug 命中加权（title_boost=3.0）
+        - 中文短语连续匹配奖励（标题中含完整短语额外 +idf*phrase_boost）
+        """
         q_tokens = self._tokenize(query)
         if not q_tokens:
             return []
+        cn_phrases = self._extract_cn_phrases(query)
+        phrase_boost = 5.0
         scores = []
         for i, doc_tokens in enumerate(self.docs):
             score = 0.0
             dl = self.doc_len[i]
             tf_counter = Counter(doc_tokens)
+            title_counter = Counter(self.titles[i]) if self.titles else Counter()
+            # 原始标题文本（用于短语连续匹配检测）
+            # titles[i] 是 boost_text（title+title+slug）的 token 化结果，无法还原原文
+            # 因此用 docs/slug/id 推断：标题原文从 doc_id 和 entry title 推断
             for qt in q_tokens:
                 if qt not in self.idf:
                     continue
                 tf = tf_counter.get(qt, 0)
-                if tf == 0:
+                title_tf = title_counter.get(qt, 0)
+                if tf == 0 and title_tf == 0:
                     continue
                 idf = self.idf[qt]
                 # BM25 公式
                 norm = 1 - self.b + self.b * (dl / self.avgdl if self.avgdl else 0)
-                score += idf * (tf * (self.k1 + 1)) / (tf + self.k1 * norm)
+                body_score = idf * (tf * (self.k1 + 1)) / (tf + self.k1 * norm) if tf > 0 else 0
+                # 标题加权：标题中的词额外 boost
+                title_score = idf * title_tf * self.title_boost if title_tf > 0 else 0
+                score += body_score + title_score
+            # 中文短语连续匹配奖励：boost_text 中连续包含短语字符序列
+            if cn_phrases and i < len(self.titles):
+                # 用 boost_text 的字符级检测（titles 是 token 化后的，但中文单字 token 顺序保留）
+                title_str = "".join(self.titles[i]) if self.titles and i < len(self.titles) else ""
+                for phrase in cn_phrases:
+                    if phrase in title_str:
+                        # 短语中每个字都给 idf 奖励
+                        for ch in phrase:
+                            if ch in self.idf:
+                                score += self.idf[ch] * phrase_boost
             if score > 0:
                 scores.append((self.doc_ids[i], score))
         scores.sort(key=lambda x: -x[1])
@@ -274,9 +309,9 @@ class KnowledgeBase:
             e = load_entry(f)
             if e and e.id:
                 self.entries[e.id] = e
-        # 构建 BM25 索引
+        # 构建 BM25 索引（含标题 + slug 加权）
         for eid, e in self.entries.items():
-            self.bm25.add(eid, e.text)
+            self.bm25.add(eid, e.text, title=e.title, slug=eid)
         self.bm25.build()
         self._loaded = True
 

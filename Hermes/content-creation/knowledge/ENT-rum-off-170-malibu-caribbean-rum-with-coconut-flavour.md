@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, rum, 朗姆酒, Malibu]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-177-malibu, ENT-rum-off-169-caribbean-rum-with-coconut-flavour]
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-177-malibu, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-169-caribbean-rum-with-coconut-flavour]
 ratings:
   vivino: {score: 4.3, votes: 28589}
   wine_enthusiast: {score: 82, year: 2020}

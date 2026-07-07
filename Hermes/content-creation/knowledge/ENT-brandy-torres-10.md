@@ -6,6 +6,7 @@ tags: [白兰地, 西班牙, 白兰地]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-brandy-hennessy-richard, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-xo]
 ratings:
   vivino: {score: 4.5, votes: 8774}
   wine_enthusiast: {score: 84, year: 2020}

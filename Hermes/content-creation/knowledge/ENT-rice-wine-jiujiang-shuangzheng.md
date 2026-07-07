@@ -6,6 +6,7 @@ tags: [米酒, 广东, 九江, 双蒸]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-wine-changle-shao, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
 ---
 
 # 九江双蒸酒

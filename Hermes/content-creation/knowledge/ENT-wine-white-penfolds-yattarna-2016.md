@@ -6,7 +6,7 @@ tags: [白酒, 新世界, 霞多丽, 奔富]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-penfolds-bin-707-2016, ENT-wine-red-penfolds-grange-2015]
+related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-red-penfolds-bin-707-2016, ENT-wine_white-off-027-vin, ENT-wine-red-penfolds-grange-2015, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
 ratings:
   vivino: {score: 4.8, votes: 45363}
   parker: {score: 92, year: 2021}

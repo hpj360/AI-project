@@ -6,6 +6,7 @@ tags: [白酒, 清香, 河南, 宝丰]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-wuliangye-1618, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.8, votes: 9536}
   csl: {score: 86, year: 2021}

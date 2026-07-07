@@ -6,7 +6,7 @@ tags: [鸡尾酒, 禁酒令, 金酒, 查特酒, 均衡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire, ENT-cocktail-bull-shot, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-bull-shot, ENT-gin-bombay-sapphire-east, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb]
 ---
 
 # 临别赠言

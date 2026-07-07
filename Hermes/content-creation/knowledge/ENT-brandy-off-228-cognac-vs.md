@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, brandy, 白兰地, Courvoisier]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees]
+related: [ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees]
 ratings:
   vivino: {score: 4.6, votes: 17479}
   wine_enthusiast: {score: 84, year: 2023}

@@ -6,7 +6,7 @@ tags: [清酒, 日本, 纯米酒, 新政, 秋田]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-aramasa-amaneko, ENT-sake-takashimizu]
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake, ENT-sake-aramasa-amaneko, ENT-sake-takashimizu]
 ratings:
   vivino: {score: 3.9, votes: 46553}
   sake_revue: {score: 81, year: 2022}

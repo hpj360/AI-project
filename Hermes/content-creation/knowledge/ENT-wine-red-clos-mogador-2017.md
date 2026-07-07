@@ -6,7 +6,7 @@ tags: [红酒, 西班牙, Priorat]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-alvaro-palacios-lermita-2017]
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-alvaro-palacios-lermita-2017, ENT-wine_red-off-003-adama]
 ratings:
   vivino: {score: 4.8, votes: 43986}
   parker: {score: 85, year: 2022}

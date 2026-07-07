@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 真空低温, 波本, 萃取]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-whisky-off-243-whisky-40]
+related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-ginish-tonic, ENT-whisky-off-243-whisky-40]
 ---
 
 # 真空低温古典

@@ -6,6 +6,7 @@ tags: [果酒, 杨梅, 中国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-tsurume-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-choya-umeshu]
 ---
 
 # 杨梅酒

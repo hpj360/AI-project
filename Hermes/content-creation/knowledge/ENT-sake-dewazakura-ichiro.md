@@ -6,7 +6,7 @@ tags: [清酒, 日本, 纯米大吟醸, 出羽樱, 山形]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-dewazakura]
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake, ENT-sake-dewazakura]
 ratings:
   vivino: {score: 4.3, votes: 33450}
   sake_revue: {score: 81, year: 2020}

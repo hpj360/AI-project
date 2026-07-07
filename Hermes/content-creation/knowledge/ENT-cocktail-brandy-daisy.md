@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酸酒, 白兰地, 石榴, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-gin-fizz, ENT-cocktail-brandy-crusta]
+related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-brandy-crusta, ENT-cocktail-sazerac, ENT-brandy-hennessy-vsop]
 ---
 
 # 白兰地雏菊

@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, rum, 朗姆酒, Marks & Spencers]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-168-masskara]
 ratings:
   vivino: {score: 4.8, votes: 28727}
   wine_enthusiast: {score: 85, year: 2020}

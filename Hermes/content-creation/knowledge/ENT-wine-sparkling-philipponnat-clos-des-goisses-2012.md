@@ -6,7 +6,7 @@ tags: [起泡酒, 香槟, Philipponnat, 独占园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009]
+related: [ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
 ratings:
   vivino: {score: 4.8, votes: 21469}
   wine_spectator: {score: 87, year: 2020}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 伏特加, 咖啡, 伦敦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bramble-freds, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-cocktail-earl-grey-martini, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bramble-freds, ENT-vodka-off-142-poliakov, ENT-cocktail-hanky-panky]
 ---
 
 # 浓缩咖啡马天尼（迪克原版）

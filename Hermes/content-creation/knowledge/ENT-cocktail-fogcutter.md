@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 朗姆, 金酒, 白兰地, Tiki]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-martinez, ENT-rum-off-164-bumbu-original-rum-40, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-martinez, ENT-rum-off-163-rhum-negrita, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-rum-off-164-bumbu-original-rum-40]
 ---
 
 # 雾刀

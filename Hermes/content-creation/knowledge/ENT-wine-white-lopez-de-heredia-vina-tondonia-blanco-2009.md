@@ -6,7 +6,7 @@ tags: [白酒, 西班牙, Viura, Rioja]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009]
+related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
 ratings:
   vivino: {score: 4.8, votes: 31351}
   parker: {score: 88, year: 2021}

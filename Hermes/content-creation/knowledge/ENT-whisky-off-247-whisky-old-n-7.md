@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, whisky, 威士忌, Jack Daniel's]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-jack-daniels-old-no7, ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-single-barrel]
+related: [ENT-whisky-jack-daniels-single-barrel, ENT-whisky-off-243-whisky-40, ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-old-no7, ENT-whisky-off-242-ballantine-s-finest]
 ratings:
   vivino: {score: 3.8, votes: 37431}
   whisky_fun: {score: 81, year: 2023}

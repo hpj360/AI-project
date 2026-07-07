@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Rotkäppchen]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-055-sekt-mild]
+related: [ENT-wine_sparkling-off-055-sekt-mild, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 ratings:
   vivino: {score: 4.1, votes: 17720}
   wine_spectator: {score: 83, year: 2022}

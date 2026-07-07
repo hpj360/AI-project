@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, vodka, 伏特加, Belvedere]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-belvedere-original, ENT-vodka-belvedere-intense]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-belvedere-original, ENT-vodka-off-142-poliakov, ENT-vodka-belvedere-intense, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.8, votes: 33948}
   wine_enthusiast: {score: 83, year: 2022}

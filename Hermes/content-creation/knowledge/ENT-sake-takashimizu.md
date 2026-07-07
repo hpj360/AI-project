@@ -6,7 +6,7 @@ tags: [清酒, 日本, 纯米酒, 高清水, 秋田]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-aramasa-amaneko, ENT-sake-arabashiri-no6]
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake, ENT-sake-arabashiri-no6, ENT-sake-aramasa-amaneko]
 ratings:
   vivino: {score: 4.8, votes: 4427}
   sake_revue: {score: 87, year: 2020}

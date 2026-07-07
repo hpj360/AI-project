@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, rum, 朗姆酒, Captain Morgan]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-168-masskara]
 ratings:
   vivino: {score: 4.8, votes: 20169}
   wine_enthusiast: {score: 90, year: 2023}

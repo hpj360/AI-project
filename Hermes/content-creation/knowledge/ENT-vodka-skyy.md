@@ -6,6 +6,7 @@ tags: [伏特加, 美国, Skyy]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-142-poliakov, ENT-vodka-off-145-vodka, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.8, votes: 16621}
   wine_enthusiast: {score: 85, year: 2020}

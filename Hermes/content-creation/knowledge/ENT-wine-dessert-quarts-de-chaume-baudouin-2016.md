@@ -6,7 +6,7 @@ tags: [甜酒, 卢瓦尔, Quarts de Chaume, 白诗南]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-bonnezeaux-chateau-de-fesles-2017]
+related: [ENT-wine-dessert-bonnezeaux-chateau-de-fesles-2017, ENT-wine-dessert-climens-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-suduiraut-2015]
 ratings:
   vivino: {score: 4.1, votes: 29412}
   parker: {score: 82, year: 2021}

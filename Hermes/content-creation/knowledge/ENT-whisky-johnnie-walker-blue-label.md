@@ -6,7 +6,7 @@ tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-chivas-regal-18, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-265-black-label, ENT-whisky-chivas-regal-12]
+related: [ENT-whisky-chivas-regal-18, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-chivas-regal-12, ENT-whisky-off-265-black-label]
 ratings:
   vivino: {score: 4.8, votes: 47127}
   whisky_fun: {score: 88, year: 2023}

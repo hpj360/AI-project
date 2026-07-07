@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, Brasserie Goudale]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-beer-off-080-3-monts]
+related: [ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-beer-snow, ENT-beer-off-080-3-monts, ENT-beer-tsingtao, ENT-beer-budweiser]
 ratings:
   vivino: {score: 4.8, votes: 38605}
   ratebeer: {score: 88, year: 2023}

@@ -6,6 +6,7 @@ tags: [啤酒, 美国, 鹅岛, IPA, 精酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.3, votes: 27338}
   ratebeer: {score: 80, year: 2020}

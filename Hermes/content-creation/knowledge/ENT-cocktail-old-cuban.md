@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 朗姆, 薄荷, 香槟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-paper-plane, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-dry-martini, ENT-cocktail-red-hook]
+related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-manhattan, ENT-cocktail-final-ward, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-red-hook]
 ---
 
 # 老古巴

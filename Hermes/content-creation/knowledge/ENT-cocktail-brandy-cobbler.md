@@ -6,7 +6,7 @@ tags: [鸡尾酒, 柯伯乐, 白兰地, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-brandy-hennessy-vsop]
 ---
 
 # 白兰地柯伯乐

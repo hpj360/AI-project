@@ -6,7 +6,7 @@ tags: [朗姆酒, 波多黎各, 百加得, 白朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-181-bacardi-razz, ENT-rum-bacardi-8]
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-bacardi-8, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-181-bacardi-razz]
 ratings:
   vivino: {score: 4.8, votes: 7453}
   wine_enthusiast: {score: 86, year: 2023}

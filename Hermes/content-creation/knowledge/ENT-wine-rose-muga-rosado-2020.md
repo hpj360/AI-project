@@ -6,7 +6,7 @@ tags: [桃红, 里奥哈, Muga]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009]
+related: [ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009, ENT-wine-rose-miraval-2019, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-whispering-angel-2020]
 ratings:
   vivino: {score: 3.8, votes: 27398}
   parker: {score: 78, year: 2022}

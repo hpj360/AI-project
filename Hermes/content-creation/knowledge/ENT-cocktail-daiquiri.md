@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 朗姆, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-bacardi-cocktail, ENT-rum-off-163-rhum-negrita]
+related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-bacardi-cocktail, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-sake-bomb]
 ---
 
 # 得其利

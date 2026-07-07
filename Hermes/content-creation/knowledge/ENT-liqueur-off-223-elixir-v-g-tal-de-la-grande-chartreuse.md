@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, liqueur, 利口酒, Chartreuse]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-liqueur-off-217-chartreuse]
+related: [ENT-liqueur-off-211-davide-campari-bitter-tonic, ENT-liqueur-off-215-lik-r-kahl-a-kaffee, ENT-liqueur-off-204-aperol, ENT-liqueur-off-217-chartreuse, ENT-liqueur-off-203-baileys-original-irish-cream]
 ratings:
   vivino: {score: 4.8, votes: 21851}
   wine_enthusiast: {score: 87, year: 2021}

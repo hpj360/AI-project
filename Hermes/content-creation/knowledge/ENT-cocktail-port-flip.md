@@ -6,7 +6,7 @@ tags: [鸡尾酒, 菲利普, 波特酒, 蛋, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-earl-grey-martini, ENT-cocktail-espresso-martini]
+related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-cocktail-hanky-panky]
 ---
 
 # 波特菲利普

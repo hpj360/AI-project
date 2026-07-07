@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 啤酒, 派对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-martini, ENT-cocktail-yuzu-margarita, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-cocktail-samurai, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake, ENT-cocktail-yuzu-margarita]
 ---
 
 # 清酒炸弹

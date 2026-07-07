@@ -6,7 +6,7 @@ tags: [加强酒, 波特, 年份, Fonseca]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-warres-vintage-port-2016, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-20-year-old-tawny, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016]
+related: [ENT-wine-fortified-warres-vintage-port-2016, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-fonseca-20-year-old-tawny]
 ratings:
   vivino: {score: 4.0, votes: 10238}
   wine_spectator: {score: 79, year: 2022}

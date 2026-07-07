@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 查特酒, 朗姆, 提基]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-martinez, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-jasmine, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
+related: [ENT-cocktail-martinez, ENT-rum-off-163-rhum-negrita, ENT-cocktail-fogcutter, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-saturn]
 ---
 
 # 查特酒搅和

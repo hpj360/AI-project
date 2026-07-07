@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, whisky, 威士忌, Monkey Shoulder]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-267-blended-scotch-whisky, ENT-whisky-off-266-clan-campbell, ENT-whisky-off-276-single-malt-scotch-whisky, ENT-whisky-off-270-red-label]
+related: [ENT-whisky-off-266-clan-campbell, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-276-single-malt-scotch-whisky, ENT-whisky-off-270-red-label, ENT-whisky-off-267-blended-scotch-whisky]
 ratings:
   vivino: {score: 4.8, votes: 32603}
   whisky_fun: {score: 85, year: 2022}

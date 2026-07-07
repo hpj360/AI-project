@@ -6,7 +6,7 @@ tags: [桃红, 智利, Montes, Syrah]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-montes-alpha-m-2017]
+related: [ENT-wine-red-montes-alpha-m-2017, ENT-wine-rose-miraval-2019, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-whispering-angel-2020]
 ratings:
   vivino: {score: 4.8, votes: 46305}
   parker: {score: 83, year: 2020}

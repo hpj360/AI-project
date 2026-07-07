@@ -6,6 +6,7 @@ tags: [白酒, 意大利, Garganega, 威尼托]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay]
 ratings:
   vivino: {score: 4.3, votes: 19157}
   parker: {score: 84, year: 2022}

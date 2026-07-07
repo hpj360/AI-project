@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 葡萄柚, 盐边]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-violet-hour-bishop, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-142-poliakov]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-cocktail-violet-hour-bishop, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb]
 ---
 
 # 咸狗

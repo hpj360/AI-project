@@ -6,7 +6,7 @@ tags: [伏特加, 俄罗斯, 红牌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-polugar, ENT-vodka-kristall, ENT-vodka-stolichnaya-soviet]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-stolichnaya-soviet, ENT-vodka-kristall, ENT-vodka-off-142-poliakov, ENT-vodka-polugar]
 ratings:
   vivino: {score: 4.8, votes: 7971}
   wine_enthusiast: {score: 92, year: 2023}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 白兰地, 法国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-cocktail-bees-knees, ENT-brandy-hennessy-vsop, ENT-cocktail-white-lady, ENT-brandy-hennessy-vs]
+related: [ENT-cocktail-white-lady, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-cocktail-bees-knees, ENT-cocktail-bloody-mary]
 ---
 
 # 侧车

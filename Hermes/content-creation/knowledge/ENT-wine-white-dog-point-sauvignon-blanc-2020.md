@@ -6,7 +6,7 @@ tags: [白酒, 新世界, 长相思, 马尔堡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020]
+related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
 ratings:
   vivino: {score: 4.8, votes: 45974}
   parker: {score: 88, year: 2020}

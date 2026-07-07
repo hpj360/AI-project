@@ -6,7 +6,7 @@ tags: [龙舌兰, 墨西哥, 唐胡里奥, Blanco]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-herradura-reposado, ENT-tequila-sauza-blanco, ENT-tequila-patron-silver, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado]
+related: [ENT-tequila-don-julio-reposado, ENT-tequila-herradura-reposado, ENT-tequila-patron-silver, ENT-tequila-sauza-blanco, ENT-tequila-jose-cuervo-especial-gold]
 ratings:
   vivino: {score: 3.9, votes: 7664}
   wine_enthusiast: {score: 81, year: 2021}

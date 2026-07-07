@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 黑朗姆, 查特酒, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-cocktail-brown-derby, ENT-brandy-hennessy-vsop, ENT-cocktail-melon-ball, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-rum-off-163-rhum-negrita, ENT-cocktail-smoke-signal, ENT-brandy-hennessy-vsop]
 ---
 
 # 试飞员（现代版）

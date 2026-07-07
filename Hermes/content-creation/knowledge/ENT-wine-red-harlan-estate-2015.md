@@ -6,7 +6,7 @@ tags: [红酒, 纳帕谷, 美国, 膜拜酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-heitz-cellar-martha-2014, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-opus-one-2016]
+related: [ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-opus-one-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-screaming-eagle-2015]
 ratings:
   vivino: {score: 4.8, votes: 3676}
   parker: {score: 87, year: 2021}

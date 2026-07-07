@@ -6,6 +6,7 @@ tags: [伏特加, 波兰, 野牛草]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-142-poliakov, ENT-vodka-off-145-vodka, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.8, votes: 42238}
   wine_enthusiast: {score: 89, year: 2021}

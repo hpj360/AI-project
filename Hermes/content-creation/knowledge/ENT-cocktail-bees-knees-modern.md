@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 蜂蜜, 柠檬, 禁酒令]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-white-lady, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire-east, ENT-cocktail-sidecar]
+related: [ENT-cocktail-white-lady, ENT-cocktail-sidecar, ENT-gin-bombay-sapphire-east, ENT-cocktail-bloody-mary, ENT-cocktail-between-the-sheets]
 ---
 
 # 蜜蜂之吻（现代改良）

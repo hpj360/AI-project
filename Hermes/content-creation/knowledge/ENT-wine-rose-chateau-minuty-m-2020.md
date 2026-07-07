@@ -6,6 +6,7 @@ tags: [桃红, 普罗旺斯, Minuty]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-rose-miraval-2019, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-domaine-tempier-bandol-2019, ENT-wine-rose-whispering-angel-2020]
 ratings:
   vivino: {score: 4.8, votes: 17681}
   parker: {score: 87, year: 2021}

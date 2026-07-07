@@ -6,6 +6,7 @@ tags: [伏特加, 法国, Ciroc, 葡萄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-142-poliakov, ENT-vodka-off-145-vodka, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.6, votes: 10649}
   wine_enthusiast: {score: 82, year: 2022}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 金酒, 经典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-bees-knees, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire-east, ENT-cocktail-sidecar]
+related: [ENT-cocktail-bees-knees, ENT-cocktail-sidecar, ENT-gin-bombay-sapphire-east, ENT-cocktail-bloody-mary, ENT-cocktail-between-the-sheets]
 ---
 
 # 白色佳人

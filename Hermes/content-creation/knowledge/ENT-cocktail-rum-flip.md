@@ -6,7 +6,7 @@ tags: [鸡尾酒, 菲利普, 朗姆, 蛋, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-espresso-martini, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
 ---
 
 # 朗姆菲利普

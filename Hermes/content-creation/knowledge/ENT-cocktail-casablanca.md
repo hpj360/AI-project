@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 朗姆, 经典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-mojito, ENT-cocktail-el-presidente, ENT-cocktail-hotel-nacional-special, ENT-cocktail-mary-pickford, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-hotel-nacional-special, ENT-cocktail-mojito]
 ---
 
 # 卡萨布兰卡

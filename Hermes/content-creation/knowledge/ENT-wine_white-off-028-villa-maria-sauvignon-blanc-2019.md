@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, wine_white, 白葡萄酒, Villa maria]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-031-vino-blanco]
 ratings:
   vivino: {score: 4.0, votes: 28441}
   parker: {score: 81, year: 2021}

@@ -6,6 +6,7 @@ tags: [威士忌, 加拿大, 黑麦威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-246-jack-daniel-s-no-7, ENT-whisky-off-245-monkey-shoulder]
 ratings:
   vivino: {score: 3.9, votes: 19931}
   whisky_fun: {score: 82, year: 2023}

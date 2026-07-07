@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Pétillant de Listel]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-052-nicolas-feuillatte]
 ratings:
   vivino: {score: 4.3, votes: 21886}
   wine_spectator: {score: 82, year: 2023}

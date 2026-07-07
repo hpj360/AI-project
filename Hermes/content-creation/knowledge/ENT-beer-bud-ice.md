@@ -6,7 +6,7 @@ tags: [啤酒, 美国, 百威, 冰啤]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-budweiser]
+related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.8, votes: 7504}
   ratebeer: {score: 89, year: 2021}

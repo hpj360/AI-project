@@ -6,6 +6,7 @@ tags: [白兰地, 意大利, grappa, 葡萄渣]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-brandy-hennessy-richard, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-xo]
 ratings:
   vivino: {score: 3.9, votes: 14156}
   wine_enthusiast: {score: 81, year: 2022}

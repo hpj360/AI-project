@@ -6,7 +6,7 @@ tags: [白兰地, 干邑, 法国, 雷诺]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-renault-vsop]
+related: [ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-paradis, ENT-brandy-renault-vsop, ENT-brandy-hennessy-xo]
 ratings:
   vivino: {score: 4.8, votes: 41040}
   wine_enthusiast: {score: 90, year: 2023}

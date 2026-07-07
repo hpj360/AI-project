@@ -6,7 +6,7 @@ tags: [鸡尾酒, 潘趣, 波本, 干邑, 圣诞]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-whisky-off-243-whisky-40, ENT-brandy-hennessy-vs]
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-vsop, ENT-whisky-off-243-whisky-40, ENT-brandy-hennessy-vs, ENT-whisky-off-242-ballantine-s-finest]
 ---
 
 # 蛋奶酒

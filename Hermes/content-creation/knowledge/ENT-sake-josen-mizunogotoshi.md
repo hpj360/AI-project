@@ -6,7 +6,7 @@ tags: [清酒, 日本, 吟醸, 上善如水, 新潟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-3nen, ENT-sake-hakkaisan-genshu, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo]
+related: [ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-3nen, ENT-sake-hakkaisan-genshu]
 ratings:
   vivino: {score: 4.8, votes: 11211}
   sake_revue: {score: 89, year: 2020}

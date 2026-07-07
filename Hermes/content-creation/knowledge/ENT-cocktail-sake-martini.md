@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 金酒, 优雅]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-yuzu-margarita, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb, ENT-gin-bombay-sapphire-east]
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-gin-tanqueray-london-dry, ENT-cocktail-samurai, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake]
 ---
 
 # 清酒马天尼

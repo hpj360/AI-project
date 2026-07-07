@@ -6,7 +6,7 @@ tags: [白酒, 清香, 北京, 牛栏山]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-niulanshan-chenhniang]
+related: [ENT-baijiu-niulanshan-chenhniang, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.8, votes: 44898}
   csl: {score: 86, year: 2020}

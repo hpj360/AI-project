@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, vodka, 伏特加, Grey Goose]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-grey-goose-original, ENT-vodka-grey-goose-le-citron]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-grey-goose-le-citron, ENT-vodka-off-142-poliakov, ENT-vodka-grey-goose-original, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.0, votes: 39539}
   wine_enthusiast: {score: 81, year: 2022}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 多香果, 法属马提尼克]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-three-dots-and-a-dash, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
+related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-three-dots-and-a-dash, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-sake-bomb]
 ---
 
 # 蛇牙

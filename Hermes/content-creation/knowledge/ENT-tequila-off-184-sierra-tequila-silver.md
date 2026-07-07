@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, tequila, 龙舌兰, Sierra]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-tequila-off-186-tequila, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-200-t-quila-blanco, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado, ENT-tequila-off-185-silver-tequila-40]
 ratings:
   vivino: {score: 4.5, votes: 31015}
   wine_enthusiast: {score: 81, year: 2023}

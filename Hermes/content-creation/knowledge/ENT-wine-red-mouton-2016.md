@@ -6,7 +6,7 @@ tags: [红酒, 波尔多, 一级庄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-lynch-bages-2016, ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-pichon-baron-2016, ENT-wine-red-pichon-lalande-2016]
+related: [ENT-wine-red-latour-2010, ENT-wine-red-pichon-baron-2016, ENT-wine-red-pichon-lalande-2016, ENT-wine-red-lafite-2010, ENT-wine-red-lynch-bages-2016]
 ratings:
   vivino: {score: 4.8, votes: 28996}
   parker: {score: 98, year: 2021}

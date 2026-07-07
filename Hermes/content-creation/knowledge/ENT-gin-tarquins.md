@@ -6,6 +6,7 @@ tags: [金酒, 英国, 康沃尔, 手工]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-gin-tanqueray-rangpur, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-no-ten, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 4.8, votes: 21739}
   wine_enthusiast: {score: 88, year: 2021}

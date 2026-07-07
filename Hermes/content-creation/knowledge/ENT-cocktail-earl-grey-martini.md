@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 茶, 伯爵茶, 金酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-gimlet, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky]
 ---
 
 # 伯爵茶马天尼

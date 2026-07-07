@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Canard Duchêne]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge]
+related: [ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge, ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-052-nicolas-feuillatte]
 ratings:
   vivino: {score: 4.2, votes: 13239}
   wine_spectator: {score: 83, year: 2022}

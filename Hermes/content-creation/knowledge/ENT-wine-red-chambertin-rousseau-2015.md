@@ -6,7 +6,7 @@ tags: [红酒, 勃艮第, 特级园, 热夫雷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-latricieres-chambertin-2015]
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-latricieres-chambertin-2015, ENT-wine_red-off-003-adama]
 ratings:
   vivino: {score: 4.8, votes: 20040}
   parker: {score: 88, year: 2021}

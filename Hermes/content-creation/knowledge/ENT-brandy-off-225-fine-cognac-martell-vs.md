@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, brandy, 白兰地, MARTELL]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu, ENT-brandy-martell-vsop]
+related: [ENT-brandy-martell-cordon-bleu, ENT-brandy-martell-xo, ENT-brandy-hennessy-vsop, ENT-brandy-martell-vsop, ENT-brandy-hennessy-vs]
 ratings:
   vivino: {score: 4.8, votes: 26540}
   wine_enthusiast: {score: 93, year: 2022}

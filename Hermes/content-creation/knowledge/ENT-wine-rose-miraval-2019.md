@@ -6,6 +6,7 @@ tags: [桃红, 普罗旺斯, Miraval, Pitt]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-rose-garrus-2018, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-domaine-tempier-bandol-2019, ENT-wine-rose-whispering-angel-2020]
 ratings:
   vivino: {score: 4.8, votes: 17570}
   parker: {score: 91, year: 2020}

@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 金酒, 樱桃白兰地, 菠萝]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-brandy-hennessy-vs]
+related: [ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-gin-bombay-sapphire-east, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ---
 
 # 新加坡司令

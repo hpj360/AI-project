@@ -6,7 +6,7 @@ tags: [鸡尾酒, 高球, 金酒, 汤力水, 清爽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky]
 ---
 
 # 金汤力

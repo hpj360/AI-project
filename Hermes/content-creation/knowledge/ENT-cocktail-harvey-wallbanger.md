@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 加利亚诺]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-142-poliakov]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
 ---
 
 # 哈维撞墙

@@ -6,7 +6,7 @@ tags: [黄酒, 上海, 和酒, 海派]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-jinsenianhua, ENT-yellow-wine-shikumen]
+related: [ENT-yellow-wine-jinsenianhua, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-shikumen, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-20y]
 ---
 
 # 和酒

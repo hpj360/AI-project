@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 威士忌, 经典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-martini, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-yuzu-margarita, ENT-whisky-off-243-whisky-40, ENT-cocktail-sake-bomb]
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-sake-off-096-cooking-sake, ENT-whisky-off-243-whisky-40, ENT-sake-off-098-sake]
 ---
 
 # 武士

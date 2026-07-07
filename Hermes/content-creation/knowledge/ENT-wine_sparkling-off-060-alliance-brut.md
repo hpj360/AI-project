@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, wine_sparkling, 起泡酒, alliance]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
 ratings:
   vivino: {score: 4.8, votes: 6223}
   wine_spectator: {score: 87, year: 2023}

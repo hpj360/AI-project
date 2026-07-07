@@ -6,7 +6,7 @@ tags: [威士忌, 美国, 波本, 小批量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-four-roses-small-batch, ENT-whisky-makers-mark-46, ENT-whisky-jim-bean-white, ENT-whisky-makers-mark-bourbon, ENT-whisky-four-roses-single-barrel]
+related: [ENT-whisky-jim-bean-white, ENT-whisky-four-roses-single-barrel, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch, ENT-whisky-makers-mark-bourbon]
 ratings:
   vivino: {score: 4.0, votes: 29580}
   whisky_fun: {score: 82, year: 2021}

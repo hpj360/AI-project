@@ -6,6 +6,7 @@ tags: [鸡尾酒, 亚洲, 白酒, 茅台, 马天尼]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
 ---
 
 # 茅台马天尼

@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, whisky, 威士忌, JACK DANIEL'S]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-252-black-barrel-whisky-40]
+related: [ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-246-jack-daniel-s-no-7, ENT-whisky-off-245-monkey-shoulder]
 ratings:
   vivino: {score: 3.9, votes: 45972}
   whisky_fun: {score: 82, year: 2021}

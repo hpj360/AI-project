@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 古典, 意大利, 苦味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-sake-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb]
 ---
 
 # 尼格罗尼

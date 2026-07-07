@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, gin, 金酒, Gordon's]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower]
+related: [ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-gordons-london-dry, ENT-gin-bombay-sapphire-east, ENT-gin-gordons-elderflower, ENT-gin-bombay-sapphire]
 ratings:
   vivino: {score: 4.0, votes: 585}
   wine_enthusiast: {score: 82, year: 2023}

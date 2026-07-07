@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 液氮, 龙舌兰, 冰沙]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-bloody-mary-spheres, ENT-tequila-off-183-tequila-gold, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-tequila-off-184-sierra-tequila-silver]
+related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-tequila-off-183-tequila-gold, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres]
 ---
 
 # 液氮玛格丽特

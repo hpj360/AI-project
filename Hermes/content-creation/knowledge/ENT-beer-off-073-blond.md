@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, Leffe]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr]
+related: [ENT-beer-snow, ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr, ENT-beer-budweiser, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.1, votes: 44666}
   ratebeer: {score: 80, year: 2021}

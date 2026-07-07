@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, Tiki, 金酒, 百香果]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-martinez, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-jasmine, ENT-cocktail-chartreuse-swizzle]
+related: [ENT-cocktail-martinez, ENT-cocktail-fogcutter, ENT-cocktail-tommys-margarita, ENT-gin-bombay-sapphire-east, ENT-cocktail-jasmine]
 ---
 
 # 土星

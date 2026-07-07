@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, whisky, 威士忌, JAMESON]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-off-243-whisky-40]
+related: [ENT-whisky-jameson, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-jameson-black-barrel]
 ratings:
   vivino: {score: 4.8, votes: 49516}
   whisky_fun: {score: 87, year: 2020}

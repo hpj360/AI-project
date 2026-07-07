@@ -6,7 +6,7 @@ tags: [清酒, 日本, 本酿造, 白鹤, 兵库]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-kikumasamune]
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-096-cooking-sake, ENT-sake-kikumasamune, ENT-sake-off-098-sake]
 ratings:
   vivino: {score: 4.4, votes: 39925}
   sake_revue: {score: 82, year: 2022}

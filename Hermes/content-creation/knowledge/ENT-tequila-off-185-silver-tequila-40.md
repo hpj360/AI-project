@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, tequila, 龙舌兰, PATRON]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-tequila-off-186-tequila, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-188-tequila-estribos, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado]
 ratings:
   vivino: {score: 4.8, votes: 31639}
   wine_enthusiast: {score: 83, year: 2021}

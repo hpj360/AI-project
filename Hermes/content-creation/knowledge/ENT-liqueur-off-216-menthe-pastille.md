@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, liqueur, 利口酒, Giffard]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-liqueur-off-211-davide-campari-bitter-tonic, ENT-liqueur-off-215-lik-r-kahl-a-kaffee, ENT-liqueur-off-205-baileys, ENT-liqueur-off-204-aperol, ENT-liqueur-off-203-baileys-original-irish-cream]
 ratings:
   vivino: {score: 4.0, votes: 23846}
   wine_enthusiast: {score: 80, year: 2023}

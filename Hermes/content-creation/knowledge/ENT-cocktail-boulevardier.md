@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 波本, 苦味, 巴黎]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-white-lady, ENT-whisky-off-243-whisky-40, ENT-cocktail-sidecar, ENT-cocktail-mimosa]
+related: [ENT-cocktail-white-lady, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-sidecar, ENT-whisky-off-242-ballantine-s-finest]
 ---
 
 # 林荫大道

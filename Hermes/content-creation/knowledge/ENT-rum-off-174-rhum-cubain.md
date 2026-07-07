@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, rum, 朗姆酒, Havana Club]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-havana-club-3]
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-havana-club-3, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-havana-club-anejo-reserva, ENT-rum-havana-club-7]
 ratings:
   vivino: {score: 4.8, votes: 33327}
   wine_enthusiast: {score: 91, year: 2020}

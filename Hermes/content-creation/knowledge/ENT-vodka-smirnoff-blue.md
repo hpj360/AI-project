@@ -6,7 +6,7 @@ tags: [伏特加, 英国, 斯米诺]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-no-21, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-smirnoff-no-21, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.5, votes: 13559}
   wine_enthusiast: {score: 83, year: 2021}

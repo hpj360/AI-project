@@ -6,7 +6,7 @@ tags: [加强酒, 马德拉, Bual, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-justinos-madeira-sercial-10yo]
+related: [ENT-wine-fortified-justinos-madeira-sercial-10yo, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
 ratings:
   vivino: {score: 4.0, votes: 35850}
   wine_spectator: {score: 82, year: 2021}

@@ -6,6 +6,7 @@ tags: [啤酒, 德国, 卡力特, 黑啤, 施瓦兹比尔]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.8, votes: 27885}
   ratebeer: {score: 85, year: 2023}

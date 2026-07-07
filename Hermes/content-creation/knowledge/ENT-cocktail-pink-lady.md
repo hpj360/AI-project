@@ -6,7 +6,7 @@ tags: [鸡尾酒, 短饮, 金酒, 石榴, 蛋白, 禁酒令]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-gin-bombay-sapphire]
+related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-brandy-hennessy-vsop]
 ---
 
 # 粉红佳人

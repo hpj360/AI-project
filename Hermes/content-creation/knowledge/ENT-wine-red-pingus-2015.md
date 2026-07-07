@@ -6,7 +6,7 @@ tags: [红酒, 西班牙, Ribera del Duero, 膜拜酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine-red-vega-sicilia-unico-2010]
+related: [ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-vega-sicilia-unico-2010, ENT-wine_red-off-003-adama]
 ratings:
   vivino: {score: 4.8, votes: 38792}
   parker: {score: 91, year: 2023}

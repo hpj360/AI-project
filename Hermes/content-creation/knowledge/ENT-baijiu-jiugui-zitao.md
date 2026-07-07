@@ -6,7 +6,7 @@ tags: [白酒, 馥郁香, 湖南, 酒鬼酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-jiugui-neican]
+related: [ENT-baijiu-jiugui-neican, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.8, votes: 11021}
   csl: {score: 89, year: 2023}

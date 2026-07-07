@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 球化, 金酒, 紫罗兰]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-mojito-spheres]
+related: [ENT-cocktail-espresso-tonic, ENT-gin-bombay-sapphire, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres, ENT-gin-bombay-sapphire-east]
 ---
 
 # 飞行鱼子酱

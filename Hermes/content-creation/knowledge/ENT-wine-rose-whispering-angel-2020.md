@@ -6,7 +6,7 @@ tags: [桃红, 普罗旺斯, Grenache, d'Esclans]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-garrus-2018]
+related: [ENT-wine-rose-miraval-2019, ENT-wine-rose-garrus-2018, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-domaine-tempier-bandol-2019]
 ratings:
   vivino: {score: 3.9, votes: 43625}
   parker: {score: 81, year: 2022}

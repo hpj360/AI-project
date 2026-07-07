@@ -6,7 +6,7 @@ tags: [起泡酒, 香槟, Krug, 无年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-krug-clos-d-ambonnay-2002, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
+related: [ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-krug-clos-d-ambonnay-2002, ENT-wine-sparkling-cristal-2013]
 ratings:
   vivino: {score: 3.9, votes: 37768}
   wine_spectator: {score: 80, year: 2021}

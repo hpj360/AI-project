@@ -6,7 +6,7 @@ tags: [鸡尾酒, 古典, 金酒, 味美思, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-jasmine, ENT-cocktail-chartreuse-swizzle, ENT-gin-bombay-sapphire-east]
+related: [ENT-cocktail-fogcutter, ENT-cocktail-saturn, ENT-cocktail-tommys-margarita, ENT-gin-bombay-sapphire-east, ENT-cocktail-jasmine]
 ---
 
 # 马天尼斯

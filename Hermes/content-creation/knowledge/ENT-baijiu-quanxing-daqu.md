@@ -6,7 +6,7 @@ tags: [白酒, 浓香, 四川, 全兴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-shuijingfang-jingtai, ENT-baijiu-shuijingfang-zhenniang-8]
+related: [ENT-baijiu-shuijingfang-zhenniang-8, ENT-baijiu-moutai-feitian-53, ENT-baijiu-shuijingfang-jingtai, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.1, votes: 29604}
   csl: {score: 79, year: 2020}

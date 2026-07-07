@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, liqueur, 利口酒, Pernod Ricard]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-liqueur-off-206-cr-me-de-cassis-de-dijon, ENT-liqueur-off-205-baileys, ENT-liqueur-off-204-aperol, ENT-liqueur-off-207-campari, ENT-liqueur-off-203-baileys-original-irish-cream]
 ratings:
   vivino: {score: 3.9, votes: 36800}
   wine_enthusiast: {score: 81, year: 2022}

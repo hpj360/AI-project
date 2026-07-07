@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, wine_red, 红葡萄酒, E. Guigal]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine-red-cote-rotie-guigal-2015, ENT-wine_red-off-015-cabernet-sauvigon]
+related: [ENT-wine_red-off-015-cabernet-sauvigon, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-009-mouton-cadet, ENT-wine-red-cote-rotie-guigal-2015]
 ratings:
   vivino: {score: 4.8, votes: 10176}
   parker: {score: 85, year: 2020}

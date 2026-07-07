@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, wine_red, 红葡萄酒, Rochet Mazet]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-017-naturae]
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-017-naturae, ENT-wine_red-off-009-mouton-cadet]
 ratings:
   vivino: {score: 4.6, votes: 41494}
   parker: {score: 83, year: 2023}

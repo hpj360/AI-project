@@ -6,7 +6,7 @@ tags: [金酒, 新西方, 英国, 亨利爵士, 限量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-off-119-hendrick-s-gin, ENT-gin-hendricks]
+related: [ENT-gin-off-119-hendrick-s-gin, ENT-gin-bombay-sapphire-east, ENT-gin-hendricks, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 4.8, votes: 7153}
   wine_enthusiast: {score: 85, year: 2022}

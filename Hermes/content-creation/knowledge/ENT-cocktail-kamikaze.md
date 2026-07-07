@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 青柠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-brown-derby, ENT-cocktail-melon-ball, ENT-cocktail-test-pilot-modern, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-smoke-signal, ENT-cocktail-westside]
 ---
 
 # 神风特攻

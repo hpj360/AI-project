@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 长饮, 派对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-martini, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-yuzu-margarita, ENT-rum-off-164-bumbu-original-rum-40, ENT-gin-bombay-sapphire]
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-vodka-off-141-absolut-vodka, ENT-tequila-off-183-tequila-gold, ENT-sake-off-098-sake, ENT-vodka-off-142-poliakov]
 ---
 
 # 东京冰茶

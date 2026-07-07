@@ -6,7 +6,7 @@ tags: [鸡尾酒, 短饮, 苏格兰, 杜林标, IBA]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-242-ballantine-s-finest, ENT-cocktail-scotch-soda]
+related: [ENT-cocktail-scotch-soda, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-cocktail-sake-bomb]
 ---
 
 # 生锈钉

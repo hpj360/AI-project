@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, vodka, 伏特加, Smirnoff]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-smirnoff-blue, ENT-vodka-smirnoff-no-21, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-smirnoff-no-21, ENT-vodka-smirnoff-blue, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.8, votes: 29185}
   wine_enthusiast: {score: 87, year: 2020}

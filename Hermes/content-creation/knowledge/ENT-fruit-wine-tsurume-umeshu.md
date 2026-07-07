@@ -6,6 +6,7 @@ tags: [果酒, 梅酒, 日本, 鹤梅]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-chiyomusubi-umeshu, ENT-fruit-wine-choya-umeshu]
 ---
 
 # 鹤梅梅酒

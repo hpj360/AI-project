@@ -6,7 +6,7 @@ tags: [红酒, 勃艮第, 特级园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-clos-de-tart-2016]
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama, ENT-wine-red-clos-de-tart-2016]
 ratings:
   vivino: {score: 4.1, votes: 6455}
   parker: {score: 80, year: 2022}

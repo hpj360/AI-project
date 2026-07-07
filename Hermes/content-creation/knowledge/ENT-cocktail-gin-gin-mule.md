@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 姜, 薄荷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-pegu-club-cocktail, ENT-cocktail-manhattan, ENT-cocktail-earl-grey-marteani, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-earl-grey-marteani, ENT-cocktail-pegu-club-cocktail, ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-gin-bombay-sapphire-east]
 ---
 
 # 姜姜骡子

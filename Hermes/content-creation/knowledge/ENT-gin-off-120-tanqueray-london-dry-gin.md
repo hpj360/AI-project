@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, gin, 金酒, Tanqueray]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-tanqueray-rangpur, ENT-gin-tanqueray-no-ten, ENT-gin-off-132-pink-strawberry, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-off-132-pink-strawberry, ENT-gin-tanqueray-rangpur, ENT-gin-tanqueray-no-ten, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 4.8, votes: 26169}
   wine_enthusiast: {score: 95, year: 2020}

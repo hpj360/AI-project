@@ -6,7 +6,7 @@ tags: [鸡尾酒, 斯马修, 波本, 薄荷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-mint-julep, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-kentucky-buck, ENT-whisky-off-242-ballantine-s-finest]
+related: [ENT-cocktail-mint-julep, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-kentucky-buck, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest]
 ---
 
 # 威士忌斯马修

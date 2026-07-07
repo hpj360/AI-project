@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 朗姆, 菠萝, 杏, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-mojito, ENT-cocktail-el-presidente, ENT-cocktail-mary-pickford, ENT-cocktail-casablanca, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-mojito, ENT-rum-off-162-captain-morgan-spiced-gold]
 ---
 
 # 国家酒店特调

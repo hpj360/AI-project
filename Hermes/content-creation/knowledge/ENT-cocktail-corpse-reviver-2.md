@@ -6,7 +6,7 @@ tags: [鸡尾酒, 禁酒令, 金酒, 力乔酒, 复苏]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky]
 ---
 
 # 尸体复活者二号

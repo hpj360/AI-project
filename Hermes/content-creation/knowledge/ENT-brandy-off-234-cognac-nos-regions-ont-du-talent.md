@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, brandy, 白兰地, Nos Régions ont du Talent]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-brandy-hennessy-richard, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-xo]
 ratings:
   vivino: {score: 3.9, votes: 21200}
   wine_enthusiast: {score: 80, year: 2020}

@@ -6,6 +6,7 @@ tags: [啤酒, 比利时, 乐飞, 修道院风格艾尔]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.5, votes: 49320}
   ratebeer: {score: 84, year: 2021}

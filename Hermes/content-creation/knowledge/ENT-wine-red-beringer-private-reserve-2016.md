@@ -6,7 +6,7 @@ tags: [红酒, 纳帕谷, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-joseph-phelps-insignia-2016]
+related: [ENT-wine-red-joseph-phelps-insignia-2016, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
 ratings:
   vivino: {score: 4.8, votes: 27450}
   parker: {score: 87, year: 2021}

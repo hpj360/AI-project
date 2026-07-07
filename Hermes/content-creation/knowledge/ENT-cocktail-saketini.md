@@ -6,7 +6,7 @@ tags: [鸡尾酒, 亚洲, 清酒, 伏特加, 极简]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-martini, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-yuzu-margarita, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb]
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-samurai, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake]
 ---
 
 # 清酒天尼

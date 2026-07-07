@@ -6,7 +6,7 @@ tags: [鸡尾酒, 禁酒令, 朗姆, 味美思, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-mojito, ENT-cocktail-hotel-nacional-special, ENT-cocktail-mary-pickford, ENT-cocktail-casablanca, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-hotel-nacional-special, ENT-cocktail-mojito, ENT-rum-off-162-captain-morgan-spiced-gold]
 ---
 
 # 总统

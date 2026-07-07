@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, Jade]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-off-083-biere-blonde-sans-gluten-jade]
+related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-off-083-biere-blonde-sans-gluten-jade, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.0, votes: 31309}
   ratebeer: {score: 79, year: 2020}

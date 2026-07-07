@@ -6,7 +6,7 @@ tags: [鸡尾酒, 潘趣, 朗姆, 干邑, 蛋, 圣诞]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-cocktail-whiskey-sour, ENT-rum-off-163-rhum-negrita, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation]
 ---
 
 # 汤姆杰瑞

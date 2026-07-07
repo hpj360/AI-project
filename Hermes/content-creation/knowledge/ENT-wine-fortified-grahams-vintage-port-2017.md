@@ -6,7 +6,7 @@ tags: [加强酒, 波特, 年份, Graham's]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-warres-vintage-port-2016, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-grahams-30-year-old-tawny, ENT-wine-fortified-dows-vintage-port-2016]
+related: [ENT-wine-fortified-warres-vintage-port-2016, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-grahams-30-year-old-tawny]
 ratings:
   vivino: {score: 4.4, votes: 40613}
   wine_spectator: {score: 83, year: 2023}

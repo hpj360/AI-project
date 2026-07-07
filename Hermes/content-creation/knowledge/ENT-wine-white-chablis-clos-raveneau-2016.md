@@ -6,7 +6,7 @@ tags: [白酒, 勃艮第, 夏布利, 特级园, 霞多丽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine-white-chablis-vaudesir-dauvissat-2016]
+related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine-white-chablis-vaudesir-dauvissat-2016, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
 ratings:
   vivino: {score: 4.8, votes: 21486}
   parker: {score: 88, year: 2022}

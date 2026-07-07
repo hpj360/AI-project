@@ -6,7 +6,7 @@ tags: [威士忌, 美国, 波本]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-four-roses-small-batch, ENT-whisky-makers-mark-46, ENT-whisky-jim-bean-white, ENT-whisky-makers-mark-bourbon, ENT-whisky-jim-beam-black]
+related: [ENT-whisky-jim-bean-white, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch, ENT-whisky-makers-mark-bourbon, ENT-whisky-jim-beam-black]
 ratings:
   vivino: {score: 4.8, votes: 27350}
   whisky_fun: {score: 89, year: 2023}

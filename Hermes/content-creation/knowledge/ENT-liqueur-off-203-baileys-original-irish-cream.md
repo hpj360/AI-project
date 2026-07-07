@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, liqueur, 利口酒, Baileys]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-liqueur-off-205-baileys]
+related: [ENT-liqueur-off-206-cr-me-de-cassis-de-dijon, ENT-liqueur-off-208-aperol-3-4-offen, ENT-liqueur-off-205-baileys, ENT-liqueur-off-204-aperol, ENT-liqueur-off-207-campari]
 ratings:
   vivino: {score: 4.8, votes: 49729}
   wine_enthusiast: {score: 91, year: 2023}

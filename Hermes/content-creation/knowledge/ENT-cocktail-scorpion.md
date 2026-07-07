@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 白兰地, 橙, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-rum-off-164-bumbu-original-rum-40, ENT-brandy-hennessy-vs, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-rum-off-163-rhum-negrita, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
 ---
 
 # 蝎子

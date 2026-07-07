@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, 3 Monts]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-beer-off-074-la-goudale-blonde-1l]
+related: [ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-beer-snow, ENT-beer-tsingtao, ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-budweiser]
 ratings:
   vivino: {score: 4.8, votes: 29516}
   ratebeer: {score: 89, year: 2023}

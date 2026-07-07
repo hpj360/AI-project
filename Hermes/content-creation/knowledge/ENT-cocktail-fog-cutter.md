@@ -6,7 +6,7 @@ tags: [鸡尾酒, Tiki, 朗姆, 金酒, 雪莉, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vsop, ENT-cocktail-scorpion, ENT-rum-off-164-bumbu-original-rum-40, ENT-gin-bombay-sapphire]
+related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-scorpion, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-rum-off-164-bumbu-original-rum-40]
 ---
 
 # 破雾者

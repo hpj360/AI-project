@@ -6,7 +6,7 @@ tags: [威士忌, 日本, 单一麦芽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-yamazaki-18, ENT-whisky-yamazaki-25, ENT-gin-roku]
+related: [ENT-whisky-yamazaki-25, ENT-whisky-yamazaki-18, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-gin-roku]
 ratings:
   vivino: {score: 4.8, votes: 23319}
   whisky_fun: {score: 92, year: 2020}

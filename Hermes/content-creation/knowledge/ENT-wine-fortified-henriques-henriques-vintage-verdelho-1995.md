@@ -6,6 +6,7 @@ tags: [加强酒, 马德拉, Verdelho, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
 ratings:
   vivino: {score: 4.8, votes: 25511}
   wine_spectator: {score: 85, year: 2022}

@@ -6,7 +6,7 @@ tags: [起泡酒, 香槟, Krug, 独占园, 黑中白]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-krug-grande-cuvee-170]
+related: [ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
 ratings:
   vivino: {score: 4.8, votes: 36796}
   wine_spectator: {score: 91, year: 2022}

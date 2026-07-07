@@ -6,6 +6,7 @@ tags: [啤酒, 中国, 银海, 精酿, 广东]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.8, votes: 34522}
   ratebeer: {score: 87, year: 2020}

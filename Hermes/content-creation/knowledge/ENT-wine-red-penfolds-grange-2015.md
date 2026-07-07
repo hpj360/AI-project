@@ -6,7 +6,7 @@ tags: [红酒, 澳洲, 设拉子, 南澳]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-penfolds-yattarna-2016, ENT-wine-red-wolf-blass-black-label-2014, ENT-wine-red-penfolds-bin-707-2016]
+related: [ENT-wine-white-penfolds-yattarna-2016, ENT-wine_red-off-002-bordeaux-2013, ENT-wine-red-penfolds-bin-707-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-wolf-blass-black-label-2014]
 ratings:
   vivino: {score: 4.8, votes: 6117}
   parker: {score: 89, year: 2020}

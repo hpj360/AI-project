@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, Abdij van Orval]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.8, votes: 12524}
   ratebeer: {score: 85, year: 2021}

@@ -6,6 +6,7 @@ tags: [黄酒, 张家港, 沙洲优黄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-huadiao]
 ---
 
 # 沙洲优黄

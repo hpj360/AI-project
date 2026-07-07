@@ -6,7 +6,7 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 伯爵茶, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-pegu-club-cocktail, ENT-cocktail-manhattan, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-pegu-club-cocktail, ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-gin-gin-mule, ENT-gin-bombay-sapphire-east]
 ---
 
 # 伯爵茶马天尼

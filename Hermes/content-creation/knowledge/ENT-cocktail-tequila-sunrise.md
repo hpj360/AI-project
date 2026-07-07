@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 当代经典, 龙舌兰, 渐变]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-off-183-tequila-gold, ENT-cocktail-margarita, ENT-tequila-off-185-silver-tequila-40, ENT-tequila-off-184-sierra-tequila-silver]
+related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-margarita, ENT-cocktail-sake-bomb, ENT-tequila-off-185-silver-tequila-40]
 ---
 
 # 龙舌兰日出

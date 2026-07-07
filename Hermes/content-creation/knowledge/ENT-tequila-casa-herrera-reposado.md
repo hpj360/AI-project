@@ -6,7 +6,7 @@ tags: [龙舌兰, 墨西哥, Casa Herrera, Reposado, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-herradura-reposado, ENT-tequila-sauza-blanco, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco]
+related: [ENT-tequila-don-julio-reposado, ENT-tequila-herradura-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco, ENT-tequila-jose-cuervo-especial-gold]
 ratings:
   vivino: {score: 4.1, votes: 30408}
   wine_enthusiast: {score: 80, year: 2021}

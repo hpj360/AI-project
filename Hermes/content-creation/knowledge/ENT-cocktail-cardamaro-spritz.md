@@ -6,6 +6,7 @@ tags: [鸡尾酒, 创意, Cardamaro, 飞溅, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
 ---
 
 # Cardamaro 飞溅

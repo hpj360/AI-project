@@ -6,7 +6,7 @@ tags: [鸡尾酒, 分子, 离心, 伏特加, 番茄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres]
 ---
 
 # 澄清血腥玛丽

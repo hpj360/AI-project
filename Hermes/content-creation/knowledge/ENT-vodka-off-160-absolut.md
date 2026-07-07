@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, vodka, 伏特加, Absolut]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-absolut-citron, ENT-vodka-absolut-original, ENT-vodka-off-141-absolut-vodka]
+related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
 ratings:
   vivino: {score: 4.8, votes: 11214}
   wine_enthusiast: {score: 87, year: 2023}

@@ -6,7 +6,7 @@ tags: [红酒, 波尔多, 波亚克]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-sparkling-cristal-2013, ENT-wine-red-pichon-baron-2016, ENT-wine-red-mouton-2016]
+related: [ENT-wine-red-latour-2010, ENT-wine-red-pichon-baron-2016, ENT-wine-red-lafite-2010, ENT-wine-red-mouton-2016, ENT-wine-sparkling-cristal-2013]
 ratings:
   vivino: {score: 4.8, votes: 17789}
   parker: {score: 85, year: 2023}

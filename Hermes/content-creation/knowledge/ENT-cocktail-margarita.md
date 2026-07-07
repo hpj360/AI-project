@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 酸酒, 龙舌兰, 墨西哥]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40, ENT-cocktail-tequila-sunrise]
+related: [ENT-tequila-off-183-tequila-gold, ENT-cocktail-tequila-sunrise, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-sake-bomb, ENT-tequila-off-185-silver-tequila-40]
 ---
 
 # 玛格丽特

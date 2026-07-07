@@ -6,7 +6,7 @@ tags: [鸡尾酒, 现代经典, 金酒, 苦精, 缅甸]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-earl-grey-marteani, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-gin-bombay-sapphire-east, ENT-cocktail-gin-gin-mule]
+related: [ENT-cocktail-earl-grey-marteani, ENT-cocktail-gin-gin-mule, ENT-gin-bombay-sapphire-east, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ---
 
 # 佩古俱乐部

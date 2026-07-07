@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, gin, 金酒, Hendrick's]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-hendricks-lunar, ENT-gin-hendricks]
+related: [ENT-gin-hendricks-lunar, ENT-gin-bombay-sapphire-east, ENT-gin-hendricks, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
 ratings:
   vivino: {score: 3.9, votes: 37639}
   wine_enthusiast: {score: 79, year: 2021}

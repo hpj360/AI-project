@@ -6,7 +6,7 @@ tags: [白酒, 酱香, 四川, 郎酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-langjiu-honghualang-10]
+related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-langjiu-honghualang-10, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.8, votes: 22443}
   csl: {score: 88, year: 2023}

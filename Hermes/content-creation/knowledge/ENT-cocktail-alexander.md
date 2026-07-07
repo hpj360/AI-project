@@ -6,7 +6,7 @@ tags: [鸡尾酒, 短饮, 金酒, 可可, 奶油, 餐后]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire-east]
 ---
 
 # 亚历山大

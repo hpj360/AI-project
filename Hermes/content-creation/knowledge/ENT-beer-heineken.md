@@ -6,6 +6,7 @@ tags: [啤酒, 荷兰, 喜力, 工业拉格]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-beer-snow, ENT-beer-harbin, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-budweiser]
 ratings:
   vivino: {score: 4.4, votes: 46923}
   ratebeer: {score: 82, year: 2020}

@@ -6,7 +6,7 @@ tags: [威士忌, 苏格兰, 单一麦芽, 岛屿区]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-talisker-25]
+related: [ENT-whisky-talisker-25, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-245-monkey-shoulder]
 ratings:
   vivino: {score: 4.8, votes: 33968}
   whisky_fun: {score: 98, year: 2022}

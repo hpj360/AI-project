@@ -6,7 +6,7 @@ tags: [起泡酒, 新世界, Cloudy Bay, 新西兰, 传统法]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-cloudy-bay-sauvignon-blanc-2020]
+related: [ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
 ratings:
   vivino: {score: 4.8, votes: 31367}
   wine_spectator: {score: 89, year: 2020}

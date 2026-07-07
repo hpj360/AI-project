@@ -6,6 +6,7 @@ tags: [朗姆酒, 马提尼克, St. James, rhum agricole]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
 ratings:
   vivino: {score: 4.8, votes: 10890}
   wine_enthusiast: {score: 88, year: 2021}

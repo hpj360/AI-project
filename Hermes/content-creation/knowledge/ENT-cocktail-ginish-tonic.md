@@ -6,7 +6,7 @@ tags: [鸡尾酒, 无酒精, Ginish, 高球, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-bloody-mary-spheres, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bombay-sapphire, ENT-cocktail-mojito-spheres, ENT-gin-bombay-sapphire-east]
 ---
 
 # Ginish 汤力

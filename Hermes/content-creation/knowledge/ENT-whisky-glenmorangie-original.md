@@ -6,7 +6,7 @@ tags: [威士忌, 苏格兰, 单一麦芽, 高地]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-dalmore-12, ENT-whisky-glenmorangie-lasanta, ENT-whisky-clynelish-14, ENT-whisky-dalmore-15]
+related: [ENT-whisky-dalmore-15, ENT-whisky-glenmorangie-lasanta, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-dalmore-12, ENT-whisky-clynelish-14]
 ratings:
   vivino: {score: 4.8, votes: 580}
   whisky_fun: {score: 90, year: 2020}

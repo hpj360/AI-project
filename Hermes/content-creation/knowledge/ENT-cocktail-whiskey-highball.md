@@ -6,7 +6,7 @@ tags: [鸡尾酒, 高球, 威士忌, 苏打水, 日本]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sake-martini, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-sake-bomb, ENT-cocktail-saketini]
+related: [ENT-cocktail-samurai, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-saketini, ENT-whisky-off-242-ballantine-s-finest]
 ---
 
 # 威士忌高球

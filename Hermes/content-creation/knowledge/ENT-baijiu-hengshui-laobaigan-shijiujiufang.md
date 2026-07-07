@@ -6,7 +6,7 @@ tags: [白酒, 老白干香, 河北, 衡水老白干]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-hengshui-laobaigan-gufa-20]
+related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-hengshui-laobaigan-gufa-20, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.8, votes: 31232}
   csl: {score: 88, year: 2020}

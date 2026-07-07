@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Charles Volner]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-052-nicolas-feuillatte]
 ratings:
   vivino: {score: 4.8, votes: 34641}
   wine_spectator: {score: 89, year: 2021}

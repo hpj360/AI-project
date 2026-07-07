@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, beer, 啤酒, GRIMBERGEN]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-off-073-blond]
+related: [ENT-beer-snow, ENT-beer-off-073-blond, ENT-beer-budweiser, ENT-beer-tsingtao, ENT-beer-heineken]
 ratings:
   vivino: {score: 4.8, votes: 38085}
   ratebeer: {score: 87, year: 2023}

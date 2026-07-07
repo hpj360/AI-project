@@ -6,7 +6,7 @@ tags: [威士忌, 日本, 单一麦芽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-taketsuru-21, ENT-whisky-yoichi-15, ENT-whisky-taketsuru-17]
+related: [ENT-whisky-off-243-whisky-40, ENT-whisky-taketsuru-21, ENT-whisky-yoichi-15, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-taketsuru-17]
 ratings:
   vivino: {score: 4.5, votes: 36772}
   whisky_fun: {score: 83, year: 2023}

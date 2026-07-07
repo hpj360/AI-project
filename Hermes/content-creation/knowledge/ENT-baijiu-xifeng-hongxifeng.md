@@ -6,7 +6,7 @@ tags: [白酒, 凤香, 陕西, 西凤]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-xifeng-15nian]
+related: [ENT-baijiu-xifeng-15nian, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-prince]
 ratings:
   vivino: {score: 4.8, votes: 12686}
   csl: {score: 86, year: 2020}

@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, rum, 朗姆酒, Bardinet]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bardinet]
+related: [ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-bardinet]
 ratings:
   vivino: {score: 4.0, votes: 383}
   wine_enthusiast: {score: 81, year: 2022}

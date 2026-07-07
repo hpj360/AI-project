@@ -6,6 +6,7 @@ tags: [米酒, 米香型白酒, 桂林, 广西]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-wine-changle-shao, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-kejia-mijiu]
 ---
 
 # 桂林三花酒

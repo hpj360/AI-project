@@ -6,7 +6,7 @@ tags: [威士忌, 爱尔兰, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-redbreast-15, ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-green-spot, ENT-whisky-redbreast-12, ENT-whisky-jameson]
+related: [ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-redbreast-15, ENT-whisky-redbreast-12, ENT-whisky-green-spot, ENT-whisky-jameson]
 ratings:
   vivino: {score: 4.8, votes: 20546}
   whisky_fun: {score: 94, year: 2023}

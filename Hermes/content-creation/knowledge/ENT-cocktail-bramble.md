@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, 新时代, 金酒, 黑莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-gimlet, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-cocktail-espresso-martini]
+related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky]
 ---
 
 # 荆棘

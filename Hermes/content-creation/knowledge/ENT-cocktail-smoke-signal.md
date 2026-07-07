@@ -6,7 +6,7 @@ tags: [鸡尾酒, 创意, 梅斯卡尔, 烟熏, 山核桃]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-brown-derby, ENT-cocktail-melon-ball, ENT-tequila-off-183-tequila-gold, ENT-cocktail-test-pilot-modern, ENT-tequila-off-184-sierra-tequila-silver]
+related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-tequila-off-183-tequila-gold, ENT-cocktail-westside, ENT-cocktail-kamikaze]
 ---
 
 # 烟熏信号

@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, brandy, 白兰地, Hennessy]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
+related: [ENT-brandy-hennessy-richard, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-xo]
 ratings:
   vivino: {score: 4.8, votes: 28633}
   wine_enthusiast: {score: 86, year: 2020}

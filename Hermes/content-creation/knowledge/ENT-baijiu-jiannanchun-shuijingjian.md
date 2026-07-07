@@ -6,7 +6,7 @@ tags: [白酒, 浓香, 四川, 剑南春]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-jiannanchun-jinjian-k6]
+related: [ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
 ratings:
   vivino: {score: 4.8, votes: 21915}
   csl: {score: 96, year: 2023}

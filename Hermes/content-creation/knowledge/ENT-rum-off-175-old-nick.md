@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, rum, 朗姆酒, Old Nick]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-178-70cl-cocktail-mojito-old-nick]
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-168-masskara, ENT-rum-off-178-70cl-cocktail-mojito-old-nick]
 ratings:
   vivino: {score: 4.8, votes: 8502}
   wine_enthusiast: {score: 86, year: 2021}

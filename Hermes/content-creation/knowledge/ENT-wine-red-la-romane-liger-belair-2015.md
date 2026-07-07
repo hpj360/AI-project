@@ -6,7 +6,7 @@ tags: [红酒, 勃艮第, 特级园, 独占园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-romanee-conti-2015]
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine_red-off-002-bordeaux-2013, ENT-wine-red-richebourg-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
 ratings:
   vivino: {score: 4.8, votes: 19263}
   parker: {score: 89, year: 2021}

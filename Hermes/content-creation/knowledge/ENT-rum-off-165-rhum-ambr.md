@@ -6,7 +6,7 @@ tags: [OpenFoodFacts, rum, 朗姆酒, Captain Morgan]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-captain-morgan-black, ENT-rum-captain-morgan-spiced]
+related: [ENT-rum-captain-morgan-spiced, ENT-rum-off-163-rhum-negrita, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-captain-morgan-black]
 ratings:
   vivino: {score: 4.4, votes: 21298}
   wine_enthusiast: {score: 82, year: 2021}

@@ -6,7 +6,7 @@ tags: [红酒, 罗讷河谷, 北罗讷, 西拉]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-cote-rotie-guigal-2015]
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama, ENT-wine-red-cote-rotie-guigal-2015]
 ratings:
   vivino: {score: 4.2, votes: 16474}
   parker: {score: 83, year: 2021}

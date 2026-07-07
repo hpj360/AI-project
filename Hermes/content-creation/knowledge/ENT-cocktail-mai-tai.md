@@ -6,7 +6,7 @@ tags: [鸡尾酒, IBA, Tiki, 朗姆, 南洋]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
 ---
 
 # 迈泰

@@ -6,6 +6,7 @@ tags: [OpenFoodFacts, brandy, 白兰地, Courcel]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
+related: [ENT-brandy-hennessy-richard, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-xo]
 ratings:
   vivino: {score: 3.9, votes: 7085}
   wine_enthusiast: {score: 82, year: 2022}
