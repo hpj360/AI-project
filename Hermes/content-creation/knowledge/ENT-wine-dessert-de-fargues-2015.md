@@ -1,0 +1,91 @@
+---
+id: ENT-wine-dessert-de-fargues-2015
+title: 法尔格酒庄 2015
+category: ENT
+tags: [甜酒, 苏玳, Fargues, Lur-Saluces]
+status: active
+created: 2026-07-07
+updated: 2026-07-07
+ratings:
+  vivino: {score: 4.8, votes: 6601}
+  parker: {score: 90, year: 2020}
+  wine_spectator: {score: 90, year: 2021}
+---
+
+# 法尔格酒庄 2015
+
+**Château de Fargues 2015**
+
+## 概述
+
+Yquem 同家族 Lur-Saluces 旗下苏玳贵腐甜白。
+
+## 基础信息
+
+- **中文名**：法尔格酒庄
+- **外文名**：Château de Fargues
+- **别名**：Fargues
+- **分类**：甜酒
+- **产地**：法国 / 波尔多-Fargues
+- **生产商**：Château de Fargues (Lur-Saluces)
+- **酒精度**：13.5%
+- **容量**：750ml
+- **参考价格（RMB）**：¥400-900
+- **价格档位**：premium
+
+## 生产工艺
+
+- **原料**：Sémillon、Sauvignon Blanc
+- **酿造方法**：
+
+逐粒手选贵腐葡萄，橡木桶发酵陈酿
+- **陈酿方式**：法国新橡木桶 18-24 个月
+- **年份**：2015
+
+## 风味描述
+
+- **颜色**：深金色
+- **香气**：蜂蜜、杏脯、柑橘、矿物
+- **口感**：酒体饱满，甜美平衡，富有层次
+- **余味**：余味极悠长，带蜂蜜与矿物
+- **风味标签**：蜂蜜, 杏脯, 柑橘, 矿物
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 6601 |
+| Robert Parker (WA) | 90 | 2020 |
+| Wine Spectator | 90 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：8-12℃
+- **推荐酒杯**：白葡萄酒杯
+- **佐餐搭配**：鹅肝、蓝纹奶酪、水果甜点
+
+## 文化背景
+
+### 历史
+
+Château de Fargues 由 Lur-Saluces 家族经营，与 Yquem 同源。
+
+### 产区法规
+
+AOC Sauternes
+
+### 趣闻
+
+Lur-Saluces 家族出售 Yquem 后，专注经营 Fargues 酒庄。
+
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。

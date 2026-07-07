@@ -1,0 +1,86 @@
+---
+id: ENT-tequila-siete-sentidos-blanco
+title: 桑札 Siete Sentidos Blanco
+category: ENT
+tags: [龙舌兰, 墨西哥, Siete Sentidos, Blanco, 手工]
+status: active
+created: 2026-07-07
+updated: 2026-07-07
+ratings:
+  vivino: {score: 4.6, votes: 5079}
+  wine_enthusiast: {score: 81, year: 2022}
+---
+
+# 桑札 Siete Sentidos Blanco
+
+**Siete Sentidos Blanco**
+
+## 概述
+
+桑札 Siete Sentidos Blanco，小批量手工白龙舌兰，龙舌兰本味突出。
+
+## 基础信息
+
+- **中文名**：桑札 Siete Sentidos Blanco
+- **外文名**：Siete Sentidos Blanco
+- **别名**：Siete Sentidos, 桑札
+- **分类**：龙舌兰
+- **产地**：墨西哥 / 墨西哥-哈利斯科
+- **生产商**：Siete Sentidos
+- **酒精度**：40%
+- **容量**：700ml
+- **参考价格（RMB）**：¥280-450
+- **价格档位**：mid
+
+## 生产工艺
+
+- **原料**：蓝色龙舌兰、水、酵母
+- **酿造方法**：
+
+龙舌兰心塔哈多纳石炉蒸煮后小型壶式蒸馏，小批量装瓶
+- **蒸馏方式**：小型铜壶蒸馏器两次蒸馏
+- **陈酿方式**：不陈酿
+
+## 风味描述
+
+- **颜色**：无色透明
+- **香气**：龙舌兰、青草、胡椒
+- **口感**：清新龙舌兰，青草胡椒
+- **余味**：余味爽净，带龙舌兰香
+- **风味标签**：龙舌兰, 青草, 胡椒
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.6 | 5079 |
+| Wine Enthusiast | 81 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：室温或冰镇
+- **推荐酒杯**：烈酒杯
+- **佐餐搭配**：墨西哥卷、青柠
+- **鸡尾酒应用**：Margarita, Sipping Tequila
+
+## 文化背景
+
+### 历史
+
+桑札以墨西哥七感哲学命名，强调手工小批量工艺。
+
+### 趣闻
+
+Siete Sentidos 意为七感，倡导慢饮细品龙舌兰本味。
+
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。

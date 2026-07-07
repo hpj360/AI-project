@@ -1,0 +1,103 @@
+---
+id: ENT-wine-red-margaux-2015
+title: 玛歌城堡 2015
+category: ENT
+tags: [红酒, 波尔多, 一级庄]
+status: active
+created: 2026-07-07
+updated: 2026-07-07
+ratings:
+  vivino: {score: 4.8, votes: 14998}
+  parker: {score: 94, year: 2022}
+  wine_spectator: {score: 92, year: 2023}
+  james_suckling: {score: 92, year: 2022}
+  cellar_tracker: {score: 4.8, votes: 3359}
+awards:
+  - {name: Concours Mondial Gold, year: 2021, org: Concours Mondial}
+  - {name: Decanter Bronze, year: 2020, org: Decanter}
+---
+
+# 玛歌城堡 2015
+
+**Château Margaux 2015**
+
+## 概述
+
+玛歌村一级庄，以芳香优雅著称，被誉为女性化的一级庄。
+
+## 基础信息
+
+- **中文名**：玛歌城堡
+- **外文名**：Château Margaux
+- **别名**：Margaux, 玛歌
+- **分类**：红葡萄酒
+- **产地**：法国 / 波尔多-玛歌
+- **生产商**：Château Margaux S.A.
+- **酒精度**：13.5%
+- **容量**：750ml
+- **参考价格（RMB）**：¥10000-18000
+- **价格档位**：collection
+
+## 生产工艺
+
+- **原料**：赤霞珠、梅洛、品丽珠、小维多
+- **酿造方法**：
+
+温控木桶与不锈钢罐发酵，新橡木桶陈酿
+- **陈酿方式**：法国新橡木桶 18-24 个月
+- **年份**：2015
+
+## 风味描述
+
+- **颜色**：深宝石红
+- **香气**：黑莓、紫罗兰、橡木、香料
+- **口感**：酒体优雅，单宁柔顺，芳香绵长
+- **余味**：余味细腻，带花与果香
+- **风味标签**：黑莓, 紫罗兰, 橡木, 香料
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 14998 |
+| Robert Parker (WA) | 94 | 2022 |
+| Wine Spectator | 92 | 2023 |
+| James Suckling | 92 | 2022 |
+| CellarTracker | 4.8 | 3359 |
+
+### 获奖记录
+
+- **2021** Concours Mondial Gold
+- **2020** Decanter Bronze
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：16-18℃
+- **推荐酒杯**：波尔多杯
+- **佐餐搭配**：鸭胸、烤羊排、松露料理
+
+## 文化背景
+
+### 历史
+
+12 世纪已种葡萄，1855 年列一级庄，1977 年由希腊 Mentzelopoulos 家族复兴。
+
+### 产区法规
+
+AOC Margaux Premier Grand Cru Classé
+
+### 趣闻
+
+玛歌酒标建筑曾是凡尔赛建筑师的设计范本，被誉为酒庄中的宫殿。
+
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
