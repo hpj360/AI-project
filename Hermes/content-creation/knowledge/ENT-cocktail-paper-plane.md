@@ -6,7 +6,14 @@ tags: [鸡尾酒, 现代经典, 波本, 阿佩罗, 等比]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-final-ward]
+related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-final-ward, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
+related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-final-ward: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 15492}
+  diffords: {score: 4.45, year: 2020}
+  iba: {score: 5.0, year: 2021}
+awards:
+  - {name: Tales of the Cocktail Best Cocktail, year: 2023, org: Tales of the Cocktail}
 ---
 
 # 纸飞机
@@ -16,6 +23,12 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 ## 概述
 
 波本、阿佩罗、阿玛罗非诺与青柠等比摇和，新时代均衡代表作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Paper%20Plane%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Paper%20Plane%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Paper%20Plane%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +93,20 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 15492 |
+| Difford's Guide | 4.45 | 2020 |
+| IBA 推荐 | 5.0 | 2021 |
+
+### 获奖记录
+
+- **2023** Tales of the Cocktail Best Cocktail
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

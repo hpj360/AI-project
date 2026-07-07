@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, vodka, 伏特加, Absolut]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
+related_typed: {ENT-vodka-absolut-original: same_brand, ENT-vodka-absolut-citron: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 11214}
   wine_enthusiast: {score: 87, year: 2023}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Absolut（Absolut），产地 Sweden
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Absolut%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Absolut%20vodka)
+- [Google 图片](https://www.google.com/search?q=Absolut%20vodka%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Absolut
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：Absolut（Absolut），产地 Sweden
 - **容量**：350 ml
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：谷物或马铃薯、水、酵母
+- **酿造方法**：
+
+发酵后连续蒸馏至高纯度，活性炭过滤去除杂质，加水稀释至装瓶度数。
+- **陈酿方式**：通常不陈年
+
+## 风味描述
+
+- **颜色**：无色透明
+- **香气**：清淡中性
+- **口感**：纯净、微甜
+- **余味**：干净短促
+- **风味标签**：纯净, 中性
 
 ## 评分奖项
 

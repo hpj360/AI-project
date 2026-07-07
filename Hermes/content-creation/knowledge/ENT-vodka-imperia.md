@@ -6,7 +6,8 @@ tags: [伏特加, 俄罗斯, 皇冠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-142-poliakov, ENT-vodka-off-145-vodka, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka, ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona, ENT-vodka-off-149-wodka]
+related_typed: {ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat, ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat, ENT-vodka-off-149-wodka: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 13667}
   wine_enthusiast: {score: 88, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Imperia，俄罗斯标准顶级伏特加，水晶过滤奢华纯净。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Russian%20Standard%20Imperia%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Russian%20Standard%20Imperia%20vodka)
+- [Google 图片](https://www.google.com/search?q=Russian%20Standard%20Imperia%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

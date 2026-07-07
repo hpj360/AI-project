@@ -6,7 +6,8 @@ tags: [白兰地, 干邑, 法国, 马爹利]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-martell-cordon-bleu, ENT-brandy-martell-xo, ENT-brandy-hennessy-vsop, ENT-brandy-martell-vsop, ENT-brandy-hennessy-vs]
+related: [ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
+related_typed: {ENT-brandy-martell-vsop: same_brand, ENT-brandy-martell-xo: same_brand, ENT-brandy-martell-cordon-bleu: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
 ratings:
   vivino: {score: 4.8, votes: 30744}
   wine_enthusiast: {score: 94, year: 2022}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 马爹利名仕，VSOP 与 XO 之间高端干邑。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Martell%20Noblige%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Martell%20Noblige%20brandy)
+- [Google 图片](https://www.google.com/search?q=Martell%20Noblige%20brandy%20bottle&tbm=isch)
 
 ## 基础信息
 

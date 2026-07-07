@@ -6,7 +6,8 @@ tags: [红酒, 波尔多, 波美侯, 梅洛]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-trotanoy-2015, ENT-wine-red-le-pin-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine-red-levangile-2015]
+related: [ENT-wine-red-trotanoy-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-red-trotanoy-2015: same_brand, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 3880}
   parker: {score: 96, year: 2020}
@@ -25,6 +26,12 @@ awards:
 ## 概述
 
 波美侯之王，几乎纯梅洛酿造，全球最昂贵的右岸红酒之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=P%C3%A9trus%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/P%C3%A9trus%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=P%C3%A9trus%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

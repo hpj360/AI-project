@@ -6,7 +6,12 @@ tags: [鸡尾酒, 分子, 球化, 龙舌兰, 青柠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-tequila-off-183-tequila-gold, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
+ratings:
+  vivino: {score: 4.7, votes: 35537}
+  diffords: {score: 4.19, year: 2023}
+  iba: {score: 4.4, year: 2020}
 ---
 
 # 玛格丽特球
@@ -16,6 +21,12 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-tequila
 ## 概述
 
 玛格丽特液球化后蘸盐边，龙舌兰青柠风味爆裂于口。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Margarita%20Spheres%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Margarita%20Spheres%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Margarita%20Spheres%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -84,6 +95,16 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-tequila
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.7 | 35537 |
+| Difford's Guide | 4.19 | 2023 |
+| IBA 推荐 | 4.4 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

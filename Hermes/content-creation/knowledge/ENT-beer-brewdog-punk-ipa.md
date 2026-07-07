@@ -6,7 +6,8 @@ tags: [啤酒, 英国, 酿酒狗, IPA, 精酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-off-093-punk-ipa, ENT-beer-tsingtao, ENT-beer-off-087-alus-brewdog-punk-ipa, ENT-beer-budweiser]
+related: [ENT-beer-off-087-alus-brewdog-punk-ipa, ENT-beer-off-093-punk-ipa, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser]
+related_typed: {ENT-beer-off-087-alus-brewdog-punk-ipa: same_brand, ENT-beer-off-093-punk-ipa: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 49481}
   ratebeer: {score: 87, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 酿酒狗朋克 IPA，英式印度淡色艾尔代表，热带水果与麦芽香气平衡。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=BrewDog%20Punk%20IPA%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/BrewDog%20Punk%20IPA%20beer)
+- [Google 图片](https://www.google.com/search?q=BrewDog%20Punk%20IPA%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

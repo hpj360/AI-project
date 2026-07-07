@@ -6,7 +6,12 @@ tags: [鸡尾酒, 分子, 真空低温, 波本, 萃取]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-ginish-tonic, ENT-whisky-off-243-whisky-40]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 41245}
+  diffords: {score: 4.22, year: 2023}
+  iba: {score: 4.6, year: 2020}
 ---
 
 # 真空低温古典
@@ -16,6 +21,12 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-whisky-
 ## 概述
 
 以真空低温慢煮波本与香料苦精，深度萃取风味的古典变体。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sous%20Vide%20Old%20Fashioned%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sous%20Vide%20Old%20Fashioned%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Sous%20Vide%20Old%20Fashioned%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -84,6 +95,16 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-whisky-
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 41245 |
+| Difford's Guide | 4.22 | 2023 |
+| IBA 推荐 | 4.6 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

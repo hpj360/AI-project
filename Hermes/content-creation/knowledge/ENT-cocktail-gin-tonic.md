@@ -6,7 +6,12 @@ tags: [鸡尾酒, 高球, 金酒, 汤力水, 清爽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 31077}
+  diffords: {score: 4.35, year: 2021}
+  iba: {score: 5.0, year: 2020}
 ---
 
 # 金汤力
@@ -16,6 +21,12 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sa
 ## 概述
 
 金酒配汤力水与青柠，全球最畅销的清爽高球。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gin%20%26%20Tonic%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Gin%20%26%20Tonic%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Gin%20%26%20Tonic%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sa
 | 苦 | 3 | ███░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 31077 |
+| Difford's Guide | 4.35 | 2021 |
+| IBA 推荐 | 5.0 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

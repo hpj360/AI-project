@@ -6,7 +6,8 @@ tags: [红酒, 纳帕谷, 美国, 单一园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-opus-one-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015]
+related: [ENT-wine-red-opus-one-2016, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
+related_typed: {ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-screaming-eagle-2015: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
 ratings:
   vivino: {score: 4.2, votes: 34429}
   parker: {score: 82, year: 2021}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 纳帕单一园赤霞珠先驱，风格经典优雅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Heitz%20Cellar%20Martha%27s%20Vineyard%202014%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Heitz%20Cellar%20Martha%27s%20Vineyard%202014%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Heitz%20Cellar%20Martha%27s%20Vineyard%202014%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

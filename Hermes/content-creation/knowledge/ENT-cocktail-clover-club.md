@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 酸酒, 金酒, 覆盆子]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-philadelphia-fish-house-punch, ENT-gin-bombay-sapphire-east, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-philadelphia-fish-house-punch, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-philadelphia-fish-house-punch: same_region, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail, ENT-gin-tanqueray-london-dry: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 43854}
+  diffords: {score: 4.28, year: 2021}
+  iba: {score: 4.9, year: 2023}
 ---
 
 # 三叶草俱乐部
@@ -16,6 +21,12 @@ related: [ENT-cocktail-philadelphia-fish-house-punch, ENT-gin-bombay-sapphire-ea
 ## 概述
 
 金酒配覆盆子糖浆、柠檬汁与蛋白，粉红丝绒口感。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Clover%20Club%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Clover%20Club%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Clover%20Club%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-philadelphia-fish-house-punch, ENT-gin-bombay-sapphire-ea
 | 苦 | 0 | ░░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 43854 |
+| Difford's Guide | 4.28 | 2021 |
+| IBA 推荐 | 4.9 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

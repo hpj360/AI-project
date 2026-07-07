@@ -6,7 +6,8 @@ tags: [红酒, 澳洲, 设拉子, 玛格丽特河]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-white-leeuwin-art-series-chardonnay-2017, ENT-wine_red-off-003-adama]
+related: [ENT-wine-white-leeuwin-art-series-chardonnay-2017, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino]
+related_typed: {ENT-wine-white-leeuwin-art-series-chardonnay-2017: same_brand, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat}
 ratings:
   vivino: {score: 3.8, votes: 45490}
   parker: {score: 80, year: 2023}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 西澳玛格丽特河名庄，艺术系列酒标每年由艺术家设计。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Leeuwin%20Estate%20Art%20Series%20Shiraz%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Leeuwin%20Estate%20Art%20Series%20Shiraz%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Leeuwin%20Estate%20Art%20Series%20Shiraz%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

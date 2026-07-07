@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酒吧签名, 威士忌, 古典, 苦精]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey]
+related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
+related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
+ratings:
+  vivino: {score: 4.1, votes: 43688}
+  diffords: {score: 4.06, year: 2022}
+  iba: {score: 3.8, year: 2021}
 ---
 
 # 改良威士忌鸡尾酒
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 ## 概述
 
 威士忌配糖苦精与苦艾酒和马拉斯加力乔，老式鸡尾酒的精致升级版。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Improved%20Whiskey%20Cocktail%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Improved%20Whiskey%20Cocktail%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Improved%20Whiskey%20Cocktail%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.1 | 43688 |
+| Difford's Guide | 4.06 | 2022 |
+| IBA 推荐 | 3.8 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

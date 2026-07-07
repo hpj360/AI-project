@@ -6,7 +6,12 @@ tags: [鸡尾酒, 菲士, 金酒, 奶油, 新奥尔良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-hurricane, ENT-cocktail-brandy-crusta, ENT-cocktail-sazerac, ENT-gin-bombay-sapphire-east, ENT-cocktail-grasshopper]
+related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-grasshopper]
+related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-grasshopper: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 33187}
+  diffords: {score: 4.28, year: 2022}
+  iba: {score: 4.9, year: 2022}
 ---
 
 # 拉莫斯金菲士
@@ -16,6 +21,12 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-brandy-crusta, ENT-cocktail-sazer
 ## 概述
 
 金酒配柠檬青柠糖奶油蛋白橙花水苏打，需摇 12 分钟的传奇菲士。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ramos%20Gin%20Fizz%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ramos%20Gin%20Fizz%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Ramos%20Gin%20Fizz%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -83,6 +94,16 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-brandy-crusta, ENT-cocktail-sazer
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 33187 |
+| Difford's Guide | 4.28 | 2022 |
+| IBA 推荐 | 4.9 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

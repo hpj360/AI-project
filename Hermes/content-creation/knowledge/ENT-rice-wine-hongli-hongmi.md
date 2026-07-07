@@ -6,7 +6,11 @@ tags: [米酒, 广东, 红米, 顺德]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-changle-shao, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
+related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-changle-shao]
+related_typed: {ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-rice-wine-changle-shao: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 47357}
+  csl: {score: 85, year: 2022}
 ---
 
 # 红荔牌红米酒
@@ -16,6 +20,12 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-changle-shao, ENT-rice-wi
 ## 概述
 
 广东顺德红荔牌红米酒，红米酿造，口感清雅甘甜，是顺德本帮米酒代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hongli%20Red%20Rice%20Wine%20rice_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hongli%20Red%20Rice%20Wine%20rice_wine)
+- [Google 图片](https://www.google.com/search?q=Hongli%20Red%20Rice%20Wine%20rice_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-changle-shao, ENT-rice-wi
 - **口感**：口感清雅甘甜，米味突出
 - **余味**：余味干净，带米香
 - **风味标签**：米香, 红米, 甘甜
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 47357 |
+| 中国酒类鉴评 | 85 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

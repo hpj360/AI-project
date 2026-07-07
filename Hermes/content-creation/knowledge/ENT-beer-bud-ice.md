@@ -6,7 +6,8 @@ tags: [啤酒, 美国, 百威, 冰啤]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-budweiser, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-budweiser: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 7504}
   ratebeer: {score: 89, year: 2021}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 百威冰啤，采用冰酿工艺的拉格，酒体更醇厚，酒精感更强。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bud%20Ice%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bud%20Ice%20beer)
+- [Google 图片](https://www.google.com/search?q=Bud%20Ice%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

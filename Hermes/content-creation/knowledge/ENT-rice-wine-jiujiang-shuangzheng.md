@@ -6,7 +6,11 @@ tags: [米酒, 广东, 九江, 双蒸]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-wine-changle-shao, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
+related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-wine-changle-shao]
+related_typed: {ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-hongli-hongmi: cross_region, ENT-rice-wine-changle-shao: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 36197}
+  csl: {score: 86, year: 2020}
 ---
 
 # 九江双蒸酒
@@ -16,6 +20,12 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-w
 ## 概述
 
 广东九江双蒸酒，传统双蒸工艺米酒，米香突出，是豉香型白酒鼻祖。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jiujiang%20Shuangzheng%20Wine%20rice_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jiujiang%20Shuangzheng%20Wine%20rice_wine)
+- [Google 图片](https://www.google.com/search?q=Jiujiang%20Shuangzheng%20Wine%20rice_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-w
 - **口感**：口感绵柔，豉香突出，米味甘甜
 - **余味**：余味干净，带豉香
 - **风味标签**：米香, 豉香, 油脂
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 36197 |
+| 中国酒类鉴评 | 86 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [加强酒, 雪莉, Palo Cortado, VORS]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-gonzalez-byass-tio-pepe-fino]
+related: [ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related_typed: {ENT-wine-fortified-gonzalez-byass-tio-pepe-fino: same_region, ENT-wine-fortified-williams-humbert-dry-oloroso: same_region, ENT-wine-fortified-valdespino-tio-diego-amontillado: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: same_subcat}
 ratings:
   vivino: {score: 4.7, votes: 34654}
   wine_spectator: {score: 82, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Lustau 顶级 Palo Cortado VORS，30 年以上陈酿。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Lustau%20Palo%20Cortado%20VORS%20Sherry%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Lustau%20Palo%20Cortado%20VORS%20Sherry%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Lustau%20Palo%20Cortado%20VORS%20Sherry%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

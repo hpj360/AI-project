@@ -6,7 +6,8 @@ tags: [起泡酒, 新世界, Schramsberg, 加州, 白中白]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine-sparkling-domaine-chandon-brut-nv]
+related: [ENT-wine-sparkling-domaine-chandon-brut-nv, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-053-sekt, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition]
+related_typed: {ENT-wine-sparkling-domaine-chandon-brut-nv: same_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: cross_region, ENT-wine_sparkling-off-053-sekt: same_subcat, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 48631}
   wine_spectator: {score: 83, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 加州传统法起泡酒鼻祖 Schramsberg，白中白旗舰作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Schramsberg%20Blanc%20de%20Blancs%202016%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Schramsberg%20Blanc%20de%20Blancs%202016%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Schramsberg%20Blanc%20de%20Blancs%202016%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

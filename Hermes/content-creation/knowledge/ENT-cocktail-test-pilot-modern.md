@@ -6,7 +6,12 @@ tags: [鸡尾酒, Tiki, 黑朗姆, 查特酒, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-rum-off-163-rhum-negrita, ENT-cocktail-smoke-signal, ENT-brandy-hennessy-vsop]
+related: [ENT-cocktail-kamikaze, ENT-cocktail-melon-ball, ENT-cocktail-smoke-signal, ENT-cocktail-brown-derby, ENT-cocktail-westside]
+related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-melon-ball: same_region, ENT-cocktail-smoke-signal: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
+ratings:
+  vivino: {score: 4.5, votes: 21468}
+  diffords: {score: 4.14, year: 2022}
+  iba: {score: 4.2, year: 2023}
 ---
 
 # 试飞员（现代版）
@@ -16,6 +21,12 @@ related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-rum-off-163-rhu
 ## 概述
 
 黑朗姆配干邑橙味利口酒与青柠 falernum，浓郁复杂的现代 Tiki 重磅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Test%20Pilot%20Modern%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Test%20Pilot%20Modern%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Test%20Pilot%20Modern%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +92,16 @@ related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-rum-off-163-rhu
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.5 | 21468 |
+| Difford's Guide | 4.14 | 2022 |
+| IBA 推荐 | 4.2 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

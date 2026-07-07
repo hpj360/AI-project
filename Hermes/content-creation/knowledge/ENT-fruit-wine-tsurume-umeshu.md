@@ -6,7 +6,11 @@ tags: [果酒, 梅酒, 日本, 鹤梅]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-chiyomusubi-umeshu, ENT-fruit-wine-choya-umeshu]
+related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-chiyomusubi-umeshu]
+related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-fruit-wine-chiyomusubi-umeshu: same_subcat}
+ratings:
+  vivino: {score: 4.6, votes: 39924}
+  wine_enthusiast: {score: 83, year: 2021}
 ---
 
 # 鹤梅梅酒
@@ -16,6 +20,12 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 ## 概述
 
 鹤梅梅酒，日本鹤梅酒造出品，使用烧酒浸梅，口感清爽。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Tsurume%20Umeshu%20fruit_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Tsurume%20Umeshu%20fruit_wine)
+- [Google 图片](https://www.google.com/search?q=Tsurume%20Umeshu%20fruit_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 - **口感**：口感清爽，梅味突出
 - **余味**：余味清爽，带梅香
 - **风味标签**：梅子, 清爽, 蜂蜜
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.6 | 39924 |
+| Wine Enthusiast | 83 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

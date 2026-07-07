@@ -6,7 +6,8 @@ tags: [甜酒, 冰酒, 加拿大, Inniskillin, 雷司令]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-inniskillin-icewine-vidal-2018, ENT-wine-dessert-climens-2015, ENT-wine-dessert-jackson-triggs-icewine-vidal-2018, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015]
+related: [ENT-wine-dessert-inniskillin-icewine-vidal-2018, ENT-wine-dessert-jackson-triggs-icewine-vidal-2018, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015]
+related_typed: {ENT-wine-dessert-inniskillin-icewine-vidal-2018: same_brand, ENT-wine-dessert-jackson-triggs-icewine-vidal-2018: same_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 21083}
   parker: {score: 84, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 加拿大冰酒鼻祖 Inniskillin，雷司令冰酒经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Inniskillin%20Riesling%20Icewine%202018%20wine_dessert%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Inniskillin%20Riesling%20Icewine%202018%20wine_dessert)
+- [Google 图片](https://www.google.com/search?q=Inniskillin%20Riesling%20Icewine%202018%20wine_dessert%20bottle&tbm=isch)
 
 ## 基础信息
 

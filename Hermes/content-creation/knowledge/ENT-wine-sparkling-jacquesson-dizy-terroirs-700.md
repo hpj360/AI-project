@@ -6,7 +6,8 @@ tags: [起泡酒, 香槟, Jacquesson, 无年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
+related: [ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte]
+related_typed: {ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: cross_region, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 5310}
   wine_spectator: {score: 89, year: 2020}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 Jacquesson 编号系列香槟，每版以基酒年份命名。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jacquesson%20Dizy%20Terroirs%20%E2%84%96%20700%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jacquesson%20Dizy%20Terroirs%20%E2%84%96%20700%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Jacquesson%20Dizy%20Terroirs%20%E2%84%96%20700%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

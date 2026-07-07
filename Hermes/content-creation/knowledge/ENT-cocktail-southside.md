@@ -6,7 +6,12 @@ tags: [鸡尾酒, 禁酒令, 金酒, 薄荷, 酸酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire-east]
+related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
+related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
+ratings:
+  vivino: {score: 4.7, votes: 13083}
+  diffords: {score: 4.19, year: 2022}
+  iba: {score: 4.4, year: 2023}
 ---
 
 # 南区
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 ## 概述
 
 金酒配薄荷柠檬汁与糖浆，清凉酸甜的禁酒令经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Southside%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Southside%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Southside%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.7 | 13083 |
+| Difford's Guide | 4.19 | 2022 |
+| IBA 推荐 | 4.4 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [朗姆酒, 马提尼克, St. James, rhum agricole]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara, ENT-rum-off-169-caribbean-rum-with-coconut-flavour, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour, ENT-rum-off-171-saint-james]
+related_typed: {ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-171-saint-james: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 10890}
   wine_enthusiast: {score: 88, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 St. James，马提尼克农业朗姆，甘蔗汁酿造法式风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=St.%20James%20Rhum%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/St.%20James%20Rhum%20rum)
+- [Google 图片](https://www.google.com/search?q=St.%20James%20Rhum%20rum%20bottle&tbm=isch)
 
 ## 基础信息
 

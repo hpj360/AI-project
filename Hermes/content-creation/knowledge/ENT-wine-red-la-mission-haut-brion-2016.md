@@ -6,7 +6,8 @@ tags: [红酒, 波尔多, 佩萨克-雷奥良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama, ENT-wine-red-haut-brion-2016]
+related: [ENT-wine-red-haut-brion-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir]
+related_typed: {ENT-wine-red-haut-brion-2016: same_brand, ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-004-pinot-noir: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 46024}
   parker: {score: 83, year: 2023}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 佩萨克-雷奥良名庄，与 Haut-Brion 同属 Dillon 家族，风格浓郁。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20La%20Mission%20Haut-Brion%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20La%20Mission%20Haut-Brion%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20La%20Mission%20Haut-Brion%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

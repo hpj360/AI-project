@@ -6,7 +6,8 @@ tags: [起泡酒, 香槟, Krug, 无年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-krug-clos-d-ambonnay-2002, ENT-wine-sparkling-cristal-2013]
+related: [ENT-wine-sparkling-krug-clos-d-ambonnay-2002, ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
+related_typed: {ENT-wine-sparkling-krug-clos-d-ambonnay-2002: same_brand, ENT-wine-sparkling-cristal-2013: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region}
 ratings:
   vivino: {score: 3.9, votes: 37768}
   wine_spectator: {score: 80, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Krug 旗舰无年份香槟，多年份调配，复杂深邃。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Krug%20Grande%20Cuv%C3%A9e%20170%C3%A8me%20%C3%89dition%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Krug%20Grande%20Cuv%C3%A9e%20170%C3%A8me%20%C3%89dition%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Krug%20Grande%20Cuv%C3%A9e%20170%C3%A8me%20%C3%89dition%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

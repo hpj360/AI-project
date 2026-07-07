@@ -6,7 +6,8 @@ tags: [朗姆酒, 古巴, 加勒比]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-rum-havana-club-3, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-havana-club-anejo-reserva, ENT-rum-havana-club-7]
+related: [ENT-rum-havana-club-3, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-off-169-caribbean-rum-with-coconut-flavour, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour]
+related_typed: {ENT-rum-havana-club-3: same_region, ENT-rum-havana-club-7: same_region, ENT-rum-havana-club-anejo-reserva: same_region, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 27759}
   wine_enthusiast: {score: 87, year: 2023}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 Ron del Caribe，加勒比调和朗姆，多国陈年朗姆调和。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ron%20del%20Caribe%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ron%20del%20Caribe%20rum)
+- [Google 图片](https://www.google.com/search?q=Ron%20del%20Caribe%20rum%20bottle&tbm=isch)
 
 ## 基础信息
 

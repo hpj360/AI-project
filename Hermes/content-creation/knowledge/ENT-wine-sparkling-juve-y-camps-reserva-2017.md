@@ -6,7 +6,8 @@ tags: [起泡酒, 卡瓦, Juvé y Camps, 珍藏]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
+related: [ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine_sparkling-off-049-mateus-ros-original]
+related_typed: {ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 7150}
   wine_spectator: {score: 90, year: 2022}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 Juvé y Camps 家族珍藏卡瓦，传统法手工转瓶。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Juv%C3%A9%20y%20Camps%20Reserva%20de%20la%20Familia%202017%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Juv%C3%A9%20y%20Camps%20Reserva%20de%20la%20Familia%202017%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Juv%C3%A9%20y%20Camps%20Reserva%20de%20la%20Familia%202017%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

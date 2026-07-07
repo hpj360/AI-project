@@ -6,7 +6,8 @@ tags: [白酒, 勃艮第, 特级园, DRC, 霞多丽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-white-chevalier-montrachet-leflaive-2015, ENT-wine-red-richebourg-2015, ENT-wine-white-montrachet-leflaive-2014]
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-chevalier-montrachet-leflaive-2015]
+related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-white-montrachet-leflaive-2014: same_region, ENT-wine-white-chevalier-montrachet-leflaive-2015: same_region}
 ratings:
   vivino: {score: 4.8, votes: 36548}
   parker: {score: 92, year: 2020}
@@ -23,6 +24,12 @@ awards:
 ## 概述
 
 DRC 在 Montrachet 的份额，全球最稀缺的白葡萄酒之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Domaine%20de%20la%20Roman%C3%A9e-Conti%20Montrachet%202014%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Domaine%20de%20la%20Roman%C3%A9e-Conti%20Montrachet%202014%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Domaine%20de%20la%20Roman%C3%A9e-Conti%20Montrachet%202014%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

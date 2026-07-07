@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-balvenie-12-doublewood, ENT-whisky-macallan-classic-cut]
+related: [ENT-whisky-balvenie-12-doublewood, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-classic-cut]
+related_typed: {ENT-whisky-balvenie-12-doublewood: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region, ENT-whisky-macallan-classic-cut: same_region}
 ratings:
   vivino: {score: 4.8, votes: 38974}
   whisky_fun: {score: 87, year: 2020}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 百富 14 年卡瑞杜，朗姆桶陈酿，热带风情。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Balvenie%2014%20Caribbean%20Cask%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Balvenie%2014%20Caribbean%20Cask%20whisky)
+- [Google 图片](https://www.google.com/search?q=Balvenie%2014%20Caribbean%20Cask%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

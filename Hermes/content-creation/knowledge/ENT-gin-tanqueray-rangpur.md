@@ -6,7 +6,8 @@ tags: [金酒, 伦敦干, 英国, 添加利]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-off-120-tanqueray-london-dry-gin, ENT-gin-gordons-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-gordons-elderflower, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-tanqueray-no-ten, ENT-gin-off-120-tanqueray-london-dry-gin, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
+related_typed: {ENT-gin-tanqueray-no-ten: same_brand, ENT-gin-off-120-tanqueray-london-dry-gin: same_brand, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region, ENT-gin-beefeater-london-dry: same_region}
 ratings:
   vivino: {score: 4.8, votes: 4708}
   wine_enthusiast: {score: 93, year: 2023}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 添加利 Rangpur，加入印度青柠，温润青柠风味。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Tanqueray%20Rangpur%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Tanqueray%20Rangpur%20gin)
+- [Google 图片](https://www.google.com/search?q=Tanqueray%20Rangpur%20gin%20bottle&tbm=isch)
 
 ## 基础信息
 

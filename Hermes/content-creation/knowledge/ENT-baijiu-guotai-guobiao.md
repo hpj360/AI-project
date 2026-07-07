@@ -6,7 +6,8 @@ tags: [白酒, 酱香, 贵州, 国台]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-diaoyutai-guobin, ENT-baijiu-moutai-feitian-53, ENT-baijiu-laimao-chuancheng, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-diaoyutai-guobin, ENT-baijiu-laimao-chuancheng, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
+related_typed: {ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-laimao-chuancheng: same_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 37984}
   csl: {score: 86, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 国台国标酒，贵州茅台镇第二大酿酒企业出品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Guotai%20Guobiao%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Guotai%20Guobiao%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Guotai%20Guobiao%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 37984 |
-| 中国白酒鉴评 | 86 | 2020 |
+| 中国酒类鉴评 | 86 | 2020 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

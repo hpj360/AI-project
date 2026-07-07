@@ -6,7 +6,8 @@ tags: [龙舌兰, 墨西哥, 1800, Blanco]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-don-julio-reposado, ENT-tequila-herradura-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-herradura-reposado]
+related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-herradura-reposado: same_region}
 ratings:
   vivino: {score: 4.6, votes: 30733}
   wine_enthusiast: {score: 81, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 1800 Silver，未陈酿白龙舌兰，瓶身设计独特可重复密封。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=1800%20Silver%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/1800%20Silver%20tequila)
+- [Google 图片](https://www.google.com/search?q=1800%20Silver%20tequila%20bottle&tbm=isch)
 
 ## 基础信息
 

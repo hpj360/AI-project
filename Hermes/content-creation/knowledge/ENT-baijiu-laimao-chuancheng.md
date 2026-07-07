@@ -6,7 +6,8 @@ tags: [白酒, 酱香, 贵州, 赖茅]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-diaoyutai-guobin, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-guotai-guobiao, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-diaoyutai-guobin, ENT-baijiu-guotai-guobiao, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
+related_typed: {ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-guotai-guobiao: same_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: cross_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 31218}
   csl: {score: 88, year: 2022}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 赖茅传承，茅台集团旗下赖茅品牌中端酱香。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Laimao%20Chuancheng%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Laimao%20Chuancheng%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Laimao%20Chuancheng%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -58,7 +65,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 31218 |
-| 中国白酒鉴评 | 88 | 2022 |
+| 中国酒类鉴评 | 88 | 2022 |
 
 ### 获奖记录
 

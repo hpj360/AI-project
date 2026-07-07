@@ -6,7 +6,8 @@ tags: [伏特加, 俄罗斯, 五湖]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-birch, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-beluga, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-beluga, ENT-vodka-birch, ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona, ENT-vodka-off-149-wodka]
+related_typed: {ENT-vodka-beluga: same_region, ENT-vodka-birch: same_region, ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat, ENT-vodka-off-149-wodka: same_subcat}
 ratings:
   vivino: {score: 3.9, votes: 5927}
   wine_enthusiast: {score: 82, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 五湖，西伯利亚小麦伏特加，融合五大湖泉水。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Pyat%20Ozer%20Vodka%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Pyat%20Ozer%20Vodka%20vodka)
+- [Google 图片](https://www.google.com/search?q=Pyat%20Ozer%20Vodka%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,8 @@ tags: [啤酒, 美国, 百威, 工业拉格]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-carlsberg, ENT-beer-bud-ice, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-bud-ice, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-bud-ice: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 3.9, votes: 42450}
   ratebeer: {score: 80, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 百威啤酒，美国工业拉格代表，麦香清爽，是全球销量前列的啤酒品牌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Budweiser%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Budweiser%20beer)
+- [Google 图片](https://www.google.com/search?q=Budweiser%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

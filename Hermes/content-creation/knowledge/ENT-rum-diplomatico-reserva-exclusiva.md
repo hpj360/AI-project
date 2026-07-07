@@ -6,7 +6,8 @@ tags: [朗姆酒, 委内瑞拉, Diplomatico, 陈年]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-diplomatico-ambassador, ENT-rum-off-163-rhum-negrita, ENT-rum-off-165-rhum-ambr, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-rum-diplomatico-ambassador, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara]
+related_typed: {ENT-rum-diplomatico-ambassador: same_brand, ENT-rum-off-165-rhum-ambr: cross_region, ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 32559}
   wine_enthusiast: {score: 97, year: 2022}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 外交官 Reserva Exclusiva，委内瑞拉陈年朗姆，醇厚甜润。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Diplomatico%20Reserva%20Exclusiva%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Diplomatico%20Reserva%20Exclusiva%20rum)
+- [Google 图片](https://www.google.com/search?q=Diplomatico%20Reserva%20Exclusiva%20rum%20bottle&tbm=isch)
 
 ## 基础信息
 

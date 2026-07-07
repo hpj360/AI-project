@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, rum, 朗姆酒, Bacardi]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-bacardi-carta-blanca, ENT-rum-off-163-rhum-negrita, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-bacardi-8, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-168-masskara, ENT-rum-off-165-rhum-ambr]
+related_typed: {ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-168-masskara: cross_region, ENT-rum-off-165-rhum-ambr: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 35022}
   wine_enthusiast: {score: 90, year: 2021}
@@ -23,6 +24,12 @@ awards:
 
 OpenFoodFacts 真实产品数据：Bacardi Razz（Bacardi）
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bacardi%20Razz%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bacardi%20Razz%20rum)
+- [Google 图片](https://www.google.com/search?q=Bacardi%20Razz%20rum%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Bacardi Razz
@@ -35,6 +42,22 @@ OpenFoodFacts 真实产品数据：Bacardi Razz（Bacardi）
 - **容量**：700ml
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：糖蜜或甘蔗汁、水、酵母
+- **酿造方法**：
+
+糖蜜稀释发酵后壶式或连续蒸馏，部分入橡木桶陈年。
+- **陈酿方式**：白朗姆不陈年，金/黑朗姆橡木桶陈年
+
+## 风味描述
+
+- **颜色**：无色至深琥珀
+- **香气**：甘蔗、糖蜜
+- **口感**：甜润、焦糖
+- **余味**：甜润回甘
+- **风味标签**：甘蔗, 焦糖, 甜润
 
 ## 评分奖项
 

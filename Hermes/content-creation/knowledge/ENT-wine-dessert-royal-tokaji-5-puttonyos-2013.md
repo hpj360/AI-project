@@ -6,7 +6,8 @@ tags: [甜酒, 托卡伊, 5 Puttonyos, 皇家托卡伊]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-climens-2015, ENT-wine-dessert-royal-tokaji-eszencia-2008, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-suduiraut-2015]
+related: [ENT-wine-dessert-royal-tokaji-eszencia-2008, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015]
+related_typed: {ENT-wine-dessert-royal-tokaji-eszencia-2008: same_brand, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 848}
   parker: {score: 84, year: 2023}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 Royal Tokaji 5 篓贵腐甜白，单一园经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Royal%20Tokaji%205%20Puttonyos%202013%20wine_dessert%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Royal%20Tokaji%205%20Puttonyos%202013%20wine_dessert)
+- [Google 图片](https://www.google.com/search?q=Royal%20Tokaji%205%20Puttonyos%202013%20wine_dessert%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 古典, 威士忌, 新奥尔良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-brandy-crusta, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40]
+related: [ENT-cocktail-brandy-crusta, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-grasshopper]
+related_typed: {ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region, ENT-cocktail-grasshopper: same_region}
+ratings:
+  vivino: {score: 4.3, votes: 25045}
+  diffords: {score: 4.1, year: 2022}
+  iba: {score: 4.0, year: 2021}
 ---
 
 # 赛泽瑞克
@@ -16,6 +21,12 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-bran
 ## 概述
 
 黑麦威士忌配苦精与苦艾酒洗杯，新奥尔良官方鸡尾酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sazerac%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sazerac%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Sazerac%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-bran
 | 苦 | 3 | ███░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.3 | 25045 |
+| Difford's Guide | 4.1 | 2022 |
+| IBA 推荐 | 4.0 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

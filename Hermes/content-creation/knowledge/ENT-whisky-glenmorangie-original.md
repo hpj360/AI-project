@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 高地]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-dalmore-15, ENT-whisky-glenmorangie-lasanta, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-dalmore-12, ENT-whisky-clynelish-14]
+related: [ENT-whisky-glenmorangie-lasanta, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-clynelish-14, ENT-whisky-off-247-whisky-old-n-7]
+related_typed: {ENT-whisky-glenmorangie-lasanta: same_brand, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-clynelish-14: same_region, ENT-whisky-off-247-whisky-old-n-7: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 580}
   whisky_fun: {score: 90, year: 2020}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 格兰杰 10 年原桶，美国白橡木桶陈酿，花香优雅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Glenmorangie%20Original%2010%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Glenmorangie%20Original%2010%20whisky)
+- [Google 图片](https://www.google.com/search?q=Glenmorangie%20Original%2010%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

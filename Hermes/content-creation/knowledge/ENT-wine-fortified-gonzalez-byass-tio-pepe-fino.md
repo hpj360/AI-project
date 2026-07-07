@@ -6,7 +6,8 @@ tags: [加强酒, 雪莉, Fino, González Byass]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-lustau-palo-cortado-vors]
+related: [ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related_typed: {ENT-wine-fortified-lustau-palo-cortado-vors: same_region, ENT-wine-fortified-williams-humbert-dry-oloroso: same_region, ENT-wine-fortified-valdespino-tio-diego-amontillado: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 12584}
   wine_spectator: {score: 90, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 全球最知名的 Fino 雪莉，Tio Pepe 是西班牙国宝级品牌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gonz%C3%A1lez%20Byass%20Tio%20Pepe%20Fino%20Sherry%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Gonz%C3%A1lez%20Byass%20Tio%20Pepe%20Fino%20Sherry%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Gonz%C3%A1lez%20Byass%20Tio%20Pepe%20Fino%20Sherry%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

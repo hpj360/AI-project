@@ -6,7 +6,12 @@ tags: [鸡尾酒, 禁酒令, 金酒, 蜂蜜]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-white-lady, ENT-cocktail-sidecar, ENT-gin-bombay-sapphire-east, ENT-cocktail-bloody-mary, ENT-cocktail-between-the-sheets]
+related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
+related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
+ratings:
+  vivino: {score: 4.4, votes: 39857}
+  diffords: {score: 4.12, year: 2020}
+  iba: {score: 4.1, year: 2020}
 ---
 
 # 蜜蜂之膝
@@ -16,6 +21,12 @@ related: [ENT-cocktail-white-lady, ENT-cocktail-sidecar, ENT-gin-bombay-sapphire
 ## 概述
 
 金酒配蜂蜜糖浆与柠檬汁，禁酒令时期用蜂蜜掩盖劣质金酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bee%27s%20Knees%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bee%27s%20Knees%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Bee%27s%20Knees%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-white-lady, ENT-cocktail-sidecar, ENT-gin-bombay-sapphire
 | 苦 | 0 | ░░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 39857 |
+| Difford's Guide | 4.12 | 2020 |
+| IBA 推荐 | 4.1 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

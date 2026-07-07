@@ -6,7 +6,8 @@ tags: [龙舌兰, 墨西哥, 白金武士, Patrón, Blanco]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-don-julio-reposado, ENT-tequila-herradura-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-herradura-reposado]
+related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-herradura-reposado: same_region}
 ratings:
   vivino: {score: 4.8, votes: 29584}
   wine_enthusiast: {score: 98, year: 2023}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 白金武士 Patrón Silver，高端白龙舌兰，手工小批量蒸馏。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Patr%C3%B3n%20Silver%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Patr%C3%B3n%20Silver%20tequila)
+- [Google 图片](https://www.google.com/search?q=Patr%C3%B3n%20Silver%20tequila%20bottle&tbm=isch)
 
 ## 基础信息
 

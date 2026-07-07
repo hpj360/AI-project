@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 树莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation]
+related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
+related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
+ratings:
+  vivino: {score: 4.4, votes: 18417}
+  diffords: {score: 4.11, year: 2023}
+  iba: {score: 4.1, year: 2023}
 ---
 
 # 法兰西马天尼
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-vodka-off-141-absolut-vodka, ENT-cockta
 ## 概述
 
 伏特加配树莓力乔与菠萝汁，甜润果味鸡尾酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=French%20Martini%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/French%20Martini%20cocktail)
+- [Google 图片](https://www.google.com/search?q=French%20Martini%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-vodka-off-141-absolut-vodka, ENT-cockta
 | 苦 | 0 | ░░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 18417 |
+| Difford's Guide | 4.11 | 2023 |
+| IBA 推荐 | 4.1 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

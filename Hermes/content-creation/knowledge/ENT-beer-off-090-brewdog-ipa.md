@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Brewdog]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona, ENT-beer-tsingtao-pure-draft, ENT-beer-bud-ice]
+related_typed: {ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat, ENT-beer-bud-ice: same_subcat}
 ratings:
   vivino: {score: 4.3, votes: 19132}
   ratebeer: {score: 81, year: 2022}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：BREWDOG IPA（Brewdog）
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=BREWDOG%20IPA%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/BREWDOG%20IPA%20beer)
+- [Google 图片](https://www.google.com/search?q=BREWDOG%20IPA%20beer%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：BREWDOG IPA
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：BREWDOG IPA（Brewdog）
 - **容量**：330 ml
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：麦芽、啤酒花、水、酵母
+- **酿造方法**：
+
+麦芽糖化后加酒花煮沸，冷却后发酵，部分二次发酵/陈年。
+- **陈酿方式**：拉格低温陈化，艾尔常温发酵
+
+## 风味描述
+
+- **颜色**：金黄至深棕
+- **香气**：热带水果、松脂
+- **口感**：苦味、热带水果
+- **余味**：苦味回甘
+- **风味标签**：啤酒花, 热带水果, 苦味
 
 ## 评分奖项
 

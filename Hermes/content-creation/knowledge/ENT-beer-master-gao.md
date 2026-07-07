@@ -6,7 +6,8 @@ tags: [啤酒, 中国, 高大师, 精酿, 南京]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-tsingtao, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin]
+related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 49846}
   ratebeer: {score: 83, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 高大师啤酒，南京精酿代表，以婴儿肥 IPA 著称，是国产精酿先行者之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Master%20Gao%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Master%20Gao%20beer)
+- [Google 图片](https://www.google.com/search?q=Master%20Gao%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

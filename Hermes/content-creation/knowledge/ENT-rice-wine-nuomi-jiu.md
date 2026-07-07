@@ -6,7 +6,11 @@ tags: [米酒, 糯米, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-zhaquan, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-tian-jiuniang]
+related: [ENT-rice-wine-tian-jiuniang, ENT-rice-wine-zhaquan, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu]
+related_typed: {ENT-rice-wine-tian-jiuniang: same_brand, ENT-rice-wine-zhaquan: same_brand, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: same_subcat}
+ratings:
+  vivino: {score: 4.6, votes: 19904}
+  csl: {score: 84, year: 2021}
 ---
 
 # 糯米酒
@@ -16,6 +20,12 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-zhaquan, ENT-rice-wine-ke
 ## 概述
 
 传统糯米酒，糯米酿造，口感甘甜醇厚，是中国南方家酿传统饮品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Glutinous%20Rice%20Wine%20rice_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Glutinous%20Rice%20Wine%20rice_wine)
+- [Google 图片](https://www.google.com/search?q=Glutinous%20Rice%20Wine%20rice_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-zhaquan, ENT-rice-wine-ke
 - **口感**：口感甘甜醇厚，米味突出
 - **余味**：余味甜润，带米香
 - **风味标签**：米香, 蜜糖, 甘甜
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.6 | 19904 |
+| 中国酒类鉴评 | 84 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

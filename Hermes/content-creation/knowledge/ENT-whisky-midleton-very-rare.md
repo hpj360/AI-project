@@ -6,7 +6,8 @@ tags: [威士忌, 爱尔兰, 调和威士忌, 限量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-jameson, ENT-whisky-redbreast-15, ENT-whisky-redbreast-12, ENT-whisky-green-spot, ENT-whisky-jameson-black-barrel]
+related: [ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-redbreast-12, ENT-whisky-redbreast-15, ENT-whisky-green-spot]
+related_typed: {ENT-whisky-jameson: same_region, ENT-whisky-jameson-black-barrel: same_region, ENT-whisky-redbreast-12: same_region, ENT-whisky-redbreast-15: same_region, ENT-whisky-green-spot: same_region}
 ratings:
   vivino: {score: 4.8, votes: 15534}
   whisky_fun: {score: 83, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 米德尔顿稀世，爱尔兰超高端调和威士忌，年度限量。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Midleton%20Very%20Rare%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Midleton%20Very%20Rare%20whisky)
+- [Google 图片](https://www.google.com/search?q=Midleton%20Very%20Rare%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

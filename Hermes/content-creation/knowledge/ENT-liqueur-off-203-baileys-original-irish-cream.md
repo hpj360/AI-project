@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, liqueur, 利口酒, Baileys]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-liqueur-off-206-cr-me-de-cassis-de-dijon, ENT-liqueur-off-208-aperol-3-4-offen, ENT-liqueur-off-205-baileys, ENT-liqueur-off-204-aperol, ENT-liqueur-off-207-campari]
+related: [ENT-liqueur-off-205-baileys, ENT-liqueur-off-204-aperol, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon, ENT-liqueur-off-207-campari, ENT-liqueur-off-208-aperol-3-4-offen]
+related_typed: {ENT-liqueur-off-205-baileys: same_brand, ENT-liqueur-off-204-aperol: cross_region, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon: cross_region, ENT-liqueur-off-207-campari: cross_region, ENT-liqueur-off-208-aperol-3-4-offen: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 49729}
   wine_enthusiast: {score: 91, year: 2023}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Baileys - Original Irish Cream（Baileys），产地 Ireland
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Baileys%20-%20Original%20Irish%20Cream%20liqueur%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Baileys%20-%20Original%20Irish%20Cream%20liqueur)
+- [Google 图片](https://www.google.com/search?q=Baileys%20-%20Original%20Irish%20Cream%20liqueur%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Baileys - Original Irish Cream
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：Baileys - Original Irish Cream（Baileys）�
 - **容量**：0,7 Liter
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：基酒、糖、水果/草药/香料
+- **酿造方法**：
+
+基酒浸泡或蒸馏加入风味物质，加糖调配至目标甜度和酒精度。
+- **陈酿方式**：通常不陈年
+
+## 风味描述
+
+- **颜色**：因原料而异
+- **香气**：原料风味主导
+- **口感**：甜润、原料风味
+- **余味**：甜润回甘
+- **风味标签**：甜润, 果香
 
 ## 评分奖项
 

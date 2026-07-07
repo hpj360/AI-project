@@ -7,6 +7,7 @@ status: active
 created: 2026-07-07
 updated: 2026-07-07
 related: [ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related_typed: {ENT-baijiu-luzhou-guojiao-1573: same_brand, ENT-baijiu-luzhou-touqu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 23102}
   csl: {score: 97, year: 2023}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 泸州老窖特曲，中华老字号，浓香型白酒经典代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Luzhou%20Laojiao%20Tequ%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Luzhou%20Laojiao%20Tequ%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Luzhou%20Laojiao%20Tequ%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -58,7 +65,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 23102 |
-| 中国白酒鉴评 | 97 | 2023 |
+| 中国酒类鉴评 | 97 | 2023 |
 
 ### 获奖记录
 

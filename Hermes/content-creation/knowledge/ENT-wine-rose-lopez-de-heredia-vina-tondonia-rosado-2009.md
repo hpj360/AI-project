@@ -6,7 +6,8 @@ tags: [桃红, 里奥哈, Gran Reserva, López de Heredia]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009, ENT-wine-rose-garrus-2018, ENT-wine-rose-muga-rosado-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-whispering-angel-2020]
+related: [ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009, ENT-wine-rose-muga-rosado-2020, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019]
+related_typed: {ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009: same_brand, ENT-wine-rose-muga-rosado-2020: same_region, ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: same_subcat}
 ratings:
   vivino: {score: 3.9, votes: 34565}
   parker: {score: 80, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 里奥哈传奇 López de Heredia，Gran Reserva 桃红长期桶陈。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=R.%20L%C3%B3pez%20de%20Heredia%20Vi%C3%B1a%20Tondonia%20Rosado%202009%20wine_rose%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/R.%20L%C3%B3pez%20de%20Heredia%20Vi%C3%B1a%20Tondonia%20Rosado%202009%20wine_rose)
+- [Google 图片](https://www.google.com/search?q=R.%20L%C3%B3pez%20de%20Heredia%20Vi%C3%B1a%20Tondonia%20Rosado%202009%20wine_rose%20bottle&tbm=isch)
 
 ## 基础信息
 

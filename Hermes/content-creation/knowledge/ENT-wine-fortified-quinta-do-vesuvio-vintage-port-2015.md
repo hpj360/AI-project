@@ -6,7 +6,8 @@ tags: [加强酒, 波特, 年份, 单一园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016]
+related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 32512}
   wine_spectator: {score: 92, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Vesuvio 单一园年份波特，辛明顿家族旗舰单一园。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Quinta%20do%20Vesuvio%20Vintage%20Port%202015%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Quinta%20do%20Vesuvio%20Vintage%20Port%202015%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Quinta%20do%20Vesuvio%20Vintage%20Port%202015%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

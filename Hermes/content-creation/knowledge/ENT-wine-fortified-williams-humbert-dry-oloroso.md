@@ -6,7 +6,8 @@ tags: [加强酒, 雪莉, Oloroso, Williams & Humbert]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-gonzalez-byass-tio-pepe-fino]
+related: [ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related_typed: {ENT-wine-fortified-gonzalez-byass-tio-pepe-fino: same_region, ENT-wine-fortified-lustau-palo-cortado-vors: same_region, ENT-wine-fortified-valdespino-tio-diego-amontillado: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 12881}
   wine_spectator: {score: 88, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Williams & Humbert 干型 Oloroso，氧化风格浓郁。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Williams%20%26%20Humbert%20Dry%20Oloroso%20Sherry%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Williams%20%26%20Humbert%20Dry%20Oloroso%20Sherry%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Williams%20%26%20Humbert%20Dry%20Oloroso%20Sherry%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

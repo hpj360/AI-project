@@ -6,7 +6,8 @@ tags: [伏特加, 法国, 灰雁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-grey-goose-le-citron, ENT-vodka-off-156-grey-goose-original, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-off-156-grey-goose-original, ENT-vodka-grey-goose-le-citron, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
+related_typed: {ENT-vodka-off-156-grey-goose-original: same_brand, ENT-vodka-grey-goose-le-citron: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 46946}
   wine_enthusiast: {score: 86, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 灰雁，法国高级伏特加，干邑区小麦酿造，泉水过滤。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Grey%20Goose%20Vodka%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Grey%20Goose%20Vodka%20vodka)
+- [Google 图片](https://www.google.com/search?q=Grey%20Goose%20Vodka%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, 菲利普, 朗姆, 蛋, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 16469}
+  diffords: {score: 4.39, year: 2023}
+  iba: {score: 5.0, year: 2021}
 ---
 
 # 朗姆菲利普
@@ -16,6 +21,12 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-rum-off-163-r
 ## 概述
 
 黑朗姆加蛋黄糖浆与豆蔻，温热醇厚的航海传统菲利普。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Rum%20Flip%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Rum%20Flip%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Rum%20Flip%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-rum-off-163-r
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 16469 |
+| Difford's Guide | 4.39 | 2023 |
+| IBA 推荐 | 5.0 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

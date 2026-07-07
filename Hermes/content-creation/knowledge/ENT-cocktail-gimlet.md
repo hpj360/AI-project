@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 新时代, 金酒, 青柠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+ratings:
+  vivino: {score: 3.8, votes: 23369}
+  diffords: {score: 4.0, year: 2023}
+  iba: {score: 3.5, year: 2020}
 ---
 
 # 吉姆雷特
@@ -16,6 +21,12 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sa
 ## 概述
 
 金酒配青柠汁与糖浆，简净酸甜的禁酒令风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gimlet%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Gimlet%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Gimlet%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sa
 | 苦 | 0 | ░░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 2 | ██░░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.8 | 23369 |
+| Difford's Guide | 4.0 | 2023 |
+| IBA 推荐 | 3.5 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

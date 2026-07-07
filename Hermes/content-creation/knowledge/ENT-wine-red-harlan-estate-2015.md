@@ -6,7 +6,8 @@ tags: [红酒, 纳帕谷, 美国, 膜拜酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-opus-one-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-screaming-eagle-2015]
+related: [ENT-wine-red-opus-one-2016, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-]
+related_typed: {ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-screaming-eagle-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 3676}
   parker: {score: 87, year: 2021}
@@ -26,6 +27,12 @@ awards:
 ## 概述
 
 纳帕膜拜酒代表，由 H. William Harlan 创立，追求一级园水准。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Harlan%20Estate%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Harlan%20Estate%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Harlan%20Estate%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

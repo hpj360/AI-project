@@ -6,7 +6,8 @@ tags: [红酒, 波尔多, 波美侯]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-le-pin-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-petrus-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine-red-levangile-2015]
+related: [ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-red-petrus-2015: same_brand, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 31984}
   parker: {score: 89, year: 2022}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 波美侯名庄，与柏图斯同地块，由 Moueix 家族管理。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20Trotanoy%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20Trotanoy%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20Trotanoy%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

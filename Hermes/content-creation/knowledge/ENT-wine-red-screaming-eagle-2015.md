@@ -6,7 +6,8 @@ tags: [红酒, 纳帕谷, 美国, 膜拜酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-opus-one-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-harlan-estate-2015]
+related: [ENT-wine-red-opus-one-2016, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-wine_red-off-003-adama: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 45241}
   parker: {score: 89, year: 2023}
@@ -25,6 +26,12 @@ awards:
 ## 概述
 
 美国膜拜酒之王，年产仅 500-800 箱，价格高昂。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Screaming%20Eagle%20Cabernet%20Sauvignon%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Screaming%20Eagle%20Cabernet%20Sauvignon%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Screaming%20Eagle%20Cabernet%20Sauvignon%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

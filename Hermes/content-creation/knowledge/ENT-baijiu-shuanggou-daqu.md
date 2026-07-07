@@ -6,7 +6,8 @@ tags: [白酒, 浓香, 江苏, 双沟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-wuliangye-1618, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
+related_typed: {ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
 ratings:
   vivino: {score: 4.7, votes: 26218}
   csl: {score: 83, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 双沟大曲，江苏浓香型名酒，中国名酒之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Shuanggou%20Daqu%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Shuanggou%20Daqu%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Shuanggou%20Daqu%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.7 | 26218 |
-| 中国白酒鉴评 | 83 | 2020 |
+| 中国酒类鉴评 | 83 | 2020 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

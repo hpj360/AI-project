@@ -6,7 +6,8 @@ tags: [伏特加, 俄罗斯, Kristall]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-stolichnaya, ENT-vodka-off-141-absolut-vodka, ENT-vodka-stolichnaya-soviet, ENT-vodka-off-142-poliakov, ENT-vodka-polugar]
+related: [ENT-vodka-stolichnaya, ENT-vodka-stolichnaya-soviet, ENT-vodka-polugar, ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona]
+related_typed: {ENT-vodka-stolichnaya: same_region, ENT-vodka-stolichnaya-soviet: same_region, ENT-vodka-polugar: same_region, ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 19710}
   wine_enthusiast: {score: 86, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Kristall，俄罗斯水晶伏特加，莫斯科水晶酒厂出品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Kristall%20Vodka%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Kristall%20Vodka%20vodka)
+- [Google 图片](https://www.google.com/search?q=Kristall%20Vodka%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 黑麦, 枫糖, 加拿大]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail, ENT-cocktail-baijiu-sour]
+related_typed: {ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat, ENT-cocktail-baijiu-sour: same_subcat}
+ratings:
+  vivino: {score: 4.6, votes: 26339}
+  diffords: {score: 4.17, year: 2022}
+  iba: {score: 4.3, year: 2021}
 ---
 
 # 自治领
@@ -16,6 +21,12 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 ## 概述
 
 黑麦配枫糖浆与安格仕苦精及干味美思，加拿大风情的甜润古典变体。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dominion%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dominion%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Dominion%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.6 | 26339 |
+| Difford's Guide | 4.17 | 2022 |
+| IBA 推荐 | 4.3 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

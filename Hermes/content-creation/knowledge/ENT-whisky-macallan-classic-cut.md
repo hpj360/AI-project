@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-glenfiddich-12, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-glenfiddich-15-solera]
+related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-15-solera]
+related_typed: {ENT-whisky-macallan-12-sherry-oak: same_brand, ENT-whisky-macallan-12-double-cask: same_brand, ENT-whisky-macallan-18-sherry-oak: same_brand, ENT-whisky-glenfiddich-12: same_region, ENT-whisky-glenfiddich-15-solera: same_region}
 ratings:
   vivino: {score: 4.8, votes: 18499}
   whisky_fun: {score: 92, year: 2022}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 麦卡伦经典切，年度限量版，原桶强度装瓶。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Macallan%20Classic%20Cut%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Macallan%20Classic%20Cut%20whisky)
+- [Google 图片](https://www.google.com/search?q=Macallan%20Classic%20Cut%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

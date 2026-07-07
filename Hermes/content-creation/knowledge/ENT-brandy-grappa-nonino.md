@@ -6,7 +6,8 @@ tags: [白兰地, 意大利, grappa, 葡萄渣]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-richard, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-xo]
+related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
+related_typed: {ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 ratings:
   vivino: {score: 3.9, votes: 14156}
   wine_enthusiast: {score: 81, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Nonino Grappa，意大利葡萄渣白兰地代表，柔顺优雅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Nonino%20Grappa%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Nonino%20Grappa%20brandy)
+- [Google 图片](https://www.google.com/search?q=Nonino%20Grappa%20brandy%20bottle&tbm=isch)
 
 ## 基础信息
 

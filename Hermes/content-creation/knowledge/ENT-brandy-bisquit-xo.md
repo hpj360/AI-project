@@ -6,7 +6,8 @@ tags: [白兰地, 干邑, 法国, 百事吉]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-richard, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-xo]
+related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
+related_typed: {ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region, ENT-brandy-hennessy-paradis: same_region, ENT-brandy-hennessy-richard: same_region}
 ratings:
   vivino: {score: 4.8, votes: 24027}
   wine_enthusiast: {score: 89, year: 2020}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 百事吉 XO，干邑 XO 经典，浓郁强劲风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bisquit%20XO%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bisquit%20XO%20brandy)
+- [Google 图片](https://www.google.com/search?q=Bisquit%20XO%20brandy%20bottle&tbm=isch)
 
 ## 基础信息
 

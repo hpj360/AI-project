@@ -6,7 +6,8 @@ tags: [龙舌兰, 墨西哥, Camarena, Reposado]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-off-186-tequila, ENT-tequila-off-183-tequila-gold, ENT-tequila-olmeca-altos-plata, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40]
+related: [ENT-tequila-olmeca-altos-plata, ENT-tequila-off-186-tequila, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado, ENT-tequila-off-188-tequila-estribos, ENT-tequila-off-189-tequila-0-35l]
+related_typed: {ENT-tequila-olmeca-altos-plata: same_region, ENT-tequila-off-186-tequila: cross_region, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado: cross_region, ENT-tequila-off-188-tequila-estribos: same_subcat, ENT-tequila-off-189-tequila-0-35l: same_subcat}
 ratings:
   vivino: {score: 3.9, votes: 23158}
   wine_enthusiast: {score: 78, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 懒虫 Camarena Reposado，家族陈年龙舌兰，柔顺易饮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Camarena%20Reposado%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Camarena%20Reposado%20tequila)
+- [Google 图片](https://www.google.com/search?q=Camarena%20Reposado%20tequila%20bottle&tbm=isch)
 
 ## 基础信息
 

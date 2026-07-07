@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 酸酒, 龙舌兰, 墨西哥]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-off-183-tequila-gold, ENT-cocktail-tequila-sunrise, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-sake-bomb, ENT-tequila-off-185-silver-tequila-40]
+related: [ENT-cocktail-tequila-sunrise, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-tequila-sunrise: same_region, ENT-tequila-off-183-tequila-gold: base_to_cocktail, ENT-tequila-off-184-sierra-tequila-silver: base_to_cocktail, ENT-tequila-off-185-silver-tequila-40: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+ratings:
+  vivino: {score: 3.9, votes: 33225}
+  diffords: {score: 4.02, year: 2022}
+  iba: {score: 3.6, year: 2022}
 ---
 
 # 玛格丽特
@@ -16,6 +21,12 @@ related: [ENT-tequila-off-183-tequila-gold, ENT-cocktail-tequila-sunrise, ENT-te
 ## 概述
 
 龙舌兰配青柠汁与君度，杯口盐边，墨西哥国酒级鸡尾酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Margarita%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Margarita%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Margarita%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-tequila-off-183-tequila-gold, ENT-cocktail-tequila-sunrise, ENT-te
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.9 | 33225 |
+| Difford's Guide | 4.02 | 2022 |
+| IBA 推荐 | 3.6 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

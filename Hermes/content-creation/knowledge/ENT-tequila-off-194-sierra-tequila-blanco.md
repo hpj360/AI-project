@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, tequila, 龙舌兰, Sierra]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-off-191-tequila-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-200-t-quila-blanco, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40]
+related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-191-tequila-blanco, ENT-tequila-off-185-silver-tequila-40, ENT-tequila-off-200-t-quila-blanco, ENT-tequila-off-184-sierra-tequila-silver]
+related_typed: {ENT-tequila-off-183-tequila-gold: same_brand, ENT-tequila-off-191-tequila-blanco: same_brand, ENT-tequila-off-185-silver-tequila-40: cross_region, ENT-tequila-off-200-t-quila-blanco: cross_region, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
 ratings:
   vivino: {score: 3.8, votes: 28266}
   wine_enthusiast: {score: 80, year: 2022}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Sierra Tequila Blanco（Sierra）
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sierra%20Tequila%20Blanco%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sierra%20Tequila%20Blanco%20tequila)
+- [Google 图片](https://www.google.com/search?q=Sierra%20Tequila%20Blanco%20tequila%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Sierra Tequila Blanco
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：Sierra Tequila Blanco（Sierra）
 - **容量**：0.7l
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：蓝色韦伯龙舌兰心、水、酵母
+- **酿造方法**：
+
+龙舌兰心烘焙释放糖分，榨汁发酵后双重蒸馏，部分橡木桶陈年。
+- **陈酿方式**：Blanco 不陈年，Reposado/Añejo 橡木桶陈年
+
+## 风味描述
+
+- **颜色**：无色至金黄
+- **香气**：龙舌兰、草本
+- **口感**：龙舌兰、胡椒、柑橘
+- **余味**：草本回甘
+- **风味标签**：龙舌兰, 草本, 胡椒
 
 ## 评分奖项
 

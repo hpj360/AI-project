@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 岛屿区]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-highland-park-12, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-245-monkey-shoulder]
+related: [ENT-whisky-highland-park-12, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black]
+related_typed: {ENT-whisky-highland-park-12: same_brand, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat, ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 38594}
   whisky_fun: {score: 90, year: 2023}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 高原骑士 18 年，超高端均衡威士忌，多次获奖。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Highland%20Park%2018%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Highland%20Park%2018%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Highland%20Park%2018%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

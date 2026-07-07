@@ -6,7 +6,8 @@ tags: [朗姆酒, 哥伦比亚, Dictador]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-rum-off-167-spiced-rum, ENT-rum-off-169-caribbean-rum-with-coconut-flavour, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour, ENT-rum-off-171-saint-james, ENT-rum-off-172-rhum-blanc-agricole]
+related_typed: {ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-171-saint-james: same_subcat, ENT-rum-off-172-rhum-blanc-agricole: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 8752}
   wine_enthusiast: {score: 87, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Dictador，哥伦比亚陈年朗姆，咖啡豆香气独特。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dictador%20Rum%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dictador%20Rum%20rum)
+- [Google 图片](https://www.google.com/search?q=Dictador%20Rum%20rum%20bottle&tbm=isch)
 
 ## 基础信息
 

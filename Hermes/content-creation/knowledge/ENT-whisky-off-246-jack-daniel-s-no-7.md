@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, whisky, 威士忌, Jack daniel s]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-245-monkey-shoulder]
+related: [ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-off-253-william-peel, ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards]
+related_typed: {ENT-whisky-off-245-monkey-shoulder: cross_region, ENT-whisky-off-252-black-barrel-whisky-40: cross_region, ENT-whisky-off-253-william-peel: cross_region, ENT-whisky-off-247-whisky-old-n-7: same_subcat, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 36194}
   whisky_fun: {score: 87, year: 2020}
@@ -21,6 +22,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Jack Daniel's No.7（Jack daniel s）
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jack%20Daniel%27s%20No.7%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jack%20Daniel%27s%20No.7%20whisky)
+- [Google 图片](https://www.google.com/search?q=Jack%20Daniel%27s%20No.7%20whisky%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Jack Daniel's No.7
@@ -33,6 +40,22 @@ OpenFoodFacts 真实产品数据：Jack Daniel's No.7（Jack daniel s）
 - **容量**：1 L
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：谷物（大麦/玉米/黑麦/小麦）、水、酵母
+- **酿造方法**：
+
+谷物发芽/未发芽糖化后发酵，壶式蒸馏器双重蒸馏，入橡木桶陈年至少 3 年。
+- **陈酿方式**：橡木桶陈年（波本桶/雪莉桶/波特桶等）
+
+## 风味描述
+
+- **颜色**：琥珀金色
+- **香气**：麦芽、橡木、香草
+- **口感**：橡木、麦芽、微甜
+- **余味**：橡木回甘
+- **风味标签**：橡木, 麦芽, 香草
 
 ## 评分奖项
 

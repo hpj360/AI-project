@@ -6,7 +6,8 @@ tags: [红酒, 澳洲, 设拉子, 猎人谷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino]
+related_typed: {ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 21985}
   parker: {score: 89, year: 2021}
@@ -26,6 +27,12 @@ awards:
 ## 概述
 
 猎人谷经典设拉子，由 Brokenwood 出品，风格冷凉优雅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Brokenwood%20Graveyard%20Shiraz%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Brokenwood%20Graveyard%20Shiraz%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Brokenwood%20Graveyard%20Shiraz%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

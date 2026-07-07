@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 当代经典, 龙舌兰, 渐变]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-margarita, ENT-cocktail-sake-bomb, ENT-tequila-off-185-silver-tequila-40]
+related: [ENT-cocktail-margarita, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-margarita: same_region, ENT-tequila-off-183-tequila-gold: base_to_cocktail, ENT-tequila-off-184-sierra-tequila-silver: base_to_cocktail, ENT-tequila-off-185-silver-tequila-40: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 48483}
+  diffords: {score: 4.28, year: 2023}
+  iba: {score: 4.9, year: 2020}
 ---
 
 # 龙舌兰日出
@@ -16,6 +21,12 @@ related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-s
 ## 概述
 
 龙舌兰配橙汁与红石榴糖浆，渐变出日出色彩。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Tequila%20Sunrise%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Tequila%20Sunrise%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Tequila%20Sunrise%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-s
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 48483 |
+| Difford's Guide | 4.28 | 2023 |
+| IBA 推荐 | 4.9 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

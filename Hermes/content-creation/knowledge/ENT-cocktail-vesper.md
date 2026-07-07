@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 新时代, 金酒, 伏特加, 邦德]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire, ENT-cocktail-earl-grey-martini, ENT-vodka-off-141-absolut-vodka, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-gimlet]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-gimlet: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 40415}
+  diffords: {score: 4.25, year: 2020}
+  iba: {score: 4.7, year: 2020}
 ---
 
 # 维斯帕
@@ -16,6 +21,12 @@ related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire, ENT-cocktail-earl-grey-m
 ## 概述
 
 金酒配伏特加与 Lillet，007 邦德标志性鸡尾酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Vesper%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Vesper%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Vesper%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-gimlet, ENT-gin-bombay-sapphire, ENT-cocktail-earl-grey-m
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 40415 |
+| Difford's Guide | 4.25 | 2020 |
+| IBA 推荐 | 4.7 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

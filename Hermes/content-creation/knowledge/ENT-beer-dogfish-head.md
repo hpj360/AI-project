@@ -6,7 +6,8 @@ tags: [啤酒, 美国, 角鲨头, IPA, 精酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 29643}
   ratebeer: {score: 89, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 角鲨头啤酒，美式精酿先锋品牌，以 60 Minute IPA 与持续啤酒花投料著称。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dogfish%20Head%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dogfish%20Head%20beer)
+- [Google 图片](https://www.google.com/search?q=Dogfish%20Head%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

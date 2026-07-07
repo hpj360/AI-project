@@ -6,7 +6,8 @@ tags: [清酒, 日本, 发泡, 澪, 三重]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-096-cooking-sake, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-098-sake]
+related: [ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux, ENT-sake-off-102-sake-de-cuisine]
+related_typed: {ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: cross_region, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat, ENT-sake-off-102-sake-de-cuisine: same_subcat}
 ratings:
   vivino: {score: 4.5, votes: 35703}
   sake_revue: {score: 81, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 三重澪发泡清酒，宝酒造出品，气泡细腻甜润，是日本最畅销的发泡清酒之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mio%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Mio%20sake)
+- [Google 图片](https://www.google.com/search?q=Mio%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

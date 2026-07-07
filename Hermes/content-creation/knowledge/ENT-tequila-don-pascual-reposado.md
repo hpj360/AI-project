@@ -6,7 +6,8 @@ tags: [龙舌兰, 墨西哥, Don Pascual, Reposado]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-don-julio-reposado, ENT-tequila-herradura-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-herradura-reposado]
+related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-herradura-reposado: same_region}
 ratings:
   vivino: {score: 4.5, votes: 14364}
   wine_enthusiast: {score: 82, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 雷波萨多 Don Pascual Reposado，橡木桶陈酿龙舌兰，香草柔顺。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Don%20Pascual%20Reposado%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Don%20Pascual%20Reposado%20tequila)
+- [Google 图片](https://www.google.com/search?q=Don%20Pascual%20Reposado%20tequila%20bottle&tbm=isch)
 
 ## 基础信息
 

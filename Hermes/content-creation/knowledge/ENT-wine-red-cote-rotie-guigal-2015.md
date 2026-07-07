@@ -6,7 +6,8 @@ tags: [红酒, 罗讷河谷, 北罗讷, 西拉]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-gerin-cote-rotie-2015, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-003-adama]
+related: [ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine-red-gerin-cote-rotie-2015, ENT-wine_red-off-003-adama, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza]
+related_typed: {ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_brand, ENT-wine-red-gerin-cote-rotie-2015: same_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 3361}
   parker: {score: 86, year: 2023}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 北罗讷三单一园之一 La Mouline，西拉加少量维欧尼，香气华丽。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=E.%20Guigal%20C%C3%B4te-R%C3%B4tie%20La%20Mouline%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/E.%20Guigal%20C%C3%B4te-R%C3%B4tie%20La%20Mouline%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=E.%20Guigal%20C%C3%B4te-R%C3%B4tie%20La%20Mouline%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

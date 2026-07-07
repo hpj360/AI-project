@@ -6,7 +6,11 @@ tags: [黄酒, 绍兴, 会稽山]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-huadiao]
+related: [ENT-yellow-wine-kuaijishan-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y]
+related_typed: {ENT-yellow-wine-kuaijishan-huangjiu: same_brand, ENT-yellow-wine-guyue-longshan-10y: same_region, ENT-yellow-wine-guyue-longshan-20y: same_region, ENT-yellow-wine-guyue-longshan-30y: same_region, ENT-yellow-wine-guyue-longshan-50y: same_region}
+ratings:
+  vivino: {score: 3.9, votes: 38343}
+  csl: {score: 79, year: 2020}
 ---
 
 # 会稽山
@@ -16,6 +20,12 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 ## 概述
 
 绍兴会稽山黄酒，传统绍兴酒代表品牌，淡丽清爽风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Kuaijishan%20yellow_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Kuaijishan%20yellow_wine)
+- [Google 图片](https://www.google.com/search?q=Kuaijishan%20yellow_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 - **口感**：口感清爽，米味突出，甜度低
 - **余味**：余味干净，带米香
 - **风味标签**：米香, 清爽, 坚果
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.9 | 38343 |
+| 中国酒类鉴评 | 79 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

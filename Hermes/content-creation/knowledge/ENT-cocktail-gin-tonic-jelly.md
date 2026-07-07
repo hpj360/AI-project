@@ -6,7 +6,14 @@ tags: [鸡尾酒, 分子, 胶化, 金酒, 果冻]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bombay-sapphire, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 34054}
+  diffords: {score: 4.45, year: 2021}
+  iba: {score: 5.0, year: 2021}
+awards:
+  - {name: IBA World Competition Gold, year: 2023, org: IBA World Competition}
 ---
 
 # 金汤力果冻
@@ -16,6 +23,12 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bom
 ## 概述
 
 以琼脂将金汤力胶化为果冻，弹性质地释放金酒杜松芳香。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gin%20%26%20Tonic%20Jelly%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Gin%20%26%20Tonic%20Jelly%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Gin%20%26%20Tonic%20Jelly%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -84,6 +97,20 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bom
 | 苦 | 3 | ███░░ |
 | 烈 | 1 | █░░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 34054 |
+| Difford's Guide | 4.45 | 2021 |
+| IBA 推荐 | 5.0 | 2021 |
+
+### 获奖记录
+
+- **2023** IBA World Competition Gold
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

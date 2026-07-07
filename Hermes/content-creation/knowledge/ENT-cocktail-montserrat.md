@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 金酒, 查特酒, 番石榴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire-east]
+related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
+related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
+ratings:
+  vivino: {score: 4.4, votes: 27575}
+  diffords: {score: 4.13, year: 2020}
+  iba: {score: 4.1, year: 2020}
 ---
 
 # 蒙特塞拉特
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 ## 概述
 
 金酒配查特酒与番石榴糖浆青柠，加勒比风情的草本酸甜特调。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Montserrat%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Montserrat%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Montserrat%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 27575 |
+| Difford's Guide | 4.13 | 2020 |
+| IBA 推荐 | 4.1 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

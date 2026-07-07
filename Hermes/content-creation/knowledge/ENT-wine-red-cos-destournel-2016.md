@@ -6,7 +6,8 @@ tags: [红酒, 波尔多, 圣埃斯泰夫]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
+related_typed: {ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-004-pinot-noir: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 ratings:
   vivino: {score: 3.9, votes: 41140}
   parker: {score: 80, year: 2022}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 圣埃斯泰夫顶级二级庄，风格浓郁，东方式宫殿建筑。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20Cos%20d%27Estournel%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20Cos%20d%27Estournel%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20Cos%20d%27Estournel%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

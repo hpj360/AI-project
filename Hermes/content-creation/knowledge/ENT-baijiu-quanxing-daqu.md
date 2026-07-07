@@ -6,7 +6,8 @@ tags: [白酒, 浓香, 四川, 全兴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-shuijingfang-zhenniang-8, ENT-baijiu-moutai-feitian-53, ENT-baijiu-shuijingfang-jingtai, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-shuijingfang-zhenniang-8, ENT-baijiu-shuijingfang-jingtai, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
+related_typed: {ENT-baijiu-shuijingfang-zhenniang-8: same_region, ENT-baijiu-shuijingfang-jingtai: same_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 ratings:
   vivino: {score: 4.1, votes: 29604}
   csl: {score: 79, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 全兴大曲，四川浓香型名酒，老八大名酒之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Quanxing%20Daqu%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Quanxing%20Daqu%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Quanxing%20Daqu%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.1 | 29604 |
-| 中国白酒鉴评 | 79 | 2020 |
+| 中国酒类鉴评 | 79 | 2020 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

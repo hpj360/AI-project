@@ -6,7 +6,8 @@ tags: [白酒, 酱香, 贵州, 茅台]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-diaoyutai-guobin, ENT-baijiu-moutai-feitian-53, ENT-baijiu-laimao-chuancheng, ENT-baijiu-guotai-guobiao, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-yingbin, ENT-baijiu-laimao-chuancheng, ENT-baijiu-diaoyutai-guobin, ENT-baijiu-guotai-guobiao]
+related_typed: {ENT-baijiu-moutai-feitian-53: same_brand, ENT-baijiu-moutai-yingbin: same_brand, ENT-baijiu-laimao-chuancheng: same_brand, ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-guotai-guobiao: same_region}
 ratings:
   vivino: {score: 4.8, votes: 32209}
   csl: {score: 88, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 茅台旗下中端酱香白酒，承袭茅台工艺，性价比之选。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Moutai%20Prince%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Moutai%20Prince%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Moutai%20Prince%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 32209 |
-| 中国白酒鉴评 | 88 | 2023 |
+| 中国酒类鉴评 | 88 | 2023 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

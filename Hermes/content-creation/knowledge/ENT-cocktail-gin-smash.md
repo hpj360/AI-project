@@ -6,7 +6,15 @@ tags: [鸡尾酒, 斯马修, 金酒, 薄荷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire-east]
+related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
+related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 23966}
+  diffords: {score: 4.47, year: 2023}
+  iba: {score: 5.0, year: 2020}
+awards:
+  - {name: Tales of the Cocktail Best Cocktail, year: 2019, org: Tales of the Cocktail}
+  - {name: IBA World Competition Gold, year: 2019, org: IBA World Competition}
 ---
 
 # 金酒斯马修
@@ -16,6 +24,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 ## 概述
 
 金酒配薄荷柠檬与糖碎冰，杜松子与薄荷交织的清凉短饮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gin%20Smash%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Gin%20Smash%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Gin%20Smash%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +93,21 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 23966 |
+| Difford's Guide | 4.47 | 2023 |
+| IBA 推荐 | 5.0 | 2020 |
+
+### 获奖记录
+
+- **2019** Tales of the Cocktail Best Cocktail
+- **2019** IBA World Competition Gold
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

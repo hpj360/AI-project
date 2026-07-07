@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 伯爵茶, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-pegu-club-cocktail, ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-gin-gin-mule, ENT-gin-bombay-sapphire-east]
+related: [ENT-cocktail-gin-gin-mule, ENT-cocktail-pegu-club-cocktail, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins]
+related_typed: {ENT-cocktail-gin-gin-mule: same_brand, ENT-cocktail-pegu-club-cocktail: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region}
+ratings:
+  vivino: {score: 3.9, votes: 48662}
+  diffords: {score: 4.01, year: 2022}
+  iba: {score: 3.6, year: 2022}
 ---
 
 # 伯爵茶马天尼
@@ -16,6 +21,12 @@ related: [ENT-cocktail-pegu-club-cocktail, ENT-cocktail-whiskey-sour, ENT-cockta
 ## 概述
 
 金酒配伯爵茶与柠檬蛋白，Audrey Saunders 的茶香酸酒变体。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Earl%20Grey%20MarTEAni%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Earl%20Grey%20MarTEAni%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Earl%20Grey%20MarTEAni%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-pegu-club-cocktail, ENT-cocktail-whiskey-sour, ENT-cockta
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.9 | 48662 |
+| Difford's Guide | 4.01 | 2022 |
+| IBA 推荐 | 3.6 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, 分子, 真空低温, 金酒, 萃取]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bombay-sapphire, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
+ratings:
+  vivino: {score: 4.1, votes: 24005}
+  diffords: {score: 4.06, year: 2020}
+  iba: {score: 3.8, year: 2020}
 ---
 
 # 真空低温尼格罗尼
@@ -16,6 +21,12 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bom
 ## 概述
 
 以真空低温慢煮尼格罗尼三原料，融合苦甜草本的深度萃取版。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sous%20Vide%20Negroni%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sous%20Vide%20Negroni%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Sous%20Vide%20Negroni%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -83,6 +94,16 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-gin-bom
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.1 | 24005 |
+| Difford's Guide | 4.06 | 2020 |
+| IBA 推荐 | 3.8 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

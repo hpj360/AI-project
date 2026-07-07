@@ -6,7 +6,8 @@ tags: [白酒, 酱香, 四川, 郎酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-langjiu-honghualang-10, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-langjiu-honghualang-10, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu]
+related_typed: {ENT-baijiu-langjiu-honghualang-10: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 22443}
   csl: {score: 88, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 青花郎，郎酒超高端酱香，与茅台并称赤水河双雄。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Qinghualang%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Qinghualang%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Qinghualang%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 22443 |
-| 中国白酒鉴评 | 88 | 2023 |
+| 中国酒类鉴评 | 88 | 2023 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

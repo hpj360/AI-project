@@ -6,7 +6,12 @@ tags: [鸡尾酒, 亚洲, 茶, 茉莉花茶, 中国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
+related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 32868}
+  diffords: {score: 4.36, year: 2021}
+  iba: {score: 5.0, year: 2020}
 ---
 
 # 茉莉花茶鸡尾酒
@@ -16,6 +21,12 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka
 ## 概述
 
 茉莉花茶浸渍伏特加配蜂蜜青柠，东方花香与蜂蜜清甜的茶韵鸡尾酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jasmine%20Tea%20Cocktail%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jasmine%20Tea%20Cocktail%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Jasmine%20Tea%20Cocktail%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 32868 |
+| Difford's Guide | 4.36 | 2021 |
+| IBA 推荐 | 5.0 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

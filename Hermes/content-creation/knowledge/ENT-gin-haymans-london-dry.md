@@ -6,7 +6,8 @@ tags: [金酒, 伦敦干, 英国, 希克林]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-haymans-old-tom, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-haymans-old-tom, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower]
+related_typed: {ENT-gin-haymans-old-tom: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region}
 ratings:
   vivino: {score: 4.3, votes: 2691}
   wine_enthusiast: {score: 82, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 希克林伦敦干，家族 5 代传承，10 种植物经典配方。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hayman%27s%20London%20Dry%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hayman%27s%20London%20Dry%20gin)
+- [Google 图片](https://www.google.com/search?q=Hayman%27s%20London%20Dry%20gin%20bottle&tbm=isch)
 
 ## 基础信息
 

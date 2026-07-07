@@ -1,6 +1,6 @@
 # 知识库全局索引
 
-> content-creation 酒类知识库 | 共 1193 条目 | 由 render_kb.py 维护
+> content-creation 酒类知识库 | 共 1253 条目 | 由 render_kb.py 维护
 
 ## 白酒（60）
 
@@ -885,45 +885,70 @@
 - [天狗舞](./ENT-sake-tengumai.md) | 清酒 | 日本
 - [东条纪尾井町](./ENT-sake-tojo-kioicho.md) | 清酒 | 日本
 
-## 黄酒（20）
+## 黄酒（30）
 
+- [丹阳黄酒](./ENT-yellow-wine-danyang-huangjiu.md) | 黄酒 | 丹阳
+- [福建老酒](./ENT-yellow-wine-fujian-laojiu.md) | 黄酒 | 福建
 - [古越龙山 10年陈酿](./ENT-yellow-wine-guyue-longshan-10y.md) | 黄酒 | 绍兴
 - [古越龙山 20年陈酿](./ENT-yellow-wine-guyue-longshan-20y.md) | 黄酒 | 绍兴
 - [古越龙山 30年陈酿](./ENT-yellow-wine-guyue-longshan-30y.md) | 黄酒 | 绍兴
 - [古越龙山 50年陈酿](./ENT-yellow-wine-guyue-longshan-50y.md) | 黄酒 | 绍兴
 - [古越龙山 醇雕](./ENT-yellow-wine-guyue-longshan-chundiao.md) | 黄酒 | 绍兴
 - [古越龙山 花雕酒](./ENT-yellow-wine-guyue-longshan-huadiao.md) | 黄酒 | 绍兴
+- [黑米黄酒](./ENT-yellow-wine-heimi-huangjiu.md) | 黄酒 | 黑米
 - [和酒](./ENT-yellow-wine-hejiu.md) | 黄酒 | 上海
+- [江西封缸酒](./ENT-yellow-wine-jiangxi-fenggang.md) | 黄酒 | 江西
+- [嘉兴黄酒](./ENT-yellow-wine-jiaxing-huangjiu.md) | 黄酒 | 嘉兴
 - [即墨老酒](./ENT-yellow-wine-jimo-laoliu.md) | 黄酒 | 即墨
+- [即墨老酒](./ENT-yellow-wine-jimo-laoliu-huangjiu.md) | 黄酒 | 即墨
 - [金色年华](./ENT-yellow-wine-jinsenianhua.md) | 黄酒 | 上海
 - [会稽山](./ENT-yellow-wine-kuaijishan.md) | 黄酒 | 绍兴
+- [会稽山黄酒](./ENT-yellow-wine-kuaijishan-huangjiu.md) | 黄酒 | 绍兴
 - [练塘](./ENT-yellow-wine-liantang.md) | 黄酒 | 上海
+- [临沂老酒](./ENT-yellow-wine-linyi-laojiu.md) | 黄酒 | 临沂
 - [女儿红](./ENT-yellow-wine-nu-er-hong.md) | 黄酒 | 绍兴
 - [糯优黄](./ENT-yellow-wine-nuoyouhuang.md) | 黄酒 | 江南
+- [沙洲优黄](./ENT-yellow-wine-shazhou-youhuang-huangjiu.md) | 黄酒 | 张家港
 - [沙洲优黄](./ENT-yellow-wine-shazhouyouhuang.md) | 黄酒 | 张家港
 - [沈永和](./ENT-yellow-wine-shenyonghe.md) | 黄酒 | 绍兴
 - [石库门](./ENT-yellow-wine-shikumen.md) | 黄酒 | 上海
 - [塔牌](./ENT-yellow-wine-tapai.md) | 黄酒 | 绍兴
+- [塔牌黄酒](./ENT-yellow-wine-tapai-huangjiu.md) | 黄酒 | 绍兴
 - [咸亨](./ENT-yellow-wine-xianheng.md) | 黄酒 | 绍兴
 - [锡山](./ENT-yellow-wine-xishan.md) | 黄酒 | 无锡
 - [西塘老酒](./ENT-yellow-wine-xitang-laojiu.md) | 黄酒 | 嘉善
 
-## 米酒（15）
+## 米酒（30）
 
+- [日本甘酒](./ENT-rice-wine-amazake.md) | 米酒 | 日本
 - [长乐烧](./ENT-rice-wine-changle-shao.md) | 米酒 | 米香型白酒
+- [福建老酒](./ENT-rice-wine-fujian-laojiu.md) | 米酒 | 福建
+- [广东老米酒](./ENT-rice-wine-guangdong-lao-mijiu.md) | 米酒 | 广东
 - [广东米酒](./ENT-rice-wine-guangdong-mijiu.md) | 米酒 | 广东
 - [桂林三花酒](./ENT-rice-wine-guilin-sanhua.md) | 米酒 | 米香型白酒
+- [桂林三花米酒](./ENT-rice-wine-guilin-sanhua-mijiu.md) | 米酒 | 桂林
 - [黑糯米酒](./ENT-rice-wine-hei-nuomi-jiu.md) | 米酒 | 黑糯米
 - [红荔牌红米酒](./ENT-rice-wine-hongli-hongmi.md) | 米酒 | 广东
 - [红曲酒](./ENT-rice-wine-hongqu-jiu.md) | 米酒 | 红曲
 - [惠泉酒](./ENT-rice-wine-huiquan.md) | 米酒 | 无锡
 - [湖南米酒](./ENT-rice-wine-hunan-mijiu.md) | 米酒 | 湖南
+- [韩国梨花酒](./ENT-rice-wine-ihwaju.md) | 米酒 | 韩国
+- [印尼米酒](./ENT-rice-wine-indonesia-brem.md) | 米酒 | 印尼
 - [江西米酒](./ENT-rice-wine-jiangxi-mijiu.md) | 米酒 | 江西
 - [九江双蒸酒](./ENT-rice-wine-jiujiang-shuangzheng.md) | 米酒 | 广东
 - [客家米酒](./ENT-rice-wine-kejia-mijiu.md) | 米酒 | 客家
+- [客家娘酒](./ENT-rice-wine-kejia-niangjiu.md) | 米酒 | 客家
+- [韩国马格利](./ENT-rice-wine-makgeolli.md) | 米酒 | 韩国
 - [糯米酒](./ENT-rice-wine-nuomi-jiu.md) | 米酒 | 糯米
+- [桂花米酒](./ENT-rice-wine-osmanthus.md) | 米酒 | 桂花
+- [蜜桃米酒](./ENT-rice-wine-peach.md) | 米酒 | 果味
+- [绍兴米酒](./ENT-rice-wine-shaoxing-mijiu.md) | 米酒 | 绍兴
+- [气泡米酒](./ENT-rice-wine-sparkling.md) | 米酒 | 气泡
+- [泰国米酒](./ENT-rice-wine-thai-sato.md) | 米酒 | 泰国
 - [甜酒酿](./ENT-rice-wine-tian-jiuniang.md) | 米酒 | 甜酒酿
+- [越南米酒](./ENT-rice-wine-vietnam-ruou-nep.md) | 米酒 | 越南
 - [孝感米酒](./ENT-rice-wine-xiaogan-mijiu.md) | 米酒 | 孝感
+- [韩国清米酒](./ENT-rice-wine-yakju.md) | 米酒 | 韩国
 - [扎泉酒](./ENT-rice-wine-zhaquan.md) | 米酒 | 扎泉
 
 ## 啤酒（65）
@@ -994,17 +1019,28 @@
 - [燕京啤酒](./ENT-beer-yanjing.md) | 啤酒 | 中国
 - [雪树啤酒](./ENT-beer-zubr.md) | 啤酒 | 波兰
 
-## 果酒（25）
+## 果酒（36）
 
+- [杏子酒](./ENT-fruit-wine-apricot.md) | 果酒 | 杏子
+- [黑樱桃酒](./ENT-fruit-wine-black-cherry.md) | 果酒 | 黑樱桃
+- [黑加仑酒](./ENT-fruit-wine-blackcurrant.md) | 果酒 | 黑加仑
 - [樱桃酒](./ENT-fruit-wine-cherry-wine.md) | 果酒 | 樱桃
 - [千代结梅酒](./ENT-fruit-wine-chiyomusubi-umeshu.md) | 果酒 | 梅酒
 - [俏雅梅酒](./ENT-fruit-wine-choya-umeshu.md) | 果酒 | 梅酒
+- [蔓越莓酒](./ENT-fruit-wine-cranberry.md) | 果酒 | 蔓越莓
 - [火龙果酒](./ENT-fruit-wine-dragon-fruit-wine.md) | 果酒 | 火龙果
+- [无花果酒](./ENT-fruit-wine-fig.md) | 果酒 | 无花果
 - [水果味葡萄酒](./ENT-fruit-wine-fruit-flavored-wine.md) | 果酒 | 水果味
+- [醋栗酒](./ENT-fruit-wine-gooseberry.md) | 果酒 | 醋栗
 - [猕猴桃酒](./ENT-fruit-wine-kiwi-wine.md) | 果酒 | 猕猴桃
 - [青柠酒](./ENT-fruit-wine-lime-wine.md) | 果酒 | 青柠
 - [荔枝酒](./ENT-fruit-wine-litchi-wine.md) | 果酒 | 荔枝
+- [芒果酒](./ENT-fruit-wine-mango.md) | 果酒 | 芒果
 - [中谷梅酒](./ENT-fruit-wine-nakatani-umeshu.md) | 果酒 | 梅酒
+- [菠萝酒](./ENT-fruit-wine-pineapple.md) | 果酒 | 菠萝
+- [李子酒](./ENT-fruit-wine-plum.md) | 果酒 | 李子
+- [石榴酒](./ENT-fruit-wine-pomegranate.md) | 果酒 | 石榴
+- [树莓酒](./ENT-fruit-wine-raspberry.md) | 果酒 | 树莓
 - [Rekorderlig 西打酒](./ENT-fruit-wine-rekorderlig.md) | 果酒 | 西打酒
 - [桑葚酒](./ENT-fruit-wine-sangshen-jiu.md) | 果酒 | 桑葚
 - [Somersby 西打酒](./ENT-fruit-wine-somersby.md) | 果酒 | 西打酒
@@ -1021,6 +1057,33 @@
 - [Chaucer's 蜂蜜酒](./ENT-mead-chaucer-mead.md) | 蜂蜜酒 | 美国
 - [蜂蜜酒](./ENT-mead-chinese-traditional.md) | 蜂蜜酒 | 中国
 - [波兰蜂蜜酒](./ENT-mead-polish-mead.md) | 蜂蜜酒 | 波兰
+
+## 蜂蜜酒（24）
+
+- [黑莓蜂蜜酒](./ENT-mead-blackberry.md) | 蜂蜜酒 | 英国
+- [蓝莓蜂蜜酒](./ENT-mead-blueberry.md) | 蜂蜜酒 | 美国
+- [麦芽蜂蜜酒](./ENT-mead-braggot.md) | 蜂蜜酒 | 英国
+- [香槟法蜂蜜酒](./ENT-mead-champagne-method.md) | 蜂蜜酒 | 法国
+- [长白山蜂蜜酒](./ENT-mead-changbaishan-honey.md) | 蜂蜜酒 | 中国
+- [樱桃蜂蜜酒](./ENT-mead-cherry.md) | 蜂蜜酒 | 法国
+- [肉桂蜂蜜酒](./ENT-mead-cinnamon.md) | 蜂蜜酒 | 美国
+- [丁香蜂蜜酒](./ENT-mead-clove.md) | 蜂蜜酒 | 美国
+- [苹果蜂蜜酒](./ENT-mead-cyser.md) | 蜂蜜酒 | 英国
+- [姜蜂蜜酒](./ENT-mead-ginger.md) | 蜂蜜酒 | 英国
+- [黄山蜂蜜酒](./ENT-mead-huangshan-honey.md) | 蜂蜜酒 | 中国
+- [意大利起泡蜂蜜酒](./ENT-mead-italian-sparkling.md) | 蜂蜜酒 | 意大利
+- [水果蜂蜜酒](./ENT-mead-melomel.md) | 蜂蜜酒 | 英国
+- [桑葚蜂蜜酒](./ENT-mead-mulberry.md) | 蜂蜜酒 | 中国
+- [桃子蜂蜜酒](./ENT-mead-peach.md) | 蜂蜜酒 | 美国
+- [葡萄蜂蜜酒](./ENT-mead-pyment.md) | 蜂蜜酒 | 法国
+- [秦岭蜂蜜酒](./ENT-mead-qinling-honey.md) | 蜂蜜酒 | 中国
+- [神农蜂蜜酒](./ENT-mead-shennong-honey.md) | 蜂蜜酒 | 中国
+- [起泡蜂蜜酒](./ENT-mead-sparkling.md) | 蜂蜜酒 | 美国
+- [草莓蜂蜜酒](./ENT-mead-strawberry.md) | 蜂蜜酒 | 美国
+- [埃塞俄比亚蜂蜜酒](./ENT-mead-tej.md) | 蜂蜜酒 | 埃塞俄比亚
+- [传统蜂蜜酒](./ENT-mead-traditional.md) | 蜂蜜酒 | 英国
+- [香草蜂蜜酒](./ENT-mead-vanilla.md) | 蜂蜜酒 | 法国
+- [云南野蜂蜜酒](./ENT-mead-yunnan-wild-honey.md) | 蜂蜜酒 | 中国
 
 ## 鸡尾酒（230）
 

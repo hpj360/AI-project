@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 安格仕苦精, 酸酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-red-hook]
+related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
+related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 16204}
+  diffords: {score: 4.25, year: 2021}
+  iba: {score: 4.8, year: 2020}
 ---
 
 # 特立尼达酸酒
@@ -16,6 +21,12 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 ## 概述
 
 大量安格仕苦精配黑麦与杏仁糖浆，颠覆苦精用量的现代名作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Trinidad%20Sour%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Trinidad%20Sour%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Trinidad%20Sour%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 | 苦 | 5 | █████ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 16204 |
+| Difford's Guide | 4.25 | 2021 |
+| IBA 推荐 | 4.8 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

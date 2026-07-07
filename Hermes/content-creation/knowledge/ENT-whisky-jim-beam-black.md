@@ -6,7 +6,8 @@ tags: [威士忌, 美国, 波本]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-jim-bean-white, ENT-whisky-jim-beam-devils-cut, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch, ENT-whisky-makers-mark-bourbon]
+related: [ENT-whisky-jim-bean-white, ENT-whisky-jim-beam-devils-cut, ENT-whisky-makers-mark-bourbon, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch]
+related_typed: {ENT-whisky-jim-bean-white: same_brand, ENT-whisky-jim-beam-devils-cut: same_brand, ENT-whisky-makers-mark-bourbon: same_region, ENT-whisky-makers-mark-46: same_region, ENT-whisky-four-roses-small-batch: same_region}
 ratings:
   vivino: {score: 4.3, votes: 20082}
   whisky_fun: {score: 82, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 占边黑标，8 年陈酿波本，醇厚复杂。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jim%20Beam%20Black%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jim%20Beam%20Black%20whisky)
+- [Google 图片](https://www.google.com/search?q=Jim%20Beam%20Black%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

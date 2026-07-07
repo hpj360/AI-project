@@ -6,7 +6,8 @@ tags: [红酒, 澳洲, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-penfolds-yattarna-2016, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-penfolds-grange-2015, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-penfolds-grange-2015, ENT-wine-white-penfolds-yattarna-2016, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp]
+related_typed: {ENT-wine-red-penfolds-grange-2015: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 34770}
   parker: {score: 89, year: 2021}
@@ -26,6 +27,12 @@ awards:
 ## 概述
 
 奔富赤霞珠旗舰，与葛兰许并称奔富双旗舰。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Penfolds%20Bin%20707%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Penfolds%20Bin%20707%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Penfolds%20Bin%20707%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

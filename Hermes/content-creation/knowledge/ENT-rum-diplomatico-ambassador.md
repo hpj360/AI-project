@@ -6,7 +6,8 @@ tags: [朗姆酒, 委内瑞拉, Diplomatico, 限量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-165-rhum-ambr, ENT-rum-diplomatico-reserva-exclusiva, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-rum-diplomatico-reserva-exclusiva, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara, ENT-rum-off-169-caribbean-rum-with-coconut-flavour]
+related_typed: {ENT-rum-diplomatico-reserva-exclusiva: same_brand, ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 20773}
   wine_enthusiast: {score: 92, year: 2020}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 外交官 Ambassador，超顶级限量朗姆，雪莉桶精炼。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Diplomatico%20Ambassador%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Diplomatico%20Ambassador%20rum)
+- [Google 图片](https://www.google.com/search?q=Diplomatico%20Ambassador%20rum%20bottle&tbm=isch)
 
 ## 基础信息
 

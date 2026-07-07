@@ -6,7 +6,12 @@ tags: [鸡尾酒, 分子, 离心, 龙舌兰, 青柠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-tequila-off-183-tequila-gold, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 49126}
+  diffords: {score: 4.39, year: 2022}
+  iba: {score: 5.0, year: 2023}
 ---
 
 # 离心玛格丽特
@@ -16,6 +21,12 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-tequila
 ## 概述
 
 以高速离心分离青柠果肉，得到透明玛格丽特保留纯净酸甜。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Centrifuged%20Margarita%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Centrifuged%20Margarita%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Centrifuged%20Margarita%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -83,6 +94,16 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-tequila
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 49126 |
+| Difford's Guide | 4.39 | 2022 |
+| IBA 推荐 | 5.0 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [龙舌兰, 墨西哥, 豪帅, Gold, Mixto]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-don-julio-reposado, ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco, ENT-tequila-off-193-blue-agave-gold-tequila]
+related: [ENT-tequila-off-193-blue-agave-gold-tequila, ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-sauza-blanco]
+related_typed: {ENT-tequila-off-193-blue-agave-gold-tequila: same_brand, ENT-tequila-off-195-jose-cuervo-tequila-especial: same_brand, ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-sauza-blanco: same_region}
 ratings:
   vivino: {score: 4.4, votes: 40964}
   wine_enthusiast: {score: 82, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 豪帅 Jose Cuervo Especial Gold，金标龙舌兰经典，调酒入门首选。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jose%20Cuervo%20Especial%20Gold%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jose%20Cuervo%20Especial%20Gold%20tequila)
+- [Google 图片](https://www.google.com/search?q=Jose%20Cuervo%20Especial%20Gold%20tequila%20bottle&tbm=isch)
 
 ## 基础信息
 

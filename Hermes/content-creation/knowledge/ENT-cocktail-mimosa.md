@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 当代经典, 起泡酒, 早午餐]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-white-lady, ENT-cocktail-bees-knees, ENT-cocktail-sidecar, ENT-cocktail-bloody-mary, ENT-cocktail-between-the-sheets]
+related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-bees-knees]
+related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-bees-knees: same_region}
+ratings:
+  vivino: {score: 4.7, votes: 6680}
+  diffords: {score: 4.18, year: 2021}
+  iba: {score: 4.4, year: 2023}
 ---
 
 # 含羞草
@@ -16,6 +21,12 @@ related: [ENT-cocktail-white-lady, ENT-cocktail-bees-knees, ENT-cocktail-sidecar
 ## 概述
 
 香槟或起泡酒配橙汁，早午餐气泡经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mimosa%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Mimosa%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Mimosa%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-white-lady, ENT-cocktail-bees-knees, ENT-cocktail-sidecar
 | 苦 | 0 | ░░░░░ |
 | 烈 | 1 | █░░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.7 | 6680 |
+| Difford's Guide | 4.18 | 2021 |
+| IBA 推荐 | 4.4 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

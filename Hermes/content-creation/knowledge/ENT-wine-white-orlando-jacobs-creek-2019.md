@@ -6,7 +6,8 @@ tags: [白酒, 新世界, 霞多丽, 巴罗萨]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay]
+related: [ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense]
+related_typed: {ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 20171}
   parker: {score: 86, year: 2021}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 澳洲国民白酒，Jacobs Creek 全球畅销品牌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Orlando%20Jacobs%20Creek%20Chardonnay%202019%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Orlando%20Jacobs%20Creek%20Chardonnay%202019%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Orlando%20Jacobs%20Creek%20Chardonnay%202019%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

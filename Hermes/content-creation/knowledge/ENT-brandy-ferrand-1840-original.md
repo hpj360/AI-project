@@ -6,7 +6,8 @@ tags: [白兰地, 干邑, 法国, 费朗]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-paradis, ENT-brandy-pierre-ferrand-reserve, ENT-brandy-hennessy-xo]
+related: [ENT-brandy-pierre-ferrand-reserve, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis]
+related_typed: {ENT-brandy-pierre-ferrand-reserve: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region, ENT-brandy-hennessy-paradis: same_region}
 ratings:
   vivino: {score: 4.8, votes: 23148}
   wine_enthusiast: {score: 87, year: 2022}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 费朗 1840 原桶，复刻 19 世纪干邑风格，高酒精度。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ferrand%201840%20Original%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ferrand%201840%20Original%20brandy)
+- [Google 图片](https://www.google.com/search?q=Ferrand%201840%20Original%20brandy%20bottle&tbm=isch)
 
 ## 基础信息
 

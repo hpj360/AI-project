@@ -6,7 +6,8 @@ tags: [啤酒, 荷兰, 喜力, 工业拉格]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-harbin, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-budweiser]
+related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-harbin]
+related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat}
 ratings:
   vivino: {score: 4.4, votes: 46923}
   ratebeer: {score: 82, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 喜力啤酒，荷兰工业拉格代表，麦香清爽，是全球销量前列的啤酒品牌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Heineken%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Heineken%20beer)
+- [Google 图片](https://www.google.com/search?q=Heineken%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

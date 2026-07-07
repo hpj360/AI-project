@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 朗姆, 金酒, 白兰地, Tiki]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-martinez, ENT-rum-off-163-rhum-negrita, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-cocktail-martinez, ENT-cocktail-saturn, ENT-cocktail-jasmine, ENT-cocktail-tommys-margarita, ENT-cocktail-chartreuse-swizzle]
+related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-saturn: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-chartreuse-swizzle: same_region}
+ratings:
+  vivino: {score: 4.5, votes: 2726}
+  diffords: {score: 4.15, year: 2021}
+  iba: {score: 4.2, year: 2021}
 ---
 
 # 雾刀
@@ -16,6 +21,12 @@ related: [ENT-cocktail-martinez, ENT-rum-off-163-rhum-negrita, ENT-brandy-hennes
 ## 概述
 
 双朗姆配金酒白兰地与橙汁杏仁糖浆，提基烈饮的经典雾之利刃。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Fogcutter%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Fogcutter%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Fogcutter%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -84,6 +95,16 @@ related: [ENT-cocktail-martinez, ENT-rum-off-163-rhum-negrita, ENT-brandy-hennes
 | 苦 | 1 | █░░░░ |
 | 烈 | 5 | █████ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.5 | 2726 |
+| Difford's Guide | 4.15 | 2021 |
+| IBA 推荐 | 4.2 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

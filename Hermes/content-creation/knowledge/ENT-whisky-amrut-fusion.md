@@ -6,7 +6,8 @@ tags: [威士忌, 印度, 单一麦芽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-246-jack-daniel-s-no-7, ENT-whisky-off-245-monkey-shoulder]
+related: [ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-whisky-off-253-william-peel, ENT-whisky-off-254-royal-challenge-whisky, ENT-whisky-off-255-blended-scotch-whisky-william-peel]
+related_typed: {ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat, ENT-whisky-off-253-william-peel: same_subcat, ENT-whisky-off-254-royal-challenge-whisky: same_subcat, ENT-whisky-off-255-blended-scotch-whisky-william-peel: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 20549}
   whisky_fun: {score: 88, year: 2020}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 Amrut Fusion，印度与苏格兰大麦融合的单一麦芽威士忌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Amrut%20Fusion%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Amrut%20Fusion%20whisky)
+- [Google 图片](https://www.google.com/search?q=Amrut%20Fusion%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,8 @@ tags: [清酒, 日本, 纯米吟醸, 清泉, 新潟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-096-cooking-sake, ENT-sake-echigo-toji, ENT-sake-off-098-sake]
+related: [ENT-sake-echigo-toji, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux]
+related_typed: {ENT-sake-echigo-toji: same_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: cross_region, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat}
 ratings:
   vivino: {score: 3.8, votes: 2604}
   sake_revue: {score: 81, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 新潟清泉酒造纯米吟醸，使用新潟本地米与酵母，淡丽辛口。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Seisen%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Seisen%20sake)
+- [Google 图片](https://www.google.com/search?q=Seisen%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

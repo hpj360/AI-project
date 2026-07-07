@@ -6,7 +6,8 @@ tags: [白兰地, 西班牙, 白兰地]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-richard, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-xo]
+related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
+related_typed: {ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 ratings:
   vivino: {score: 4.5, votes: 8774}
   wine_enthusiast: {score: 84, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Torres 10 年，西班牙白兰地经典，雪莉桶陈酿。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Torres%2010%20Years%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Torres%2010%20Years%20brandy)
+- [Google 图片](https://www.google.com/search?q=Torres%2010%20Years%20brandy%20bottle&tbm=isch)
 
 ## 基础信息
 

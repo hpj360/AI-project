@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 岛屿区]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-talisker-10, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-245-monkey-shoulder]
+related: [ENT-whisky-talisker-10, ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-250-blended-scotch-wiskhy]
+related_typed: {ENT-whisky-talisker-10: same_brand, ENT-whisky-off-247-whisky-old-n-7: same_subcat, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat, ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 28731}
   whisky_fun: {score: 97, year: 2023}
@@ -23,6 +24,12 @@ awards:
 ## 概述
 
 泰斯卡 25 年，超高端斯凯岛陈年威士忌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Talisker%2025%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Talisker%2025%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Talisker%2025%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

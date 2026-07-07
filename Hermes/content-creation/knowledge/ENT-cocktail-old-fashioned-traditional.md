@@ -6,7 +6,12 @@ tags: [鸡尾酒, 古典, 威士忌, 传统, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey]
+related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
+related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
+ratings:
+  vivino: {score: 4.4, votes: 5307}
+  diffords: {score: 4.11, year: 2023}
+  iba: {score: 4.1, year: 2021}
 ---
 
 # 古典（传统版）
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 ## 概述
 
 1862 年 Jerry Thomas 原始版本，威士忌配糖苦精与水，最古老的鸡尾酒范式。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Old%20Fashioned%20%28Traditional%29%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Old%20Fashioned%20%28Traditional%29%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Old%20Fashioned%20%28Traditional%29%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 5307 |
+| Difford's Guide | 4.11 | 2023 |
+| IBA 推荐 | 4.1 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

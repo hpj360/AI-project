@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 费内特布兰卡, 伦敦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cocktail-corpse-reviver-no2, ENT-cocktail-hanky-panky, ENT-gin-bombay-sapphire-east]
+related: [ENT-cocktail-satans-whiskers, ENT-cocktail-corpse-reviver-no2, ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini]
+related_typed: {ENT-cocktail-satans-whiskers: same_brand, ENT-cocktail-corpse-reviver-no2: same_brand, ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region}
+ratings:
+  vivino: {score: 4.1, votes: 13784}
+  diffords: {score: 4.06, year: 2020}
+  iba: {score: 3.8, year: 2023}
 ---
 
 # 汉基潘基（萨伏伊版本）
@@ -16,6 +21,12 @@ related: [ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cock
 ## 概述
 
 金酒配甜味美思与费内特布兰卡，萨伏伊酒吧女调酒师的苦草名作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hanky%20Panky%20%28Savoy%20Version%29%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hanky%20Panky%20%28Savoy%20Version%29%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Hanky%20Panky%20%28Savoy%20Version%29%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cock
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.1 | 13784 |
+| Difford's Guide | 4.06 | 2020 |
+| IBA 推荐 | 3.8 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

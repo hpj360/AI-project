@@ -6,7 +6,8 @@ tags: [啤酒, 中国, 青岛, 纯生]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-tsingtao: same_brand, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 4.2, votes: 45784}
   ratebeer: {score: 83, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 青岛纯生啤酒，不经巴氏杀菌的纯生拉格，口感更新鲜柔和。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Tsingtao%20Pure%20Draft%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Tsingtao%20Pure%20Draft%20beer)
+- [Google 图片](https://www.google.com/search?q=Tsingtao%20Pure%20Draft%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, 分子, 球化, 朗姆, 薄荷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-rum-off-163-rhum-negrita, ENT-cocktail-ginish-tonic, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-margarita-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-margarita-spheres: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 26746}
+  diffords: {score: 4.37, year: 2022}
+  iba: {score: 5.0, year: 2022}
 ---
 
 # 莫吉托球
@@ -16,6 +21,12 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-rum-off
 ## 概述
 
 莫吉托液球化为透明球体，薄荷朗姆风味在口中爆裂释放。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mojito%20Spheres%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Mojito%20Spheres%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Mojito%20Spheres%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -85,6 +96,16 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-rum-off
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 26746 |
+| Difford's Guide | 4.37 | 2022 |
+| IBA 推荐 | 5.0 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

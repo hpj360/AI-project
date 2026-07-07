@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 酸酒, 梅斯卡尔]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-tequila-off-183-tequila-gold, ENT-cocktail-oaxaca-old-fashioned]
+related: [ENT-cocktail-oaxaca-old-fashioned, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler]
+related_typed: {ENT-cocktail-oaxaca-old-fashioned: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region}
+ratings:
+  vivino: {score: 4.2, votes: 41456}
+  diffords: {score: 4.08, year: 2022}
+  iba: {score: 3.9, year: 2022}
 ---
 
 # 赤裸与成名
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-aviati
 ## 概述
 
 梅斯卡尔配黄查特酒、阿佩罗与青柠，烟熏苦甜酸的现代经典名作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Naked%20and%20Famous%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Naked%20and%20Famous%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Naked%20and%20Famous%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-aviati
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.2 | 41456 |
+| Difford's Guide | 4.08 | 2022 |
+| IBA 推荐 | 3.9 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

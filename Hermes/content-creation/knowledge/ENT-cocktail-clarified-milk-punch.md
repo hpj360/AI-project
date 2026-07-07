@@ -6,7 +6,12 @@ tags: [鸡尾酒, 分子, 澄清, 朗姆, 牛奶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-rum-off-163-rhum-negrita, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+ratings:
+  vivino: {score: 4.3, votes: 30488}
+  diffords: {score: 4.11, year: 2022}
+  iba: {score: 4.0, year: 2020}
 ---
 
 # 澄清牛奶潘趣
@@ -16,6 +21,12 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-rum-off-163-r
 ## 概述
 
 以牛奶蛋白凝集杂质后过滤，得到透明牛奶潘趣丝滑口感。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Clarified%20Milk%20Punch%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Clarified%20Milk%20Punch%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Clarified%20Milk%20Punch%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -85,6 +96,16 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-rum-off-163-r
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.3 | 30488 |
+| Difford's Guide | 4.11 | 2022 |
+| IBA 推荐 | 4.0 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

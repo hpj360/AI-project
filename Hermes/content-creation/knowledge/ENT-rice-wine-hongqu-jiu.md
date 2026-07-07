@@ -6,7 +6,13 @@ tags: [米酒, 红曲, 福建, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
+related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-hongli-hongmi]
+related_typed: {ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-rice-wine-hongli-hongmi: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 23154}
+  csl: {score: 91, year: 2021}
+awards:
+  - {name: 全国酒类鉴评 金奖, year: 2021, org: 全国酒类鉴评}
 ---
 
 # 红曲酒
@@ -16,6 +22,12 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-w
 ## 概述
 
 福建红曲酒，红曲米酿造，色泽红艳，口感甘甜微酸，是闽派米酒代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hongqu%20Wine%20rice_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hongqu%20Wine%20rice_wine)
+- [Google 图片](https://www.google.com/search?q=Hongqu%20Wine%20rice_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +57,19 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-w
 - **口感**：口感甘甜微酸，红曲味突出
 - **余味**：余味清爽，带米香
 - **风味标签**：红曲, 米香, 甘甜
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 23154 |
+| 中国酒类鉴评 | 91 | 2021 |
+
+### 获奖记录
+
+- **2021** 全国酒类鉴评 金奖
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

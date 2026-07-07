@@ -6,7 +6,8 @@ tags: [清酒, 日本, 纯米大吟醸, 獭祭]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-dassai-23, ENT-sake-dassai-39-nigori, ENT-sake-dassai-39, ENT-sake-dassai-50, ENT-sake-dassai-23-nigori]
+related: [ENT-sake-dassai-23, ENT-sake-dassai-39, ENT-sake-dassai-50, ENT-sake-dassai-39-nigori, ENT-sake-dassai-23-nigori]
+related_typed: {ENT-sake-dassai-23: same_brand, ENT-sake-dassai-39: same_brand, ENT-sake-dassai-50: same_brand, ENT-sake-dassai-39-nigori: same_region, ENT-sake-dassai-23-nigori: same_region}
 ratings:
   vivino: {score: 4.8, votes: 18168}
   sake_revue: {score: 93, year: 2021}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 獭祭纯米大吟醸 45，精米步合 45%，是獭祭系列的日常畅饮款。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dassai%2045%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dassai%2045%20sake)
+- [Google 图片](https://www.google.com/search?q=Dassai%2045%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

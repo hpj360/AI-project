@@ -6,7 +6,8 @@ tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-puligny-pucelles-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-chevalier-montrachet-leflaive-2015, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine-white-montrachet-leflaive-2014]
+related: [ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-chevalier-montrachet-leflaive-2015, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-pucelles-leflaive-2015]
+related_typed: {ENT-wine-white-montrachet-leflaive-2014: same_brand, ENT-wine-white-chevalier-montrachet-leflaive-2015: same_brand, ENT-wine-white-batard-montrachet-leflaive-2015: same_brand, ENT-wine-white-montrachet-drc-2014: same_region, ENT-wine-white-puligny-pucelles-leflaive-2015: same_region}
 ratings:
   vivino: {score: 4.8, votes: 32752}
   parker: {score: 85, year: 2022}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 Leflaive 在 Les Combettes 的一级园，风格丰满。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Domaine%20Leflaive%20Puligny%20Les%20Combettes%202016%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Domaine%20Leflaive%20Puligny%20Les%20Combettes%202016%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Domaine%20Leflaive%20Puligny%20Les%20Combettes%202016%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

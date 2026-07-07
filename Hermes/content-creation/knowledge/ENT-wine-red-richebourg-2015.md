@@ -6,7 +6,8 @@ tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-la-romane-liger-belair-2015, ENT-wine-red-grands-echezeaux-2015]
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-la-romane-liger-belair-2015, ENT-wine_red-off-002-bordeaux-2013]
+related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-grands-echezeaux-2015: same_brand, ENT-wine-red-la-romane-liger-belair-2015: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 35930}
   parker: {score: 91, year: 2023}
@@ -25,6 +26,12 @@ awards:
 ## 概述
 
 DRC 旗舰特级园之一，风格丰腴雄壮，富有力量感。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Richebourg%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Richebourg%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Richebourg%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

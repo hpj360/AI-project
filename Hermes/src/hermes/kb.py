@@ -33,6 +33,7 @@ class Entry:
     created: str = ""
     updated: str = ""
     related: list = field(default_factory=list)
+    related_typed: dict = field(default_factory=dict)  # 类型化关系 {target_id: rel_type}
     ratings: dict = field(default_factory=dict)
     awards: list = field(default_factory=list)
     content: str = ""  # 正文 Markdown
@@ -43,6 +44,69 @@ class Entry:
     def text(self) -> str:
         """用于检索的文本（标题+标签+正文）。"""
         return f"{self.title} {' '.join(self.tags)} {self.content}"
+
+    @property
+    def structured_attrs(self) -> dict:
+        """从正文提取结构化属性（用于筛选过滤）。
+
+        提取：
+        - abv: 酒精度（字符串保留原值，便于显示）
+        - abv_num: 酒精度数值（用于范围筛选）
+        - price_rmb: 价格区间 [low, high]
+        - region: 产地（country/region）
+        - subcategory: 子类（从 id 推断）
+        - flavor_tags: 风味标签列表
+        - flavor_profile: 风味轮廓 dict
+        """
+        if hasattr(self, "_cached_attrs"):
+            return self._cached_attrs
+        attrs = {
+            "subcategory": self.id.split("-")[1] if "-" in self.id else "",
+            "flavor_tags": [],
+            "flavor_profile": {},
+            "abv_num": None,
+            "price_rmb": None,
+            "region": "",
+        }
+        # 从正文提取基础信息
+        # 酒精度
+        m = re.search(r'\*\*酒精度\*\*：(.+)', self.content)
+        if m:
+            abv_str = m.group(1).strip()
+            # 提取数值
+            nums = re.findall(r'(\d+(?:\.\d+)?)', abv_str)
+            if nums:
+                try:
+                    attrs["abv_num"] = float(nums[0])
+                except ValueError:
+                    pass
+        # 价格
+        m = re.search(r'\*\*参考价格（RMB）\*\*：¥(\d+)-(\d+)', self.content)
+        if m:
+            attrs["price_rmb"] = [int(m.group(1)), int(m.group(2))]
+        # 产地
+        m = re.search(r'\*\*产地\*\*：(.+)', self.content)
+        if m:
+            attrs["region"] = m.group(1).strip()
+        # 风味标签
+        m = re.search(r'\*\*风味标签\*\*：(.+)', self.content)
+        if m:
+            attrs["flavor_tags"] = [t.strip() for t in m.group(1).split(",") if t.strip()]
+        # 风味轮廓（从表格提取）
+        profile_match = re.search(
+            r'## 风味轮廓.*?\| (\d) \|.*?(\d) \|.*?(\d) \|.*?(\d) \|.*?(\d) \|',
+            self.content, re.DOTALL,
+        )
+        if profile_match:
+            attrs["flavor_profile"] = {
+                "sweet": int(profile_match.group(1)),
+                "sour": int(profile_match.group(2)),
+                "bitter": int(profile_match.group(3)),
+                "strong": int(profile_match.group(4)),
+                "aroma": int(profile_match.group(5)),
+            }
+        self._cached_attrs = attrs
+        return attrs
 
 
 @dataclass
@@ -143,6 +207,14 @@ def parse_frontmatter(raw: str) -> tuple[dict, str]:
             elif val.startswith("[") and val.endswith("]"):
                 items = [x.strip().strip('"\'') for x in val[1:-1].split(",") if x.strip()]
                 meta[key] = items
+            # 解析 dict {a: b, c: d}
+            elif val.startswith("{") and val.endswith("}"):
+                inner = {}
+                for part in val[1:-1].split(","):
+                    if ":" in part:
+                        pk, _, pv = part.partition(":")
+                        inner[pk.strip()] = pv.strip().strip('"\'')
+                meta[key] = inner
             else:
                 meta[key] = val.strip('"\'')
         i += 1
@@ -166,6 +238,7 @@ def load_entry(path: Path) -> Optional[Entry]:
         created=meta.get("created", ""),
         updated=meta.get("updated", ""),
         related=meta.get("related", []) if isinstance(meta.get("related"), list) else [],
+        related_typed=meta.get("related_typed", {}) if isinstance(meta.get("related_typed"), dict) else {},
         ratings=meta.get("ratings", {}) if isinstance(meta.get("ratings"), dict) else {},
         awards=meta.get("awards", []) if isinstance(meta.get("awards"), list) else [],
         content=body,
@@ -325,11 +398,35 @@ class KnowledgeBase:
             self.load()
         return self.entries.get(entry_id)
 
-    def search(self, query: str, top_k: int = 10) -> list[dict]:
-        """检索，返回 [{id, title, score, ...}]。"""
+    def search(self, query: str, top_k: int = 10, expand: bool = True) -> list[dict]:
+        """检索，返回 [{id, title, score, ...}]。
+
+        参数：
+        - expand: 是否启用同义词扩展和拼写纠错（默认 True）
+        """
         if not self._loaded:
             self.load()
-        results = self.bm25.search(query, top_k=top_k)
+        # 同义词扩展 + 拼写纠错
+        search_query = query
+        corrected_info = None
+        if expand:
+            try:
+                from .synonyms import normalize_query
+                corrected, applied, expanded = normalize_query(query)
+                if applied:
+                    corrected_info = applied
+                # 用扩展后的词重新组合查询（去重保留顺序）
+                if expanded:
+                    seen = set()
+                    unique = []
+                    for w in expanded:
+                        if w not in seen:
+                            seen.add(w)
+                            unique.append(w)
+                    search_query = " ".join(unique[:10])  # 限制扩展词数避免过度匹配
+            except ImportError:
+                pass
+        results = self.bm25.search(search_query, top_k=top_k)
         out = []
         for eid, score in results:
             e = self.entries.get(eid)
@@ -342,6 +439,53 @@ class KnowledgeBase:
                     "score": round(score, 4),
                     "file": str(e.file_path.name) if e.file_path else "",
                 })
+        return out
+
+    def filter(self, *,
+               subcategory: str = None,
+               abv_min: float = None,
+               abv_max: float = None,
+               price_max: int = None,
+               region: str = None,
+               flavor_tag: str = None) -> list[dict]:
+        """基于结构化属性筛选条目。
+
+        参数：
+        - subcategory: 子类（如 whisky, cocktail, wine_red）
+        - abv_min/abv_max: 酒精度范围
+        - price_max: 价格上限（取区间下限比较）
+        - region: 产地关键词
+        - flavor_tag: 风味标签关键词
+        """
+        if not self._loaded:
+            self.load()
+        out = []
+        for e in self.entries.values():
+            attrs = e.structured_attrs
+            if subcategory and attrs["subcategory"] != subcategory:
+                continue
+            if abv_min is not None and (attrs["abv_num"] is None or attrs["abv_num"] < abv_min):
+                continue
+            if abv_max is not None and (attrs["abv_num"] is None or attrs["abv_num"] > abv_max):
+                continue
+            if price_max is not None:
+                if not attrs["price_rmb"] or attrs["price_rmb"][0] > price_max:
+                    continue
+            if region and region.lower() not in attrs["region"].lower():
+                continue
+            if flavor_tag:
+                tags_lower = [t.lower() for t in attrs["flavor_tags"]]
+                if flavor_tag.lower() not in tags_lower:
+                    continue
+            out.append({
+                "id": e.id,
+                "title": e.title,
+                "subcategory": attrs["subcategory"],
+                "abv_num": attrs["abv_num"],
+                "price_rmb": attrs["price_rmb"],
+                "region": attrs["region"],
+                "flavor_tags": attrs["flavor_tags"],
+            })
         return out
 
     def stats(self) -> dict:

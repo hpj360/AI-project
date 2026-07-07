@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酸酒, 白兰地, 石榴, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-brandy-crusta, ENT-cocktail-sazerac, ENT-brandy-hennessy-vsop]
+related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz]
+related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region}
+ratings:
+  vivino: {score: 4.7, votes: 38071}
+  diffords: {score: 4.17, year: 2020}
+  iba: {score: 4.4, year: 2020}
 ---
 
 # 白兰地雏菊
@@ -16,6 +21,12 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-bran
 ## 概述
 
 干邑配柠檬汁红石榴糖浆与苏打水，酸酒家族的雏菊变体。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Brandy%20Daisy%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Brandy%20Daisy%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Brandy%20Daisy%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-bran
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.7 | 38071 |
+| Difford's Guide | 4.17 | 2020 |
+| IBA 推荐 | 4.4 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

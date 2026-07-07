@@ -6,7 +6,11 @@ tags: [果酒, 梅酒, 日本, 千代结]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-tsurume-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-choya-umeshu]
+related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-tsurume-umeshu]
+related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-fruit-wine-tsurume-umeshu: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 28029}
+  wine_enthusiast: {score: 86, year: 2023}
 ---
 
 # 千代结梅酒
@@ -16,6 +20,12 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 ## 概述
 
 千代结梅酒，鸟取千代结酒造出品，使用清酒与米烧酒浸梅，口感复杂。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Chiyomusubi%20Umeshu%20fruit_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Chiyomusubi%20Umeshu%20fruit_wine)
+- [Google 图片](https://www.google.com/search?q=Chiyomusubi%20Umeshu%20fruit_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 - **口感**：口感复杂甜润，梅味与米香平衡
 - **余味**：余味甜润，带梅香
 - **风味标签**：梅子, 米香, 蜂蜜
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 28029 |
+| Wine Enthusiast | 86 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

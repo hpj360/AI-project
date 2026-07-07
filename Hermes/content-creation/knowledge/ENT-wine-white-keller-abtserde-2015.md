@@ -6,7 +6,8 @@ tags: [白酒, 德国, 雷司令, GG]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine-white-wittmann-westhofen-2015, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
+related: [ENT-wine-white-wittmann-westhofen-2015, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco]
+related_typed: {ENT-wine-white-wittmann-westhofen-2015: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 1505}
   parker: {score: 84, year: 2022}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 Rheinhessen 名家 Keller，Abtserde GG 干型雷司令顶级作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Weingut%20Keller%20Rheinhessen%20Westhofen%20Abtserde%202015%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Weingut%20Keller%20Rheinhessen%20Westhofen%20Abtserde%202015%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Weingut%20Keller%20Rheinhessen%20Westhofen%20Abtserde%202015%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

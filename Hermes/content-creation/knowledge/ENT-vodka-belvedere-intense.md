@@ -6,7 +6,8 @@ tags: [伏特加, 波兰, 雪树, 原桶强度]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-belvedere-original, ENT-vodka-off-142-poliakov, ENT-vodka-off-161-organic-vodka, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-off-161-organic-vodka, ENT-vodka-belvedere-original, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
+related_typed: {ENT-vodka-off-161-organic-vodka: same_brand, ENT-vodka-belvedere-original: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 13416}
   wine_enthusiast: {score: 90, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 雪树 Intense，50 度原桶强度，浓郁强劲。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Belvedere%20Intense%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Belvedere%20Intense%20vodka)
+- [Google 图片](https://www.google.com/search?q=Belvedere%20Intense%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

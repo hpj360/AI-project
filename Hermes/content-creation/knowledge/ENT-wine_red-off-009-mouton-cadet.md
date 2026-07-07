@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, wine_red, 红葡萄酒, Baron Philippe de Rothschild]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-015-cabernet-sauvigon, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-017-naturae]
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-015-cabernet-sauvigon, ENT-wine_red-off-017-naturae]
+related_typed: {ENT-wine_red-off-004-pinot-noir: same_region, ENT-wine_red-off-005-cabernet-sauvignon: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_region, ENT-wine_red-off-015-cabernet-sauvigon: same_region, ENT-wine_red-off-017-naturae: same_region}
 ratings:
   vivino: {score: 4.8, votes: 32691}
   parker: {score: 93, year: 2020}
@@ -26,6 +27,12 @@ awards:
 
 OpenFoodFacts 真实产品数据：Mouton Cadet（Baron Philippe de Rothschild），产地 France
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mouton%20Cadet%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Mouton%20Cadet%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Mouton%20Cadet%20wine_red%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Mouton Cadet
@@ -38,6 +45,22 @@ OpenFoodFacts 真实产品数据：Mouton Cadet（Baron Philippe de Rothschild�
 - **容量**：75 cl
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：红葡萄品种、水、酵母
+- **酿造方法**：
+
+葡萄去梗破碎后连皮发酵，浸渍提取色素单宁，部分过橡木桶。
+- **陈酿方式**：部分橡木桶陈年 6-24 个月
+
+## 风味描述
+
+- **颜色**：宝石红
+- **香气**：红色水果、橡木
+- **口感**：单宁、果味、橡木
+- **余味**：单宁回甘
+- **风味标签**：红果, 单宁, 橡木
 
 ## 评分奖项
 

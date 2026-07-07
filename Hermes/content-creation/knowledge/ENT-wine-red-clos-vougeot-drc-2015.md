@@ -6,7 +6,8 @@ tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-clos-vougeot-meo-camuzet-2015, ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-clos-vougeot-meo-camuzet-2015, ENT-wine_red-off-002-bordeaux-2013]
+related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-red-clos-vougeot-meo-camuzet-2015: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 43739}
   parker: {score: 83, year: 2022}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 DRC 在伏旧园的份额酿造，葡萄园紧邻城堡。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Clos%20de%20Vougeot%20DRC%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Clos%20de%20Vougeot%20DRC%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Clos%20de%20Vougeot%20DRC%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

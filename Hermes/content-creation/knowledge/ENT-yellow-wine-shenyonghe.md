@@ -6,7 +6,14 @@ tags: [黄酒, 绍兴, 沈永和]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-huadiao]
+related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-huadiao]
+related_typed: {ENT-yellow-wine-guyue-longshan-10y: same_brand, ENT-yellow-wine-guyue-longshan-20y: same_brand, ENT-yellow-wine-guyue-longshan-30y: same_brand, ENT-yellow-wine-guyue-longshan-50y: same_region, ENT-yellow-wine-guyue-longshan-huadiao: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 25415}
+  csl: {score: 91, year: 2020}
+awards:
+  - {name: 布鲁塞尔大奖赛 银奖, year: 2021, org: 布鲁塞尔大奖赛}
+  - {name: CMB Silver, year: 2022, org: CMB}
 ---
 
 # 沈永和
@@ -16,6 +23,12 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 ## 概述
 
 绍兴沈永和黄酒，老字号品牌，1664 年创立，是古越龙山前身之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Shenyonghe%20yellow_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Shenyonghe%20yellow_wine)
+- [Google 图片](https://www.google.com/search?q=Shenyonghe%20yellow_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +58,20 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 - **口感**：口感醇厚，米味突出
 - **余味**：余味悠长，带米香
 - **风味标签**：米香, 坚果, 焦糖
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 25415 |
+| 中国酒类鉴评 | 91 | 2020 |
+
+### 获奖记录
+
+- **2021** 布鲁塞尔大奖赛 银奖
+- **2022** CMB Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

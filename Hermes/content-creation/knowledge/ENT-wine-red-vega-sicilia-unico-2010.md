@@ -6,7 +6,8 @@ tags: [红酒, 西班牙, Ribera del Duero]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-pingus-2015, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-pingus-2015, ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto]
+related_typed: {ENT-wine-red-pingus-2015: same_region, ENT-wine-red-pesquera-gran-reserva-2012: same_region, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat}
 ratings:
   vivino: {score: 4.4, votes: 18849}
   parker: {score: 81, year: 2020}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 西班牙酒王，桶陈加瓶陈可达 10 年才上市，陈年能力极强。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Vega%20Sicilia%20Unico%202010%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Vega%20Sicilia%20Unico%202010%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Vega%20Sicilia%20Unico%202010%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

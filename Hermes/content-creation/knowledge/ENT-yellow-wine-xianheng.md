@@ -6,7 +6,13 @@ tags: [黄酒, 绍兴, 咸亨]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-huadiao]
+related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-huadiao]
+related_typed: {ENT-yellow-wine-guyue-longshan-10y: same_region, ENT-yellow-wine-guyue-longshan-20y: same_region, ENT-yellow-wine-guyue-longshan-30y: same_region, ENT-yellow-wine-guyue-longshan-50y: same_region, ENT-yellow-wine-guyue-longshan-huadiao: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 49441}
+  csl: {score: 89, year: 2023}
+awards:
+  - {name: CMB Silver, year: 2021, org: CMB}
 ---
 
 # 咸亨
@@ -16,6 +22,12 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 ## 概述
 
 绍兴咸亨黄酒，源自鲁迅笔下的咸亨酒店，承载绍兴文化。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Xianheng%20yellow_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Xianheng%20yellow_wine)
+- [Google 图片](https://www.google.com/search?q=Xianheng%20yellow_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +57,19 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 - **口感**：口感温润，米味突出
 - **余味**：余味悠长，带米香
 - **风味标签**：米香, 坚果, 温润
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 49441 |
+| 中国酒类鉴评 | 89 | 2023 |
+
+### 获奖记录
+
+- **2021** CMB Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

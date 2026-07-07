@@ -6,7 +6,8 @@ tags: [红酒, 勃艮第, 特级园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama, ENT-wine-red-clos-de-tart-2016]
+related: [ENT-wine-red-clos-de-tart-2016, ENT-wine_red-off-003-adama, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza]
+related_typed: {ENT-wine-red-clos-de-tart-2016: same_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat}
 ratings:
   vivino: {score: 4.1, votes: 6455}
   parker: {score: 80, year: 2022}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 莫雷-圣丹尼特级园，由 Domaine des Lambrays 经营，风格优雅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Clos%20des%20Lambrays%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Clos%20des%20Lambrays%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Clos%20des%20Lambrays%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

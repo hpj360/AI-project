@@ -6,7 +6,8 @@ tags: [桃红, 澳洲, Barossa, Charles Melton]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-rose-miraval-2019, ENT-wine-rose-garrus-2018, ENT-wine-rose-whistler-rose-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-whispering-angel-2020]
+related: [ENT-wine-rose-whistler-rose-2020, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019]
+related_typed: {ENT-wine-rose-whistler-rose-2020: same_region, ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 14440}
   parker: {score: 84, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 澳洲桃红标杆，Charles Melton Nine Popes 酿酒师签名作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Charles%20Melton%20Rose%20of%20Virginia%202019%20wine_rose%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Charles%20Melton%20Rose%20of%20Virginia%202019%20wine_rose)
+- [Google 图片](https://www.google.com/search?q=Charles%20Melton%20Rose%20of%20Virginia%202019%20wine_rose%20bottle&tbm=isch)
 
 ## 基础信息
 

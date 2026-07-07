@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, gin, 金酒, Bacardi-Martini]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-tanqueray-rangpur, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-no-ten, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks]
+related_typed: {ENT-gin-gordons-london-dry: same_subcat, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 31913}
   wine_enthusiast: {score: 100, year: 2020}
@@ -22,6 +23,12 @@ awards:
 
 OpenFoodFacts 真实产品数据：Gin Bombay（Bacardi-Martini）
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gin%20Bombay%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Gin%20Bombay%20gin)
+- [Google 图片](https://www.google.com/search?q=Gin%20Bombay%20gin%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Gin Bombay
@@ -34,6 +41,22 @@ OpenFoodFacts 真实产品数据：Gin Bombay（Bacardi-Martini）
 - **容量**：0.7l
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：谷物、杜松子、香料（芫荽/当归/柑橘皮等）、水、酵母
+- **酿造方法**：
+
+谷物发酵蒸馏为基酒，再用浸泡或蒸汽提取法加入杜松子等植物香料复蒸。
+- **陈酿方式**：通常不陈年
+
+## 风味描述
+
+- **颜色**：无色透明
+- **香气**：杜松子、草本
+- **口感**：杜松子、香料、柑橘
+- **余味**：草本回甘
+- **风味标签**：杜松子, 草本, 柑橘
 
 ## 评分奖项
 

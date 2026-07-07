@@ -6,7 +6,8 @@ tags: [加强酒, 雪莉, Fino, En Rama]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016]
+related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: same_subcat}
 ratings:
   vivino: {score: 4.3, votes: 11352}
   wine_spectator: {score: 83, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Emilio Hidalgo 未过滤 Fino en Rama，最纯净酒花风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Emilio%20Hidalgo%20La%20Panesa%20Fino%20en%20Rama%20Sherry%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Emilio%20Hidalgo%20La%20Panesa%20Fino%20en%20Rama%20Sherry%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Emilio%20Hidalgo%20La%20Panesa%20Fino%20en%20Rama%20Sherry%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

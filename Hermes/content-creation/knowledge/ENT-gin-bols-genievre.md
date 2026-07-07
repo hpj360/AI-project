@@ -6,7 +6,8 @@ tags: [金酒, 荷兰, genever, 杰纳斯]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-tanqueray-rangpur, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-no-ten, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
+related_typed: {ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat}
 ratings:
   vivino: {score: 4.5, votes: 32423}
   wine_enthusiast: {score: 82, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Bols Genever，荷兰传统麦芽金酒，金酒鼻祖。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bols%20Genever%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bols%20Genever%20gin)
+- [Google 图片](https://www.google.com/search?q=Bols%20Genever%20gin%20bottle&tbm=isch)
 
 ## 基础信息
 

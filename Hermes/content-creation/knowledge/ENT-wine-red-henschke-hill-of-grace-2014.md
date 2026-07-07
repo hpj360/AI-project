@@ -6,7 +6,8 @@ tags: [红酒, 澳洲, 设拉子, 老藤]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino]
+related_typed: {ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 18443}
   parker: {score: 84, year: 2023}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 澳洲传奇单一园设拉子， Eden Valley 老藤，与葛兰许并称澳洲双雄。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Henschke%20Hill%20of%20Grace%202014%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Henschke%20Hill%20of%20Grace%202014%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Henschke%20Hill%20of%20Grace%202014%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

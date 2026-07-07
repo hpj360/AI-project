@@ -6,7 +6,8 @@ tags: [红酒, 中国, 山西, 波尔多混酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino, ENT-wine_red-off-015-cabernet-sauvigon, ENT-wine_red-off-016-duck-eggs]
+related_typed: {ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat, ENT-wine_red-off-015-cabernet-sauvigon: same_subcat, ENT-wine_red-off-016-duck-eggs: same_subcat}
 ratings:
   vivino: {score: 4.2, votes: 41481}
   parker: {score: 83, year: 2023}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 山西精品酒庄怡园的旗舰红酒，被誉为中国精品葡萄酒的先驱。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Grace%20Vineyard%20Deep%20Blue%202017%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Grace%20Vineyard%20Deep%20Blue%202017%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Grace%20Vineyard%20Deep%20Blue%202017%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

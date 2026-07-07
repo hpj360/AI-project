@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 葡萄柚]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-sex-on-the-beach, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-sex-on-the-beach, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini]
+related_typed: {ENT-cocktail-sex-on-the-beach: same_region, ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-martini: same_subcat}
+ratings:
+  vivino: {score: 4.5, votes: 41632}
+  diffords: {score: 4.13, year: 2020}
+  iba: {score: 4.2, year: 2021}
 ---
 
 # 灰狗
@@ -16,6 +21,12 @@ related: [ENT-cocktail-sex-on-the-beach, ENT-vodka-off-141-absolut-vodka, ENT-vo
 ## 概述
 
 伏特加配葡萄柚汁，简净微苦的清爽长饮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Greyhound%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Greyhound%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Greyhound%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-sex-on-the-beach, ENT-vodka-off-141-absolut-vodka, ENT-vo
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 2 | ██░░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.5 | 41632 |
+| Difford's Guide | 4.13 | 2020 |
+| IBA 推荐 | 4.2 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

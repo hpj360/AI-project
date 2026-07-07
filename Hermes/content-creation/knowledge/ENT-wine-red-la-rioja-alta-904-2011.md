@@ -6,7 +6,8 @@ tags: [红酒, 西班牙, 里奥哈, Gran Reserva]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine]
+related_typed: {ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 30030}
   parker: {score: 89, year: 2020}
@@ -26,6 +27,12 @@ awards:
 ## 概述
 
 里奥哈传统派代表，904 是其旗舰，长时桶陈。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=La%20Rioja%20Alta%20Gran%20Reserva%20904%202011%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/La%20Rioja%20Alta%20Gran%20Reserva%20904%202011%20wine_red)
+- [Google 图片](https://www.google.com/search?q=La%20Rioja%20Alta%20Gran%20Reserva%20904%202011%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

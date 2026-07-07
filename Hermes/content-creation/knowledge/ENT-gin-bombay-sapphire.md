@@ -6,7 +6,8 @@ tags: [金酒, 伦敦干, 英国, 孟买]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-off-124-gin-tonic, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-no-ten, ENT-gin-off-127-bombay-sapphire-london-dry-gin, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-off-124-gin-tonic, ENT-gin-off-127-bombay-sapphire-london-dry-gin, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry]
+related_typed: {ENT-gin-off-124-gin-tonic: same_brand, ENT-gin-off-127-bombay-sapphire-london-dry-gin: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 46619}
   wine_enthusiast: {score: 92, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 孟买蓝宝石，10 种植物香料浸渍蒸馏，轻盈花香。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bombay%20Sapphire%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bombay%20Sapphire%20gin)
+- [Google 图片](https://www.google.com/search?q=Bombay%20Sapphire%20gin%20bottle&tbm=isch)
 
 ## 基础信息
 

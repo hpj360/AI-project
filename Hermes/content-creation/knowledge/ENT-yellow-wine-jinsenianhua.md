@@ -6,7 +6,14 @@ tags: [黄酒, 上海, 金色年华, 海派]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-shikumen, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-hejiu]
+related: [ENT-yellow-wine-shikumen, ENT-yellow-wine-hejiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y]
+related_typed: {ENT-yellow-wine-shikumen: same_brand, ENT-yellow-wine-hejiu: same_brand, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-yellow-wine-guyue-longshan-30y: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 21277}
+  csl: {score: 89, year: 2020}
+awards:
+  - {name: CMB Silver, year: 2021, org: CMB}
+  - {name: 布鲁塞尔大奖赛 金奖, year: 2021, org: 布鲁塞尔大奖赛}
 ---
 
 # 金色年华
@@ -16,6 +23,12 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-shikumen, ENT-yell
 ## 概述
 
 上海金枫金色年华黄酒，海派黄酒代表，营养强化风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jinsenianhua%20yellow_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jinsenianhua%20yellow_wine)
+- [Google 图片](https://www.google.com/search?q=Jinsenianhua%20yellow_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +58,20 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-shikumen, ENT-yell
 - **口感**：口感柔顺甘甜，营养风味
 - **余味**：余味清爽，带甜香
 - **风味标签**：米香, 蜂蜜, 枸杞
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 21277 |
+| 中国酒类鉴评 | 89 | 2020 |
+
+### 获奖记录
+
+- **2021** CMB Silver
+- **2021** 布鲁塞尔大奖赛 金奖
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

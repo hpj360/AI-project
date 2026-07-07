@@ -6,7 +6,8 @@ tags: [起泡酒, 香槟, Ruinart, 白中白]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-lanson-black-label-nv, ENT-wine-sparkling-cristal-2013]
+related: [ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-lanson-black-label-nv]
+related_typed: {ENT-wine-sparkling-cristal-2013: same_region, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-lanson-black-label-nv: same_region}
 ratings:
   vivino: {score: 4.8, votes: 35186}
   wine_spectator: {score: 87, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 香槟最古老酒庄 Ruinart 旗舰白中白，纯净优雅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ruinart%20Blanc%20de%20Blancs%20NV%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ruinart%20Blanc%20de%20Blancs%20NV%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Ruinart%20Blanc%20de%20Blancs%20NV%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

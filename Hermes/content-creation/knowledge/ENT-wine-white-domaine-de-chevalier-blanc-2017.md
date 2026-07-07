@@ -6,7 +6,8 @@ tags: [白酒, 波尔多, 赛美蓉, 长相思]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-white-haut-brion-blanc-2017, ENT-wine_white-off-027-vin, ENT-wine-white-smith-haut-lafitte-blanc-2017, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
+related: [ENT-wine-white-haut-brion-blanc-2017, ENT-wine-white-smith-haut-lafitte-blanc-2017, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
+related_typed: {ENT-wine-white-haut-brion-blanc-2017: same_region, ENT-wine-white-smith-haut-lafitte-blanc-2017: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 16934}
   parker: {score: 89, year: 2020}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 Pessac-Léognan 顶级白酒，骑士庄园白葡萄酒平衡优雅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Domaine%20de%20Chevalier%20Blanc%202017%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Domaine%20de%20Chevalier%20Blanc%202017%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Domaine%20de%20Chevalier%20Blanc%202017%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

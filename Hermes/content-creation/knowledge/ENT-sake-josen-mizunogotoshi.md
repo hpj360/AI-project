@@ -6,7 +6,8 @@ tags: [清酒, 日本, 吟醸, 上善如水, 新潟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-3nen, ENT-sake-hakkaisan-genshu]
+related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-genshu, ENT-sake-hakkaisan-3nen]
+related_typed: {ENT-sake-hakkaisan-honjozo: same_region, ENT-sake-hakkaisan-ginjo: same_region, ENT-sake-hakkaisan-junmai-daiginjo: same_region, ENT-sake-hakkaisan-genshu: same_region, ENT-sake-hakkaisan-3nen: same_region}
 ratings:
   vivino: {score: 4.8, votes: 11211}
   sake_revue: {score: 89, year: 2020}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 新潟白瀧酒造上善如水吟醸，淡丽如水，是新潟清酒走向全国的代表作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Josen%20Mizunogotoshi%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Josen%20Mizunogotoshi%20sake)
+- [Google 图片](https://www.google.com/search?q=Josen%20Mizunogotoshi%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

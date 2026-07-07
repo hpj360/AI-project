@@ -6,7 +6,8 @@ tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-chambertin-rousseau-2015]
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-chambertin-rousseau-2015, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-red-chambertin-rousseau-2015: same_region, ENT-wine_red-off-003-adama: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 3048}
   parker: {score: 89, year: 2023}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 DRC 在 Latricières-Chambertin 的地块，风格优雅细腻。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Latrici%C3%A8res-Chambertin%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Latrici%C3%A8res-Chambertin%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Latrici%C3%A8res-Chambertin%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

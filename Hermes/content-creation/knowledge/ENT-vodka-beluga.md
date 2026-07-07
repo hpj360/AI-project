@@ -6,7 +6,8 @@ tags: [伏特加, 俄罗斯, 贝尔鲁卡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-birch, ENT-vodka-off-141-absolut-vodka, ENT-vodka-five-lakes, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-five-lakes, ENT-vodka-birch, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka, ENT-vodka-off-147-wodka-gorb]
+related_typed: {ENT-vodka-five-lakes: same_region, ENT-vodka-birch: same_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat, ENT-vodka-off-147-wodka-gorb: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 8191}
   wine_enthusiast: {score: 91, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Beluga，西伯利亚小麦酿造，蜂巢蜜与燕麦精炼。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Beluga%20Noble%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Beluga%20Noble%20vodka)
+- [Google 图片](https://www.google.com/search?q=Beluga%20Noble%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,8 @@ tags: [白酒, 清香, 湖北, 黄鹤楼]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-wuliangye-1618, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
+related_typed: {ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 39638}
   csl: {score: 84, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 黄鹤楼 20 年，湖北清香型白酒代表，老牌名酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Huanghelou%2020%20Years%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Huanghelou%2020%20Years%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Huanghelou%2020%20Years%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 39638 |
-| 中国白酒鉴评 | 84 | 2021 |
+| 中国酒类鉴评 | 84 | 2021 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

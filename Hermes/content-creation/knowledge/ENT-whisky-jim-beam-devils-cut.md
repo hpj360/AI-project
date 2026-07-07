@@ -6,7 +6,8 @@ tags: [威士忌, 美国, 波本]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-jim-bean-white, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch, ENT-whisky-makers-mark-bourbon, ENT-whisky-jim-beam-black]
+related: [ENT-whisky-jim-bean-white, ENT-whisky-jim-beam-black, ENT-whisky-makers-mark-bourbon, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch]
+related_typed: {ENT-whisky-jim-bean-white: same_brand, ENT-whisky-jim-beam-black: same_brand, ENT-whisky-makers-mark-bourbon: same_region, ENT-whisky-makers-mark-46: same_region, ENT-whisky-four-roses-small-batch: same_region}
 ratings:
   vivino: {score: 4.8, votes: 27350}
   whisky_fun: {score: 89, year: 2023}
@@ -23,6 +24,12 @@ awards:
 ## 概述
 
 占边魔鬼之切，融合橡木桶吸附酒液，浓郁强劲。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jim%20Beam%20Devil%27s%20Cut%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jim%20Beam%20Devil%27s%20Cut%20whisky)
+- [Google 图片](https://www.google.com/search?q=Jim%20Beam%20Devil%27s%20Cut%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,15 @@ tags: [鸡尾酒, 亚洲, 白酒, 茅台, 马天尼]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
+related_typed: {ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 23256}
+  diffords: {score: 4.78, year: 2020}
+  iba: {score: 5.0, year: 2020}
+awards:
+  - {name: Tales of the Cocktail Spirited Award, year: 2020, org: Tales of the Cocktail}
+  - {name: IBA World Competition Silver, year: 2022, org: IBA World Competition}
 ---
 
 # 茅台马天尼
@@ -16,6 +24,12 @@ related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, E
 ## 概述
 
 茅台白酒配干味美思搅和，酱香型白酒与西方味美思的跨界马天尼。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Maotai%20Martini%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Maotai%20Martini%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Maotai%20Martini%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -77,6 +91,21 @@ related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, E
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 23256 |
+| Difford's Guide | 4.78 | 2020 |
+| IBA 推荐 | 5.0 | 2020 |
+
+### 获奖记录
+
+- **2020** Tales of the Cocktail Spirited Award
+- **2022** IBA World Competition Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

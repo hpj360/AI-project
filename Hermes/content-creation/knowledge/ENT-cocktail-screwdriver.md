@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 橙汁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
+related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 9278}
+  diffords: {score: 4.22, year: 2022}
+  iba: {score: 4.6, year: 2022}
 ---
 
 # 螺丝刀
@@ -16,6 +21,12 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka
 ## 概述
 
 伏特加配橙汁，最简长饮，石油工人用螺丝刀搅拌而得名。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Screwdriver%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Screwdriver%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Screwdriver%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka
 | 苦 | 0 | ░░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 9278 |
+| Difford's Guide | 4.22 | 2022 |
+| IBA 推荐 | 4.6 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

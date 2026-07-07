@@ -6,7 +6,8 @@ tags: [桃红, 邦多, Mourvèdre, Tempier]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-rose-miraval-2019, ENT-wine-rose-garrus-2018, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-whispering-angel-2020]
+related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019, ENT-wine-rose-chateau-minuty-m-2020]
+related_typed: {ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 24162}
   parker: {score: 86, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 邦多名家 Tempier，Mourvèdre 主导的复杂桃红。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Domaine%20Tempier%20Bandol%20Ros%C3%A9%202019%20wine_rose%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Domaine%20Tempier%20Bandol%20Ros%C3%A9%202019%20wine_rose)
+- [Google 图片](https://www.google.com/search?q=Domaine%20Tempier%20Bandol%20Ros%C3%A9%202019%20wine_rose%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,8 @@ tags: [白酒, 特香, 江西, 四特酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-site-jiu-hongyun, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-site-jiu-hongyun, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
+related_typed: {ENT-baijiu-site-jiu-hongyun: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 38315}
   csl: {score: 86, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 四特酒十五年，特香型白酒高端代表，陈酿 15 年。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Site%20Jiu%2015%20Years%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Site%20Jiu%2015%20Years%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Site%20Jiu%2015%20Years%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 38315 |
-| 中国白酒鉴评 | 86 | 2023 |
+| 中国酒类鉴评 | 86 | 2023 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

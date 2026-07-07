@@ -6,7 +6,8 @@ tags: [红酒, 意大利, 超级托斯卡纳]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-tignanello-2017, ENT-wine-red-flaccianello-2017, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-tignanello-2017, ENT-wine-red-flaccianello-2017, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
+related_typed: {ENT-wine-red-tignanello-2017: same_brand, ENT-wine-red-flaccianello-2017: same_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
 ratings:
   vivino: {score: 4.7, votes: 25816}
   parker: {score: 86, year: 2020}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 Antinori 家族旗舰，与 Tignanello 同园出产，赤霞珠主导。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Antinori%20Solaia%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Antinori%20Solaia%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Antinori%20Solaia%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

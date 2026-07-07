@@ -6,7 +6,8 @@ tags: [白酒, 清香, 北京, 红星]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-hongxing-erguotou, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-hongxing-erguotou, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
+related_typed: {ENT-baijiu-hongxing-erguotou: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 165}
   csl: {score: 85, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 蓝花十五，红星中端清香白酒，陈酿 15 年基酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hongxing%20Lanhua%2015%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hongxing%20Lanhua%2015%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Hongxing%20Lanhua%2015%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 165 |
-| 中国白酒鉴评 | 85 | 2023 |
+| 中国酒类鉴评 | 85 | 2023 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

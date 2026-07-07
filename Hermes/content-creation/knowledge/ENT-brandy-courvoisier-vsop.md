@@ -6,7 +6,8 @@ tags: [白兰地, 干邑, 法国, 拿破仑]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-off-228-cognac-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees]
+related: [ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees, ENT-brandy-off-228-cognac-vs, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
+related_typed: {ENT-brandy-courvoisier-xo: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brandy-off-228-cognac-vs: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
 ratings:
   vivino: {score: 4.8, votes: 5446}
   wine_enthusiast: {score: 100, year: 2022}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 拿破仑 VSOP，干邑 VSOP 经典，拿破仑御用干邑。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Courvoisier%20VSOP%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Courvoisier%20VSOP%20brandy)
+- [Google 图片](https://www.google.com/search?q=Courvoisier%20VSOP%20brandy%20bottle&tbm=isch)
 
 ## 基础信息
 

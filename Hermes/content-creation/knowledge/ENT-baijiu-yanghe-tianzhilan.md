@@ -6,7 +6,8 @@ tags: [白酒, 浓香, 江苏, 洋河]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-yanghe-mengzhilan-m9, ENT-baijiu-yanghe-haizhilan, ENT-baijiu-yanghe-mengzhilan-m3, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
+related: [ENT-baijiu-yanghe-haizhilan, ENT-baijiu-yanghe-mengzhilan-m3, ENT-baijiu-yanghe-mengzhilan-m9, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
+related_typed: {ENT-baijiu-yanghe-haizhilan: same_brand, ENT-baijiu-yanghe-mengzhilan-m3: same_brand, ENT-baijiu-yanghe-mengzhilan-m9: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 15033}
   csl: {score: 88, year: 2022}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 天之蓝，洋河蓝色经典中端款，绵柔型浓香。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Yanghe%20Tianzhilan%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Yanghe%20Tianzhilan%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Yanghe%20Tianzhilan%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -58,7 +65,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 15033 |
-| 中国白酒鉴评 | 88 | 2022 |
+| 中国酒类鉴评 | 88 | 2022 |
 
 ### 获奖记录
 

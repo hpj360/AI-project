@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 古典, 白兰地, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-sazerac, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs]
+related: [ENT-cocktail-sazerac, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-grasshopper]
+related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region, ENT-cocktail-grasshopper: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 45272}
+  diffords: {score: 4.29, year: 2020}
+  iba: {score: 4.9, year: 2022}
 ---
 
 # 白兰地克鲁斯塔
@@ -16,6 +21,12 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-saze
 ## 概述
 
 干邑配马拉斯基诺与苦精，糖边围杯，Sidecar 的前身。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Brandy%20Crusta%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Brandy%20Crusta%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Brandy%20Crusta%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +92,16 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-saze
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 45272 |
+| Difford's Guide | 4.29 | 2020 |
+| IBA 推荐 | 4.9 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

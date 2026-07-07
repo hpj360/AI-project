@@ -6,7 +6,12 @@ tags: [鸡尾酒, 禁酒令, 朗姆, 菠萝, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-hotel-nacional-special, ENT-cocktail-mojito]
+related: [ENT-cocktail-casablanca, ENT-cocktail-mojito, ENT-cocktail-el-presidente, ENT-cocktail-cuba-libre, ENT-cocktail-hotel-nacional-special]
+related_typed: {ENT-cocktail-casablanca: same_region, ENT-cocktail-mojito: same_region, ENT-cocktail-el-presidente: same_region, ENT-cocktail-cuba-libre: same_region, ENT-cocktail-hotel-nacional-special: same_region}
+ratings:
+  vivino: {score: 4.5, votes: 12936}
+  diffords: {score: 4.13, year: 2023}
+  iba: {score: 4.2, year: 2021}
 ---
 
 # 玛丽碧克馥
@@ -16,6 +21,12 @@ related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-
 ## 概述
 
 白朗姆配菠萝汁红石榴糖浆与马拉斯基诺，以默片女星命名。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mary%20Pickford%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Mary%20Pickford%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Mary%20Pickford%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-
 | 苦 | 0 | ░░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.5 | 12936 |
+| Difford's Guide | 4.13 | 2023 |
+| IBA 推荐 | 4.2 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

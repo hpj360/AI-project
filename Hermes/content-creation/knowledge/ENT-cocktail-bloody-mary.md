@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 番茄, 早午餐]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-white-lady, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-bees-knees, ENT-cocktail-sidecar, ENT-vodka-off-142-poliakov]
+related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-mimosa, ENT-cocktail-bees-knees]
+related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-mimosa: same_region, ENT-cocktail-bees-knees: same_region}
+ratings:
+  vivino: {score: 4.3, votes: 47203}
+  diffords: {score: 4.11, year: 2023}
+  iba: {score: 4.0, year: 2022}
 ---
 
 # 血腥玛丽
@@ -16,6 +21,12 @@ related: [ENT-cocktail-white-lady, ENT-vodka-off-141-absolut-vodka, ENT-cocktail
 ## 概述
 
 伏特加配番茄汁与香料调味，宿醉解酒的早午餐经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bloody%20Mary%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bloody%20Mary%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Bloody%20Mary%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +92,16 @@ related: [ENT-cocktail-white-lady, ENT-vodka-off-141-absolut-vodka, ENT-cocktail
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.3 | 47203 |
+| Difford's Guide | 4.11 | 2023 |
+| IBA 推荐 | 4.0 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

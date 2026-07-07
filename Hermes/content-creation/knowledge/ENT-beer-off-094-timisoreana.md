@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, beer, 啤酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-corona, ENT-beer-tsingtao-pure-draft, ENT-beer-bud-ice, ENT-beer-goose-island-ipa, ENT-beer-brewdog-punk-ipa]
+related_typed: {ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat, ENT-beer-bud-ice: same_subcat, ENT-beer-goose-island-ipa: same_subcat, ENT-beer-brewdog-punk-ipa: same_subcat}
 ratings:
   vivino: {score: 4.4, votes: 23101}
   ratebeer: {score: 83, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Timisoreana
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Timisoreana%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Timisoreana%20beer)
+- [Google 图片](https://www.google.com/search?q=Timisoreana%20beer%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Timisoreana
@@ -30,6 +37,22 @@ OpenFoodFacts 真实产品数据：Timisoreana
 - **容量**：500 ml
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：麦芽、啤酒花、水、酵母
+- **酿造方法**：
+
+麦芽糖化后加酒花煮沸，冷却后发酵，部分二次发酵/陈年。
+- **陈酿方式**：拉格低温陈化，艾尔常温发酵
+
+## 风味描述
+
+- **颜色**：金黄至深棕
+- **香气**：麦芽、啤酒花
+- **口感**：麦芽、苦味、果香
+- **余味**：苦味回甘
+- **风味标签**：麦芽, 啤酒花, 苦味
 
 ## 评分奖项
 

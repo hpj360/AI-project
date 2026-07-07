@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 当代经典, 葡萄酒, 黑加仑]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
+related_typed: {ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 34233}
+  diffords: {score: 4.36, year: 2022}
+  iba: {score: 5.0, year: 2023}
 ---
 
 # 基尔
@@ -16,6 +21,12 @@ related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, E
 ## 概述
 
 勃艮第白葡萄酒配黑加仑力乔，法国经典开胃酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Kir%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Kir%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Kir%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, E
 | 苦 | 1 | █░░░░ |
 | 烈 | 1 | █░░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 34233 |
+| Difford's Guide | 4.36 | 2022 |
+| IBA 推荐 | 5.0 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 新时代, 朗姆, 姜啤, 百慕大]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
+related_typed: {ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 48686}
+  diffords: {score: 4.22, year: 2022}
+  iba: {score: 4.6, year: 2023}
 ---
 
 # 黑暗风暴
@@ -16,6 +21,12 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, E
 ## 概述
 
 黑朗姆浮于姜啤与青柠之上，如暴风雨乌云。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dark%20%27n%27%20Stormy%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dark%20%27n%27%20Stormy%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Dark%20%27n%27%20Stormy%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, E
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 48686 |
+| Difford's Guide | 4.22 | 2022 |
+| IBA 推荐 | 4.6 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

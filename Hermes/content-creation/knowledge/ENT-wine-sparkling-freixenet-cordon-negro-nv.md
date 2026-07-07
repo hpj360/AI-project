@@ -6,7 +6,8 @@ tags: [起泡酒, 卡瓦, Freixenet, 无年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine_sparkling-off-070-freixenet-prosecco, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-juve-y-camps-reserva-2017]
+related: [ENT-wine_sparkling-off-070-freixenet-prosecco, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-juve-y-camps-reserva-2017]
+related_typed: {ENT-wine_sparkling-off-070-freixenet-prosecco: same_brand, ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region}
 ratings:
   vivino: {score: 4.8, votes: 46425}
   wine_spectator: {score: 89, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 全球销量最大的卡瓦，Freixenet 黑牌磨砂瓶标志性。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Freixenet%20Cordon%20Negro%20NV%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Freixenet%20Cordon%20Negro%20NV%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Freixenet%20Cordon%20Negro%20NV%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

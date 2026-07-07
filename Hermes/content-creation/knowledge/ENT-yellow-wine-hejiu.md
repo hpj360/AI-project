@@ -6,7 +6,11 @@ tags: [黄酒, 上海, 和酒, 海派]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-jinsenianhua, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-shikumen, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-20y]
+related: [ENT-yellow-wine-shikumen, ENT-yellow-wine-jinsenianhua, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y]
+related_typed: {ENT-yellow-wine-shikumen: same_brand, ENT-yellow-wine-jinsenianhua: same_brand, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-yellow-wine-guyue-longshan-30y: same_subcat}
+ratings:
+  vivino: {score: 3.8, votes: 2660}
+  csl: {score: 79, year: 2021}
 ---
 
 # 和酒
@@ -16,6 +20,12 @@ related: [ENT-yellow-wine-jinsenianhua, ENT-yellow-wine-guyue-longshan-10y, ENT-
 ## 概述
 
 上海金枫和酒，海派黄酒代表，口感清爽甘甜，适合年轻消费群体。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hejiu%20yellow_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hejiu%20yellow_wine)
+- [Google 图片](https://www.google.com/search?q=Hejiu%20yellow_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-yellow-wine-jinsenianhua, ENT-yellow-wine-guyue-longshan-10y, ENT-
 - **口感**：口感清爽甘甜，易入口
 - **余味**：余味清爽，带甜香
 - **风味标签**：米香, 蜂蜜, 甜美
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.8 | 2660 |
+| 中国酒类鉴评 | 79 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

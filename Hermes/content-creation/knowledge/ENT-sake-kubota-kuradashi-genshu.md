@@ -6,7 +6,8 @@ tags: [清酒, 日本, 纯米大吟醸, 久保田, 原酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-kubota-suiju, ENT-sake-kubota-senju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban, ENT-sake-kubota-manju]
+related: [ENT-sake-kubota-senju, ENT-sake-kubota-manju, ENT-sake-kubota-suiju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban]
+related_typed: {ENT-sake-kubota-senju: same_brand, ENT-sake-kubota-manju: same_brand, ENT-sake-kubota-suiju: same_brand, ENT-sake-kubota-hyakuju: same_region, ENT-sake-kubota-hachiban: same_region}
 ratings:
   vivino: {score: 4.8, votes: 33891}
   sake_revue: {score: 97, year: 2020}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 久保田蔵出原酒，未加水勾兑的纯米大吟醸原酒，酒体浓郁。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Kubota%20Kuradashi%20Genshu%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Kubota%20Kuradashi%20Genshu%20sake)
+- [Google 图片](https://www.google.com/search?q=Kubota%20Kuradashi%20Genshu%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 低度, 意大利, 苦味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-cynar-sour, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-cynar-sour, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea]
+related_typed: {ENT-cocktail-cynar-sour: same_region, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 2537}
+  diffords: {score: 4.21, year: 2020}
+  iba: {score: 4.6, year: 2023}
 ---
 
 # 美式利坚诺
@@ -16,6 +21,12 @@ related: [ENT-cocktail-cynar-sour, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea
 ## 概述
 
 金巴利与甜味美思以苏打水延长，清爽低度开胃酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Americano%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Americano%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Americano%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-cynar-sour, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea
 | 苦 | 4 | ████░ |
 | 烈 | 1 | █░░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 2537 |
+| Difford's Guide | 4.21 | 2020 |
+| IBA 推荐 | 4.6 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

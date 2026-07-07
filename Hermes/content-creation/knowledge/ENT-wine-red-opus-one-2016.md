@@ -6,7 +6,8 @@ tags: [红酒, 纳帕谷, 美国, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015]
+related: [ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-red-screaming-eagle-2015: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-wine_red-off-003-adama: same_subcat}
 ratings:
   vivino: {score: 4.7, votes: 23257}
   parker: {score: 84, year: 2022}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 美国最负盛名的酒庄，由 Mouton 与 Mondavi 联手创立。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Opus%20One%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Opus%20One%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Opus%20One%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

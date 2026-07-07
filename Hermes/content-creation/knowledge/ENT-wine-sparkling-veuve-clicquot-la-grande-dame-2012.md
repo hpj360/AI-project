@@ -6,7 +6,8 @@ tags: [起泡酒, 香槟, Veuve Clicquot, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-lanson-black-label-nv, ENT-wine-sparkling-cristal-2013]
+related: [ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-lanson-black-label-nv]
+related_typed: {ENT-wine-sparkling-cristal-2013: same_region, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region, ENT-wine-sparkling-lanson-black-label-nv: same_region}
 ratings:
   vivino: {score: 4.7, votes: 28987}
   wine_spectator: {score: 84, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Veuve Clicquot 旗舰年份香槟，以酒庄创始遗孀命名。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Veuve%20Clicquot%20La%20Grande%20Dame%202012%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Veuve%20Clicquot%20La%20Grande%20Dame%202012%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Veuve%20Clicquot%20La%20Grande%20Dame%202012%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

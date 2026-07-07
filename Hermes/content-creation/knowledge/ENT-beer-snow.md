@@ -6,7 +6,8 @@ tags: [啤酒, 中国, 雪花, 工业拉格]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-nbpt, ENT-beer-great-leap, ENT-beer-slowboat]
+related: [ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat, ENT-beer-nbpt]
+related_typed: {ENT-beer-yanjing: same_region, ENT-beer-jing-a: same_region, ENT-beer-great-leap: same_region, ENT-beer-slowboat: same_region, ENT-beer-nbpt: same_region}
 ratings:
   vivino: {score: 4.8, votes: 17022}
   ratebeer: {score: 87, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 雪花啤酒，中国销量最大的啤酒品牌，清爽易饮，主打大众市场。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Snow%20Beer%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Snow%20Beer%20beer)
+- [Google 图片](https://www.google.com/search?q=Snow%20Beer%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

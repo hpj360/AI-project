@@ -6,7 +6,14 @@ tags: [鸡尾酒, Tiki, 朗姆, 椰子, 英属维京群岛]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea]
+related_typed: {ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 5178}
+  diffords: {score: 4.46, year: 2021}
+  iba: {score: 5.0, year: 2023}
+awards:
+  - {name: IBA World Competition Silver, year: 2021, org: IBA World Competition}
 ---
 
 # 止痛药
@@ -16,6 +23,12 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, E
 ## 概述
 
 黑朗姆配菠萝橙汁与椰奶油，Pusser's 商标之争后的加勒比经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Painkiller%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Painkiller%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Painkiller%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +92,20 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, E
 | 苦 | 0 | ░░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 5178 |
+| Difford's Guide | 4.46 | 2021 |
+| IBA 推荐 | 5.0 | 2023 |
+
+### 获奖记录
+
+- **2021** IBA World Competition Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

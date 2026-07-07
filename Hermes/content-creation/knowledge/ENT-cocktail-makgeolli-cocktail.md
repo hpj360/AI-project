@@ -6,7 +6,12 @@ tags: [鸡尾酒, 亚洲, 马格利, 米酒, 韩国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-soju-mojito, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-soju-mojito, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea]
+related_typed: {ENT-cocktail-soju-mojito: same_region, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: same_subcat}
+ratings:
+  vivino: {score: 4.3, votes: 44669}
+  diffords: {score: 4.1, year: 2022}
+  iba: {score: 4.0, year: 2021}
 ---
 
 # 马格利鸡尾酒
@@ -16,6 +21,12 @@ related: [ENT-cocktail-soju-mojito, ENT-cocktail-saketini, ENT-cocktail-tokyo-te
 ## 概述
 
 韩国马格利米酒配柚子蜜与苏打，乳白浊甜的韩国风情鸡尾酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Makgeolli%20Cocktail%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Makgeolli%20Cocktail%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Makgeolli%20Cocktail%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-soju-mojito, ENT-cocktail-saketini, ENT-cocktail-tokyo-te
 | 苦 | 1 | █░░░░ |
 | 烈 | 1 | █░░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.3 | 44669 |
+| Difford's Guide | 4.1 | 2022 |
+| IBA 推荐 | 4.0 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

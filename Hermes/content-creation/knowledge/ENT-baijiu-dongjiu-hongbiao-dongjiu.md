@@ -7,6 +7,7 @@ status: active
 created: 2026-07-07
 updated: 2026-07-07
 related: [ENT-baijiu-dongjiu-guomi-dongjiu, ENT-baijiu-zhenjiu-zhensanshi, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related_typed: {ENT-baijiu-dongjiu-guomi-dongjiu: same_brand, ENT-baijiu-zhenjiu-zhensanshi: same_region, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 ratings:
   vivino: {score: 4.0, votes: 49442}
   csl: {score: 82, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 红标董酒，董酒经典中端产品，药香风格突出。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dongjiu%20Hongbiao%20Dongjiu%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dongjiu%20Hongbiao%20Dongjiu%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Dongjiu%20Hongbiao%20Dongjiu%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.0 | 49442 |
-| 中国白酒鉴评 | 82 | 2023 |
+| 中国酒类鉴评 | 82 | 2023 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

@@ -6,7 +6,8 @@ tags: [啤酒, 德国, 保罗拉纳, 小麦啤酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-tsingtao, ENT-beer-hofbrau, ENT-beer-heineken]
+related: [ENT-beer-hofbrau, ENT-beer-tsingtao, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-hofbrau: same_region, ENT-beer-tsingtao: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 4.1, votes: 47369}
   ratebeer: {score: 83, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 保罗拉纳啤酒，德国慕尼黑白啤代表，香蕉与丁香风味突出。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Paulaner%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Paulaner%20beer)
+- [Google 图片](https://www.google.com/search?q=Paulaner%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

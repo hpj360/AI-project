@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-12, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-ballantines-17, ENT-whisky-chivas-regal-25]
+related: [ENT-whisky-ballantines-17, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25, ENT-whisky-dewars-12]
+related_typed: {ENT-whisky-ballantines-17: same_brand, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region, ENT-whisky-chivas-regal-25: same_region, ENT-whisky-dewars-12: same_region}
 ratings:
   vivino: {score: 4.8, votes: 40196}
   whisky_fun: {score: 91, year: 2022}
@@ -23,6 +24,12 @@ awards:
 ## 概述
 
 百龄坛 12 年，苏格兰调和威士忌，蜂蜜香草风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ballantine%27s%2012%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ballantine%27s%2012%20whisky)
+- [Google 图片](https://www.google.com/search?q=Ballantine%27s%2012%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

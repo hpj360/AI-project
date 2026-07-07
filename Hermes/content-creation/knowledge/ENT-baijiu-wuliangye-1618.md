@@ -6,7 +6,8 @@ tags: [白酒, 浓香, 四川, 五粮液]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related_typed: {ENT-baijiu-wuliangye-puwu: same_brand, ENT-baijiu-wuliangye-jiaobei: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 31914}
   csl: {score: 95, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 五粮液 1618，纪念 1618 年窖池群的高端浓香白酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wuliangye%201618%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Wuliangye%201618%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Wuliangye%201618%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -57,7 +64,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 31914 |
-| 中国白酒鉴评 | 95 | 2021 |
+| 中国酒类鉴评 | 95 | 2021 |
 
 ### 获奖记录
 

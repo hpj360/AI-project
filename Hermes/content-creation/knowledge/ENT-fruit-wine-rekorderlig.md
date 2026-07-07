@@ -6,7 +6,11 @@ tags: [果酒, 西打酒, 苹果酒, 瑞典, Rekorderlig]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-tsurume-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-choya-umeshu]
+related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-tsurume-umeshu]
+related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-fruit-wine-tsurume-umeshu: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 12166}
+  wine_enthusiast: {score: 90, year: 2021}
 ---
 
 # Rekorderlig 西打酒
@@ -16,6 +20,12 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 ## 概述
 
 Rekorderlig 瑞典西打酒，以水果口味与甜美风格著称，深受年轻市场欢迎。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Rekorderlig%20Cider%20fruit_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Rekorderlig%20Cider%20fruit_wine)
+- [Google 图片](https://www.google.com/search?q=Rekorderlig%20Cider%20fruit_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ Rekorderlig 瑞典西打酒，以水果口味与甜美风格著称，深受年�
 - **口感**：口感甜美，水果风味突出
 - **余味**：余味甜润，带果香
 - **风味标签**：水果, 苹果, 甜美
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 12166 |
+| Wine Enthusiast | 90 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

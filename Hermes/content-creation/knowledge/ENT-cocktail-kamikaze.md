@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 青柠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-smoke-signal, ENT-cocktail-westside]
+related: [ENT-cocktail-melon-ball, ENT-cocktail-test-pilot-modern, ENT-cocktail-smoke-signal, ENT-cocktail-brown-derby, ENT-cocktail-westside]
+related_typed: {ENT-cocktail-melon-ball: same_region, ENT-cocktail-test-pilot-modern: same_region, ENT-cocktail-smoke-signal: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 2839}
+  diffords: {score: 4.25, year: 2021}
+  iba: {score: 4.8, year: 2021}
 ---
 
 # 神风特攻
@@ -16,6 +21,12 @@ related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-vodka-off-141-a
 ## 概述
 
 伏特加配君度与青柠汁，酸甜凛冽的三材料经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Kamikaze%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Kamikaze%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Kamikaze%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-vodka-off-141-a
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 2 | ██░░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 2839 |
+| Difford's Guide | 4.25 | 2021 |
+| IBA 推荐 | 4.8 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

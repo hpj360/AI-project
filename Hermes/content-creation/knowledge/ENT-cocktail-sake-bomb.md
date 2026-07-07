@@ -6,7 +6,12 @@ tags: [鸡尾酒, 亚洲, 清酒, 啤酒, 派对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-cocktail-samurai, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake, ENT-cocktail-yuzu-margarita]
+related: [ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita]
+related_typed: {ENT-cocktail-sake-martini: same_region, ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region}
+ratings:
+  vivino: {score: 4.0, votes: 20968}
+  diffords: {score: 4.04, year: 2023}
+  iba: {score: 3.7, year: 2020}
 ---
 
 # 清酒炸弹
@@ -16,6 +21,12 @@ related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-cocktail-samurai, E
 ## 概述
 
 清酒杯架于啤酒杯上，敲桌使清酒坠入啤酒的派对狂欢饮品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sake%20Bomb%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sake%20Bomb%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Sake%20Bomb%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -77,6 +88,16 @@ related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-cocktail-samurai, E
 | 苦 | 3 | ███░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.0 | 20968 |
+| Difford's Guide | 4.04 | 2023 |
+| IBA 推荐 | 3.7 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

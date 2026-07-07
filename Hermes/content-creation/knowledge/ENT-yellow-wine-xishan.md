@@ -6,7 +6,11 @@ tags: [黄酒, 无锡, 锡山]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-huadiao]
+related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-huadiao]
+related_typed: {ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-yellow-wine-guyue-longshan-30y: cross_region, ENT-yellow-wine-guyue-longshan-50y: cross_region, ENT-yellow-wine-guyue-longshan-huadiao: same_subcat}
+ratings:
+  vivino: {score: 4.5, votes: 11246}
+  csl: {score: 84, year: 2021}
 ---
 
 # 锡山
@@ -16,6 +20,12 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 ## 概述
 
 江苏无锡锡山黄酒，江南黄酒代表，口感温润甘甜。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Xishan%20yellow_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Xishan%20yellow_wine)
+- [Google 图片](https://www.google.com/search?q=Xishan%20yellow_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 - **口感**：口感温润甘甜，易入口
 - **余味**：余味清爽，带甜香
 - **风味标签**：米香, 蜂蜜, 甜美
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.5 | 11246 |
+| 中国酒类鉴评 | 84 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

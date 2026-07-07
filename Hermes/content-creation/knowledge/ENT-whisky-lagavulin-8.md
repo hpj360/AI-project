@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-bowmore-15, ENT-whisky-bowmore-12, ENT-whisky-ardbeg-10, ENT-whisky-ardbeg-uigeadail, ENT-whisky-lagavulin-16]
+related: [ENT-whisky-lagavulin-16, ENT-whisky-ardbeg-10, ENT-whisky-ardbeg-uigeadail, ENT-whisky-bowmore-12, ENT-whisky-bowmore-15]
+related_typed: {ENT-whisky-lagavulin-16: same_brand, ENT-whisky-ardbeg-10: same_region, ENT-whisky-ardbeg-uigeadail: same_region, ENT-whisky-bowmore-12: same_region, ENT-whisky-bowmore-15: same_region}
 ratings:
   vivino: {score: 4.8, votes: 31665}
   whisky_fun: {score: 97, year: 2022}
@@ -23,6 +24,12 @@ awards:
 ## 概述
 
 拉加维林 8 年，纪念酒厂 200 周年的年轻泥煤威士忌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Lagavulin%208%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Lagavulin%208%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Lagavulin%208%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

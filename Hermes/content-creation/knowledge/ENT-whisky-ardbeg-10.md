@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 烟熏]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-bowmore-15, ENT-whisky-bowmore-12, ENT-whisky-ardbeg-uigeadail, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8]
+related: [ENT-whisky-ardbeg-uigeadail, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8, ENT-whisky-bowmore-12, ENT-whisky-bowmore-15]
+related_typed: {ENT-whisky-ardbeg-uigeadail: same_brand, ENT-whisky-lagavulin-16: same_region, ENT-whisky-lagavulin-8: same_region, ENT-whisky-bowmore-12: same_region, ENT-whisky-bowmore-15: same_region}
 ratings:
   vivino: {score: 4.8, votes: 27846}
   whisky_fun: {score: 90, year: 2022}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 雅伯 10 年，艾雷岛泥煤烟熏威士忌的极致代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ardbeg%2010%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ardbeg%2010%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Ardbeg%2010%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

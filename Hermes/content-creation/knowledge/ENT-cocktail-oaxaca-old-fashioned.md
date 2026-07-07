@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 梅斯卡尔, 龙舌兰, 古典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-tequila-off-183-tequila-gold, ENT-cocktail-dry-martini]
+related: [ENT-cocktail-naked-famous, ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation]
+related_typed: {ENT-cocktail-naked-famous: same_brand, ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region}
+ratings:
+  vivino: {score: 4.6, votes: 21359}
+  diffords: {score: 4.15, year: 2021}
+  iba: {score: 4.3, year: 2022}
 ---
 
 # 瓦哈卡古典
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-aviati
 ## 概述
 
 梅斯卡尔与龙舌兰配龙舌兰糖浆与苦精，烟熏古典的现代经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Oaxaca%20Old%20Fashioned%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Oaxaca%20Old%20Fashioned%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Oaxaca%20Old%20Fashioned%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -83,6 +94,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-aviati
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.6 | 21359 |
+| Difford's Guide | 4.15 | 2021 |
+| IBA 推荐 | 4.3 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

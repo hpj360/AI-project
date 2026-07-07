@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, rum, 朗姆酒, Captain Morgan]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-captain-morgan-spiced, ENT-rum-off-163-rhum-negrita, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-captain-morgan-black]
+related: [ENT-rum-captain-morgan-spiced, ENT-rum-captain-morgan-black, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-168-masskara, ENT-rum-off-167-spiced-rum]
+related_typed: {ENT-rum-captain-morgan-spiced: same_brand, ENT-rum-captain-morgan-black: same_brand, ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-168-masskara: cross_region, ENT-rum-off-167-spiced-rum: same_subcat}
 ratings:
   vivino: {score: 4.4, votes: 21298}
   wine_enthusiast: {score: 82, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Rhum ambré（Captain Morgan）
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Rhum%20ambr%C3%A9%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Rhum%20ambr%C3%A9%20rum)
+- [Google 图片](https://www.google.com/search?q=Rhum%20ambr%C3%A9%20rum%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Rhum ambré
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：Rhum ambré（Captain Morgan）
 - **容量**：700 ml e
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：糖蜜或甘蔗汁、水、酵母
+- **酿造方法**：
+
+糖蜜稀释发酵后壶式或连续蒸馏，部分入橡木桶陈年。
+- **陈酿方式**：白朗姆不陈年，金/黑朗姆橡木桶陈年
+
+## 风味描述
+
+- **颜色**：无色至深琥珀
+- **香气**：甘蔗、糖蜜
+- **口感**：甜润、焦糖
+- **余味**：甜润回甘
+- **风味标签**：甘蔗, 焦糖, 甜润
 
 ## 评分奖项
 

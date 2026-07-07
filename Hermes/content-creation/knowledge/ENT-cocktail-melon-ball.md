@@ -6,7 +6,12 @@ tags: [鸡尾酒, 短饮, 伏特加, 蜜瓜利口酒, 果味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-brown-derby, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-smoke-signal, ENT-cocktail-westside, ENT-vodka-off-142-poliakov]
+related: [ENT-cocktail-kamikaze, ENT-cocktail-test-pilot-modern, ENT-cocktail-smoke-signal, ENT-cocktail-brown-derby, ENT-cocktail-westside]
+related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-test-pilot-modern: same_region, ENT-cocktail-smoke-signal: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 16598}
+  diffords: {score: 4.36, year: 2021}
+  iba: {score: 5.0, year: 2022}
 ---
 
 # 蜜瓜球
@@ -16,6 +21,12 @@ related: [ENT-cocktail-brown-derby, ENT-vodka-off-141-absolut-vodka, ENT-cocktai
 ## 概述
 
 伏特加配蜜瓜利口酒与橙汁，翠绿果香的轻松派对饮品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Melon%20Ball%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Melon%20Ball%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Melon%20Ball%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-brown-derby, ENT-vodka-off-141-absolut-vodka, ENT-cocktai
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 16598 |
+| Difford's Guide | 4.36 | 2021 |
+| IBA 推荐 | 5.0 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [红酒, 西班牙, Ribera del Duero, 丹魄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-pingus-2015, ENT-wine-red-vega-sicilia-unico-2010, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-vega-sicilia-unico-2010, ENT-wine-red-pingus-2015, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto]
+related_typed: {ENT-wine-red-vega-sicilia-unico-2010: same_region, ENT-wine-red-pingus-2015: same_region, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 39155}
   parker: {score: 87, year: 2022}
@@ -25,6 +26,12 @@ awards:
 ## 概述
 
 Ribera del Duero 现代风格先驱，由 Alejandro Fernández 复兴。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Tinto%20Pesquera%20Gran%20Reserva%202012%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Tinto%20Pesquera%20Gran%20Reserva%202012%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Tinto%20Pesquera%20Gran%20Reserva%202012%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

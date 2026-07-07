@@ -6,7 +6,8 @@ tags: [加强酒, 雪莉, Amontillado, Valdespino]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-gonzalez-byass-tio-pepe-fino]
+related: [ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related_typed: {ENT-wine-fortified-gonzalez-byass-tio-pepe-fino: same_region, ENT-wine-fortified-lustau-palo-cortado-vors: same_region, ENT-wine-fortified-williams-humbert-dry-oloroso: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: same_subcat}
 ratings:
   vivino: {score: 4.1, votes: 29055}
   wine_spectator: {score: 82, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Valdespino 顶级 Amontillado，先生物后氧化陈酿。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Valdespino%20T%C3%ADo%20Diego%20Amontillado%20Sherry%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Valdespino%20T%C3%ADo%20Diego%20Amontillado%20Sherry%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Valdespino%20T%C3%ADo%20Diego%20Amontillado%20Sherry%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,8 @@ tags: [桃红, 普罗旺斯, Grenache, d'Esclans]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-rose-miraval-2019, ENT-wine-rose-garrus-2018, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-domaine-tempier-bandol-2019]
+related: [ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaine-tempier-bandol-2019]
+related_typed: {ENT-wine-rose-garrus-2018: same_brand, ENT-wine-rose-domaines-ott-clos-mireille-2019: same_region, ENT-wine-rose-miraval-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: cross_region, ENT-wine-rose-domaine-tempier-bandol-2019: same_subcat}
 ratings:
   vivino: {score: 3.9, votes: 43625}
   parker: {score: 81, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 普罗旺斯桃红全球标杆，Whispering Angel 引领桃红热潮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20d%27Esclans%20Whispering%20Angel%20Ros%C3%A9%202020%20wine_rose%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20d%27Esclans%20Whispering%20Angel%20Ros%C3%A9%202020%20wine_rose)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20d%27Esclans%20Whispering%20Angel%20Ros%C3%A9%202020%20wine_rose%20bottle&tbm=isch)
 
 ## 基础信息
 

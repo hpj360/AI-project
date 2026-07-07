@@ -6,7 +6,8 @@ tags: [伏特加, 调味, 法国, 灰雁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-156-grey-goose-original, ENT-vodka-off-142-poliakov, ENT-vodka-grey-goose-original, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-off-156-grey-goose-original, ENT-vodka-grey-goose-original, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
+related_typed: {ENT-vodka-off-156-grey-goose-original: same_brand, ENT-vodka-grey-goose-original: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 15417}
   wine_enthusiast: {score: 83, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 灰雁柠檬，法国柠檬浸渍，清新柑橘高级伏特加。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Grey%20Goose%20Le%20Citron%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Grey%20Goose%20Le%20Citron%20vodka)
+- [Google 图片](https://www.google.com/search?q=Grey%20Goose%20Le%20Citron%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

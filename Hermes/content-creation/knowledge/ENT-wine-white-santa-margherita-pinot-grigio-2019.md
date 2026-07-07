@@ -6,7 +6,8 @@ tags: [白酒, 意大利, 灰皮诺, 威尼托]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay]
+related: [ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic]
+related_typed: {ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 42641}
   parker: {score: 84, year: 2020}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 意大利灰皮诺标杆，Santa Margherita 引领全球 Pinot Grigio 热潮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Santa%20Margherita%20Pinot%20Grigio%202019%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Santa%20Margherita%20Pinot%20Grigio%202019%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Santa%20Margherita%20Pinot%20Grigio%202019%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

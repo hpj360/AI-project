@@ -6,7 +6,8 @@ tags: [加强酒, 波特, 年份, Cockburn's]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-warres-vintage-port-2016, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-grahams-vintage-port-2017]
+related: [ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-warres-vintage-port-2016]
+related_typed: {ENT-wine-fortified-grahams-vintage-port-2017: same_region, ENT-wine-fortified-dows-vintage-port-2016: same_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_region, ENT-wine-fortified-taylors-vintage-port-2016: same_region, ENT-wine-fortified-warres-vintage-port-2016: same_region}
 ratings:
   vivino: {score: 4.8, votes: 17732}
   wine_spectator: {score: 87, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Cockburn's 经典年份波特，结构化风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cockburn%27s%20Vintage%20Port%202015%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Cockburn%27s%20Vintage%20Port%202015%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Cockburn%27s%20Vintage%20Port%202015%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,8 @@ tags: [威士忌, 日本, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-gin-roku, ENT-whisky-taketsuru-17, ENT-whisky-hibiki-21]
+related: [ENT-gin-roku, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-hibiki-21, ENT-whisky-taketsuru-17]
+related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-hibiki-21: same_region, ENT-whisky-taketsuru-17: same_region}
 ratings:
   vivino: {score: 4.8, votes: 27816}
   whisky_fun: {score: 94, year: 2021}
@@ -23,6 +24,12 @@ awards:
 ## 概述
 
 响 17 年，日本调和威士忌经典，和谐平衡。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hibiki%2017%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hibiki%2017%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Hibiki%2017%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

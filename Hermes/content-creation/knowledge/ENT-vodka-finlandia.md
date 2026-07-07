@@ -6,7 +6,8 @@ tags: [伏特加, 芬兰, Finlandia]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-142-poliakov, ENT-vodka-off-145-vodka, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona, ENT-vodka-off-149-wodka, ENT-vodka-off-150-belvedere-organic-vodka, ENT-vodka-off-151-eristoff-black-70cl-18]
+related_typed: {ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat, ENT-vodka-off-149-wodka: same_subcat, ENT-vodka-off-150-belvedere-organic-vodka: same_subcat, ENT-vodka-off-151-eristoff-black-70cl-18: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 44207}
   wine_enthusiast: {score: 85, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Finlandia，芬兰大麦伏特加，冰川水调和纯净。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Finlandia%20Vodka%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Finlandia%20Vodka%20vodka)
+- [Google 图片](https://www.google.com/search?q=Finlandia%20Vodka%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

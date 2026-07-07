@@ -214,10 +214,11 @@ RATING_SOURCES = {
     "tequila": ["wine_enthusiast"],
     "liqueur": ["wine_enthusiast"],
     "beer": ["ratebeer"],
-    "yellow_wine": [],
-    "rice_wine": [],
-    "fruit_wine": [],
-    "mead": [],
+    "yellow_wine": ["csl", "vivino"],
+    "rice_wine": ["csl"],
+    "fruit_wine": ["wine_enthusiast", "vivino"],
+    "mead": ["wine_enthusiast", "ratebeer"],
+    "cocktail": ["diffords", "iba"],
     "other_spirit": [],
 }
 
@@ -271,6 +272,24 @@ AWARD_TEMPLATES = {
     "beer": [
         ("World Beer Cup", ["Gold", "Silver", "Bronze"]),
         ("WBA", ["Gold", "Silver"]),
+    ],
+    "yellow_wine": [
+        ("布鲁塞尔大奖赛", ["金奖", "银奖"]),
+        ("CMB", ["Gold", "Silver"]),
+    ],
+    "rice_wine": [
+        ("全国酒类鉴评", ["金奖", "银奖"]),
+    ],
+    "fruit_wine": [
+        ("IWSC", ["Gold", "Silver"]),
+        ("San Francisco", ["Gold", "Silver"]),
+    ],
+    "mead": [
+        ("Mazer Cup", ["Gold", "Silver", "Bronze"]),
+    ],
+    "cocktail": [
+        ("Tales of the Cocktail", ["Best Cocktail", "Spirited Award"]),
+        ("IBA World Competition", ["Gold", "Silver"]),
     ],
 }
 

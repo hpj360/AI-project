@@ -6,7 +6,11 @@ tags: [黄酒, 即墨, 山东, 黍米]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-huadiao]
+related: [ENT-yellow-wine-jimo-laoliu-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y]
+related_typed: {ENT-yellow-wine-jimo-laoliu-huangjiu: same_brand, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-yellow-wine-guyue-longshan-30y: cross_region, ENT-yellow-wine-guyue-longshan-50y: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 23494}
+  csl: {score: 88, year: 2020}
 ---
 
 # 即墨老酒
@@ -16,6 +20,12 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 ## 概述
 
 山东即墨老酒，北方黍米黄酒代表，色泽深褐，香气独特。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jimo%20Laoliu%20yellow_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jimo%20Laoliu%20yellow_wine)
+- [Google 图片](https://www.google.com/search?q=Jimo%20Laoliu%20yellow_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 - **口感**：口感醇厚，焦香突出，甜度适中
 - **余味**：余味悠长，带焦香与米香
 - **风味标签**：焦香, 米香, 坚果
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 23494 |
+| 中国酒类鉴评 | 88 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

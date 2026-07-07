@@ -6,7 +6,8 @@ tags: [龙舌兰, 墨西哥, 唐胡里奥, Reposado]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-herradura-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-patron-silver, ENT-tequila-sauza-blanco, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-don-julio-blanco, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-herradura-reposado, ENT-tequila-patron-silver]
+related_typed: {ENT-tequila-don-julio-blanco: same_brand, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-herradura-reposado: same_region, ENT-tequila-patron-silver: same_region}
 ratings:
   vivino: {score: 4.0, votes: 48167}
   wine_enthusiast: {score: 83, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 唐胡里奥 Reposado，橡木桶陈酿 8 个月，柔顺香草。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Don%20Julio%20Reposado%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Don%20Julio%20Reposado%20tequila)
+- [Google 图片](https://www.google.com/search?q=Don%20Julio%20Reposado%20tequila%20bottle&tbm=isch)
 
 ## 基础信息
 

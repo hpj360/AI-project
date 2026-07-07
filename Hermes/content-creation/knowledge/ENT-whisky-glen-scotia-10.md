@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 坎贝尔敦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-246-jack-daniel-s-no-7, ENT-whisky-off-245-monkey-shoulder]
+related: [ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-whisky-off-252-black-barrel-whisky-40]
+related_typed: {ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat, ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat, ENT-whisky-off-252-black-barrel-whisky-40: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 11393}
   whisky_fun: {score: 91, year: 2021}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 格兰帝 10 年，坎贝尔敦产区代表，海盐泥煤风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Glen%20Scotia%2010%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Glen%20Scotia%2010%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Glen%20Scotia%2010%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

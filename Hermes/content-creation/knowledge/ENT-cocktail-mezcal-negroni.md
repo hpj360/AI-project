@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酒吧签名, 梅斯卡尔, 苦味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-off-183-tequila-gold, ENT-cocktail-verbena, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-in-the-rocks, ENT-tequila-off-185-silver-tequila-40]
+related: [ENT-cocktail-verbena, ENT-cocktail-in-the-rocks, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40]
+related_typed: {ENT-cocktail-verbena: same_region, ENT-cocktail-in-the-rocks: same_region, ENT-tequila-off-183-tequila-gold: base_to_cocktail, ENT-tequila-off-184-sierra-tequila-silver: base_to_cocktail, ENT-tequila-off-185-silver-tequila-40: base_to_cocktail}
+ratings:
+  vivino: {score: 4.2, votes: 33181}
+  diffords: {score: 4.08, year: 2020}
+  iba: {score: 3.9, year: 2021}
 ---
 
 # 梅斯卡尔尼格罗尼
@@ -16,6 +21,12 @@ related: [ENT-tequila-off-183-tequila-gold, ENT-cocktail-verbena, ENT-tequila-of
 ## 概述
 
 梅斯卡尔替代金酒的尼格罗尼变体，烟熏苦甜的现代演绎。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mezcal%20Negroni%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Mezcal%20Negroni%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Mezcal%20Negroni%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-tequila-off-183-tequila-gold, ENT-cocktail-verbena, ENT-tequila-of
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.2 | 33181 |
+| Difford's Guide | 4.08 | 2020 |
+| IBA 推荐 | 3.9 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

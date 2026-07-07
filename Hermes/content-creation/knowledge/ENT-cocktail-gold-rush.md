@@ -6,7 +6,14 @@ tags: [鸡尾酒, 现代经典, 波本, 蜂蜜, 柠檬]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-red-hook]
+related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-french-martini, ENT-cocktail-tom-collins]
+related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 28064}
+  diffords: {score: 4.4, year: 2022}
+  iba: {score: 5.0, year: 2022}
+awards:
+  - {name: IBA World Competition Gold, year: 2020, org: IBA World Competition}
 ---
 
 # 淘金热
@@ -16,6 +23,12 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 ## 概述
 
 波本配蜂蜜糖浆与柠檬汁，三料等比的甜润古典变体现代经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gold%20Rush%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Gold%20Rush%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Gold%20Rush%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +92,20 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 28064 |
+| Difford's Guide | 4.4 | 2022 |
+| IBA 推荐 | 5.0 | 2022 |
+
+### 获奖记录
+
+- **2020** IBA World Competition Gold
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

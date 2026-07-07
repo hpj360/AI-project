@@ -6,7 +6,8 @@ tags: [啤酒, 比利时, 罗斯福, 修道院啤酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-rochefort-6, ENT-beer-snow, ENT-beer-rochefort-10, ENT-beer-tsingtao, ENT-beer-budweiser]
+related: [ENT-beer-rochefort-6, ENT-beer-rochefort-10, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser]
+related_typed: {ENT-beer-rochefort-6: same_brand, ENT-beer-rochefort-10: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: same_subcat}
 ratings:
   vivino: {score: 4.7, votes: 22528}
   ratebeer: {score: 85, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 罗斯福 8 号，比利时修道院啤酒代表，深棕色酒体，焦糖与果香浓郁。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Rochefort%208%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Rochefort%208%20beer)
+- [Google 图片](https://www.google.com/search?q=Rochefort%208%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,14 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 蔓越莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
+related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 7319}
+  diffords: {score: 4.49, year: 2021}
+  iba: {score: 5.0, year: 2023}
+awards:
+  - {name: Tales of the Cocktail Best Cocktail, year: 2023, org: Tales of the Cocktail}
 ---
 
 # 海风
@@ -16,6 +23,12 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka
 ## 概述
 
 伏特加配蔓越莓汁与葡萄柚汁，清爽酸甜的夏日长饮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sea%20Breeze%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sea%20Breeze%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Sea%20Breeze%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +92,20 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 2 | ██░░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 7319 |
+| Difford's Guide | 4.49 | 2021 |
+| IBA 推荐 | 5.0 | 2023 |
+
+### 获奖记录
+
+- **2023** Tales of the Cocktail Best Cocktail
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

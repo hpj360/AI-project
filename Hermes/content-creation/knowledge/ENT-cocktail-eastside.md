@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 金酒, 薄荷, 黄瓜]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-gin-bombay-sapphire-east]
+related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
+related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
+ratings:
+  vivino: {score: 3.9, votes: 33084}
+  diffords: {score: 4.01, year: 2022}
+  iba: {score: 3.6, year: 2022}
 ---
 
 # 东岸
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 ## 概述
 
 金酒配薄荷黄瓜青柠糖浆，清凉通透的南方变体酸酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Eastside%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Eastside%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Eastside%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.9 | 33084 |
+| Difford's Guide | 4.01 | 2022 |
+| IBA 推荐 | 3.6 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [白兰地, 干邑, 法国, 轩尼诗, 限量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-martell-vsop, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-xo]
+related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-martell-vsop]
+related_typed: {ENT-brandy-hennessy-vs: same_brand, ENT-brandy-hennessy-vsop: same_brand, ENT-brandy-hennessy-xo: same_brand, ENT-brandy-hennessy-paradis: same_region, ENT-brandy-martell-vsop: same_region}
 ratings:
   vivino: {score: 4.8, votes: 8662}
   wine_enthusiast: {score: 97, year: 2021}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 轩尼诗李察，超顶级干邑，致敬创始人 Richard Hennessy。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hennessy%20Richard%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hennessy%20Richard%20brandy)
+- [Google 图片](https://www.google.com/search?q=Hennessy%20Richard%20brandy%20bottle&tbm=isch)
 
 ## 基础信息
 

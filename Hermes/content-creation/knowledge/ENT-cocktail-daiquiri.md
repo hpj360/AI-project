@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 酸酒, 朗姆, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-bacardi-cocktail, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-bacardi-cocktail, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-bacardi-cocktail: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+ratings:
+  vivino: {score: 4.4, votes: 33052}
+  diffords: {score: 4.12, year: 2023}
+  iba: {score: 4.1, year: 2023}
 ---
 
 # 得其利
@@ -16,6 +21,12 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-bacardi-cocktail, ENT-rum-o
 ## 概述
 
 白朗姆配青柠汁与糖浆，极简三材料酸酒，海明威挚爱。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Daiquiri%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Daiquiri%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Daiquiri%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-bacardi-cocktail, ENT-rum-o
 | 苦 | 0 | ░░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 2 | ██░░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 33052 |
+| Difford's Guide | 4.12 | 2023 |
+| IBA 推荐 | 4.1 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

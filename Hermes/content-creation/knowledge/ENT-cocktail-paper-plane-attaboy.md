@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酒吧签名, 波本, 阿佩罗, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey]
+related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
+related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 47510}
+  diffords: {score: 4.36, year: 2020}
+  iba: {score: 5.0, year: 2022}
 ---
 
 # 纸飞机（Attaboy 版）
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 ## 概述
 
 波本配阿佩罗柠檬汁与阿玛罗，等比四材料的现代酸甜经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Paper%20Plane%20%28Attaboy%20Version%29%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Paper%20Plane%20%28Attaboy%20Version%29%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Paper%20Plane%20%28Attaboy%20Version%29%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +92,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 47510 |
+| Difford's Guide | 4.36 | 2020 |
+| IBA 推荐 | 5.0 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

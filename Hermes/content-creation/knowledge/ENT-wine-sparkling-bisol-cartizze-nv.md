@@ -6,7 +6,8 @@ tags: [起泡酒, 普罗塞克, Bisol, Cartizze]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-valdo-prosecco-nv, ENT-wine-sparkling-bisol-crede-nv, ENT-wine-sparkling-adami-garbel-nv, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
+related: [ENT-wine-sparkling-bisol-crede-nv, ENT-wine-sparkling-valdo-prosecco-nv, ENT-wine-sparkling-adami-garbel-nv, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken]
+related_typed: {ENT-wine-sparkling-bisol-crede-nv: same_brand, ENT-wine-sparkling-valdo-prosecco-nv: same_region, ENT-wine-sparkling-adami-garbel-nv: same_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 39029}
   wine_spectator: {score: 86, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 普罗塞克顶级 Cru Cartizze，Bisol 旗舰单一园。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bisol%20Cartizze%20DOCG%20NV%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bisol%20Cartizze%20DOCG%20NV%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Bisol%20Cartizze%20DOCG%20NV%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

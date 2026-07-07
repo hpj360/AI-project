@@ -6,7 +6,8 @@ tags: [威士忌, 爱尔兰, 单一麦芽壶式, 雪莉桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-jameson, ENT-whisky-midleton-very-rare, ENT-whisky-redbreast-15, ENT-whisky-green-spot, ENT-whisky-jameson-black-barrel]
+related: [ENT-whisky-redbreast-15, ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-green-spot, ENT-whisky-midleton-very-rare]
+related_typed: {ENT-whisky-redbreast-15: same_brand, ENT-whisky-jameson: same_region, ENT-whisky-jameson-black-barrel: same_region, ENT-whisky-green-spot: same_region, ENT-whisky-midleton-very-rare: same_region}
 ratings:
   vivino: {score: 4.8, votes: 10095}
   whisky_fun: {score: 86, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 红胸 12 年，爱尔兰纯壶式蒸馏威士忌代表作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Redbreast%2012%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Redbreast%2012%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Redbreast%2012%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, 亚洲, 荔枝, 伏特加, 中国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
+related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+ratings:
+  vivino: {score: 4.2, votes: 20144}
+  diffords: {score: 4.08, year: 2020}
+  iba: {score: 3.9, year: 2021}
 ---
 
 # 荔枝马天尼
@@ -16,6 +21,12 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka
 ## 概述
 
 伏特加配荔枝力乔与青柠，甜美花香的东方荔枝马天尼。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Lychee%20Martini%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Lychee%20Martini%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Lychee%20Martini%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.2 | 20144 |
+| Difford's Guide | 4.08 | 2020 |
+| IBA 推荐 | 3.9 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

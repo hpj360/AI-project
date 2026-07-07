@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 黑麦, 酸酒, 波士顿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-cocktail-ward-eight, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-ward-eight, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail]
+related_typed: {ENT-cocktail-ward-eight: same_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 17141}
+  diffords: {score: 4.29, year: 2022}
+  iba: {score: 5.0, year: 2023}
 ---
 
 # 第八选区特调
@@ -16,6 +21,12 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 ## 概述
 
 黑麦配青柠橙汁与红石榴糖浆，波士顿政治庆功经典酸酒特调版。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ward%20Eight%20Signature%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ward%20Eight%20Signature%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Ward%20Eight%20Signature%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 17141 |
+| Difford's Guide | 4.29 | 2022 |
+| IBA 推荐 | 5.0 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

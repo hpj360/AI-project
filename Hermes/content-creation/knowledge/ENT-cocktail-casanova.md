@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 伏特加, 荔枝, 香槟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-white-lady, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-sidecar, ENT-vodka-off-142-poliakov, ENT-cocktail-bloody-mary]
+related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
+related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
+ratings:
+  vivino: {score: 4.0, votes: 49075}
+  diffords: {score: 4.04, year: 2022}
+  iba: {score: 3.7, year: 2022}
 ---
 
 # 卡萨诺瓦
@@ -16,6 +21,12 @@ related: [ENT-cocktail-white-lady, ENT-vodka-off-141-absolut-vodka, ENT-cocktail
 ## 概述
 
 伏特加配荔枝力乔与青柠汁，以香槟延长的浪漫气泡特调。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Casanova%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Casanova%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Casanova%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-white-lady, ENT-vodka-off-141-absolut-vodka, ENT-cocktail
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.0 | 49075 |
+| Difford's Guide | 4.04 | 2022 |
+| IBA 推荐 | 3.7 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

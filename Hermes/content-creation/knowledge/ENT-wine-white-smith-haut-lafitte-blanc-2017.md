@@ -6,7 +6,8 @@ tags: [白酒, 波尔多, 赛美蓉, 长相思]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine-white-haut-brion-blanc-2017, ENT-wine_white-off-027-vin, ENT-wine-white-domaine-de-chevalier-blanc-2017]
+related: [ENT-wine-white-haut-brion-blanc-2017, ENT-wine-white-domaine-de-chevalier-blanc-2017, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
+related_typed: {ENT-wine-white-haut-brion-blanc-2017: same_region, ENT-wine-white-domaine-de-chevalier-blanc-2017: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
 ratings:
   vivino: {score: 4.3, votes: 21700}
   parker: {score: 84, year: 2022}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 Pessac-Léognan 名庄 Smith Haut Lafitte 白葡萄酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20Smith%20Haut%20Lafitte%20Blanc%202017%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20Smith%20Haut%20Lafitte%20Blanc%202017%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20Smith%20Haut%20Lafitte%20Blanc%202017%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

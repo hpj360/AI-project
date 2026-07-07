@@ -6,7 +6,8 @@ tags: [清酒, 日本, 纯米大吟醸, 獭祭, 雫酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-dassai-23, ENT-sake-dassai-39, ENT-sake-dassai-50, ENT-sake-dassai-23-nigori, ENT-sake-dassai-45]
+related: [ENT-sake-dassai-23, ENT-sake-dassai-39, ENT-sake-dassai-45, ENT-sake-dassai-50, ENT-sake-dassai-23-nigori]
+related_typed: {ENT-sake-dassai-23: same_brand, ENT-sake-dassai-39: same_brand, ENT-sake-dassai-45: same_brand, ENT-sake-dassai-50: same_region, ENT-sake-dassai-23-nigori: same_region}
 ratings:
   vivino: {score: 4.8, votes: 12278}
   sake_revue: {score: 95, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 獭祭磨三割九的袋吊雫酒版本，无压榨取酒，香气更显纯净。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dassai%2039%20Nigori%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dassai%2039%20Nigori%20sake)
+- [Google 图片](https://www.google.com/search?q=Dassai%2039%20Nigori%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

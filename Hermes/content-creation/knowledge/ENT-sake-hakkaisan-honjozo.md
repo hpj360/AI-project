@@ -6,7 +6,8 @@ tags: [清酒, 日本, 本酿造, 八海山]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-3nen, ENT-sake-hakkaisan-genshu, ENT-sake-josen-mizunogotoshi]
+related: [ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-genshu, ENT-sake-hakkaisan-3nen, ENT-sake-josen-mizunogotoshi]
+related_typed: {ENT-sake-hakkaisan-ginjo: same_brand, ENT-sake-hakkaisan-junmai-daiginjo: same_brand, ENT-sake-hakkaisan-genshu: same_brand, ENT-sake-hakkaisan-3nen: same_region, ENT-sake-josen-mizunogotoshi: same_region}
 ratings:
   vivino: {score: 4.8, votes: 29887}
   sake_revue: {score: 95, year: 2020}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 八海山本酿造，新潟淡丽风代表，清爽甘甜，性价比突出。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hakkaisan%20Honjozo%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hakkaisan%20Honjozo%20sake)
+- [Google 图片](https://www.google.com/search?q=Hakkaisan%20Honjozo%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

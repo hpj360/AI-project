@@ -6,7 +6,8 @@ tags: [起泡酒, 香槟, Louis Roederer, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-red-pichon-lalande-2016, ENT-wine-sparkling-krug-grande-cuvee-170]
+related: [ENT-wine-red-pichon-lalande-2016, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
+related_typed: {ENT-wine-red-pichon-lalande-2016: same_brand, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region}
 ratings:
   vivino: {score: 4.8, votes: 43390}
   wine_spectator: {score: 90, year: 2022}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 Louis Roederer 旗舰年份香槟，原为沙皇亚历山大二世定制。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Louis%20Roederer%20Cristal%202013%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Louis%20Roederer%20Cristal%202013%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Louis%20Roederer%20Cristal%202013%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

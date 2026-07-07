@@ -6,7 +6,8 @@ tags: [啤酒, 德国, HB, 皇家啤酒, 慕尼黑清啤]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-tsingtao, ENT-beer-paulaner, ENT-beer-heineken]
+related: [ENT-beer-paulaner, ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing]
+related_typed: {ENT-beer-paulaner: same_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 40235}
   ratebeer: {score: 84, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 HB 皇家啤酒，慕尼黑皇家啤酒厂代表，是慕尼黑啤酒节官方啤酒之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hofbr%C3%A4u%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hofbr%C3%A4u%20beer)
+- [Google 图片](https://www.google.com/search?q=Hofbr%C3%A4u%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

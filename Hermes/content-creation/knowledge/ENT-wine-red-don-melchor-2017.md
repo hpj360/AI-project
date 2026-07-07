@@ -6,7 +6,8 @@ tags: [红酒, 智利, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine-red-carmin-de-peumo-2017, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-carmin-de-peumo-2017, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp]
+related_typed: {ENT-wine-red-carmin-de-peumo-2017: same_brand, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 44896}
   parker: {score: 83, year: 2022}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 智利顶级赤霞珠，Puente Alto 高地老藤，结构深厚。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Concha%20y%20Toro%20Don%20Melchor%202017%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Concha%20y%20Toro%20Don%20Melchor%202017%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Concha%20y%20Toro%20Don%20Melchor%202017%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

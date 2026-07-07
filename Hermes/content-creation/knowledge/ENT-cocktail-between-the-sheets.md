@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 酸酒, 白兰地, 朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-white-lady, ENT-rum-off-163-rhum-negrita, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-cocktail-sidecar, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa, ENT-cocktail-bees-knees]
+related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region, ENT-cocktail-bees-knees: same_region}
+ratings:
+  vivino: {score: 4.2, votes: 1707}
+  diffords: {score: 4.09, year: 2020}
+  iba: {score: 3.9, year: 2021}
 ---
 
 # 枕边话
@@ -16,6 +21,12 @@ related: [ENT-cocktail-white-lady, ENT-rum-off-163-rhum-negrita, ENT-brandy-henn
 ## 概述
 
 白兰地与白朗姆双基酒配君度与柠檬汁，Sidecar 加强变体。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Between%20the%20Sheets%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Between%20the%20Sheets%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Between%20the%20Sheets%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-white-lady, ENT-rum-off-163-rhum-negrita, ENT-brandy-henn
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.2 | 1707 |
+| Difford's Guide | 4.09 | 2020 |
+| IBA 推荐 | 3.9 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

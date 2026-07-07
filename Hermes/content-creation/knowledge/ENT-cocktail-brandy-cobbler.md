@@ -6,7 +6,15 @@ tags: [鸡尾酒, 柯伯乐, 白兰地, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-brandy-hennessy-vsop]
+related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
+related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 29836}
+  diffords: {score: 4.46, year: 2022}
+  iba: {score: 5.0, year: 2021}
+awards:
+  - {name: IBA World Competition Silver, year: 2019, org: IBA World Competition}
+  - {name: Tales of the Cocktail Spirited Award, year: 2023, org: Tales of the Cocktail}
 ---
 
 # 白兰地柯伯乐
@@ -16,6 +24,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 ## 概述
 
 干邑配糖与橙片碎冰，19 世纪美国最受欢迎的清凉饮品之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Brandy%20Cobbler%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Brandy%20Cobbler%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Brandy%20Cobbler%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +93,21 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 29836 |
+| Difford's Guide | 4.46 | 2022 |
+| IBA 推荐 | 5.0 | 2021 |
+
+### 获奖记录
+
+- **2019** IBA World Competition Silver
+- **2023** Tales of the Cocktail Spirited Award
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [白酒, 浓香, 四川, 沱牌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-shede-zhihui-shede, ENT-baijiu-moutai-feitian-53, ENT-baijiu-shede-pinwei-shede, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-shede-zhihui-shede, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
+related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-shede-zhihui-shede: same_brand, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 14620}
   csl: {score: 89, year: 2023}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 沱牌特曲，舍得集团经典浓香型白酒，亲民之选。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Tuopai%20Tequ%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Tuopai%20Tequ%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Tuopai%20Tequ%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -58,7 +65,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 14620 |
-| 中国白酒鉴评 | 89 | 2023 |
+| 中国酒类鉴评 | 89 | 2023 |
 
 ### 获奖记录
 

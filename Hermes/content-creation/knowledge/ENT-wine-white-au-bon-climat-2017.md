@@ -6,7 +6,8 @@ tags: [白酒, 新世界, 霞多丽, 加州]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay]
+related: [ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-036-vin-d-espagne-blanc]
+related_typed: {ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat, ENT-wine_white-off-036-vin-d-espagne-blanc: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 26701}
   parker: {score: 89, year: 2020}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 Santa Barbara 名家 Au Bon Climat，勃艮第风格加州霞多丽。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Au%20Bon%20Climat%20Chardonnay%202017%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Au%20Bon%20Climat%20Chardonnay%202017%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Au%20Bon%20Climat%20Chardonnay%202017%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

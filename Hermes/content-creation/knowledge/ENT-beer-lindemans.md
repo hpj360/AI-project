@@ -6,7 +6,8 @@ tags: [啤酒, 比利时, 林德曼, 兰比克, 水果啤酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 26787}
   ratebeer: {score: 87, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 林德曼啤酒，比利时兰比克水果啤酒代表，野生酵母发酵，果香酸甜。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Lindemans%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Lindemans%20beer)
+- [Google 图片](https://www.google.com/search?q=Lindemans%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

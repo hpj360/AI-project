@@ -6,7 +6,8 @@ tags: [威士忌, 美国, 波本, 小批量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-jim-bean-white, ENT-whisky-four-roses-single-barrel, ENT-whisky-makers-mark-46, ENT-whisky-makers-mark-bourbon, ENT-whisky-jim-beam-black]
+related: [ENT-whisky-four-roses-single-barrel, ENT-whisky-makers-mark-bourbon, ENT-whisky-makers-mark-46, ENT-whisky-jim-bean-white, ENT-whisky-jim-beam-black]
+related_typed: {ENT-whisky-four-roses-single-barrel: same_brand, ENT-whisky-makers-mark-bourbon: same_region, ENT-whisky-makers-mark-46: same_region, ENT-whisky-jim-bean-white: same_region, ENT-whisky-jim-beam-black: same_region}
 ratings:
   vivino: {score: 4.8, votes: 14167}
   whisky_fun: {score: 89, year: 2023}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 四玫瑰小批量波本，4 种配方融合，柔顺复杂。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Four%20Roses%20Small%20Batch%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Four%20Roses%20Small%20Batch%20whisky)
+- [Google 图片](https://www.google.com/search?q=Four%20Roses%20Small%20Batch%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 咖啡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-bramble, ENT-cocktail-vesper, ENT-cocktail-gimlet]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region, ENT-cocktail-gimlet: same_region}
+ratings:
+  vivino: {score: 3.8, votes: 22524}
+  diffords: {score: 4.01, year: 2022}
+  iba: {score: 3.5, year: 2021}
 ---
 
 # 浓缩咖啡马天尼
@@ -16,6 +21,12 @@ related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-cocktail-earl-grey-marti
 ## 概述
 
 伏特加配浓缩咖啡咖啡利口酒与糖浆，提神醒酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Espresso%20Martini%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Espresso%20Martini%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Espresso%20Martini%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-cocktail-earl-grey-marti
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.8 | 22524 |
+| Difford's Guide | 4.01 | 2022 |
+| IBA 推荐 | 3.5 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

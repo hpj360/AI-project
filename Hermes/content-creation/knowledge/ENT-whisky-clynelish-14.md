@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 高地]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-dalmore-15, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-glenmorangie-lasanta, ENT-whisky-dalmore-12, ENT-whisky-glenmorangie-original]
+related: [ENT-whisky-glenmorangie-original, ENT-whisky-glenmorangie-lasanta, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards]
+related_typed: {ENT-whisky-glenmorangie-original: same_region, ENT-whisky-glenmorangie-lasanta: same_region, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 2722}
   whisky_fun: {score: 89, year: 2023}
@@ -23,6 +24,12 @@ awards:
 ## 概述
 
 克里尼利基 14 年，蜡质口感独特， Highland 蜡质威士忌代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Clynelish%2014%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Clynelish%2014%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Clynelish%2014%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 古典, 意大利, 苦味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-sake-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb]
+related: [ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
+related_typed: {ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail, ENT-gin-tanqueray-london-dry: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 13236}
+  diffords: {score: 4.34, year: 2020}
+  iba: {score: 5.0, year: 2021}
 ---
 
 # 尼格罗尼
@@ -16,6 +21,12 @@ related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-sake-martini, ENT-gin-bomba
 ## 概述
 
 意大利经典，金酒甜味美思金巴利等比搅和，苦甜平衡的代表作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Negroni%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Negroni%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Negroni%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-sake-martini, ENT-gin-bomba
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 13236 |
+| Difford's Guide | 4.34 | 2020 |
+| IBA 推荐 | 5.0 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

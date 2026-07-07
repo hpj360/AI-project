@@ -6,7 +6,12 @@ tags: [鸡尾酒, 高球, 苏格兰, 苏打水, 清爽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-rusty-nail, ENT-whisky-off-242-ballantine-s-finest, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-rusty-nail, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-saketini]
+related_typed: {ENT-cocktail-rusty-nail: same_region, ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 13578}
+  diffords: {score: 4.32, year: 2020}
+  iba: {score: 5.0, year: 2020}
 ---
 
 # 苏打苏格兰
@@ -16,6 +21,12 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 ## 概述
 
 苏格兰威士忌配苏打水，极简高球的鼻祖，烟雾与气泡的对话。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Scotch%20%26%20Soda%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Scotch%20%26%20Soda%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Scotch%20%26%20Soda%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -77,6 +88,16 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 13578 |
+| Difford's Guide | 4.32 | 2020 |
+| IBA 推荐 | 5.0 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

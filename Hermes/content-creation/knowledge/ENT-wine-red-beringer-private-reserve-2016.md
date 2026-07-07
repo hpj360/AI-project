@@ -6,7 +6,8 @@ tags: [红酒, 纳帕谷, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-joseph-phelps-insignia-2016, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-joseph-phelps-insignia-2016, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto]
+related_typed: {ENT-wine-red-joseph-phelps-insignia-2016: same_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 27450}
   parker: {score: 87, year: 2021}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 纳帕最古老的连续经营酒庄之一，私藏赤霞珠多次获奖。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Beringer%20Private%20Reserve%20Cabernet%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Beringer%20Private%20Reserve%20Cabernet%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Beringer%20Private%20Reserve%20Cabernet%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

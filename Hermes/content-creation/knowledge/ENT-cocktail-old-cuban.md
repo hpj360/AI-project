@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 朗姆, 薄荷, 香槟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-manhattan, ENT-cocktail-final-ward, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-red-hook]
+related: [ENT-cocktail-red-hook, ENT-cocktail-paper-plane, ENT-cocktail-final-ward, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
+related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-final-ward: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
+ratings:
+  vivino: {score: 4.5, votes: 22927}
+  diffords: {score: 4.14, year: 2022}
+  iba: {score: 4.2, year: 2023}
 ---
 
 # 老古巴
@@ -16,6 +21,12 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-manhattan, ENT-cocktail-fin
 ## 概述
 
 陈年朗姆配薄荷青柠糖浆与香槟，古典与莫吉托融合的现代经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Old%20Cuban%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Old%20Cuban%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Old%20Cuban%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -82,6 +93,16 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-manhattan, ENT-cocktail-fin
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.5 | 22927 |
+| Difford's Guide | 4.14 | 2022 |
+| IBA 推荐 | 4.2 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

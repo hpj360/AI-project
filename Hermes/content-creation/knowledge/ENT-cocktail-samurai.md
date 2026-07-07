@@ -6,7 +6,15 @@ tags: [鸡尾酒, 亚洲, 清酒, 威士忌, 经典]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-sake-off-096-cooking-sake, ENT-whisky-off-243-whisky-40, ENT-sake-off-098-sake]
+related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-yuzu-margarita]
+related_typed: {ENT-cocktail-sake-bomb: same_region, ENT-cocktail-sake-martini: same_region, ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-yuzu-margarita: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 26328}
+  diffords: {score: 4.46, year: 2020}
+  iba: {score: 5.0, year: 2023}
+awards:
+  - {name: IBA World Competition Gold, year: 2020, org: IBA World Competition}
+  - {name: Tales of the Cocktail Best Cocktail, year: 2020, org: Tales of the Cocktail}
 ---
 
 # 武士
@@ -16,6 +24,12 @@ related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-whisky-off-244-john
 ## 概述
 
 清酒配日本威士忌与苦精，东西方烈酒融合的武士道精神之饮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Samurai%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Samurai%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Samurai%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +92,21 @@ related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-whisky-off-244-john
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 26328 |
+| Difford's Guide | 4.46 | 2020 |
+| IBA 推荐 | 5.0 | 2023 |
+
+### 获奖记录
+
+- **2020** IBA World Competition Gold
+- **2020** Tales of the Cocktail Best Cocktail
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

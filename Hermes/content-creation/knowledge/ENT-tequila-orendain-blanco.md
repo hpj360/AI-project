@@ -6,7 +6,8 @@ tags: [龙舌兰, 墨西哥, Orendain, Blanco, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-off-186-tequila, ENT-tequila-off-183-tequila-gold, ENT-tequila-don-valente-blanco, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40]
+related: [ENT-tequila-don-valente-blanco, ENT-tequila-off-186-tequila, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado, ENT-tequila-off-188-tequila-estribos, ENT-tequila-off-189-tequila-0-35l]
+related_typed: {ENT-tequila-don-valente-blanco: same_region, ENT-tequila-off-186-tequila: cross_region, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado: cross_region, ENT-tequila-off-188-tequila-estribos: same_subcat, ENT-tequila-off-189-tequila-0-35l: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 6640}
   wine_enthusiast: {score: 91, year: 2020}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 欧雷 Orendain Blanco，哈利斯科传统家族酒厂白龙舌兰。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Orendain%20Blanco%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Orendain%20Blanco%20tequila)
+- [Google 图片](https://www.google.com/search?q=Orendain%20Blanco%20tequila%20bottle&tbm=isch)
 
 ## 基础信息
 

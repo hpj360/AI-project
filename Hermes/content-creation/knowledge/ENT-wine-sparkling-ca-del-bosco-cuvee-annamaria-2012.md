@@ -6,7 +6,8 @@ tags: [起泡酒, 弗兰恰科塔, Ca' del Bosco, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
+related: [ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition]
+related_typed: {ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: cross_region, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 4100}
   wine_spectator: {score: 87, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Ca' del Bosco 旗舰年份弗兰恰科塔，酒庄最高作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ca%27%20del%20Bosco%20Cuv%C3%A9e%20Annamaria%20Clementi%202012%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ca%27%20del%20Bosco%20Cuv%C3%A9e%20Annamaria%20Clementi%202012%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Ca%27%20del%20Bosco%20Cuv%C3%A9e%20Annamaria%20Clementi%202012%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

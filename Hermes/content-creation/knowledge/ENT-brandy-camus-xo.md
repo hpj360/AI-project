@@ -6,7 +6,8 @@ tags: [白兰地, 干邑, 法国, 卡慕]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-camus-vsop, ENT-brandy-camus-borders-iut, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-xo]
+related: [ENT-brandy-camus-vsop, ENT-brandy-camus-borders-iut, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo]
+related_typed: {ENT-brandy-camus-vsop: same_brand, ENT-brandy-camus-borders-iut: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region}
 ratings:
   vivino: {score: 4.8, votes: 27387}
   wine_enthusiast: {score: 91, year: 2020}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 卡慕 XO，干邑 XO 经典，边界区风格突出。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Camus%20XO%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Camus%20XO%20brandy)
+- [Google 图片](https://www.google.com/search?q=Camus%20XO%20brandy%20bottle&tbm=isch)
 
 ## 基础信息
 

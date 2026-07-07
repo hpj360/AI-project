@@ -6,7 +6,8 @@ tags: [白酒, 浓香, 四川, 泸州老窖]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-luzhou-touqu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-touqu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related_typed: {ENT-baijiu-luzhou-laojiao-tequ: same_brand, ENT-baijiu-luzhou-touqu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 17004}
   csl: {score: 91, year: 2020}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 国窖 1573，源自 1573 年明代国宝窖池群，超高端浓香白酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Guojiao%201573%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Guojiao%201573%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Guojiao%201573%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -57,7 +64,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 17004 |
-| 中国白酒鉴评 | 91 | 2020 |
+| 中国酒类鉴评 | 91 | 2020 |
 
 ### 获奖记录
 

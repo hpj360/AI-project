@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, sake, 清酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake, ENT-sake-off-113-amazake]
+related: [ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-sake-dassai-23, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner]
+related_typed: {ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-sake-dassai-23: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 47081}
   sake_revue: {score: 84, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Saké Kamikokoro Kokagenosakana
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sak%C3%A9%20Kamikokoro%20Kokagenosakana%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sak%C3%A9%20Kamikokoro%20Kokagenosakana%20sake)
+- [Google 图片](https://www.google.com/search?q=Sak%C3%A9%20Kamikokoro%20Kokagenosakana%20sake%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Saké Kamikokoro Kokagenosakana
@@ -30,6 +37,22 @@ OpenFoodFacts 真实产品数据：Saké Kamikokoro Kokagenosakana
 - **容量**：720 ml
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：精米、米曲、水、酵母
+- **酿造方法**：
+
+并行复发酵（糖化与发酵同时进行），过滤后巴氏杀菌。
+- **陈酿方式**：通常不陈年（生酒除外）
+
+## 风味描述
+
+- **颜色**：无色至淡黄
+- **香气**：米香、果香
+- **口感**：米甜、果味、微酸
+- **余味**：清爽回甘
+- **风味标签**：米香, 果味, 清爽
 
 ## 评分奖项
 

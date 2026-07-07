@@ -6,7 +6,8 @@ tags: [金酒, 调味金酒, 英国, 哥顿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-gordons-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-gordons-london-dry, ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
+related_typed: {ENT-gin-gordons-london-dry: same_brand, ENT-gin-off-125-premium-pink-distilled-gin: same_brand, ENT-gin-off-128-traditional-style-grilled-squid: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region}
 ratings:
   vivino: {score: 4.8, votes: 38853}
   wine_enthusiast: {score: 85, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 哥顿接骨木花，加入接骨木花，清新花香风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gordon%27s%20Elderflower%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Gordon%27s%20Elderflower%20gin)
+- [Google 图片](https://www.google.com/search?q=Gordon%27s%20Elderflower%20gin%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 酸酒, 白兰地, 法国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-white-lady, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-cocktail-bees-knees, ENT-cocktail-bloody-mary]
+related: [ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa, ENT-cocktail-bees-knees]
+related_typed: {ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region, ENT-cocktail-bees-knees: same_region}
+ratings:
+  vivino: {score: 4.7, votes: 21965}
+  diffords: {score: 4.18, year: 2020}
+  iba: {score: 4.4, year: 2023}
 ---
 
 # 侧车
@@ -16,6 +21,12 @@ related: [ENT-cocktail-white-lady, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy
 ## 概述
 
 干邑配君度与柠檬汁，杯口糖边，法国经典白兰地酸酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sidecar%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sidecar%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Sidecar%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-white-lady, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.7 | 21965 |
+| Difford's Guide | 4.18 | 2020 |
+| IBA 推荐 | 4.4 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

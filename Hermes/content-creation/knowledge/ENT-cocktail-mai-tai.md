@@ -6,7 +6,15 @@ tags: [鸡尾酒, IBA, Tiki, 朗姆, 南洋]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
+related_typed: {ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 40481}
+  diffords: {score: 4.44, year: 2020}
+  iba: {score: 5.0, year: 2023}
+awards:
+  - {name: IBA World Competition Gold, year: 2020, org: IBA World Competition}
+  - {name: Tales of the Cocktail Best Cocktail, year: 2019, org: Tales of the Cocktail}
 ---
 
 # 迈泰
@@ -16,6 +24,12 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, E
 ## 概述
 
 陈年朗姆配橙桂利口酒杏仁糖浆与青柠汁，Tiki 鸡尾酒之王。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mai%20Tai%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Mai%20Tai%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Mai%20Tai%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +95,21 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, E
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 40481 |
+| Difford's Guide | 4.44 | 2020 |
+| IBA 推荐 | 5.0 | 2023 |
+
+### 获奖记录
+
+- **2020** IBA World Competition Gold
+- **2019** Tales of the Cocktail Best Cocktail
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

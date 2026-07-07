@@ -6,7 +6,12 @@ tags: [鸡尾酒, 亚洲, 清酒, 长饮, 派对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-vodka-off-141-absolut-vodka, ENT-tequila-off-183-tequila-gold, ENT-sake-off-098-sake, ENT-vodka-off-142-poliakov]
+related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita]
+related_typed: {ENT-cocktail-sake-bomb: same_region, ENT-cocktail-sake-martini: same_region, ENT-cocktail-saketini: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 23700}
+  diffords: {score: 4.4, year: 2022}
+  iba: {score: 5.0, year: 2021}
 ---
 
 # 东京冰茶
@@ -16,6 +21,12 @@ related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-vodka-off-141-absol
 ## 概述
 
 清酒配伏特加朗姆金酒龙舌兰与柠檬可乐，长岛冰茶的东方变体。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Tokyo%20Tea%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Tokyo%20Tea%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Tokyo%20Tea%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -83,6 +94,16 @@ related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-vodka-off-141-absol
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 23700 |
+| Difford's Guide | 4.4 | 2022 |
+| IBA 推荐 | 5.0 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,11 @@ tags: [米酒, 无锡, 惠泉]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
+related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-hongli-hongmi]
+related_typed: {ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-rice-wine-hongli-hongmi: same_subcat}
+ratings:
+  vivino: {score: 4.4, votes: 36012}
+  csl: {score: 82, year: 2021}
 ---
 
 # 惠泉酒
@@ -16,6 +20,12 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-w
 ## 概述
 
 江苏无锡惠泉酒，江南糯米黄酒代表，口感温润甘甜。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Huiquan%20Wine%20rice_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Huiquan%20Wine%20rice_wine)
+- [Google 图片](https://www.google.com/search?q=Huiquan%20Wine%20rice_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-w
 - **口感**：口感温润甘甜，米味突出
 - **余味**：余味清爽，带甜香
 - **风味标签**：米香, 蜂蜜, 甘甜
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 36012 |
+| 中国酒类鉴评 | 82 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

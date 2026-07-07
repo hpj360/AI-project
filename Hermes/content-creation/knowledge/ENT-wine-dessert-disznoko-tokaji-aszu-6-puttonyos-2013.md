@@ -6,7 +6,8 @@ tags: [甜酒, 托卡伊, Aszú, 6 Puttonyos]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-climens-2015, ENT-wine-dessert-rieussec-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015]
+related: [ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-rieussec-2015]
+related_typed: {ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: cross_region, ENT-wine-dessert-rieussec-2015: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 15151}
   parker: {score: 91, year: 2022}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 匈牙利托卡伊名家 Disznókő，6 篓贵腐甜白。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Diszn%C3%B3k%C5%91%20Tokaji%20Asz%C3%BA%206%20Puttonyos%202013%20wine_dessert%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Diszn%C3%B3k%C5%91%20Tokaji%20Asz%C3%BA%206%20Puttonyos%202013%20wine_dessert)
+- [Google 图片](https://www.google.com/search?q=Diszn%C3%B3k%C5%91%20Tokaji%20Asz%C3%BA%206%20Puttonyos%202013%20wine_dessert%20bottle&tbm=isch)
 
 ## 基础信息
 

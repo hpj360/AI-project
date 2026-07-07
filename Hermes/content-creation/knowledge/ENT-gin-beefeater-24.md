@@ -6,7 +6,8 @@ tags: [金酒, 伦敦干, 英国, 必富达]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-beefeater-london-dry, ENT-gin-off-132-pink-strawberry, ENT-gin-off-123-london-dry-gin, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-beefeater-london-dry, ENT-gin-off-123-london-dry-gin, ENT-gin-off-132-pink-strawberry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
+related_typed: {ENT-gin-beefeater-london-dry: same_brand, ENT-gin-off-123-london-dry-gin: same_brand, ENT-gin-off-132-pink-strawberry: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region}
 ratings:
   vivino: {score: 4.8, votes: 37941}
   wine_enthusiast: {score: 85, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 必富达 24，加入日本煎茶与柚子皮，24 小时浸渍。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Beefeater%2024%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Beefeater%2024%20gin)
+- [Google 图片](https://www.google.com/search?q=Beefeater%2024%20gin%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 酸酒, 威士忌, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40]
+related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan, ENT-cocktail-dirty-martini]
+related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region, ENT-cocktail-dirty-martini: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 35478}
+  diffords: {score: 4.33, year: 2020}
+  iba: {score: 5.0, year: 2020}
 ---
 
 # 威士忌酸酒
@@ -16,6 +21,12 @@ related: [ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviati
 ## 概述
 
 波本威士忌配柠檬汁与糖浆，酸甜平衡的经典酸酒代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Whiskey%20Sour%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Whiskey%20Sour%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Whiskey%20Sour%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviati
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 35478 |
+| Difford's Guide | 4.33 | 2020 |
+| IBA 推荐 | 5.0 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

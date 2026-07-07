@@ -6,7 +6,8 @@ tags: [白酒, 阿尔萨斯, 雷司令, 特级园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay]
+related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-032-blanc]
+related_typed: {ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat, ENT-wine_white-off-032-blanc: same_subcat}
 ratings:
   vivino: {score: 4.7, votes: 45640}
   parker: {score: 84, year: 2021}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 阿尔萨斯传奇 Trimbach 旗舰雷司令，Clos Sainte Hune 独占园。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Maison%20Trimbach%20Clos%20Sainte%20Hune%202013%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Maison%20Trimbach%20Clos%20Sainte%20Hune%202013%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Maison%20Trimbach%20Clos%20Sainte%20Hune%202013%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

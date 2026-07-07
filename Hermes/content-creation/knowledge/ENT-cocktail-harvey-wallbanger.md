@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 加利亚诺]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
+related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+ratings:
+  vivino: {score: 4.3, votes: 48761}
+  diffords: {score: 4.11, year: 2020}
+  iba: {score: 4.0, year: 2023}
 ---
 
 # 哈维撞墙
@@ -16,6 +21,12 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka
 ## 概述
 
 螺丝刀加加利亚诺草本力乔，风味升级版。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Harvey%20Wallbanger%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Harvey%20Wallbanger%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Harvey%20Wallbanger%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.3 | 48761 |
+| Difford's Guide | 4.11 | 2020 |
+| IBA 推荐 | 4.0 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

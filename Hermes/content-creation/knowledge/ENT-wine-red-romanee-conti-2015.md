@@ -6,7 +6,8 @@ tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-la-romane-liger-belair-2015, ENT-wine-red-grands-echezeaux-2015]
+related: [ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-la-romane-liger-belair-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-red-grands-echezeaux-2015: same_brand, ENT-wine-red-la-romane-liger-belair-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 31827}
   parker: {score: 94, year: 2021}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 全球最昂贵的红酒之一，年产仅 6000 瓶，被誉为酒中之王。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Roman%C3%A9e-Conti%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Roman%C3%A9e-Conti%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Roman%C3%A9e-Conti%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

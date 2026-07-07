@@ -6,7 +6,14 @@ tags: [鸡尾酒, 酒吧签名, 波本, 红酒, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-cocktail-salty-dog, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-salty-dog, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-tokyo-tea]
+related_typed: {ENT-cocktail-salty-dog: same_region, ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail, ENT-cocktail-tokyo-tea: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 45277}
+  diffords: {score: 4.41, year: 2021}
+  iba: {score: 5.0, year: 2022}
+awards:
+  - {name: IBA World Competition Silver, year: 2021, org: IBA World Competition}
 ---
 
 # 紫罗兰时刻主教
@@ -16,6 +23,12 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 ## 概述
 
 波本配红酒与蜂蜜苦精，芝加哥紫罗兰时刻酒吧的优雅签名。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Violet%20Hour%27s%20Bishop%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Violet%20Hour%27s%20Bishop%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Violet%20Hour%27s%20Bishop%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +94,20 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 45277 |
+| Difford's Guide | 4.41 | 2021 |
+| IBA 推荐 | 5.0 | 2022 |
+
+### 获奖记录
+
+- **2021** IBA World Competition Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

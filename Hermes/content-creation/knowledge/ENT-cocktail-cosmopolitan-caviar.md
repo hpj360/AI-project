@@ -6,7 +6,12 @@ tags: [鸡尾酒, 分子, 球化, 伏特加, 蔓越莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 39431}
+  diffords: {score: 4.23, year: 2021}
+  iba: {score: 4.6, year: 2022}
 ---
 
 # 大都会鱼子酱
@@ -16,6 +21,12 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-o
 ## 概述
 
 大都会鸡尾酒球化为鱼子酱颗粒，蔓越莓伏特加风味爆裂于口。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cosmopolitan%20Caviar%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Cosmopolitan%20Caviar%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Cosmopolitan%20Caviar%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -85,6 +96,16 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-o
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 39431 |
+| Difford's Guide | 4.23 | 2021 |
+| IBA 推荐 | 4.6 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

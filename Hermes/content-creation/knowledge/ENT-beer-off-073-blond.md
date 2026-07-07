@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Leffe]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr, ENT-beer-budweiser, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr, ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing]
+related_typed: {ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr: same_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat}
 ratings:
   vivino: {score: 4.1, votes: 44666}
   ratebeer: {score: 80, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Blond（Leffe），产地 Unspecified
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Blond%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Blond%20beer)
+- [Google 图片](https://www.google.com/search?q=Blond%20beer%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Blond
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：Blond（Leffe），产地 Unspecified
 - **容量**：.33l
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：麦芽、啤酒花、水、酵母
+- **酿造方法**：
+
+麦芽糖化后加酒花煮沸，冷却后发酵，部分二次发酵/陈年。
+- **陈酿方式**：拉格低温陈化，艾尔常温发酵
+
+## 风味描述
+
+- **颜色**：金黄至深棕
+- **香气**：麦芽、蜂蜜
+- **口感**：麦芽、蜂蜜、微苦
+- **余味**：苦味回甘
+- **风味标签**：麦芽, 蜂蜜, 微苦
 
 ## 评分奖项
 

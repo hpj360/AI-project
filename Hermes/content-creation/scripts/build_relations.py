@@ -39,16 +39,21 @@ def load_all_entries():
 
 
 def find_relations(entries):
-    """为每个条目找出关联条目。
+    """为每个条目找出关联条目（带类型）。
 
-    关联策略（按优先级）：
-    1. 同品牌（最多 3 个）
-    2. 同产区同子类（补到 5）
-    3. 跨子类：基酒→鸡尾酒
-    4. 跨产区同子类（补到 4）：不同产区同类酒（如不同产区的赤霞珠）
-    5. 同子类兜底（补到 5）：相同子类的其他条目随机选
-    6. 同风味标签（补到 5）：相同风味标签的条目
+    关联类型：
+    - same_brand: 同品牌
+    - same_region: 同产区同子类
+    - base_to_cocktail: 基酒→鸡尾酒
+    - cross_region: 跨产区同子类
+    - same_subcat: 同子类兜底
+    - same_flavor: 同风味标签
+
+    防热点机制：单节点最大入度 ≤30
     """
+    MAX_IN_DEGREE = 30
+    in_degree = defaultdict(int)
+
     # 建立索引
     by_subcat = defaultdict(list)
     by_brand = defaultdict(list)
@@ -60,7 +65,6 @@ def find_relations(entries):
         eid = e.get("id", "")
         sub = e.get("subcategory", "")
         by_subcat[sub].append(e)
-        # 品牌从 producer 或 name_en 提取
         producer = (e.get("producer", "") or "").lower()
         if producer:
             by_brand[producer].append(e)
@@ -71,11 +75,23 @@ def find_relations(entries):
         country = (e.get("country", "") or "").lower()
         if country:
             by_country[(sub, country)].append(e)
-        # 风味标签
         for tag in (e.get("flavor_tags") or []):
             by_flavor_tag[tag.lower()].append(e)
 
-    relations = defaultdict(set)
+    def try_add(src_id: str, tgt_id: str, rel_type: str,
+                rel_dict: dict, rel_set: set) -> bool:
+        """尝试添加带类型的关联。"""
+        if not tgt_id or tgt_id == src_id or tgt_id in rel_set:
+            return False
+        if in_degree[tgt_id] >= MAX_IN_DEGREE:
+            return False
+        rel_dict[tgt_id] = rel_type
+        rel_set.add(tgt_id)
+        in_degree[tgt_id] += 1
+        return True
+
+    # relations[eid] = {target_id: rel_type, ...}
+    relations = defaultdict(dict)
     for e in entries:
         eid = e.get("id", "")
         if not eid:
@@ -84,119 +100,122 @@ def find_relations(entries):
         producer = (e.get("producer", "") or "").lower()
         region = (e.get("region", "") or "").lower()
         country = (e.get("country", "") or "").lower()
+        rel_dict = relations[eid]
+        rel_set = set(rel_dict.keys())
 
         # 1. 同品牌（最多 3 个）
         if producer and len(by_brand[producer]) > 1:
             for other in by_brand[producer]:
-                oid = other.get("id", "")
-                if oid and oid != eid:
-                    relations[eid].add(oid)
-                    if len(relations[eid]) >= 3:
+                if try_add(eid, other.get("id", ""), "same_brand", rel_dict, rel_set):
+                    if len(rel_dict) >= 3:
                         break
 
         # 2. 同产区同子类（最多 2 个，补充到 5）
         if region:
             for other in by_region[region]:
-                oid = other.get("id", "")
-                if oid and oid != eid and other.get("subcategory") == sub:
-                    relations[eid].add(oid)
-                    if len(relations[eid]) >= 5:
-                        break
+                if other.get("subcategory") == sub:
+                    if try_add(eid, other.get("id", ""), "same_region", rel_dict, rel_set):
+                        if len(rel_dict) >= 5:
+                            break
 
         # 3. 跨子类：基酒→鸡尾酒
         if sub == "cocktail":
-            # 从 recipe 中提取基酒
             recipe = e.get("recipe", [])
             for item in recipe:
                 name = (item.get("name", "") or "").lower()
-                # 匹配基酒类型
                 if "威士忌" in name or "whisky" in name or "bourbon" in name:
                     for other in by_subcat.get("whisky", [])[:3]:
-                        relations[eid].add(other.get("id", ""))
+                        try_add(eid, other.get("id", ""), "base_to_cocktail", rel_dict, rel_set)
                 elif "金酒" in name or "gin" in name:
                     for other in by_subcat.get("gin", [])[:3]:
-                        relations[eid].add(other.get("id", ""))
+                        try_add(eid, other.get("id", ""), "base_to_cocktail", rel_dict, rel_set)
                 elif "伏特加" in name or "vodka" in name:
                     for other in by_subcat.get("vodka", [])[:3]:
-                        relations[eid].add(other.get("id", ""))
+                        try_add(eid, other.get("id", ""), "base_to_cocktail", rel_dict, rel_set)
                 elif "朗姆" in name or "rum" in name:
                     for other in by_subcat.get("rum", [])[:3]:
-                        relations[eid].add(other.get("id", ""))
+                        try_add(eid, other.get("id", ""), "base_to_cocktail", rel_dict, rel_set)
                 elif "龙舌兰" in name or "tequila" in name or "梅斯卡尔" in name or "mezcal" in name:
                     for other in by_subcat.get("tequila", [])[:3]:
-                        relations[eid].add(other.get("id", ""))
+                        try_add(eid, other.get("id", ""), "base_to_cocktail", rel_dict, rel_set)
                 elif "白兰地" in name or "brandy" in name or "干邑" in name:
                     for other in by_subcat.get("brandy", [])[:3]:
-                        relations[eid].add(other.get("id", ""))
+                        try_add(eid, other.get("id", ""), "base_to_cocktail", rel_dict, rel_set)
                 elif "清酒" in name or "sake" in name:
                     for other in by_subcat.get("sake", [])[:3]:
-                        relations[eid].add(other.get("id", ""))
+                        try_add(eid, other.get("id", ""), "base_to_cocktail", rel_dict, rel_set)
                 elif "白酒" in name or "baijiu" in name:
                     for other in by_subcat.get("baijiu", [])[:3]:
-                        relations[eid].add(other.get("id", ""))
+                        try_add(eid, other.get("id", ""), "base_to_cocktail", rel_dict, rel_set)
 
-        # 4. 跨产区同子类（补到 4）：不同产区/国家的同类酒
-        if len(relations[eid]) < 4 and sub:
+        # 4. 跨产区同子类（补到 4）
+        if len(rel_dict) < 4 and sub:
             same_sub_diff_region = [
                 other for other in by_subcat.get(sub, [])
                 if other.get("id", "") != eid
                 and (other.get("region", "") or "").lower() != region
             ]
-            for other in same_sub_diff_region[:3]:
-                oid = other.get("id", "")
-                if oid:
-                    relations[eid].add(oid)
-                    if len(relations[eid]) >= 4:
+            for other in same_sub_diff_region[:5]:
+                if try_add(eid, other.get("id", ""), "cross_region", rel_dict, rel_set):
+                    if len(rel_dict) >= 4:
                         break
 
-        # 5. 同子类兜底（补到 5）：相同子类的其他条目随机选
-        if len(relations[eid]) < 5 and sub:
+        # 5. 同子类兜底（补到 5）
+        if len(rel_dict) < 5 and sub:
             for other in by_subcat.get(sub, []):
-                oid = other.get("id", "")
-                if oid and oid != eid and oid not in relations[eid]:
-                    relations[eid].add(oid)
-                    if len(relations[eid]) >= 5:
+                if try_add(eid, other.get("id", ""), "same_subcat", rel_dict, rel_set):
+                    if len(rel_dict) >= 5:
                         break
 
         # 6. 同风味标签（补到 5）
-        if len(relations[eid]) < 5:
+        if len(rel_dict) < 5:
             for tag in (e.get("flavor_tags") or []):
                 for other in by_flavor_tag.get(tag.lower(), []):
-                    oid = other.get("id", "")
-                    if oid and oid != eid and oid not in relations[eid]:
-                        relations[eid].add(oid)
-                        if len(relations[eid]) >= 5:
+                    if try_add(eid, other.get("id", ""), "same_flavor", rel_dict, rel_set):
+                        if len(rel_dict) >= 5:
                             break
-                if len(relations[eid]) >= 5:
+                if len(rel_dict) >= 5:
                     break
 
-    # 截断到 5 个
-    return {k: list(v)[:5] for k, v in relations.items() if v}
+    # 返回 {eid: [(target_id, rel_type), ...]}
+    return {k: list(v.items())[:5] for k, v in relations.items() if v}
 
 
 def update_md_files(relations):
-    """更新 .md 文件，注入或替换 related 字段。"""
+    """更新 .md 文件，注入或替换 related 和 related_typed 字段。
+
+    relations 格式：{eid: [(target_id, rel_type), ...]}
+    - related: [id1, id2, ...]（向后兼容）
+    - related_typed: {target_id: rel_type, ...}（类型化关系）
+    """
     updated = 0
-    for eid, related in relations.items():
+    for eid, related_pairs in relations.items():
         md_path = KB_DIR / f"{eid}.md"
         if not md_path.exists():
             continue
         content = md_path.read_text(encoding="utf-8")
-        related_str = f"related: [{', '.join(related)}]"
-        # 如果已有 related 字段，替换它
+        # 兼容字段：仅 ID 列表
+        related_ids = [t for t, _ in related_pairs]
+        related_str = f"related: [{', '.join(related_ids)}]"
+        # 类型化字段：related_typed: {id: type, ...}
+        typed_pairs = [f"{tid}: {rtype}" for tid, rtype in related_pairs]
+        related_typed_str = "related_typed: {" + ", ".join(typed_pairs) + "}"
+
+        # 移除已有的 related_typed 字段（避免重复）
+        content = re.sub(r'^related_typed:.*$\n?', '', content, flags=re.MULTILINE)
+        # 替换或插入 related
         if re.search(r'^related:.*$', content, re.MULTILINE):
             content = re.sub(
                 r'^related:.*$',
-                related_str,
+                related_str + "\n" + related_typed_str,
                 content,
                 count=1,
                 flags=re.MULTILINE,
             )
         else:
-            # 在 updated: 行后插入 related
             content = re.sub(
                 r'(updated: \d{4}-\d{2}-\d{2})',
-                r'\1\n' + related_str,
+                r'\1\n' + related_str + "\n" + related_typed_str,
                 content,
                 count=1,
             )

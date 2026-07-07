@@ -6,7 +6,8 @@ tags: [白酒, 意大利, 霞多丽, 翁布里亚]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay]
+related: [ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
+related_typed: {ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 32017}
   parker: {score: 86, year: 2021}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 Antinori 旗下翁布里亚旗舰白葡萄酒，意大利顶级霞多丽。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Antinori%20Cervaro%20della%20Sala%202018%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Antinori%20Cervaro%20della%20Sala%202018%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Antinori%20Cervaro%20della%20Sala%202018%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

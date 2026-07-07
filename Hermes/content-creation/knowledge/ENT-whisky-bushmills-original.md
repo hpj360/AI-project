@@ -6,7 +6,8 @@ tags: [威士忌, 爱尔兰, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-bushmills-16, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-245-monkey-shoulder]
+related: [ENT-whisky-bushmills-16, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black]
+related_typed: {ENT-whisky-bushmills-16: same_brand, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat, ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 49337}
   whisky_fun: {score: 91, year: 2023}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 布什米尔斯原桶，世界最古老威士忌酒厂之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bushmills%20Original%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bushmills%20Original%20whisky)
+- [Google 图片](https://www.google.com/search?q=Bushmills%20Original%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

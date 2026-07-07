@@ -6,7 +6,8 @@ tags: [起泡酒, 香槟, Krug, 独占园, 黑中白]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
+related: [ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
+related_typed: {ENT-wine-sparkling-krug-grande-cuvee-170: same_brand, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 36796}
   wine_spectator: {score: 91, year: 2022}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 Krug 独占园黑中白香槟，Ambonnay 围墙内黑皮诺。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Krug%20Clos%20d%27Ambonnay%202002%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Krug%20Clos%20d%27Ambonnay%202002%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Krug%20Clos%20d%27Ambonnay%202002%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

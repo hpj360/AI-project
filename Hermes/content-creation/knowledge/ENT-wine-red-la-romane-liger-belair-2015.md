@@ -6,7 +6,8 @@ tags: [红酒, 勃艮第, 特级园, 独占园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine_red-off-002-bordeaux-2013, ENT-wine-red-richebourg-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine_red-off-003-adama, ENT-wine_red-off-005-cabernet-sauvignon]
+related_typed: {ENT-wine-red-romanee-conti-2015: same_region, ENT-wine-red-la-tache-2015: same_region, ENT-wine-red-richebourg-2015: same_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 19263}
   parker: {score: 89, year: 2021}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 勃艮第最小特级园独占园，仅 0.85 公顷，由 Liger-Belair 伯爵经营。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=La%20Roman%C3%A9e%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/La%20Roman%C3%A9e%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=La%20Roman%C3%A9e%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

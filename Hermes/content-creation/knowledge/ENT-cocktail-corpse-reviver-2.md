@@ -6,7 +6,14 @@ tags: [鸡尾酒, 禁酒令, 金酒, 力乔酒, 复苏]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 34895}
+  diffords: {score: 4.41, year: 2023}
+  iba: {score: 5.0, year: 2022}
+awards:
+  - {name: IBA World Competition Silver, year: 2019, org: IBA World Competition}
 ---
 
 # 尸体复活者二号
@@ -16,6 +23,12 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sa
 ## 概述
 
 金酒配君度马拉斯基诺与柠檬汁加苦艾酒洗杯，宿醉复苏经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Corpse%20Reviver%20No.2%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Corpse%20Reviver%20No.2%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Corpse%20Reviver%20No.2%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +93,20 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sa
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 34895 |
+| Difford's Guide | 4.41 | 2023 |
+| IBA 推荐 | 5.0 | 2022 |
+
+### 获奖记录
+
+- **2019** IBA World Competition Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -7,6 +7,14 @@ status: active
 created: 2026-07-07
 updated: 2026-07-07
 related: [ENT-cocktail-white-russian, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-white-russian: same_region, ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 24665}
+  diffords: {score: 4.49, year: 2022}
+  iba: {score: 5.0, year: 2023}
+awards:
+  - {name: Tales of the Cocktail Spirited Award, year: 2020, org: Tales of the Cocktail}
+  - {name: IBA World Competition Gold, year: 2020, org: IBA World Competition}
 ---
 
 # 黑色俄罗斯
@@ -16,6 +24,12 @@ related: [ENT-cocktail-white-russian, ENT-vodka-off-141-absolut-vodka, ENT-vodka
 ## 概述
 
 伏特加配咖啡力乔，简单浓郁的深色经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Black%20Russian%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Black%20Russian%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Black%20Russian%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +92,21 @@ related: [ENT-cocktail-white-russian, ENT-vodka-off-141-absolut-vodka, ENT-vodka
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 24665 |
+| Difford's Guide | 4.49 | 2022 |
+| IBA 推荐 | 5.0 | 2023 |
+
+### 获奖记录
+
+- **2020** Tales of the Cocktail Spirited Award
+- **2020** IBA World Competition Gold
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

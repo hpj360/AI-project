@@ -6,7 +6,14 @@ tags: [鸡尾酒, 古典, 金酒, 苦精, 英国海军]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-sake-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail]
+related_typed: {ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 8646}
+  diffords: {score: 4.45, year: 2023}
+  iba: {score: 5.0, year: 2022}
+awards:
+  - {name: IBA World Competition Gold, year: 2023, org: IBA World Competition}
 ---
 
 # 粉红金酒
@@ -16,6 +23,12 @@ related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-sake-martini, ENT-gin-bomba
 ## 概述
 
 金酒配安高天娜苦精，英国皇家海军的传统短饮，苦烈纯粹。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Pink%20Gin%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Pink%20Gin%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Pink%20Gin%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +91,20 @@ related: [ENT-gin-bombay-sapphire-east, ENT-cocktail-sake-martini, ENT-gin-bomba
 | 苦 | 4 | ████░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 8646 |
+| Difford's Guide | 4.45 | 2023 |
+| IBA 推荐 | 5.0 | 2022 |
+
+### 获奖记录
+
+- **2023** IBA World Competition Gold
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

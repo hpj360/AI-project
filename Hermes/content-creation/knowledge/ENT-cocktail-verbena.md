@@ -6,7 +6,12 @@ tags: [鸡尾酒, 创意, 龙舌兰, 柠檬马鞭草, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-mezcal-negroni, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-cocktail-in-the-rocks, ENT-tequila-off-185-silver-tequila-40]
+related: [ENT-cocktail-in-the-rocks, ENT-cocktail-mezcal-negroni, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40]
+related_typed: {ENT-cocktail-in-the-rocks: same_region, ENT-cocktail-mezcal-negroni: same_region, ENT-tequila-off-183-tequila-gold: base_to_cocktail, ENT-tequila-off-184-sierra-tequila-silver: base_to_cocktail, ENT-tequila-off-185-silver-tequila-40: base_to_cocktail}
+ratings:
+  vivino: {score: 4.8, votes: 25355}
+  diffords: {score: 4.29, year: 2021}
+  iba: {score: 4.9, year: 2023}
 ---
 
 # 马鞭草
@@ -16,6 +21,12 @@ related: [ENT-cocktail-mezcal-negroni, ENT-tequila-off-183-tequila-gold, ENT-teq
 ## 概述
 
 龙舌兰配柠檬马鞭草茶与蜂蜜柠檬汁，草本清新的现代酸酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Verbena%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Verbena%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Verbena%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-mezcal-negroni, ENT-tequila-off-183-tequila-gold, ENT-teq
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 25355 |
+| Difford's Guide | 4.29 | 2021 |
+| IBA 推荐 | 4.9 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

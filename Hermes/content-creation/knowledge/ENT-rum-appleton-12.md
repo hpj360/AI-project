@@ -6,7 +6,8 @@ tags: [朗姆酒, 牙买加, Appleton, 陈年]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-appleton-21, ENT-rum-off-163-rhum-negrita, ENT-rum-off-165-rhum-ambr, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-rum-appleton-21, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara, ENT-rum-off-169-caribbean-rum-with-coconut-flavour]
+related_typed: {ENT-rum-appleton-21: same_brand, ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat}
 ratings:
   vivino: {score: 4.4, votes: 30182}
   wine_enthusiast: {score: 84, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 阿普尔顿 12 年，牙买加陈年朗姆，复杂平衡。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Appleton%20Estate%2012%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Appleton%20Estate%2012%20rum)
+- [Google 图片](https://www.google.com/search?q=Appleton%20Estate%2012%20rum%20bottle&tbm=isch)
 
 ## 基础信息
 

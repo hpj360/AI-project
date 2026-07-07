@@ -6,7 +6,8 @@ tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-echezeaux-jayer-1999, ENT-wine-red-echezeaux-drc-2015]
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-echezeaux-drc-2015, ENT-wine-red-echezeaux-jayer-1999]
+related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-red-echezeaux-drc-2015: same_region, ENT-wine-red-echezeaux-jayer-1999: same_region}
 ratings:
   vivino: {score: 4.8, votes: 33260}
   parker: {score: 85, year: 2020}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 DRC 特级园，结构比 Échézeaux 更深厚，邻近 Clos de Vougeot。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Grands%20%C3%89ch%C3%A9zeaux%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Grands%20%C3%89ch%C3%A9zeaux%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Grands%20%C3%89ch%C3%A9zeaux%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

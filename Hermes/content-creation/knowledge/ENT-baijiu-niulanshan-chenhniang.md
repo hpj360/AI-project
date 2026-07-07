@@ -6,7 +6,8 @@ tags: [白酒, 清香, 北京, 牛栏山]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-niulanshan-erguotou-lvping, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-niulanshan-erguotou-lvping, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
+related_typed: {ENT-baijiu-niulanshan-erguotou-lvping: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 ratings:
   vivino: {score: 4.1, votes: 2727}
   csl: {score: 80, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 牛栏山陈酿，俗称白瓶牛二，国民口粮酒代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Niulanshan%20Chenniang%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Niulanshan%20Chenniang%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Niulanshan%20Chenniang%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.1 | 2727 |
-| 中国白酒鉴评 | 80 | 2023 |
+| 中国酒类鉴评 | 80 | 2023 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

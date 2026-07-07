@@ -6,7 +6,15 @@ tags: [鸡尾酒, 创意, Cardamaro, 飞溅, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail]
+related_typed: {ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 8362}
+  diffords: {score: 4.47, year: 2021}
+  iba: {score: 5.0, year: 2021}
+awards:
+  - {name: Tales of the Cocktail Spirited Award, year: 2021, org: Tales of the Cocktail}
+  - {name: IBA World Competition Silver, year: 2020, org: IBA World Competition}
 ---
 
 # Cardamaro 飞溅
@@ -16,6 +24,12 @@ related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, E
 ## 概述
 
 Cardamaro 葡萄酒利口酒配 Prosecco 与苏打，低度香草飞溅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cardamaro%20Spritz%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Cardamaro%20Spritz%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Cardamaro%20Spritz%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +93,21 @@ Cardamaro 葡萄酒利口酒配 Prosecco 与苏打，低度香草飞溅。
 | 苦 | 3 | ███░░ |
 | 烈 | 1 | █░░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 8362 |
+| Difford's Guide | 4.47 | 2021 |
+| IBA 推荐 | 5.0 | 2021 |
+
+### 获奖记录
+
+- **2021** Tales of the Cocktail Spirited Award
+- **2020** IBA World Competition Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,15 @@ tags: [鸡尾酒, 古典, 威士忌, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
+related_typed: {ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 4792}
+  diffords: {score: 4.44, year: 2023}
+  iba: {score: 5.0, year: 2020}
+awards:
+  - {name: Tales of the Cocktail Spirited Award, year: 2019, org: Tales of the Cocktail}
+  - {name: IBA World Competition Silver, year: 2019, org: IBA World Competition}
 ---
 
 # 古典
@@ -16,6 +24,12 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 ## 概述
 
 威士忌配糖苦精与水，最古老的鸡尾酒范式。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Old%20Fashioned%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Old%20Fashioned%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Old%20Fashioned%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +94,21 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 4792 |
+| Difford's Guide | 4.44 | 2023 |
+| IBA 推荐 | 5.0 | 2020 |
+
+### 获奖记录
+
+- **2019** Tales of the Cocktail Spirited Award
+- **2019** IBA World Competition Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

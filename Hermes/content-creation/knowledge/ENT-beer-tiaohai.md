@@ -6,7 +6,8 @@ tags: [啤酒, 中国, 跳海, 精酿, 北京]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-yanjing, ENT-beer-snow, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat]
+related: [ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat, ENT-beer-nbpt]
+related_typed: {ENT-beer-yanjing: same_region, ENT-beer-jing-a: same_region, ENT-beer-great-leap: same_region, ENT-beer-slowboat: same_region, ENT-beer-nbpt: same_region}
 ratings:
   vivino: {score: 4.8, votes: 30022}
   ratebeer: {score: 83, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 跳海啤酒，北京精酿新锐品牌，以创意风格与年轻化定位著称。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Tiaohai%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Tiaohai%20beer)
+- [Google 图片](https://www.google.com/search?q=Tiaohai%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

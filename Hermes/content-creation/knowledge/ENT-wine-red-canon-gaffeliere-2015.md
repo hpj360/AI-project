@@ -6,7 +6,8 @@ tags: [红酒, 波尔多, 圣埃美隆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-angelus-2015, ENT-wine-red-pavie-2015, ENT-wine-red-cheval-blanc-2015, ENT-wine-red-ausone-2015, ENT-wine-red-peby-faugeres-2015]
+related: [ENT-wine-red-cheval-blanc-2015, ENT-wine-red-ausone-2015, ENT-wine-red-pavie-2015, ENT-wine-red-angelus-2015, ENT-wine-red-peby-faugeres-2015]
+related_typed: {ENT-wine-red-cheval-blanc-2015: same_region, ENT-wine-red-ausone-2015: same_region, ENT-wine-red-pavie-2015: same_region, ENT-wine-red-angelus-2015: same_region, ENT-wine-red-peby-faugeres-2015: same_region}
 ratings:
   vivino: {score: 4.8, votes: 47404}
   parker: {score: 85, year: 2022}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 圣埃美隆一级 B，由德国 Count von Neipperg 经营，风格优雅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20Canon-La%20Gaffeli%C3%A8re%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20Canon-La%20Gaffeli%C3%A8re%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20Canon-La%20Gaffeli%C3%A8re%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

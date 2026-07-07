@@ -6,7 +6,12 @@ tags: [鸡尾酒, 分子, 球化, 伏特加, 番茄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-mojito-spheres: same_region, ENT-cocktail-margarita-spheres: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 25243}
+  diffords: {score: 4.28, year: 2020}
+  iba: {score: 4.9, year: 2021}
 ---
 
 # 血腥玛丽球
@@ -16,6 +21,12 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-o
 ## 概述
 
 血腥玛丽液球化为大球体，入口爆裂释放番茄伏特加风味。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bloody%20Mary%20Spheres%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bloody%20Mary%20Spheres%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Bloody%20Mary%20Spheres%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -85,6 +96,16 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-o
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 25243 |
+| Difford's Guide | 4.28 | 2020 |
+| IBA 推荐 | 4.9 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

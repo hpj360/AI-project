@@ -6,7 +6,8 @@ tags: [加强酒, 雪莉, Amontillado, Hidalgo]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-la-gitana-manzanilla, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related: [ENT-wine-fortified-la-gitana-manzanilla, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017]
+related_typed: {ENT-wine-fortified-la-gitana-manzanilla: same_brand, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 17915}
   wine_spectator: {score: 87, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Hidalgo 旗舰 Amontillado，Sanlúcar 风格氧化雪莉。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bodegas%20Hidalgo%20La%20Gitana%20Amontillado%20Sherry%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bodegas%20Hidalgo%20La%20Gitana%20Amontillado%20Sherry%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Bodegas%20Hidalgo%20La%20Gitana%20Amontillado%20Sherry%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

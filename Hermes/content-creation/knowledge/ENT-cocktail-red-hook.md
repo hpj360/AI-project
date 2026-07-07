@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 威士忌, 黑麦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-final-ward]
+related: [ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-final-ward, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
+related_typed: {ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-final-ward: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
+ratings:
+  vivino: {score: 4.4, votes: 25305}
+  diffords: {score: 4.11, year: 2021}
+  iba: {score: 4.1, year: 2022}
 ---
 
 # 红钩
@@ -16,6 +21,12 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 ## 概述
 
 黑麦威士忌配 Punt e Mes 与马拉斯加樱桃力乔，曼哈顿变体的现代经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Red%20Hook%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Red%20Hook%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Red%20Hook%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 25305 |
+| Difford's Guide | 4.11 | 2021 |
+| IBA 推荐 | 4.1 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

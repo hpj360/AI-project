@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 新时代, 金酒, 黑莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-vesper, ENT-cocktail-gimlet]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-vesper: same_region, ENT-cocktail-gimlet: same_region}
+ratings:
+  vivino: {score: 4.4, votes: 47467}
+  diffords: {score: 4.12, year: 2023}
+  iba: {score: 4.1, year: 2022}
 ---
 
 # 荆棘
@@ -16,6 +21,12 @@ related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-cocktail-earl-grey-marti
 ## 概述
 
 金酒配柠檬汁糖浆淋黑莓力乔形成大理石纹，英伦莓果经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bramble%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bramble%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Bramble%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-cocktail-earl-grey-marti
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 47467 |
+| Difford's Guide | 4.12 | 2023 |
+| IBA 推荐 | 4.1 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

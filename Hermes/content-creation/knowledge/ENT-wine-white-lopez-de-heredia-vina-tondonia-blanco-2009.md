@@ -6,7 +6,8 @@ tags: [白酒, 西班牙, Viura, Rioja]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
+related: [ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
+related_typed: {ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009: same_brand, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 31351}
   parker: {score: 88, year: 2021}
@@ -23,6 +24,12 @@ awards:
 ## 概述
 
 Rioja 名家 López de Heredia，Tondonia 白葡萄酒长期桶陈。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=R.%20L%C3%B3pez%20de%20Heredia%20Vi%C3%B1a%20Tondonia%20Blanco%202009%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/R.%20L%C3%B3pez%20de%20Heredia%20Vi%C3%B1a%20Tondonia%20Blanco%202009%20wine_white)
+- [Google 图片](https://www.google.com/search?q=R.%20L%C3%B3pez%20de%20Heredia%20Vi%C3%B1a%20Tondonia%20Blanco%202009%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

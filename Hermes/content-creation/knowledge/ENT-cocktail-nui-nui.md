@@ -6,7 +6,12 @@ tags: [鸡尾酒, Tiki, 朗姆, 香草, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-test-pilot, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-qb-cooler]
+related: [ENT-cocktail-zombie, ENT-cocktail-navy-grog, ENT-cocktail-test-pilot, ENT-cocktail-qb-cooler, ENT-rum-off-162-captain-morgan-spiced-gold]
+related_typed: {ENT-cocktail-zombie: same_region, ENT-cocktail-navy-grog: same_region, ENT-cocktail-test-pilot: same_region, ENT-cocktail-qb-cooler: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail}
+ratings:
+  vivino: {score: 4.4, votes: 9186}
+  diffords: {score: 4.11, year: 2022}
+  iba: {score: 4.1, year: 2022}
 ---
 
 # 努伊努伊
@@ -16,6 +21,12 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, E
 ## 概述
 
 双朗姆配香草肉桂糖浆与橙汁青柠，Don the Beachcomber 香草提基名作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Nui%20Nui%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Nui%20Nui%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Nui%20Nui%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +92,16 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, E
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 9186 |
+| Difford's Guide | 4.11 | 2022 |
+| IBA 推荐 | 4.1 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

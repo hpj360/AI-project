@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Mateus]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-052-nicolas-feuillatte]
+related: [ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte]
+related_typed: {ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: cross_region, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 9226}
   wine_spectator: {score: 86, year: 2022}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Mateus Rosé Original（Mateus），产地 Portugal
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mateus%20Ros%C3%A9%20Original%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Mateus%20Ros%C3%A9%20Original%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Mateus%20Ros%C3%A9%20Original%20wine_sparkling%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Mateus Rosé Original
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：Mateus Rosé Original（Mateus），产地 Po
 - **容量**：750 ml
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：葡萄品种、水、酵母、糖（补液用）
+- **酿造方法**：
+
+基酒二次发酵（传统法/查马法），产生气泡，传统法除渣后补液。
+- **陈酿方式**：传统法酒泥陈年 12-36 个月
+
+## 风味描述
+
+- **颜色**：淡金气泡
+- **香气**：柑橘、面包
+- **口感**：气泡、果味、酸度
+- **余味**：气泡悠长
+- **风味标签**：气泡, 柑橘, 面包
 
 ## 评分奖项
 

@@ -6,7 +6,8 @@ tags: [金酒, 伦敦干, 英国, 哥顿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-tanqueray-no-ten, ENT-gin-gordons-elderflower, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-gordons-elderflower, ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
+related_typed: {ENT-gin-gordons-elderflower: same_brand, ENT-gin-off-125-premium-pink-distilled-gin: same_brand, ENT-gin-off-128-traditional-style-grilled-squid: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region}
 ratings:
   vivino: {score: 4.7, votes: 34818}
   wine_enthusiast: {score: 85, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 哥顿伦敦干，全球销量最大的金酒，杜松经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gordon%27s%20London%20Dry%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Gordon%27s%20London%20Dry%20gin)
+- [Google 图片](https://www.google.com/search?q=Gordon%27s%20London%20Dry%20gin%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,8 @@ tags: [红酒, 罗讷河谷, 北罗讷, 西拉]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-hermitage-chapelle-2015, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-hermitage-chapelle-2015, ENT-wine_red-off-003-adama, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza]
+related_typed: {ENT-wine-red-hermitage-chapelle-2015: same_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 32012}
   parker: {score: 89, year: 2023}
@@ -26,6 +27,12 @@ awards:
 ## 概述
 
 罗讷河谷传奇名家，500 年家族传承，平衡与陈年能力的典范。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Domaine%20Jean-Louis%20Chave%20Hermitage%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Domaine%20Jean-Louis%20Chave%20Hermitage%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Domaine%20Jean-Louis%20Chave%20Hermitage%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

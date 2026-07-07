@@ -6,7 +6,12 @@ tags: [鸡尾酒, 无酒精, Seedlip, 菲士, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-bramble, ENT-cocktail-espresso-martini]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+ratings:
+  vivino: {score: 3.9, votes: 5607}
+  diffords: {score: 4.01, year: 2021}
+  iba: {score: 3.6, year: 2021}
 ---
 
 # Seedlip 花园菲士
@@ -16,6 +21,12 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-cocktail-hank
 ## 概述
 
 Seedlip 花园无酒精烈酒配汤力水与薄荷，零酒精的清新菲士。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Seedlip%20Garden%20Spritz%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Seedlip%20Garden%20Spritz%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Seedlip%20Garden%20Spritz%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ Seedlip 花园无酒精烈酒配汤力水与薄荷，零酒精的清新菲士。
 | 苦 | 2 | ██░░░ |
 | 烈 | 0 | ░░░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.9 | 5607 |
+| Difford's Guide | 4.01 | 2021 |
+| IBA 推荐 | 3.6 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

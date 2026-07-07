@@ -6,7 +6,8 @@ tags: [白酒, 药香, 贵州, 董酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-zhenjiu-zhensanshi, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-dongjiu-hongbiao-dongjiu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-dongjiu-hongbiao-dongjiu, ENT-baijiu-zhenjiu-zhensanshi, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related_typed: {ENT-baijiu-dongjiu-hongbiao-dongjiu: same_brand, ENT-baijiu-zhenjiu-zhensanshi: same_region, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 28226}
   csl: {score: 90, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 国密董酒，董香型（药香型）白酒代表，国家保密配方。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dongjiu%20Guomi%20Dongjiu%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dongjiu%20Guomi%20Dongjiu%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Dongjiu%20Guomi%20Dongjiu%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 28226 |
-| 中国白酒鉴评 | 90 | 2023 |
+| 中国酒类鉴评 | 90 | 2023 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

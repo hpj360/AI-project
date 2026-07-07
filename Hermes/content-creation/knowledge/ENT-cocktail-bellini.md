@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 起泡酒, 意大利, 桃子]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
+related_typed: {ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 33235}
+  diffords: {score: 4.37, year: 2020}
+  iba: {score: 5.0, year: 2023}
 ---
 
 # 贝里尼
@@ -16,6 +21,12 @@ related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, E
 ## 概述
 
 白桃果泥配普罗塞克起泡酒，威尼斯经典早午餐气泡鸡尾酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bellini%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bellini%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Bellini%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, E
 | 苦 | 0 | ░░░░░ |
 | 烈 | 1 | █░░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 33235 |
+| Difford's Guide | 4.37 | 2020 |
+| IBA 推荐 | 5.0 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

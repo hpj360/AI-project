@@ -6,7 +6,8 @@ tags: [白酒, 澳大利亚, 雷司令, Eden Valley]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay]
+related: [ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-036-vin-d-espagne-blanc, ENT-wine_white-off-037-bree-chardonnay-weisswein]
+related_typed: {ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat, ENT-wine_white-off-036-vin-d-espagne-blanc: same_subcat, ENT-wine_white-off-037-bree-chardonnay-weisswein: same_subcat}
 ratings:
   vivino: {score: 4.6, votes: 39191}
   parker: {score: 84, year: 2020}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 澳洲伊顿谷雷司令代表，Pewsey Vale 高海拔园地。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Pewsey%20Vale%20Eden%20Valley%20Riesling%202018%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Pewsey%20Vale%20Eden%20Valley%20Riesling%202018%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Pewsey%20Vale%20Eden%20Valley%20Riesling%202018%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

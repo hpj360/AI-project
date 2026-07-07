@@ -6,7 +6,8 @@ tags: [白酒, 兼香, 安徽, 口子窖]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-kouzijiao-10nian, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-kouzijiao-10nian, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
+related_typed: {ENT-baijiu-kouzijiao-10nian: same_brand, ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 39647}
   csl: {score: 88, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 口子窖 20 年，兼香型高端白酒，陈年基酒勾调。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Kouzijiao%2020%20Years%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Kouzijiao%2020%20Years%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Kouzijiao%2020%20Years%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 39647 |
-| 中国白酒鉴评 | 88 | 2021 |
+| 中国酒类鉴评 | 88 | 2021 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

@@ -6,7 +6,8 @@ tags: [啤酒, 中国, 大跃, 精酿, 北京]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-yanjing, ENT-beer-snow, ENT-beer-jing-a, ENT-beer-nbpt, ENT-beer-slowboat]
+related: [ENT-beer-snow, ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-slowboat, ENT-beer-nbpt]
+related_typed: {ENT-beer-snow: same_region, ENT-beer-yanjing: same_region, ENT-beer-jing-a: same_region, ENT-beer-slowboat: same_region, ENT-beer-nbpt: same_region}
 ratings:
   vivino: {score: 4.8, votes: 43179}
   ratebeer: {score: 89, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 大跃啤酒，北京精酿先锋，融合中国本土食材与美式精酿工艺。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Great%20Leap%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Great%20Leap%20beer)
+- [Google 图片](https://www.google.com/search?q=Great%20Leap%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

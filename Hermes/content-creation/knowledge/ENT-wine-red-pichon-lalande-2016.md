@@ -6,7 +6,8 @@ tags: [红酒, 波尔多, 波亚克]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-latour-2010, ENT-wine-red-pichon-baron-2016, ENT-wine-red-lafite-2010, ENT-wine-red-mouton-2016, ENT-wine-sparkling-cristal-2013]
+related: [ENT-wine-sparkling-cristal-2013, ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016]
+related_typed: {ENT-wine-sparkling-cristal-2013: same_brand, ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region}
 ratings:
   vivino: {score: 4.8, votes: 17789}
   parker: {score: 85, year: 2023}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 波亚克二级庄，风格优雅柔美，梅洛比例略高。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20Pichon%20Longueville%20Comtesse%20de%20Lalande%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20Pichon%20Longueville%20Comtesse%20de%20Lalande%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20Pichon%20Longueville%20Comtesse%20de%20Lalande%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

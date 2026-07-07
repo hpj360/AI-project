@@ -6,7 +6,8 @@ tags: [朗姆酒, 马提尼克, Clément, rhum agricole]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara, ENT-rum-off-169-caribbean-rum-with-coconut-flavour, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour, ENT-rum-off-171-saint-james]
+related_typed: {ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-171-saint-james: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 15774}
   wine_enthusiast: {score: 89, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 Clément，马提尼克农业朗姆，甘蔗汁法式酿造经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cl%C3%A9ment%20Rhum%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Cl%C3%A9ment%20Rhum%20rum)
+- [Google 图片](https://www.google.com/search?q=Cl%C3%A9ment%20Rhum%20rum%20bottle&tbm=isch)
 
 ## 基础信息
 

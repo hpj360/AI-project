@@ -6,7 +6,8 @@ tags: [威士忌, 日本, 单一麦芽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-off-242-ballantine-s-finest, ENT-gin-roku, ENT-whisky-hakushu-18]
+related: [ENT-gin-roku, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-hakushu-18, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards]
+related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-hakushu-18: same_region, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 17895}
   whisky_fun: {score: 86, year: 2023}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 白州 12 年，森林系日本单一麦芽，清新草本。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hakushu%2012%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hakushu%2012%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Hakushu%2012%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

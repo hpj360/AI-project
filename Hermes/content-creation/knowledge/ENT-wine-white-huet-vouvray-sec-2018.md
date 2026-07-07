@@ -6,7 +6,8 @@ tags: [白酒, 卢瓦尔, 白诗南, Vouvray]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay]
+related: [ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-036-vin-d-espagne-blanc]
+related_typed: {ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat, ENT-wine_white-off-036-vin-d-espagne-blanc: same_subcat}
 ratings:
   vivino: {score: 4.5, votes: 47195}
   parker: {score: 84, year: 2022}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 Vouvray 名家 Huet，白诗南干白经典代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Domaine%20Huet%20Vouvray%20Sec%202018%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Domaine%20Huet%20Vouvray%20Sec%202018%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Domaine%20Huet%20Vouvray%20Sec%202018%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

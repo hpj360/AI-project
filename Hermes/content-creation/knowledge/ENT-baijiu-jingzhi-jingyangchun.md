@@ -6,7 +6,8 @@ tags: [白酒, 芝麻香, 山东, 景芝]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-wuliangye-1618, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
+related_typed: {ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 49559}
   csl: {score: 90, year: 2023}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 景阳春，山东景芝酒代表作，芝麻香型白酒代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jingzhi%20Jingyangchun%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jingzhi%20Jingyangchun%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Jingzhi%20Jingyangchun%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -58,7 +65,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 49559 |
-| 中国白酒鉴评 | 90 | 2023 |
+| 中国酒类鉴评 | 90 | 2023 |
 
 ### 获奖记录
 

@@ -6,7 +6,8 @@ tags: [起泡酒, 卡瓦, Raventós, 年份, 单一园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
+related: [ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-049-mateus-ros-original]
+related_typed: {ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 47384}
   wine_spectator: {score: 83, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Raventós i Blanc 单一园年份卡瓦，退出 DO Cava 自创 Conca del Riu Anoia。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ravent%C3%B3s%20i%20Blanc%20Manuel%20Ravent%C3%B3s%20Negra%202015%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ravent%C3%B3s%20i%20Blanc%20Manuel%20Ravent%C3%B3s%20Negra%202015%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Ravent%C3%B3s%20i%20Blanc%20Manuel%20Ravent%C3%B3s%20Negra%202015%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

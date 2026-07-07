@@ -6,7 +6,8 @@ tags: [清酒, 日本, 纯米酒, 八海山, 熟成]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-genshu, ENT-sake-josen-mizunogotoshi]
+related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-genshu, ENT-sake-josen-mizunogotoshi]
+related_typed: {ENT-sake-hakkaisan-honjozo: same_brand, ENT-sake-hakkaisan-ginjo: same_brand, ENT-sake-hakkaisan-junmai-daiginjo: same_brand, ENT-sake-hakkaisan-genshu: same_region, ENT-sake-josen-mizunogotoshi: same_region}
 ratings:
   vivino: {score: 4.8, votes: 33594}
   sake_revue: {score: 97, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 八海山 3 年雪国熟成纯米酒，在雪藏低温环境中静置熟成 3 年，风味复杂。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hakkaisan%203%20Year%20Snow%20Aged%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hakkaisan%203%20Year%20Snow%20Aged%20sake)
+- [Google 图片](https://www.google.com/search?q=Hakkaisan%203%20Year%20Snow%20Aged%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

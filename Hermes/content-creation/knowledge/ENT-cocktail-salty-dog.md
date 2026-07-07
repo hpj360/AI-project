@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 葡萄柚, 盐边]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-cocktail-violet-hour-bishop, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-violet-hour-bishop, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini]
+related_typed: {ENT-cocktail-violet-hour-bishop: same_region, ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-martini: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 49331}
+  diffords: {score: 4.36, year: 2020}
+  iba: {score: 5.0, year: 2022}
 ---
 
 # 咸狗
@@ -16,6 +21,12 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-cockt
 ## 概述
 
 伏特加配葡萄柚汁与杯口盐边，咸酸清爽。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Salty%20Dog%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Salty%20Dog%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Salty%20Dog%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-cockt
 | 苦 | 3 | ███░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 2 | ██░░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 49331 |
+| Difford's Guide | 4.36 | 2020 |
+| IBA 推荐 | 5.0 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

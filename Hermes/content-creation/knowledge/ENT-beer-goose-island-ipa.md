@@ -6,7 +6,8 @@ tags: [啤酒, 美国, 鹅岛, IPA, 精酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 4.3, votes: 27338}
   ratebeer: {score: 80, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 鹅岛 IPA，美式印度淡色艾尔代表，柑橘与松脂香气突出。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Goose%20Island%20IPA%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Goose%20Island%20IPA%20beer)
+- [Google 图片](https://www.google.com/search?q=Goose%20Island%20IPA%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

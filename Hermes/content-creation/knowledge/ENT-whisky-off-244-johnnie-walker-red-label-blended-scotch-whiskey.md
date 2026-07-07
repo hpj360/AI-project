@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, whisky, 威士忌, Johnnie Walker]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-266-clan-campbell, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-270-red-label, ENT-whisky-off-265-black-label, ENT-whisky-off-245-monkey-shoulder]
+related: [ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-265-black-label, ENT-whisky-off-270-red-label, ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-266-clan-campbell]
+related_typed: {ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-off-270-red-label: same_brand, ENT-whisky-off-245-monkey-shoulder: same_region, ENT-whisky-off-266-clan-campbell: same_region}
 ratings:
   vivino: {score: 4.8, votes: 23327}
   whisky_fun: {score: 86, year: 2022}
@@ -21,6 +22,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Johnnie Walker Red Label Blended Scotch Whiskey（Johnnie Walker），产地 Scotland
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Johnnie%20Walker%20Red%20Label%20Blended%20Scotch%20Whiskey%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Johnnie%20Walker%20Red%20Label%20Blended%20Scotch%20Whiskey%20whisky)
+- [Google 图片](https://www.google.com/search?q=Johnnie%20Walker%20Red%20Label%20Blended%20Scotch%20Whiskey%20whisky%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Johnnie Walker Red Label Blended Scotch Whiskey
@@ -33,6 +40,22 @@ OpenFoodFacts 真实产品数据：Johnnie Walker Red Label Blended Scotch Whisk
 - **容量**：700ml
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：谷物（大麦/玉米/黑麦/小麦）、水、酵母
+- **酿造方法**：
+
+谷物发芽/未发芽糖化后发酵，壶式蒸馏器双重蒸馏，入橡木桶陈年至少 3 年。
+- **陈酿方式**：橡木桶陈年（波本桶/雪莉桶/波特桶等）
+
+## 风味描述
+
+- **颜色**：琥珀金色
+- **香气**：麦芽、橡木、香草
+- **口感**：橡木、麦芽、微甜
+- **余味**：橡木回甘
+- **风味标签**：橡木, 麦芽, 香草
 
 ## 评分奖项
 

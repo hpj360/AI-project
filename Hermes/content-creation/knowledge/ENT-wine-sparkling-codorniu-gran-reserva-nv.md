@@ -6,7 +6,8 @@ tags: [起泡酒, 卡瓦, Codorníu, 传统法]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
+related: [ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
+related_typed: {ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 ratings:
   vivino: {score: 4.1, votes: 31287}
   wine_spectator: {score: 80, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 西班牙卡瓦鼻祖 Codorníu 旗舰，传统法酿造。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Codorn%C3%ADu%20Gran%20Codorn%C3%ADu%20Reserva%20NV%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Codorn%C3%ADu%20Gran%20Codorn%C3%ADu%20Reserva%20NV%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Codorn%C3%ADu%20Gran%20Codorn%C3%ADu%20Reserva%20NV%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

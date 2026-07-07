@@ -6,7 +6,11 @@ tags: [果酒, 西打酒, 苹果酒, 丹麦, Somersby]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-beer-carlsberg, ENT-fruit-wine-choya-umeshu]
+related: [ENT-beer-carlsberg, ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu]
+related_typed: {ENT-beer-carlsberg: same_brand, ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 16442}
+  wine_enthusiast: {score: 89, year: 2022}
 ---
 
 # Somersby 西打酒
@@ -16,6 +20,12 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 ## 概述
 
 Somersby 丹麦西打酒，嘉士伯集团出品，苹果风味清爽，全球畅销。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Somersby%20Cider%20fruit_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Somersby%20Cider%20fruit_wine)
+- [Google 图片](https://www.google.com/search?q=Somersby%20Cider%20fruit_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ Somersby 丹麦西打酒，嘉士伯集团出品，苹果风味清爽，全球�
 - **口感**：口感清爽酸甜，苹果风味突出
 - **余味**：余味清爽，带苹果香
 - **风味标签**：苹果, 清爽, 蜂蜜
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 16442 |
+| Wine Enthusiast | 89 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

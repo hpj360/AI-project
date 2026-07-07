@@ -6,7 +6,8 @@ tags: [啤酒, 德国, 卡力特, 黑啤, 施瓦兹比尔]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona]
+related_typed: {ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 27885}
   ratebeer: {score: 85, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 卡力特啤酒，德国黑啤代表，深色酒体，焦香与咖啡风味突出。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=K%C3%B6stritzer%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/K%C3%B6stritzer%20beer)
+- [Google 图片](https://www.google.com/search?q=K%C3%B6stritzer%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, 创意, Cynar, 酸酒, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-americano, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-americano, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball]
+related_typed: {ENT-cocktail-americano: same_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat}
+ratings:
+  vivino: {score: 4.6, votes: 49063}
+  diffords: {score: 4.16, year: 2021}
+  iba: {score: 4.3, year: 2022}
 ---
 
 # Cynar 酸酒
@@ -16,6 +21,12 @@ related: [ENT-cocktail-americano, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea,
 ## 概述
 
 Cynar 苦味利口酒配柠檬蛋白与糖浆，朝鲜蓟苦味的现代酸酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cynar%20Sour%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Cynar%20Sour%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Cynar%20Sour%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ Cynar 苦味利口酒配柠檬蛋白与糖浆，朝鲜蓟苦味的现代酸酒�
 | 苦 | 4 | ████░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.6 | 49063 |
+| Difford's Guide | 4.16 | 2021 |
+| IBA 推荐 | 4.3 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

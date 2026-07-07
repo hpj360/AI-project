@@ -6,7 +6,8 @@ tags: [白酒, 清香, 北京, 红星]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-hongxing-lanhua-15, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-hongxing-lanhua-15, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
+related_typed: {ENT-baijiu-hongxing-lanhua-15: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 10305}
   csl: {score: 87, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 红星二锅头，北京清香型白酒代表，国民白酒鼻祖。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hongxing%20Erguotou%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hongxing%20Erguotou%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Hongxing%20Erguotou%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 10305 |
-| 中国白酒鉴评 | 87 | 2021 |
+| 中国酒类鉴评 | 87 | 2021 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

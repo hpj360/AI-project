@@ -6,7 +6,8 @@ tags: [加强酒, 味美思, Carpano, 甜味美思]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016]
+related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: same_subcat}
 ratings:
   vivino: {score: 4.0, votes: 16099}
   wine_spectator: {score: 82, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 味美思鼻祖 Carpano 旗舰，1786 年古老配方。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Carpano%20Antica%20Formula%20Vermouth%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Carpano%20Antica%20Formula%20Vermouth%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Carpano%20Antica%20Formula%20Vermouth%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, 分子, 离心, 朗姆, 椰子, 菠萝]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-rum-off-163-rhum-negrita, ENT-cocktail-ginish-tonic, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
+ratings:
+  vivino: {score: 4.6, votes: 44351}
+  diffords: {score: 4.16, year: 2022}
+  iba: {score: 4.3, year: 2022}
 ---
 
 # 澄清椰林飘香
@@ -16,6 +21,12 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-rum-off
 ## 概述
 
 以高速离心分离椰浆与菠萝纤维，得到透明椰林飘香保留热带风味。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Clarified%20Pina%20Colada%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Clarified%20Pina%20Colada%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Clarified%20Pina%20Colada%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -83,6 +94,16 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-rum-off
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.6 | 44351 |
+| Difford's Guide | 4.16 | 2022 |
+| IBA 推荐 | 4.3 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [威士忌, 日本, 调和麦芽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-taketsuru-21, ENT-whisky-yoichi-15, ENT-whisky-yoichi-10, ENT-whisky-hibiki-17, ENT-whisky-hibiki-21]
+related: [ENT-whisky-yoichi-10, ENT-whisky-yoichi-15, ENT-whisky-taketsuru-21, ENT-whisky-hibiki-21, ENT-whisky-hibiki-17]
+related_typed: {ENT-whisky-yoichi-10: same_brand, ENT-whisky-yoichi-15: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-whisky-hibiki-21: same_region, ENT-whisky-hibiki-17: same_region}
 ratings:
   vivino: {score: 4.7, votes: 43614}
   whisky_fun: {score: 82, year: 2023}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 竹鹤 17 年，Nikka 纯麦芽威士忌，平衡烟熏。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Taketsuru%2017%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Taketsuru%2017%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Taketsuru%2017%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

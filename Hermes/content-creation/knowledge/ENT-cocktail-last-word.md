@@ -6,7 +6,15 @@ tags: [鸡尾酒, 禁酒令, 金酒, 查特酒, 均衡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-bull-shot, ENT-gin-bombay-sapphire-east, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-bull-shot, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-martini]
+related_typed: {ENT-cocktail-bull-shot: same_region, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail, ENT-gin-tanqueray-london-dry: base_to_cocktail, ENT-cocktail-sake-martini: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 41876}
+  diffords: {score: 4.44, year: 2023}
+  iba: {score: 5.0, year: 2023}
+awards:
+  - {name: Tales of the Cocktail Best Cocktail, year: 2020, org: Tales of the Cocktail}
+  - {name: IBA World Competition Gold, year: 2019, org: IBA World Competition}
 ---
 
 # 临别赠言
@@ -16,6 +24,12 @@ related: [ENT-cocktail-bull-shot, ENT-gin-bombay-sapphire-east, ENT-gin-bombay-s
 ## 概述
 
 金酒配查特酒马拉斯基诺与青柠汁，四等比均衡禁酒令经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Last%20Word%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Last%20Word%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Last%20Word%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +93,21 @@ related: [ENT-cocktail-bull-shot, ENT-gin-bombay-sapphire-east, ENT-gin-bombay-s
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 41876 |
+| Difford's Guide | 4.44 | 2023 |
+| IBA 推荐 | 5.0 | 2023 |
+
+### 获奖记录
+
+- **2020** Tales of the Cocktail Best Cocktail
+- **2019** IBA World Competition Gold
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

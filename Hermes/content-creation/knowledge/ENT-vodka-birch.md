@@ -6,7 +6,8 @@ tags: [伏特加, 俄罗斯, 白桦树]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-five-lakes, ENT-vodka-beluga, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-beluga, ENT-vodka-five-lakes, ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona, ENT-vodka-off-149-wodka]
+related_typed: {ENT-vodka-beluga: same_region, ENT-vodka-five-lakes: same_region, ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat, ENT-vodka-off-149-wodka: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 36264}
   wine_enthusiast: {score: 85, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 白桦树，俄罗斯白桦树汁伏特加，独特木香风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Birch%20Sap%20Vodka%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Birch%20Sap%20Vodka%20vodka)
+- [Google 图片](https://www.google.com/search?q=Birch%20Sap%20Vodka%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

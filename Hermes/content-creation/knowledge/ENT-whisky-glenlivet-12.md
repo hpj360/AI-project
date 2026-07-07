@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-glenlivet-18, ENT-whisky-glenlivet-15-french-oak]
+related: [ENT-whisky-glenlivet-15-french-oak, ENT-whisky-glenlivet-18, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
+related_typed: {ENT-whisky-glenlivet-15-french-oak: same_brand, ENT-whisky-glenlivet-18: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region}
 ratings:
   vivino: {score: 4.8, votes: 18059}
   whisky_fun: {score: 95, year: 2023}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 格兰利威 12 年，斯佩塞单一麦芽威士忌销量亚军。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Glenlivet%2012%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Glenlivet%2012%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Glenlivet%2012%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

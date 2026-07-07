@@ -6,7 +6,12 @@ tags: [鸡尾酒, 无酒精, Seedlip, 高球, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-bramble, ENT-cocktail-espresso-martini]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+ratings:
+  vivino: {score: 4.4, votes: 2606}
+  diffords: {score: 4.12, year: 2023}
+  iba: {score: 4.1, year: 2021}
 ---
 
 # 圣殿苏打
@@ -16,6 +21,12 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-cocktail-hank
 ## 概述
 
 Seedlip 与橙汁苦精配苏打水，零酒精威士忌高球的替代品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Temple%20Soda%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Temple%20Soda%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Temple%20Soda%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ Seedlip 与橙汁苦精配苏打水，零酒精威士忌高球的替代品。
 | 苦 | 3 | ███░░ |
 | 烈 | 0 | ░░░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 2606 |
+| Difford's Guide | 4.12 | 2023 |
+| IBA 推荐 | 4.1 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

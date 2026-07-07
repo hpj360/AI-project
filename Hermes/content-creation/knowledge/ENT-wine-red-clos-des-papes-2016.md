@@ -6,7 +6,8 @@ tags: [红酒, 罗讷河谷, 南罗讷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-chateauneuf-beaucastel-2016, ENT-wine_red-off-003-adama, ENT-wine-red-pegau-2016]
+related: [ENT-wine-red-chateauneuf-beaucastel-2016, ENT-wine-red-pegau-2016, ENT-wine_red-off-003-adama, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
+related_typed: {ENT-wine-red-chateauneuf-beaucastel-2016: same_region, ENT-wine-red-pegau-2016: same_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 30490}
   parker: {score: 87, year: 2023}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 教皇新堡顶级名庄，由 Avril 家族经营，风格优雅细腻。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Clos%20des%20Papes%20Ch%C3%A2teauneuf-du-Pape%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Clos%20des%20Papes%20Ch%C3%A2teauneuf-du-Pape%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Clos%20des%20Papes%20Ch%C3%A2teauneuf-du-Pape%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

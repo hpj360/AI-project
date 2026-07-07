@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, brandy, 白兰地, Rémy Martin]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-remy-martin-xo, ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-club, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs]
+related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-xo, ENT-brandy-remy-martin-club, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
+related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-xo: same_brand, ENT-brandy-remy-martin-club: same_brand, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 ratings:
   vivino: {score: 4.5, votes: 45437}
   wine_enthusiast: {score: 84, year: 2023}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Cognac Vsop - Fine Champagne 40°（Rémy Martin）
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cognac%20Vsop%20-%20Fine%20Champagne%2040%C2%B0%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Cognac%20Vsop%20-%20Fine%20Champagne%2040%C2%B0%20brandy)
+- [Google 图片](https://www.google.com/search?q=Cognac%20Vsop%20-%20Fine%20Champagne%2040%C2%B0%20brandy%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Cognac Vsop - Fine Champagne 40°
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：Cognac Vsop - Fine Champagne 40°（Rémy Mar
 - **容量**：0.7l
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：葡萄或其他水果、水、酵母
+- **酿造方法**：
+
+水果发酵成酒后壶式蒸馏，入橡木桶陈年。
+- **陈酿方式**：橡木桶陈年（VS/VSOP/XO）
+
+## 风味描述
+
+- **颜色**：琥珀色
+- **香气**：葡萄、橡木
+- **口感**：果干、橡木、香料
+- **余味**：悠长橡木
+- **风味标签**：葡萄, 橡木, 果干
 
 ## 评分奖项
 

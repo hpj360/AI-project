@@ -6,7 +6,8 @@ tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-meursault-perrieres-coche-dury-2015, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-white-meursault-charmes-roulot-2016, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
+related: [ENT-wine-white-meursault-charmes-roulot-2016, ENT-wine-white-meursault-perrieres-coche-dury-2015, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
+related_typed: {ENT-wine-white-meursault-charmes-roulot-2016: same_brand, ENT-wine-white-meursault-perrieres-coche-dury-2015: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 3133}
   parker: {score: 88, year: 2022}
@@ -23,6 +24,12 @@ awards:
 ## 概述
 
 Roulot 家族的一级园，风格清透精准，酸度优雅。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Domaine%20Roulot%20Meursault%20Genevri%C3%A8res%202015%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Domaine%20Roulot%20Meursault%20Genevri%C3%A8res%202015%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Domaine%20Roulot%20Meursault%20Genevri%C3%A8res%202015%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

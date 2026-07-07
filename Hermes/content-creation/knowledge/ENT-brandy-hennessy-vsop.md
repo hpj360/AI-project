@@ -6,7 +6,8 @@ tags: [白兰地, 干邑, 法国, 轩尼诗]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-hennessy-richard, ENT-brandy-hennessy-vs, ENT-brandy-martell-vsop, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-xo]
+related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop]
+related_typed: {ENT-brandy-hennessy-vs: same_brand, ENT-brandy-hennessy-xo: same_brand, ENT-brandy-hennessy-paradis: same_brand, ENT-brandy-hennessy-richard: same_region, ENT-brandy-martell-vsop: same_region}
 ratings:
   vivino: {score: 4.8, votes: 32425}
   wine_enthusiast: {score: 98, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 轩尼诗 VSOP，干邑 VSOP 经典，平衡柔顺。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hennessy%20VSOP%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hennessy%20VSOP%20brandy)
+- [Google 图片](https://www.google.com/search?q=Hennessy%20VSOP%20brandy%20bottle&tbm=isch)
 
 ## 基础信息
 

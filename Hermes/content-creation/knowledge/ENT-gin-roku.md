@@ -6,7 +6,8 @@ tags: [金酒, 日本, 三得利, 樱花]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-yamazaki-25, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-gin-bombay-sapphire-east, ENT-gin-bombay-sapphire]
+related: [ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-yamazaki-25, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
+related_typed: {ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-yamazaki-25: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 306}
   wine_enthusiast: {score: 87, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Roku 六，日本三得利金酒，6 种日本植物配方。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Roku%20Gin%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Roku%20Gin%20gin)
+- [Google 图片](https://www.google.com/search?q=Roku%20Gin%20gin%20bottle&tbm=isch)
 
 ## 基础信息
 

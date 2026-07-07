@@ -6,7 +6,8 @@ tags: [白酒, 清香, 山西, 汾酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-fenjiu-laobaifen-10, ENT-baijiu-moutai-feitian-53, ENT-baijiu-fenjiu-qinghua-30, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-fenjiu-laobaifen-10, ENT-baijiu-fenjiu-qinghua-30, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related_typed: {ENT-baijiu-fenjiu-laobaifen-10: same_brand, ENT-baijiu-fenjiu-qinghua-30: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 29308}
   csl: {score: 91, year: 2023}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 黄盖玻汾，53 度清香口粮酒，性价比之王。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Fenjiu%20Huangai%20Bofen%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Fenjiu%20Huangai%20Bofen%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Fenjiu%20Huangai%20Bofen%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -57,7 +64,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 29308 |
-| 中国白酒鉴评 | 91 | 2023 |
+| 中国酒类鉴评 | 91 | 2023 |
 
 ### 获奖记录
 

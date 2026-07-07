@@ -6,7 +6,8 @@ tags: [龙舌兰, 墨西哥, Casamigos, Blanco]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-don-julio-reposado, ENT-tequila-herradura-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-sauza-blanco, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-herradura-reposado]
+related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-herradura-reposado: same_region}
 ratings:
   vivino: {score: 4.8, votes: 15829}
   wine_enthusiast: {score: 87, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 卡萨诺沃 Casamigos Blanco，乔治克鲁尼联合创立，柔顺易饮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Casamigos%20Blanco%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Casamigos%20Blanco%20tequila)
+- [Google 图片](https://www.google.com/search?q=Casamigos%20Blanco%20tequila%20bottle&tbm=isch)
 
 ## 基础信息
 

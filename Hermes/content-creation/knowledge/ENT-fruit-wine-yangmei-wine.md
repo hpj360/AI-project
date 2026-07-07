@@ -6,7 +6,11 @@ tags: [果酒, 杨梅, 中国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-tsurume-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-choya-umeshu]
+related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-tsurume-umeshu]
+related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-fruit-wine-tsurume-umeshu: same_subcat}
+ratings:
+  vivino: {score: 4.0, votes: 43084}
+  wine_enthusiast: {score: 82, year: 2021}
 ---
 
 # 杨梅酒
@@ -16,6 +20,12 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 ## 概述
 
 杨梅酒，以杨梅果实酿造或浸酒，深红色酒体，酸甜平衡，是江南传统果酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bayberry%20Wine%20fruit_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bayberry%20Wine%20fruit_wine)
+- [Google 图片](https://www.google.com/search?q=Bayberry%20Wine%20fruit_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 - **口感**：口感酸甜平衡，杨梅风味突出
 - **余味**：余味酸甜，带杨梅香
 - **风味标签**：杨梅, 浆果, 酸甜
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.0 | 43084 |
+| Wine Enthusiast | 82 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [威士忌, 日本, 单一麦芽, 雪莉桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-yamazaki-25, ENT-whisky-yamazaki-12, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-gin-roku]
+related: [ENT-gin-roku, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-25, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l]
+related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-25: same_brand, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 16007}
   whisky_fun: {score: 94, year: 2023}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 山崎 18 年，超高端日本单一麦芽，雪莉桶陈酿。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Yamazaki%2018%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Yamazaki%2018%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Yamazaki%2018%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

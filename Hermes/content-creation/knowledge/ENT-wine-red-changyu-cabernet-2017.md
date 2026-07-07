@@ -6,7 +6,8 @@ tags: [红酒, 中国, 山东, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino, ENT-wine_red-off-015-cabernet-sauvigon]
+related_typed: {ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat, ENT-wine_red-off-015-cabernet-sauvigon: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 7670}
   parker: {score: 87, year: 2020}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 中国最知名的国产红酒品牌，张裕出品，蛇龙珠为特色品种。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Changyu%20Cabernet%202017%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Changyu%20Cabernet%202017%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Changyu%20Cabernet%202017%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

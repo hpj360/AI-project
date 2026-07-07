@@ -6,7 +6,15 @@ tags: [鸡尾酒, IBA, 酸酒, 朗姆, 百加得]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-daiquiri, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-daiquiri, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-daiquiri: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 18838}
+  diffords: {score: 4.4, year: 2023}
+  iba: {score: 5.0, year: 2022}
+awards:
+  - {name: IBA World Competition Gold, year: 2021, org: IBA World Competition}
+  - {name: Tales of the Cocktail Best Cocktail, year: 2022, org: Tales of the Cocktail}
 ---
 
 # 百加得鸡尾酒
@@ -16,6 +24,12 @@ related: [ENT-cocktail-daiquiri, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-b
 ## 概述
 
 百加得朗姆配青柠汁与红石榴糖浆，Daiquiri 红色变体。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bacardi%20Cocktail%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bacardi%20Cocktail%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Bacardi%20Cocktail%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +93,21 @@ related: [ENT-cocktail-daiquiri, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-b
 | 苦 | 0 | ░░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 2 | ██░░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 18838 |
+| Difford's Guide | 4.4 | 2023 |
+| IBA 推荐 | 5.0 | 2022 |
+
+### 获奖记录
+
+- **2021** IBA World Competition Gold
+- **2022** Tales of the Cocktail Best Cocktail
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

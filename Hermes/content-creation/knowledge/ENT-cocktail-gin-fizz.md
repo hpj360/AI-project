@@ -6,7 +6,15 @@ tags: [鸡尾酒, 菲士, 金酒, 苏打水, IBA]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-brandy-crusta, ENT-cocktail-sazerac, ENT-gin-bombay-sapphire-east]
+related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-grasshopper]
+related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-ramos-gin-fizz: same_region, ENT-cocktail-grasshopper: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 47031}
+  diffords: {score: 4.43, year: 2020}
+  iba: {score: 5.0, year: 2023}
+awards:
+  - {name: Tales of the Cocktail Best Cocktail, year: 2020, org: Tales of the Cocktail}
+  - {name: IBA World Competition Gold, year: 2019, org: IBA World Competition}
 ---
 
 # 金菲士
@@ -16,6 +24,12 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-bran
 ## 概述
 
 金酒配柠檬汁与糖浆加苏打水，气泡升腾的清爽酸酒家族经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gin%20Fizz%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Gin%20Fizz%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Gin%20Fizz%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +93,21 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-bran
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 47031 |
+| Difford's Guide | 4.43 | 2020 |
+| IBA 推荐 | 5.0 | 2023 |
+
+### 获奖记录
+
+- **2020** Tales of the Cocktail Best Cocktail
+- **2019** IBA World Competition Gold
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

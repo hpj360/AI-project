@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-chivas-regal-18, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-chivas-regal-12, ENT-whisky-off-265-black-label]
+related: [ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-265-black-label, ENT-whisky-off-270-red-label, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18]
+related_typed: {ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-off-270-red-label: same_brand, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region}
 ratings:
   vivino: {score: 4.0, votes: 3851}
   whisky_fun: {score: 80, year: 2023}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 尊尼获加红牌，全球销量最大的苏格兰威士忌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Johnnie%20Walker%20Red%20Label%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Johnnie%20Walker%20Red%20Label%20whisky)
+- [Google 图片](https://www.google.com/search?q=Johnnie%20Walker%20Red%20Label%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

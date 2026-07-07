@@ -6,7 +6,11 @@ tags: [米酒, 米香型白酒, 桂林, 广西]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-wine-changle-shao, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-kejia-mijiu]
+related: [ENT-rice-wine-guilin-sanhua-mijiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-hongli-hongmi]
+related_typed: {ENT-rice-wine-guilin-sanhua-mijiu: same_brand, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-rice-wine-hongli-hongmi: same_subcat}
+ratings:
+  vivino: {score: 4.0, votes: 6928}
+  csl: {score: 79, year: 2022}
 ---
 
 # 桂林三花酒
@@ -16,6 +20,12 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-w
 ## 概述
 
 桂林三花酒，米香型白酒代表，米香纯正，被誉为桂林三宝之一。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Guilin%20Sanhua%20Wine%20rice_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Guilin%20Sanhua%20Wine%20rice_wine)
+- [Google 图片](https://www.google.com/search?q=Guilin%20Sanhua%20Wine%20rice_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-w
 - **口感**：口感纯净，米香突出，入口绵柔
 - **余味**：余味干净，带米香
 - **风味标签**：米香, 蜜香, 纯净
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.0 | 6928 |
+| 中国酒类鉴评 | 79 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

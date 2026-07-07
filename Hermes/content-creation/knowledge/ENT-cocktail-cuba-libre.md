@@ -6,7 +6,12 @@ tags: [鸡尾酒, 高球, 朗姆, 可乐, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-hotel-nacional-special, ENT-cocktail-mojito]
+related: [ENT-cocktail-casablanca, ENT-cocktail-mojito, ENT-cocktail-mary-pickford, ENT-cocktail-el-presidente, ENT-cocktail-hotel-nacional-special]
+related_typed: {ENT-cocktail-casablanca: same_region, ENT-cocktail-mojito: same_region, ENT-cocktail-mary-pickford: same_region, ENT-cocktail-el-presidente: same_region, ENT-cocktail-hotel-nacional-special: same_region}
+ratings:
+  vivino: {score: 4.5, votes: 6951}
+  diffords: {score: 4.13, year: 2022}
+  iba: {score: 4.2, year: 2021}
 ---
 
 # 自由古巴
@@ -16,6 +21,12 @@ related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-
 ## 概述
 
 白朗姆配可乐与青柠，1900 年古巴独立时的庆祝饮品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cuba%20Libre%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Cuba%20Libre%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Cuba%20Libre%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.5 | 6951 |
+| Difford's Guide | 4.13 | 2022 |
+| IBA 推荐 | 4.2 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [清酒, 日本, 纯米酒, 北の庄, 福井]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-096-cooking-sake, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-098-sake]
+related: [ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux, ENT-sake-off-102-sake-de-cuisine]
+related_typed: {ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: cross_region, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat, ENT-sake-off-102-sake-de-cuisine: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 36037}
   sake_revue: {score: 90, year: 2023}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 福井田嶋酒造北の庄纯米酒，使用福井本地米酿造，淡丽辛口。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Kitanoshou%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Kitanoshou%20sake)
+- [Google 图片](https://www.google.com/search?q=Kitanoshou%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

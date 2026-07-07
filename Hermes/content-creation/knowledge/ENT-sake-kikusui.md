@@ -6,7 +6,8 @@ tags: [清酒, 日本, 本酿造, 菊水, 新潟]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-kamonishiki, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake]
+related: [ENT-sake-kamonishiki, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux]
+related_typed: {ENT-sake-kamonishiki: same_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: cross_region, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat}
 ratings:
   vivino: {score: 3.9, votes: 21128}
   sake_revue: {score: 82, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 新潟菊水酒造本酿造，淡丽辛口风格，是新潟清酒代表品牌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Kikusui%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Kikusui%20sake)
+- [Google 图片](https://www.google.com/search?q=Kikusui%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

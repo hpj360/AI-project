@@ -6,7 +6,12 @@ tags: [鸡尾酒, 菲利普, 波特酒, 蛋, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-cocktail-hanky-panky]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+ratings:
+  vivino: {score: 4.7, votes: 40523}
+  diffords: {score: 4.18, year: 2023}
+  iba: {score: 4.4, year: 2021}
 ---
 
 # 波特菲利普
@@ -16,6 +21,12 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-brandy-hennes
 ## 概述
 
 波特酒配白兰地蛋黄与糖，温润柔滑的睡前菲利普代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Port%20Flip%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Port%20Flip%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Port%20Flip%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-brandy-hennes
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.7 | 40523 |
+| Difford's Guide | 4.18 | 2023 |
+| IBA 推荐 | 4.4 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

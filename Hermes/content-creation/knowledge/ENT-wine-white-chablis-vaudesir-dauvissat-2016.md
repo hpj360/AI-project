@@ -6,7 +6,8 @@ tags: [白酒, 勃艮第, 夏布利, 特级园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine-white-chablis-clos-raveneau-2016]
+related: [ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine-white-chablis-clos-raveneau-2016, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc]
+related_typed: {ENT-wine-white-chablis-preuses-dauvissat-2016: same_brand, ENT-wine-white-chablis-clos-raveneau-2016: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 40303}
   parker: {score: 88, year: 2021}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 Dauvissat 的 Vaudésir 特级园，风格强劲矿物。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Domaine%20Dauvissat%20Chablis%20Grand%20Cru%20Vaud%C3%A9sir%202016%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Domaine%20Dauvissat%20Chablis%20Grand%20Cru%20Vaud%C3%A9sir%202016%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Domaine%20Dauvissat%20Chablis%20Grand%20Cru%20Vaud%C3%A9sir%202016%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

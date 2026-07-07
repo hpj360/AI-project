@@ -6,7 +6,8 @@ tags: [桃红, 普罗旺斯, Ott]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-rose-miraval-2019, ENT-wine-rose-garrus-2018, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaine-tempier-bandol-2019, ENT-wine-rose-whispering-angel-2020]
+related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-miraval-2019, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaine-tempier-bandol-2019]
+related_typed: {ENT-wine-rose-whispering-angel-2020: same_region, ENT-wine-rose-garrus-2018: same_region, ENT-wine-rose-miraval-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: cross_region, ENT-wine-rose-domaine-tempier-bandol-2019: same_subcat}
 ratings:
   vivino: {score: 4.0, votes: 16038}
   parker: {score: 82, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Domaines Ott 经典普罗旺斯桃红，瓶身呈独特椭球形。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Domaines%20Ott%20Clos%20Mireille%20Ros%C3%A9%202019%20wine_rose%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Domaines%20Ott%20Clos%20Mireille%20Ros%C3%A9%202019%20wine_rose)
+- [Google 图片](https://www.google.com/search?q=Domaines%20Ott%20Clos%20Mireille%20Ros%C3%A9%202019%20wine_rose%20bottle&tbm=isch)
 
 ## 基础信息
 

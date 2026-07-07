@@ -6,7 +6,8 @@ tags: [伏特加, 波兰, 雪树]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-belvedere-intense, ENT-vodka-off-161-organic-vodka, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-off-161-organic-vodka, ENT-vodka-belvedere-intense, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
+related_typed: {ENT-vodka-off-161-organic-vodka: same_brand, ENT-vodka-belvedere-intense: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat}
 ratings:
   vivino: {score: 4.3, votes: 42589}
   wine_enthusiast: {score: 83, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 雪树，波兰黑麦伏特加，宫殿命名，纯净柔顺。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Belvedere%20Vodka%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Belvedere%20Vodka%20vodka)
+- [Google 图片](https://www.google.com/search?q=Belvedere%20Vodka%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

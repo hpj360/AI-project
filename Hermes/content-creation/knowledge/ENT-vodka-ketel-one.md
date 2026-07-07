@@ -6,7 +6,8 @@ tags: [伏特加, 荷兰, Ketel One]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-gin-nolets-reserve, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-gin-nolets-reserve, ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona, ENT-vodka-off-149-wodka, ENT-vodka-off-150-belvedere-organic-vodka]
+related_typed: {ENT-gin-nolets-reserve: same_brand, ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat, ENT-vodka-off-149-wodka: same_subcat, ENT-vodka-off-150-belvedere-organic-vodka: same_subcat}
 ratings:
   vivino: {score: 4.2, votes: 12699}
   wine_enthusiast: {score: 81, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Ketel One，荷兰家族伏特加，铜壶蒸馏纯净顺滑。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ketel%20One%20Vodka%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ketel%20One%20Vodka%20vodka)
+- [Google 图片](https://www.google.com/search?q=Ketel%20One%20Vodka%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

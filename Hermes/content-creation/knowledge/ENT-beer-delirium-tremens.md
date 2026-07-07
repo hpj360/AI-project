@@ -6,7 +6,8 @@ tags: [啤酒, 比利时, 粉象, 烈性艾尔]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 4.2, votes: 5663}
   ratebeer: {score: 83, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 粉象啤酒，比利时金色烈性艾尔代表，酒精度高且风味复杂。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Delirium%20Tremens%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Delirium%20Tremens%20beer)
+- [Google 图片](https://www.google.com/search?q=Delirium%20Tremens%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

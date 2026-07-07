@@ -6,7 +6,8 @@ tags: [伏特加, 英国, 斯米诺]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-blue, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
+related: [ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-blue, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka, ENT-vodka-off-147-wodka-gorb]
+related_typed: {ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-blue: same_brand, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat, ENT-vodka-off-147-wodka-gorb: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 22148}
   wine_enthusiast: {score: 85, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 斯米诺 No.21，全球销量最大伏特加，木炭过滤纯净。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Smirnoff%20No.21%20vodka%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Smirnoff%20No.21%20vodka)
+- [Google 图片](https://www.google.com/search?q=Smirnoff%20No.21%20vodka%20bottle&tbm=isch)
 
 ## 基础信息
 

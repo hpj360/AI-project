@@ -6,7 +6,8 @@ tags: [红酒, 纳帕谷, 美国, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-opus-one-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015]
+related: [ENT-wine-red-opus-one-2016, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
+related_typed: {ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-screaming-eagle-2015: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
 ratings:
   vivino: {score: 4.3, votes: 25644}
   parker: {score: 84, year: 2022}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 纳帕葡萄酒之父 Mondavi 的旗舰赤霞珠，定义纳帕风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Robert%20Mondavi%20Reserve%20Cabernet%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Robert%20Mondavi%20Reserve%20Cabernet%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Robert%20Mondavi%20Reserve%20Cabernet%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

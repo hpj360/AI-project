@@ -6,7 +6,12 @@ tags: [鸡尾酒, 创意, 浓缩咖啡, 汤力水, 现代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-aviation-caviar, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres, ENT-cocktail-bloody-mary-spheres]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region, ENT-cocktail-margarita-spheres: same_region}
+ratings:
+  vivino: {score: 4.7, votes: 5451}
+  diffords: {score: 4.18, year: 2022}
+  iba: {score: 4.4, year: 2022}
 ---
 
 # 咖啡汤力
@@ -16,6 +21,12 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-ginish-tonic, ENT-cocktail-
 ## 概述
 
 浓缩咖啡配汤力水与柠檬，咖啡因与奎宁气泡的醒神高球。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Espresso%20Tonic%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Espresso%20Tonic%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Espresso%20Tonic%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-aviation-caviar, ENT-cocktail-ginish-tonic, ENT-cocktail-
 | 苦 | 4 | ████░ |
 | 烈 | 0 | ░░░░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.7 | 5451 |
+| Difford's Guide | 4.18 | 2022 |
+| IBA 推荐 | 4.4 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [红酒, 西班牙, Priorat]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-alvaro-palacios-lermita-2017, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-alvaro-palacios-lermita-2017, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru]
+related_typed: {ENT-wine-red-alvaro-palacios-lermita-2017: same_region, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 43986}
   parker: {score: 85, year: 2022}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 Priorat 名庄，由 René Barbier 创立，是 Priorat 复兴的奠基者。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Clos%20Mogador%202017%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Clos%20Mogador%202017%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Clos%20Mogador%202017%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

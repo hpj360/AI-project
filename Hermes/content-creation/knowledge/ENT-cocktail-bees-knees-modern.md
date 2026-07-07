@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 金酒, 蜂蜜, 柠檬, 禁酒令]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-white-lady, ENT-cocktail-sidecar, ENT-gin-bombay-sapphire-east, ENT-cocktail-bloody-mary, ENT-cocktail-between-the-sheets]
+related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
+related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
+ratings:
+  vivino: {score: 4.5, votes: 32809}
+  diffords: {score: 4.15, year: 2021}
+  iba: {score: 4.2, year: 2020}
 ---
 
 # 蜜蜂之吻（现代改良）
@@ -16,6 +21,12 @@ related: [ENT-cocktail-white-lady, ENT-cocktail-sidecar, ENT-gin-bombay-sapphire
 ## 概述
 
 金酒配蜂蜜糖浆与柠檬汁，禁酒令时代以蜂蜜掩盖劣质金酒的甜润酸酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bee%27s%20Knees%20%28Modern%20Version%29%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bee%27s%20Knees%20%28Modern%20Version%29%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Bee%27s%20Knees%20%28Modern%20Version%29%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-white-lady, ENT-cocktail-sidecar, ENT-gin-bombay-sapphire
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.5 | 32809 |
+| Difford's Guide | 4.15 | 2021 |
+| IBA 推荐 | 4.2 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 当代经典, 朗姆, 薄荷, 古巴]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-hotel-nacional-special, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-cocktail-casablanca, ENT-cocktail-mary-pickford, ENT-cocktail-el-presidente, ENT-cocktail-cuba-libre, ENT-cocktail-hotel-nacional-special]
+related_typed: {ENT-cocktail-casablanca: same_region, ENT-cocktail-mary-pickford: same_region, ENT-cocktail-el-presidente: same_region, ENT-cocktail-cuba-libre: same_region, ENT-cocktail-hotel-nacional-special: same_region}
+ratings:
+  vivino: {score: 4.7, votes: 461}
+  diffords: {score: 4.18, year: 2021}
+  iba: {score: 4.4, year: 2021}
 ---
 
 # 莫吉托
@@ -16,6 +21,12 @@ related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-
 ## 概述
 
 白朗姆配青柠汁糖薄荷叶与苏打水，清凉爽口的古巴国民鸡尾酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mojito%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Mojito%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Mojito%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +92,16 @@ related: [ENT-cocktail-el-presidente, ENT-rum-off-163-rhum-negrita, ENT-rum-off-
 | 苦 | 0 | ░░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.7 | 461 |
+| Difford's Guide | 4.18 | 2021 |
+| IBA 推荐 | 4.4 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

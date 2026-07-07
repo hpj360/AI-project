@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, wine_red, 红葡萄酒, Don Simón]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_white-off-029-vino-blanco-chardonay]
+related: [ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine_white-off-029-vino-blanco-chardonay: same_brand, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-004-pinot-noir: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: cross_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 37302}
   parker: {score: 89, year: 2023}
@@ -23,6 +24,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Vino tinto（Don Simón）
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Vino%20tinto%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Vino%20tinto%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Vino%20tinto%20wine_red%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Vino tinto
@@ -35,6 +42,22 @@ OpenFoodFacts 真实产品数据：Vino tinto（Don Simón）
 - **容量**：1 l
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：红葡萄品种、水、酵母
+- **酿造方法**：
+
+葡萄去梗破碎后连皮发酵，浸渍提取色素单宁，部分过橡木桶。
+- **陈酿方式**：部分橡木桶陈年 6-24 个月
+
+## 风味描述
+
+- **颜色**：宝石红
+- **香气**：红色水果、橡木
+- **口感**：单宁、果味、橡木
+- **余味**：单宁回甘
+- **风味标签**：红果, 单宁, 橡木
 
 ## 评分奖项
 

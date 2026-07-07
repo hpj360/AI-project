@@ -6,7 +6,12 @@ tags: [鸡尾酒, 亚洲, 茶, 伯爵茶, 金酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky]
+related: [ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper, ENT-cocktail-gimlet]
+related_typed: {ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region, ENT-cocktail-gimlet: same_region}
+ratings:
+  vivino: {score: 4.1, votes: 30065}
+  diffords: {score: 4.06, year: 2023}
+  iba: {score: 3.8, year: 2022}
 ---
 
 # 伯爵茶马天尼
@@ -16,6 +21,12 @@ related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-gin-bombay-sapphire, ENT
 ## 概述
 
 伯爵茶浸渍金酒配干味美思搅和，佛手柑茶香与杜松的优雅融合。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Earl%20Grey%20Martini%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Earl%20Grey%20Martini%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Earl%20Grey%20Martini%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-gin-bombay-sapphire, ENT
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.1 | 30065 |
+| Difford's Guide | 4.06 | 2023 |
+| IBA 推荐 | 3.8 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

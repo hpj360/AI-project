@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 雪莉桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-bowmore-12, ENT-whisky-ardbeg-10, ENT-whisky-ardbeg-uigeadail, ENT-whisky-lagavulin-8, ENT-whisky-lagavulin-16]
+related: [ENT-whisky-bowmore-12, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8, ENT-whisky-ardbeg-10, ENT-whisky-ardbeg-uigeadail]
+related_typed: {ENT-whisky-bowmore-12: same_brand, ENT-whisky-lagavulin-16: same_region, ENT-whisky-lagavulin-8: same_region, ENT-whisky-ardbeg-10: same_region, ENT-whisky-ardbeg-uigeadail: same_region}
 ratings:
   vivino: {score: 4.8, votes: 21501}
   whisky_fun: {score: 89, year: 2023}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 波摩 15 年，雪莉桶陈酿，泥煤与雪莉完美融合。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bowmore%2015%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bowmore%2015%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Bowmore%2015%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

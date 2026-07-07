@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 蔓越莓]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-manhattan, ENT-cocktail-aviation, ENT-vodka-off-142-poliakov]
+related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-dirty-martini]
+related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-dirty-martini: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 47197}
+  diffords: {score: 4.26, year: 2021}
+  iba: {score: 4.8, year: 2021}
 ---
 
 # 柯梦波丹
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-vodka-off-141-absolut-vodka, ENT-cockta
 ## 概述
 
 伏特加配君度青柠汁与蔓越莓汁，粉红色时尚标志。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cosmopolitan%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Cosmopolitan%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Cosmopolitan%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-vodka-off-141-absolut-vodka, ENT-cockta
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 47197 |
+| Difford's Guide | 4.26 | 2021 |
+| IBA 推荐 | 4.8 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

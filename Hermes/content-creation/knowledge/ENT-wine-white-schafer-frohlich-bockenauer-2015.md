@@ -6,7 +6,8 @@ tags: [白酒, 德国, 雷司令, Nahe]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-029-vino-blanco-chardonay]
+related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-032-blanc]
+related_typed: {ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat, ENT-wine_white-off-032-blanc: same_subcat}
 ratings:
   vivino: {score: 4.0, votes: 26541}
   parker: {score: 80, year: 2022}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 Nahe 产区新星 Schäfer-Fröhlich，Felseneck 山顶园干型雷司令。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Weingut%20Sch%C3%A4fer-Fr%C3%B6hlich%20Bockenauer%20Felseneck%202015%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Weingut%20Sch%C3%A4fer-Fr%C3%B6hlich%20Bockenauer%20Felseneck%202015%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Weingut%20Sch%C3%A4fer-Fr%C3%B6hlich%20Bockenauer%20Felseneck%202015%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

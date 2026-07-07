@@ -6,7 +6,8 @@ tags: [金酒, 荷兰, Nolet's, 限量]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire-east, ENT-vodka-ketel-one, ENT-gin-tanqueray-no-ten, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
+related: [ENT-vodka-ketel-one, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower]
+related_typed: {ENT-vodka-ketel-one: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat, ENT-gin-gordons-elderflower: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 5183}
   wine_enthusiast: {score: 83, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Nolet's Reserve，荷兰超高端金酒，番红花配方。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Nolet%27s%20Reserve%20Gin%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Nolet%27s%20Reserve%20Gin%20gin)
+- [Google 图片](https://www.google.com/search?q=Nolet%27s%20Reserve%20Gin%20gin%20bottle&tbm=isch)
 
 ## 基础信息
 

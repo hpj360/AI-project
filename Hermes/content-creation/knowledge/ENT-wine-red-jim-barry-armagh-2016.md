@@ -6,7 +6,8 @@ tags: [红酒, 澳洲, 设拉子, 克莱尔谷]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino, ENT-wine_red-off-015-cabernet-sauvigon]
+related_typed: {ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat, ENT-wine_red-off-015-cabernet-sauvigon: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 23703}
   parker: {score: 90, year: 2022}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 克莱尔谷顶级设拉子，由 Jim Barry 家族出品，结构深厚。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jim%20Barry%20The%20Armagh%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jim%20Barry%20The%20Armagh%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Jim%20Barry%20The%20Armagh%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,8 @@ tags: [甜酒, 苏玳, Fargues, Lur-Saluces]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-climens-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-rieussec-2015, ENT-wine-dessert-suduiraut-2015]
+related: [ENT-wine-dessert-rieussec-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015]
+related_typed: {ENT-wine-dessert-rieussec-2015: same_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 6601}
   parker: {score: 90, year: 2020}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 Yquem 同家族 Lur-Saluces 旗下苏玳贵腐甜白。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20de%20Fargues%202015%20wine_dessert%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20de%20Fargues%202015%20wine_dessert)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20de%20Fargues%202015%20wine_dessert%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,8 @@ tags: [红酒, 勃艮第, 特级园]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-clos-vougeot-drc-2015, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-clos-vougeot-drc-2015, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
+related_typed: {ENT-wine-red-clos-vougeot-drc-2015: same_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-004-pinot-noir: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 47115}
   parker: {score: 87, year: 2023}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 Méo-Camuzet 在伏旧园的份额，邻近城堡，结构深厚。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Clos%20de%20Vougeot%20M%C3%A9o-Camuzet%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Clos%20de%20Vougeot%20M%C3%A9o-Camuzet%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Clos%20de%20Vougeot%20M%C3%A9o-Camuzet%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,8 @@ tags: [金酒, 英国, 冰岛, Martin Miller]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-gordons-elderflower, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
+related_typed: {ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region, ENT-gin-beefeater-london-dry: same_region}
 ratings:
   vivino: {score: 4.3, votes: 12099}
   wine_enthusiast: {score: 81, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Martin Miller's，英国蒸馏冰岛水调和，纯净柔和。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Martin%20Miller%27s%20Gin%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Martin%20Miller%27s%20Gin%20gin)
+- [Google 图片](https://www.google.com/search?q=Martin%20Miller%27s%20Gin%20gin%20bottle&tbm=isch)
 
 ## 基础信息
 

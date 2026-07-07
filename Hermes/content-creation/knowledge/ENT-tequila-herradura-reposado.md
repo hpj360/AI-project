@@ -6,7 +6,8 @@ tags: [龙舌兰, 墨西哥, 赫雷德拉, Reposado]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-don-julio-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-patron-silver, ENT-tequila-sauza-blanco, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-patron-silver]
+related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-patron-silver: same_region}
 ratings:
   vivino: {score: 4.8, votes: 24338}
   wine_enthusiast: {score: 90, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 赫雷德拉 Herradura Reposado，传统工艺陈年龙舌兰，橡木香草浓郁。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Herradura%20Reposado%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Herradura%20Reposado%20tequila)
+- [Google 图片](https://www.google.com/search?q=Herradura%20Reposado%20tequila%20bottle&tbm=isch)
 
 ## 基础信息
 

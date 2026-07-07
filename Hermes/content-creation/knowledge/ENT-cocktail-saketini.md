@@ -6,7 +6,12 @@ tags: [鸡尾酒, 亚洲, 清酒, 伏特加, 极简]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-samurai, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake]
+related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita]
+related_typed: {ENT-cocktail-sake-bomb: same_region, ENT-cocktail-sake-martini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region}
+ratings:
+  vivino: {score: 3.9, votes: 34863}
+  diffords: {score: 4.01, year: 2021}
+  iba: {score: 3.6, year: 2022}
 ---
 
 # 清酒天尼
@@ -16,6 +21,12 @@ related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-vodka-off-141-absol
 ## 概述
 
 伏特加配清酒搅和，极简主义的东方版纯净马天尼。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Saketini%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Saketini%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Saketini%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -77,6 +88,16 @@ related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-vodka-off-141-absol
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.9 | 34863 |
+| Difford's Guide | 4.01 | 2021 |
+| IBA 推荐 | 3.6 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

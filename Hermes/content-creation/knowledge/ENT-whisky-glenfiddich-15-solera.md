@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-18, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-12-sherry-oak]
+related: [ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-18, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
+related_typed: {ENT-whisky-glenfiddich-12: same_brand, ENT-whisky-glenfiddich-18: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region}
 ratings:
   vivino: {score: 4.8, votes: 37812}
   whisky_fun: {score: 99, year: 2023}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 格兰菲迪 15 年，采用索雷拉系统持续融合的威士忌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Glenfiddich%2015%20Solera%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Glenfiddich%2015%20Solera%20whisky)
+- [Google 图片](https://www.google.com/search?q=Glenfiddich%2015%20Solera%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

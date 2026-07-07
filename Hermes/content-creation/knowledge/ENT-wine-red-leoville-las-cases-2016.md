@@ -6,7 +6,8 @@ tags: [红酒, 波尔多, 圣朱利安]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-leoville-poyferre-2016, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-ducru-beaucaillou-2016, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-leoville-poyferre-2016, ENT-wine-red-ducru-beaucaillou-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-red-leoville-poyferre-2016: same_region, ENT-wine-red-ducru-beaucaillou-2016: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: same_subcat}
 ratings:
   vivino: {score: 4.7, votes: 4037}
   parker: {score: 84, year: 2021}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 圣朱利安顶级二级庄，紧邻拉图，被称超二级，结构宏大。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20L%C3%A9oville%20Las%20Cases%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20L%C3%A9oville%20Las%20Cases%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20L%C3%A9oville%20Las%20Cases%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

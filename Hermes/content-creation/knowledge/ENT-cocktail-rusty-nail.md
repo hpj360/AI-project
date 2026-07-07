@@ -6,7 +6,12 @@ tags: [鸡尾酒, 短饮, 苏格兰, 杜林标, IBA]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-scotch-soda, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-scotch-soda, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-tokyo-tea]
+related_typed: {ENT-cocktail-scotch-soda: same_region, ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail, ENT-cocktail-tokyo-tea: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 16583}
+  diffords: {score: 4.36, year: 2022}
+  iba: {score: 5.0, year: 2023}
 ---
 
 # 生锈钉
@@ -16,6 +21,12 @@ related: [ENT-cocktail-scotch-soda, ENT-whisky-off-244-johnnie-walker-red-label-
 ## 概述
 
 苏格兰威士忌配杜林标利口酒，烟熏蜂蜜交织的烈性短饮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Rusty%20Nail%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Rusty%20Nail%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Rusty%20Nail%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -77,6 +88,16 @@ related: [ENT-cocktail-scotch-soda, ENT-whisky-off-244-johnnie-walker-red-label-
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 16583 |
+| Difford's Guide | 4.36 | 2022 |
+| IBA 推荐 | 5.0 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

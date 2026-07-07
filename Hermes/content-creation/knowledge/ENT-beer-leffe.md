@@ -6,7 +6,8 @@ tags: [啤酒, 比利时, 乐飞, 修道院风格艾尔]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 4.5, votes: 49320}
   ratebeer: {score: 84, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 乐飞啤酒，比利时修道院风格艾尔代表，金黄酒体，果香与香料平衡。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Leffe%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Leffe%20beer)
+- [Google 图片](https://www.google.com/search?q=Leffe%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

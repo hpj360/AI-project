@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 黑麦, 查特酒, 苦精]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-red-hook]
+related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler]
+related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 684}
+  diffords: {score: 4.34, year: 2022}
+  iba: {score: 5.0, year: 2022}
 ---
 
 # 绿点
@@ -16,6 +21,12 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 ## 概述
 
 黑麦配甜味美思与黄查特酒及苦精，红钩变体的布鲁克林绿点版。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Greenpoint%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Greenpoint%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Greenpoint%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +92,16 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 684 |
+| Difford's Guide | 4.34 | 2022 |
+| IBA 推荐 | 5.0 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

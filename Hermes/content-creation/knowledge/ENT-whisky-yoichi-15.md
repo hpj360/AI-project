@@ -6,7 +6,8 @@ tags: [威士忌, 日本, 单一麦芽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-243-whisky-40, ENT-whisky-taketsuru-21, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-yoichi-10, ENT-whisky-taketsuru-17]
+related: [ENT-whisky-yoichi-10, ENT-whisky-taketsuru-17, ENT-whisky-taketsuru-21, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l]
+related_typed: {ENT-whisky-yoichi-10: same_brand, ENT-whisky-taketsuru-17: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 7368}
   whisky_fun: {score: 90, year: 2021}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 余市 15 年，超高端日本单一麦芽，雪莉桶陈酿。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Yoichi%2015%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Yoichi%2015%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Yoichi%2015%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

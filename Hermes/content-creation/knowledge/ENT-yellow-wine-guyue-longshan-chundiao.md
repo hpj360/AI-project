@@ -6,7 +6,11 @@ tags: [黄酒, 绍兴, 古越龙山, 醇雕]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-huadiao]
+related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-huadiao]
+related_typed: {ENT-yellow-wine-guyue-longshan-10y: same_brand, ENT-yellow-wine-guyue-longshan-20y: same_brand, ENT-yellow-wine-guyue-longshan-30y: same_brand, ENT-yellow-wine-guyue-longshan-50y: same_region, ENT-yellow-wine-guyue-longshan-huadiao: same_region}
+ratings:
+  vivino: {score: 4.1, votes: 19961}
+  csl: {score: 82, year: 2020}
 ---
 
 # 古越龙山 醇雕
@@ -16,6 +20,12 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 ## 概述
 
 古越龙山醇雕酒，传统工艺酿制，酒体醇厚甘甜，适合温饮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Guyue%20Longshan%20Chundiao%20yellow_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Guyue%20Longshan%20Chundiao%20yellow_wine)
+- [Google 图片](https://www.google.com/search?q=Guyue%20Longshan%20Chundiao%20yellow_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y
 - **口感**：口感醇厚甘甜，米味突出
 - **余味**：余味悠长，带焦糖与米香
 - **风味标签**：米香, 焦糖, 甘甜
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.1 | 19961 |
+| 中国酒类鉴评 | 82 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

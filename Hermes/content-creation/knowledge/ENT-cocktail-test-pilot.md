@@ -6,7 +6,14 @@ tags: [鸡尾酒, Tiki, 朗姆, 杏仁, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-nui-nui, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-cocktail-qb-cooler]
+related: [ENT-cocktail-zombie, ENT-cocktail-navy-grog, ENT-cocktail-nui-nui, ENT-cocktail-qb-cooler, ENT-rum-off-162-captain-morgan-spiced-gold]
+related_typed: {ENT-cocktail-zombie: same_region, ENT-cocktail-navy-grog: same_region, ENT-cocktail-nui-nui: same_region, ENT-cocktail-qb-cooler: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail}
+ratings:
+  vivino: {score: 4.8, votes: 687}
+  diffords: {score: 4.44, year: 2020}
+  iba: {score: 5.0, year: 2021}
+awards:
+  - {name: IBA World Competition Silver, year: 2023, org: IBA World Competition}
 ---
 
 # 试飞员
@@ -16,6 +23,12 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-nui-nui, ENT-rum-off-164-bu
 ## 概述
 
 双朗姆配杏仁力乔与法尔纳姆糖浆苦精，Don the Beachcomber 烈性名作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Test%20Pilot%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Test%20Pilot%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Test%20Pilot%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +94,20 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-nui-nui, ENT-rum-off-164-bu
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 687 |
+| Difford's Guide | 4.44 | 2020 |
+| IBA 推荐 | 5.0 | 2021 |
+
+### 获奖记录
+
+- **2023** IBA World Competition Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

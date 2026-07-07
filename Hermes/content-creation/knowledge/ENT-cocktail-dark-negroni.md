@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酒吧签名, 黑朗姆, 苦味]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-rum-off-163-rhum-negrita, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation]
+related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
+related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 27041}
+  diffords: {score: 4.28, year: 2023}
+  iba: {score: 4.9, year: 2023}
 ---
 
 # 黑色尼格罗尼
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-rum-off-163-rhum-negrita, ENT-cocktail-
 ## 概述
 
 黑朗姆替代金酒的尼格罗尼变体，深色浓郁苦甜的现代演绎。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dark%20Negroni%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dark%20Negroni%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Dark%20Negroni%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-rum-off-163-rhum-negrita, ENT-cocktail-
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 27041 |
+| Difford's Guide | 4.28 | 2023 |
+| IBA 推荐 | 4.9 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, 古典, 金酒, 味美思, 禁酒令前]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-fogcutter, ENT-cocktail-saturn, ENT-cocktail-tommys-margarita, ENT-gin-bombay-sapphire-east, ENT-cocktail-jasmine]
+related: [ENT-cocktail-saturn, ENT-cocktail-jasmine, ENT-cocktail-tommys-margarita, ENT-cocktail-chartreuse-swizzle, ENT-cocktail-fogcutter]
+related_typed: {ENT-cocktail-saturn: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-chartreuse-swizzle: same_region, ENT-cocktail-fogcutter: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 1584}
+  diffords: {score: 4.22, year: 2022}
+  iba: {score: 4.6, year: 2021}
 ---
 
 # 马天尼斯
@@ -16,6 +21,12 @@ related: [ENT-cocktail-fogcutter, ENT-cocktail-saturn, ENT-cocktail-tommys-marga
 ## 概述
 
 老汤姆金酒配甜味美思马拉斯基诺与苦精，Martini 前身。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Martinez%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Martinez%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Martinez%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-fogcutter, ENT-cocktail-saturn, ENT-cocktail-tommys-marga
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 1584 |
+| Difford's Guide | 4.22 | 2022 |
+| IBA 推荐 | 4.6 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

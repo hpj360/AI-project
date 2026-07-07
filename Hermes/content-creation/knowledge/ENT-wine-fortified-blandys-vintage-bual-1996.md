@@ -6,7 +6,8 @@ tags: [加强酒, 马德拉, Bual, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-justinos-madeira-sercial-10yo, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related: [ENT-wine-fortified-justinos-madeira-sercial-10yo, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017]
+related_typed: {ENT-wine-fortified-justinos-madeira-sercial-10yo: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_subcat}
 ratings:
   vivino: {score: 4.0, votes: 35850}
   wine_spectator: {score: 82, year: 2021}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Blandy's 顶级年份马德拉，Bual 半甜风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Blandy%27s%20Vintage%20Bual%20Madeira%201996%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Blandy%27s%20Vintage%20Bual%20Madeira%201996%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Blandy%27s%20Vintage%20Bual%20Madeira%201996%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

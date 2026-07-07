@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, wine_white, 白葡萄酒, FREIXENET]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-043-vino-blanco-semidulce, ENT-wine_white-off-031-vino-blanco]
+related: [ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-043-vino-blanco-semidulce, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019]
+related_typed: {ENT-wine_white-off-031-vino-blanco: same_region, ENT-wine_white-off-043-vino-blanco-semidulce: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-027-vin: cross_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 15301}
   parker: {score: 89, year: 2020}
@@ -25,6 +26,12 @@ awards:
 
 OpenFoodFacts 真实产品数据：Cordon Negro šumivé víno（FREIXENET），产地 Spain
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cordon%20Negro%20%C5%A1umiv%C3%A9%20v%C3%ADno%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Cordon%20Negro%20%C5%A1umiv%C3%A9%20v%C3%ADno%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Cordon%20Negro%20%C5%A1umiv%C3%A9%20v%C3%ADno%20wine_white%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Cordon Negro šumivé víno
@@ -37,6 +44,22 @@ OpenFoodFacts 真实产品数据：Cordon Negro šumivé víno（FREIXENET），
 - **容量**：900 g
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：白葡萄品种、水、酵母
+- **酿造方法**：
+
+葡萄压榨后去皮发酵，低温保持果香，部分过橡木桶。
+- **陈酿方式**：部分橡木桶陈年或不陈年
+
+## 风味描述
+
+- **颜色**：淡黄
+- **香气**：柑橘、白花
+- **口感**：果味、酸度
+- **余味**：清爽回甘
+- **风味标签**：柑橘, 果味, 清爽
 
 ## 评分奖项
 

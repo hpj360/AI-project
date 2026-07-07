@@ -6,7 +6,8 @@ tags: [甜酒, 澳洲, 路斯格兰, 麝香, 加强]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-dessert-climens-2015, ENT-wine-dessert-rieussec-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015]
+related: [ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-rieussec-2015]
+related_typed: {ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: cross_region, ENT-wine-dessert-rieussec-2015: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 10480}
   parker: {score: 86, year: 2023}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 澳洲路斯格兰麝香加强甜酒，世界独特风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Campbell%27s%20Rutherglen%20Muscat%20wine_dessert%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Campbell%27s%20Rutherglen%20Muscat%20wine_dessert)
+- [Google 图片](https://www.google.com/search?q=Campbell%27s%20Rutherglen%20Muscat%20wine_dessert%20bottle&tbm=isch)
 
 ## 基础信息
 

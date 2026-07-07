@@ -6,7 +6,8 @@ tags: [桃红, 里奥哈, Muga]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009, ENT-wine-rose-miraval-2019, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-whispering-angel-2020]
+related: [ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019]
+related_typed: {ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009: same_region, ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: same_subcat}
 ratings:
   vivino: {score: 3.8, votes: 27398}
   parker: {score: 78, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 里奥哈名家 Muga 桃红，Garnacha 主导的西班牙风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bodegas%20Muga%20Rosado%202020%20wine_rose%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bodegas%20Muga%20Rosado%202020%20wine_rose)
+- [Google 图片](https://www.google.com/search?q=Bodegas%20Muga%20Rosado%202020%20wine_rose%20bottle&tbm=isch)
 
 ## 基础信息
 

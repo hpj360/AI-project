@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 黑莓力乔, 伦敦]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-bombay-sapphire, ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cocktail-espresso-martini-dick, ENT-cocktail-hanky-panky]
+related: [ENT-cocktail-espresso-martini-dick, ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble]
+related_typed: {ENT-cocktail-espresso-martini-dick: same_brand, ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 23013}
+  diffords: {score: 4.3, year: 2020}
+  iba: {score: 5.0, year: 2021}
 ---
 
 # 荆棘（弗雷德俱乐部版本）
@@ -16,6 +21,12 @@ related: [ENT-gin-bombay-sapphire, ENT-cocktail-earl-grey-martini, ENT-gin-tanqu
 ## 概述
 
 金酒配青柠糖浆与黑莓力乔漂浮，伦敦调酒师的浆果风情名作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bramble%20%28Fred%27s%20Club%20Version%29%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bramble%20%28Fred%27s%20Club%20Version%29%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Bramble%20%28Fred%27s%20Club%20Version%29%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-gin-bombay-sapphire, ENT-cocktail-earl-grey-martini, ENT-gin-tanqu
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 23013 |
+| Difford's Guide | 4.3 | 2020 |
+| IBA 推荐 | 5.0 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [红酒, 中国, 云南, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino, ENT-wine_red-off-015-cabernet-sauvigon]
+related_typed: {ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat, ENT-wine_red-off-015-cabernet-sauvigon: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 35869}
   parker: {score: 84, year: 2023}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 LVMH 在云南香格里拉打造的中国顶级红酒，海拔 2400 米高原风土。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ao%20Yun%202017%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ao%20Yun%202017%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Ao%20Yun%202017%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

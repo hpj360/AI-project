@@ -6,7 +6,12 @@ tags: [鸡尾酒, 潘趣, 朗姆, 白兰地, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-clover-club]
+related: [ENT-cocktail-clover-club, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-brandy-hennessy-xo]
+related_typed: {ENT-cocktail-clover-club: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail}
+ratings:
+  vivino: {score: 4.8, votes: 12167}
+  diffords: {score: 4.34, year: 2023}
+  iba: {score: 5.0, year: 2022}
 ---
 
 # 费城渔会潘趣
@@ -16,6 +21,12 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-brandy-hennessy-vsop, ENT-brandy-hen
 ## 概述
 
 朗姆白兰地与桃子白兰地加柠檬糖水，1732 年费城渔会秘传潘趣。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Philadelphia%20Fish%20House%20Punch%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Philadelphia%20Fish%20House%20Punch%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Philadelphia%20Fish%20House%20Punch%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +92,16 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-brandy-hennessy-vsop, ENT-brandy-hen
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 12167 |
+| Difford's Guide | 4.34 | 2023 |
+| IBA 推荐 | 5.0 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

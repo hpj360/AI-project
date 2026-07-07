@@ -6,7 +6,8 @@ tags: [加强酒, 马德拉, Verdelho, 年份]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
+related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016]
+related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 25511}
   wine_spectator: {score: 85, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Henriques & Henriques 顶级年份马德拉，Verdelho 半干风格。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Henriques%20%26%20Henriques%20Vintage%20Verdelho%20Madeira%201995%20wine_fortified%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Henriques%20%26%20Henriques%20Vintage%20Verdelho%20Madeira%201995%20wine_fortified)
+- [Google 图片](https://www.google.com/search?q=Henriques%20%26%20Henriques%20Vintage%20Verdelho%20Madeira%201995%20wine_fortified%20bottle&tbm=isch)
 
 ## 基础信息
 

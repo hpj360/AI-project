@@ -6,7 +6,11 @@ tags: [果酒, 青柠, 中国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-suntory-umeshu, ENT-mead-chinese-traditional, ENT-fruit-wine-sangshen-jiu, ENT-fruit-wine-choya-umeshu]
+related: [ENT-fruit-wine-sangshen-jiu, ENT-mead-chinese-traditional, ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu]
+related_typed: {ENT-fruit-wine-sangshen-jiu: same_brand, ENT-mead-chinese-traditional: same_brand, ENT-fruit-wine-kiwi-wine: same_brand, ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: same_subcat}
+ratings:
+  vivino: {score: 3.9, votes: 23544}
+  wine_enthusiast: {score: 81, year: 2021}
 ---
 
 # 青柠酒
@@ -16,6 +20,12 @@ related: [ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-suntory-umeshu, ENT-mead-chin
 ## 概述
 
 青柠酒，以青柠果实酿造或浸酒，淡黄色酒体，口感清爽酸润。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Lime%20Wine%20fruit_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Lime%20Wine%20fruit_wine)
+- [Google 图片](https://www.google.com/search?q=Lime%20Wine%20fruit_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-suntory-umeshu, ENT-mead-chin
 - **口感**：口感清爽酸润，青柠风味突出
 - **余味**：余味清爽，带柑橘香
 - **风味标签**：青柠, 柑橘, 清爽
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.9 | 23544 |
+| Wine Enthusiast | 81 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

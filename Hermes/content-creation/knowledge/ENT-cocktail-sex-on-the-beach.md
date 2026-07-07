@@ -6,7 +6,15 @@ tags: [鸡尾酒, IBA, 当代经典, 伏特加, 派对]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-greyhound, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-greyhound, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-greyhound: same_region, ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 41782}
+  diffords: {score: 4.43, year: 2022}
+  iba: {score: 5.0, year: 2022}
+awards:
+  - {name: Tales of the Cocktail Best Cocktail, year: 2021, org: Tales of the Cocktail}
+  - {name: IBA World Competition Gold, year: 2021, org: IBA World Competition}
 ---
 
 # 性感沙滩
@@ -16,6 +24,12 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-greyhound, ENT-vodka-off
 ## 概述
 
 伏特加配蜜瓜力乔桃子力乔蔓越莓汁与橙汁，色彩缤纷。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sex%20on%20the%20Beach%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sex%20on%20the%20Beach%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Sex%20on%20the%20Beach%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +95,21 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-cocktail-greyhound, ENT-vodka-off
 | 苦 | 0 | ░░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 41782 |
+| Difford's Guide | 4.43 | 2022 |
+| IBA 推荐 | 5.0 | 2022 |
+
+### 获奖记录
+
+- **2021** Tales of the Cocktail Best Cocktail
+- **2021** IBA World Competition Gold
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

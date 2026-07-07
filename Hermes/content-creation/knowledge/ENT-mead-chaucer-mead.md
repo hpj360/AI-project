@@ -6,7 +6,11 @@ tags: [蜂蜜酒, 美国, Chaucer, mead]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-tsurume-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-choya-umeshu]
+related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-tsurume-umeshu]
+related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-fruit-wine-tsurume-umeshu: same_subcat}
+ratings:
+  vivino: {score: 4.0, votes: 11280}
+  wine_enthusiast: {score: 82, year: 2020}
 ---
 
 # Chaucer's 蜂蜜酒
@@ -16,6 +20,12 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 ## 概述
 
 Chaucer's 蜂蜜酒，美国传统蜂蜜酒代表，使用加州蜂蜜酿造。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Chaucer%27s%20Mead%20fruit_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Chaucer%27s%20Mead%20fruit_wine)
+- [Google 图片](https://www.google.com/search?q=Chaucer%27s%20Mead%20fruit_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ Chaucer's 蜂蜜酒，美国传统蜂蜜酒代表，使用加州蜂蜜酿造。
 - **口感**：口感甜润，蜂蜜风味突出
 - **余味**：余味甜润，带花香
 - **风味标签**：蜂蜜, 花香, 甜润
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.0 | 11280 |
+| Wine Enthusiast | 82 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [红酒, 澳洲, 设拉子, 南澳]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-penfolds-yattarna-2016, ENT-wine_red-off-002-bordeaux-2013, ENT-wine-red-penfolds-bin-707-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-wolf-blass-black-label-2014]
+related: [ENT-wine-red-penfolds-bin-707-2016, ENT-wine-white-penfolds-yattarna-2016, ENT-wine-red-wolf-blass-black-label-2014, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru]
+related_typed: {ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine-red-wolf-blass-black-label-2014: same_region, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 6117}
   parker: {score: 89, year: 2020}
@@ -25,6 +26,12 @@ awards:
 ## 概述
 
 澳洲酒王，多产区设拉子混酿，美国新橡木桶陈酿，陈年潜力极强。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Penfolds%20Grange%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Penfolds%20Grange%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Penfolds%20Grange%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

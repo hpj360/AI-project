@@ -6,7 +6,8 @@ tags: [白酒, 老白干香, 河北, 衡水老白干]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-hengshui-laobaigan-shijiujiufang, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-hengshui-laobaigan-shijiujiufang, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
+related_typed: {ENT-baijiu-hengshui-laobaigan-shijiujiufang: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 27697}
   csl: {score: 86, year: 2022}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 古法 20，衡水老白干高端老白干香型白酒，陈酿 20 年。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hengshui%20Laobaigan%20Gufa%2020%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hengshui%20Laobaigan%20Gufa%2020%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Hengshui%20Laobaigan%20Gufa%2020%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -55,7 +62,7 @@ ratings:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 27697 |
-| 中国白酒鉴评 | 86 | 2022 |
+| 中国酒类鉴评 | 86 | 2022 |
 
 > 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, Tiki, 波本, 金酒, 姜汁啤酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-gin-bombay-sapphire-east, ENT-whisky-off-242-ballantine-s-finest, ENT-gin-bombay-sapphire]
+related: [ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
+related_typed: {ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 47753}
+  diffords: {score: 4.36, year: 2021}
+  iba: {score: 5.0, year: 2022}
 ---
 
 # 苦难混蛋
@@ -16,6 +21,12 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 ## 概述
 
 波本与金酒双基酒配青柠与姜汁啤酒，二战开罗解宿醉神器。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Suffering%20Bastard%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Suffering%20Bastard%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Suffering%20Bastard%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 47753 |
+| Difford's Guide | 4.36 | 2021 |
+| IBA 推荐 | 5.0 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

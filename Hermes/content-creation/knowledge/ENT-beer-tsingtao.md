@@ -6,7 +6,8 @@ tags: [啤酒, 中国, 青岛, 工业拉格]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-tsingtao-pure-draft, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-heineken]
+related: [ENT-beer-tsingtao-pure-draft, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-tsingtao-pure-draft: same_brand, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 17768}
   ratebeer: {score: 90, year: 2023}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 青岛啤酒，中国啤酒工业百年代表，皮尔森风格拉格，麦香清爽。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Tsingtao%20Beer%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Tsingtao%20Beer%20beer)
+- [Google 图片](https://www.google.com/search?q=Tsingtao%20Beer%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

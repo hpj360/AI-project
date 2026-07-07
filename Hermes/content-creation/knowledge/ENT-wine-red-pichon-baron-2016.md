@@ -6,7 +6,8 @@ tags: [红酒, 波尔多, 波亚克]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-latour-2010, ENT-wine-red-pichon-lalande-2016, ENT-wine-red-lafite-2010, ENT-wine-red-mouton-2016, ENT-wine-red-lynch-bages-2016]
+related: [ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-lalande-2016, ENT-wine-red-lynch-bages-2016]
+related_typed: {ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-lalande-2016: same_region, ENT-wine-red-lynch-bages-2016: same_region}
 ratings:
   vivino: {score: 4.8, votes: 2129}
   parker: {score: 88, year: 2021}
@@ -26,6 +27,12 @@ awards:
 ## 概述
 
 波亚克二级庄，风格强劲，与女爵隔路相望。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20Pichon%20Longueville%20Baron%202016%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20Pichon%20Longueville%20Baron%202016%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20Pichon%20Longueville%20Baron%202016%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

@@ -6,7 +6,11 @@ tags: [米酒, 客家, 广东, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-wine-changle-shao, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-guilin-sanhua]
+related: [ENT-rice-wine-kejia-niangjiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-hongli-hongmi]
+related_typed: {ENT-rice-wine-kejia-niangjiu: same_brand, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-rice-wine-hongli-hongmi: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 46541}
+  csl: {score: 86, year: 2021}
 ---
 
 # 客家米酒
@@ -16,6 +20,12 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-w
 ## 概述
 
 客家传统糯米酒，古法酿造，口感甘甜醇厚，是客家文化代表饮品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hakka%20Rice%20Wine%20rice_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hakka%20Rice%20Wine%20rice_wine)
+- [Google 图片](https://www.google.com/search?q=Hakka%20Rice%20Wine%20rice_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-hongli-hongmi, ENT-rice-w
 - **口感**：口感甘甜醇厚，米味突出
 - **余味**：余味甜润，带米香
 - **风味标签**：米香, 蜜糖, 甘甜
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 46541 |
+| 中国酒类鉴评 | 86 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

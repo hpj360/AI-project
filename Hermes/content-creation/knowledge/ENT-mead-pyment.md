@@ -1,0 +1,88 @@
+---
+id: ENT-mead-pyment
+title: 葡萄蜂蜜酒
+category: ENT
+tags: [蜂蜜酒, 法国, 葡萄, mead]
+status: active
+created: 2026-07-07
+updated: 2026-07-07
+related: [ENT-mead-vanilla, ENT-mead-champagne-method, ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey]
+related_typed: {ENT-mead-vanilla: same_brand, ENT-mead-champagne-method: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 34309}
+  wine_enthusiast: {score: 86, year: 2022}
+  ratebeer: {score: 88, year: 2020}
+---
+
+# 葡萄蜂蜜酒
+
+**Pyment**
+
+## 概述
+
+Pyment 葡萄蜂蜜酒，蜂蜜与葡萄汁共同发酵，兼具蜜香与葡萄风味。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Pyment%20mead%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Pyment%20mead)
+- [Google 图片](https://www.google.com/search?q=Pyment%20mead%20bottle&tbm=isch)
+
+## 基础信息
+
+- **中文名**：葡萄蜂蜜酒
+- **外文名**：Pyment
+- **分类**：蜂蜜酒
+- **产地**：法国 / 卢瓦尔河谷
+- **生产商**：法国蜂蜜酒坊
+- **酒精度**：12%
+- **容量**：500ml
+- **参考价格（RMB）**：¥200-400
+- **价格档位**：advanced
+
+## 生产工艺
+
+- **原料**：蜂蜜、葡萄汁、酵母
+- **酿造方法**：
+
+蜂蜜与葡萄汁共同发酵，橡木桶陈酿数月
+
+## 风味描述
+
+- **颜色**：淡红金
+- **香气**：葡萄、蜂蜜、花香、橡木
+- **口感**：甜润优雅，葡萄与蜂蜜交融
+- **余味**：余味悠长，带葡萄与蜜香
+- **风味标签**：葡萄, 蜂蜜, 橡木
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 34309 |
+| Wine Enthusiast | 86 | 2022 |
+| RateBeer | 88 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：冰镇
+- **推荐酒杯**：白葡萄酒杯
+- **佐餐搭配**：奶酪、禽肉、水果甜点
+
+## 文化背景
+
+### 历史
+
+Pyment 源自欧洲中世纪，是蜂蜜酒与葡萄酒的融合，常在修道院酿造。
+
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。

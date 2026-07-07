@@ -6,7 +6,8 @@ tags: [朗姆酒, 古巴, 哈瓦那俱乐部, 白朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-havana-club-anejo-reserva, ENT-rum-off-174-rhum-cubain, ENT-rum-caribbean-ron-del-caribe, ENT-rum-havana-club-7]
+related: [ENT-rum-off-174-rhum-cubain, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-caribbean-ron-del-caribe, ENT-rum-off-165-rhum-ambr]
+related_typed: {ENT-rum-off-174-rhum-cubain: same_brand, ENT-rum-havana-club-7: same_brand, ENT-rum-havana-club-anejo-reserva: same_brand, ENT-rum-caribbean-ron-del-caribe: same_region, ENT-rum-off-165-rhum-ambr: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 8607}
   wine_enthusiast: {score: 92, year: 2020}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 哈瓦那俱乐部 3 年，古巴白朗姆，调酒师最爱。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Havana%20Club%203%20Years%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Havana%20Club%203%20Years%20rum)
+- [Google 图片](https://www.google.com/search?q=Havana%20Club%203%20Years%20rum%20bottle&tbm=isch)
 
 ## 基础信息
 

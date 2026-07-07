@@ -6,7 +6,8 @@ tags: [白酒, 新世界, 长相思, 马尔堡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
+related: [ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
+related_typed: {ENT-wine-white-cloudy-bay-sauvignon-blanc-2020: same_region, ENT-wine-white-oyster-bay-sauvignon-blanc-2020: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 45974}
   parker: {score: 88, year: 2020}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 新西兰马尔堡名家 Dog Point，长相思纯净代表。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dog%20Point%20Sauvignon%20Blanc%202020%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dog%20Point%20Sauvignon%20Blanc%202020%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Dog%20Point%20Sauvignon%20Blanc%202020%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

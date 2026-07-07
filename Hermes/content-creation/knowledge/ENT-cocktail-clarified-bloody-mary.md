@@ -6,7 +6,14 @@ tags: [鸡尾酒, 分子, 离心, 伏特加, 番茄]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-off-141-absolut-vodka, ENT-cocktail-ginish-tonic, ENT-cocktail-mojito-spheres]
+related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
+related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 31713}
+  diffords: {score: 4.41, year: 2021}
+  iba: {score: 5.0, year: 2020}
+awards:
+  - {name: IBA World Competition Silver, year: 2020, org: IBA World Competition}
 ---
 
 # 澄清血腥玛丽
@@ -16,6 +23,12 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-o
 ## 概述
 
 以高速离心分离番茄汁固体，得到透明血腥玛丽保留全部风味。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Clarified%20Bloody%20Mary%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Clarified%20Bloody%20Mary%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Clarified%20Bloody%20Mary%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -84,6 +97,20 @@ related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-vodka-o
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 31713 |
+| Difford's Guide | 4.41 | 2021 |
+| IBA 推荐 | 5.0 | 2020 |
+
+### 获奖记录
+
+- **2020** IBA World Competition Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

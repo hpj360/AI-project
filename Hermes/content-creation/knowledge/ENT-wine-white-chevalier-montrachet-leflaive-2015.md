@@ -6,7 +6,8 @@ tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-white-puligny-pucelles-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-combettes-leflaive-2016, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine-white-montrachet-leflaive-2014]
+related: [ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine-white-puligny-pucelles-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-combettes-leflaive-2016]
+related_typed: {ENT-wine-white-montrachet-leflaive-2014: same_brand, ENT-wine-white-batard-montrachet-leflaive-2015: same_brand, ENT-wine-white-puligny-pucelles-leflaive-2015: same_brand, ENT-wine-white-montrachet-drc-2014: same_region, ENT-wine-white-puligny-combettes-leflaive-2016: same_region}
 ratings:
   vivino: {score: 4.8, votes: 14817}
   parker: {score: 89, year: 2022}
@@ -23,6 +24,12 @@ awards:
 ## 概述
 
 Montrachet 旁的特级园，风格优雅细腻，Leflaive 代表作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Domaine%20Leflaive%20Chevalier-Montrachet%202015%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Domaine%20Leflaive%20Chevalier-Montrachet%202015%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Domaine%20Leflaive%20Chevalier-Montrachet%202015%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

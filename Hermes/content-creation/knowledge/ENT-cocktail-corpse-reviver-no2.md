@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 橙味力乔, 等比]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cocktail-hanky-panky, ENT-gin-bombay-sapphire-east, ENT-cocktail-hanky-panky-savoy]
+related: [ENT-cocktail-satans-whiskers, ENT-cocktail-hanky-panky-savoy, ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini]
+related_typed: {ENT-cocktail-satans-whiskers: same_brand, ENT-cocktail-hanky-panky-savoy: same_brand, ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 21989}
+  diffords: {score: 4.37, year: 2023}
+  iba: {score: 5.0, year: 2023}
 ---
 
 # 尸体复活者二号
@@ -16,6 +21,12 @@ related: [ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cock
 ## 概述
 
 金酒配橙味力乔味美思青柠与苦艾酒，等比结构的宿醉复活经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Corpse%20Reviver%20No.2%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Corpse%20Reviver%20No.2%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Corpse%20Reviver%20No.2%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +92,16 @@ related: [ENT-cocktail-earl-grey-martini, ENT-gin-tanqueray-london-dry, ENT-cock
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 21989 |
+| Difford's Guide | 4.37 | 2023 |
+| IBA 推荐 | 5.0 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

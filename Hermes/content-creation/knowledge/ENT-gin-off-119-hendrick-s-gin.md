@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, gin, 金酒, Hendrick's]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-gin-hendricks-lunar, ENT-gin-bombay-sapphire-east, ENT-gin-hendricks, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
+related: [ENT-gin-hendricks, ENT-gin-hendricks-lunar, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry]
+related_typed: {ENT-gin-hendricks: same_brand, ENT-gin-hendricks-lunar: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat}
 ratings:
   vivino: {score: 3.9, votes: 37639}
   wine_enthusiast: {score: 79, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Hendrick’s Gin（Hendrick's），产地 Bulgaria
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hendrick%E2%80%99s%20Gin%20gin%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hendrick%E2%80%99s%20Gin%20gin)
+- [Google 图片](https://www.google.com/search?q=Hendrick%E2%80%99s%20Gin%20gin%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Hendrick’s Gin
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：Hendrick’s Gin（Hendrick's），产地 Bul
 - **容量**：0.7l
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：谷物、杜松子、香料（芫荽/当归/柑橘皮等）、水、酵母
+- **酿造方法**：
+
+谷物发酵蒸馏为基酒，再用浸泡或蒸汽提取法加入杜松子等植物香料复蒸。
+- **陈酿方式**：通常不陈年
+
+## 风味描述
+
+- **颜色**：无色透明
+- **香气**：杜松子、草本
+- **口感**：杜松子、香料、柑橘
+- **余味**：草本回甘
+- **风味标签**：杜松子, 草本, 柑橘
 
 ## 评分奖项
 

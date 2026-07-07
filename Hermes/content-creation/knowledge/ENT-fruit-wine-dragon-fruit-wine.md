@@ -6,7 +6,11 @@ tags: [果酒, 火龙果, 中国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-suntory-umeshu, ENT-mead-chinese-traditional, ENT-fruit-wine-sangshen-jiu, ENT-fruit-wine-choya-umeshu]
+related: [ENT-fruit-wine-sangshen-jiu, ENT-mead-chinese-traditional, ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-mango, ENT-fruit-wine-choya-umeshu]
+related_typed: {ENT-fruit-wine-sangshen-jiu: same_brand, ENT-mead-chinese-traditional: same_brand, ENT-fruit-wine-kiwi-wine: same_brand, ENT-fruit-wine-mango: same_region, ENT-fruit-wine-choya-umeshu: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 24128}
+  wine_enthusiast: {score: 85, year: 2023}
 ---
 
 # 火龙果酒
@@ -16,6 +20,12 @@ related: [ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-suntory-umeshu, ENT-mead-chin
 ## 概述
 
 火龙果酒，以火龙果果实酿造，深紫红色酒体，口感甜润，富含花青素。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dragon%20Fruit%20Wine%20fruit_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dragon%20Fruit%20Wine%20fruit_wine)
+- [Google 图片](https://www.google.com/search?q=Dragon%20Fruit%20Wine%20fruit_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-suntory-umeshu, ENT-mead-chin
 - **口感**：口感甜润，火龙果风味突出
 - **余味**：余味甜润，带浆果香
 - **风味标签**：火龙果, 浆果, 甜润
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 24128 |
+| Wine Enthusiast | 85 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

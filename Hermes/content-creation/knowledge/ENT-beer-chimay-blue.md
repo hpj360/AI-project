@@ -6,7 +6,8 @@ tags: [啤酒, 比利时, 智美, 修道院啤酒, 四料]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-chimay-red, ENT-beer-tsingtao, ENT-beer-chimay-gold, ENT-beer-budweiser]
+related: [ENT-beer-chimay-red, ENT-beer-chimay-gold, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser]
+related_typed: {ENT-beer-chimay-red: same_brand, ENT-beer-chimay-gold: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 43619}
   ratebeer: {score: 86, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 智美蓝帽，比利时修道院啤酒代表，深棕色酒体，焦糖与果香深邃。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Chimay%20Blue%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Chimay%20Blue%20beer)
+- [Google 图片](https://www.google.com/search?q=Chimay%20Blue%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

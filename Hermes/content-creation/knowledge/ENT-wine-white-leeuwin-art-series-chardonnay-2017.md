@@ -6,7 +6,8 @@ tags: [白酒, 新世界, 霞多丽, 玛格丽特河]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-red-leeuwin-art-series-shiraz-2016, ENT-wine_white-off-027-vin, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
+related: [ENT-wine-red-leeuwin-art-series-shiraz-2016, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco]
+related_typed: {ENT-wine-red-leeuwin-art-series-shiraz-2016: same_brand, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat}
 ratings:
   vivino: {score: 4.7, votes: 23204}
   parker: {score: 83, year: 2022}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 澳洲顶级霞多丽，Leeuwin Art Series 长期被誉为澳洲白酒标杆。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Leeuwin%20Estate%20Art%20Series%20Chardonnay%202017%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Leeuwin%20Estate%20Art%20Series%20Chardonnay%202017%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Leeuwin%20Estate%20Art%20Series%20Chardonnay%202017%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

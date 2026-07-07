@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酸酒, 皮斯科, 青柠, 秘鲁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-sake-martini, ENT-cocktail-sake-bomb]
+related: [ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball]
+related_typed: {ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat}
+ratings:
+  vivino: {score: 4.7, votes: 39482}
+  diffords: {score: 4.19, year: 2020}
+  iba: {score: 4.4, year: 2022}
 ---
 
 # 皮斯科酸酒
@@ -16,6 +21,12 @@ related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, E
 ## 概述
 
 皮斯科白兰地配青柠糖浆与蛋清，秘鲁与智利国饮之争经典酸酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Pisco%20Sour%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Pisco%20Sour%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Pisco%20Sour%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-samurai, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, E
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.7 | 39482 |
+| Difford's Guide | 4.19 | 2020 |
+| IBA 推荐 | 4.4 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [威士忌, 爱尔兰, 单一麦芽, 三桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-bushmills-original, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-245-monkey-shoulder]
+related: [ENT-whisky-bushmills-original, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-whisky-off-252-black-barrel-whisky-40]
+related_typed: {ENT-whisky-bushmills-original: same_brand, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat, ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat, ENT-whisky-off-252-black-barrel-whisky-40: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 18894}
   whisky_fun: {score: 91, year: 2022}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 布什米尔斯 16 年，三桶陈酿单一麦芽威士忌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bushmills%2016%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bushmills%2016%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Bushmills%2016%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

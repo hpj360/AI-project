@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 黑麦, 苹果白兰地, 等比]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-vsop, ENT-whisky-off-243-whisky-40]
+related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
+related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 24243}
+  diffords: {score: 4.28, year: 2022}
+  iba: {score: 4.9, year: 2023}
 ---
 
 # 最终守护
@@ -16,6 +21,12 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 ## 概述
 
 黑麦、苹果白兰地、马拉斯加力乔与青柠等比摇和，Last Ward 系列终章。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Final%20Ward%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Final%20Ward%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Final%20Ward%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-old-cuban, ENT-cocktail-manhattan, ENT-whisky-off-244-joh
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 24243 |
+| Difford's Guide | 4.28 | 2022 |
+| IBA 推荐 | 4.9 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

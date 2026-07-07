@@ -6,7 +6,8 @@ tags: [白酒, 浓香, 四川, 舍得]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-tuopai-tequ, ENT-baijiu-shede-pinwei-shede, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-tuopai-tequ, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 24640}
   csl: {score: 88, year: 2021}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 智慧舍得，舍得超高端浓香，陈年基酒勾调。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Shede%20Zhihui%20Shede%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Shede%20Zhihui%20Shede%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Shede%20Zhihui%20Shede%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -57,7 +64,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 24640 |
-| 中国白酒鉴评 | 88 | 2021 |
+| 中国酒类鉴评 | 88 | 2021 |
 
 ### 获奖记录
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 当代经典, 烈, 长饮]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-rum-off-163-rhum-negrita, ENT-tequila-off-183-tequila-gold, ENT-rum-off-164-bumbu-original-rum-40, ENT-tequila-off-184-sierra-tequila-silver]
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east]
+related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail}
+ratings:
+  vivino: {score: 4.8, votes: 46540}
+  diffords: {score: 4.23, year: 2020}
+  iba: {score: 4.7, year: 2023}
 ---
 
 # 长岛冰茶
@@ -16,6 +21,12 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-rum-off-163-rhum-negrita, ENT-teq
 ## 概述
 
 四烈酒配可乐与柠檬汁，看似冰茶实则极烈。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Long%20Island%20Iced%20Tea%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Long%20Island%20Iced%20Tea%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Long%20Island%20Iced%20Tea%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -84,6 +95,16 @@ related: [ENT-vodka-off-141-absolut-vodka, ENT-rum-off-163-rhum-negrita, ENT-teq
 | 苦 | 1 | █░░░░ |
 | 烈 | 5 | █████ |
 | 香 | 2 | ██░░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 46540 |
+| Difford's Guide | 4.23 | 2020 |
+| IBA 推荐 | 4.7 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

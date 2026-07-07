@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 波本, 樱桃, 橙汁]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmopolitan, ENT-cocktail-aviation, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey]
+related: [ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash, ENT-cocktail-brandy-fix]
+related_typed: {ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region, ENT-cocktail-brandy-fix: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 37356}
+  diffords: {score: 4.24, year: 2022}
+  iba: {score: 4.7, year: 2023}
 ---
 
 # 血与沙
@@ -16,6 +21,12 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 ## 概述
 
 波本配樱桃力乔橙汁与红石榴糖浆，等比斗牛士名作血色浪漫。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Blood%20and%20Sand%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Blood%20and%20Sand%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Blood%20and%20Sand%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-whiskey-sour, ENT-cocktail-manhattan, ENT-cocktail-cosmop
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 37356 |
+| Difford's Guide | 4.24 | 2022 |
+| IBA 推荐 | 4.7 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,8 @@ tags: [威士忌, 美国, 田纳西威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-jack-daniels-single-barrel, ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-jack-daniels-gentleman-jack]
+related: [ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-single-barrel, ENT-whisky-jack-daniels-gentleman-jack, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l]
+related_typed: {ENT-whisky-off-261-tennessee-whiskey: same_brand, ENT-whisky-jack-daniels-single-barrel: same_brand, ENT-whisky-jack-daniels-gentleman-jack: same_brand, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat}
 ratings:
   vivino: {score: 4.6, votes: 19967}
   whisky_fun: {score: 82, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 杰克丹尼 7 号，田纳西威士忌全球销量冠军。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jack%20Daniel%27s%20Old%20No.7%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jack%20Daniel%27s%20Old%20No.7%20whisky)
+- [Google 图片](https://www.google.com/search?q=Jack%20Daniel%27s%20Old%20No.7%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

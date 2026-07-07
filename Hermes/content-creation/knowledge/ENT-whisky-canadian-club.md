@@ -6,7 +6,8 @@ tags: [威士忌, 加拿大, 调和威士忌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-246-jack-daniel-s-no-7, ENT-whisky-off-245-monkey-shoulder]
+related: [ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-whisky-off-253-william-peel, ENT-whisky-off-254-royal-challenge-whisky, ENT-whisky-off-255-blended-scotch-whisky-william-peel]
+related_typed: {ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat, ENT-whisky-off-253-william-peel: same_subcat, ENT-whisky-off-254-royal-challenge-whisky: same_subcat, ENT-whisky-off-255-blended-scotch-whisky-william-peel: same_subcat}
 ratings:
   vivino: {score: 3.9, votes: 39270}
   whisky_fun: {score: 79, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 加拿大俱乐部，加拿大经典调和威士忌，海明威最爱。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Canadian%20Club%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Canadian%20Club%20whisky)
+- [Google 图片](https://www.google.com/search?q=Canadian%20Club%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

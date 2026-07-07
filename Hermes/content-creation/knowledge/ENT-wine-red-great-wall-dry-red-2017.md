@@ -6,7 +6,8 @@ tags: [红酒, 中国, 河北, 赤霞珠]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino, ENT-wine_red-off-015-cabernet-sauvigon, ENT-wine_red-off-016-duck-eggs]
+related_typed: {ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat, ENT-wine_red-off-015-cabernet-sauvigon: same_subcat, ENT-wine_red-off-016-duck-eggs: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 31886}
   parker: {score: 90, year: 2021}
@@ -26,6 +27,12 @@ awards:
 ## 概述
 
 中粮旗下国民红酒品牌，覆盖多产区，销量领先的国产红酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Great%20Wall%20Dry%20Red%202017%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Great%20Wall%20Dry%20Red%202017%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Great%20Wall%20Dry%20Red%202017%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

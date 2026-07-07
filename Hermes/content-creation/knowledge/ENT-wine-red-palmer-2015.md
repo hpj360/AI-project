@@ -6,7 +6,8 @@ tags: [红酒, 波尔多, 玛歌]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-rauzan-segla-2016, ENT-wine_red-off-002-bordeaux-2013, ENT-wine-red-margaux-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-margaux-2015, ENT-wine-red-rauzan-segla-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-red-margaux-2015: same_region, ENT-wine-red-rauzan-segla-2016: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 13047}
   parker: {score: 88, year: 2021}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 玛歌村三级庄，品质比肩一级，被誉为超三级。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20Palmer%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20Palmer%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20Palmer%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

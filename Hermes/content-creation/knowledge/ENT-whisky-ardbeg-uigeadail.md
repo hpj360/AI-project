@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 原桶强度]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-bowmore-15, ENT-whisky-bowmore-12, ENT-whisky-ardbeg-10, ENT-whisky-lagavulin-8, ENT-whisky-lagavulin-16]
+related: [ENT-whisky-ardbeg-10, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8, ENT-whisky-bowmore-12, ENT-whisky-bowmore-15]
+related_typed: {ENT-whisky-ardbeg-10: same_brand, ENT-whisky-lagavulin-16: same_region, ENT-whisky-lagavulin-8: same_region, ENT-whisky-bowmore-12: same_region, ENT-whisky-bowmore-15: same_region}
 ratings:
   vivino: {score: 4.8, votes: 19035}
   whisky_fun: {score: 91, year: 2021}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 雅伯 Uigeadail，雪莉桶与波本桶混陈的原桶强度威士忌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ardbeg%20Uigeadail%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ardbeg%20Uigeadail%20whisky)
+- [Google 图片](https://www.google.com/search?q=Ardbeg%20Uigeadail%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

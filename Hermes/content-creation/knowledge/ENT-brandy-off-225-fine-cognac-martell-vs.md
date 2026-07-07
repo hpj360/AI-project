@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, brandy, 白兰地, MARTELL]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-brandy-martell-cordon-bleu, ENT-brandy-martell-xo, ENT-brandy-hennessy-vsop, ENT-brandy-martell-vsop, ENT-brandy-hennessy-vs]
+related: [ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
+related_typed: {ENT-brandy-martell-vsop: same_brand, ENT-brandy-martell-xo: same_brand, ENT-brandy-martell-cordon-bleu: same_brand, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 26540}
   wine_enthusiast: {score: 93, year: 2022}
@@ -22,6 +23,12 @@ awards:
 
 OpenFoodFacts 真实产品数据：Fine Cognac MARTELL VS（MARTELL）
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Fine%20Cognac%20MARTELL%20VS%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Fine%20Cognac%20MARTELL%20VS%20brandy)
+- [Google 图片](https://www.google.com/search?q=Fine%20Cognac%20MARTELL%20VS%20brandy%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Fine Cognac MARTELL VS
@@ -34,6 +41,22 @@ OpenFoodFacts 真实产品数据：Fine Cognac MARTELL VS（MARTELL）
 - **容量**：70cl
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：葡萄或其他水果、水、酵母
+- **酿造方法**：
+
+水果发酵成酒后壶式蒸馏，入橡木桶陈年。
+- **陈酿方式**：橡木桶陈年（VS/VSOP/XO）
+
+## 风味描述
+
+- **颜色**：琥珀色
+- **香气**：葡萄、橡木
+- **口感**：果干、橡木、香料
+- **余味**：悠长橡木
+- **风味标签**：葡萄, 橡木, 果干
 
 ## 评分奖项
 

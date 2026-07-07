@@ -6,7 +6,14 @@ tags: [鸡尾酒, 古典, 黑麦, 味美思, 禁酒令]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-white-lady, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-sidecar, ENT-whisky-off-242-ballantine-s-finest]
+related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
+related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 27366}
+  diffords: {score: 4.41, year: 2022}
+  iba: {score: 5.0, year: 2021}
+awards:
+  - {name: Tales of the Cocktail Spirited Award, year: 2021, org: Tales of the Cocktail}
 ---
 
 # 禁酒嘲弄者
@@ -16,6 +23,12 @@ related: [ENT-cocktail-white-lady, ENT-whisky-off-244-johnnie-walker-red-label-b
 ## 概述
 
 黑麦配干味美思柠檬青柠与石榴苦精，1924 年禁酒令产物。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Scofflaw%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Scofflaw%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Scofflaw%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +94,20 @@ related: [ENT-cocktail-white-lady, ENT-whisky-off-244-johnnie-walker-red-label-b
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 27366 |
+| Difford's Guide | 4.41 | 2022 |
+| IBA 推荐 | 5.0 | 2021 |
+
+### 获奖记录
+
+- **2021** Tales of the Cocktail Spirited Award
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

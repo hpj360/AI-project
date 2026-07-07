@@ -6,7 +6,8 @@ tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-richebourg-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-la-romane-liger-belair-2015, ENT-wine-red-grands-echezeaux-2015]
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-la-romane-liger-belair-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-red-grands-echezeaux-2015: same_brand, ENT-wine-red-la-romane-liger-belair-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 ratings:
   vivino: {score: 4.6, votes: 23475}
   parker: {score: 82, year: 2020}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 DRC 第二大特级园独占园，结构强劲，陈年潜力极佳。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=La%20T%C3%A2che%202015%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/La%20T%C3%A2che%202015%20wine_red)
+- [Google 图片](https://www.google.com/search?q=La%20T%C3%A2che%202015%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

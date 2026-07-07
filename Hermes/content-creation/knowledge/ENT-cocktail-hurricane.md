@@ -6,7 +6,12 @@ tags: [鸡尾酒, Tiki, 朗姆, 百香果, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-brandy-crusta, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-sazerac, ENT-rum-off-164-bumbu-original-rum-40]
+related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-grasshopper]
+related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region, ENT-cocktail-grasshopper: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 48635}
+  diffords: {score: 4.24, year: 2023}
+  iba: {score: 4.7, year: 2021}
 ---
 
 # 飓风
@@ -16,6 +21,12 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-brandy-crusta, ENT-cocktail
 ## 概述
 
 黑朗姆配百香果糖浆与青柠，新奥尔良 Pat O'Brien's 标志饮品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hurricane%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hurricane%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Hurricane%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-brandy-crusta, ENT-cocktail
 | 苦 | 0 | ░░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 48635 |
+| Difford's Guide | 4.24 | 2023 |
+| IBA 推荐 | 4.7 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

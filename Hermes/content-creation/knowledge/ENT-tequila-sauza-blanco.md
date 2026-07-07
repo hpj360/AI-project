@@ -6,7 +6,8 @@ tags: [龙舌兰, 墨西哥, 索萨, Blanco]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-tequila-don-julio-reposado, ENT-tequila-herradura-reposado, ENT-tequila-don-julio-blanco, ENT-tequila-patron-silver, ENT-tequila-jose-cuervo-especial-gold]
+related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-herradura-reposado, ENT-tequila-patron-silver]
+related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-herradura-reposado: same_region, ENT-tequila-patron-silver: same_region}
 ratings:
   vivino: {score: 4.8, votes: 22811}
   wine_enthusiast: {score: 92, year: 2022}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 索萨 Sauza Blanco，清淡型白龙舌兰，适合调酒入门。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sauza%20Blanco%20tequila%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sauza%20Blanco%20tequila)
+- [Google 图片](https://www.google.com/search?q=Sauza%20Blanco%20tequila%20bottle&tbm=isch)
 
 ## 基础信息
 

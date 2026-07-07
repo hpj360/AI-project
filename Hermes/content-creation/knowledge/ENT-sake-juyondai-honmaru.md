@@ -6,7 +6,8 @@ tags: [清酒, 日本, 纯米酒, 十四代]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-off-096-cooking-sake, ENT-sake-juyondai-soko, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-shirakumo, ENT-sake-juyondai-ryugetsu]
+related: [ENT-sake-juyondai-ryugetsu, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-soko, ENT-sake-juyondai-shirakumo, ENT-sake-off-096-cooking-sake]
+related_typed: {ENT-sake-juyondai-ryugetsu: same_brand, ENT-sake-juyondai-nana-tariki: same_brand, ENT-sake-juyondai-soko: same_brand, ENT-sake-juyondai-shirakumo: same_region, ENT-sake-off-096-cooking-sake: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 5344}
   sake_revue: {score: 99, year: 2023}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 高木酒造十四代本丸纯米酒，山田锦精米步合 55%，被誉为纯米酒天花板。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Juyondai%20Honmaru%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Juyondai%20Honmaru%20sake)
+- [Google 图片](https://www.google.com/search?q=Juyondai%20Honmaru%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

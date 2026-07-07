@@ -6,7 +6,12 @@ tags: [鸡尾酒, Tiki, 朗姆, 热带, 美国]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-nui-nui, ENT-cocktail-test-pilot, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-162-captain-morgan-spiced-gold]
+related: [ENT-cocktail-navy-grog, ENT-cocktail-test-pilot, ENT-cocktail-nui-nui, ENT-cocktail-qb-cooler, ENT-rum-off-162-captain-morgan-spiced-gold]
+related_typed: {ENT-cocktail-navy-grog: same_region, ENT-cocktail-test-pilot: same_region, ENT-cocktail-nui-nui: same_region, ENT-cocktail-qb-cooler: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail}
+ratings:
+  vivino: {score: 4.8, votes: 5445}
+  diffords: {score: 4.28, year: 2022}
+  iba: {score: 4.9, year: 2023}
 ---
 
 # 僵尸
@@ -16,6 +21,12 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-nui-nui, ENT-cocktail-test-
 ## 概述
 
 多种朗姆混合配果汁与香料苦精，Tiki 之父 Don the Beachcomber 招牌烈饮。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Zombie%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Zombie%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Zombie%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -83,6 +94,16 @@ related: [ENT-rum-off-163-rhum-negrita, ENT-cocktail-nui-nui, ENT-cocktail-test-
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 5445 |
+| Difford's Guide | 4.28 | 2022 |
+| IBA 推荐 | 4.9 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, 酒吧签名, 金酒, 坎帕里, 酸酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-martinez, ENT-cocktail-fogcutter, ENT-cocktail-saturn, ENT-cocktail-tommys-margarita, ENT-gin-bombay-sapphire-east]
+related: [ENT-cocktail-martinez, ENT-cocktail-saturn, ENT-cocktail-tommys-margarita, ENT-cocktail-chartreuse-swizzle, ENT-cocktail-fogcutter]
+related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-saturn: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-chartreuse-swizzle: same_region, ENT-cocktail-fogcutter: same_region}
+ratings:
+  vivino: {score: 4.6, votes: 35940}
+  diffords: {score: 4.16, year: 2020}
+  iba: {score: 4.3, year: 2022}
 ---
 
 # 茉莉
@@ -16,6 +21,12 @@ related: [ENT-cocktail-martinez, ENT-cocktail-fogcutter, ENT-cocktail-saturn, EN
 ## 概述
 
 金酒配坎帕里与干味美思青柠，淡红苦酸的现代酸酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jasmine%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jasmine%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Jasmine%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-martinez, ENT-cocktail-fogcutter, ENT-cocktail-saturn, EN
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.6 | 35940 |
+| Difford's Guide | 4.16 | 2020 |
+| IBA 推荐 | 4.3 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

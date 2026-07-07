@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 白兰地, 菠萝, 朗姆]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-vs, ENT-cocktail-hanky-panky]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+ratings:
+  vivino: {score: 4.0, votes: 26036}
+  diffords: {score: 4.04, year: 2021}
+  iba: {score: 3.7, year: 2021}
 ---
 
 # 东印度二号
@@ -16,6 +21,12 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-brandy-hennes
 ## 概述
 
 干邑配马拉斯加力乔与菠萝汁及苦精，殖民地风格的优雅果香古典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=East%20India%20No.2%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/East%20India%20No.2%20cocktail)
+- [Google 图片](https://www.google.com/search?q=East%20India%20No.2%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-brandy-hennes
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.0 | 26036 |
+| Difford's Guide | 4.04 | 2021 |
+| IBA 推荐 | 3.7 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

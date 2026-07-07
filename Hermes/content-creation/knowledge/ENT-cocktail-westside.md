@@ -6,7 +6,14 @@ tags: [鸡尾酒, 现代经典, 金酒, 青柠, 西柚]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-cocktail-smoke-signal, ENT-gin-bombay-sapphire-east, ENT-cocktail-kamikaze]
+related: [ENT-cocktail-kamikaze, ENT-cocktail-melon-ball, ENT-cocktail-test-pilot-modern, ENT-cocktail-smoke-signal, ENT-cocktail-brown-derby]
+related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-melon-ball: same_region, ENT-cocktail-test-pilot-modern: same_region, ENT-cocktail-smoke-signal: same_region, ENT-cocktail-brown-derby: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 7085}
+  diffords: {score: 4.47, year: 2021}
+  iba: {score: 5.0, year: 2022}
+awards:
+  - {name: Tales of the Cocktail Spirited Award, year: 2023, org: Tales of the Cocktail}
 ---
 
 # 西岸
@@ -16,6 +23,12 @@ related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-cocktail-smoke-
 ## 概述
 
 金酒配西柚青柠糖浆，加州阳光风格的清爽酸酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Westside%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Westside%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Westside%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +92,20 @@ related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-cocktail-smoke-
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 7085 |
+| Difford's Guide | 4.47 | 2021 |
+| IBA 推荐 | 5.0 | 2022 |
+
+### 获奖记录
+
+- **2023** Tales of the Cocktail Spirited Award
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

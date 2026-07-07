@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 黑麦, 干邑, 新奥尔良]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-brandy-crusta, ENT-cocktail-sazerac, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey]
+related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz]
+related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 9236}
+  diffords: {score: 4.24, year: 2022}
+  iba: {score: 4.7, year: 2020}
 ---
 
 # 老广场
@@ -16,6 +21,12 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-bran
 ## 概述
 
 黑麦与干邑等比配甜味美思与苦精，新奥尔良法国区的经典之作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Vieux%20Carr%C3%A9%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Vieux%20Carr%C3%A9%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Vieux%20Carr%C3%A9%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -82,6 +93,16 @@ related: [ENT-cocktail-hurricane, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-bran
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 9236 |
+| Difford's Guide | 4.24 | 2022 |
+| IBA 推荐 | 4.7 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

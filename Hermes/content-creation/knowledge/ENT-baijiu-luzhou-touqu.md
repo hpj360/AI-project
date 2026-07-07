@@ -6,7 +6,8 @@ tags: [白酒, 浓香, 四川, 泸州老窖]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-moutai-feitian-53, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related_typed: {ENT-baijiu-luzhou-laojiao-tequ: same_brand, ENT-baijiu-luzhou-guojiao-1573: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 42444}
   csl: {score: 92, year: 2022}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 泸州老窖头曲，价格亲民的浓香白酒，日常饮用之选。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Luzhou%20Laojiao%20Touqu%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Luzhou%20Laojiao%20Touqu%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Luzhou%20Laojiao%20Touqu%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -57,7 +64,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 42444 |
-| 中国白酒鉴评 | 92 | 2022 |
+| 中国酒类鉴评 | 92 | 2022 |
 
 ### 获奖记录
 

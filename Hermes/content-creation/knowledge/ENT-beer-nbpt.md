@@ -6,7 +6,8 @@ tags: [啤酒, 中国, 牛啤堂, 精酿, 北京]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-yanjing, ENT-beer-snow, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat]
+related: [ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat, ENT-beer-tiaohai]
+related_typed: {ENT-beer-yanjing: same_region, ENT-beer-jing-a: same_region, ENT-beer-great-leap: same_region, ENT-beer-slowboat: same_region, ENT-beer-tiaohai: same_region}
 ratings:
   vivino: {score: 4.8, votes: 19968}
   ratebeer: {score: 87, year: 2022}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 牛啤堂啤酒，北京精酿代表，以 IPA 与帝国世涛著称。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=NBPT%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/NBPT%20beer)
+- [Google 图片](https://www.google.com/search?q=NBPT%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

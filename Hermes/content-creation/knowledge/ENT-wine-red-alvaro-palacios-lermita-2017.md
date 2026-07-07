@@ -6,7 +6,8 @@ tags: [红酒, 西班牙, Priorat, 歌海娜]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama, ENT-wine-red-clos-mogador-2017]
+related: [ENT-wine-red-clos-mogador-2017, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine]
+related_typed: {ENT-wine-red-clos-mogador-2017: same_region, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 18590}
   parker: {score: 83, year: 2020}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 Priorat 顶级歌海娜，由 Álvaro Palacios 创立，价格高昂。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=%C3%81lvaro%20Palacios%20L%27Ermita%202017%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/%C3%81lvaro%20Palacios%20L%27Ermita%202017%20wine_red)
+- [Google 图片](https://www.google.com/search?q=%C3%81lvaro%20Palacios%20L%27Ermita%202017%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

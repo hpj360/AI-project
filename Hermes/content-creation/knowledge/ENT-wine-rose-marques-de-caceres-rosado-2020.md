@@ -6,7 +6,8 @@ tags: [桃红, 里奥哈, Marqués de Cáceres]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-rose-miraval-2019, ENT-wine-rose-garrus-2018, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-whispering-angel-2020]
+related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019, ENT-wine-rose-chateau-minuty-m-2020]
+related_typed: {ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 33669}
   parker: {score: 84, year: 2023}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 里奥哈国民桃红，Marqués de Cáceres 全球畅销品牌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Marqu%C3%A9s%20de%20C%C3%A1ceres%20Rosado%202020%20wine_rose%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Marqu%C3%A9s%20de%20C%C3%A1ceres%20Rosado%202020%20wine_rose)
+- [Google 图片](https://www.google.com/search?q=Marqu%C3%A9s%20de%20C%C3%A1ceres%20Rosado%202020%20wine_rose%20bottle&tbm=isch)
 
 ## 基础信息
 

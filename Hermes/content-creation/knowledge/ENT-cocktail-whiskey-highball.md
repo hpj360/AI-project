@@ -6,7 +6,15 @@ tags: [鸡尾酒, 高球, 威士忌, 苏打水, 日本]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-samurai, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-cocktail-saketini, ENT-whisky-off-242-ballantine-s-finest]
+related: [ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita, ENT-whisky-off-242-ballantine-s-finest]
+related_typed: {ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region, ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail}
+ratings:
+  vivino: {score: 4.8, votes: 34144}
+  diffords: {score: 4.48, year: 2023}
+  iba: {score: 5.0, year: 2021}
+awards:
+  - {name: Tales of the Cocktail Best Cocktail, year: 2022, org: Tales of the Cocktail}
+  - {name: IBA World Competition Silver, year: 2022, org: IBA World Competition}
 ---
 
 # 威士忌高球
@@ -16,6 +24,12 @@ related: [ENT-cocktail-samurai, ENT-whisky-off-244-johnnie-walker-red-label-blen
 ## 概述
 
 威士忌配苏打水，比例清爽，日本居酒屋文化的灵魂饮品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Whiskey%20Highball%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Whiskey%20Highball%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Whiskey%20Highball%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -77,6 +91,21 @@ related: [ENT-cocktail-samurai, ENT-whisky-off-244-johnnie-walker-red-label-blen
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 34144 |
+| Difford's Guide | 4.48 | 2023 |
+| IBA 推荐 | 5.0 | 2021 |
+
+### 获奖记录
+
+- **2022** Tales of the Cocktail Best Cocktail
+- **2022** IBA World Competition Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

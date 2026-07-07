@@ -6,7 +6,8 @@ tags: [白酒, 新世界, 长相思, 马尔堡]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine-white-dog-point-sauvignon-blanc-2020, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine-sparkling-cloudy-bay-pelorus-nv]
+related: [ENT-wine-sparkling-cloudy-bay-pelorus-nv, ENT-wine-white-dog-point-sauvignon-blanc-2020, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay]
+related_typed: {ENT-wine-sparkling-cloudy-bay-pelorus-nv: same_brand, ENT-wine-white-dog-point-sauvignon-blanc-2020: same_region, ENT-wine-white-oyster-bay-sauvignon-blanc-2020: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: same_subcat}
 ratings:
   vivino: {score: 4.7, votes: 48011}
   parker: {score: 83, year: 2021}
@@ -21,6 +22,12 @@ ratings:
 ## 概述
 
 新西兰长相思标杆，Cloudy Bay 让马尔堡走向世界。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cloudy%20Bay%20Sauvignon%20Blanc%202020%20wine_white%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Cloudy%20Bay%20Sauvignon%20Blanc%202020%20wine_white)
+- [Google 图片](https://www.google.com/search?q=Cloudy%20Bay%20Sauvignon%20Blanc%202020%20wine_white%20bottle&tbm=isch)
 
 ## 基础信息
 

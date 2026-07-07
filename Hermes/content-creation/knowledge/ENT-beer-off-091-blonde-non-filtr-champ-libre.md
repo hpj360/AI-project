@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Gallia]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-off-080-3-monts, ENT-beer-tsingtao, ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-budweiser]
+related: [ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-off-080-3-monts, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona]
+related_typed: {ENT-beer-off-074-la-goudale-blonde-1l: same_region, ENT-beer-off-080-3-monts: same_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 43106}
   ratebeer: {score: 85, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Blonde non filtré Champ Libre（Gallia），产地 France
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Blonde%20non%20filtr%C3%A9%20Champ%20Libre%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Blonde%20non%20filtr%C3%A9%20Champ%20Libre%20beer)
+- [Google 图片](https://www.google.com/search?q=Blonde%20non%20filtr%C3%A9%20Champ%20Libre%20beer%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Blonde non filtré Champ Libre
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：Blonde non filtré Champ Libre（Gallia），
 - **容量**：33cl
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：麦芽、啤酒花、水、酵母
+- **酿造方法**：
+
+麦芽糖化后加酒花煮沸，冷却后发酵，部分二次发酵/陈年。
+- **陈酿方式**：拉格低温陈化，艾尔常温发酵
+
+## 风味描述
+
+- **颜色**：金黄至深棕
+- **香气**：麦芽、蜂蜜
+- **口感**：麦芽、蜂蜜、微苦
+- **余味**：苦味回甘
+- **风味标签**：麦芽, 蜂蜜, 微苦
 
 ## 评分奖项
 

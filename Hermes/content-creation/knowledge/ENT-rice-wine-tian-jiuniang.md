@@ -6,7 +6,13 @@ tags: [米酒, 甜酒酿, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-zhaquan, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-nuomi-jiu]
+related: [ENT-rice-wine-nuomi-jiu, ENT-rice-wine-zhaquan, ENT-rice-wine-osmanthus, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
+related_typed: {ENT-rice-wine-nuomi-jiu: same_brand, ENT-rice-wine-zhaquan: same_brand, ENT-rice-wine-osmanthus: same_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 30503}
+  csl: {score: 86, year: 2021}
+awards:
+  - {name: 全国酒类鉴评 银奖, year: 2021, org: 全国酒类鉴评}
 ---
 
 # 甜酒酿
@@ -16,6 +22,12 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-zhaquan, ENT-rice-wine-ke
 ## 概述
 
 甜酒酿，糯米与酒药短发酵而成，甜润低酒精度，是江南传统甜品。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sweet%20Fermented%20Rice%20rice_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sweet%20Fermented%20Rice%20rice_wine)
+- [Google 图片](https://www.google.com/search?q=Sweet%20Fermented%20Rice%20rice_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +57,19 @@ related: [ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-zhaquan, ENT-rice-wine-ke
 - **口感**：口感甜润，米粒软糯，酒精度极低
 - **余味**：余味甜润，带米香
 - **风味标签**：米香, 蜜糖, 甜润
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 30503 |
+| 中国酒类鉴评 | 86 | 2021 |
+
+### 获奖记录
+
+- **2021** 全国酒类鉴评 银奖
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

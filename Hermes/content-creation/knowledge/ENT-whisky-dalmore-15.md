@@ -6,7 +6,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 高地, 雪莉桶]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-glenmorangie-lasanta, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-glenmorangie-original, ENT-whisky-dalmore-12, ENT-whisky-clynelish-14]
+related: [ENT-whisky-dalmore-12, ENT-whisky-glenmorangie-original, ENT-whisky-glenmorangie-lasanta, ENT-whisky-clynelish-14, ENT-whisky-off-247-whisky-old-n-7]
+related_typed: {ENT-whisky-dalmore-12: same_brand, ENT-whisky-glenmorangie-original: same_region, ENT-whisky-glenmorangie-lasanta: same_region, ENT-whisky-clynelish-14: same_region, ENT-whisky-off-247-whisky-old-n-7: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 14466}
   whisky_fun: {score: 89, year: 2021}
@@ -24,6 +25,12 @@ awards:
 ## 概述
 
 大摩 15 年，三种雪莉桶陈酿，深邃复杂。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dalmore%2015%20Years%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Dalmore%2015%20Years%20whisky)
+- [Google 图片](https://www.google.com/search?q=Dalmore%2015%20Years%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

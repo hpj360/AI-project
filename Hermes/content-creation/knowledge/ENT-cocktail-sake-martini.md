@@ -6,7 +6,12 @@ tags: [鸡尾酒, 亚洲, 清酒, 金酒, 优雅]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-gin-tanqueray-london-dry, ENT-cocktail-samurai, ENT-sake-off-096-cooking-sake, ENT-sake-off-098-sake]
+related: [ENT-cocktail-sake-bomb, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita]
+related_typed: {ENT-cocktail-sake-bomb: same_region, ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region}
+ratings:
+  vivino: {score: 3.8, votes: 10566}
+  diffords: {score: 4.0, year: 2021}
+  iba: {score: 3.5, year: 2021}
 ---
 
 # 清酒马天尼
@@ -16,6 +21,12 @@ related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-gin-tanqueray-londo
 ## 概述
 
 金酒配清酒搅和，以清酒替代味美思的东方优雅马天尼变体。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sake%20Martini%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Sake%20Martini%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Sake%20Martini%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -77,6 +88,16 @@ related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-gin-tanqueray-londo
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 3.8 | 10566 |
+| Difford's Guide | 4.0 | 2021 |
+| IBA 推荐 | 3.5 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 黑麦, 查特酒, 苹果白兰地]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-vsop, ENT-whisky-off-243-whisky-40, ENT-brandy-hennessy-vs, ENT-whisky-off-242-ballantine-s-finest]
+related: [ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail, ENT-cocktail-baijiu-sour]
+related_typed: {ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat, ENT-cocktail-baijiu-sour: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 49540}
+  diffords: {score: 4.36, year: 2021}
+  iba: {score: 5.0, year: 2022}
 ---
 
 # 响尾蛇
@@ -16,6 +21,12 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 ## 概述
 
 黑麦配黄查特酒与苹果白兰地等比，烈性草本果香的均衡之作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Diamondback%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Diamondback%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Diamondback%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -78,6 +89,16 @@ related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, EN
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 49540 |
+| Difford's Guide | 4.36 | 2021 |
+| IBA 推荐 | 5.0 | 2022 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

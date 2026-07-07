@@ -6,7 +6,8 @@ tags: [白酒, 清香, 山西, 汾酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-fenjiu-huangai-bofen, ENT-baijiu-moutai-feitian-53, ENT-baijiu-fenjiu-qinghua-30, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-fenjiu-qinghua-30, ENT-baijiu-fenjiu-huangai-bofen, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
+related_typed: {ENT-baijiu-fenjiu-qinghua-30: same_brand, ENT-baijiu-fenjiu-huangai-bofen: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 42347}
   csl: {score: 97, year: 2023}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 老白汾 10 年，清香型白酒经典，汾酒中端代表作。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Fenjiu%20Laobaifen%2010%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Fenjiu%20Laobaifen%2010%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Fenjiu%20Laobaifen%2010%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -58,7 +65,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 42347 |
-| 中国白酒鉴评 | 97 | 2023 |
+| 中国酒类鉴评 | 97 | 2023 |
 
 ### 获奖记录
 

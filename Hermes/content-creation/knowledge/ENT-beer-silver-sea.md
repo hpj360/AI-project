@@ -6,7 +6,8 @@ tags: [啤酒, 中国, 银海, 精酿, 广东]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-beer-snow, ENT-beer-budweiser, ENT-beer-carlsberg, ENT-beer-tsingtao, ENT-beer-heineken]
+related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 34522}
   ratebeer: {score: 87, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 银海啤酒，广东精酿代表，以 IPA 与小麦啤酒著称。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Silver%20Sea%20beer%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Silver%20Sea%20beer)
+- [Google 图片](https://www.google.com/search?q=Silver%20Sea%20beer%20bottle&tbm=isch)
 
 ## 基础信息
 

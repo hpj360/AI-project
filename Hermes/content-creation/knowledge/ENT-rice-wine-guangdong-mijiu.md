@@ -6,7 +6,11 @@ tags: [米酒, 广东, 传统]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-rice-wine-hongli-hongmi, ENT-rice-wine-changle-shao, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
+related: [ENT-rice-wine-guangdong-lao-mijiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-hongli-hongmi]
+related_typed: {ENT-rice-wine-guangdong-lao-mijiu: same_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-rice-wine-hongli-hongmi: same_subcat}
+ratings:
+  vivino: {score: 4.6, votes: 30417}
+  csl: {score: 84, year: 2023}
 ---
 
 # 广东米酒
@@ -16,6 +20,12 @@ related: [ENT-rice-wine-hongli-hongmi, ENT-rice-wine-changle-shao, ENT-rice-wine
 ## 概述
 
 广东传统米酒，珠江水系糯米酿造，口感清爽甘甜。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Guangdong%20Rice%20Wine%20rice_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Guangdong%20Rice%20Wine%20rice_wine)
+- [Google 图片](https://www.google.com/search?q=Guangdong%20Rice%20Wine%20rice_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-rice-wine-hongli-hongmi, ENT-rice-wine-changle-shao, ENT-rice-wine
 - **口感**：口感清爽，米味突出
 - **余味**：余味干净
 - **风味标签**：米香, 清爽
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.6 | 30417 |
+| 中国酒类鉴评 | 84 | 2023 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

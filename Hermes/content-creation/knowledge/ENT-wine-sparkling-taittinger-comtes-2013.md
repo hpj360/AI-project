@@ -6,7 +6,8 @@ tags: [起泡酒, 香槟, Taittinger, 白中白]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-lanson-black-label-nv, ENT-wine-sparkling-cristal-2013]
+related: [ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-lanson-black-label-nv]
+related_typed: {ENT-wine-sparkling-cristal-2013: same_region, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region, ENT-wine-sparkling-lanson-black-label-nv: same_region}
 ratings:
   vivino: {score: 4.8, votes: 39818}
   wine_spectator: {score: 89, year: 2020}
@@ -19,6 +20,12 @@ ratings:
 ## 概述
 
 Taittinger 旗舰白中白香槟，仅用特级园霞多丽。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Taittinger%20Comtes%20de%20Champagne%20Blanc%20de%20Blancs%202013%20wine_sparkling%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Taittinger%20Comtes%20de%20Champagne%20Blanc%20de%20Blancs%202013%20wine_sparkling)
+- [Google 图片](https://www.google.com/search?q=Taittinger%20Comtes%20de%20Champagne%20Blanc%20de%20Blancs%202013%20wine_sparkling%20bottle&tbm=isch)
 
 ## 基础信息
 

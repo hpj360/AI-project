@@ -6,7 +6,11 @@ tags: [蜂蜜酒, 波兰, 传统, mead, Miód Pitny]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-tsurume-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-choya-umeshu]
+related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-tsurume-umeshu]
+related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-fruit-wine-tsurume-umeshu: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 20852}
+  wine_enthusiast: {score: 84, year: 2020}
 ---
 
 # 波兰蜂蜜酒
@@ -16,6 +20,12 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 ## 概述
 
 波兰蜂蜜酒，东欧传统蜂蜜酒代表，使用优质蜂蜜长期陈酿，风味复杂。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Polish%20Mead%20fruit_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Polish%20Mead%20fruit_wine)
+- [Google 图片](https://www.google.com/search?q=Polish%20Mead%20fruit_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-f
 - **口感**：口感醇厚复杂，蜂蜜与香料平衡
 - **余味**：余味极长，带蜂蜜与香料
 - **风味标签**：蜂蜜, 香料, 果干
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 20852 |
+| Wine Enthusiast | 84 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -6,7 +6,14 @@ tags: [鸡尾酒, 创意, 梅斯卡尔, 烟熏, 山核桃]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-tequila-off-183-tequila-gold, ENT-cocktail-westside, ENT-cocktail-kamikaze]
+related: [ENT-cocktail-kamikaze, ENT-cocktail-melon-ball, ENT-cocktail-test-pilot-modern, ENT-cocktail-brown-derby, ENT-cocktail-westside]
+related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-melon-ball: same_region, ENT-cocktail-test-pilot-modern: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
+ratings:
+  vivino: {score: 4.8, votes: 9051}
+  diffords: {score: 4.41, year: 2023}
+  iba: {score: 5.0, year: 2022}
+awards:
+  - {name: Tales of the Cocktail Spirited Award, year: 2023, org: Tales of the Cocktail}
 ---
 
 # 烟熏信号
@@ -16,6 +23,12 @@ related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-tequila-off-183
 ## 概述
 
 梅斯卡尔配苦味利口酒与青柠蜂蜜，山核桃烟熏的烟熏酸酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Smoke%20Signal%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Smoke%20Signal%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Smoke%20Signal%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -81,6 +94,20 @@ related: [ENT-cocktail-melon-ball, ENT-cocktail-brown-derby, ENT-tequila-off-183
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 9051 |
+| Difford's Guide | 4.41 | 2023 |
+| IBA 推荐 | 5.0 | 2022 |
+
+### 获奖记录
+
+- **2023** Tales of the Cocktail Spirited Award
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

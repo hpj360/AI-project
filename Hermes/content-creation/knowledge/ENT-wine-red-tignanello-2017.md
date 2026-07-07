@@ -6,7 +6,8 @@ tags: [红酒, 意大利, 超级托斯卡纳, 桑娇维塞]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine-red-flaccianello-2017, ENT-wine-red-solaia-2016, ENT-wine_red-off-003-adama]
+related: [ENT-wine-red-solaia-2016, ENT-wine-red-flaccianello-2017, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
+related_typed: {ENT-wine-red-solaia-2016: same_brand, ENT-wine-red-flaccianello-2017: same_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 48960}
   parker: {score: 84, year: 2021}
@@ -22,6 +23,12 @@ ratings:
 ## 概述
 
 Antinori 旗舰之一，首个托斯卡纳小橡木桶陈酿桑娇维塞。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Antinori%20Tignanello%202017%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Antinori%20Tignanello%202017%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Antinori%20Tignanello%202017%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 

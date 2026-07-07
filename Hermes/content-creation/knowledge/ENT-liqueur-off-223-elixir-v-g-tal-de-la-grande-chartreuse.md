@@ -6,7 +6,8 @@ tags: [OpenFoodFacts, liqueur, 利口酒, Chartreuse]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-liqueur-off-211-davide-campari-bitter-tonic, ENT-liqueur-off-215-lik-r-kahl-a-kaffee, ENT-liqueur-off-204-aperol, ENT-liqueur-off-217-chartreuse, ENT-liqueur-off-203-baileys-original-irish-cream]
+related: [ENT-liqueur-off-217-chartreuse, ENT-liqueur-off-203-baileys-original-irish-cream, ENT-liqueur-off-211-davide-campari-bitter-tonic, ENT-liqueur-off-215-lik-r-kahl-a-kaffee, ENT-liqueur-off-204-aperol]
+related_typed: {ENT-liqueur-off-217-chartreuse: same_brand, ENT-liqueur-off-203-baileys-original-irish-cream: cross_region, ENT-liqueur-off-211-davide-campari-bitter-tonic: cross_region, ENT-liqueur-off-215-lik-r-kahl-a-kaffee: cross_region, ENT-liqueur-off-204-aperol: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 21851}
   wine_enthusiast: {score: 87, year: 2021}
@@ -20,6 +21,12 @@ ratings:
 
 OpenFoodFacts 真实产品数据：Elixir végétal de la Grande-Chartreuse（Chartreuse）
 
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Elixir%20v%C3%A9g%C3%A9tal%20de%20la%20Grande-Chartreuse%20liqueur%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Elixir%20v%C3%A9g%C3%A9tal%20de%20la%20Grande-Chartreuse%20liqueur)
+- [Google 图片](https://www.google.com/search?q=Elixir%20v%C3%A9g%C3%A9tal%20de%20la%20Grande-Chartreuse%20liqueur%20bottle&tbm=isch)
+
 ## 基础信息
 
 - **中文名**：Elixir végétal de la Grande-Chartreuse
@@ -32,6 +39,22 @@ OpenFoodFacts 真实产品数据：Elixir végétal de la Grande-Chartreuse（Ch
 - **容量**：100 ml
 - **参考价格（RMB）**：¥50-300
 - **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：基酒、糖、水果/草药/香料
+- **酿造方法**：
+
+基酒浸泡或蒸馏加入风味物质，加糖调配至目标甜度和酒精度。
+- **陈酿方式**：通常不陈年
+
+## 风味描述
+
+- **颜色**：因原料而异
+- **香气**：原料风味主导
+- **口感**：甜润、原料风味
+- **余味**：甜润回甘
+- **风味标签**：甜润, 果香
 
 ## 评分奖项
 

@@ -6,7 +6,8 @@ tags: [清酒, 日本, 纯米大吟醸, 八海山]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-3nen, ENT-sake-hakkaisan-genshu, ENT-sake-josen-mizunogotoshi]
+related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-genshu, ENT-sake-hakkaisan-3nen, ENT-sake-josen-mizunogotoshi]
+related_typed: {ENT-sake-hakkaisan-honjozo: same_brand, ENT-sake-hakkaisan-ginjo: same_brand, ENT-sake-hakkaisan-genshu: same_brand, ENT-sake-hakkaisan-3nen: same_region, ENT-sake-josen-mizunogotoshi: same_region}
 ratings:
   vivino: {score: 4.8, votes: 4418}
   sake_revue: {score: 99, year: 2020}
@@ -22,6 +23,12 @@ awards:
 ## 概述
 
 八海山纯米大吟醸，精米步合 40%，山田锦酿造，是酒造旗舰款。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hakkaisan%20Junmai%20Daiginjo%20sake%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hakkaisan%20Junmai%20Daiginjo%20sake)
+- [Google 图片](https://www.google.com/search?q=Hakkaisan%20Junmai%20Daiginjo%20sake%20bottle&tbm=isch)
 
 ## 基础信息
 

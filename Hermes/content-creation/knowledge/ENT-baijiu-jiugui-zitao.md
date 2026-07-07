@@ -6,7 +6,8 @@ tags: [白酒, 馥郁香, 湖南, 酒鬼酒]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-baijiu-jiugui-neican, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-wuliangye-puwu, ENT-baijiu-moutai-yingbin]
+related: [ENT-baijiu-jiugui-neican, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu]
+related_typed: {ENT-baijiu-jiugui-neican: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 11021}
   csl: {score: 89, year: 2023}
@@ -21,6 +22,12 @@ awards:
 ## 概述
 
 酒鬼紫陶，馥郁香型中高端白酒，紫陶瓶装。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Jiugui%20Zitao%20baijiu%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Jiugui%20Zitao%20baijiu)
+- [Google 图片](https://www.google.com/search?q=Jiugui%20Zitao%20baijiu%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -57,7 +64,7 @@ awards:
 | 评分机构 | 评分 | 年份/票数 |
 |---------|------|----------|
 | Vivino 用户 | 4.8 | 11021 |
-| 中国白酒鉴评 | 89 | 2023 |
+| 中国酒类鉴评 | 89 | 2023 |
 
 ### 获奖记录
 

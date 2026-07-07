@@ -6,7 +6,8 @@ tags: [威士忌, 台湾, 单一麦芽, 原桶强度]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-whisky-kavalan-classic, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-243-whisky-40, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-245-monkey-shoulder]
+related: [ENT-whisky-kavalan-classic, ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-whisky-off-253-william-peel, ENT-whisky-off-254-royal-challenge-whisky]
+related_typed: {ENT-whisky-kavalan-classic: same_brand, ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat, ENT-whisky-off-253-william-peel: same_subcat, ENT-whisky-off-254-royal-challenge-whisky: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 4609}
   whisky_fun: {score: 87, year: 2022}
@@ -20,6 +21,12 @@ ratings:
 ## 概述
 
 Kavalan 独奏 Vinho，葡萄酒桶陈酿原桶强度威士忌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Kavalan%20Solist%20Vinho%20whisky%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Kavalan%20Solist%20Vinho%20whisky)
+- [Google 图片](https://www.google.com/search?q=Kavalan%20Solist%20Vinho%20whisky%20bottle&tbm=isch)
 
 ## 基础信息
 

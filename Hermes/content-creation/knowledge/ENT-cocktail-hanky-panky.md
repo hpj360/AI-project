@@ -6,7 +6,12 @@ tags: [鸡尾酒, IBA, 古典, 金酒, 芬内特]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-cocktail-earl-grey-martini, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper, ENT-cocktail-gimlet]
+related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region, ENT-cocktail-gimlet: same_region}
+ratings:
+  vivino: {score: 4.3, votes: 40477}
+  diffords: {score: 4.1, year: 2021}
+  iba: {score: 4.0, year: 2020}
 ---
 
 # 汉基潘基
@@ -16,6 +21,12 @@ related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-cocktail-earl-grey-marti
 ## 概述
 
 金酒与甜味美思加少量芬内特布兰卡，苦中带甜的禁酒令经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hanky%20Panky%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Hanky%20Panky%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Hanky%20Panky%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -79,6 +90,16 @@ related: [ENT-cocktail-gimlet, ENT-cocktail-vesper, ENT-cocktail-earl-grey-marti
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.3 | 40477 |
+| Difford's Guide | 4.1 | 2021 |
+| IBA 推荐 | 4.0 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

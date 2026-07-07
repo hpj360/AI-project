@@ -6,7 +6,11 @@ tags: [黄酒, 绍兴, 古越龙山, 陈酿]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-yellow-wine-guyue-longshan-chundiao, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-huadiao]
+related: [ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-huadiao, ENT-yellow-wine-guyue-longshan-chundiao]
+related_typed: {ENT-yellow-wine-guyue-longshan-20y: same_brand, ENT-yellow-wine-guyue-longshan-30y: same_brand, ENT-yellow-wine-guyue-longshan-50y: same_brand, ENT-yellow-wine-guyue-longshan-huadiao: same_region, ENT-yellow-wine-guyue-longshan-chundiao: same_region}
+ratings:
+  vivino: {score: 4.2, votes: 16449}
+  csl: {score: 81, year: 2021}
 ---
 
 # 古越龙山 10年陈酿
@@ -16,6 +20,12 @@ related: [ENT-yellow-wine-guyue-longshan-chundiao, ENT-yellow-wine-guyue-longsha
 ## 概述
 
 绍兴黄酒龙头古越龙山 10 年陈酿半干型，糯米酿造，温润醇厚。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Guyue%20Longshan%2010%20Year%20Aged%20yellow_wine%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Guyue%20Longshan%2010%20Year%20Aged%20yellow_wine)
+- [Google 图片](https://www.google.com/search?q=Guyue%20Longshan%2010%20Year%20Aged%20yellow_wine%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -45,6 +55,15 @@ related: [ENT-yellow-wine-guyue-longshan-chundiao, ENT-yellow-wine-guyue-longsha
 - **口感**：口感温润，米味突出，甜度适中
 - **余味**：余味悠长，带米香与微苦
 - **风味标签**：米香, 坚果, 焦糖
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.2 | 16449 |
+| 中国酒类鉴评 | 81 | 2021 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

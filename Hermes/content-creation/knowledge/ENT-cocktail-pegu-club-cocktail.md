@@ -6,7 +6,12 @@ tags: [鸡尾酒, 现代经典, 金酒, 苦精, 缅甸]
 status: active
 created: 2026-07-07
 updated: 2026-07-07
-related: [ENT-cocktail-earl-grey-marteani, ENT-cocktail-gin-gin-mule, ENT-gin-bombay-sapphire-east, ENT-gin-bombay-sapphire, ENT-gin-tanqueray-london-dry]
+related: [ENT-cocktail-earl-grey-marteani, ENT-cocktail-gin-gin-mule, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito]
+related_typed: {ENT-cocktail-earl-grey-marteani: same_brand, ENT-cocktail-gin-gin-mule: same_brand, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat}
+ratings:
+  vivino: {score: 4.8, votes: 2156}
+  diffords: {score: 4.36, year: 2020}
+  iba: {score: 5.0, year: 2020}
 ---
 
 # 佩古俱乐部
@@ -16,6 +21,12 @@ related: [ENT-cocktail-earl-grey-marteani, ENT-cocktail-gin-gin-mule, ENT-gin-bo
 ## 概述
 
 金酒配橙味力乔与青柠苦精，源自缅甸殖民俱乐部的优雅酸酒。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Pegu%20Club%20Cocktail%20cocktail%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Pegu%20Club%20Cocktail%20cocktail)
+- [Google 图片](https://www.google.com/search?q=Pegu%20Club%20Cocktail%20cocktail%20bottle&tbm=isch)
 
 ## 基础信息
 
@@ -80,6 +91,16 @@ related: [ENT-cocktail-earl-grey-marteani, ENT-cocktail-gin-gin-mule, ENT-gin-bo
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 2156 |
+| Difford's Guide | 4.36 | 2020 |
+| IBA 推荐 | 5.0 | 2020 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 
