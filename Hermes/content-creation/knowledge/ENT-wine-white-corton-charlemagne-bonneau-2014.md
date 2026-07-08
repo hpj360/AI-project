@@ -4,10 +4,11 @@ title: 考顿查理曼 2014
 category: ENT
 tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay]
 related_typed: {ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: cross_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 22876}
   parker: {score: 84, year: 2023}
@@ -58,6 +59,16 @@ Corton-Charlemagne 顶级独占园，几乎全部位于特级园内。
 - **口感**：酒体饱满，酸度精准，富有结构
 - **余味**：余味极悠长，带矿物与辛香
 - **风味标签**：白花, 榛子, 蜂蜜, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

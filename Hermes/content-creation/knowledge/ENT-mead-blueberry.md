@@ -4,10 +4,11 @@ title: 蓝莓蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 美国, 蓝莓, 水果]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-strawberry, ENT-mead-peach, ENT-mead-cinnamon, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-cinnamon: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 33963}
   wine_enthusiast: {score: 89, year: 2023}
@@ -56,6 +57,16 @@ awards:
 - **口感**：甜润饱满，蓝莓与蜂蜜交织
 - **余味**：余味果香悠长，带微涩
 - **风味标签**：蓝莓, 蜂蜜, 饱满
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

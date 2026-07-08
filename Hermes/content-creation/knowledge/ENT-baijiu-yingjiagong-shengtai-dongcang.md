@@ -4,10 +4,11 @@ title: 迎驾贡酒 生态洞藏
 category: ENT
 tags: [白酒, 浓香, 安徽, 迎驾贡酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
 related_typed: {ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 19615}
   csl: {score: 81, year: 2022}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：绵甜醇厚，柔和爽净
 - **余味**：余味悠长，回甘
 - **风味标签**：窖香, 花果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 葡萄蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 法国, 葡萄, mead]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-vanilla, ENT-mead-champagne-method, ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey]
 related_typed: {ENT-mead-vanilla: same_brand, ENT-mead-champagne-method: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 34309}
   wine_enthusiast: {score: 86, year: 2022}
@@ -54,6 +55,16 @@ Pyment 葡萄蜂蜜酒，蜂蜜与葡萄汁共同发酵，兼具蜜香与葡萄�
 - **口感**：甜润优雅，葡萄与蜂蜜交融
 - **余味**：余味悠长，带葡萄与蜜香
 - **风味标签**：葡萄, 蜂蜜, 橡木
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

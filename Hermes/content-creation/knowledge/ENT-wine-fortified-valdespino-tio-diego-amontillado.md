@@ -4,10 +4,11 @@ title: 瓦尔德斯皮诺缇欧迭戈阿蒙蒂亚
 category: ENT
 tags: [加强酒, 雪莉, Amontillado, Valdespino]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
 related_typed: {ENT-wine-fortified-gonzalez-byass-tio-pepe-fino: same_region, ENT-wine-fortified-lustau-palo-cortado-vors: same_region, ENT-wine-fortified-williams-humbert-dry-oloroso: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 29055}
   wine_spectator: {score: 82, year: 2022}
@@ -56,6 +57,16 @@ Valdespino 顶级 Amontillado，先生物后氧化陈酿。
 - **口感**：酒体饱满，干爽复杂，氧化风格
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：杏仁, 烤面包, 蜜饯, 海盐
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

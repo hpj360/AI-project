@@ -4,10 +4,12 @@ title: 白色尼格罗尼
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 金酒, Suze, 苦味]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
 related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
+data_confidence: simulated
+data_source: Collins 配方
 ratings:
   vivino: {score: 4.8, votes: 16240}
   diffords: {score: 4.35, year: 2020}

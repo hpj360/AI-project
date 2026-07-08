@@ -4,10 +4,11 @@ title: 钓鱼台 国宾
 category: ENT
 tags: [白酒, 酱香, 贵州, 钓鱼台]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-guotai-guobiao, ENT-baijiu-laimao-chuancheng, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
 related_typed: {ENT-baijiu-guotai-guobiao: same_region, ENT-baijiu-laimao-chuancheng: same_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.4, votes: 38567}
   csl: {score: 81, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：醇厚绵柔，细腻圆润
 - **余味**：余味悠长，空杯留香
 - **风味标签**：酱香, 陈香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 古越龙山 10年陈酿
 category: ENT
 tags: [黄酒, 绍兴, 古越龙山, 陈酿]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-huadiao, ENT-yellow-wine-guyue-longshan-chundiao]
 related_typed: {ENT-yellow-wine-guyue-longshan-20y: same_brand, ENT-yellow-wine-guyue-longshan-30y: same_brand, ENT-yellow-wine-guyue-longshan-50y: same_brand, ENT-yellow-wine-guyue-longshan-huadiao: same_region, ENT-yellow-wine-guyue-longshan-chundiao: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 16449}
   csl: {score: 81, year: 2021}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感温润，米味突出，甜度适中
 - **余味**：余味悠长，带米香与微苦
 - **风味标签**：米香, 坚果, 焦糖
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

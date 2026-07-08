@@ -4,10 +4,12 @@ title: 盘尼西林
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 威士忌, 姜, 蜂蜜, 烟熏]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
 related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
+data_confidence: simulated
+data_source: Milk & Honey 配方
 ratings:
   vivino: {score: 4.8, votes: 7589}
   diffords: {score: 4.36, year: 2021}

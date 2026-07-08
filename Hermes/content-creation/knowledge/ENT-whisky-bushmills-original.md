@@ -4,10 +4,11 @@ title: 布什米尔斯 原桶
 category: ENT
 tags: [威士忌, 爱尔兰, 调和威士忌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-bushmills-16, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black]
-related_typed: {ENT-whisky-bushmills-16: same_brand, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat, ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-bushmills-16, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson]
+related_typed: {ENT-whisky-bushmills-16: same_brand, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 49337}
   whisky_fun: {score: 91, year: 2023}
@@ -61,6 +62,16 @@ awards:
 - **口感**：柔顺甜润，蜂蜜香草
 - **余味**：余味爽净，柔顺清新
 - **风味标签**：蜂蜜, 香草, 果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

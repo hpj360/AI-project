@@ -4,10 +4,11 @@ title: 草莓蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 美国, 草莓, 水果]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-blueberry, ENT-mead-peach, ENT-mead-cinnamon, ENT-mead-sparkling, ENT-mead-shennong-honey]
 related_typed: {ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-cinnamon: same_brand, ENT-mead-sparkling: same_region, ENT-mead-shennong-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 6033}
   wine_enthusiast: {score: 80, year: 2020}
@@ -54,6 +55,16 @@ ratings:
 - **口感**：甜润果香，草莓与蜂蜜平衡
 - **余味**：余味果香悠长，带蜜甜
 - **风味标签**：草莓, 蜂蜜, 甜美
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

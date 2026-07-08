@@ -4,10 +4,11 @@ title: 卡慕 布克尼
 category: ENT
 tags: [白兰地, 干邑, 法国, 卡慕]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-camus-vsop, ENT-brandy-camus-xo, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo]
 related_typed: {ENT-brandy-camus-vsop: same_brand, ENT-brandy-camus-xo: same_brand, ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 20165}
   wine_enthusiast: {score: 93, year: 2022}
@@ -58,6 +59,16 @@ awards:
 - **口感**：醇厚独特，海盐香草
 - **余味**：余味悠长，海风温暖
 - **风味标签**：海盐, 香草, 果干
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

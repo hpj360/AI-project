@@ -4,10 +4,11 @@ title: 御鹿 纯净
 category: ENT
 tags: [白兰地, 干邑, 法国, 御鹿, 限量]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-hine-xo, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis]
 related_typed: {ENT-brandy-hine-xo: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region, ENT-brandy-hennessy-paradis: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.4, votes: 16412}
   wine_enthusiast: {score: 84, year: 2020}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：醇厚奢华，深邃复杂
 - **余味**：余味悠长，复杂多变
 - **风味标签**：干果, 檀香, 蜂蜜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

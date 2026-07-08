@@ -4,10 +4,11 @@ title: 诗珞珂 Ciroc
 category: ENT
 tags: [伏特加, 法国, Ciroc, 葡萄]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona, ENT-vodka-off-149-wodka, ENT-vodka-off-150-belvedere-organic-vodka, ENT-vodka-off-151-eristoff-black-70cl-18]
-related_typed: {ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat, ENT-vodka-off-149-wodka: same_subcat, ENT-vodka-off-150-belvedere-organic-vodka: same_subcat, ENT-vodka-off-151-eristoff-black-70cl-18: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
+related_typed: {ENT-vodka-off-142-poliakov: same_subcat, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat, ENT-vodka-off-145-vodka: same_subcat, ENT-vodka-off-146-premium-vodka: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.6, votes: 10649}
   wine_enthusiast: {score: 82, year: 2022}
@@ -56,6 +57,16 @@ Ciroc，法国葡萄酿造伏特加，独特清新风格。
 - **口感**：柔顺清新，柑橘葡萄
 - **余味**：余味悠长，清新花香
 - **风味标签**：柑橘, 葡萄, 花香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 维苏威园年份波特 2015
 category: ENT
 tags: [加强酒, 波特, 年份, 单一园]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016]
 related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 32512}
   wine_spectator: {score: 92, year: 2021}
@@ -56,6 +57,16 @@ Vesuvio 单一园年份波特，辛明顿家族旗舰单一园。
 - **口感**：酒体极饱满，单宁强劲，结构深邃
 - **余味**：余味极悠长，带果味与辛香
 - **风味标签**：黑莓, 黑樱桃, 辛香, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

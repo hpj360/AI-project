@@ -4,10 +4,11 @@ title: 缇欧佩佩菲诺雪莉
 category: ENT
 tags: [加强酒, 雪莉, Fino, González Byass]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
 related_typed: {ENT-wine-fortified-lustau-palo-cortado-vors: same_region, ENT-wine-fortified-williams-humbert-dry-oloroso: same_region, ENT-wine-fortified-valdespino-tio-diego-amontillado: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 12584}
   wine_spectator: {score: 90, year: 2022}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：酒体轻，干爽锐利，矿物感强
 - **余味**：余味悠长，带杏仁与海盐
 - **风味标签**：杏仁, 青苹果, 酵母, 海盐
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

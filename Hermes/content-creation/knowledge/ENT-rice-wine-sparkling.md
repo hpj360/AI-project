@@ -4,10 +4,11 @@ title: 气泡米酒
 category: ENT
 tags: [米酒, 气泡, 创新, 中国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rice-wine-peach, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng]
-related_typed: {ENT-rice-wine-peach: same_brand, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rice-wine-peach, ENT-baike-rice_wine-riben-qingjiu, ENT-baike-rice_wine-hanguo-makgeolli, ENT-baike-rice_wine-kejia-niangjiu, ENT-rice-wine-kejia-mijiu]
+related_typed: {ENT-rice-wine-peach: same_brand, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-baike-rice_wine-hanguo-makgeolli: cross_region, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-rice-wine-kejia-mijiu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 32668}
   csl: {score: 80, year: 2020}
@@ -53,6 +54,16 @@ ratings:
 - **口感**：清爽甜润，气泡灵动
 - **余味**：余味清爽，带米香与气泡感
 - **风味标签**：米香, 气泡, 清爽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

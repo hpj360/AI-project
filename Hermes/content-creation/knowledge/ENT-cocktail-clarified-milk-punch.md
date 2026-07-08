@@ -4,10 +4,12 @@ title: 澄清牛奶潘趣
 category: ENT
 tags: [鸡尾酒, 分子, 澄清, 朗姆, 牛奶]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
 related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+data_confidence: simulated
+data_source: 古典配方
 ratings:
   vivino: {score: 4.3, votes: 30488}
   diffords: {score: 4.11, year: 2022}

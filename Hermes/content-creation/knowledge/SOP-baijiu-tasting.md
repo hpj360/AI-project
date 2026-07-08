@@ -1,0 +1,55 @@
+---
+id: SOP-baijiu-tasting
+title: 白酒品鉴法
+category: ENT
+tags: [SOP, 白酒, 品鉴]
+status: active
+created: 2026-07-08
+updated: 2026-07-08
+related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-whisky-tasting, SOP-sake-tasting, SOP-champagne-service]
+related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-champagne-service: same_subcat}
+data_confidence: simulated
+data_source: 中国酒业协会白酒品评规范
+---
+# 白酒品鉴法
+
+## 概述
+
+白酒专业品鉴四步法：色、香、味、格，强调香型识别与风格评价。
+
+## 品鉴四步：色、香、味、格
+
+### 1. 色（观色）
+- 酒杯置于明亮处，白色背景
+- 优质白酒：无色透明或微黄（陈年老酒）
+- 浑浊、悬浮物为缺陷
+- 挂杯：缓慢流下的酒痕，反映酒体醇厚度
+
+### 2. 香（闻香）
+- 头香：开瓶与入杯第一印象
+- 体香：摇杯后主体香气
+- 底香：空杯留香
+- 各香型代表：
+  - 酱香：酱香、焦香、花果香（茅台）
+  - 浓香：窖香、果甜香（五粮液、泸州老窖）
+  - 清香：乙酸乙酯香、苹果香（汾酒）
+  - 米香：蜜香、清雅（桂林三花）
+  - 兼香：兼具酱浓特征
+
+### 3. 味（品味）
+- 入口 2-3ml，铺满舌面
+- 评估：绵甜、爽净、醇厚、柔和、谐调
+- 后味：悠长 / 平淡 / 苦涩
+- 53° 为优质白酒的黄金度数
+
+### 4. 格（评格）
+- 综合风格：典型性、酒体、谐调度
+- 是否符合所属香型风格
+- 个性化印记（产地、工艺特征）
+
+### 品鉴环境
+- 温度 20-25℃，湿度 60% 左右
+- 餐前或餐间品鉴，避免异味干扰
+
+
+> 数据来源：中国酒业协会白酒品评规范

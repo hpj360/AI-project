@@ -4,10 +4,11 @@ title: 诺瓦国家园 2017
 category: ENT
 tags: [加强酒, 波特, 年份, 诺瓦, 国家园]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-warres-vintage-port-2016]
 related_typed: {ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: cross_region, ENT-wine-fortified-warres-vintage-port-2016: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 40497}
   wine_spectator: {score: 83, year: 2023}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：酒体极饱满，单宁强劲，结构深邃
 - **余味**：余味极悠长，带果味与辛香
 - **风味标签**：黑莓, 紫罗兰, 黑巧克力, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,12 @@ title: 薄荷茱莉普
 category: ENT
 tags: [鸡尾酒, 茱莉普, 波本, 薄荷, 美国南方]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-whiskey-smash, ENT-cocktail-kentucky-buck, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey]
-related_typed: {ENT-cocktail-whiskey-smash: same_region, ENT-cocktail-kentucky-buck: same_region, ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-whiskey-smash, ENT-cocktail-kentucky-buck, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12]
+related_typed: {ENT-cocktail-whiskey-smash: same_region, ENT-cocktail-kentucky-buck: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail}
+data_confidence: simulated
+data_source: 传统配方
 ratings:
   vivino: {score: 4.8, votes: 41121}
   diffords: {score: 4.29, year: 2023}

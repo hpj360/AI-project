@@ -365,6 +365,42 @@ def _generate_image_urls(query: str, subcategory: str = "") -> list[tuple[str, s
     ]
 
 
+# ============================================================
+# 风味轮廓模板（5维：甜/酸/苦/烈/香）
+# ============================================================
+
+_FLAVOR_PROFILE_TEMPLATES = {
+    "whisky": {"sweet": 2, "sour": 1, "bitter": 2, "strong": 5, "aroma": 4},
+    "baijiu": {"sweet": 2, "sour": 1, "bitter": 2, "strong": 5, "aroma": 4},
+    "brandy": {"sweet": 3, "sour": 1, "bitter": 2, "strong": 4, "aroma": 5},
+    "gin": {"sweet": 1, "sour": 2, "bitter": 3, "strong": 4, "aroma": 5},
+    "vodka": {"sweet": 1, "sour": 1, "bitter": 1, "strong": 5, "aroma": 1},
+    "rum": {"sweet": 4, "sour": 1, "bitter": 1, "strong": 4, "aroma": 3},
+    "tequila": {"sweet": 2, "sour": 2, "bitter": 2, "strong": 5, "aroma": 3},
+    "wine_red": {"sweet": 2, "sour": 3, "bitter": 3, "strong": 3, "aroma": 4},
+    "wine_white": {"sweet": 3, "sour": 4, "bitter": 1, "strong": 2, "aroma": 4},
+    "wine_sparkling": {"sweet": 3, "sour": 4, "bitter": 1, "strong": 2, "aroma": 4},
+    "wine_fortified": {"sweet": 4, "sour": 2, "bitter": 2, "strong": 4, "aroma": 5},
+    "wine_rose": {"sweet": 3, "sour": 3, "bitter": 1, "strong": 2, "aroma": 4},
+    "wine_dessert": {"sweet": 5, "sour": 2, "bitter": 1, "strong": 3, "aroma": 4},
+    "sake": {"sweet": 3, "sour": 2, "bitter": 1, "strong": 3, "aroma": 4},
+    "yellow_wine": {"sweet": 4, "sour": 2, "bitter": 2, "strong": 3, "aroma": 4},
+    "rice_wine": {"sweet": 4, "sour": 1, "bitter": 1, "strong": 2, "aroma": 3},
+    "fruit_wine": {"sweet": 4, "sour": 3, "bitter": 1, "strong": 2, "aroma": 4},
+    "mead": {"sweet": 5, "sour": 1, "bitter": 1, "strong": 2, "aroma": 4},
+    "beer": {"sweet": 2, "sour": 2, "bitter": 4, "strong": 2, "aroma": 3},
+    "liqueur": {"sweet": 5, "sour": 1, "bitter": 1, "strong": 3, "aroma": 4},
+}
+
+
+def _get_flavor_profile(entry: dict) -> dict:
+    """获取风味轮廓，缺失时基于子类模板生成。"""
+    if entry.get("flavor_profile"):
+        return entry["flavor_profile"]
+    subcat = entry.get("subcategory", "")
+    return _FLAVOR_PROFILE_TEMPLATES.get(subcat, {"sweet": 3, "sour": 3, "bitter": 2, "strong": 3, "aroma": 3})
+
+
 def render_entry(entry: dict, ratings: dict, awards: list) -> str:
     """渲染单个条目为 Markdown。"""
     eid = entry["id"]
@@ -374,6 +410,43 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
     tags = entry.get("tags", [])
     related = entry.get("related", [])
 
+    # 数据置信度判定
+    source = entry.get("source", "")
+    if "IBA" in source or "官方" in source:
+        data_confidence = "official"
+    elif "百度百科" in source or "Wikipedia" in source or "品牌官方" in source:
+        data_confidence = "verified"
+    elif "off-" in eid or "OpenFoodFacts" in source:
+        data_confidence = "verified"  # OpenFoodFacts 真实产品
+    elif "WSET" in source or "WHO" in source or "CDC" in source:
+        data_confidence = "official"
+    else:
+        data_confidence = "simulated"
+
+    # 指导性知识（SOP/DEC/ANTI）特殊渲染
+    if entry.get("subcategory") == "guide" and entry.get("content_body"):
+        fm = ["---",
+              f"id: {eid}",
+              f"title: {title}",
+              f"category: {cat}",
+              f"tags: [{', '.join(tags)}]",
+              "status: active",
+              f"created: {TODAY}",
+              f"updated: {TODAY}",
+              f"data_confidence: {data_confidence}"]
+        if source:
+            fm.append(f"data_source: {source}")
+        if related:
+            fm.append(f"related: [{', '.join(related)}]")
+        fm.append("---")
+        body = [f"# {title}", ""]
+        if entry.get("summary"):
+            body += ["## 概述", "", entry["summary"], ""]
+        body += [entry["content_body"], ""]
+        if source:
+            body += [f"> 数据来源：{source}", ""]
+        return "\n".join(fm) + "\n" + "\n".join(body)
+
     # frontmatter
     fm = ["---",
           f"id: {eid}",
@@ -382,7 +455,10 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
           f"tags: [{', '.join(tags)}]",
           "status: active",
           f"created: {TODAY}",
-          f"updated: {TODAY}"]
+          f"updated: {TODAY}",
+          f"data_confidence: {data_confidence}"]
+    if source:
+        fm.append(f"data_source: {source}")
     if related:
         fm.append(f"related: [{', '.join(related)}]")
     if ratings:
@@ -565,10 +641,11 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
                 body.append(f"- **风味标签**：{', '.join(flavor_tpl['flavor_tags'])}")
             body.append("")
 
-    # 风味轮廓雷达
-    if entry.get("flavor_profile"):
+    # 风味轮廓雷达（缺失时基于子类模板补全）
+    profile = _get_flavor_profile(entry)
+    if profile:
         body += ["## 风味轮廓", ""]
-        body.extend(render_flavor_profile(entry["flavor_profile"]))
+        body.extend(render_flavor_profile(profile))
         body.append("")
 
     # 评分奖项

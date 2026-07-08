@@ -4,10 +4,11 @@ title: 卓龙城堡 2015
 category: ENT
 tags: [红酒, 波尔多, 波美侯]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-red-petrus-2015: same_brand, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-brand-mouton-rothschild]
+related_typed: {ENT-wine-red-petrus-2015: same_brand, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-brand-mouton-rothschild: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 31984}
   parker: {score: 89, year: 2022}
@@ -61,6 +62,16 @@ awards:
 - **口感**：酒体饱满，单宁紧致，富有力量
 - **余味**：余味悠长，带辛香与黑巧
 - **风味标签**：黑莓, 松露, 香料, 甘草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

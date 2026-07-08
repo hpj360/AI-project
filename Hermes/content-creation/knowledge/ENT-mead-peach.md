@@ -4,10 +4,11 @@ title: 桃子蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 美国, 桃子, 水果]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-strawberry, ENT-mead-blueberry, ENT-mead-cinnamon, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-blueberry: same_brand, ENT-mead-cinnamon: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.3, votes: 42053}
   wine_enthusiast: {score: 84, year: 2020}
@@ -54,6 +55,16 @@ ratings:
 - **口感**：甜润清爽，桃子与蜂蜜平衡
 - **余味**：余味果香清甜，带蜜香
 - **风味标签**：桃子, 蜂蜜, 清爽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

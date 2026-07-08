@@ -4,10 +4,11 @@ title: 克罗夫特年份波特 2016
 category: ENT
 tags: [加强酒, 波特, 年份, Croft]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-warres-vintage-port-2016]
 related_typed: {ENT-wine-fortified-grahams-vintage-port-2017: same_region, ENT-wine-fortified-dows-vintage-port-2016: same_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_region, ENT-wine-fortified-taylors-vintage-port-2016: same_region, ENT-wine-fortified-warres-vintage-port-2016: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 3167}
   wine_spectator: {score: 82, year: 2022}
@@ -56,6 +57,16 @@ Croft 丰腴甜美年份波特，女性化优雅风格。
 - **口感**：酒体饱满，单宁柔顺，甜美优雅
 - **余味**：余味极悠长，带果味与花香
 - **风味标签**：黑莓, 红樱桃, 紫罗兰, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

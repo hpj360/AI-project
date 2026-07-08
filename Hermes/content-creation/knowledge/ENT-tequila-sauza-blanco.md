@@ -4,10 +4,11 @@ title: 索萨 Sauza Blanco
 category: ENT
 tags: [龙舌兰, 墨西哥, 索萨, Blanco]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-herradura-reposado, ENT-tequila-patron-silver]
 related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-herradura-reposado: same_region, ENT-tequila-patron-silver: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 22811}
   wine_enthusiast: {score: 92, year: 2022}
@@ -58,6 +59,16 @@ awards:
 - **口感**：清淡龙舌兰，柑橘青草
 - **余味**：余味爽净，带龙舌兰香
 - **风味标签**：龙舌兰, 柑橘, 青草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

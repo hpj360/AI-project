@@ -4,10 +4,11 @@ title: 方瑟卡年份波特 2017
 category: ENT
 tags: [加强酒, 波特, 年份, Fonseca]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-fonseca-20-year-old-tawny, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-warres-vintage-port-2016]
 related_typed: {ENT-wine-fortified-fonseca-20-year-old-tawny: same_brand, ENT-wine-fortified-grahams-vintage-port-2017: same_region, ENT-wine-fortified-dows-vintage-port-2016: same_region, ENT-wine-fortified-taylors-vintage-port-2016: same_region, ENT-wine-fortified-warres-vintage-port-2016: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 10238}
   wine_spectator: {score: 79, year: 2022}
@@ -56,6 +57,16 @@ Fonseca 丰腴饱满年份波特，浓郁果味著称。
 - **口感**：酒体极饱满，单宁柔顺，甜美奔放
 - **余味**：余味极悠长，带果味与辛香
 - **风味标签**：黑莓, 黑樱桃, 紫罗兰, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: Tanqueray London Dry Gin
 category: ENT
 tags: [OpenFoodFacts, gin, 金酒, Tanqueray]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-gin-off-132-pink-strawberry, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24]
-related_typed: {ENT-gin-off-132-pink-strawberry: same_region, ENT-gin-gordons-london-dry: same_subcat, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-gin-off-132-pink-strawberry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks]
+related_typed: {ENT-gin-off-132-pink-strawberry: same_region, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 26169}
   wine_enthusiast: {score: 95, year: 2020}
@@ -58,6 +59,16 @@ OpenFoodFacts 真实产品数据：Tanqueray London Dry Gin（Tanqueray），产
 - **口感**：杜松子、香料、柑橘
 - **余味**：草本回甘
 - **风味标签**：杜松子, 草本, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

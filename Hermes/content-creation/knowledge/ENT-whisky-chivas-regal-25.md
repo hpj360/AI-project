@@ -4,10 +4,11 @@ title: 芝华士 25 年
 category: ENT
 tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18, ENT-whisky-ballantines-12, ENT-whisky-ballantines-17, ENT-whisky-dewars-12]
 related_typed: {ENT-whisky-chivas-regal-12: same_brand, ENT-whisky-chivas-regal-18: same_brand, ENT-whisky-ballantines-12: same_region, ENT-whisky-ballantines-17: same_region, ENT-whisky-dewars-12: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 13368}
   whisky_fun: {score: 91, year: 2020}
@@ -60,6 +61,16 @@ awards:
 - **口感**：醇厚奢华，干果奶油
 - **余味**：余味悠长，温暖复杂
 - **风味标签**：干果, 奶油, 杏仁
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

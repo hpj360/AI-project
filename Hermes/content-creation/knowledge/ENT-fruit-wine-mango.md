@@ -4,10 +4,11 @@ title: 芒果酒
 category: ENT
 tags: [果酒, 芒果, 热带, 中国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-fruit-wine-dragon-fruit-wine, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-tsurume-umeshu, ENT-fruit-wine-chiyomusubi-umeshu]
-related_typed: {ENT-fruit-wine-dragon-fruit-wine: same_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-fruit-wine-tsurume-umeshu: cross_region, ENT-fruit-wine-chiyomusubi-umeshu: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-fruit-wine-dragon-fruit-wine, ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-baike-fruit_wine-juhua-jiu, ENT-fruit-wine-choya-umeshu]
+related_typed: {ENT-fruit-wine-dragon-fruit-wine: same_region, ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-baike-fruit_wine-juhua-jiu: cross_region, ENT-fruit-wine-choya-umeshu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 31100}
   wine_enthusiast: {score: 91, year: 2020}
@@ -56,6 +57,16 @@ awards:
 - **口感**：甜润醇厚，芒果风味突出
 - **余味**：余味甜润，带热带果香
 - **风味标签**：芒果, 热带, 甜润
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

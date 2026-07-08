@@ -4,10 +4,11 @@ title: 泰斯卡 25 年
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 岛屿区]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-talisker-10, ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-250-blended-scotch-wiskhy]
-related_typed: {ENT-whisky-talisker-10: same_brand, ENT-whisky-off-247-whisky-old-n-7: same_subcat, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat, ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-talisker-10, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony]
+related_typed: {ENT-whisky-talisker-10: same_brand, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 28731}
   whisky_fun: {score: 97, year: 2023}
@@ -60,6 +61,16 @@ awards:
 - **口感**：醇厚复杂，海盐木质交织
 - **余味**：余味悠长，温暖复杂
 - **风味标签**：海盐, 木质, 干果
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,12 @@ title: 努伊努伊
 category: ENT
 tags: [鸡尾酒, Tiki, 朗姆, 香草, 美国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-zombie, ENT-cocktail-navy-grog, ENT-cocktail-test-pilot, ENT-cocktail-qb-cooler, ENT-rum-off-162-captain-morgan-spiced-gold]
-related_typed: {ENT-cocktail-zombie: same_region, ENT-cocktail-navy-grog: same_region, ENT-cocktail-test-pilot: same_region, ENT-cocktail-qb-cooler: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-zombie, ENT-cocktail-navy-grog, ENT-cocktail-test-pilot, ENT-cocktail-qb-cooler, ENT-brand-bacardi-carta-blanca]
+related_typed: {ENT-cocktail-zombie: same_region, ENT-cocktail-navy-grog: same_region, ENT-cocktail-test-pilot: same_region, ENT-cocktail-qb-cooler: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail}
+data_confidence: simulated
+data_source: Don the Beachcomber 配方
 ratings:
   vivino: {score: 4.4, votes: 9186}
   diffords: {score: 4.11, year: 2022}

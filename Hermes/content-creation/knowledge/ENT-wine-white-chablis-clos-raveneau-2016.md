@@ -4,10 +4,11 @@ title: 夏布利克罗 2016
 category: ENT
 tags: [白酒, 勃艮第, 夏布利, 特级园, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine-white-chablis-vaudesir-dauvissat-2016, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine-white-chablis-preuses-dauvissat-2016: same_region, ENT-wine-white-chablis-vaudesir-dauvissat-2016: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 21486}
   parker: {score: 88, year: 2022}
@@ -60,6 +61,16 @@ awards:
 - **口感**：酒体中等，酸度凌厉，矿物感强
 - **余味**：余味极悠长，带矿物与海盐
 - **风味标签**：柑橘, 白花, 牡蛎壳, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

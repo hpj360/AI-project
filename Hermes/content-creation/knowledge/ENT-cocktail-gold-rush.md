@@ -4,10 +4,12 @@ title: 淘金热
 category: ENT
 tags: [鸡尾酒, 现代经典, 波本, 蜂蜜, 柠檬]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-french-martini, ENT-cocktail-tom-collins]
 related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region}
+data_confidence: simulated
+data_source: Milk & Honey 配方
 ratings:
   vivino: {score: 4.8, votes: 28064}
   diffords: {score: 4.4, year: 2022}

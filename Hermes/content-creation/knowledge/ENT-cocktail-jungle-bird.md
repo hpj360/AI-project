@@ -4,10 +4,11 @@ title: 丛林鸟
 category: ENT
 tags: [鸡尾酒, Tiki, 黑朗姆, 金巴利, 菠萝]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
-related_typed: {ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
+related_typed: {ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 45203}
   diffords: {score: 4.04, year: 2021}

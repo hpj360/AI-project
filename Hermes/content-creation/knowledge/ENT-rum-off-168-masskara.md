@@ -4,10 +4,11 @@ title: Masskara
 category: ENT
 tags: [OpenFoodFacts, rum, 朗姆酒, Bleeding Heart Rum]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-off-176-rum-don-papa-baroko, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-169-caribbean-rum-with-coconut-flavour]
-related_typed: {ENT-rum-off-176-rum-don-papa-baroko: same_region, ENT-rum-off-165-rhum-ambr: cross_region, ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rum-off-176-rum-don-papa-baroko, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
+related_typed: {ENT-rum-off-176-rum-don-papa-baroko: same_region, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 46012}
   wine_enthusiast: {score: 86, year: 2022}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Masskara（Bleeding Heart Rum），产地 Phi
 - **口感**：甜润、焦糖
 - **余味**：甜润回甘
 - **风味标签**：甘蔗, 焦糖, 甜润
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

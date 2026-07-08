@@ -4,10 +4,12 @@ title: 血腥玛丽球
 category: ENT
 tags: [鸡尾酒, 分子, 球化, 伏特加, 番茄]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres]
 related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-mojito-spheres: same_region, ENT-cocktail-margarita-spheres: same_region}
+data_confidence: simulated
+data_source: 分子调酒吧配方
 ratings:
   vivino: {score: 4.8, votes: 25243}
   diffords: {score: 4.28, year: 2020}

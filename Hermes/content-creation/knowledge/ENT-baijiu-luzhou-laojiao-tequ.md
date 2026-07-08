@@ -4,10 +4,11 @@ title: 泸州老窖 特曲
 category: ENT
 tags: [白酒, 浓香, 四川, 泸州老窖]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-luzhou-guojiao-1573: same_brand, ENT-baijiu-luzhou-touqu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 23102}
   csl: {score: 97, year: 2023}
@@ -59,6 +60,16 @@ awards:
 - **口感**：绵甜爽净，口味协调
 - **余味**：余味爽净，回甘较短
 - **风味标签**：窖香, 糟香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

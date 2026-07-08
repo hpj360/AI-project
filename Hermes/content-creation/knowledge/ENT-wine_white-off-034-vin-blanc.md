@@ -4,10 +4,11 @@ title: Vin blanc
 category: ENT
 tags: [OpenFoodFacts, wine_white, 白葡萄酒, La Villageoise]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine_white-off-025-vin-blanc-sec: same_brand, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-031-vino-blanco: cross_region, ENT-wine_white-off-035-vin-blanc-classic: cross_region, ENT-wine_white-off-027-vin: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 3.9, votes: 48300}
   parker: {score: 79, year: 2020}
@@ -57,6 +58,16 @@ OpenFoodFacts 真实产品数据：Vin blanc（La Villageoise）
 - **口感**：果味、酸度
 - **余味**：清爽回甘
 - **风味标签**：柑橘, 果味, 清爽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

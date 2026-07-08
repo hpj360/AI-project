@@ -4,10 +4,11 @@ title: 贝鲁奇卡萨瑞斯
 category: ENT
 tags: [起泡酒, 弗兰恰科塔, Berlucchi]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-guido-berlucchi-61-nv, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt]
-related_typed: {ENT-wine-sparkling-guido-berlucchi-61-nv: same_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: cross_region, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-sparkling-guido-berlucchi-61-nv, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte]
+related_typed: {ENT-wine-sparkling-guido-berlucchi-61-nv: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 13723}
   wine_spectator: {score: 88, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：酒体中等，气泡细腻，富有层次
 - **余味**：余味中长，带坚果与矿物
 - **风味标签**：烤面包, 柑橘, 白花, 杏仁
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

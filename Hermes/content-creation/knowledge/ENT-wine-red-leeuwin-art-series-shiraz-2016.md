@@ -4,10 +4,11 @@ title: 露纹艺术系列设拉子 2016
 category: ENT
 tags: [红酒, 澳洲, 设拉子, 玛格丽特河]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-white-leeuwin-art-series-chardonnay-2017, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino]
-related_typed: {ENT-wine-white-leeuwin-art-series-chardonnay-2017: same_brand, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-white-leeuwin-art-series-chardonnay-2017, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-]
+related_typed: {ENT-wine-white-leeuwin-art-series-chardonnay-2017: same_brand, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 3.8, votes: 45490}
   parker: {score: 80, year: 2023}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁柔顺，富有冷凉风格
 - **余味**：余味悠长，带辛香与黑巧
 - **风味标签**：黑莓, 黑胡椒, 辛香, 薄荷
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

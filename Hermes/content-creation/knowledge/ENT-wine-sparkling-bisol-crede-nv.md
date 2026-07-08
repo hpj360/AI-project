@@ -4,10 +4,11 @@ title: 比索克里德
 category: ENT
 tags: [起泡酒, 普罗塞克, Bisol, DOCG]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-valdo-prosecco-nv, ENT-wine-sparkling-adami-garbel-nv, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken]
-related_typed: {ENT-wine-sparkling-bisol-cartizze-nv: same_brand, ENT-wine-sparkling-valdo-prosecco-nv: same_region, ENT-wine-sparkling-adami-garbel-nv: same_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-valdo-prosecco-nv, ENT-wine-sparkling-adami-garbel-nv, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
+related_typed: {ENT-wine-sparkling-bisol-cartizze-nv: same_brand, ENT-wine-sparkling-valdo-prosecco-nv: same_region, ENT-wine-sparkling-adami-garbel-nv: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 7325}
   wine_spectator: {score: 88, year: 2023}
@@ -56,6 +57,16 @@ Charmat 法，不锈钢桶二次发酵
 - **口感**：酒体轻至中等，气泡细腻，富有层次
 - **余味**：余味中长，带果味与矿物
 - **风味标签**：青苹果, 白桃, 梨, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

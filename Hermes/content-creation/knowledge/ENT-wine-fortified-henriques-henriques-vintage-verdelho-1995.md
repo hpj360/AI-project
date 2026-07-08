@@ -4,10 +4,11 @@ title: 亨利克斯年份维德霍 1995
 category: ENT
 tags: [加强酒, 马德拉, Verdelho, 年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016]
 related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 25511}
   wine_spectator: {score: 85, year: 2022}
@@ -56,6 +57,16 @@ Estufagem 加热陈酿，橡木桶陈酿
 - **口感**：酒体饱满，半干风格，酸度精准
 - **余味**：余味极悠长，带焦糖与辛香
 - **风味标签**：焦糖, 蜜饯, 坚果, 烟熏
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

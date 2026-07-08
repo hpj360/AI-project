@@ -4,10 +4,11 @@ title: 泰亭哲伯爵 2013
 category: ENT
 tags: [起泡酒, 香槟, Taittinger, 白中白]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-lanson-black-label-nv]
 related_typed: {ENT-wine-sparkling-cristal-2013: same_region, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region, ENT-wine-sparkling-lanson-black-label-nv: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 39818}
   wine_spectator: {score: 89, year: 2020}
@@ -56,6 +57,16 @@ Taittinger 旗舰白中白香槟，仅用特级园霞多丽。
 - **口感**：酒体优雅，气泡细腻，酸度精准
 - **余味**：余味极悠长，带矿物与花香
 - **风味标签**：白花, 柑橘, 烤面包, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

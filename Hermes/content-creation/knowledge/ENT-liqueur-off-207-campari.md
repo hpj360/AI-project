@@ -4,10 +4,11 @@ title: Campari
 category: ENT
 tags: [OpenFoodFacts, liqueur, 利口酒, Campari]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-liqueur-off-203-baileys-original-irish-cream, ENT-liqueur-off-211-davide-campari-bitter-tonic, ENT-liqueur-off-215-lik-r-kahl-a-kaffee, ENT-liqueur-off-224-griottines-de-fougerolles, ENT-liqueur-off-204-aperol]
 related_typed: {ENT-liqueur-off-203-baileys-original-irish-cream: cross_region, ENT-liqueur-off-211-davide-campari-bitter-tonic: cross_region, ENT-liqueur-off-215-lik-r-kahl-a-kaffee: cross_region, ENT-liqueur-off-224-griottines-de-fougerolles: cross_region, ENT-liqueur-off-204-aperol: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.0, votes: 4283}
   wine_enthusiast: {score: 82, year: 2022}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Campari（Campari）
 - **口感**：甜润、原料风味
 - **余味**：甜润回甘
 - **风味标签**：甜润, 果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

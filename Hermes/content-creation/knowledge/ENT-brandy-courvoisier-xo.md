@@ -4,10 +4,11 @@ title: 拿破仑 XO
 category: ENT
 tags: [白兰地, 干邑, 法国, 拿破仑]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-champs-elysees, ENT-brandy-off-228-cognac-vs, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
-related_typed: {ENT-brandy-courvoisier-vsop: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brandy-off-228-cognac-vs: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-champs-elysees, ENT-brand-courvoisier-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
+related_typed: {ENT-brandy-courvoisier-vsop: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brand-courvoisier-vsop: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 34395}
   wine_enthusiast: {score: 93, year: 2023}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚复杂，干果杏仁
 - **余味**：余味悠长，深邃平衡
 - **风味标签**：干果, 巧克力, 杏仁
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

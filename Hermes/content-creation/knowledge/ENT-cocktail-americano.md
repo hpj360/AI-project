@@ -4,10 +4,12 @@ title: 美式利坚诺
 category: ENT
 tags: [鸡尾酒, IBA, 低度, 意大利, 苦味]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-cynar-sour, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea]
 related_typed: {ENT-cocktail-cynar-sour: same_region, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 2537}
   diffords: {score: 4.21, year: 2020}

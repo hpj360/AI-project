@@ -4,10 +4,11 @@ title: 卡慕 VSOP
 category: ENT
 tags: [白兰地, 干邑, 法国, 卡慕]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-camus-xo, ENT-brandy-camus-borders-iut, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo]
 related_typed: {ENT-brandy-camus-xo: same_brand, ENT-brandy-camus-borders-iut: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 16999}
   wine_enthusiast: {score: 97, year: 2021}
@@ -59,6 +60,16 @@ awards:
 - **口感**：柔顺优雅，杏味花香
 - **余味**：余味悠长，温暖平衡
 - **风味标签**：杏, 花香, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

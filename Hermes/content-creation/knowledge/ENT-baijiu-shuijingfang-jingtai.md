@@ -4,10 +4,11 @@ title: 水井坊 井台
 category: ENT
 tags: [白酒, 浓香, 四川, 水井坊]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-shuijingfang-zhenniang-8, ENT-baijiu-quanxing-daqu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-shuijingfang-zhenniang-8: same_brand, ENT-baijiu-quanxing-daqu: same_region, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 45408}
   csl: {score: 90, year: 2021}
@@ -58,6 +59,16 @@ awards:
 - **口感**：醇厚绵甜，层次丰富
 - **余味**：余味悠长，回甘
 - **风味标签**：窖香, 陈香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

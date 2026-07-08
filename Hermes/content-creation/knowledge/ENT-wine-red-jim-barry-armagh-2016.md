@@ -4,10 +4,11 @@ title: 吉姆巴里阿马 2016
 category: ENT
 tags: [红酒, 澳洲, 设拉子, 克莱尔谷]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino, ENT-wine_red-off-015-cabernet-sauvigon]
-related_typed: {ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat, ENT-wine_red-off-015-cabernet-sauvigon: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
+related_typed: {ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 23703}
   parker: {score: 90, year: 2022}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁紧致，结构宏厚
 - **余味**：余味极悠长，带辛香与黑巧
 - **风味标签**：黑莓, 黑胡椒, 辛香, 烟熏
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

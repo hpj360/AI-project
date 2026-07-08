@@ -1,0 +1,65 @@
+---
+id: ANTI-driving-drinking
+title: 饮酒驾驶标准与禁忌
+category: ENT
+tags: [ANTI, 禁忌, 驾驶, 安全]
+status: active
+created: 2026-07-08
+updated: 2026-07-08
+related: [SOP-champagne-service, SOP-wine-decanting, SOP-cocktail-shaking, SOP-cocktail-stirring, SOP-cocktail-muddling]
+related_typed: {SOP-champagne-service: same_subcat, SOP-wine-decanting: same_subcat, SOP-cocktail-shaking: same_subcat, SOP-cocktail-stirring: same_subcat, SOP-cocktail-muddling: same_subcat}
+data_confidence: simulated
+data_source: 中华人民共和国道路交通安全法
+---
+# 饮酒驾驶标准与禁忌
+
+## 概述
+
+中国饮酒驾驶法律标准与安全建议，严禁酒后驾驶任何车辆。
+
+## 中国法律标准
+
+### 饮酒驾车
+- 血液酒精含量：20-80 mg/100ml
+- 处罚：暂扣驾照 6 个月 + 罚款 1000-2000 元 + 记 12 分
+- 二次饮酒驾车：10 日以下拘留 + 罚款 + 吊销驾照
+
+### 醉酒驾车
+- 血液酒精含量：≥80 mg/100ml
+- 处罚：吊销驾照 + 5 年内不得重新取得 + 追究刑事责任（危险驾驶罪）
+- 涉及重大事故：终身禁驾
+
+### 营运车辆
+- 饮酒驾车：吊销驾照 + 5 年内不得重新取得
+- 醉酒驾车：吊销驾照 + 10 年内不得重新取得 + 终身不得驾驶营运车
+
+## 饮酒量参考（成人男性约）
+
+| 酒类 | 达到饮酒标准量 | 达到醉酒标准量 |
+|-----|--------------|--------------|
+| 啤酒（5%） | 1 罐（330ml） | 3-4 罐 |
+| 红酒（13%） | 半杯（约 100ml） | 1 杯（约 250ml） |
+| 白酒（53%） | 1 小杯（约 30ml） | 半两（约 50ml） |
+
+> 个体差异大，代谢能力不同，仅供参考
+
+## 代谢常识
+- 肝脏每小时代谢约 10g 酒精
+- 一顿大酒后通常需 8-12 小时代谢
+- 隔夜酒仍可能超标
+- 咖啡、运动、冷水澡无法加速代谢
+
+## 安全建议
+- 饮酒后不驾驶任何车辆（含电动车、自行车）
+- 使用代驾、出租车、公共交通
+- 隔夜酒也需检测后再开车
+- 不轻信「解酒药」宣传
+
+## 误区
+- 「喝一点没事」→ 错，少量也达饮酒标准
+- 「喝茶能解酒」→ 错，茶不能加速代谢
+- 「睡一觉就好」→ 错，需足够代谢时间
+- 「吹气没过就没醉」→ 错，血液检测为准
+
+
+> 数据来源：中华人民共和国道路交通安全法

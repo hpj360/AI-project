@@ -4,10 +4,11 @@ title: 珍酒 珍三十
 category: ENT
 tags: [白酒, 酱香, 贵州, 珍酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-dongjiu-guomi-dongjiu, ENT-baijiu-dongjiu-hongbiao-dongjiu, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
 related_typed: {ENT-baijiu-dongjiu-guomi-dongjiu: same_region, ENT-baijiu-dongjiu-hongbiao-dongjiu: same_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 8495}
   csl: {score: 90, year: 2022}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚绵柔，细腻圆润
 - **余味**：余味悠长，空杯留香
 - **风味标签**：酱香, 陈香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

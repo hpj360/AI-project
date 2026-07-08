@@ -4,10 +4,11 @@ title: 云南野蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 中国, 传统, 云南]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey, ENT-mead-huangshan-honey, ENT-mead-traditional]
 related_typed: {ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: cross_region, ENT-mead-huangshan-honey: cross_region, ENT-mead-traditional: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 32476}
   wine_enthusiast: {score: 90, year: 2023}
@@ -56,6 +57,16 @@ awards:
 - **口感**：甜润饱满，蜜香与果香交织
 - **余味**：余味悠长，带野花蜜回甘
 - **风味标签**：野花蜜, 果香, 甜润
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,12 @@ title: 茅台马天尼
 category: ENT
 tags: [鸡尾酒, 亚洲, 白酒, 茅台, 马天尼]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
+data_confidence: simulated
+data_source: 中国配方
 ratings:
   vivino: {score: 4.8, votes: 23256}
   diffords: {score: 4.78, year: 2020}

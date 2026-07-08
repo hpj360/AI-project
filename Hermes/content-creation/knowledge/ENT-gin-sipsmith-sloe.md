@@ -4,10 +4,11 @@ title: 黑刺莓 Sipsmith Sloe
 category: ENT
 tags: [金酒, sloe, 英国, Sipsmith, 水果金酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
 related_typed: {ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region, ENT-gin-beefeater-london-dry: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 43081}
   wine_enthusiast: {score: 86, year: 2020}
@@ -56,6 +57,16 @@ Sipsmith Sloe，黑刺李浸渍金酒，红色果香。
 - **口感**：甜润果味，黑刺李杏仁
 - **余味**：余味悠长，温暖果味
 - **风味标签**：黑刺李, 杏仁, 果味
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

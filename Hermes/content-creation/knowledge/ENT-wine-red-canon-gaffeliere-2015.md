@@ -4,10 +4,11 @@ title: 卡农嘉芙丽城堡 2015
 category: ENT
 tags: [红酒, 波尔多, 圣埃美隆]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-red-cheval-blanc-2015, ENT-wine-red-ausone-2015, ENT-wine-red-pavie-2015, ENT-wine-red-angelus-2015, ENT-wine-red-peby-faugeres-2015]
 related_typed: {ENT-wine-red-cheval-blanc-2015: same_region, ENT-wine-red-ausone-2015: same_region, ENT-wine-red-pavie-2015: same_region, ENT-wine-red-angelus-2015: same_region, ENT-wine-red-peby-faugeres-2015: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 47404}
   parker: {score: 85, year: 2022}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体优雅，单宁柔顺，富有层次
 - **余味**：余味悠长，带花香与辛香
 - **风味标签**：红浆果, 紫罗兰, 香料, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

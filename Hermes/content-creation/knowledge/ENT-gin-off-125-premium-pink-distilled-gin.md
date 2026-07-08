@@ -4,10 +4,11 @@ title: Premium PINK Distilled Gin
 category: ENT
 tags: [OpenFoodFacts, gin, 金酒, Gordon's]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-gin-gordons-elderflower, ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-off-136-gin-pink, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24]
-related_typed: {ENT-gin-gordons-elderflower: same_brand, ENT-gin-off-128-traditional-style-grilled-squid: same_brand, ENT-gin-off-136-gin-pink: same_brand, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-off-136-gin-pink, ENT-gin-off-138-0-gin, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24]
+related_typed: {ENT-gin-off-128-traditional-style-grilled-squid: same_brand, ENT-gin-off-136-gin-pink: same_brand, ENT-gin-off-138-0-gin: same_brand, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.1, votes: 13407}
   wine_enthusiast: {score: 81, year: 2020}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Premium PINK Distilled Gin（Gordon's）
 - **口感**：杜松子、香料、柑橘
 - **余味**：草本回甘
 - **风味标签**：杜松子, 草本, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

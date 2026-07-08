@@ -4,10 +4,11 @@ title: 百富 12 年双桶
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-balvenie-14-caribbean-cask, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-classic-cut]
 related_typed: {ENT-whisky-balvenie-14-caribbean-cask: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region, ENT-whisky-macallan-classic-cut: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 39900}
   whisky_fun: {score: 90, year: 2022}
@@ -61,6 +62,16 @@ awards:
 - **口感**：醇厚甜润，香草蜂蜜
 - **余味**：余味悠长，温暖辛香
 - **风味标签**：香草, 蜂蜜, 雪莉
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

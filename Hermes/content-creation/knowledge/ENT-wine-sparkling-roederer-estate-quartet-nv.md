@@ -4,10 +4,11 @@ title: 罗德雷庄园四重奏
 category: ENT
 tags: [起泡酒, 新世界, Roederer Estate, 加州]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-053-sekt, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition, ENT-wine_sparkling-off-055-sekt-mild]
-related_typed: {ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: cross_region, ENT-wine_sparkling-off-053-sekt: same_subcat, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition: same_subcat, ENT-wine_sparkling-off-055-sekt-mild: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition]
+related_typed: {ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 25502}
   wine_spectator: {score: 89, year: 2022}
@@ -59,6 +60,16 @@ Louis Roederer 加州酒庄旗舰，传统法起泡酒。
 - **口感**：酒体饱满，气泡细腻，富有层次
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：烤面包, 柑橘, 白花, 坚果
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

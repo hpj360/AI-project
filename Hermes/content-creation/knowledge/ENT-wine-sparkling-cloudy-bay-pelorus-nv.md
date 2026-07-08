@@ -4,10 +4,11 @@ title: 云雾之湾佩洛鲁斯
 category: ENT
 tags: [起泡酒, 新世界, Cloudy Bay, 新西兰, 传统法]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-053-sekt, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition]
-related_typed: {ENT-wine-white-cloudy-bay-sauvignon-blanc-2020: same_brand, ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: cross_region, ENT-wine_sparkling-off-053-sekt: same_subcat, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt]
+related_typed: {ENT-wine-white-cloudy-bay-sauvignon-blanc-2020: same_brand, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 31367}
   wine_spectator: {score: 89, year: 2020}
@@ -56,6 +57,16 @@ Cloudy Bay 旗下传统法起泡酒，新西兰新锐代表。
 - **口感**：酒体中等，气泡细腻，酸度精准
 - **余味**：余味中长，带果味与矿物
 - **风味标签**：柑橘, 白花, 烤面包, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

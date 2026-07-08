@@ -4,10 +4,11 @@ title: 夏山蒙哈榭克里奥 2015
 category: ENT
 tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-batard-montrachet-ramonet-2015, ENT-wine-white-chassagne-caillerets-ramonet-2016, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine-white-batard-montrachet-ramonet-2015: same_brand, ENT-wine-white-chassagne-caillerets-ramonet-2016: same_brand, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 38605}
   parker: {score: 83, year: 2021}
@@ -58,6 +59,16 @@ ratings:
 - **口感**：酒体优雅，酸度精准，富有细腻感
 - **余味**：余味悠长，带花香与矿物
 - **风味标签**：白花, 柑橘, 蜂蜜, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

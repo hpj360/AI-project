@@ -4,10 +4,11 @@ title: 单车长相思 2020
 category: ENT
 tags: [白酒, 智利, 长相思, 中央山谷]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-036-vin-d-espagne-blanc, ENT-wine_white-off-037-bree-chardonnay-weisswein]
 related_typed: {ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat, ENT-wine_white-off-036-vin-d-espagne-blanc: same_subcat, ENT-wine_white-off-037-bree-chardonnay-weisswein: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 13235}
   parker: {score: 87, year: 2023}
@@ -58,6 +59,16 @@ ratings:
 - **口感**：酒体轻，酸度活泼，清新易饮
 - **余味**：余味短至中长，带果味
 - **风味标签**：青柠, 青草, 百香果, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

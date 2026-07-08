@@ -4,10 +4,11 @@ title: 新政 No.6
 category: ENT
 tags: [清酒, 日本, 纯米酒, 新政, 秋田]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-aramasa-amaneko, ENT-sake-takashimizu, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine]
 related_typed: {ENT-sake-aramasa-amaneko: same_brand, ENT-sake-takashimizu: same_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 3.9, votes: 46553}
   sake_revue: {score: 81, year: 2022}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感清爽，果香突出，甜度低
 - **余味**：余味干净，带微酸
 - **风味标签**：果香, 清爽, 香蕉
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

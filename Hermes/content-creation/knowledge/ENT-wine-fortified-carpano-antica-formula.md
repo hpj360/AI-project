@@ -4,10 +4,11 @@ title: 卡帕诺古老配方味美思
 category: ENT
 tags: [加强酒, 味美思, Carpano, 甜味美思]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016]
 related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 16099}
   wine_spectator: {score: 82, year: 2020}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：酒体饱满，甜美复杂，香草浓郁
 - **余味**：余味悠长，带香草与辛香
 - **风味标签**：香草, 肉桂, 丁香, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

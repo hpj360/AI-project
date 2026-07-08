@@ -4,10 +4,12 @@ title: 海风
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典, 伏特加, 蔓越莓]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
-related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
+related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 7319}
   diffords: {score: 4.49, year: 2021}

@@ -4,10 +4,11 @@ title: 碧尚女爵城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 波亚克]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-sparkling-cristal-2013, ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016]
 related_typed: {ENT-wine-sparkling-cristal-2013: same_brand, ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 17789}
   parker: {score: 85, year: 2023}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体优雅，单宁柔顺，富有女性气质
 - **余味**：余味悠长，带花香与果味
 - **风味标签**：黑加仑, 紫罗兰, 橡木, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

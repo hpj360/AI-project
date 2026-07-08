@@ -4,10 +4,11 @@ title: 麦卡伦 12 年蓝钻双桶
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 双桶]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-classic-cut, ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-15-solera]
 related_typed: {ENT-whisky-macallan-12-sherry-oak: same_brand, ENT-whisky-macallan-18-sherry-oak: same_brand, ENT-whisky-macallan-classic-cut: same_brand, ENT-whisky-glenfiddich-12: same_region, ENT-whisky-glenfiddich-15-solera: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 35534}
   whisky_fun: {score: 94, year: 2023}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚柔顺，干果与香草交织
 - **余味**：余味悠长，温暖
 - **风味标签**：雪莉, 干果, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 骑士蒙哈榭 2015
 category: ENT
 tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine-white-puligny-pucelles-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-combettes-leflaive-2016]
 related_typed: {ENT-wine-white-montrachet-leflaive-2014: same_brand, ENT-wine-white-batard-montrachet-leflaive-2015: same_brand, ENT-wine-white-puligny-pucelles-leflaive-2015: same_brand, ENT-wine-white-montrachet-drc-2014: same_region, ENT-wine-white-puligny-combettes-leflaive-2016: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 14817}
   parker: {score: 89, year: 2022}
@@ -60,6 +61,16 @@ Montrachet 旁的特级园，风格优雅细腻，Leflaive 代表作。
 - **口感**：酒体优雅，酸度精准，富有矿物感
 - **余味**：余味极悠长，带矿物与花香
 - **风味标签**：白花, 柑橘, 矿物, 烤坚果
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

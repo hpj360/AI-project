@@ -4,10 +4,11 @@ title: 罗斯福 Roku 六
 category: ENT
 tags: [金酒, 日本, 三得利, 樱花]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-yamazaki-25, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
 related_typed: {ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-yamazaki-25: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 306}
   wine_enthusiast: {score: 87, year: 2022}
@@ -56,6 +57,16 @@ Roku 六，日本三得利金酒，6 种日本植物配方。
 - **口感**：柔顺花香，樱花柚子
 - **余味**：余味悠长，清新茶香
 - **风味标签**：樱花, 柚子, 煎茶
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

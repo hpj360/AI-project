@@ -4,10 +4,11 @@ title: Poliakov
 category: ENT
 tags: [OpenFoodFacts, vodka, 伏特加, Poliakov]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-146-premium-vodka, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona]
-related_typed: {ENT-vodka-off-146-premium-vodka: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-147-wodka-gorb: cross_region, ENT-vodka-off-148-mercadona: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-off-146-premium-vodka, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
+related_typed: {ENT-vodka-off-146-premium-vodka: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 24545}
   wine_enthusiast: {score: 84, year: 2021}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Poliakov（Poliakov），产地 fr:Élaboré 
 - **口感**：纯净、微甜
 - **余味**：干净短促
 - **风味标签**：纯净, 中性
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

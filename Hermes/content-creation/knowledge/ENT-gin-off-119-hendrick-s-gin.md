@@ -4,10 +4,11 @@ title: Hendrick’s Gin
 category: ENT
 tags: [OpenFoodFacts, gin, 金酒, Hendrick's]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-gin-hendricks, ENT-gin-hendricks-lunar, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry]
-related_typed: {ENT-gin-hendricks: same_brand, ENT-gin-hendricks-lunar: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-gin-hendricks, ENT-gin-hendricks-lunar, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24]
+related_typed: {ENT-gin-hendricks: same_brand, ENT-gin-hendricks-lunar: same_brand, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 3.9, votes: 37639}
   wine_enthusiast: {score: 79, year: 2021}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Hendrick’s Gin（Hendrick's），产地 Bul
 - **口感**：杜松子、香料、柑橘
 - **余味**：草本回甘
 - **风味标签**：杜松子, 草本, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 唐胡里奥 Reposado
 category: ENT
 tags: [龙舌兰, 墨西哥, 唐胡里奥, Reposado]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-tequila-don-julio-blanco, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-herradura-reposado, ENT-tequila-patron-silver]
 related_typed: {ENT-tequila-don-julio-blanco: same_brand, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-herradura-reposado: same_region, ENT-tequila-patron-silver: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 48167}
   wine_enthusiast: {score: 83, year: 2020}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：柔顺香草，龙舌兰本味突出
 - **余味**：余味温润，带橡木香
 - **风味标签**：龙舌兰, 香草, 橡木
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

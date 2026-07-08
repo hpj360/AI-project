@@ -4,10 +4,11 @@ title: 普朗珍藏 2016
 category: ENT
 tags: [白酒, 德国, 雷司令, Kabinett]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-loosen-wehlener-kabinett-2016, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco]
 related_typed: {ENT-wine-white-loosen-wehlener-kabinett-2016: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 37041}
   parker: {score: 80, year: 2020}
@@ -58,6 +59,16 @@ J.J. Prüm 摩泽尔名家，Kabinett 级雷司令，风格纯净优雅。
 - **口感**：酒体轻至中等，酸度凌厉，纯净优雅
 - **余味**：余味悠长，带矿物与花香
 - **风味标签**：青苹果, 白桃, 白花, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

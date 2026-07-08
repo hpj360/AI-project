@@ -4,10 +4,11 @@ title: 武陵 上酱
 category: ENT
 tags: [白酒, 酱香, 湖南, 武陵]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
 related_typed: {ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 1196}
   csl: {score: 79, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：醇厚绵柔，酱味协调
 - **余味**：余味悠长，回甘
 - **风味标签**：酱香, 焦香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

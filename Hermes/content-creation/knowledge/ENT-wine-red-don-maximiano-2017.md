@@ -4,10 +4,11 @@ title: 唐马西米亚诺 2017
 category: ENT
 tags: [红酒, 智利, 波尔多混酿]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-sena-2017, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp]
-related_typed: {ENT-wine-red-sena-2017: same_region, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-sena-2017, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
+related_typed: {ENT-wine-red-sena-2017: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 36182}
   parker: {score: 91, year: 2021}
@@ -62,6 +63,16 @@ Errázuriz 旗舰，纪念创始人 Don Maximiano Errázuriz。
 - **口感**：酒体饱满，单宁紧致，结构宏厚
 - **余味**：余味悠长，带辛香与黑巧
 - **风味标签**：黑加仑, 黑莓, 雪松, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

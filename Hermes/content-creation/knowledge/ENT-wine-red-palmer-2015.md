@@ -4,10 +4,11 @@ title: 宝玛城堡 2015
 category: ENT
 tags: [红酒, 波尔多, 玛歌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-margaux-2015, ENT-wine-red-rauzan-segla-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-margaux-2015: same_region, ENT-wine-red-rauzan-segla-2016: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-margaux-2015, ENT-wine-red-rauzan-segla-2016, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
+related_typed: {ENT-wine-red-margaux-2015: same_region, ENT-wine-red-rauzan-segla-2016: same_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 13047}
   parker: {score: 88, year: 2021}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体优雅而强劲，单宁细腻
 - **余味**：余味极悠长，带花香与辛香
 - **风味标签**：黑加仑, 紫罗兰, 松露, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

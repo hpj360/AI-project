@@ -4,10 +4,12 @@ title: 总统
 category: ENT
 tags: [鸡尾酒, 禁酒令, 朗姆, 味美思, 古巴]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-casablanca, ENT-cocktail-mojito, ENT-cocktail-mary-pickford, ENT-cocktail-cuba-libre, ENT-cocktail-hotel-nacional-special]
 related_typed: {ENT-cocktail-casablanca: same_region, ENT-cocktail-mojito: same_region, ENT-cocktail-mary-pickford: same_region, ENT-cocktail-cuba-libre: same_region, ENT-cocktail-hotel-nacional-special: same_region}
+data_confidence: simulated
+data_source: 禁酒令时代配方
 ratings:
   vivino: {score: 4.8, votes: 3667}
   diffords: {score: 4.28, year: 2020}

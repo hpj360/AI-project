@@ -4,10 +4,11 @@ title: 普里尼康贝特 2016
 category: ENT
 tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-chevalier-montrachet-leflaive-2015, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-pucelles-leflaive-2015]
 related_typed: {ENT-wine-white-montrachet-leflaive-2014: same_brand, ENT-wine-white-chevalier-montrachet-leflaive-2015: same_brand, ENT-wine-white-batard-montrachet-leflaive-2015: same_brand, ENT-wine-white-montrachet-drc-2014: same_region, ENT-wine-white-puligny-pucelles-leflaive-2015: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 32752}
   parker: {score: 85, year: 2022}
@@ -58,6 +59,16 @@ Leflaive 在 Les Combettes 的一级园，风格丰满。
 - **口感**：酒体丰满，酸度精准，富有层次
 - **余味**：余味悠长，带矿物与花香
 - **风味标签**：白花, 柑橘, 烤面包, 奶油
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

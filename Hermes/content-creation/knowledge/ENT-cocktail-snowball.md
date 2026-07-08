@@ -4,10 +4,12 @@ title: 雪球
 category: ENT
 tags: [鸡尾酒, 短饮, 白兰地, 蛋黄, 英国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
 related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 3.8, votes: 34360}
   diffords: {score: 4.0, year: 2020}

@@ -4,10 +4,11 @@ title: 百威啤酒
 category: ENT
 tags: [啤酒, 美国, 百威, 工业拉格]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-bud-ice, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-heineken, ENT-beer-carlsberg]
 related_typed: {ENT-beer-bud-ice: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 3.9, votes: 42450}
   ratebeer: {score: 80, year: 2023}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感清爽，麦香适中，苦度低
 - **余味**：余味干净，带微苦
 - **风味标签**：麦芽, 清爽, 啤酒花
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

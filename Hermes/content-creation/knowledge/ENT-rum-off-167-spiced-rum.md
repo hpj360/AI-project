@@ -4,10 +4,11 @@ title: Spiced Rum
 category: ENT
 tags: [OpenFoodFacts, rum, 朗姆酒, Captain Morgan]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-168-masskara, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour, ENT-rum-off-172-rhum-blanc-agricole, ENT-rum-off-165-rhum-ambr]
-related_typed: {ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-168-masskara: cross_region, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: cross_region, ENT-rum-off-172-rhum-blanc-agricole: cross_region, ENT-rum-off-165-rhum-ambr: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40]
+related_typed: {ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 20169}
   wine_enthusiast: {score: 90, year: 2023}
@@ -57,6 +58,16 @@ OpenFoodFacts 真实产品数据：Spiced Rum（Captain Morgan）
 - **口感**：甜润、焦糖
 - **余味**：甜润回甘
 - **风味标签**：甘蔗, 焦糖, 甜润
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

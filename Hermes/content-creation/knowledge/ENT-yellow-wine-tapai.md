@@ -4,10 +4,11 @@ title: 塔牌
 category: ENT
 tags: [黄酒, 绍兴, 塔牌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-yellow-wine-tapai-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y]
 related_typed: {ENT-yellow-wine-tapai-huangjiu: same_brand, ENT-yellow-wine-guyue-longshan-10y: same_region, ENT-yellow-wine-guyue-longshan-20y: same_region, ENT-yellow-wine-guyue-longshan-30y: same_region, ENT-yellow-wine-guyue-longshan-50y: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 10747}
   csl: {score: 88, year: 2022}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感醇厚，米味突出
 - **余味**：余味悠长，带米香
 - **风味标签**：米香, 坚果, 陈皮
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

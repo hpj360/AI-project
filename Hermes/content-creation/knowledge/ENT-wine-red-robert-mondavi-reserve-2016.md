@@ -4,10 +4,11 @@ title: 罗伯特蒙大维珍藏 2016
 category: ENT
 tags: [红酒, 纳帕谷, 美国, 赤霞珠]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-opus-one-2016, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
-related_typed: {ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-screaming-eagle-2015: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-opus-one-2016, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015, ENT-wine-red-heitz-cellar-martha-2014, ENT-brand-penfolds-grange]
+related_typed: {ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-screaming-eagle-2015: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-brand-penfolds-grange: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.3, votes: 25644}
   parker: {score: 84, year: 2022}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁紧致，结构宏厚
 - **余味**：余味悠长，带辛香与黑巧
 - **风味标签**：黑加仑, 雪松, 薄荷, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

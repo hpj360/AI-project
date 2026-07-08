@@ -4,10 +4,11 @@ title: 西施佳雅 2016
 category: ENT
 tags: [红酒, 意大利, 超级托斯卡纳, 赤霞珠]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-ornellaia-2016, ENT-wine-red-masseto-2016, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
-related_typed: {ENT-wine-red-ornellaia-2016: same_region, ENT-wine-red-masseto-2016: same_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-ornellaia-2016, ENT-wine-red-masseto-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-red-ornellaia-2016: same_region, ENT-wine-red-masseto-2016: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.6, votes: 16644}
   parker: {score: 84, year: 2022}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁紧致，结构优雅
 - **余味**：余味极悠长，带矿物与黑巧
 - **风味标签**：黑加仑, 雪松, 烟熏, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

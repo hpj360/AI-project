@@ -4,10 +4,12 @@ title: 热托迪
 category: ENT
 tags: [鸡尾酒, 托迪, 威士忌, 热饮, 冬季]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
-related_typed: {ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
+related_typed: {ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+data_confidence: simulated
+data_source: 传统配方
 ratings:
   vivino: {score: 4.7, votes: 37751}
   diffords: {score: 4.18, year: 2022}

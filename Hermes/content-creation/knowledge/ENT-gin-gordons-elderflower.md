@@ -4,10 +4,11 @@ title: 哥顿 接骨木花
 category: ENT
 tags: [金酒, 调味金酒, 英国, 哥顿]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-gordons-london-dry, ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
 related_typed: {ENT-gin-gordons-london-dry: same_brand, ENT-gin-off-125-premium-pink-distilled-gin: same_brand, ENT-gin-off-128-traditional-style-grilled-squid: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 38853}
   wine_enthusiast: {score: 85, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：清新花香，接骨木花杜松
 - **余味**：余味爽净，花香清新
 - **风味标签**：接骨木花, 杜松, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

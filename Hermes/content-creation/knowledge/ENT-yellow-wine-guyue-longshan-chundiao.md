@@ -4,10 +4,11 @@ title: 古越龙山 醇雕
 category: ENT
 tags: [黄酒, 绍兴, 古越龙山, 醇雕]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-huadiao]
 related_typed: {ENT-yellow-wine-guyue-longshan-10y: same_brand, ENT-yellow-wine-guyue-longshan-20y: same_brand, ENT-yellow-wine-guyue-longshan-30y: same_brand, ENT-yellow-wine-guyue-longshan-50y: same_region, ENT-yellow-wine-guyue-longshan-huadiao: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 19961}
   csl: {score: 82, year: 2020}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感醇厚甘甜，米味突出
 - **余味**：余味悠长，带焦糖与米香
 - **风味标签**：米香, 焦糖, 甘甜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

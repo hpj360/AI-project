@@ -1,0 +1,68 @@
+---
+id: ANTI-minor-drinking
+title: 未成年人饮酒危害
+category: ENT
+tags: [ANTI, 禁忌, 未成年, 安全]
+status: active
+created: 2026-07-08
+updated: 2026-07-08
+related: [SOP-champagne-service, SOP-wine-decanting, SOP-cocktail-shaking, SOP-cocktail-stirring, SOP-cocktail-muddling]
+related_typed: {SOP-champagne-service: same_subcat, SOP-wine-decanting: same_subcat, SOP-cocktail-shaking: same_subcat, SOP-cocktail-stirring: same_subcat, SOP-cocktail-muddling: same_subcat}
+data_confidence: official
+data_source: 未成年人保护法 / WHO 青少年饮酒报告
+---
+# 未成年人饮酒危害
+
+## 概述
+
+未成年人饮酒危害大脑发育与身心健康，中国法律禁止向未成年人售酒。
+
+## 法律规定
+- 《未成年人保护法》：禁止向未成年人售酒
+- 商家需在显著位置设置不向未成年人售酒标志
+- 难以判明年龄的，应要求出示身份证
+
+## 健康危害
+
+### 1. 大脑发育
+- 大脑发育持续至 25 岁
+- 酒精损伤海马体（记忆与学习）
+- 影响前额叶（决策与自控）
+- 长期影响智力与认知
+
+### 2. 肝脏损伤
+- 肝脏代谢能力未成熟
+- 更易发生脂肪肝、肝炎
+
+### 3. 内分泌紊乱
+- 影响青春期发育
+- 性激素水平异常
+
+### 4. 心理与行为
+- 成瘾风险是成年人的 4 倍
+- 易引发冲动、暴力行为
+- 抑郁、焦虑风险增加
+- 学业成绩下降
+
+### 5. 成年酗酒风险
+- 未成年开始饮酒者，成年酗酒概率高 3-4 倍
+
+## 常见误区
+- 「男孩子喝点酒没事」→ 错，危害同样存在
+- 「红酒养生给孩子尝尝」→ 错，未成年人禁酒
+- 「米酒/果酒度数低」→ 错，仍是酒精
+- 「啤酒不是酒」→ 错，含酒精
+
+## 家长责任
+- 不在孩子面前醉酒
+- 不向未成年人提供酒
+- 教育孩子认识酒精危害
+- 关注孩子社交圈子
+
+## 学校与社会
+- 开展酒精危害教育
+- 商家严格执行不售酒给未成年
+- 发现违规售酒及时举报
+
+
+> 数据来源：未成年人保护法 / WHO 青少年饮酒报告

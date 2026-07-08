@@ -4,10 +4,11 @@ title: 牛啤堂啤酒
 category: ENT
 tags: [啤酒, 中国, 牛啤堂, 精酿, 北京]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat, ENT-beer-tiaohai]
 related_typed: {ENT-beer-yanjing: same_region, ENT-beer-jing-a: same_region, ENT-beer-great-leap: same_region, ENT-beer-slowboat: same_region, ENT-beer-tiaohai: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 19968}
   ratebeer: {score: 87, year: 2022}
@@ -57,6 +58,16 @@ awards:
 - **口感**：口感丰富，多种风格切换
 - **余味**：余味丰富，带苦或甜
 - **风味标签**：柑橘, 咖啡, 巧克力
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

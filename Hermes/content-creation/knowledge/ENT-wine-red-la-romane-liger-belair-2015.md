@@ -4,10 +4,11 @@ title: 康帝 2015
 category: ENT
 tags: [红酒, 勃艮第, 特级园, 独占园]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine_red-off-003-adama, ENT-wine_red-off-005-cabernet-sauvignon]
-related_typed: {ENT-wine-red-romanee-conti-2015: same_region, ENT-wine-red-la-tache-2015: same_region, ENT-wine-red-richebourg-2015: same_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-brand-haut-brion, ENT-brand-romanee-conti]
+related_typed: {ENT-wine-red-romanee-conti-2015: same_region, ENT-wine-red-la-tache-2015: same_region, ENT-wine-red-richebourg-2015: same_region, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 19263}
   parker: {score: 89, year: 2021}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体丝滑，单宁如羽，结构精妙
 - **余味**：余味极悠长，带花香与矿物
 - **风味标签**：红樱桃, 玫瑰, 松露, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

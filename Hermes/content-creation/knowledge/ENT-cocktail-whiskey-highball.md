@@ -4,10 +4,12 @@ title: 威士忌高球
 category: ENT
 tags: [鸡尾酒, 高球, 威士忌, 苏打水, 日本]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita, ENT-whisky-off-242-ballantine-s-finest]
-related_typed: {ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region, ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita, ENT-brand-macallan-12]
+related_typed: {ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region, ENT-brand-macallan-12: base_to_cocktail}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 34144}
   diffords: {score: 4.48, year: 2023}

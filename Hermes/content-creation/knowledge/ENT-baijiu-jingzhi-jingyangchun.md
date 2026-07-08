@@ -4,10 +4,11 @@ title: 景芝 景阳春
 category: ENT
 tags: [白酒, 芝麻香, 山东, 景芝]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
 related_typed: {ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 49559}
   csl: {score: 90, year: 2023}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚绵柔，芝麻香突出
 - **余味**：余味悠长，回甘
 - **风味标签**：芝麻香, 焙烤香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

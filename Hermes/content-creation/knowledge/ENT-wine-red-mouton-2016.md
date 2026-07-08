@@ -4,10 +4,11 @@ title: 木桐城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 一级庄]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-pichon-baron-2016, ENT-wine-red-pichon-lalande-2016, ENT-wine-red-lynch-bages-2016]
 related_typed: {ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region, ENT-wine-red-pichon-baron-2016: same_region, ENT-wine-red-pichon-lalande-2016: same_region, ENT-wine-red-lynch-bages-2016: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 28996}
   parker: {score: 98, year: 2021}
@@ -62,6 +63,16 @@ awards:
 - **口感**：酒体饱满，单宁强健，富有力量
 - **余味**：余味悠长，带咖啡与黑巧
 - **风味标签**：黑加仑, 雪松, 辛香, 薄荷
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

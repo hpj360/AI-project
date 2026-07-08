@@ -4,10 +4,11 @@ title: 雪树啤酒
 category: ENT
 tags: [啤酒, 波兰, 雪树, 工业拉格]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
 related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 40943}
   ratebeer: {score: 87, year: 2022}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感清爽，麦香适中，苦度低
 - **余味**：余味干净，带微苦
 - **风味标签**：麦芽, 清爽, 苦度低
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

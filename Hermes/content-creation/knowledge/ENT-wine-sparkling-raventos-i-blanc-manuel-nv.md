@@ -4,10 +4,11 @@ title: 拉文托斯 2015
 category: ENT
 tags: [起泡酒, 卡瓦, Raventós, 年份, 单一园]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-049-mateus-ros-original]
-related_typed: {ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
+related_typed: {ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 47384}
   wine_spectator: {score: 83, year: 2020}
@@ -56,6 +57,16 @@ Raventós i Blanc 单一园年份卡瓦，退出 DO Cava 自创 Conca del Riu An
 - **口感**：酒体饱满，气泡细腻，富有结构
 - **余味**：余味极悠长，带坚果与矿物
 - **风味标签**：烤面包, 柑橘, 坚果, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

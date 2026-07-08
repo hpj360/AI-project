@@ -4,10 +4,11 @@ title: 哈兰酒庄 2015
 category: ENT
 tags: [红酒, 纳帕谷, 美国, 膜拜酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-opus-one-2016, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-]
-related_typed: {ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-screaming-eagle-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-opus-one-2016, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-brand-romanee-conti]
+related_typed: {ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-screaming-eagle-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-brand-romanee-conti: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 3676}
   parker: {score: 87, year: 2021}
@@ -63,6 +64,16 @@ awards:
 - **口感**：酒体饱满，单宁紧致，结构宏厚
 - **余味**：余味极悠长，带烟熏与黑巧
 - **风味标签**：黑加仑, 黑莓, 雪松, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 樱桃蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 法国, 樱桃, 水果]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey, ENT-mead-yunnan-wild-honey, ENT-mead-huangshan-honey]
 related_typed: {ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: cross_region, ENT-mead-yunnan-wild-honey: cross_region, ENT-mead-huangshan-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 37192}
   wine_enthusiast: {score: 87, year: 2021}
@@ -54,6 +55,16 @@ ratings:
 - **口感**：酸甜平衡，樱桃与蜂蜜交织
 - **余味**：余味果香悠长，带杏仁与蜜甜
 - **风味标签**：樱桃, 蜂蜜, 杏仁
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 阿普尔顿 12 年
 category: ENT
 tags: [朗姆酒, 牙买加, Appleton, 陈年]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-appleton-21, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara, ENT-rum-off-169-caribbean-rum-with-coconut-flavour]
-related_typed: {ENT-rum-appleton-21: same_brand, ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rum-appleton-21, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel]
+related_typed: {ENT-rum-appleton-21: same_brand, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.4, votes: 30182}
   wine_enthusiast: {score: 84, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：醇厚平衡，香草橙皮
 - **余味**：余味悠长，温暖平衡
 - **风味标签**：香草, 橙皮, 橡木
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

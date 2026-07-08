@@ -4,10 +4,11 @@ title: 奔富 Bin 707 2016
 category: ENT
 tags: [红酒, 澳洲, 赤霞珠]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-penfolds-grange-2015, ENT-wine-white-penfolds-yattarna-2016, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp]
-related_typed: {ENT-wine-red-penfolds-grange-2015: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-penfolds-grange-2015, ENT-wine-white-penfolds-yattarna-2016, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
+related_typed: {ENT-wine-red-penfolds-grange-2015: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 34770}
   parker: {score: 89, year: 2021}
@@ -63,6 +64,16 @@ awards:
 - **口感**：酒体饱满，单宁强劲，结构宏厚
 - **余味**：余味极悠长，带辛香与黑巧
 - **风味标签**：黑加仑, 雪松, 薄荷, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

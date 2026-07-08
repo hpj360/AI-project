@@ -4,10 +4,11 @@ title: 兰颂黑标
 category: ENT
 tags: [起泡酒, 香槟, Lanson, 无年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
 related_typed: {ENT-wine-sparkling-cristal-2013: same_region, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 17428}
   wine_spectator: {score: 87, year: 2022}
@@ -56,6 +57,16 @@ Lanson 旗舰无年份香槟，不使用苹果酸乳酸发酵保留酸度。
 - **口感**：酒体轻盈，气泡活泼，酸度精准
 - **余味**：余味中长，带果味与矿物
 - **风味标签**：柑橘, 白花, 青苹果, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

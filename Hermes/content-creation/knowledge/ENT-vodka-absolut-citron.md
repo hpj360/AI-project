@@ -4,10 +4,11 @@ title: 绝对 柠檬风味
 category: ENT
 tags: [伏特加, 调味, 瑞典, 绝对]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-160-absolut, ENT-vodka-absolut-original, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
-related_typed: {ENT-vodka-off-160-absolut: same_brand, ENT-vodka-absolut-original: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-160-absolut, ENT-vodka-absolut-original, ENT-brand-belvedere, ENT-brand-stolichnaya]
+related_typed: {ENT-vodka-off-141-absolut-vodka: same_brand, ENT-vodka-off-160-absolut: same_brand, ENT-vodka-absolut-original: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 34311}
   wine_enthusiast: {score: 89, year: 2022}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：清新柑橘，柠檬皮香
 - **余味**：余味爽净，清新柠檬
 - **风味标签**：柠檬, 柑橘, 青柠
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

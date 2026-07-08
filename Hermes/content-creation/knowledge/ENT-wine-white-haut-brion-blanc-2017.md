@@ -4,10 +4,11 @@ title: 侯伯王白 2017
 category: ENT
 tags: [白酒, 波尔多, 赛美蓉, 长相思]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-domaine-de-chevalier-blanc-2017, ENT-wine-white-smith-haut-lafitte-blanc-2017, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
 related_typed: {ENT-wine-white-domaine-de-chevalier-blanc-2017: same_region, ENT-wine-white-smith-haut-lafitte-blanc-2017: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 43422}
   parker: {score: 90, year: 2020}
@@ -60,6 +61,16 @@ awards:
 - **口感**：酒体丰满，酸度精准，结构深邃
 - **余味**：余味极悠长，带矿物与坚果
 - **风味标签**：白桃, 柑橘, 烤面包, 榛子
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

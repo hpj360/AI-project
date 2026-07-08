@@ -4,10 +4,12 @@ title: 哈维撞墙
 category: ENT
 tags: [鸡尾酒, IBA, 新时代, 伏特加, 加利亚诺]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
-related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
+related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.3, votes: 48761}
   diffords: {score: 4.11, year: 2020}

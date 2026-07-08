@@ -4,10 +4,12 @@ title: 止痛药
 category: ENT
 tags: [鸡尾酒, Tiki, 朗姆, 椰子, 英属维京群岛]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea]
-related_typed: {ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea]
+related_typed: {ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: same_subcat}
+data_confidence: simulated
+data_source: Soggy Dollar Bar 配方
 ratings:
   vivino: {score: 4.8, votes: 5178}
   diffords: {score: 4.46, year: 2021}

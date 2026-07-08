@@ -4,10 +4,12 @@ title: 蜜瓜球
 category: ENT
 tags: [鸡尾酒, 短饮, 伏特加, 蜜瓜利口酒, 果味]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-kamikaze, ENT-cocktail-test-pilot-modern, ENT-cocktail-smoke-signal, ENT-cocktail-brown-derby, ENT-cocktail-westside]
 related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-test-pilot-modern: same_region, ENT-cocktail-smoke-signal: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 16598}
   diffords: {score: 4.36, year: 2021}

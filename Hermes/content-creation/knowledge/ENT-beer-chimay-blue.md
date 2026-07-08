@@ -4,10 +4,11 @@ title: 智美蓝帽
 category: ENT
 tags: [啤酒, 比利时, 智美, 修道院啤酒, 四料]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-chimay-red, ENT-beer-chimay-gold, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser]
 related_typed: {ENT-beer-chimay-red: same_brand, ENT-beer-chimay-gold: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 43619}
   ratebeer: {score: 86, year: 2020}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感醇厚复杂，焦糖与果香突出
 - **余味**：余味悠长，带焦糖与果干
 - **风味标签**：焦糖, 果干, 巧克力
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

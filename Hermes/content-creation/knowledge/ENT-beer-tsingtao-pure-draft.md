@@ -4,10 +4,11 @@ title: 青岛纯生
 category: ENT
 tags: [啤酒, 中国, 青岛, 纯生]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
 related_typed: {ENT-beer-tsingtao: same_brand, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 45784}
   ratebeer: {score: 83, year: 2023}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感新鲜清爽，麦香突出，苦度低
 - **余味**：余味干净，带微甜
 - **风味标签**：麦芽, 清爽, 新鲜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

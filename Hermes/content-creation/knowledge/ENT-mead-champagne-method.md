@@ -4,10 +4,11 @@ title: 香槟法蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 法国, 气泡, 香槟法]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-pyment, ENT-mead-vanilla, ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey]
 related_typed: {ENT-mead-pyment: same_brand, ENT-mead-vanilla: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 19692}
   wine_enthusiast: {score: 85, year: 2021}
@@ -54,6 +55,16 @@ ratings:
 - **口感**：优雅绵密，气泡细腻
 - **余味**：余味悠长，带蜜香与烤面包
 - **风味标签**：蜂蜜, 烤面包, 气泡
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

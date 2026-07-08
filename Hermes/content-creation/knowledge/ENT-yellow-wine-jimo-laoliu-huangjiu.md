@@ -4,10 +4,11 @@ title: 即墨老酒
 category: ENT
 tags: [黄酒, 即墨, 山东, 黍米, 青岛]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-yellow-wine-jimo-laoliu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y]
-related_typed: {ENT-yellow-wine-jimo-laoliu: same_brand, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-yellow-wine-guyue-longshan-30y: cross_region, ENT-yellow-wine-guyue-longshan-50y: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+data_confidence: simulated
+related: [ENT-yellow-wine-jimo-laoliu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-kuaiji-shan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu]
+related_typed: {ENT-yellow-wine-jimo-laoliu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-kuaiji-shan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 60}
   csl: {score: 83, year: 2021}
@@ -54,6 +55,16 @@ ratings:
 - **口感**：醇厚焦香，甜度适中
 - **余味**：醇厚回甘，带焦香与米香
 - **风味标签**：焦香, 麦曲, 黍米
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

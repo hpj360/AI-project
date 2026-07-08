@@ -4,10 +4,11 @@ title: Cognac Vsop - Fine Champagne 40°
 category: ENT
 tags: [OpenFoodFacts, brandy, 白兰地, Rémy Martin]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-xo, ENT-brandy-remy-martin-club, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-xo: same_brand, ENT-brandy-remy-martin-club: same_brand, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.5, votes: 45437}
   wine_enthusiast: {score: 84, year: 2023}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Cognac Vsop - Fine Champagne 40°（Rémy Mar
 - **口感**：果干、橡木、香料
 - **余味**：悠长橡木
 - **风味标签**：葡萄, 橡木, 果干
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

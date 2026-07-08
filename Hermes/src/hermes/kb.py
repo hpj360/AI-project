@@ -36,6 +36,8 @@ class Entry:
     related_typed: dict = field(default_factory=dict)  # 类型化关系 {target_id: rel_type}
     ratings: dict = field(default_factory=dict)
     awards: list = field(default_factory=list)
+    data_confidence: str = "simulated"  # simulated/verified/official
+    data_source: str = ""  # 数据来源
     content: str = ""  # 正文 Markdown
     raw: str = ""  # 原始文件内容
     file_path: Optional[Path] = None
@@ -67,19 +69,30 @@ class Entry:
             "abv_num": None,
             "price_rmb": None,
             "region": "",
+            "data_confidence": self.data_confidence,
+            "data_source": self.data_source,
         }
         # 从正文提取基础信息
-        # 酒精度
-        m = re.search(r'\*\*酒精度\*\*：(.+)', self.content)
-        if m:
-            abv_str = m.group(1).strip()
-            # 提取数值
-            nums = re.findall(r'(\d+(?:\.\d+)?)', abv_str)
-            if nums:
+        # 酒精度 - 支持多种格式：约53%、53度、ABV 40%、40%vol、40% ABV
+        abv_patterns = [
+            r'\*\*酒精度\*\*：约\s*(\d+(?:\.\d+)?)%',      # 约53%
+            r'\*\*酒精度\*\*：(\d+(?:\.\d+)?)\s*度',         # 53度
+            r'\*\*酒精度\*\*：ABV\s*(\d+(?:\.\d+)?)%',       # ABV 40%
+            r'\*\*酒精度\*\*：(\d+(?:\.\d+)?)\s*%vol',       # 40%vol
+            r'\*\*酒精度\*\*：(\d+(?:\.\d+)?)\s*%\s*ABV',    # 40% ABV
+            r'\*\*酒精度\*\*：(\d+(?:\.\d+)?)\s*%',          # 40%
+            r'\*\*酒精度\*\*：(\d+(?:\.\d+)?)',              # 纯数字
+        ]
+        for pat in abv_patterns:
+            m = re.search(pat, self.content)
+            if m:
                 try:
-                    attrs["abv_num"] = float(nums[0])
+                    v = float(m.group(1))
+                    if 0.5 <= v <= 80:  # 合理酒精度范围
+                        attrs["abv_num"] = v
+                        break
                 except ValueError:
-                    pass
+                    continue
         # 价格
         m = re.search(r'\*\*参考价格（RMB）\*\*：¥(\d+)-(\d+)', self.content)
         if m:
@@ -241,6 +254,8 @@ def load_entry(path: Path) -> Optional[Entry]:
         related_typed=meta.get("related_typed", {}) if isinstance(meta.get("related_typed"), dict) else {},
         ratings=meta.get("ratings", {}) if isinstance(meta.get("ratings"), dict) else {},
         awards=meta.get("awards", []) if isinstance(meta.get("awards"), list) else [],
+        data_confidence=meta.get("data_confidence", "simulated"),
+        data_source=meta.get("data_source", ""),
         content=body,
         raw=raw,
         file_path=path,
@@ -437,6 +452,8 @@ class KnowledgeBase:
                     "category": e.category,
                     "tags": e.tags,
                     "score": round(score, 4),
+                    "data_confidence": e.data_confidence,
+                    "data_source": e.data_source,
                     "file": str(e.file_path.name) if e.file_path else "",
                 })
         return out
@@ -527,7 +544,7 @@ class KnowledgeBase:
             # 非法 status
             if e.status not in VALID_STATUS:
                 report.invalid_status.append(f"{eid}: {e.status}")
-            # 命名违规
+            # 命名违规（允许 ENT/SOP/DEC/ANTI 前缀）
             if not re.match(r'^(ENT|PRJ|SOP|DEC|ANTI)-', eid):
                 report.naming_violations.append(eid)
             # 缺 frontmatter（content 为空且 raw 不含 ---）

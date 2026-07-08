@@ -4,10 +4,11 @@ title: 四玫瑰 单桶
 category: ENT
 tags: [威士忌, 美国, 波本, 单桶]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-four-roses-small-batch, ENT-whisky-makers-mark-bourbon, ENT-whisky-makers-mark-46, ENT-whisky-jim-bean-white, ENT-whisky-jim-beam-black]
 related_typed: {ENT-whisky-four-roses-small-batch: same_brand, ENT-whisky-makers-mark-bourbon: same_region, ENT-whisky-makers-mark-46: same_region, ENT-whisky-jim-bean-white: same_region, ENT-whisky-jim-beam-black: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 40055}
   whisky_fun: {score: 82, year: 2022}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：醇厚浓烈，干果辛香
 - **余味**：余味悠长，温暖复杂
 - **风味标签**：干果, 辛香, 橡木
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: Téquila Blanco
 category: ENT
 tags: [OpenFoodFacts, tequila, 龙舌兰, Marque Repère]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-tequila-off-186-tequila, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado, ENT-tequila-off-188-tequila-estribos, ENT-tequila-off-189-tequila-0-35l, ENT-tequila-off-190-tequila-jose-cuervo]
-related_typed: {ENT-tequila-off-186-tequila: cross_region, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado: cross_region, ENT-tequila-off-188-tequila-estribos: cross_region, ENT-tequila-off-189-tequila-0-35l: same_subcat, ENT-tequila-off-190-tequila-jose-cuervo: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-tequila-off-183-tequila-gold, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40]
+related_typed: {ENT-tequila-off-183-tequila-gold: same_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-184-sierra-tequila-silver: same_subcat, ENT-tequila-off-185-silver-tequila-40: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 7900}
   wine_enthusiast: {score: 83, year: 2021}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Téquila Blanco（Marque Repère），产地 
 - **口感**：龙舌兰、胡椒、柑橘
 - **余味**：草本回甘
 - **风味标签**：龙舌兰, 草本, 胡椒
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 山崎 12 年
 category: ENT
 tags: [威士忌, 日本, 单一麦芽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-gin-roku, ENT-whisky-yamazaki-18, ENT-whisky-yamazaki-25, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l]
-related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-yamazaki-25: same_brand, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-gin-roku, ENT-whisky-yamazaki-18, ENT-whisky-yamazaki-25, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12]
+related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-yamazaki-25: same_brand, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 23319}
   whisky_fun: {score: 92, year: 2020}
@@ -61,6 +62,16 @@ awards:
 - **口感**：醇厚柔顺，果香香草
 - **余味**：余味悠长，柔顺甜润
 - **风味标签**：果香, 香草, 橡木
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

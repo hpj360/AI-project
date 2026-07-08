@@ -4,10 +4,11 @@ title: 竹鹤 17 年
 category: ENT
 tags: [威士忌, 日本, 调和麦芽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-yoichi-10, ENT-whisky-yoichi-15, ENT-whisky-taketsuru-21, ENT-whisky-hibiki-21, ENT-whisky-hibiki-17]
-related_typed: {ENT-whisky-yoichi-10: same_brand, ENT-whisky-yoichi-15: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-whisky-hibiki-21: same_region, ENT-whisky-hibiki-17: same_region}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-yoichi-10, ENT-whisky-yoichi-15, ENT-whisky-taketsuru-21, ENT-brand-hibiki-harmony, ENT-whisky-hibiki-21]
+related_typed: {ENT-whisky-yoichi-10: same_brand, ENT-whisky-yoichi-15: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-brand-hibiki-harmony: same_region, ENT-whisky-hibiki-21: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 43614}
   whisky_fun: {score: 82, year: 2023}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：醇厚平衡，麦芽烟熏
 - **余味**：余味悠长，温暖平衡
 - **风味标签**：麦芽, 香蕉, 烟熏
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

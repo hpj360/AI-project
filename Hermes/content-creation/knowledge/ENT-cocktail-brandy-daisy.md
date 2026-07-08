@@ -4,10 +4,12 @@ title: 白兰地雏菊
 category: ENT
 tags: [鸡尾酒, 酸酒, 白兰地, 石榴, 禁酒令前]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz]
 related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.7, votes: 38071}
   diffords: {score: 4.17, year: 2020}

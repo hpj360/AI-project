@@ -4,10 +4,11 @@ title: LA BLONDE
 category: ENT
 tags: [OpenFoodFacts, beer, 啤酒, BRASSERIE DU MONT BLANC]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona, ENT-beer-tsingtao-pure-draft, ENT-beer-bud-ice]
-related_typed: {ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat, ENT-beer-bud-ice: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-beer-corona, ENT-beer-tsingtao-pure-draft, ENT-beer-bud-ice, ENT-beer-goose-island-ipa, ENT-beer-brewdog-punk-ipa]
+related_typed: {ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat, ENT-beer-bud-ice: same_subcat, ENT-beer-goose-island-ipa: same_subcat, ENT-beer-brewdog-punk-ipa: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.2, votes: 23197}
   ratebeer: {score: 80, year: 2020}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：LA BLONDE（BRASSERIE DU MONT BLANC），产�
 - **口感**：麦芽、蜂蜜、微苦
 - **余味**：苦味回甘
 - **风味标签**：麦芽, 蜂蜜, 微苦
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

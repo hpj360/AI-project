@@ -4,10 +4,12 @@ title: 东印度二号
 category: ENT
 tags: [鸡尾酒, 现代经典, 白兰地, 菠萝, 朗姆]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
 related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+data_confidence: simulated
+data_source: Lawlor 配方
 ratings:
   vivino: {score: 4.0, votes: 26036}
   diffords: {score: 4.04, year: 2021}

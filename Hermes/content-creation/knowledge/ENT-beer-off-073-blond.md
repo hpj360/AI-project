@@ -4,10 +4,11 @@ title: Blond
 category: ENT
 tags: [OpenFoodFacts, beer, 啤酒, Leffe]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr, ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing]
-related_typed: {ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr: same_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona, ENT-beer-tsingtao-pure-draft]
+related_typed: {ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr: same_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.1, votes: 44666}
   ratebeer: {score: 80, year: 2021}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Blond（Leffe），产地 Unspecified
 - **口感**：麦芽、蜂蜜、微苦
 - **余味**：苦味回甘
 - **风味标签**：麦芽, 蜂蜜, 微苦
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

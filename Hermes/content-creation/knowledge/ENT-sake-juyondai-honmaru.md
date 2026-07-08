@@ -4,10 +4,11 @@ title: 十四代 本丸
 category: ENT
 tags: [清酒, 日本, 纯米酒, 十四代]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-juyondai-ryugetsu, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-soko, ENT-sake-juyondai-shirakumo, ENT-sake-off-096-cooking-sake]
 related_typed: {ENT-sake-juyondai-ryugetsu: same_brand, ENT-sake-juyondai-nana-tariki: same_brand, ENT-sake-juyondai-soko: same_brand, ENT-sake-juyondai-shirakumo: same_region, ENT-sake-off-096-cooking-sake: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 5344}
   sake_revue: {score: 99, year: 2023}
@@ -57,6 +58,16 @@ awards:
 - **口感**：酒体圆润，甜味与酸度平衡极佳
 - **余味**：余味悠长，带果香与米香
 - **风味标签**：果香, 蜜瓜, 米香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 水晶香槟 2013
 category: ENT
 tags: [起泡酒, 香槟, Louis Roederer, 年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-red-pichon-lalande-2016, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
 related_typed: {ENT-wine-red-pichon-lalande-2016: same_brand, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 43390}
   wine_spectator: {score: 90, year: 2022}
@@ -58,6 +59,16 @@ Louis Roederer 旗舰年份香槟，原为沙皇亚历山大二世定制。
 - **口感**：酒体丰满，气泡细腻，结构深邃
 - **余味**：余味极悠长，带矿物与辛香
 - **风味标签**：白花, 柑橘, 蜜饯, 烤杏仁
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: Pétillant de Listel Framboise
 category: ENT
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Pétillant de Listel]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
-related_typed: {ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-052-nicolas-feuillatte: cross_region, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
+related_typed: {ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.3, votes: 21886}
   wine_spectator: {score: 82, year: 2023}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Pétillant de Listel Framboise（Pétillant d
 - **口感**：气泡、果味、酸度
 - **余味**：气泡悠长
 - **风味标签**：气泡, 柑橘, 面包
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 熊猫精酿
 category: ENT
 tags: [啤酒, 中国, 熊猫, 精酿]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-tsingtao, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin]
 related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 49629}
   ratebeer: {score: 86, year: 2022}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感中等酒体，蜂蜜风味突出
 - **余味**：余味微甜，带蜂蜜
 - **风味标签**：蜂蜜, 麦芽, 果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

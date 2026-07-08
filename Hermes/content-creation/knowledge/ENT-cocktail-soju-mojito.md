@@ -4,10 +4,12 @@ title: 烧酒莫吉托
 category: ENT
 tags: [鸡尾酒, 亚洲, 烧酒, 薄荷, 韩国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-makgeolli-cocktail, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea]
 related_typed: {ENT-cocktail-makgeolli-cocktail: same_region, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: same_subcat}
+data_confidence: simulated
+data_source: 韩国配方
 ratings:
   vivino: {score: 4.8, votes: 17116}
   diffords: {score: 4.26, year: 2021}

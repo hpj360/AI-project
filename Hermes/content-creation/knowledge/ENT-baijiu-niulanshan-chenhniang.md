@@ -4,10 +4,11 @@ title: 牛栏山 陈酿
 category: ENT
 tags: [白酒, 清香, 北京, 牛栏山]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-niulanshan-erguotou-lvping, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
 related_typed: {ENT-baijiu-niulanshan-erguotou-lvping: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 2727}
   csl: {score: 80, year: 2023}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：绵柔顺滑，入口甘甜
 - **余味**：余味净爽
 - **风味标签**：清香, 甜香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

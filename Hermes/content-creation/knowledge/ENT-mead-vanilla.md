@@ -4,10 +4,11 @@ title: 香草蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 法国, 香草, 香料]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-pyment, ENT-mead-champagne-method, ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey]
 related_typed: {ENT-mead-pyment: same_brand, ENT-mead-champagne-method: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 39585}
   wine_enthusiast: {score: 80, year: 2022}
@@ -54,6 +55,16 @@ ratings:
 - **口感**：甜美优雅，香草与蜂蜜交织
 - **余味**：余味香草悠长，带蜜甜与奶香
 - **风味标签**：香草, 蜂蜜, 奶香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

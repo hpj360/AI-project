@@ -4,10 +4,12 @@ title: 马格利鸡尾酒
 category: ENT
 tags: [鸡尾酒, 亚洲, 马格利, 米酒, 韩国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-soju-mojito, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea]
 related_typed: {ENT-cocktail-soju-mojito: same_region, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: same_subcat}
+data_confidence: simulated
+data_source: 韩国配方
 ratings:
   vivino: {score: 4.3, votes: 44669}
   diffords: {score: 4.1, year: 2022}

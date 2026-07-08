@@ -4,10 +4,11 @@ title: 十四代 白雲
 category: ENT
 tags: [清酒, 日本, 纯米酒, 十四代]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-juyondai-honmaru, ENT-sake-juyondai-ryugetsu, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-soko, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner]
 related_typed: {ENT-sake-juyondai-honmaru: same_brand, ENT-sake-juyondai-ryugetsu: same_brand, ENT-sake-juyondai-nana-tariki: same_brand, ENT-sake-juyondai-soko: same_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 4342}
   sake_revue: {score: 92, year: 2021}
@@ -58,6 +59,16 @@ awards:
 - **口感**：口感圆润甘甜，米味突出
 - **余味**：余味清爽，带果香
 - **风味标签**：果香, 蜜瓜, 米香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

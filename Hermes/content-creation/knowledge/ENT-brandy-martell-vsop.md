@@ -4,10 +4,11 @@ title: 马爹利 VSOP
 category: ENT
 tags: [白兰地, 干邑, 法国, 马爹利]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu, ENT-brandy-martell-noblige, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
 related_typed: {ENT-brandy-martell-xo: same_brand, ENT-brandy-martell-cordon-bleu: same_brand, ENT-brandy-martell-noblige: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 21636}
   wine_enthusiast: {score: 91, year: 2020}
@@ -58,6 +59,16 @@ awards:
 - **口感**：柔顺优雅，果味香草
 - **余味**：余味悠长，柔顺平衡
 - **风味标签**：果香, 香草, 蜂蜜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

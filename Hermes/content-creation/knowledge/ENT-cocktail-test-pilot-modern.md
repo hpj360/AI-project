@@ -4,10 +4,11 @@ title: 试飞员（现代版）
 category: ENT
 tags: [鸡尾酒, Tiki, 黑朗姆, 查特酒, 现代]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-kamikaze, ENT-cocktail-melon-ball, ENT-cocktail-smoke-signal, ENT-cocktail-brown-derby, ENT-cocktail-westside]
 related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-melon-ball: same_region, ENT-cocktail-smoke-signal: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.5, votes: 21468}
   diffords: {score: 4.14, year: 2022}

@@ -4,10 +4,11 @@ title: 卡力特啤酒
 category: ENT
 tags: [啤酒, 德国, 卡力特, 黑啤, 施瓦兹比尔]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona]
 related_typed: {ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 27885}
   ratebeer: {score: 85, year: 2023}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感醇厚，焦香与咖啡风味突出
 - **余味**：余味微苦，带焦香
 - **风味标签**：焦香, 咖啡, 巧克力
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

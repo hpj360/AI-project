@@ -4,10 +4,11 @@ title: 四特酒 弘韵
 category: ENT
 tags: [白酒, 特香, 江西, 四特酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-site-jiu-shiwunian, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
 related_typed: {ENT-baijiu-site-jiu-shiwunian: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.3, votes: 36734}
   csl: {score: 80, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：绵柔爽净，特香风格
 - **余味**：余味净爽，回甘
 - **风味标签**：特香, 粮香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

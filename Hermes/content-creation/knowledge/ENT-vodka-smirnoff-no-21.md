@@ -4,10 +4,11 @@ title: 斯米诺 No.21 红牌
 category: ENT
 tags: [伏特加, 英国, 斯米诺]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-blue, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka, ENT-vodka-off-147-wodka-gorb]
-related_typed: {ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-blue: same_brand, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat, ENT-vodka-off-147-wodka-gorb: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-blue, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
+related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_brand, ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-blue: same_brand, ENT-brand-finlandia: cross_region, ENT-vodka-off-141-absolut-vodka: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 22148}
   wine_enthusiast: {score: 85, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：纯净中性，淡谷物
 - **余味**：余味爽净，纯净中性
 - **风味标签**：中性, 谷物, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

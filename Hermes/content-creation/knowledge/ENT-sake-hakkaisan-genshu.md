@@ -4,10 +4,11 @@ title: 八海山 原酒
 category: ENT
 tags: [清酒, 日本, 纯米酒, 八海山, 原酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-3nen, ENT-sake-josen-mizunogotoshi]
 related_typed: {ENT-sake-hakkaisan-honjozo: same_brand, ENT-sake-hakkaisan-ginjo: same_brand, ENT-sake-hakkaisan-junmai-daiginjo: same_brand, ENT-sake-hakkaisan-3nen: same_region, ENT-sake-josen-mizunogotoshi: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 22648}
   sake_revue: {score: 95, year: 2020}
@@ -58,6 +59,16 @@ awards:
 - **口感**：酒体丰满浓郁，酒精感明显
 - **余味**：余味干净，带米香
 - **风味标签**：米香, 浓郁, 清爽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

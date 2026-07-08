@@ -4,10 +4,11 @@ title: 金质习酒
 category: ENT
 tags: [白酒, 酱香, 贵州, 习酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-xijiu-jiaocang-1988, ENT-baijiu-xijiu-junpin-xijiu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-xijiu-jiaocang-1988: same_brand, ENT-baijiu-xijiu-junpin-xijiu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 19580}
   csl: {score: 84, year: 2020}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：醇厚绵柔，酱味协调
 - **余味**：余味悠长，回甘
 - **风味标签**：酱香, 焦香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

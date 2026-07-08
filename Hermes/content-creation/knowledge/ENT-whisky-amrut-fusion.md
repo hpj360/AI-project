@@ -4,10 +4,11 @@ title: 兰加pure 融合
 category: ENT
 tags: [威士忌, 印度, 单一麦芽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-whisky-off-253-william-peel, ENT-whisky-off-254-royal-challenge-whisky, ENT-whisky-off-255-blended-scotch-whisky-william-peel]
-related_typed: {ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat, ENT-whisky-off-253-william-peel: same_subcat, ENT-whisky-off-254-royal-challenge-whisky: same_subcat, ENT-whisky-off-255-blended-scotch-whisky-william-peel: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal, ENT-brand-glenmorangie-original]
+related_typed: {ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat, ENT-brand-glenmorangie-original: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 20549}
   whisky_fun: {score: 88, year: 2020}
@@ -59,6 +60,16 @@ Amrut Fusion，印度与苏格兰大麦融合的单一麦芽威士忌。
 - **口感**：醇厚复杂，泥煤果味
 - **余味**：余味悠长，温暖辛香
 - **风味标签**：泥煤, 果香, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

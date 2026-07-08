@@ -4,10 +4,11 @@ title: Griottines De Fougerolles
 category: ENT
 tags: [OpenFoodFacts, liqueur, 利口酒, Griottines]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-liqueur-off-203-baileys-original-irish-cream, ENT-liqueur-off-204-aperol, ENT-liqueur-off-205-baileys, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon, ENT-liqueur-off-207-campari]
 related_typed: {ENT-liqueur-off-203-baileys-original-irish-cream: cross_region, ENT-liqueur-off-204-aperol: cross_region, ENT-liqueur-off-205-baileys: cross_region, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon: cross_region, ENT-liqueur-off-207-campari: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.1, votes: 7685}
   wine_enthusiast: {score: 82, year: 2023}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Griottines De Fougerolles（Griottines），�
 - **口感**：甜润、原料风味
 - **余味**：甜润回甘
 - **风味标签**：甜润, 果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 红花郎 10
 category: ENT
 tags: [白酒, 酱香, 四川, 郎酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-langjiu-qinghualang, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu]
 related_typed: {ENT-baijiu-langjiu-qinghualang: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 18977}
   csl: {score: 91, year: 2023}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚爽净，酱味纯正
 - **余味**：余味悠长，回甘明显
 - **风味标签**：酱香, 焦香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

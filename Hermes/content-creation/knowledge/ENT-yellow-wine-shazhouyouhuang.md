@@ -4,10 +4,11 @@ title: 沙洲优黄
 category: ENT
 tags: [黄酒, 张家港, 沙洲优黄]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-yellow-wine-shazhou-youhuang-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y]
-related_typed: {ENT-yellow-wine-shazhou-youhuang-huangjiu: same_brand, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-yellow-wine-guyue-longshan-30y: cross_region, ENT-yellow-wine-guyue-longshan-50y: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-yellow-wine-shazhou-youhuang-huangjiu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-kuaiji-shan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu]
+related_typed: {ENT-yellow-wine-shazhou-youhuang-huangjiu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-kuaiji-shan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 9219}
   csl: {score: 86, year: 2023}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感清爽甘甜，易入口
 - **余味**：余味清爽，带甜香
 - **风味标签**：米香, 蜂蜜, 甜美
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

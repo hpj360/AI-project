@@ -4,10 +4,11 @@ title: 八海山 3年熟成
 category: ENT
 tags: [清酒, 日本, 纯米酒, 八海山, 熟成]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-genshu, ENT-sake-josen-mizunogotoshi]
 related_typed: {ENT-sake-hakkaisan-honjozo: same_brand, ENT-sake-hakkaisan-ginjo: same_brand, ENT-sake-hakkaisan-junmai-daiginjo: same_brand, ENT-sake-hakkaisan-genshu: same_region, ENT-sake-josen-mizunogotoshi: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 33594}
   sake_revue: {score: 97, year: 2021}
@@ -57,6 +58,16 @@ awards:
 - **口感**：酒体圆润复杂，带熟成香气
 - **余味**：余味悠长，带坚果与焦糖
 - **风味标签**：坚果, 焦糖, 米香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

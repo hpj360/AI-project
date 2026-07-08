@@ -4,10 +4,11 @@ title: 格兰利威 15 年法国橡木
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-glenlivet-12, ENT-whisky-glenlivet-18, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
 related_typed: {ENT-whisky-glenlivet-12: same_brand, ENT-whisky-glenlivet-18: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 13557}
   whisky_fun: {score: 97, year: 2022}
@@ -61,6 +62,16 @@ awards:
 - **口感**：醇厚顺滑，奶油杏仁
 - **余味**：余味悠长，奶油辛香
 - **风味标签**：奶油, 杏仁, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 智美金帽
 category: ENT
 tags: [啤酒, 比利时, 智美, 修道院啤酒, 金啤]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-chimay-blue, ENT-beer-chimay-red, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser]
 related_typed: {ENT-beer-chimay-blue: same_brand, ENT-beer-chimay-red: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 29060}
   ratebeer: {score: 87, year: 2021}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感清爽，果香与蜂蜜平衡
 - **余味**：余味清爽，带果香
 - **风味标签**：果香, 蜂蜜, 清爽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

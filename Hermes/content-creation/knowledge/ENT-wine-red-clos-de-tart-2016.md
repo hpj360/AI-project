@@ -4,10 +4,11 @@ title: 武乔 2016
 category: ENT
 tags: [红酒, 勃艮第, 特级园, 独占园]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-clos-des-lambrays-2015, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
-related_typed: {ENT-wine-red-clos-des-lambrays-2015: same_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-004-pinot-noir: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-clos-des-lambrays-2015, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
+related_typed: {ENT-wine-red-clos-des-lambrays-2015: same_region, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 30446}
   parker: {score: 86, year: 2022}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁紧致，富有结构
 - **余味**：余味悠长，带辛香与矿物
 - **风味标签**：红樱桃, 覆盆子, 香料, 松露
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

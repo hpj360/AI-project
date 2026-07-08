@@ -4,10 +4,11 @@ title: 金色年华
 category: ENT
 tags: [黄酒, 上海, 金色年华, 海派]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-yellow-wine-shikumen, ENT-yellow-wine-hejiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y]
-related_typed: {ENT-yellow-wine-shikumen: same_brand, ENT-yellow-wine-hejiu: same_brand, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-yellow-wine-guyue-longshan-30y: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-yellow-wine-shikumen, ENT-yellow-wine-hejiu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-kuaiji-shan, ENT-baike-yellow_wine-tapai-huangjiu]
+related_typed: {ENT-yellow-wine-shikumen: same_brand, ENT-yellow-wine-hejiu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-kuaiji-shan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 21277}
   csl: {score: 89, year: 2020}
@@ -58,6 +59,16 @@ awards:
 - **口感**：口感柔顺甘甜，营养风味
 - **余味**：余味清爽，带甜香
 - **风味标签**：米香, 蜂蜜, 枸杞
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

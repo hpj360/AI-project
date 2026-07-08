@@ -4,10 +4,11 @@ title: Ozeki Sake DRY
 category: ENT
 tags: [OpenFoodFacts, sake, 清酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-sake-dassai-23, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner]
 related_typed: {ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-sake-dassai-23: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 19974}
   sake_revue: {score: 94, year: 2021}
@@ -56,6 +57,16 @@ OpenFoodFacts 真实产品数据：Ozeki Sake DRY
 - **口感**：米甜、果味、微酸
 - **余味**：清爽回甘
 - **风味标签**：米香, 果味, 清爽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

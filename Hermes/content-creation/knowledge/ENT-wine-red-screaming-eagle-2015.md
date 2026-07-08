@@ -4,10 +4,11 @@ title: 啸鹰 2015
 category: ENT
 tags: [红酒, 纳帕谷, 美国, 膜拜酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-opus-one-2016, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-wine_red-off-003-adama: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-opus-one-2016, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-brand-romanee-conti]
+related_typed: {ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-brand-romanee-conti: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 45241}
   parker: {score: 89, year: 2023}
@@ -62,6 +63,16 @@ awards:
 - **口感**：酒体饱满浓郁，单宁柔顺如丝
 - **余味**：余味极悠长，带辛香与黑巧
 - **风味标签**：黑加仑, 黑莓, 烟熏, 雪松
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

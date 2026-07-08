@@ -4,10 +4,11 @@ title: 长乐烧
 category: ENT
 tags: [米酒, 米香型白酒, 五华, 广东]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-hongli-hongmi]
-related_typed: {ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-rice-wine-hongli-hongmi: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-baike-rice_wine-guilin-sanhua-jiu, ENT-baike-rice_wine-riben-qingjiu, ENT-baike-rice_wine-hanguo-makgeolli, ENT-baike-rice_wine-kejia-niangjiu, ENT-rice-wine-kejia-mijiu]
+related_typed: {ENT-baike-rice_wine-guilin-sanhua-jiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-baike-rice_wine-hanguo-makgeolli: cross_region, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-rice-wine-kejia-mijiu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 31440}
   csl: {score: 85, year: 2020}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感纯净，米香突出
 - **余味**：余味干净，带米香
 - **风味标签**：米香, 蜜香, 纯净
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

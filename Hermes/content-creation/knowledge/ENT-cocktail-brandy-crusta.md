@@ -4,10 +4,12 @@ title: 白兰地克鲁斯塔
 category: ENT
 tags: [鸡尾酒, IBA, 古典, 白兰地, 禁酒令前]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-sazerac, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-grasshopper]
 related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region, ENT-cocktail-grasshopper: same_region}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 45272}
   diffords: {score: 4.29, year: 2020}

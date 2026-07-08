@@ -4,10 +4,11 @@ title: 达格诺普伊芙美 2017
 category: ENT
 tags: [白酒, 卢瓦尔, 长相思, Pouilly-Fumé]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic]
 related_typed: {ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 45909}
   parker: {score: 86, year: 2022}
@@ -60,6 +61,16 @@ awards:
 - **口感**：酒体饱满，酸度精准，富有结构
 - **余味**：余味极悠长，带烟熏与矿物
 - **风味标签**：黑加仑叶, 西柚, 烟熏, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

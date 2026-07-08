@@ -4,10 +4,11 @@ title: 粉象啤酒
 category: ENT
 tags: [啤酒, 比利时, 粉象, 烈性艾尔]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
 related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 5663}
   ratebeer: {score: 83, year: 2023}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感醇厚复杂，果香突出，酒精感明显
 - **余味**：余味悠长，带果香与酒精
 - **风味标签**：果香, 香料, 酒精感
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

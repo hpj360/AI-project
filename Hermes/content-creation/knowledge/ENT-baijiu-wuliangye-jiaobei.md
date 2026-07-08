@@ -4,10 +4,11 @@ title: 五粮液 交杯
 category: ENT
 tags: [白酒, 浓香, 四川, 五粮液]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-wuliangye-puwu: same_brand, ENT-baijiu-wuliangye-1618: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 34942}
   csl: {score: 93, year: 2023}
@@ -59,6 +60,16 @@ awards:
 - **口感**：绵甜醇厚，风格经典
 - **余味**：余味净爽，回甘悠长
 - **风味标签**：窖香, 粮香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

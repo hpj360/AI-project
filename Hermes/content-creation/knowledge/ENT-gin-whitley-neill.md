@@ -4,10 +4,11 @@ title: Whitley Neill
 category: ENT
 tags: [金酒, 英国, Whitley Neill]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
 related_typed: {ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region, ENT-gin-beefeater-london-dry: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 46020}
   wine_enthusiast: {score: 87, year: 2023}
@@ -56,6 +57,16 @@ Whitley Neill，英国家族金酒，非洲植物配方。
 - **口感**：柔顺果味，猴面包树柑橘
 - **余味**：余味悠长，温暖果味
 - **风味标签**：杜松, 猴面包树, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

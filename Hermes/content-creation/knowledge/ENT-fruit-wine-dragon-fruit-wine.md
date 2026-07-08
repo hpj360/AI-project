@@ -4,10 +4,11 @@ title: 火龙果酒
 category: ENT
 tags: [果酒, 火龙果, 中国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-fruit-wine-sangshen-jiu, ENT-mead-chinese-traditional, ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-mango, ENT-fruit-wine-choya-umeshu]
-related_typed: {ENT-fruit-wine-sangshen-jiu: same_brand, ENT-mead-chinese-traditional: same_brand, ENT-fruit-wine-kiwi-wine: same_brand, ENT-fruit-wine-mango: same_region, ENT-fruit-wine-choya-umeshu: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-fruit-wine-sangshen-jiu, ENT-mead-chinese-traditional, ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-mango, ENT-baike-fruit_wine-zhuyeqing-jiu]
+related_typed: {ENT-fruit-wine-sangshen-jiu: same_brand, ENT-mead-chinese-traditional: same_brand, ENT-fruit-wine-kiwi-wine: same_brand, ENT-fruit-wine-mango: same_region, ENT-baike-fruit_wine-zhuyeqing-jiu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 24128}
   wine_enthusiast: {score: 85, year: 2023}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感甜润，火龙果风味突出
 - **余味**：余味甜润，带浆果香
 - **风味标签**：火龙果, 浆果, 甜润
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

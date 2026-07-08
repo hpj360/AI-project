@@ -4,10 +4,12 @@ title: 白兰地斯马修
 category: ENT
 tags: [鸡尾酒, 斯马修, 白兰地, 薄荷, 禁酒令前]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
 related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
+data_confidence: simulated
+data_source: Jerry Thomas 1862 Bartenders Guide
 ratings:
   vivino: {score: 4.8, votes: 44515}
   diffords: {score: 4.28, year: 2021}

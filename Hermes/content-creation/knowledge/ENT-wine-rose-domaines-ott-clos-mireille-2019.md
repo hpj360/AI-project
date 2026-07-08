@@ -4,10 +4,11 @@ title: 奥特庄园密合园桃红 2019
 category: ENT
 tags: [桃红, 普罗旺斯, Ott]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-miraval-2019, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaine-tempier-bandol-2019]
 related_typed: {ENT-wine-rose-whispering-angel-2020: same_region, ENT-wine-rose-garrus-2018: same_region, ENT-wine-rose-miraval-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: cross_region, ENT-wine-rose-domaine-tempier-bandol-2019: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 16038}
   parker: {score: 82, year: 2023}
@@ -56,6 +57,16 @@ Domaines Ott 经典普罗旺斯桃红，瓶身呈独特椭球形。
 - **口感**：酒体中等，酸度精准，富有层次
 - **余味**：余味中长，带果味与花香
 - **风味标签**：草莓, 桃子, 柑橘, 白花
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

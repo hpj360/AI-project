@@ -4,10 +4,11 @@ title: 杜克豪城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 圣朱利安]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-leoville-las-cases-2016, ENT-wine-red-leoville-poyferre-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-leoville-las-cases-2016: same_region, ENT-wine-red-leoville-poyferre-2016: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-leoville-las-cases-2016, ENT-wine-red-leoville-poyferre-2016, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
+related_typed: {ENT-wine-red-leoville-las-cases-2016: same_region, ENT-wine-red-leoville-poyferre-2016: same_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.5, votes: 24658}
   parker: {score: 81, year: 2023}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体优雅，单宁柔顺，结构精致
 - **余味**：余味悠长，带矿物与花香
 - **风味标签**：黑加仑, 雪松, 矿物, 紫罗兰
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

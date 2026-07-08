@@ -4,10 +4,11 @@ title: 教皇新堡克洛帕普 2016
 category: ENT
 tags: [红酒, 罗讷河谷, 南罗讷]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-chateauneuf-beaucastel-2016, ENT-wine-red-pegau-2016, ENT-wine_red-off-003-adama, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
-related_typed: {ENT-wine-red-chateauneuf-beaucastel-2016: same_region, ENT-wine-red-pegau-2016: same_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-chateauneuf-beaucastel-2016, ENT-wine-red-pegau-2016, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
+related_typed: {ENT-wine-red-chateauneuf-beaucastel-2016: same_region, ENT-wine-red-pegau-2016: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 30490}
   parker: {score: 87, year: 2023}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁柔顺，富有层次
 - **余味**：余味悠长，带辛香与果酱
 - **风味标签**：黑莓, 覆盆子, 香料, 松露
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

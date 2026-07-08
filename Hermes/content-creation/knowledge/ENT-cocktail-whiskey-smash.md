@@ -4,10 +4,12 @@ title: 威士忌斯马修
 category: ENT
 tags: [鸡尾酒, 斯马修, 波本, 薄荷]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-mint-julep, ENT-cocktail-kentucky-buck, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey]
-related_typed: {ENT-cocktail-mint-julep: same_region, ENT-cocktail-kentucky-buck: same_region, ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-mint-julep, ENT-cocktail-kentucky-buck, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12]
+related_typed: {ENT-cocktail-mint-julep: same_region, ENT-cocktail-kentucky-buck: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.6, votes: 8263}
   diffords: {score: 4.16, year: 2023}

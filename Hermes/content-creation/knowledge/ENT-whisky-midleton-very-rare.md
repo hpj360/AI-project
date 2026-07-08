@@ -4,10 +4,11 @@ title: 米德尔顿 稀世
 category: ENT
 tags: [威士忌, 爱尔兰, 调和威士忌, 限量]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-redbreast-12, ENT-whisky-redbreast-15, ENT-whisky-green-spot]
 related_typed: {ENT-whisky-jameson: same_region, ENT-whisky-jameson-black-barrel: same_region, ENT-whisky-redbreast-12: same_region, ENT-whisky-redbreast-15: same_region, ENT-whisky-green-spot: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 15534}
   whisky_fun: {score: 83, year: 2021}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：醇厚奢华，干果香草
 - **余味**：余味悠长，深邃复杂
 - **风味标签**：雪莉, 干果, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: E.Guigal Appellation Côtes Du Rhône Contrôlée Red Wine
 category: ENT
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, E. Guigal]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-red-cote-rotie-guigal-2015, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-015-cabernet-sauvigon]
 related_typed: {ENT-wine-red-cote-rotie-guigal-2015: same_brand, ENT-wine_red-off-004-pinot-noir: same_region, ENT-wine_red-off-005-cabernet-sauvignon: same_region, ENT-wine_red-off-009-mouton-cadet: same_region, ENT-wine_red-off-015-cabernet-sauvigon: same_region}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 10176}
   parker: {score: 85, year: 2020}
@@ -58,6 +59,16 @@ OpenFoodFacts 真实产品数据：E.Guigal Appellation Côtes Du Rhône Contrô
 - **口感**：单宁、果味、橡木
 - **余味**：单宁回甘
 - **风味标签**：红果, 单宁, 橡木
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 伏旧园 DRC 2015
 category: ENT
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-clos-vougeot-meo-camuzet-2015, ENT-wine_red-off-002-bordeaux-2013]
-related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-red-clos-vougeot-meo-camuzet-2015: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-romanee-conti, ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-clos-vougeot-meo-camuzet-2015, ENT-brand-mouton-rothschild]
+related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-clos-vougeot-meo-camuzet-2015: same_region, ENT-brand-mouton-rothschild: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 43739}
   parker: {score: 83, year: 2022}
@@ -59,6 +60,16 @@ DRC 在伏旧园的份额酿造，葡萄园紧邻城堡。
 - **口感**：酒体中等，单宁柔顺，富有结构
 - **余味**：余味悠长，带矿物与辛香
 - **风味标签**：红樱桃, 覆盆子, 松露, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

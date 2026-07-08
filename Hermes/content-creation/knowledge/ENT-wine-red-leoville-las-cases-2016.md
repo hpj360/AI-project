@@ -4,10 +4,11 @@ title: 雄狮城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 圣朱利安]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-leoville-poyferre-2016, ENT-wine-red-ducru-beaucaillou-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-leoville-poyferre-2016: same_region, ENT-wine-red-ducru-beaucaillou-2016: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-leoville-poyferre-2016, ENT-wine-red-ducru-beaucaillou-2016, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux]
+related_typed: {ENT-wine-red-leoville-poyferre-2016: same_region, ENT-wine-red-ducru-beaucaillou-2016: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 4037}
   parker: {score: 84, year: 2021}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁紧致，结构严谨
 - **余味**：余味悠长，带雪茄盒气息
 - **风味标签**：黑加仑, 雪松, 烟草, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

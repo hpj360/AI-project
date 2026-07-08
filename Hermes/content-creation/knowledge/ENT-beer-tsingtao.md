@@ -4,10 +4,11 @@ title: 青岛啤酒
 category: ENT
 tags: [啤酒, 中国, 青岛, 工业拉格]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-tsingtao-pure-draft, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
 related_typed: {ENT-beer-tsingtao-pure-draft: same_brand, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 17768}
   ratebeer: {score: 90, year: 2023}
@@ -58,6 +59,16 @@ awards:
 - **口感**：口感清爽，麦香适中，苦度低
 - **余味**：余味干净，带微苦
 - **风味标签**：麦芽, 清爽, 啤酒花
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

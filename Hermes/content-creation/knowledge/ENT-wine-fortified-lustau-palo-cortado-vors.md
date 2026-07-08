@@ -4,10 +4,11 @@ title: 卢世涛帕罗科塔多 VORS
 category: ENT
 tags: [加强酒, 雪莉, Palo Cortado, VORS]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
 related_typed: {ENT-wine-fortified-gonzalez-byass-tio-pepe-fino: same_region, ENT-wine-fortified-williams-humbert-dry-oloroso: same_region, ENT-wine-fortified-valdespino-tio-diego-amontillado: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 34654}
   wine_spectator: {score: 82, year: 2020}
@@ -56,6 +57,16 @@ Lustau 顶级 Palo Cortado VORS，30 年以上陈酿。
 - **口感**：酒体饱满，复杂深邃，氧化风格
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：坚果, 烤面包, 蜜饯, 海盐
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

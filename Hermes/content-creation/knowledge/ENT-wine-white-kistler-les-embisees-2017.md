@@ -4,10 +4,11 @@ title: 基斯特勒霞多丽 2017
 category: ENT
 tags: [白酒, 新世界, 霞多丽, 加州]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-kendall-jackson-reserve-2018, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic]
 related_typed: {ENT-wine-white-kendall-jackson-reserve-2018: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 8710}
   parker: {score: 81, year: 2021}
@@ -58,6 +59,16 @@ ratings:
 - **口感**：酒体丰满，酸度精准，富有层次
 - **余味**：余味极悠长，带矿物与坚果
 - **风味标签**：白桃, 柑橘, 烤面包, 黄油
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 狮牌 Bulldog
 category: ENT
 tags: [金酒, 伦敦干, 英国, 狮牌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
 related_typed: {ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region, ENT-gin-beefeater-london-dry: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 36295}
   wine_enthusiast: {score: 83, year: 2022}
@@ -56,6 +57,16 @@ Bulldog，英国伦敦干金酒，12 种植物香料现代风格。
 - **口感**：柔顺复杂，杏仁柑橘
 - **余味**：余味悠长，温暖香料
 - **风味标签**：杜松, 杏仁, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 添加利 伦敦干
 category: ENT
 tags: [金酒, 伦敦干, 英国, 添加利]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-off-120-tanqueray-london-dry-gin, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower]
 related_typed: {ENT-gin-tanqueray-no-ten: same_brand, ENT-gin-tanqueray-rangpur: same_brand, ENT-gin-off-120-tanqueray-london-dry-gin: same_brand, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 2718}
   wine_enthusiast: {score: 94, year: 2023}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚杜松，甘草当归
 - **余味**：余味悠长，干爽杜松
 - **风味标签**：杜松, 甘草, 当归
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

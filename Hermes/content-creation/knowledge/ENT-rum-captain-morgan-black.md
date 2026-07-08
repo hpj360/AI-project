@@ -4,10 +4,11 @@ title: 摩根黑
 category: ENT
 tags: [朗姆酒, 英国, 摩根船长, 黑朗姆]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-off-165-rhum-ambr, ENT-rum-captain-morgan-spiced, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara]
-related_typed: {ENT-rum-off-165-rhum-ambr: same_brand, ENT-rum-captain-morgan-spiced: same_brand, ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rum-off-165-rhum-ambr, ENT-rum-captain-morgan-spiced, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold]
+related_typed: {ENT-rum-off-165-rhum-ambr: same_brand, ENT-rum-captain-morgan-spiced: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 43707}
   wine_enthusiast: {score: 89, year: 2022}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：醇厚浓烈，焦糖烟熏
 - **余味**：余味悠长，强劲辛香
 - **风味标签**：焦糖, 烟熏, 肉桂
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

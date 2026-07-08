@@ -4,10 +4,11 @@ title: 吉哈达 2015
 category: ENT
 tags: [甜酒, 苏玳, Guiraud, 一级庄]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-rieussec-2015]
 related_typed: {ENT-wine-dessert-yquem-2015: same_region, ENT-wine-dessert-suduiraut-2015: same_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: cross_region, ENT-wine-dessert-rieussec-2015: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 40231}
   parker: {score: 83, year: 2021}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：酒体饱满，甜美平衡，富有层次
 - **余味**：余味极悠长，带蜂蜜与辛香
 - **风味标签**：蜂蜜, 杏脯, 柑橘, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

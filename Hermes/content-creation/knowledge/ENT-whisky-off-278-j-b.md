@@ -4,10 +4,11 @@ title: J&B
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, J&B]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-off-253-william-peel, ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l]
-related_typed: {ENT-whisky-off-252-black-barrel-whisky-40: cross_region, ENT-whisky-off-253-william-peel: cross_region, ENT-whisky-off-247-whisky-old-n-7: same_subcat, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu]
+related_typed: {ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 4869}
   whisky_fun: {score: 89, year: 2023}
@@ -59,6 +60,16 @@ OpenFoodFacts 真实产品数据：J&B（J&B）
 - **口感**：橡木、麦芽、微甜
 - **余味**：橡木回甘
 - **风味标签**：橡木, 麦芽, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 沱牌 特曲
 category: ENT
 tags: [白酒, 浓香, 四川, 沱牌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-shede-zhihui-shede, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
-related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-shede-zhihui-shede: same_brand, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-shede-zhihui-shede, ENT-baike-baijiu-shede-jiu, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
+related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-shede-zhihui-shede: same_brand, ENT-baike-baijiu-shede-jiu: same_brand, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 14620}
   csl: {score: 89, year: 2023}
@@ -59,6 +60,16 @@ awards:
 - **口感**：绵甜爽净，浓香风格
 - **余味**：余味净爽
 - **风味标签**：窖香, 粮香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

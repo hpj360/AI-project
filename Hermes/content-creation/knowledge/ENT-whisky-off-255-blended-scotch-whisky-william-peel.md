@@ -4,10 +4,11 @@ title: Blended Scotch Whisky WILLIAM PEEL
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, WILLIAM PEEL]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-253-william-peel, ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-246-jack-daniel-s-no-7, ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards]
-related_typed: {ENT-whisky-off-253-william-peel: same_brand, ENT-whisky-off-245-monkey-shoulder: cross_region, ENT-whisky-off-246-jack-daniel-s-no-7: cross_region, ENT-whisky-off-247-whisky-old-n-7: same_subcat, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-off-253-william-peel, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12]
+related_typed: {ENT-whisky-off-253-william-peel: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 3.8, votes: 8387}
   whisky_fun: {score: 81, year: 2021}
@@ -56,6 +57,16 @@ OpenFoodFacts 真实产品数据：Blended Scotch Whisky WILLIAM PEEL（WILLIAM 
 - **口感**：橡木、麦芽、微甜
 - **余味**：橡木回甘
 - **风味标签**：橡木, 麦芽, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

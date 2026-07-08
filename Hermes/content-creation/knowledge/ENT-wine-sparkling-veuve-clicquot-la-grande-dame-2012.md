@@ -4,10 +4,11 @@ title: 凯歌贵妇 2012
 category: ENT
 tags: [起泡酒, 香槟, Veuve Clicquot, 年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv, ENT-wine-sparkling-lanson-black-label-nv]
 related_typed: {ENT-wine-sparkling-cristal-2013: same_region, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region, ENT-wine-sparkling-lanson-black-label-nv: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 28987}
   wine_spectator: {score: 84, year: 2023}
@@ -56,6 +57,16 @@ Veuve Clicquot 旗舰年份香槟，以酒庄创始遗孀命名。
 - **口感**：酒体饱满，气泡细腻，结构深邃
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：烤面包, 坚果, 柑橘, 白花
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

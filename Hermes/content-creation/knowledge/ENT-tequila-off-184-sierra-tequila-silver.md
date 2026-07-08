@@ -4,10 +4,11 @@ title: Sierra Tequila Silver
 category: ENT
 tags: [OpenFoodFacts, tequila, 龙舌兰, Sierra]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-185-silver-tequila-40, ENT-tequila-off-200-t-quila-blanco, ENT-tequila-don-julio-blanco, ENT-tequila-off-186-tequila]
-related_typed: {ENT-tequila-off-183-tequila-gold: cross_region, ENT-tequila-off-185-silver-tequila-40: cross_region, ENT-tequila-off-200-t-quila-blanco: cross_region, ENT-tequila-don-julio-blanco: cross_region, ENT-tequila-off-186-tequila: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco]
+related_typed: {ENT-brand-jose-cuervo-especial: cross_region, ENT-brand-patron-silver: cross_region, ENT-brand-don-julio-blanco: cross_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.5, votes: 31015}
   wine_enthusiast: {score: 81, year: 2023}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Sierra Tequila Silver（Sierra）
 - **口感**：龙舌兰、胡椒、柑橘
 - **余味**：草本回甘
 - **风味标签**：龙舌兰, 草本, 胡椒
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

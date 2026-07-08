@@ -4,10 +4,11 @@ title: 雪树 原味
 category: ENT
 tags: [伏特加, 波兰, 雪树]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-161-organic-vodka, ENT-vodka-belvedere-intense, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
-related_typed: {ENT-vodka-off-161-organic-vodka: same_brand, ENT-vodka-belvedere-intense: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-off-161-organic-vodka, ENT-vodka-belvedere-intense, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
+related_typed: {ENT-vodka-off-161-organic-vodka: same_brand, ENT-vodka-belvedere-intense: same_brand, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat, ENT-vodka-off-142-poliakov: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.3, votes: 42589}
   wine_enthusiast: {score: 83, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：柔顺丝滑，香草黑麦
 - **余味**：余味悠长，温暖香草
 - **风味标签**：黑麦, 香草, 白胡椒
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

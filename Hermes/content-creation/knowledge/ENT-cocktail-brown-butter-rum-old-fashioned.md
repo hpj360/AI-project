@@ -4,10 +4,11 @@ title: 焦化黄油朗姆古典
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 朗姆, 焦化黄油, 现代]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-clarified-milk-punch-modern, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler]
 related_typed: {ENT-cocktail-clarified-milk-punch-modern: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 43135}
   diffords: {score: 4.38, year: 2020}

@@ -4,10 +4,11 @@ title: 卡慕 XO
 category: ENT
 tags: [白兰地, 干邑, 法国, 卡慕]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-camus-vsop, ENT-brandy-camus-borders-iut, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo]
 related_typed: {ENT-brandy-camus-vsop: same_brand, ENT-brandy-camus-borders-iut: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 27387}
   wine_enthusiast: {score: 91, year: 2020}
@@ -58,6 +59,16 @@ awards:
 - **口感**：醇厚复杂，干果杏仁
 - **余味**：余味悠长，深邃平衡
 - **风味标签**：干果, 杏仁, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 轩尼诗 XO
 category: ENT
 tags: [白兰地, 干邑, 法国, 轩尼诗]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop]
 related_typed: {ENT-brandy-hennessy-vs: same_brand, ENT-brandy-hennessy-vsop: same_brand, ENT-brandy-hennessy-paradis: same_brand, ENT-brandy-hennessy-richard: same_region, ENT-brandy-martell-vsop: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 41326}
   wine_enthusiast: {score: 96, year: 2022}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚复杂，干果巧克力
 - **余味**：余味悠长，深邃温暖
 - **风味标签**：干果, 巧克力, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 黑胡桃古典
 category: ENT
 tags: [鸡尾酒, 现代经典, 波本, 黑胡桃, 古典]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
 related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 34368}
   diffords: {score: 4.44, year: 2021}

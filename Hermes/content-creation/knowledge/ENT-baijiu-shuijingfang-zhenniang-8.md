@@ -4,10 +4,11 @@ title: 水井坊 臻酿八号
 category: ENT
 tags: [白酒, 浓香, 四川, 水井坊]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-shuijingfang-jingtai, ENT-baijiu-quanxing-daqu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-shuijingfang-jingtai: same_brand, ENT-baijiu-quanxing-daqu: same_region, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 47728}
   csl: {score: 87, year: 2023}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：绵甜醇厚，柔和圆润
 - **余味**：余味悠长，净爽
 - **风味标签**：窖香, 陈香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

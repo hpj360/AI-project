@@ -4,10 +4,11 @@ title: 施兰堡白中白 2016
 category: ENT
 tags: [起泡酒, 新世界, Schramsberg, 加州, 白中白]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-domaine-chandon-brut-nv, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-053-sekt, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition]
-related_typed: {ENT-wine-sparkling-domaine-chandon-brut-nv: same_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: cross_region, ENT-wine_sparkling-off-053-sekt: same_subcat, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-sparkling-domaine-chandon-brut-nv, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt]
+related_typed: {ENT-wine-sparkling-domaine-chandon-brut-nv: same_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 48631}
   wine_spectator: {score: 83, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：酒体中等，气泡细腻，酸度精准
 - **余味**：余味中长，带果味与矿物
 - **风味标签**：柑橘, 白花, 烤面包, 杏仁
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

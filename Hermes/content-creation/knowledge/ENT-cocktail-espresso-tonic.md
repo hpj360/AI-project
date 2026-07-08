@@ -4,10 +4,11 @@ title: 咖啡汤力
 category: ENT
 tags: [鸡尾酒, 创意, 浓缩咖啡, 汤力水, 现代]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-ginish-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres]
 related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region, ENT-cocktail-margarita-spheres: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 5451}
   diffords: {score: 4.18, year: 2022}

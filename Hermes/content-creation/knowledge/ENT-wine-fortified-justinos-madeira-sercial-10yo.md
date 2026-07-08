@@ -4,10 +4,11 @@ title: 朱斯蒂诺舍西亚尔十年马德拉
 category: ENT
 tags: [加强酒, 马德拉, Sercial, 陈年]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-blandys-vintage-bual-1996, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017]
 related_typed: {ENT-wine-fortified-blandys-vintage-bual-1996: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.5, votes: 38428}
   wine_spectator: {score: 84, year: 2021}
@@ -56,6 +57,16 @@ Estufagem 加热陈酿，橡木桶陈酿
 - **口感**：酒体轻至中等，干爽酸度精准，富有层次
 - **余味**：余味极悠长，带杏仁与辛香
 - **风味标签**：杏仁, 柑橘, 蜂蜜, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

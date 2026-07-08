@@ -4,10 +4,11 @@ title: 夏山凯乐 2016
 category: ENT
 tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-batard-montrachet-ramonet-2015, ENT-wine-white-criots-batard-ramonet-2015, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc]
 related_typed: {ENT-wine-white-batard-montrachet-ramonet-2015: same_brand, ENT-wine-white-criots-batard-ramonet-2015: same_brand, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 46616}
   parker: {score: 87, year: 2022}
@@ -58,6 +59,16 @@ Ramonet 在 Caillerets 的一级园，风格浓郁。
 - **口感**：酒体丰满，酸度精准，富有力量
 - **余味**：余味悠长，带坚果与奶油
 - **风味标签**：奶油, 榛子, 白花, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

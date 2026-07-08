@@ -4,10 +4,11 @@ title: 秦岭蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 中国, 传统, 秦岭]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-shennong-honey, ENT-mead-changbaishan-honey, ENT-mead-yunnan-wild-honey, ENT-mead-huangshan-honey, ENT-mead-traditional]
 related_typed: {ENT-mead-shennong-honey: cross_region, ENT-mead-changbaishan-honey: cross_region, ENT-mead-yunnan-wild-honey: cross_region, ENT-mead-huangshan-honey: cross_region, ENT-mead-traditional: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 21007}
   wine_enthusiast: {score: 90, year: 2022}
@@ -56,6 +57,16 @@ awards:
 - **口感**：甜润绵柔，蜜香与药香交织
 - **余味**：余味甘润，带花蜜回甘
 - **风味标签**：蜂蜜, 洋槐花, 药香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

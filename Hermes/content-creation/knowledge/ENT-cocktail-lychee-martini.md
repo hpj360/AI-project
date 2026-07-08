@@ -4,10 +4,12 @@ title: 荔枝马天尼
 category: ENT
 tags: [鸡尾酒, 亚洲, 荔枝, 伏特加, 中国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
-related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
+related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+data_confidence: simulated
+data_source: 中国配方
 ratings:
   vivino: {score: 4.2, votes: 20144}
   diffords: {score: 4.08, year: 2020}

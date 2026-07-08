@@ -4,10 +4,11 @@ title: 里奇堡 2015
 category: ENT
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-la-romane-liger-belair-2015, ENT-wine_red-off-002-bordeaux-2013]
-related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-grands-echezeaux-2015: same_brand, ENT-wine-red-la-romane-liger-belair-2015: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-romanee-conti, ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-la-romane-liger-belair-2015, ENT-brand-mouton-rothschild]
+related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-la-romane-liger-belair-2015: same_region, ENT-brand-mouton-rothschild: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 35930}
   parker: {score: 91, year: 2023}
@@ -62,6 +63,16 @@ DRC 旗舰特级园之一，风格丰腴雄壮，富有力量感。
 - **口感**：酒体雄壮，单宁强劲，富有结构
 - **余味**：余味极悠长，带辛香与矿物
 - **风味标签**：黑樱桃, 玫瑰, 辛香, 皮革
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

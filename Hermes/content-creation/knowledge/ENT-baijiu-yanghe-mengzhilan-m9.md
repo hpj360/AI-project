@@ -4,10 +4,11 @@ title: 洋河 梦之蓝 M9
 category: ENT
 tags: [白酒, 浓香, 江苏, 洋河]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-yanghe-haizhilan, ENT-baijiu-yanghe-tianzhilan, ENT-baijiu-yanghe-mengzhilan-m3, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
 related_typed: {ENT-baijiu-yanghe-haizhilan: same_brand, ENT-baijiu-yanghe-tianzhilan: same_brand, ENT-baijiu-yanghe-mengzhilan-m3: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 46311}
   csl: {score: 88, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：绵柔醇厚，奢华细腻
 - **余味**：余味悠长，回甘持久
 - **风味标签**：窖香, 陈香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

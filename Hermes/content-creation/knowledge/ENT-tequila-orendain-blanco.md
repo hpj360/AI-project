@@ -4,10 +4,11 @@ title: 欧雷 Orendain Blanco
 category: ENT
 tags: [龙舌兰, 墨西哥, Orendain, Blanco, 传统]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-tequila-don-valente-blanco, ENT-tequila-off-186-tequila, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado, ENT-tequila-off-188-tequila-estribos, ENT-tequila-off-189-tequila-0-35l]
-related_typed: {ENT-tequila-don-valente-blanco: same_region, ENT-tequila-off-186-tequila: cross_region, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado: cross_region, ENT-tequila-off-188-tequila-estribos: same_subcat, ENT-tequila-off-189-tequila-0-35l: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-tequila-don-valente-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
+related_typed: {ENT-tequila-don-valente-blanco: same_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 6640}
   wine_enthusiast: {score: 91, year: 2020}
@@ -58,6 +59,16 @@ awards:
 - **口感**：清新龙舌兰，柑橘胡椒
 - **余味**：余味爽净，带龙舌兰香
 - **风味标签**：龙舌兰, 柑橘, 胡椒
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

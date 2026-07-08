@@ -4,10 +4,12 @@ title: 第八选区
 category: ENT
 tags: [鸡尾酒, 酸酒, 黑麦, 橙, 美国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-ward-eight-sig, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-saketini]
-related_typed: {ENT-cocktail-ward-eight-sig: same_region, ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-ward-eight-sig, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-saketini]
+related_typed: {ENT-cocktail-ward-eight-sig: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
+data_confidence: simulated
+data_source: Locke-Ober 配方
 ratings:
   vivino: {score: 4.3, votes: 2158}
   diffords: {score: 4.11, year: 2021}

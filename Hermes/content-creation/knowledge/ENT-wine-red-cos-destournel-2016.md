@@ -4,10 +4,11 @@ title: 科比埃城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 圣埃斯泰夫]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
-related_typed: {ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-004-pinot-noir: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion, ENT-brand-romanee-conti]
+related_typed: {ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 3.9, votes: 41140}
   parker: {score: 80, year: 2022}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满浓郁，单宁柔顺甜美
 - **余味**：余味悠长，带香料与黑巧
 - **风味标签**：黑加仑, 黑莓, 辛香, 烟熏
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

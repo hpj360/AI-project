@@ -4,10 +4,11 @@ title: 宝禄嘉尼古拉斯 2009
 category: ENT
 tags: [起泡酒, 香槟, Billecart-Salmon, 年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-philipponnat-clos-des-goisses-2012, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
-related_typed: {ENT-wine-sparkling-philipponnat-clos-des-goisses-2012: same_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-sparkling-philipponnat-clos-des-goisses-2012, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition]
+related_typed: {ENT-wine-sparkling-philipponnat-clos-des-goisses-2012: same_region, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 9000}
   wine_spectator: {score: 85, year: 2022}
@@ -56,6 +57,16 @@ Billecart-Salmon 旗舰年份香槟，以家族先祖命名。
 - **口感**：酒体优雅，气泡细腻，富有结构
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：烤面包, 坚果, 柑橘, 白花
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

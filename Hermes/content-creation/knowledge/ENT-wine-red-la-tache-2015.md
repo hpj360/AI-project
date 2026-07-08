@@ -4,10 +4,11 @@ title: 拉塔希 2015
 category: ENT
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-la-romane-liger-belair-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-red-grands-echezeaux-2015: same_brand, ENT-wine-red-la-romane-liger-belair-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-romanee-conti, ENT-wine-red-romanee-conti-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-la-romane-liger-belair-2015, ENT-brand-mouton-rothschild]
+related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-red-la-romane-liger-belair-2015: same_region, ENT-brand-mouton-rothschild: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.6, votes: 23475}
   parker: {score: 82, year: 2020}
@@ -59,6 +60,16 @@ DRC 第二大特级园独占园，结构强劲，陈年潜力极佳。
 - **口感**：酒体饱满，单宁强劲而细腻
 - **余味**：余味极悠长，带辛香与矿物
 - **风味标签**：黑樱桃, 松露, 玫瑰, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

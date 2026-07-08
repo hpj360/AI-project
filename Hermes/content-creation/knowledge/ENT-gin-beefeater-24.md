@@ -4,10 +4,11 @@ title: 必富达 24
 category: ENT
 tags: [金酒, 伦敦干, 英国, 必富达]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-beefeater-london-dry, ENT-gin-off-123-london-dry-gin, ENT-gin-off-132-pink-strawberry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
 related_typed: {ENT-gin-beefeater-london-dry: same_brand, ENT-gin-off-123-london-dry-gin: same_brand, ENT-gin-off-132-pink-strawberry: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 37941}
   wine_enthusiast: {score: 85, year: 2022}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：醇厚茶香，柚子杜松
 - **余味**：余味悠长，清新茶香
 - **风味标签**：柚子, 煎茶, 杜松
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

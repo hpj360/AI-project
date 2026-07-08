@@ -4,10 +4,11 @@ title: 茅台迎宾酒
 category: ENT
 tags: [白酒, 酱香, 贵州, 茅台]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-laimao-chuancheng, ENT-baijiu-diaoyutai-guobin, ENT-baijiu-guotai-guobiao]
 related_typed: {ENT-baijiu-moutai-feitian-53: same_brand, ENT-baijiu-moutai-prince: same_brand, ENT-baijiu-laimao-chuancheng: same_brand, ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-guotai-guobiao: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.5, votes: 33850}
   csl: {score: 83, year: 2020}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：入口绵甜，酱味较淡
 - **余味**：余味较短，干净
 - **风味标签**：酱香, 粮香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

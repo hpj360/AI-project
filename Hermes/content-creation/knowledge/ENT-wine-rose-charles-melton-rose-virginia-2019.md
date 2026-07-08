@@ -4,10 +4,11 @@ title: 查尔斯梅尔顿维吉尼亚桃红 2019
 category: ENT
 tags: [桃红, 澳洲, Barossa, Charles Melton]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-rose-whistler-rose-2020, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019]
 related_typed: {ENT-wine-rose-whistler-rose-2020: same_region, ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 14440}
   parker: {score: 84, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：酒体中等，酸度精准，富有结构
 - **余味**：余味悠长，带果味与辛香
 - **风味标签**：草莓, 红樱桃, 辛香, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

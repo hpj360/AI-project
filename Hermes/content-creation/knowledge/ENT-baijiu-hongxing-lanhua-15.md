@@ -4,10 +4,11 @@ title: 红星 蓝花十五
 category: ENT
 tags: [白酒, 清香, 北京, 红星]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-hongxing-erguotou, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
 related_typed: {ENT-baijiu-hongxing-erguotou: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 165}
   csl: {score: 85, year: 2023}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：醇厚绵柔，清爽细腻
 - **余味**：余味悠长，回甘
 - **风味标签**：清香, 陈香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

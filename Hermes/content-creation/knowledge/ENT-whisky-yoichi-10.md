@@ -4,10 +4,11 @@ title: 余市 10 年
 category: ENT
 tags: [威士忌, 日本, 单一麦芽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-yoichi-15, ENT-whisky-taketsuru-17, ENT-whisky-taketsuru-21, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l]
-related_typed: {ENT-whisky-yoichi-15: same_brand, ENT-whisky-taketsuru-17: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-yoichi-15, ENT-whisky-taketsuru-17, ENT-whisky-taketsuru-21, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12]
+related_typed: {ENT-whisky-yoichi-15: same_brand, ENT-whisky-taketsuru-17: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.5, votes: 36772}
   whisky_fun: {score: 83, year: 2023}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：醇厚丰富，麦芽果味
 - **余味**：余味悠长，温暖烟熏
 - **风味标签**：麦芽, 苹果, 烟熏
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

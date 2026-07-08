@@ -4,10 +4,11 @@ title: 孟买蓝宝石
 category: ENT
 tags: [金酒, 伦敦干, 英国, 孟买]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-off-124-gin-tonic, ENT-gin-off-127-bombay-sapphire-london-dry-gin, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry]
 related_typed: {ENT-gin-off-124-gin-tonic: same_brand, ENT-gin-off-127-bombay-sapphire-london-dry-gin: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 46619}
   wine_enthusiast: {score: 92, year: 2021}
@@ -58,6 +59,16 @@ awards:
 - **口感**：轻盈花香，杜松柠檬
 - **余味**：余味清新，柔顺香料
 - **风味标签**：杜松, 柠檬, 芫荽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

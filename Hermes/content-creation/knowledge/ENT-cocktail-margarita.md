@@ -4,10 +4,12 @@ title: 玛格丽特
 category: ENT
 tags: [鸡尾酒, IBA, 酸酒, 龙舌兰, 墨西哥]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-tequila-sunrise, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40, ENT-cocktail-sake-bomb]
-related_typed: {ENT-cocktail-tequila-sunrise: same_region, ENT-tequila-off-183-tequila-gold: base_to_cocktail, ENT-tequila-off-184-sierra-tequila-silver: base_to_cocktail, ENT-tequila-off-185-silver-tequila-40: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-tequila-sunrise, ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-tequila-sunrise: same_region, ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 3.9, votes: 33225}
   diffords: {score: 4.02, year: 2022}

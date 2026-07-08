@@ -4,10 +4,11 @@ title: 吉普赛女郎曼萨尼亚
 category: ENT
 tags: [加强酒, 雪莉, Manzanilla, Sanlúcar]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-hidalgo-la-gitana-amontillado, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017]
 related_typed: {ENT-wine-fortified-hidalgo-la-gitana-amontillado: same_brand, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 4133}
   wine_spectator: {score: 87, year: 2022}
@@ -56,6 +57,16 @@ Sanlúcar 产区 Manzanilla 名家，海风酒花风格。
 - **口感**：酒体轻，干爽清新，海风矿物感
 - **余味**：余味中长，带杏仁与海盐
 - **风味标签**：杏仁, 青苹果, 海盐, 酵母
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

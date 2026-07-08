@@ -4,10 +4,11 @@ title: Clairette de Die Tradition
 category: ENT
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Jaillance]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition, ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge, ENT-wine_sparkling-off-067-canard-duch-ne]
 related_typed: {ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition: same_brand, ENT-wine_sparkling-off-063-clairette-de-die-doux: same_brand, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_region, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge: same_region, ENT-wine_sparkling-off-067-canard-duch-ne: same_region}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 39747}
   wine_spectator: {score: 85, year: 2022}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Clairette de Die Tradition（Jaillance），�
 - **口感**：气泡、果味、酸度
 - **余味**：气泡悠长
 - **风味标签**：气泡, 柑橘, 面包
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

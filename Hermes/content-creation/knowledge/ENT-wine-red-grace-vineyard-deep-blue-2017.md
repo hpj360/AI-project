@@ -4,10 +4,11 @@ title: 怡园深蓝 2017
 category: ENT
 tags: [红酒, 中国, 山西, 波尔多混酿]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino, ENT-wine_red-off-015-cabernet-sauvigon, ENT-wine_red-off-016-duck-eggs]
-related_typed: {ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat, ENT-wine_red-off-015-cabernet-sauvigon: same_subcat, ENT-wine_red-off-016-duck-eggs: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza]
+related_typed: {ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 41481}
   parker: {score: 83, year: 2023}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁柔顺，富有层次
 - **余味**：余味悠长，带辛香与黑巧
 - **风味标签**：黑加仑, 黑莓, 雪松, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

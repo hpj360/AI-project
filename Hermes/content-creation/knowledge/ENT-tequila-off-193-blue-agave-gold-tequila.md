@@ -4,10 +4,11 @@ title: Blue Agave Gold Tequila
 category: ENT
 tags: [OpenFoodFacts, tequila, 龙舌兰, Jose Cuervo]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-185-silver-tequila-40, ENT-tequila-off-184-sierra-tequila-silver]
-related_typed: {ENT-tequila-off-195-jose-cuervo-tequila-especial: same_brand, ENT-tequila-jose-cuervo-especial-gold: same_brand, ENT-tequila-off-183-tequila-gold: cross_region, ENT-tequila-off-185-silver-tequila-40: cross_region, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-jose-cuervo-especial-gold, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold]
+related_typed: {ENT-tequila-off-195-jose-cuervo-tequila-especial: same_brand, ENT-tequila-jose-cuervo-especial-gold: same_brand, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 43558}
   wine_enthusiast: {score: 87, year: 2022}
@@ -57,6 +58,16 @@ OpenFoodFacts 真实产品数据：Blue Agave Gold Tequila（Jose Cuervo）
 - **口感**：龙舌兰、胡椒、柑橘
 - **余味**：草本回甘
 - **风味标签**：龙舌兰, 草本, 胡椒
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

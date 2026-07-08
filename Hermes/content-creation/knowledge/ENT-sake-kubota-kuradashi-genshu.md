@@ -4,10 +4,11 @@ title: 久保田 蔵出原酒
 category: ENT
 tags: [清酒, 日本, 纯米大吟醸, 久保田, 原酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-kubota-senju, ENT-sake-kubota-manju, ENT-sake-kubota-suiju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban]
 related_typed: {ENT-sake-kubota-senju: same_brand, ENT-sake-kubota-manju: same_brand, ENT-sake-kubota-suiju: same_brand, ENT-sake-kubota-hyakuju: same_region, ENT-sake-kubota-hachiban: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 33891}
   sake_revue: {score: 97, year: 2020}
@@ -58,6 +59,16 @@ awards:
 - **口感**：酒体丰满浓郁，酒精感明显
 - **余味**：余味悠长，带果香与米香
 - **风味标签**：果香, 米香, 浓郁
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 格兰杰 激稀塔 12 年
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 高地, 雪莉桶]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-glenmorangie-original, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-clynelish-14, ENT-whisky-off-247-whisky-old-n-7]
-related_typed: {ENT-whisky-glenmorangie-original: same_brand, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-clynelish-14: same_region, ENT-whisky-off-247-whisky-old-n-7: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-glenmorangie-original, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-clynelish-14, ENT-brand-jack-daniels-no7]
+related_typed: {ENT-whisky-glenmorangie-original: same_brand, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-clynelish-14: same_region, ENT-brand-jack-daniels-no7: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 13886}
   whisky_fun: {score: 91, year: 2022}
@@ -60,6 +61,16 @@ awards:
 - **口感**：醇厚甜润，干果辛香
 - **余味**：余味悠长，温暖辛香
 - **风味标签**：干果, 肉桂, 蜂蜜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

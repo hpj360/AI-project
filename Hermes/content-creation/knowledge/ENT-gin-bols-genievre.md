@@ -4,10 +4,11 @@ title: 杰纳斯 荷兰金酒
 category: ENT
 tags: [金酒, 荷兰, genever, 杰纳斯]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
 related_typed: {ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.5, votes: 32423}
   wine_enthusiast: {score: 82, year: 2021}
@@ -56,6 +57,16 @@ Bols Genever，荷兰传统麦芽金酒，金酒鼻祖。
 - **口感**：醇厚麦芽，杜松香草
 - **余味**：余味悠长，麦芽温暖
 - **风味标签**：麦芽, 杜松, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

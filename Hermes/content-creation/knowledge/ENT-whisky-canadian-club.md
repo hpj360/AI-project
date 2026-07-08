@@ -4,10 +4,11 @@ title: 加拿大俱乐部
 category: ENT
 tags: [威士忌, 加拿大, 调和威士忌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-whisky-off-253-william-peel, ENT-whisky-off-254-royal-challenge-whisky, ENT-whisky-off-255-blended-scotch-whisky-william-peel]
-related_typed: {ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat, ENT-whisky-off-253-william-peel: same_subcat, ENT-whisky-off-254-royal-challenge-whisky: same_subcat, ENT-whisky-off-255-blended-scotch-whisky-william-peel: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal, ENT-brand-glenmorangie-original]
+related_typed: {ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat, ENT-brand-glenmorangie-original: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 3.9, votes: 39270}
   whisky_fun: {score: 79, year: 2021}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：柔顺甜润，香草蜂蜜
 - **余味**：余味爽净，柔顺温暖
 - **风味标签**：香草, 蜂蜜, 果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

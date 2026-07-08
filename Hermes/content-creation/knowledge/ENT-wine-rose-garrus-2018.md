@@ -4,10 +4,11 @@ title: 加鲁斯桃红 2018
 category: ENT
 tags: [桃红, 普罗旺斯, Grenache, 橡木桶]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaine-tempier-bandol-2019]
 related_typed: {ENT-wine-rose-whispering-angel-2020: same_brand, ENT-wine-rose-domaines-ott-clos-mireille-2019: same_region, ENT-wine-rose-miraval-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: cross_region, ENT-wine-rose-domaine-tempier-bandol-2019: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 19682}
   parker: {score: 85, year: 2020}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：酒体饱满，酸度精准，富有层次
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：白桃, 柑橘, 烤面包, 榛子
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

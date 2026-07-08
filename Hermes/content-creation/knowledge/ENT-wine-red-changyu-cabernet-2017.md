@@ -4,10 +4,11 @@ title: 张裕解百纳 2017
 category: ENT
 tags: [红酒, 中国, 山东, 赤霞珠]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp, ENT-wine_red-off-014-vino, ENT-wine_red-off-015-cabernet-sauvigon]
-related_typed: {ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat, ENT-wine_red-off-013-maestro-de-pigo-primitivo-puglia-igp: same_subcat, ENT-wine_red-off-014-vino: same_subcat, ENT-wine_red-off-015-cabernet-sauvigon: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza]
+related_typed: {ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 7670}
   parker: {score: 87, year: 2020}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体中等，单宁柔顺，平易近人
 - **余味**：余味中长，带果味
 - **风味标签**：黑加仑, 红浆果, 橡木, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

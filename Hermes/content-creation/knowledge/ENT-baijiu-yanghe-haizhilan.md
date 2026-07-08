@@ -4,10 +4,11 @@ title: 洋河 海之蓝
 category: ENT
 tags: [白酒, 浓香, 江苏, 洋河]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-yanghe-tianzhilan, ENT-baijiu-yanghe-mengzhilan-m3, ENT-baijiu-yanghe-mengzhilan-m9, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
 related_typed: {ENT-baijiu-yanghe-tianzhilan: same_brand, ENT-baijiu-yanghe-mengzhilan-m3: same_brand, ENT-baijiu-yanghe-mengzhilan-m9: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 21571}
   csl: {score: 82, year: 2023}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：绵柔顺滑，入口甘甜
 - **余味**：余味净爽，绵柔风格
 - **风味标签**：窖香, 甜香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

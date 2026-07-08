@@ -4,10 +4,11 @@ title: 尤维康普珍藏 2017
 category: ENT
 tags: [起泡酒, 卡瓦, Juvé y Camps, 珍藏]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine_sparkling-off-049-mateus-ros-original]
-related_typed: {ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine_sparkling-off-048-clairette-de-die-tradition]
+related_typed: {ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 7150}
   wine_spectator: {score: 90, year: 2022}
@@ -59,6 +60,16 @@ Juvé y Camps 家族珍藏卡瓦，传统法手工转瓶。
 - **口感**：酒体中等，气泡细腻，富有层次
 - **余味**：余味中长，带果味与矿物
 - **风味标签**：烤面包, 柑橘, 白花, 杏仁
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

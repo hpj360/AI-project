@@ -4,10 +4,12 @@ title: 飞行
 category: ENT
 tags: [鸡尾酒, IBA, 酸酒, 金酒, 紫罗兰]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-cosmopolitan, ENT-cocktail-dirty-martini]
 related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-cosmopolitan: same_region, ENT-cocktail-dirty-martini: same_region}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 44255}
   diffords: {score: 4.54, year: 2023}

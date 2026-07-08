@@ -4,10 +4,11 @@ title: 尊尼获加 红牌
 category: ENT
 tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-265-black-label, ENT-whisky-off-270-red-label, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18]
-related_typed: {ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-off-270-red-label: same_brand, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-265-black-label, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18]
+related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_brand, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 3851}
   whisky_fun: {score: 80, year: 2023}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：清新辛辣，麦芽烟熏
 - **余味**：余味爽净，略带烟熏
 - **风味标签**：麦芽, 烟熏, 果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

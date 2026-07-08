@@ -4,10 +4,11 @@ title: 米拉瓦尔桃红 2019
 category: ENT
 tags: [桃红, 普罗旺斯, Miraval, Pitt]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaine-tempier-bandol-2019]
 related_typed: {ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: cross_region, ENT-wine-rose-domaine-tempier-bandol-2019: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 17570}
   parker: {score: 91, year: 2020}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：酒体轻盈，酸度活泼，清新优雅
 - **余味**：余味中长，带果味与矿物
 - **风味标签**：草莓, 柑橘, 白花, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

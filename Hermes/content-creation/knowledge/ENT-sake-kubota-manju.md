@@ -4,10 +4,11 @@ title: 久保田 万寿
 category: ENT
 tags: [清酒, 日本, 纯米大吟醸, 久保田]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-kubota-senju, ENT-sake-kubota-suiju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban, ENT-sake-kubota-kuradashi-genshu]
 related_typed: {ENT-sake-kubota-senju: same_brand, ENT-sake-kubota-suiju: same_brand, ENT-sake-kubota-hyakuju: same_brand, ENT-sake-kubota-hachiban: same_region, ENT-sake-kubota-kuradashi-genshu: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 13745}
   sake_revue: {score: 93, year: 2021}
@@ -58,6 +59,16 @@ awards:
 - **口感**：酒体醇厚，果香浓郁，甜酸平衡
 - **余味**：余味悠长，带米香
 - **风味标签**：果香, 蜜瓜, 米香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

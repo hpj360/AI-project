@@ -4,10 +4,11 @@ title: 托罗阿尔巴拉唐 PX
 category: ENT
 tags: [加强酒, 雪莉, PX, Pedro Ximénez]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016]
 related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 4757}
   wine_spectator: {score: 83, year: 2023}
@@ -56,6 +57,16 @@ Toro Albalá 顶级 PX 甜雪莉，浓稠如糖浆。
 - **口感**：酒体极饱满，浓稠甜美，糖浆质感
 - **余味**：余味极悠长，带焦糖与辛香
 - **风味标签**：无花果, 葡萄干, 焦糖, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

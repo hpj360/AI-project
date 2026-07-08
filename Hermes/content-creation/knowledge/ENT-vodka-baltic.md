@@ -4,10 +4,11 @@ title: 波罗的海 Baltic
 category: ENT
 tags: [伏特加, 拉脱维亚, Baltic]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona, ENT-vodka-off-149-wodka, ENT-vodka-off-150-belvedere-organic-vodka, ENT-vodka-off-151-eristoff-black-70cl-18]
-related_typed: {ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat, ENT-vodka-off-149-wodka: same_subcat, ENT-vodka-off-150-belvedere-organic-vodka: same_subcat, ENT-vodka-off-151-eristoff-black-70cl-18: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka, ENT-vodka-off-147-wodka-gorb]
+related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat, ENT-vodka-off-145-vodka: same_subcat, ENT-vodka-off-146-premium-vodka: same_subcat, ENT-vodka-off-147-wodka-gorb: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 30939}
   wine_enthusiast: {score: 86, year: 2020}
@@ -56,6 +57,16 @@ Baltic，波罗的海沿岸伏特加，小麦酿造纯净清爽。
 - **口感**：纯净清爽，矿物薄荷
 - **余味**：余味爽净，纯净清新
 - **风味标签**：谷物, 矿物, 薄荷
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

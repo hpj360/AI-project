@@ -4,10 +4,11 @@ title: Rhum Cubain
 category: ENT
 tags: [OpenFoodFacts, rum, 朗姆酒, Havana Club]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-havana-club-3, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel]
-related_typed: {ENT-rum-havana-club-3: same_brand, ENT-rum-havana-club-7: same_brand, ENT-rum-havana-club-anejo-reserva: same_brand, ENT-rum-off-165-rhum-ambr: cross_region, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rum-havana-club-3, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23]
+related_typed: {ENT-rum-havana-club-3: same_brand, ENT-rum-havana-club-7: same_brand, ENT-rum-havana-club-anejo-reserva: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 33327}
   wine_enthusiast: {score: 91, year: 2020}
@@ -57,6 +58,16 @@ OpenFoodFacts 真实产品数据：Rhum Cubain（Havana Club），产地 Cuba
 - **口感**：甜润、焦糖
 - **余味**：甜润回甘
 - **风味标签**：甘蔗, 焦糖, 甜润
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

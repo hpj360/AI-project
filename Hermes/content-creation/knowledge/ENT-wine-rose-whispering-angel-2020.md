@@ -4,10 +4,11 @@ title: 天使密语桃红 2020
 category: ENT
 tags: [桃红, 普罗旺斯, Grenache, d'Esclans]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaine-tempier-bandol-2019]
 related_typed: {ENT-wine-rose-garrus-2018: same_brand, ENT-wine-rose-domaines-ott-clos-mireille-2019: same_region, ENT-wine-rose-miraval-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: cross_region, ENT-wine-rose-domaine-tempier-bandol-2019: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 3.9, votes: 43625}
   parker: {score: 81, year: 2022}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：酒体轻盈，酸度活泼，清新优雅
 - **余味**：余味中长，带果味与矿物
 - **风味标签**：草莓, 柑橘, 白花, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

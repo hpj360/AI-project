@@ -4,10 +4,11 @@ title: 雪花啤酒
 category: ENT
 tags: [啤酒, 中国, 雪花, 工业拉格]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat, ENT-beer-nbpt]
 related_typed: {ENT-beer-yanjing: same_region, ENT-beer-jing-a: same_region, ENT-beer-great-leap: same_region, ENT-beer-slowboat: same_region, ENT-beer-nbpt: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 17022}
   ratebeer: {score: 87, year: 2023}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感清淡，麦香淡，苦度极低
 - **余味**：余味干净
 - **风味标签**：清爽, 清淡, 麦芽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

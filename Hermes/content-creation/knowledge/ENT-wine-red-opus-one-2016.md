@@ -4,10 +4,11 @@ title: 作品一号 2016
 category: ENT
 tags: [红酒, 纳帕谷, 美国, 赤霞珠]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-screaming-eagle-2015: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region, ENT-wine_red-off-003-adama: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-opus-one, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016, ENT-wine-red-heitz-cellar-martha-2014]
+related_typed: {ENT-brand-opus-one: same_brand, ENT-wine-red-screaming-eagle-2015: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region, ENT-wine-red-heitz-cellar-martha-2014: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 23257}
   parker: {score: 84, year: 2022}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁柔顺，结构精致
 - **余味**：余味悠长，带辛香与黑巧
 - **风味标签**：黑加仑, 雪松, 雪茄盒, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: Absolut
 category: ENT
 tags: [OpenFoodFacts, vodka, 伏特加, Absolut]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
-related_typed: {ENT-vodka-absolut-original: same_brand, ENT-vodka-absolut-citron: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-brand-belvedere, ENT-brand-stolichnaya]
+related_typed: {ENT-vodka-off-141-absolut-vodka: same_brand, ENT-vodka-absolut-original: same_brand, ENT-vodka-absolut-citron: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 11214}
   wine_enthusiast: {score: 87, year: 2023}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Absolut（Absolut），产地 Sweden
 - **口感**：纯净、微甜
 - **余味**：干净短促
 - **风味标签**：纯净, 中性
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

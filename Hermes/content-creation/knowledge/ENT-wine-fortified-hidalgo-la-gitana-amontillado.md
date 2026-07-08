@@ -4,10 +4,11 @@ title: 希达尔戈吉普赛女郎阿蒙蒂亚
 category: ENT
 tags: [加强酒, 雪莉, Amontillado, Hidalgo]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-la-gitana-manzanilla, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017]
 related_typed: {ENT-wine-fortified-la-gitana-manzanilla: same_brand, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 17915}
   wine_spectator: {score: 87, year: 2022}
@@ -56,6 +57,16 @@ Hidalgo 旗舰 Amontillado，Sanlúcar 风格氧化雪莉。
 - **口感**：酒体饱满，干爽复杂，富有层次
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：杏仁, 烤面包, 蜜饯, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

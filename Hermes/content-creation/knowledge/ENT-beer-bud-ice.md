@@ -4,10 +4,11 @@ title: 百威冰啤
 category: ENT
 tags: [啤酒, 美国, 百威, 冰啤]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-budweiser, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-heineken, ENT-beer-carlsberg]
 related_typed: {ENT-beer-budweiser: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 7504}
   ratebeer: {score: 89, year: 2021}
@@ -58,6 +59,16 @@ awards:
 - **口感**：口感醇厚，麦香突出，酒精感明显
 - **余味**：余味干净，带微苦
 - **风味标签**：麦芽, 醇厚, 酒精感
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

@@ -4,10 +4,12 @@ title: 百加得鸡尾酒
 category: ENT
 tags: [鸡尾酒, IBA, 酸酒, 朗姆, 百加得]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-daiquiri, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-cocktail-sake-bomb]
-related_typed: {ENT-cocktail-daiquiri: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-daiquiri, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-daiquiri: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 18838}
   diffords: {score: 4.4, year: 2023}

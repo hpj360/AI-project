@@ -4,10 +4,11 @@ title: 保罗拉纳啤酒
 category: ENT
 tags: [啤酒, 德国, 保罗拉纳, 小麦啤酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-hofbrau, ENT-beer-tsingtao, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
 related_typed: {ENT-beer-hofbrau: same_region, ENT-beer-tsingtao: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 47369}
   ratebeer: {score: 83, year: 2022}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感柔顺，香蕉与丁香风味突出
 - **余味**：余味清爽，带香料
 - **风味标签**：香蕉, 丁香, 麦芽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

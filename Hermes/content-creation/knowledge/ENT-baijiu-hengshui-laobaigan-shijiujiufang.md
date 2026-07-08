@@ -4,10 +4,11 @@ title: 衡水老白干 十九酒坊
 category: ENT
 tags: [白酒, 老白干香, 河北, 衡水老白干]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-baijiu-hengshui-laobaigan-gufa-20, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
-related_typed: {ENT-baijiu-hengshui-laobaigan-gufa-20: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-baijiu-hengshui-laobaigan-gufa-20, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
+related_typed: {ENT-baijiu-hengshui-laobaigan-gufa-20: same_brand, ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 31232}
   csl: {score: 88, year: 2020}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚凛冽，高度爽净
 - **余味**：余味悠长，劲爽干净
 - **风味标签**：醇香, 粮香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

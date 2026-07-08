@@ -4,10 +4,11 @@ title: 菲丽宝娜歌斯园 2012
 category: ENT
 tags: [起泡酒, 香槟, Philipponnat, 独占园]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken]
-related_typed: {ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009: same_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition]
+related_typed: {ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009: same_region, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 21469}
   wine_spectator: {score: 87, year: 2020}
@@ -56,6 +57,16 @@ Philipponnat 独占园年份香槟，Clos des Goisses 陡坡园地。
 - **口感**：酒体饱满，气泡细腻，结构深邃
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：烤面包, 坚果, 柑橘, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

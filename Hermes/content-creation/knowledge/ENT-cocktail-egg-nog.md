@@ -4,10 +4,12 @@ title: 蛋奶酒
 category: ENT
 tags: [鸡尾酒, 潘趣, 波本, 干邑, 圣诞]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-brandy-hennessy-xo, ENT-cocktail-saketini]
-related_typed: {ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-brandy-hennessy-xo, ENT-cocktail-saketini]
+related_typed: {ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 49286}
   diffords: {score: 4.4, year: 2020}

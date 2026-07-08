@@ -4,10 +4,11 @@ title: 雅伯 10 年
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 烟熏]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-ardbeg-uigeadail, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8, ENT-whisky-bowmore-12, ENT-whisky-bowmore-15]
 related_typed: {ENT-whisky-ardbeg-uigeadail: same_brand, ENT-whisky-lagavulin-16: same_region, ENT-whisky-lagavulin-8: same_region, ENT-whisky-bowmore-12: same_region, ENT-whisky-bowmore-15: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 27846}
   whisky_fun: {score: 90, year: 2022}
@@ -61,6 +62,16 @@ awards:
 - **口感**：烟熏浓烈，甜润平衡
 - **余味**：余味悠长，烟熏辛辣
 - **风味标签**：泥煤, 烟熏, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -1,0 +1,105 @@
+---
+id: ENT-brand-bacardi-carta-blanca
+title: 百加得白朗姆
+category: ENT
+tags: [朗姆酒, 古巴, 波多黎各, 白朗姆]
+status: active
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rum-off-181-bacardi-razz, ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23]
+related_typed: {ENT-rum-off-181-bacardi-razz: same_brand, ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: same_subcat}
+data_confidence: official
+data_source: 品牌官方/Wikipedia
+ratings:
+  vivino: {score: 4.8, votes: 32993}
+  wine_enthusiast: {score: 88, year: 2022}
+awards:
+  - {name: San Francisco Silver, year: 2020, org: San Francisco}
+---
+
+# 百加得白朗姆
+
+**Bacardi Carta Blanca**
+
+## 概述
+
+古巴起源的轻型朗姆酒，全球销量最大的朗姆酒品牌。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bacardi%20Carta%20Blanca%20rum%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Bacardi%20Carta%20Blanca%20rum)
+- [Google 图片](https://www.google.com/search?q=Bacardi%20Carta%20Blanca%20rum%20bottle&tbm=isch)
+
+## 基础信息
+
+- **中文名**：百加得白朗姆
+- **外文名**：Bacardi Carta Blanca
+- **分类**：朗姆酒
+- **产地**：波多黎各 / 波多黎各
+- **生产商**：Bacardi
+- **酒精度**：40%
+- **容量**：750ml
+- **参考价格（RMB）**：¥100-180
+- **价格档位**：daily
+
+## 生产工艺
+
+- **原料**：糖蜜、水、酵母
+- **酿造方法**：
+
+糖蜜发酵后柱式蒸馏，活性炭过滤后橡木桶陈酿
+- **陈酿方式**：橡木桶陈酿至少 1 年
+
+## 风味描述
+
+- **颜色**：无色透明
+- **香气**：香草、杏仁、果香、微甜
+- **口感**：香草、杏仁、果香、微甜
+- **余味**：清爽柔顺回甘
+- **风味标签**：香草, 杏仁, 果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 32993 |
+| Wine Enthusiast | 88 | 2022 |
+
+### 获奖记录
+
+- **2020** San Francisco Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：室温
+- **推荐酒杯**：烈酒杯
+- **佐餐搭配**：因酒而异
+
+## 文化背景
+
+### 历史
+
+1862 年由 Don Facundo Bacardí 创立于古巴圣地亚哥，开创轻型朗姆酒工艺。
+
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。

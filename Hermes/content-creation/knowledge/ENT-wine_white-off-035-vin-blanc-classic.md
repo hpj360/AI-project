@@ -4,10 +4,11 @@ title: Vin blanc Classic
 category: ENT
 tags: [OpenFoodFacts, wine_white, 白葡萄酒, Domaine de Tariquet]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine_white-off-037-bree-chardonnay-weisswein, ENT-wine_white-off-046-graves-aoc-rouge, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine_white-off-037-bree-chardonnay-weisswein: same_region, ENT-wine_white-off-046-graves-aoc-rouge: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 8090}
   parker: {score: 88, year: 2020}
@@ -57,6 +58,16 @@ OpenFoodFacts 真实产品数据：Vin blanc Classic（Domaine de Tariquet），
 - **口感**：果味、酸度
 - **余味**：清爽回甘
 - **风味标签**：柑橘, 果味, 清爽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

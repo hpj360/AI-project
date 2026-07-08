@@ -4,10 +4,11 @@ title: 朗匿可 Ronrico
 category: ENT
 tags: [朗姆酒, 波多黎各, Ronrico]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara, ENT-rum-off-169-caribbean-rum-with-coconut-flavour, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour, ENT-rum-off-171-saint-james]
-related_typed: {ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-171-saint-james: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum]
+related_typed: {ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat, ENT-rum-off-167-spiced-rum: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 44952}
   wine_enthusiast: {score: 88, year: 2021}
@@ -59,6 +60,16 @@ Ronrico，波多黎各朗姆，轻盈中性，调酒常用。
 - **口感**：轻盈中性，淡香草
 - **余味**：余味爽净，纯净柔和
 - **风味标签**：中性, 香草, 谷物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

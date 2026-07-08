@@ -4,10 +4,11 @@ title: 水晶 Kristall
 category: ENT
 tags: [伏特加, 俄罗斯, Kristall]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-stolichnaya, ENT-vodka-stolichnaya-soviet, ENT-vodka-polugar, ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona]
-related_typed: {ENT-vodka-stolichnaya: same_region, ENT-vodka-stolichnaya-soviet: same_region, ENT-vodka-polugar: same_region, ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-stolichnaya, ENT-vodka-stolichnaya-soviet, ENT-vodka-polugar, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
+related_typed: {ENT-vodka-stolichnaya: same_region, ENT-vodka-stolichnaya-soviet: same_region, ENT-vodka-polugar: same_region, ENT-vodka-off-142-poliakov: same_subcat, ENT-vodka-off-143-vodka-triple-distilled: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 19710}
   wine_enthusiast: {score: 86, year: 2022}
@@ -56,6 +57,16 @@ Kristall，俄罗斯水晶伏特加，莫斯科水晶酒厂出品。
 - **口感**：纯净顺滑，矿物谷物
 - **余味**：余味爽净，纯净柔和
 - **风味标签**：谷物, 矿物, 花香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

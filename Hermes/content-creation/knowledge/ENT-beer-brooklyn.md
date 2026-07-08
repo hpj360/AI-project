@@ -4,10 +4,11 @@ title: 布鲁克林啤酒
 category: ENT
 tags: [啤酒, 美国, 布鲁克林, 拉格, 精酿]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
 related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 45712}
   ratebeer: {score: 83, year: 2021}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感中等酒体，麦芽与苦度平衡
 - **余味**：余味微苦，带麦芽
 - **风味标签**：麦芽, 啤酒花, 果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

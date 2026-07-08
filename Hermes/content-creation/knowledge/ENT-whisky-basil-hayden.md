@@ -4,10 +4,11 @@ title: 巴兹海登
 category: ENT
 tags: [威士忌, 美国, 波本, 小批量]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-makers-mark-bourbon, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch, ENT-whisky-four-roses-single-barrel, ENT-whisky-jim-bean-white]
 related_typed: {ENT-whisky-makers-mark-bourbon: same_region, ENT-whisky-makers-mark-46: same_region, ENT-whisky-four-roses-small-batch: same_region, ENT-whisky-four-roses-single-barrel: same_region, ENT-whisky-jim-bean-white: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.3, votes: 16648}
   whisky_fun: {score: 82, year: 2023}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：轻盈辛香，胡椒薄荷
 - **余味**：余味悠长，清爽辛香
 - **风味标签**：胡椒, 薄荷, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

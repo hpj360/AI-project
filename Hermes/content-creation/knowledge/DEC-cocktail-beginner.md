@@ -1,0 +1,61 @@
+---
+id: DEC-cocktail-beginner
+title: 鸡尾酒入门推荐决策
+category: ENT
+tags: [DEC, 鸡尾酒, 入门, 决策]
+status: active
+created: 2026-07-08
+updated: 2026-07-08
+related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-whisky-tasting, SOP-sake-tasting, SOP-baijiu-tasting]
+related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat}
+data_confidence: official
+data_source: IBA 经典鸡尾酒指南
+---
+# 鸡尾酒入门推荐决策
+
+## 概述
+
+根据口味、酒量、场合为新手推荐鸡尾酒的决策流程。
+
+## 决策流程
+
+### 第 1 步：口味偏好
+- 甜口 → 莫吉托、玛格丽特、椰林飘香
+- 酸口 → 玛格丽特、威士忌酸、柯梦波丹
+- 苦口 → 内格罗尼、古典、曼哈顿
+- 清爽 → 莫吉托、金汤力、阿佩罗开胃酒
+- 浓烈 → 古典、曼哈顿、马天尼
+
+### 第 2 步：酒量评估
+- 不胜酒力（易醉）→ 低酒精度：莫吉托、阿佩罗、含气泡款
+- 一般 → 中等：玛格丽特、威士忌酸、金汤力
+- 较好 → 较烈：古典、曼哈顿、马天尼
+- 优秀 → 烈酒系：内格罗尼、马天尼干、神风
+
+### 第 3 步：基酒偏好
+- 朗姆 → 莫吉托、椰林飘香、戴基里
+- 金酒 → 金汤力、马天尼、柯梦波丹
+- 伏特加 → 螺丝刀、莫斯科骡子、血腥玛丽
+- 威士忌 → 古典、曼哈顿、威士忌酸
+- 龙舌兰 → 玛格丽特、龙舌兰日出
+- 白兰地 → 旁车、白兰地亚历山大
+
+### 第 4 步：场合
+- 餐前开胃 → 金汤力、马天尼、香槟鸡尾酒
+- 餐后 → 古典、内格罗尼、白兰地亚历山大
+- 派对 → 莫吉托、长岛冰茶、椰林飘香
+- 夏日 → 莫吉托、阿佩罗、莫斯科骡子
+
+### 第 5 步：难度（点单 vs 自制）
+- 简单自制 → 莫吉托、金汤力、螺丝刀
+- 中等 → 玛格丽特、威士忌酸
+- 复杂 → 马天尼、内格罗尼、曼哈顿（需精确比例）
+
+### 入门推荐组合
+- 新手第一款：莫吉托（清爽/低酒精/易接受）
+- 进阶第二款：玛格丽特（酸甜平衡）
+- 探索第三款：古典（烈酒入门）
+- 重口味：内格罗尼（苦味进阶）
+
+
+> 数据来源：IBA 经典鸡尾酒指南

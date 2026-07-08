@@ -4,10 +4,11 @@ title: 汾酒 青花 30
 category: ENT
 tags: [白酒, 清香, 山西, 汾酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-fenjiu-laobaifen-10, ENT-baijiu-fenjiu-huangai-bofen, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-fenjiu-laobaifen-10: same_brand, ENT-baijiu-fenjiu-huangai-bofen: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 32987}
   csl: {score: 98, year: 2020}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚绵柔，清雅细腻
 - **余味**：余味悠长，纯净甘爽
 - **风味标签**：清香, 陈香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

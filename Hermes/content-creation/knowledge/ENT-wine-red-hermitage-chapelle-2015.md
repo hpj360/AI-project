@@ -4,10 +4,11 @@ title: 埃米塔日小教堂 2015
 category: ENT
 tags: [红酒, 罗讷河谷, 北罗讷, 西拉]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-chave-hermitage-2015, ENT-wine_red-off-003-adama, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza]
-related_typed: {ENT-wine-red-chave-hermitage-2015: same_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-chave-hermitage-2015, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-red-chave-hermitage-2015: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 2543}
   parker: {score: 82, year: 2021}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁强劲，结构宏厚
 - **余味**：余味极悠长，带辛香与黑巧
 - **风味标签**：黑莓, 黑胡椒, 烟熏, 皮革
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

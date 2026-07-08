@@ -4,10 +4,11 @@ title: 杏子酒
 category: ENT
 tags: [果酒, 杏子, 核果, 中国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-tsurume-umeshu]
-related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-fruit-wine-tsurume-umeshu: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-baike-fruit_wine-jinjiu, ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-baike-fruit_wine-juhua-jiu, ENT-fruit-wine-choya-umeshu]
+related_typed: {ENT-baike-fruit_wine-jinjiu: cross_region, ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-baike-fruit_wine-juhua-jiu: cross_region, ENT-fruit-wine-choya-umeshu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.3, votes: 44889}
   wine_enthusiast: {score: 81, year: 2022}
@@ -53,6 +54,16 @@ ratings:
 - **口感**：酸甜平衡，杏子风味突出
 - **余味**：余味果香悠长，带杏仁
 - **风味标签**：杏子, 杏仁, 酸甜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

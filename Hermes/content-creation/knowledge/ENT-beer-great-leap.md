@@ -4,10 +4,11 @@ title: 大跃啤酒
 category: ENT
 tags: [啤酒, 中国, 大跃, 精酿, 北京]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-snow, ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-slowboat, ENT-beer-nbpt]
 related_typed: {ENT-beer-snow: same_region, ENT-beer-yanjing: same_region, ENT-beer-jing-a: same_region, ENT-beer-slowboat: same_region, ENT-beer-nbpt: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 43179}
   ratebeer: {score: 89, year: 2021}
@@ -57,6 +58,16 @@ awards:
 - **口感**：口感中等酒体，本土香料风味突出
 - **余味**：余味微苦，带香料
 - **风味标签**：花椒, 麦芽, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

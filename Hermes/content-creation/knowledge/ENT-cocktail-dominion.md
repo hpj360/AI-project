@@ -4,10 +4,12 @@ title: 自治领
 category: ENT
 tags: [鸡尾酒, 现代经典, 黑麦, 枫糖, 加拿大]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail, ENT-cocktail-baijiu-sour]
 related_typed: {ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat, ENT-cocktail-baijiu-sour: same_subcat}
+data_confidence: simulated
+data_source: 加拿大配方
 ratings:
   vivino: {score: 4.6, votes: 26339}
   diffords: {score: 4.17, year: 2022}

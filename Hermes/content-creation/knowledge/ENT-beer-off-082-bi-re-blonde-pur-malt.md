@@ -4,10 +4,11 @@ title: Bière blonde pur malt
 category: ENT
 tags: [OpenFoodFacts, beer, 啤酒, Jade]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-off-083-biere-blonde-sans-gluten-jade, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona, ENT-beer-tsingtao-pure-draft]
 related_typed: {ENT-beer-off-083-biere-blonde-sans-gluten-jade: same_brand, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.0, votes: 31309}
   ratebeer: {score: 79, year: 2020}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Bière blonde pur malt（Jade），产地 Eur
 - **口感**：麦芽、蜂蜜、微苦
 - **余味**：苦味回甘
 - **风味标签**：麦芽, 蜂蜜, 微苦
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

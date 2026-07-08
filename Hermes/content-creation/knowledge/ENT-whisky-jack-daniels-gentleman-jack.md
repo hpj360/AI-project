@@ -4,10 +4,11 @@ title: 杰克丹尼 绅士杰克
 category: ENT
 tags: [威士忌, 美国, 田纳西威士忌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-old-no7, ENT-whisky-jack-daniels-single-barrel, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards, ENT-whisky-off-249-jhonnie-walker-red-label-1l]
-related_typed: {ENT-whisky-off-261-tennessee-whiskey: same_brand, ENT-whisky-jack-daniels-old-no7: same_brand, ENT-whisky-jack-daniels-single-barrel: same_brand, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-old-no7, ENT-whisky-jack-daniels-single-barrel, ENT-brand-yamazaki-12]
+related_typed: {ENT-whisky-off-247-whisky-old-n-7: same_brand, ENT-whisky-off-261-tennessee-whiskey: same_brand, ENT-whisky-jack-daniels-old-no7: same_brand, ENT-whisky-jack-daniels-single-barrel: same_region, ENT-brand-yamazaki-12: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 10516}
   whisky_fun: {score: 83, year: 2020}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：柔顺甜润，香草蜂蜜
 - **余味**：余味悠长，柔顺温暖
 - **风味标签**：香草, 焦糖, 蜂蜜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

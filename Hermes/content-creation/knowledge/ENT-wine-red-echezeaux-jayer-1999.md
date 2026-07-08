@@ -4,10 +4,11 @@ title: 伊瑟索 Jayer 1999
 category: ENT
 tags: [红酒, 勃艮第, 特级园, 传奇]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-echezeaux-drc-2015, ENT-wine_red-off-003-adama, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
-related_typed: {ENT-wine-red-grands-echezeaux-2015: same_region, ENT-wine-red-echezeaux-drc-2015: same_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-echezeaux-drc-2015, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
+related_typed: {ENT-wine-red-grands-echezeaux-2015: same_region, ENT-wine-red-echezeaux-drc-2015: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 11589}
   parker: {score: 87, year: 2022}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体丝滑，单宁如羽，结构精妙
 - **余味**：余味极悠长，带花香与矿物
 - **风味标签**：红樱桃, 覆盆子, 玫瑰, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

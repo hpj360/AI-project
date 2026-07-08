@@ -4,10 +4,11 @@ title: Bacardi Razz
 category: ENT
 tags: [OpenFoodFacts, rum, 朗姆酒, Bacardi]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-168-masskara, ENT-rum-off-165-rhum-ambr]
-related_typed: {ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-168-masskara: cross_region, ENT-rum-off-165-rhum-ambr: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold]
+related_typed: {ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 35022}
   wine_enthusiast: {score: 90, year: 2021}
@@ -58,6 +59,16 @@ OpenFoodFacts 真实产品数据：Bacardi Razz（Bacardi）
 - **口感**：甜润、焦糖
 - **余味**：甜润回甘
 - **风味标签**：甘蔗, 焦糖, 甜润
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

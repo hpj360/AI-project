@@ -4,10 +4,11 @@ title: 雷卡雷多摩塔园 2010
 category: ENT
 tags: [起泡酒, 卡瓦, Recaredo, 单一园, 年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-049-mateus-ros-original]
-related_typed: {ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-048-clairette-de-die-tradition]
+related_typed: {ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 36636}
   wine_spectator: {score: 83, year: 2022}
@@ -56,6 +57,16 @@ Recaredo 单一园年份卡瓦， Turó d'en Mota 园地 60 年老藤。
 - **口感**：酒体饱满，气泡细腻，结构深邃
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：烤面包, 坚果, 柑橘蜜饯, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

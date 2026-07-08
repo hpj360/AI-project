@@ -4,10 +4,11 @@ title: 蒙哈榭乐弗莱夫 2014
 category: ENT
 tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-chevalier-montrachet-leflaive-2015, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine-white-puligny-pucelles-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-combettes-leflaive-2016]
 related_typed: {ENT-wine-white-chevalier-montrachet-leflaive-2015: same_brand, ENT-wine-white-batard-montrachet-leflaive-2015: same_brand, ENT-wine-white-puligny-pucelles-leflaive-2015: same_brand, ENT-wine-white-montrachet-drc-2014: same_region, ENT-wine-white-puligny-combettes-leflaive-2016: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 8542}
   parker: {score: 85, year: 2023}
@@ -58,6 +59,16 @@ ratings:
 - **口感**：酒体丰满，酸度活泼，层次复杂
 - **余味**：余味极悠长，带矿物与辛香
 - **风味标签**：白花, 奶油, 烤面包, 榛子
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

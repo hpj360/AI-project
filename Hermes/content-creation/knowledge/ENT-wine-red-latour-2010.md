@@ -4,10 +4,11 @@ title: 拉图城堡 2010
 category: ENT
 tags: [红酒, 波尔多, 一级庄]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-lafite-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016, ENT-wine-red-pichon-lalande-2016, ENT-wine-red-lynch-bages-2016]
-related_typed: {ENT-wine-red-lafite-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region, ENT-wine-red-pichon-lalande-2016: same_region, ENT-wine-red-lynch-bages-2016: same_region}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-latour, ENT-wine-red-lafite-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016, ENT-wine-red-pichon-lalande-2016]
+related_typed: {ENT-brand-latour: same_brand, ENT-wine-red-lafite-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region, ENT-wine-red-pichon-lalande-2016: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 16116}
   parker: {score: 98, year: 2021}
@@ -63,6 +64,16 @@ awards:
 - **口感**：酒体雄壮，单宁紧致，结构宏大
 - **余味**：余味悠长，带烟熏与黑巧
 - **风味标签**：黑醋栗, 雪松, 皮革, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

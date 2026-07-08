@@ -4,10 +4,11 @@ title: 巴塔蒙哈榭拉莫内 2015
 category: ENT
 tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-criots-batard-ramonet-2015, ENT-wine-white-chassagne-caillerets-ramonet-2016, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine-white-criots-batard-ramonet-2015: same_brand, ENT-wine-white-chassagne-caillerets-ramonet-2016: same_brand, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 23089}
   parker: {score: 84, year: 2022}
@@ -58,6 +59,16 @@ Ramonet 家族的旗舰特级园，风格浓郁奔放。
 - **口感**：酒体极丰满，单宁柔顺，富有力量
 - **余味**：余味极悠长，带坚果与奶油
 - **风味标签**：奶油, 烤面包, 榛子, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

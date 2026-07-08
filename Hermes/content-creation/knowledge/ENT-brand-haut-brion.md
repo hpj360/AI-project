@@ -1,0 +1,105 @@
+---
+id: ENT-brand-haut-brion
+title: 奥比昂城堡
+category: ENT
+tags: [红酒, 波尔多, 一级庄, 赤霞珠]
+status: active
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-haut-brion-2016, ENT-wine-red-la-mission-haut-brion-2016, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux]
+related_typed: {ENT-wine-red-haut-brion-2016: same_brand, ENT-wine-red-la-mission-haut-brion-2016: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: same_subcat}
+data_confidence: official
+data_source: 品牌官方/Wikipedia
+ratings:
+  vivino: {score: 4.8, votes: 41393}
+  parker: {score: 85, year: 2020}
+  wine_spectator: {score: 87, year: 2020}
+  james_suckling: {score: 85, year: 2023}
+  cellar_tracker: {score: 4.8, votes: 4694}
+---
+
+# 奥比昂城堡
+
+**Château Haut-Brion**
+
+## 概述
+
+法国波尔多佩萨克一级庄，唯一非梅多克的一级庄，历史最悠久。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ch%C3%A2teau%20Haut-Brion%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Ch%C3%A2teau%20Haut-Brion%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Ch%C3%A2teau%20Haut-Brion%20wine_red%20bottle&tbm=isch)
+
+## 基础信息
+
+- **中文名**：奥比昂
+- **外文名**：Château Haut-Brion
+- **分类**：红葡萄酒
+- **产地**：法国 / 波尔多佩萨克
+- **生产商**：Domaine Clarence Dillon
+- **酒精度**：13%
+- **容量**：750ml
+- **参考价格（RMB）**：¥7000-18000
+- **价格档位**：collection
+
+## 生产工艺
+
+- **原料**：赤霞珠、梅洛、品丽珠
+- **酿造方法**：
+
+手工采摘温控发酵，法国新橡木桶陈酿
+- **陈酿方式**：法国新橡木桶陈酿约 18 个月
+
+## 风味描述
+
+- **颜色**：深宝石红
+- **香气**：黑加仑、雪松、泥土、烟熏
+- **口感**：酒体饱满，单宁柔顺，复杂优雅
+- **余味**：悠长烟熏回甘
+- **风味标签**：黑加仑, 雪松, 烟熏
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 41393 |
+| Robert Parker (WA) | 85 | 2020 |
+| Wine Spectator | 87 | 2020 |
+| James Suckling | 85 | 2023 |
+| CellarTracker | 4.8 | 4694 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：室温
+- **推荐酒杯**：烈酒杯
+- **佐餐搭配**：因酒而异
+
+## 文化背景
+
+### 历史
+
+1533 年 Jean de Pontac 建立，是波尔多最古老的名庄，1855 年分级一级庄。
+
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。

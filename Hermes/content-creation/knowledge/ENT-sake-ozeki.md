@@ -4,10 +4,11 @@ title: 大关
 category: ENT
 tags: [清酒, 日本, 本酿造, 大关, 兵库]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux, ENT-sake-off-103-sak-pour-cuisine, ENT-sake-off-104-assaisonnement-sak-sucr-mirin-kikkoman-375ml-12-5]
 related_typed: {ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: cross_region, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat, ENT-sake-off-103-sak-pour-cuisine: same_subcat, ENT-sake-off-104-assaisonnement-sak-sucr-mirin-kikkoman-375ml-12-5: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 31990}
   sake_revue: {score: 87, year: 2022}
@@ -58,6 +59,16 @@ awards:
 - **口感**：口感清爽，甜度低
 - **余味**：余味干净
 - **风味标签**：清爽, 米香, 辛口
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

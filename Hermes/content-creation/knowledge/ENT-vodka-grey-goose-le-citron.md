@@ -4,10 +4,11 @@ title: 灰雁 柠檬
 category: ENT
 tags: [伏特加, 调味, 法国, 灰雁]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-156-grey-goose-original, ENT-vodka-grey-goose-original, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
-related_typed: {ENT-vodka-off-156-grey-goose-original: same_brand, ENT-vodka-grey-goose-original: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-off-156-grey-goose-original, ENT-vodka-grey-goose-original, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia]
+related_typed: {ENT-vodka-off-156-grey-goose-original: same_brand, ENT-vodka-grey-goose-original: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 15417}
   wine_enthusiast: {score: 83, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：柔顺清新，柠檬皮香
 - **余味**：余味悠长，清新柠檬
 - **风味标签**：柠檬, 柑橘, 花香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

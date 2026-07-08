@@ -4,10 +4,11 @@ title: 方瑟卡二十年茶色波特
 category: ENT
 tags: [加强酒, 波特, 茶色, 陈年]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-warres-vintage-port-2016]
 related_typed: {ENT-wine-fortified-fonseca-vintage-port-2017: same_brand, ENT-wine-fortified-grahams-vintage-port-2017: same_region, ENT-wine-fortified-dows-vintage-port-2016: same_region, ENT-wine-fortified-taylors-vintage-port-2016: same_region, ENT-wine-fortified-warres-vintage-port-2016: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 42529}
   wine_spectator: {score: 87, year: 2021}
@@ -56,6 +57,16 @@ Fonseca 20 年茶色波特，丰腴甜美氧化风格。
 - **口感**：酒体饱满，甜美平衡，富有层次
 - **余味**：余味极悠长，带坚果与蜜饯
 - **风味标签**：坚果, 蜜饯, 焦糖, 橙皮
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

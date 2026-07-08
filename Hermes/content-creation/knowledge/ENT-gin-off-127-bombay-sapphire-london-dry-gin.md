@@ -4,10 +4,11 @@ title: Bombay Sapphire London Dry Gin
 category: ENT
 tags: [OpenFoodFacts, gin, 金酒, Bombay Sapphire]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-gin-off-124-gin-tonic, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks]
-related_typed: {ENT-gin-off-124-gin-tonic: same_brand, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-gin-off-124-gin-tonic, ENT-gin-beefeater-24, ENT-gin-hendricks, ENT-gin-hendricks-lunar, ENT-gin-monkey-47]
+related_typed: {ENT-gin-off-124-gin-tonic: same_brand, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat, ENT-gin-hendricks-lunar: same_subcat, ENT-gin-monkey-47: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 35766}
   wine_enthusiast: {score: 96, year: 2020}
@@ -57,6 +58,16 @@ OpenFoodFacts 真实产品数据：Bombay Sapphire London Dry Gin（Bombay Sapph
 - **口感**：杜松子、香料、柑橘
 - **余味**：草本回甘
 - **风味标签**：杜松子, 草本, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 格兰杰 10 年原桶
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 高地]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-glenmorangie-lasanta, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-clynelish-14, ENT-whisky-off-247-whisky-old-n-7]
-related_typed: {ENT-whisky-glenmorangie-lasanta: same_brand, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-clynelish-14: same_region, ENT-whisky-off-247-whisky-old-n-7: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-glenmorangie-lasanta, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-clynelish-14, ENT-brand-jack-daniels-no7]
+related_typed: {ENT-whisky-glenmorangie-lasanta: same_brand, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-clynelish-14: same_region, ENT-brand-jack-daniels-no7: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 580}
   whisky_fun: {score: 90, year: 2020}
@@ -61,6 +62,16 @@ awards:
 - **口感**：清新花香，香草柑橘
 - **余味**：余味悠长，柔和清新
 - **风味标签**：花香, 香草, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

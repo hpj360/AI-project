@@ -4,10 +4,12 @@ title: 姜姜骡子
 category: ENT
 tags: [鸡尾酒, 现代经典, 金酒, 姜, 薄荷]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-earl-grey-marteani, ENT-cocktail-pegu-club-cocktail, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins]
 related_typed: {ENT-cocktail-earl-grey-marteani: same_brand, ENT-cocktail-pegu-club-cocktail: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region}
+data_confidence: simulated
+data_source: Pegu Club 配方
 ratings:
   vivino: {score: 4.8, votes: 5857}
   diffords: {score: 4.25, year: 2021}

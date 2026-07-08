@@ -4,10 +4,11 @@ title: 百富 14 年卡瑞杜
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-balvenie-12-doublewood, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-classic-cut]
 related_typed: {ENT-whisky-balvenie-12-doublewood: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region, ENT-whisky-macallan-classic-cut: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 38974}
   whisky_fun: {score: 87, year: 2020}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：醇厚甜润，热带水果
 - **余味**：余味悠长，朗姆甜润
 - **风味标签**：热带水果, 太妃糖, 朗姆
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

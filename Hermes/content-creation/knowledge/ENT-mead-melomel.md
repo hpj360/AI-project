@@ -4,10 +4,11 @@ title: 水果蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 英国, 水果, mead]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-traditional, ENT-mead-cyser, ENT-mead-ginger, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-traditional: same_brand, ENT-mead-cyser: same_region, ENT-mead-ginger: same_region, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 3.8, votes: 31026}
   wine_enthusiast: {score: 79, year: 2021}
@@ -54,6 +55,16 @@ Melomel 水果蜂蜜酒，蜂蜜与多种水果共同发酵，果香浓郁。
 - **口感**：甜润果香，蜂蜜与水果平衡
 - **余味**：余味果香悠长，带蜜甜
 - **风味标签**：水果, 蜂蜜, 甜润
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 金剑南 K6
 category: ENT
 tags: [白酒, 浓香, 四川, 剑南春]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu]
 related_typed: {ENT-baijiu-jiannanchun-shuijingjian: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 30038}
   csl: {score: 93, year: 2022}
@@ -59,6 +60,16 @@ awards:
 - **口感**：绵甜柔和，浓香风格
 - **余味**：余味爽净
 - **风味标签**：窖香, 果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

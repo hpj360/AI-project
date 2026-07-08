@@ -4,10 +4,11 @@ title: SILVER tequila 40%
 category: ENT
 tags: [OpenFoodFacts, tequila, 龙舌兰, PATRON]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-186-tequila, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado, ENT-tequila-off-188-tequila-estribos]
-related_typed: {ENT-tequila-off-183-tequila-gold: cross_region, ENT-tequila-off-184-sierra-tequila-silver: cross_region, ENT-tequila-off-186-tequila: cross_region, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado: cross_region, ENT-tequila-off-188-tequila-estribos: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco]
+related_typed: {ENT-brand-jose-cuervo-especial: cross_region, ENT-brand-patron-silver: cross_region, ENT-brand-don-julio-blanco: cross_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 31639}
   wine_enthusiast: {score: 83, year: 2021}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：SILVER tequila 40%（PATRON），产地 Italy
 - **口感**：龙舌兰、胡椒、柑橘
 - **余味**：草本回甘
 - **风味标签**：龙舌兰, 草本, 胡椒
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

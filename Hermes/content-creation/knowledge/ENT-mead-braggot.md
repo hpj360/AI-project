@@ -4,10 +4,11 @@ title: 麦芽蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 英国, 麦芽, mead]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey, ENT-mead-yunnan-wild-honey, ENT-mead-huangshan-honey]
 related_typed: {ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: cross_region, ENT-mead-yunnan-wild-honey: cross_region, ENT-mead-huangshan-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 6730}
   wine_enthusiast: {score: 90, year: 2022}
@@ -56,6 +57,16 @@ Braggot 麦芽蜂蜜酒，蜂蜜与麦芽共同酿造，兼具啤酒与蜂蜜酒
 - **口感**：甜润饱满，麦芽与蜂蜜交织
 - **余味**：余味带麦芽甜与淡淡苦味
 - **风味标签**：麦芽, 蜂蜜, 焦糖
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

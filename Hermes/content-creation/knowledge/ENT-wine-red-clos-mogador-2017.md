@@ -4,10 +4,11 @@ title: 克洛莫加多 2017
 category: ENT
 tags: [红酒, 西班牙, Priorat]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-alvaro-palacios-lermita-2017, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru]
-related_typed: {ENT-wine-red-alvaro-palacios-lermita-2017: same_region, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-alvaro-palacios-lermita-2017, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir]
+related_typed: {ENT-wine-red-alvaro-palacios-lermita-2017: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 43986}
   parker: {score: 85, year: 2022}
@@ -59,6 +60,16 @@ Priorat 名庄，由 René Barbier 创立，是 Priorat 复兴的奠基者。
 - **口感**：酒体饱满，单宁紧致，富有矿物感
 - **余味**：余味极悠长，带矿物与黑巧
 - **风味标签**：黑莓, 黑樱桃, 矿物, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

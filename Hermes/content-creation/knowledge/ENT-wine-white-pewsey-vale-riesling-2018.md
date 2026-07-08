@@ -4,10 +4,11 @@ title: 皮尤西谷雷司令 2018
 category: ENT
 tags: [白酒, 澳大利亚, 雷司令, Eden Valley]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-036-vin-d-espagne-blanc, ENT-wine_white-off-037-bree-chardonnay-weisswein]
 related_typed: {ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat, ENT-wine_white-off-036-vin-d-espagne-blanc: same_subcat, ENT-wine_white-off-037-bree-chardonnay-weisswein: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.6, votes: 39191}
   parker: {score: 84, year: 2020}
@@ -58,6 +59,16 @@ ratings:
 - **口感**：酒体轻，酸度凌厉，纯净优雅
 - **余味**：余味悠长，带矿物与花香
 - **风味标签**：青柠, 白桃, 矿物, 白花
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

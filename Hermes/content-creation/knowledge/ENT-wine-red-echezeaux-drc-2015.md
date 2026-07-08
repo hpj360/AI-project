@@ -4,10 +4,11 @@ title: 伊瑟索 2015
 category: ENT
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-echezeaux-jayer-1999]
-related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-red-grands-echezeaux-2015: same_region, ENT-wine-red-echezeaux-jayer-1999: same_region}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-romanee-conti, ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-echezeaux-jayer-1999]
+related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-grands-echezeaux-2015: same_region, ENT-wine-red-echezeaux-jayer-1999: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.5, votes: 20892}
   parker: {score: 82, year: 2021}
@@ -59,6 +60,16 @@ DRC 在 Échézeaux 的地块酿造，风格开放柔美。
 - **口感**：酒体优雅，单宁柔顺，富有层次
 - **余味**：余味悠长，带花香与矿物
 - **风味标签**：红樱桃, 覆盆子, 玫瑰, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

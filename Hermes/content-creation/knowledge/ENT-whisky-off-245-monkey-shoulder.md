@@ -4,10 +4,11 @@ title: Monkey Shoulder
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, Monkey Shoulder]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-266-clan-campbell, ENT-whisky-off-267-blended-scotch-whisky, ENT-whisky-off-270-red-label, ENT-whisky-off-276-single-malt-scotch-whisky, ENT-whisky-off-246-jack-daniel-s-no-7]
-related_typed: {ENT-whisky-off-266-clan-campbell: same_region, ENT-whisky-off-267-blended-scotch-whisky: same_region, ENT-whisky-off-270-red-label: same_region, ENT-whisky-off-276-single-malt-scotch-whisky: same_region, ENT-whisky-off-246-jack-daniel-s-no-7: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-266-clan-campbell, ENT-whisky-off-267-blended-scotch-whisky, ENT-whisky-off-270-red-label, ENT-whisky-off-276-single-malt-scotch-whisky]
+related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_region, ENT-whisky-off-266-clan-campbell: same_region, ENT-whisky-off-267-blended-scotch-whisky: same_region, ENT-whisky-off-270-red-label: same_region, ENT-whisky-off-276-single-malt-scotch-whisky: same_region}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 32603}
   whisky_fun: {score: 85, year: 2022}
@@ -56,6 +57,16 @@ OpenFoodFacts 真实产品数据：Monkey Shoulder（Monkey Shoulder），产地
 - **口感**：橡木、麦芽、微甜
 - **余味**：橡木回甘
 - **风味标签**：橡木, 麦芽, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

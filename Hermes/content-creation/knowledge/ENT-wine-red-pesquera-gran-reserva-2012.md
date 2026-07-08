@@ -4,10 +4,11 @@ title: 贝尔德诺珍藏 2012
 category: ENT
 tags: [红酒, 西班牙, Ribera del Duero, 丹魄]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-vega-sicilia-unico-2010, ENT-wine-red-pingus-2015, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto]
-related_typed: {ENT-wine-red-vega-sicilia-unico-2010: same_region, ENT-wine-red-pingus-2015: same_region, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-vega-sicilia-unico-2010, ENT-wine-red-pingus-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-red-vega-sicilia-unico-2010: same_region, ENT-wine-red-pingus-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 39155}
   parker: {score: 87, year: 2022}
@@ -62,6 +63,16 @@ Ribera del Duero 现代风格先驱，由 Alejandro Fernández 复兴。
 - **口感**：酒体饱满，单宁柔顺，富有层次
 - **余味**：余味悠长，带香草与辛香
 - **风味标签**：红樱桃, 香草, 烟熏, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

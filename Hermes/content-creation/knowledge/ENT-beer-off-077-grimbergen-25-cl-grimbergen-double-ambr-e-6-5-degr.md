@@ -4,10 +4,11 @@ title: Grimbergen 25 cl Grimbergen Double Ambrèe 6.5 DEGRE ALCOOL
 category: ENT
 tags: [OpenFoodFacts, beer, 啤酒, GRIMBERGEN]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-off-073-blond, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona, ENT-beer-tsingtao-pure-draft]
 related_typed: {ENT-beer-off-073-blond: same_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 38085}
   ratebeer: {score: 87, year: 2023}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：Grimbergen 25 cl Grimbergen Double Ambrèe 6.
 - **口感**：麦芽、苦味、果香
 - **余味**：苦味回甘
 - **风味标签**：麦芽, 啤酒花, 苦味
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

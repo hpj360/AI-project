@@ -4,10 +4,11 @@ title: 白州 12 年
 category: ENT
 tags: [威士忌, 日本, 单一麦芽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-gin-roku, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-hakushu-18, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards]
-related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-hakushu-18: same_region, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-gin-roku, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-hakushu-18, ENT-brand-jim-beam-white]
+related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-hakushu-18: same_region, ENT-brand-jim-beam-white: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 17895}
   whisky_fun: {score: 86, year: 2023}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：清新草本，薄荷柑橘
 - **余味**：余味悠长，清新爽净
 - **风味标签**：薄荷, 草本, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

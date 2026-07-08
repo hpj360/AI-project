@@ -4,10 +4,12 @@ title: 临别赠言
 category: ENT
 tags: [鸡尾酒, 禁酒令, 金酒, 查特酒, 均衡]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-bull-shot, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-martini]
 related_typed: {ENT-cocktail-bull-shot: same_region, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail, ENT-gin-tanqueray-london-dry: base_to_cocktail, ENT-cocktail-sake-martini: same_subcat}
+data_confidence: simulated
+data_source: 禁酒令时代配方
 ratings:
   vivino: {score: 4.8, votes: 41876}
   diffords: {score: 4.44, year: 2023}

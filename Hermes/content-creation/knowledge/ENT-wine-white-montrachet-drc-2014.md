@@ -4,10 +4,11 @@ title: 蒙哈榭 DRC 2014
 category: ENT
 tags: [白酒, 勃艮第, 特级园, DRC, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-chevalier-montrachet-leflaive-2015]
 related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-white-montrachet-leflaive-2014: same_region, ENT-wine-white-chevalier-montrachet-leflaive-2015: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 36548}
   parker: {score: 92, year: 2020}
@@ -60,6 +61,16 @@ DRC 在 Montrachet 的份额，全球最稀缺的白葡萄酒之一。
 - **口感**：酒体丰满，酸度精准，结构深邃
 - **余味**：余味极悠长，带矿物与辛香
 - **风味标签**：白花, 蜂蜜, 烤坚果, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 加茂锦
 category: ENT
 tags: [清酒, 日本, 纯米吟醸, 加茂锦, 新潟]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-kikusui, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux]
 related_typed: {ENT-sake-kikusui: same_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: cross_region, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.4, votes: 3598}
   sake_revue: {score: 82, year: 2020}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：口感清爽，甜度低
 - **余味**：余味干净，带果香
 - **风味标签**：果香, 清爽, 蜜瓜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

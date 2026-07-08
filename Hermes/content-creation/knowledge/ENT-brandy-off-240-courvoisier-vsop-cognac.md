@@ -4,10 +4,11 @@ title: Courvoisier VSOP Cognac
 category: ENT
 tags: [OpenFoodFacts, brandy, 白兰地, Courvoisier]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
-related_typed: {ENT-brandy-courvoisier-vsop: same_brand, ENT-brandy-courvoisier-xo: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop]
+related_typed: {ENT-brandy-courvoisier-vsop: same_brand, ENT-brandy-courvoisier-xo: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brandy-hennessy-richard: cross_region, ENT-brandy-martell-vsop: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 21183}
   wine_enthusiast: {score: 97, year: 2021}
@@ -58,6 +59,16 @@ OpenFoodFacts 真实产品数据：Courvoisier VSOP Cognac（Courvoisier）
 - **口感**：果干、橡木、香料
 - **余味**：悠长橡木
 - **风味标签**：葡萄, 橡木, 果干
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

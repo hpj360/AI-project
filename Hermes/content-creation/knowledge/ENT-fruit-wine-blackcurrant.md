@@ -4,10 +4,11 @@ title: 黑加仑酒
 category: ENT
 tags: [果酒, 黑加仑, 莓果, 中国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-fruit-wine-sangshen-jiu, ENT-mead-chinese-traditional, ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu]
-related_typed: {ENT-fruit-wine-sangshen-jiu: same_brand, ENT-mead-chinese-traditional: same_brand, ENT-fruit-wine-kiwi-wine: same_brand, ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-fruit-wine-sangshen-jiu, ENT-mead-chinese-traditional, ENT-fruit-wine-kiwi-wine, ENT-baike-fruit_wine-jinjiu, ENT-baike-fruit_wine-wujiapi-jiu]
+related_typed: {ENT-fruit-wine-sangshen-jiu: same_brand, ENT-mead-chinese-traditional: same_brand, ENT-fruit-wine-kiwi-wine: same_brand, ENT-baike-fruit_wine-jinjiu: cross_region, ENT-baike-fruit_wine-wujiapi-jiu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 12317}
   wine_enthusiast: {score: 88, year: 2022}
@@ -53,6 +54,16 @@ ratings:
 - **口感**：酸甜平衡，黑加仑风味突出
 - **余味**：余味果香悠长，带微酸
 - **风味标签**：黑加仑, 浆果, 酸甜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

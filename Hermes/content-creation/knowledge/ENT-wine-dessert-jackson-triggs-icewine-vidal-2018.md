@@ -4,10 +4,11 @@ title: 杰克翠格冰酒维达尔 2018
 category: ENT
 tags: [甜酒, 冰酒, 加拿大, Jackson-Triggs]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-dessert-inniskillin-icewine-riesling-2018, ENT-wine-dessert-inniskillin-icewine-vidal-2018, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015]
 related_typed: {ENT-wine-dessert-inniskillin-icewine-riesling-2018: same_region, ENT-wine-dessert-inniskillin-icewine-vidal-2018: same_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 35880}
   parker: {score: 83, year: 2023}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：酒体饱满，浓稠甜美，酸度精准
 - **余味**：余味极悠长，带蜂蜜与辛香
 - **风味标签**：蜂蜜, 杏脯, 柑橘, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

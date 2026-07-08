@@ -4,10 +4,11 @@ title: 外交官 Reserva Exclusiva
 category: ENT
 tags: [朗姆酒, 委内瑞拉, Diplomatico, 陈年]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-diplomatico-ambassador, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara]
-related_typed: {ENT-rum-diplomatico-ambassador: same_brand, ENT-rum-off-165-rhum-ambr: cross_region, ENT-rum-off-166-rhum-blanc-traditionnel: cross_region, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rum-diplomatico-ambassador, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel]
+related_typed: {ENT-rum-diplomatico-ambassador: same_brand, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 32559}
   wine_enthusiast: {score: 97, year: 2022}
@@ -58,6 +59,16 @@ awards:
 - **口感**：醇厚甜润，太妃糖巧克力
 - **余味**：余味悠长，温暖复杂
 - **风味标签**：太妃糖, 巧克力, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

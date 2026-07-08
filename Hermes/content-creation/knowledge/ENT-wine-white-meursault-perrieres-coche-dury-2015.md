@@ -4,10 +4,11 @@ title: 默尔索佩里耶 2015
 category: ENT
 tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-meursault-genevrieres-roulot-2015, ENT-wine-white-meursault-charmes-roulot-2016, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine-white-meursault-genevrieres-roulot-2015: same_region, ENT-wine-white-meursault-charmes-roulot-2016: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 575}
   parker: {score: 87, year: 2021}
@@ -60,6 +61,16 @@ awards:
 - **口感**：酒体中等，酸度精准，结构紧致
 - **余味**：余味极悠长，带矿物与坚果
 - **风味标签**：白花, 榛子, 矿物, 奶油
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

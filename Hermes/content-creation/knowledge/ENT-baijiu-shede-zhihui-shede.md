@@ -4,10 +4,11 @@ title: 舍得 智慧舍得
 category: ENT
 tags: [白酒, 浓香, 四川, 舍得]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-tuopai-tequ, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
-related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-tuopai-tequ, ENT-baike-baijiu-shede-jiu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
+related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baike-baijiu-shede-jiu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 24640}
   csl: {score: 88, year: 2021}
@@ -58,6 +59,16 @@ awards:
 - **口感**：醇厚绵柔，层次丰富
 - **余味**：余味悠长，回甘持久
 - **风味标签**：窖香, 陈香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

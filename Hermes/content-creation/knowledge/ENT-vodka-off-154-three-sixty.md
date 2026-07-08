@@ -4,10 +4,11 @@ title: THREE SIXTY
 category: ENT
 tags: [OpenFoodFacts, vodka, 伏特加, Three Sixty]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-146-premium-vodka, ENT-vodka-off-152-sobieski, ENT-vodka-off-160-absolut, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka]
-related_typed: {ENT-vodka-off-146-premium-vodka: cross_region, ENT-vodka-off-152-sobieski: cross_region, ENT-vodka-off-160-absolut: cross_region, ENT-vodka-off-144-smirnoff-ice: same_subcat, ENT-vodka-off-145-vodka: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
+related_typed: {ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat, ENT-vodka-off-142-poliakov: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 3.9, votes: 8845}
   wine_enthusiast: {score: 81, year: 2021}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：THREE SIXTY（Three Sixty）
 - **口感**：纯净、微甜
 - **余味**：干净短促
 - **风味标签**：纯净, 中性
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

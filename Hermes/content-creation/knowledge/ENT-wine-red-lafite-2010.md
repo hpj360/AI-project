@@ -4,10 +4,11 @@ title: 拉菲古堡 2010
 category: ENT
 tags: [红酒, 波尔多, 一级庄, 赤霞珠]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-levangile-2015, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016, ENT-wine-red-pichon-lalande-2016]
-related_typed: {ENT-wine-red-levangile-2015: same_brand, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region, ENT-wine-red-pichon-lalande-2016: same_region}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-lafite-rothschild, ENT-wine-red-levangile-2015, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016]
+related_typed: {ENT-brand-lafite-rothschild: same_brand, ENT-wine-red-levangile-2015: same_brand, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 4266}
   parker: {score: 98, year: 2020}
@@ -63,6 +64,16 @@ awards:
 - **口感**：酒体饱满，单宁如丝般细腻，结构紧实而优雅
 - **余味**：余味极悠长，带矿物与辛香气息
 - **风味标签**：黑加仑, 雪松, 石墨, 紫罗兰
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

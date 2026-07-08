@@ -4,10 +4,11 @@ title: 露纹艺术系列霞多丽 2017
 category: ENT
 tags: [白酒, 新世界, 霞多丽, 玛格丽特河]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-red-leeuwin-art-series-shiraz-2016, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco]
 related_typed: {ENT-wine-red-leeuwin-art-series-shiraz-2016: same_brand, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 23204}
   parker: {score: 83, year: 2022}
@@ -58,6 +59,16 @@ ratings:
 - **口感**：酒体丰满，酸度精准，富有层次
 - **余味**：余味悠长，带矿物与坚果
 - **风味标签**：白桃, 柑橘, 烤面包, 坚果
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

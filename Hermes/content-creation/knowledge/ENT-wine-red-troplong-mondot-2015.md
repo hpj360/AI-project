@@ -4,10 +4,11 @@ title: 特罗庞蒙多城堡 2015
 category: ENT
 tags: [红酒, 波尔多, 圣埃美隆]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-red-cheval-blanc-2015, ENT-wine-red-ausone-2015, ENT-wine-red-pavie-2015, ENT-wine-red-angelus-2015, ENT-wine-red-peby-faugeres-2015]
 related_typed: {ENT-wine-red-cheval-blanc-2015: same_region, ENT-wine-red-ausone-2015: same_region, ENT-wine-red-pavie-2015: same_region, ENT-wine-red-angelus-2015: same_region, ENT-wine-red-peby-faugeres-2015: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 6267}
   parker: {score: 88, year: 2020}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体饱满，单宁柔滑，富有力量
 - **余味**：余味悠长，带辛香与黑巧
 - **风味标签**：黑莓, 蓝莓, 香料, 橡木
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 轩尼诗 百乐廷
 category: ENT
 tags: [白兰地, 干邑, 法国, 轩尼诗, 高端]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop]
 related_typed: {ENT-brandy-hennessy-vs: same_brand, ENT-brandy-hennessy-vsop: same_brand, ENT-brandy-hennessy-xo: same_brand, ENT-brandy-hennessy-richard: same_region, ENT-brandy-martell-vsop: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 24818}
   wine_enthusiast: {score: 93, year: 2022}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚丝滑，花果交织
 - **余味**：余味悠长，深邃和谐
 - **风味标签**：花果, 香草, 干果
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

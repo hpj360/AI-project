@@ -4,10 +4,11 @@ title: 绿点
 category: ENT
 tags: [威士忌, 爱尔兰, 单一麦芽壶式]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-redbreast-12, ENT-whisky-redbreast-15, ENT-whisky-midleton-very-rare]
 related_typed: {ENT-whisky-jameson: same_region, ENT-whisky-jameson-black-barrel: same_region, ENT-whisky-redbreast-12: same_region, ENT-whisky-redbreast-15: same_region, ENT-whisky-midleton-very-rare: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 45866}
   whisky_fun: {score: 82, year: 2022}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：醇厚柔顺，苹果蜂蜜
 - **余味**：余味悠长，温暖柔顺
 - **风味标签**：苹果, 雪莉, 蜂蜜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

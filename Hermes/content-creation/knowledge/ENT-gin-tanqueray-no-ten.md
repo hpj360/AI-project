@@ -4,10 +4,11 @@ title: 添加利 No.10
 category: ENT
 tags: [金酒, 伦敦干, 英国, 添加利, 小批量]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-tanqueray-rangpur, ENT-gin-off-120-tanqueray-london-dry-gin, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
 related_typed: {ENT-gin-tanqueray-rangpur: same_brand, ENT-gin-off-120-tanqueray-london-dry-gin: same_brand, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region, ENT-gin-beefeater-london-dry: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 33946}
   wine_enthusiast: {score: 93, year: 2022}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚果味，葡萄柚香
 - **余味**：余味悠长，清新果味
 - **风味标签**：葡萄, 白柚, 杜松
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

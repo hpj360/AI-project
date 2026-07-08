@@ -4,10 +4,11 @@ title: FX 皮希勒绿维特利纳 2017
 category: ENT
 tags: [白酒, 奥地利, 绿维特利纳, Wachau]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic]
 related_typed: {ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 1969}
   parker: {score: 86, year: 2023}
@@ -58,6 +59,16 @@ ratings:
 - **口感**：酒体饱满，酸度精准，富有结构
 - **余味**：余味极悠长，带白胡椒与矿物
 - **风味标签**：白桃, 柑橘, 白胡椒, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

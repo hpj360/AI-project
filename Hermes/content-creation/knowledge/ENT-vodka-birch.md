@@ -4,10 +4,11 @@ title: 白桦树 Birch
 category: ENT
 tags: [伏特加, 俄罗斯, 白桦树]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-beluga, ENT-vodka-five-lakes, ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona, ENT-vodka-off-149-wodka]
-related_typed: {ENT-vodka-beluga: same_region, ENT-vodka-five-lakes: same_region, ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat, ENT-vodka-off-149-wodka: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-beluga, ENT-vodka-five-lakes, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka]
+related_typed: {ENT-vodka-beluga: same_region, ENT-vodka-five-lakes: same_region, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat, ENT-vodka-off-145-vodka: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 36264}
   wine_enthusiast: {score: 85, year: 2020}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：柔顺木香，谷物香草
 - **余味**：余味悠长，温暖木香
 - **风味标签**：白桦木, 谷物, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

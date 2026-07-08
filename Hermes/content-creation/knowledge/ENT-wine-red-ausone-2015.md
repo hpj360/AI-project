@@ -4,10 +4,11 @@ title: 欧颂城堡 2015
 category: ENT
 tags: [红酒, 波尔多, 圣埃美隆, 一级A]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-red-cheval-blanc-2015, ENT-wine-red-pavie-2015, ENT-wine-red-angelus-2015, ENT-wine-red-peby-faugeres-2015, ENT-wine-red-figeac-2015]
 related_typed: {ENT-wine-red-cheval-blanc-2015: same_region, ENT-wine-red-pavie-2015: same_region, ENT-wine-red-angelus-2015: same_region, ENT-wine-red-peby-faugeres-2015: same_region, ENT-wine-red-figeac-2015: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 24081}
   parker: {score: 84, year: 2023}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体紧致，单宁强劲，结构宏大
 - **余味**：余味极悠长，带石墨与辛香
 - **风味标签**：黑莓, 松露, 香料, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

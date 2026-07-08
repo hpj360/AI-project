@@ -4,10 +4,11 @@ title: 邦马尔 2015
 category: ENT
 tags: [红酒, 勃艮第, 特级园]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-musigny-vogue-2015, ENT-wine_red-off-003-adama, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
-related_typed: {ENT-wine-red-musigny-vogue-2015: same_brand, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: cross_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-musigny-vogue-2015, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
+related_typed: {ENT-wine-red-musigny-vogue-2015: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 47282}
   parker: {score: 91, year: 2020}
@@ -62,6 +63,16 @@ awards:
 - **口感**：酒体雄壮，单宁强劲，富有结构
 - **余味**：余味极悠长，带辛香与矿物
 - **风味标签**：黑樱桃, 黑莓, 松露, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

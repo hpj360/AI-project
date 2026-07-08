@@ -4,10 +4,11 @@ title: Chaucer's 蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 美国, Chaucer, mead]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-tsurume-umeshu]
-related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-fruit-wine-tsurume-umeshu: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-baike-fruit_wine-zhuyeqing-jiu, ENT-baike-fruit_wine-jinjiu, ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-baike-fruit_wine-juhua-jiu]
+related_typed: {ENT-baike-fruit_wine-zhuyeqing-jiu: cross_region, ENT-baike-fruit_wine-jinjiu: cross_region, ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-baike-fruit_wine-juhua-jiu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 11280}
   wine_enthusiast: {score: 82, year: 2020}
@@ -55,6 +56,16 @@ Chaucer's 蜂蜜酒，美国传统蜂蜜酒代表，使用加州蜂蜜酿造。
 - **口感**：口感甜润，蜂蜜风味突出
 - **余味**：余味甜润，带花香
 - **风味标签**：蜂蜜, 花香, 甜润
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

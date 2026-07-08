@@ -4,10 +4,12 @@ title: 龙舌兰日出
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典, 龙舌兰, 渐变]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-margarita, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40, ENT-cocktail-sake-bomb]
-related_typed: {ENT-cocktail-margarita: same_region, ENT-tequila-off-183-tequila-gold: base_to_cocktail, ENT-tequila-off-184-sierra-tequila-silver: base_to_cocktail, ENT-tequila-off-185-silver-tequila-40: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-margarita, ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-margarita: same_region, ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 48483}
   diffords: {score: 4.28, year: 2023}

@@ -4,10 +4,11 @@ title: Seedlip 花园菲士
 category: ENT
 tags: [鸡尾酒, 无酒精, Seedlip, 菲士, 现代]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
 related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 3.9, votes: 5607}
   diffords: {score: 4.01, year: 2021}

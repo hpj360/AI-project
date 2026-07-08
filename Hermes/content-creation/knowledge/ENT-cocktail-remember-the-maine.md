@@ -4,10 +4,12 @@ title: 缅怀缅因号
 category: ENT
 tags: [鸡尾酒, 现代经典, 黑麦, 樱桃力乔]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
 related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
+data_confidence: simulated
+data_source: Charles Baker 配方
 ratings:
   vivino: {score: 4.8, votes: 9644}
   diffords: {score: 4.23, year: 2022}

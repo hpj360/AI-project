@@ -4,10 +4,11 @@ title: 皮耶罗潘经典苏瓦韦 2019
 category: ENT
 tags: [白酒, 意大利, Garganega, 威尼托]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic]
 related_typed: {ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.3, votes: 19157}
   parker: {score: 84, year: 2022}
@@ -58,6 +59,16 @@ Soave 经典产区名家 Pieropan，Garganega 葡萄顶级作。
 - **口感**：酒体中等，酸度精准，富有层次
 - **余味**：余味中长，带杏仁与矿物
 - **风味标签**：白花, 柑橘, 杏仁, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

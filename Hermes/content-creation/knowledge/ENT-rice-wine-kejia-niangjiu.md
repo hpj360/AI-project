@@ -4,10 +4,11 @@ title: 客家娘酒
 category: ENT
 tags: [米酒, 客家, 广东, 娘酒, 传统]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-rice-wine-hongli-hongmi]
-related_typed: {ENT-rice-wine-kejia-mijiu: same_brand, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-rice-wine-hongli-hongmi: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rice-wine-kejia-mijiu, ENT-baike-rice_wine-guilin-sanhua-jiu, ENT-baike-rice_wine-riben-qingjiu, ENT-baike-rice_wine-hanguo-makgeolli, ENT-baike-rice_wine-kejia-niangjiu]
+related_typed: {ENT-rice-wine-kejia-mijiu: same_brand, ENT-baike-rice_wine-guilin-sanhua-jiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-baike-rice_wine-hanguo-makgeolli: cross_region, ENT-baike-rice_wine-kejia-niangjiu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 13479}
   csl: {score: 91, year: 2020}
@@ -55,6 +56,16 @@ awards:
 - **口感**：甘甜醇厚，米味与糖香交织
 - **余味**：余味甜润，带米香与糖香
 - **风味标签**：米香, 红糖, 醇厚
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

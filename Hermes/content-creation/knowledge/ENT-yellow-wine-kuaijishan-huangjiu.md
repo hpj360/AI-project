@@ -4,8 +4,9 @@ title: 会稽山黄酒
 category: ENT
 tags: [黄酒, 绍兴, 会稽山, 加饭]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
+data_confidence: simulated
 related: [ENT-yellow-wine-kuaijishan, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y]
 related_typed: {ENT-yellow-wine-kuaijishan: same_brand, ENT-yellow-wine-guyue-longshan-10y: same_region, ENT-yellow-wine-guyue-longshan-20y: same_region, ENT-yellow-wine-guyue-longshan-30y: same_region, ENT-yellow-wine-guyue-longshan-50y: same_region}
 ratings:
@@ -54,6 +55,16 @@ ratings:
 - **口感**：醇厚清爽，米味突出，甜度低
 - **余味**：醇厚回甘，带米香
 - **风味标签**：麦曲, 米香, 清爽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

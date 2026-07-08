@@ -4,10 +4,11 @@ title: 茅台飞天 53 度
 category: ENT
 tags: [白酒, 酱香, 贵州, 茅台]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin, ENT-baijiu-laimao-chuancheng, ENT-baijiu-diaoyutai-guobin, ENT-baijiu-guotai-guobiao]
 related_typed: {ENT-baijiu-moutai-prince: same_brand, ENT-baijiu-moutai-yingbin: same_brand, ENT-baijiu-laimao-chuancheng: same_brand, ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-guotai-guobiao: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 37361}
   csl: {score: 83, year: 2022}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：幽雅细腻，醇厚丰满
 - **余味**：回味悠长，空杯留香持久
 - **风味标签**：酱香, 焦香, 花果香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

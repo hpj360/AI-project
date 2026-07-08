@@ -4,10 +4,11 @@ title: 哈瓦那俱乐部 3 年
 category: ENT
 tags: [朗姆酒, 古巴, 哈瓦那俱乐部, 白朗姆]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-off-174-rhum-cubain, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-caribbean-ron-del-caribe, ENT-rum-off-165-rhum-ambr]
-related_typed: {ENT-rum-off-174-rhum-cubain: same_brand, ENT-rum-havana-club-7: same_brand, ENT-rum-havana-club-anejo-reserva: same_brand, ENT-rum-caribbean-ron-del-caribe: same_region, ENT-rum-off-165-rhum-ambr: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rum-off-174-rhum-cubain, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-caribbean-ron-del-caribe, ENT-brand-diplomatico-reserva]
+related_typed: {ENT-rum-off-174-rhum-cubain: same_brand, ENT-rum-havana-club-7: same_brand, ENT-rum-havana-club-anejo-reserva: same_brand, ENT-rum-caribbean-ron-del-caribe: same_region, ENT-brand-diplomatico-reserva: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 8607}
   wine_enthusiast: {score: 92, year: 2020}
@@ -59,6 +60,16 @@ awards:
 - **口感**：顺滑甜润，香草香蕉
 - **余味**：余味爽净，柔顺清新
 - **风味标签**：香草, 香蕉, 烟草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

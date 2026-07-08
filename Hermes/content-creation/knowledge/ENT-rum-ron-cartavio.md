@@ -4,10 +4,11 @@ title: 罗恩卡特 Ron Cartavio
 category: ENT
 tags: [朗姆酒, 秘鲁, Ron Cartavio, 陈年]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-off-167-spiced-rum, ENT-rum-off-169-caribbean-rum-with-coconut-flavour, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour, ENT-rum-off-171-saint-james, ENT-rum-off-172-rhum-blanc-agricole]
-related_typed: {ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-171-saint-james: same_subcat, ENT-rum-off-172-rhum-blanc-agricole: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara]
+related_typed: {ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 35710}
   wine_enthusiast: {score: 86, year: 2021}
@@ -56,6 +57,16 @@ Ron Cartavio，秘鲁陈年朗姆，黑雪莉桶陈酿。
 - **口感**：醇厚复杂，干果雪莉
 - **余味**：余味悠长，温暖复杂
 - **风味标签**：干果, 雪莉, 可可
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

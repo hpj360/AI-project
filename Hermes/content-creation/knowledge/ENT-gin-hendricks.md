@@ -4,10 +4,11 @@ title: 亨利爵士
 category: ENT
 tags: [金酒, 新西方, 英国, 亨利爵士]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-hendricks-lunar, ENT-gin-off-119-hendrick-s-gin, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry]
 related_typed: {ENT-gin-hendricks-lunar: same_brand, ENT-gin-off-119-hendrick-s-gin: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.4, votes: 41203}
   wine_enthusiast: {score: 82, year: 2022}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：柔顺花香，黄瓜玫瑰
 - **余味**：余味悠长，清新花香
 - **风味标签**：黄瓜, 玫瑰, 杜松
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 百龄坛 12 年
 category: ENT
 tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-ballantines-17, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25, ENT-whisky-dewars-12]
-related_typed: {ENT-whisky-ballantines-17: same_brand, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region, ENT-whisky-chivas-regal-25: same_region, ENT-whisky-dewars-12: same_region}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-ballantines-17, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25]
+related_typed: {ENT-whisky-off-242-ballantine-s-finest: same_brand, ENT-whisky-ballantines-17: same_brand, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region, ENT-whisky-chivas-regal-25: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 40196}
   whisky_fun: {score: 91, year: 2022}
@@ -60,6 +61,16 @@ awards:
 - **口感**：丝滑甜润，蜂蜜香草
 - **余味**：余味悠长，柔和温暖
 - **风味标签**：蜂蜜, 香草, 奶油
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

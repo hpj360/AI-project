@@ -4,10 +4,11 @@ title: 3 Monts
 category: ENT
 tags: [OpenFoodFacts, beer, 啤酒, 3 Monts]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona]
 related_typed: {ENT-beer-off-074-la-goudale-blonde-1l: same_region, ENT-beer-off-091-blonde-non-filtr-champ-libre: same_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 29516}
   ratebeer: {score: 89, year: 2023}
@@ -55,6 +56,16 @@ OpenFoodFacts 真实产品数据：3 Monts（3 Monts），产地 France
 - **口感**：麦芽、苦味、果香
 - **余味**：苦味回甘
 - **风味标签**：麦芽, 啤酒花, 苦味
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 4 | ████░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 六号花园 Nolet's
 category: ENT
 tags: [金酒, 荷兰, Nolet's, 限量]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-vodka-ketel-one, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower]
 related_typed: {ENT-vodka-ketel-one: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat, ENT-gin-gordons-elderflower: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 5183}
   wine_enthusiast: {score: 83, year: 2022}
@@ -56,6 +57,16 @@ Nolet's Reserve，荷兰超高端金酒，番红花配方。
 - **口感**：醇厚奢华，番红花桃子
 - **余味**：余味悠长，深邃复杂
 - **风味标签**：番红花, 桃子, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

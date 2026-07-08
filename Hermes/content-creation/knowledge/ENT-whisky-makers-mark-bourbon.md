@@ -4,10 +4,11 @@ title: 美格 波本
 category: ENT
 tags: [威士忌, 美国, 波本]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch, ENT-whisky-four-roses-single-barrel, ENT-whisky-jim-bean-white, ENT-whisky-jim-beam-black]
 related_typed: {ENT-whisky-makers-mark-46: same_brand, ENT-whisky-four-roses-small-batch: same_region, ENT-whisky-four-roses-single-barrel: same_region, ENT-whisky-jim-bean-white: same_region, ENT-whisky-jim-beam-black: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 17207}
   whisky_fun: {score: 83, year: 2020}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：柔顺甜润，香草蜂蜜
 - **余味**：余味悠长，温暖柔顺
 - **风味标签**：香草, 焦糖, 蜂蜜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

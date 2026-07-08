@@ -4,10 +4,11 @@ title: 国台 国标
 category: ENT
 tags: [白酒, 酱香, 贵州, 国台]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-diaoyutai-guobin, ENT-baijiu-laimao-chuancheng, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
 related_typed: {ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-laimao-chuancheng: same_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 37984}
   csl: {score: 86, year: 2020}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：醇厚绵柔，酱味协调
 - **余味**：余味悠长，回甘
 - **风味标签**：酱香, 焦香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

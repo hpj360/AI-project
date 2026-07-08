@@ -4,10 +4,11 @@ title: Ballantine's Finest
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, Ballantine's]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-ballantines-12, ENT-whisky-ballantines-17, ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-off-246-jack-daniel-s-no-7]
-related_typed: {ENT-whisky-ballantines-12: same_brand, ENT-whisky-ballantines-17: same_brand, ENT-whisky-off-245-monkey-shoulder: cross_region, ENT-whisky-off-252-black-barrel-whisky-40: cross_region, ENT-whisky-off-246-jack-daniel-s-no-7: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-ballantines-12, ENT-whisky-ballantines-17, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black]
+related_typed: {ENT-whisky-ballantines-12: same_brand, ENT-whisky-ballantines-17: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 955}
   whisky_fun: {score: 85, year: 2021}
@@ -56,6 +57,16 @@ OpenFoodFacts 真实产品数据：Ballantine's Finest（Ballantine's）
 - **口感**：橡木、麦芽、微甜
 - **余味**：橡木回甘
 - **风味标签**：橡木, 麦芽, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

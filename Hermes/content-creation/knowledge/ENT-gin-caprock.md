@@ -4,10 +4,11 @@ title: 卡普罗克 CapRock
 category: ENT
 tags: [金酒, 美国, 科罗拉多, 有机]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
 related_typed: {ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 29502}
   wine_enthusiast: {score: 83, year: 2023}
@@ -56,6 +57,16 @@ CapRock，美国科罗拉多有机金酒，纯水果风格。
 - **口感**：醇厚果味，苹果杜松
 - **余味**：余味悠长，清新果味
 - **风味标签**：苹果, 杜松, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

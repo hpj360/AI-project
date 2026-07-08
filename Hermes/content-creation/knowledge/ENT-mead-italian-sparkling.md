@@ -4,10 +4,11 @@ title: 意大利起泡蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 意大利, 气泡, sparkling]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey, ENT-mead-yunnan-wild-honey, ENT-mead-huangshan-honey]
 related_typed: {ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: cross_region, ENT-mead-yunnan-wild-honey: cross_region, ENT-mead-huangshan-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 2770}
   wine_enthusiast: {score: 84, year: 2022}
@@ -54,6 +55,16 @@ ratings:
 - **口感**：清甜爽口，气泡柔和
 - **余味**：余味清爽，带蜜香与花香
 - **风味标签**：蜂蜜, 白花, 清爽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

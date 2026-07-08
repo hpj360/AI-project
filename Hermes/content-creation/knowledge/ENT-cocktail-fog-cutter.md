@@ -4,10 +4,12 @@ title: 破雾者
 category: ENT
 tags: [鸡尾酒, Tiki, 朗姆, 金酒, 雪莉, 美国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-scorpion, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-gin-bombay-sapphire]
-related_typed: {ENT-cocktail-scorpion: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-gin-bombay-sapphire: base_to_cocktail}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-scorpion, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-gin-bombay-sapphire]
+related_typed: {ENT-cocktail-scorpion: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-gin-bombay-sapphire: base_to_cocktail}
+data_confidence: simulated
+data_source: Trader Vic 配方
 ratings:
   vivino: {score: 4.8, votes: 37653}
   diffords: {score: 4.26, year: 2020}

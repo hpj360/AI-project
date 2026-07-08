@@ -4,10 +4,11 @@ title: 人头马 XO
 category: ENT
 tags: [白兰地, 干邑, 法国, 人头马]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-club, ENT-brandy-louis-xiii, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
 related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-club: same_brand, ENT-brandy-louis-xiii: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 339}
   wine_enthusiast: {score: 93, year: 2021}
@@ -58,6 +59,16 @@ awards:
 - **口感**：醇厚复杂，干果辛香
 - **余味**：余味悠长，深邃平衡
 - **风味标签**：干果, 辛香, 茉莉
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

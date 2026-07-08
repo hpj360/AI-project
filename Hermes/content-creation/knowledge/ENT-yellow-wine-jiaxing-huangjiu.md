@@ -4,10 +4,11 @@ title: 嘉兴黄酒
 category: ENT
 tags: [黄酒, 嘉兴, 浙江, 江南]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-huadiao]
-related_typed: {ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-yellow-wine-guyue-longshan-30y: cross_region, ENT-yellow-wine-guyue-longshan-50y: cross_region, ENT-yellow-wine-guyue-longshan-huadiao: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+data_confidence: simulated
+related: [ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-kuaiji-shan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang]
+related_typed: {ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-kuaiji-shan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 7095}
   csl: {score: 88, year: 2022}
@@ -54,6 +55,16 @@ ratings:
 - **口感**：醇厚甘甜，米味突出
 - **余味**：醇厚回甘，带甜香
 - **风味标签**：麦曲, 米香, 甘甜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

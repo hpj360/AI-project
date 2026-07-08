@@ -4,10 +4,11 @@ title: 董酒 国密董酒
 category: ENT
 tags: [白酒, 药香, 贵州, 董酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-baijiu-dongjiu-hongbiao-dongjiu, ENT-baijiu-zhenjiu-zhensanshi, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-dongjiu-hongbiao-dongjiu: same_brand, ENT-baijiu-zhenjiu-zhensanshi: same_region, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 28226}
   csl: {score: 90, year: 2023}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：醇厚甘爽，药香舒适
 - **余味**：余味悠长，回甘带药香
 - **风味标签**：药香, 百草香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 波摩 15 年
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 雪莉桶]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-bowmore-12, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8, ENT-whisky-ardbeg-10, ENT-whisky-ardbeg-uigeadail]
 related_typed: {ENT-whisky-bowmore-12: same_brand, ENT-whisky-lagavulin-16: same_region, ENT-whisky-lagavulin-8: same_region, ENT-whisky-ardbeg-10: same_region, ENT-whisky-ardbeg-uigeadail: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 21501}
   whisky_fun: {score: 89, year: 2023}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚复杂，雪莉泥煤交织
 - **余味**：余味悠长，雪莉温暖
 - **风味标签**：雪莉, 泥煤, 巧克力
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

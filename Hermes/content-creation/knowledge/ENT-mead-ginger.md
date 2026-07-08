@@ -4,10 +4,11 @@ title: 姜蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 英国, 姜, 香料]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-strawberry, ENT-mead-blueberry, ENT-mead-peach, ENT-mead-traditional, ENT-mead-cyser]
 related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-traditional: same_region, ENT-mead-cyser: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 8982}
   wine_enthusiast: {score: 86, year: 2023}
@@ -54,6 +55,16 @@ ratings:
 - **口感**：甜润微辣，姜与蜂蜜平衡
 - **余味**：余味辛香微辣，带蜜甜
 - **风味标签**：姜, 蜂蜜, 微辣
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

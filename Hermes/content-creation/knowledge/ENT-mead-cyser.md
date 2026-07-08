@@ -4,10 +4,11 @@ title: 苹果蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 英国, 苹果, mead]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-traditional, ENT-mead-melomel, ENT-mead-ginger, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-traditional: same_region, ENT-mead-melomel: same_region, ENT-mead-ginger: same_region, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 35457}
   wine_enthusiast: {score: 87, year: 2023}
@@ -54,6 +55,16 @@ Cyser 苹果蜂蜜酒，蜂蜜与苹果汁共同发酵，果蜜交融。
 - **口感**：甜润清爽，苹果与蜂蜜平衡
 - **余味**：余味清爽，带苹果酸与蜜香
 - **风味标签**：苹果, 蜂蜜, 清爽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

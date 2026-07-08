@@ -4,10 +4,11 @@ title: 獭祭 磨二割三 雫酒
 category: ENT
 tags: [清酒, 日本, 纯米大吟醸, 獭祭, 雫酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-dassai-23, ENT-sake-dassai-39, ENT-sake-dassai-45, ENT-sake-dassai-50, ENT-sake-dassai-39-nigori]
 related_typed: {ENT-sake-dassai-23: same_brand, ENT-sake-dassai-39: same_brand, ENT-sake-dassai-45: same_brand, ENT-sake-dassai-50: same_region, ENT-sake-dassai-39-nigori: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 7067}
   sake_revue: {score: 98, year: 2023}
@@ -58,6 +59,16 @@ awards:
 - **口感**：酒体醇厚细腻，香气深邃悠长
 - **余味**：余味极长，带花蜜与米香
 - **风味标签**：果香, 蜜瓜, 花蜜, 矿香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

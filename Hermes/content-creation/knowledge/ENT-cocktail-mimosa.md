@@ -4,10 +4,12 @@ title: 含羞草
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典, 起泡酒, 早午餐]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-bees-knees]
 related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-bees-knees: same_region}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.7, votes: 6680}
   diffords: {score: 4.18, year: 2021}

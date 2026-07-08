@@ -4,10 +4,11 @@ title: 人头马 CLUB
 category: ENT
 tags: [白兰地, 干邑, 法国, 人头马]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-xo, ENT-brandy-louis-xiii, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
 related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-xo: same_brand, ENT-brandy-louis-xiii: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 22961}
   wine_enthusiast: {score: 95, year: 2020}
@@ -59,6 +60,16 @@ awards:
 - **口感**：醇厚强劲，烤面包胡椒
 - **余味**：余味悠长，温暖辛香
 - **风味标签**：烤面包, 胡椒, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 坎特一号 Ketel One
 category: ENT
 tags: [伏特加, 荷兰, Ketel One]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-gin-nolets-reserve, ENT-vodka-off-147-wodka-gorb, ENT-vodka-off-148-mercadona, ENT-vodka-off-149-wodka, ENT-vodka-off-150-belvedere-organic-vodka]
-related_typed: {ENT-gin-nolets-reserve: same_brand, ENT-vodka-off-147-wodka-gorb: same_subcat, ENT-vodka-off-148-mercadona: same_subcat, ENT-vodka-off-149-wodka: same_subcat, ENT-vodka-off-150-belvedere-organic-vodka: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-gin-nolets-reserve, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka]
+related_typed: {ENT-gin-nolets-reserve: same_brand, ENT-vodka-off-142-poliakov: same_subcat, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat, ENT-vodka-off-145-vodka: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 12699}
   wine_enthusiast: {score: 81, year: 2021}
@@ -56,6 +57,16 @@ Ketel One，荷兰家族伏特加，铜壶蒸馏纯净顺滑。
 - **口感**：柔顺丝滑，矿物柑橘
 - **余味**：余味爽净，柔顺清新
 - **风味标签**：谷物, 矿物, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

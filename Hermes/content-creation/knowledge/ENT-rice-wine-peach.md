@@ -4,10 +4,11 @@ title: 蜜桃米酒
 category: ENT
 tags: [米酒, 果味, 蜜桃, 创新, 中国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rice-wine-sparkling, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng]
-related_typed: {ENT-rice-wine-sparkling: same_brand, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-rice-wine-sparkling, ENT-baike-rice_wine-riben-qingjiu, ENT-baike-rice_wine-hanguo-makgeolli, ENT-baike-rice_wine-kejia-niangjiu, ENT-rice-wine-kejia-mijiu]
+related_typed: {ENT-rice-wine-sparkling: same_brand, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-baike-rice_wine-hanguo-makgeolli: cross_region, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-rice-wine-kejia-mijiu: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 27768}
   csl: {score: 87, year: 2023}
@@ -53,6 +54,16 @@ ratings:
 - **口感**：甜润果香，桃味与米香平衡
 - **余味**：余味甜润，带桃香
 - **风味标签**：蜜桃, 米香, 甜润
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
 
 ## 评分奖项
 

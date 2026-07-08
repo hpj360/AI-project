@@ -4,10 +4,12 @@ title: 拉莫斯金菲士
 category: ENT
 tags: [鸡尾酒, 菲士, 金酒, 奶油, 新奥尔良]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-grasshopper]
 related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-grasshopper: same_region}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 33187}
   diffords: {score: 4.28, year: 2022}

@@ -4,10 +4,11 @@ title: Bordeaux 2013
 category: ENT
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Baron de Lestac]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-]
-related_typed: {ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-004-pinot-noir: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: cross_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
+related_typed: {ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.6, votes: 29170}
   parker: {score: 82, year: 2022}
@@ -58,6 +59,16 @@ OpenFoodFacts 真实产品数据：Bordeaux 2013（Baron de Lestac），产地 G
 - **口感**：单宁、果味、橡木
 - **余味**：单宁回甘
 - **风味标签**：红果, 单宁, 橡木
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

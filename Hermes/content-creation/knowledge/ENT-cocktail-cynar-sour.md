@@ -4,10 +4,11 @@ title: Cynar 酸酒
 category: ENT
 tags: [鸡尾酒, 创意, Cynar, 酸酒, 现代]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-americano, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball]
 related_typed: {ENT-cocktail-americano: same_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.6, votes: 49063}
   diffords: {score: 4.16, year: 2021}

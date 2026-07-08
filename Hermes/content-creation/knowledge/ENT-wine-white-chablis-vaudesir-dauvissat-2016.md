@@ -4,10 +4,11 @@ title: 夏布利沃德西尔 2016
 category: ENT
 tags: [白酒, 勃艮第, 夏布利, 特级园]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine-white-chablis-clos-raveneau-2016, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc]
 related_typed: {ENT-wine-white-chablis-preuses-dauvissat-2016: same_brand, ENT-wine-white-chablis-clos-raveneau-2016: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 40303}
   parker: {score: 88, year: 2021}
@@ -58,6 +59,16 @@ Dauvissat 的 Vaudésir 特级园，风格强劲矿物。
 - **口感**：酒体饱满，酸度凌厉，矿物感强
 - **余味**：余味极悠长，带矿物与海盐
 - **风味标签**：柑橘, 白花, 矿物, 烟熏
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 传统蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 英国, 传统, mead]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-mead-melomel, ENT-mead-cyser, ENT-mead-ginger, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-melomel: same_brand, ENT-mead-cyser: same_region, ENT-mead-ginger: same_region, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 13401}
   wine_enthusiast: {score: 88, year: 2021}
@@ -56,6 +57,16 @@ awards:
 - **口感**：甜润饱满，蜜香纯净
 - **余味**：余味悠长，带蜂蜡与花蜜
 - **风味标签**：蜂蜜, 花香, 蜂蜡
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

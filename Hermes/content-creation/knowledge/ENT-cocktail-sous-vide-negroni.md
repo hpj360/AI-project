@@ -4,10 +4,12 @@ title: 真空低温尼格罗尼
 category: ENT
 tags: [鸡尾酒, 分子, 真空低温, 金酒, 萃取]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
 related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
+data_confidence: simulated
+data_source: 分子调酒吧配方
 ratings:
   vivino: {score: 4.1, votes: 24005}
   diffords: {score: 4.06, year: 2020}

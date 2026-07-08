@@ -4,10 +4,12 @@ title: 梅斯卡尔尼格罗尼
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 梅斯卡尔, 苦味]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-verbena, ENT-cocktail-in-the-rocks, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40]
-related_typed: {ENT-cocktail-verbena: same_region, ENT-cocktail-in-the-rocks: same_region, ENT-tequila-off-183-tequila-gold: base_to_cocktail, ENT-tequila-off-184-sierra-tequila-silver: base_to_cocktail, ENT-tequila-off-185-silver-tequila-40: base_to_cocktail}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-verbena, ENT-cocktail-in-the-rocks, ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco]
+related_typed: {ENT-cocktail-verbena: same_region, ENT-cocktail-in-the-rocks: same_region, ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail}
+data_confidence: simulated
+data_source: 现代配方
 ratings:
   vivino: {score: 4.2, votes: 33181}
   diffords: {score: 4.08, year: 2020}

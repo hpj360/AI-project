@@ -4,10 +4,11 @@ title: 大摩 15 年
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 高地, 雪莉桶]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-dalmore-12, ENT-whisky-glenmorangie-original, ENT-whisky-glenmorangie-lasanta, ENT-whisky-clynelish-14, ENT-whisky-off-247-whisky-old-n-7]
-related_typed: {ENT-whisky-dalmore-12: same_brand, ENT-whisky-glenmorangie-original: same_region, ENT-whisky-glenmorangie-lasanta: same_region, ENT-whisky-clynelish-14: same_region, ENT-whisky-off-247-whisky-old-n-7: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-dalmore-12, ENT-whisky-glenmorangie-original, ENT-whisky-glenmorangie-lasanta, ENT-whisky-clynelish-14, ENT-brand-jim-beam-white]
+related_typed: {ENT-whisky-dalmore-12: same_brand, ENT-whisky-glenmorangie-original: same_region, ENT-whisky-glenmorangie-lasanta: same_region, ENT-whisky-clynelish-14: same_region, ENT-brand-jim-beam-white: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 14466}
   whisky_fun: {score: 89, year: 2021}
@@ -61,6 +62,16 @@ awards:
 - **口感**：醇厚复杂，干果咖啡
 - **余味**：余味悠长，温暖辛香
 - **风味标签**：橙皮, 咖啡, 干果
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

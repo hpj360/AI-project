@@ -4,10 +4,11 @@ title: 斯米诺 蓝标 50 号
 category: ENT
 tags: [伏特加, 英国, 斯米诺]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-no-21, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka, ENT-vodka-off-147-wodka-gorb]
-related_typed: {ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-no-21: same_brand, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat, ENT-vodka-off-147-wodka-gorb: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-no-21, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
+related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_brand, ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-no-21: same_brand, ENT-brand-finlandia: cross_region, ENT-vodka-off-141-absolut-vodka: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 4.5, votes: 13559}
   wine_enthusiast: {score: 83, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：强劲浓烈，谷物胡椒
 - **余味**：余味悠长，强劲温暖
 - **风味标签**：谷物, 白胡椒, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
 
 ## 评分奖项
 

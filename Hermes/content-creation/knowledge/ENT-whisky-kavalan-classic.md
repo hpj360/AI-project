@@ -4,10 +4,11 @@ title: Kavalan 经典
 category: ENT
 tags: [威士忌, 台湾, 单一麦芽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-kavalan-solist-vinho, ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-whisky-off-253-william-peel, ENT-whisky-off-254-royal-challenge-whisky]
-related_typed: {ENT-whisky-kavalan-solist-vinho: same_brand, ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat, ENT-whisky-off-253-william-peel: same_subcat, ENT-whisky-off-254-royal-challenge-whisky: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-kavalan-solist-vinho, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal]
+related_typed: {ENT-whisky-kavalan-solist-vinho: same_brand, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 18225}
   whisky_fun: {score: 89, year: 2020}
@@ -60,6 +61,16 @@ Kavalan 经典，台湾单一麦芽威士忌，热带气候陈酿。
 - **口感**：醇厚甜润，热带果味
 - **余味**：余味悠长，温暖甜润
 - **风味标签**：热带水果, 香草, 椰子
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

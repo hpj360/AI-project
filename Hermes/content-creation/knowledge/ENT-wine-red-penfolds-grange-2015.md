@@ -4,10 +4,11 @@ title: 奔富葛兰许 2015
 category: ENT
 tags: [红酒, 澳洲, 设拉子, 南澳]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-penfolds-bin-707-2016, ENT-wine-white-penfolds-yattarna-2016, ENT-wine-red-wolf-blass-black-label-2014, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru]
-related_typed: {ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine-red-wolf-blass-black-label-2014: same_region, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-penfolds-bin-707-2016, ENT-wine-white-penfolds-yattarna-2016, ENT-wine-red-wolf-blass-black-label-2014, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine-red-wolf-blass-black-label-2014: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 6117}
   parker: {score: 89, year: 2020}
@@ -62,6 +63,16 @@ awards:
 - **口感**：酒体饱满浓郁，单宁强劲，结构宏厚
 - **余味**：余味极悠长，带辛香与黑巧
 - **风味标签**：黑莓, 黑巧, 辛香, 烟熏
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

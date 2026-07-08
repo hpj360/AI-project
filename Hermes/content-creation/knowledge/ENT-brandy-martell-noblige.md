@@ -4,10 +4,11 @@ title: 马爹利 名仕
 category: ENT
 tags: [白兰地, 干邑, 法国, 马爹利]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
 related_typed: {ENT-brandy-martell-vsop: same_brand, ENT-brandy-martell-xo: same_brand, ENT-brandy-martell-cordon-bleu: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 30744}
   wine_enthusiast: {score: 94, year: 2022}
@@ -58,6 +59,16 @@ awards:
 - **口感**：醇厚柔顺，梨味香草
 - **余味**：余味悠长，温暖柔顺
 - **风味标签**：梨, 香草, 焦糖
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 小红颜容 2016
 category: ENT
 tags: [红酒, 波尔多, 佩萨克-雷奥良]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-haut-brion-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir]
-related_typed: {ENT-wine-red-haut-brion-2016: same_brand, ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-004-pinot-noir: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-brand-haut-brion, ENT-wine-red-haut-brion-2016, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-romanee-conti]
+related_typed: {ENT-brand-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-romanee-conti: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 46024}
   parker: {score: 83, year: 2023}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体丰满，单宁强劲，结构宏厚
 - **余味**：余味悠长，带烟熏与黑巧
 - **风味标签**：黑加仑, 烟熏, 烤面包, 雪茄
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

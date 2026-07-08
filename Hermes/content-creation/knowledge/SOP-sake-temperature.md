@@ -1,0 +1,68 @@
+---
+id: SOP-sake-temperature
+title: 清酒适饮温度指南
+category: ENT
+tags: [SOP, 清酒, 温度]
+status: active
+created: 2026-07-08
+updated: 2026-07-08
+related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-whisky-tasting, SOP-sake-tasting, SOP-baijiu-tasting]
+related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat}
+data_confidence: simulated
+data_source: 日本酒造组合中央会 清酒温度指南
+---
+# 清酒适饮温度指南
+
+## 概述
+
+清酒适饮温度范围广泛，从 5℃ 到 55℃，不同等级酒款适配不同温度。
+
+## 清酒温度分级
+
+### 冷酒类（5-15℃）
+
+| 温度 | 名称 | 适饮酒款 |
+|-----|------|---------|
+| 5℃ | 雪冷え | 吟酿、大吟酿（夏） |
+| 10℃ | 花冷え | 吟酿、纯米大吟酿 |
+| 13℃ | 涼冷え | 纯米吟酿、本酿造 |
+
+### 常温（20℃ 左右）
+- 日语：常温（じょうおん）/ 冷や（ひや）
+- 适饮：纯米酒、本酿造、普通酒
+- 平衡展现米香与酸度
+
+### 燗酒类（40-55℃）
+
+| 温度 | 名称 | 适饮酒款 |
+|-----|------|---------|
+| 40℃ | 日向燗 | 纯米酒、本酿造 |
+| 45℃ | 人肌燗 | 纯米酒（温润） |
+| 50℃ | 上燗 | 本酿造、普通酒 |
+| 55℃ | 热燗 | 较粗犷酒款 |
+
+## 温度选择原则
+
+### 适合冷饮
+- 吟酿系（果香为重）：突出吟酿香
+- 大吟酿：避免高温损失 delicate 香气
+- 生酒、生贮藏：保鲜感
+
+### 适合燗酒
+- 纯米系：突出米甜与醇厚
+- 本酿造：温润易饮
+- 普通酒：燗后提升圆润度
+
+### 不适合燗酒
+- 吟酿/大吟酿（香气被破坏）
+- 生酒、生酛系（损失鲜味）
+- 长期熟成酒
+
+## 加温方法
+- 隔水加热（最稳定）
+- 温酒器专用设备
+- 切忌微波炉（受热不均）
+- 加热后立即饮用，避免回温
+
+
+> 数据来源：日本酒造组合中央会 清酒温度指南

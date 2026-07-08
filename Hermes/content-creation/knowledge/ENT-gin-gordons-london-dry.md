@@ -4,10 +4,11 @@ title: 哥顿 伦敦干
 category: ENT
 tags: [金酒, 伦敦干, 英国, 哥顿]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-gin-gordons-elderflower, ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
 related_typed: {ENT-gin-gordons-elderflower: same_brand, ENT-gin-off-125-premium-pink-distilled-gin: same_brand, ENT-gin-off-128-traditional-style-grilled-squid: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 34818}
   wine_enthusiast: {score: 85, year: 2021}
@@ -56,6 +57,16 @@ ratings:
 - **口感**：干爽杜松，经典伦敦干
 - **余味**：余味爽净，干爽杜松
 - **风味标签**：杜松, 当归, 芫荽
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 于埃武弗雷干白 2018
 category: ENT
 tags: [白酒, 卢瓦尔, 白诗南, Vouvray]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-036-vin-d-espagne-blanc]
 related_typed: {ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat, ENT-wine_white-off-036-vin-d-espagne-blanc: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.5, votes: 47195}
   parker: {score: 84, year: 2022}
@@ -58,6 +59,16 @@ Vouvray 名家 Huet，白诗南干白经典代表。
 - **口感**：酒体中等，酸度精准，富有层次
 - **余味**：余味极悠长，带蜂蜜与矿物
 - **风味标签**：青苹果, 柑橘, 蜂蜜, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 皇家托卡伊精华 2008
 category: ENT
 tags: [甜酒, 托卡伊, Eszencia, 皇家托卡伊]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-dessert-royal-tokaji-5-puttonyos-2013, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015]
 related_typed: {ENT-wine-dessert-royal-tokaji-5-puttonyos-2013: same_brand, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 31416}
   parker: {score: 84, year: 2022}
@@ -57,6 +58,16 @@ ratings:
 - **口感**：酒体极饱满，浓稠甜美，糖酸平衡
 - **余味**：余味极悠长，带蜂蜜与辛香
 - **风味标签**：蜂蜜, 杏脯, 柑橘蜜饯, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

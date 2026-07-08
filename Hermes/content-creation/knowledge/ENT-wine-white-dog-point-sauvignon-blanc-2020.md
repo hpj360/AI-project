@@ -4,10 +4,11 @@ title: 狗点长相思 2020
 category: ENT
 tags: [白酒, 新世界, 长相思, 马尔堡]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
 related_typed: {ENT-wine-white-cloudy-bay-sauvignon-blanc-2020: same_region, ENT-wine-white-oyster-bay-sauvignon-blanc-2020: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 45974}
   parker: {score: 88, year: 2020}
@@ -58,6 +59,16 @@ ratings:
 - **口感**：酒体中等，酸度精准，富有层次
 - **余味**：余味中长，带果味与矿物
 - **风味标签**：百香果, 青柠, 黑加仑叶, 矿物
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

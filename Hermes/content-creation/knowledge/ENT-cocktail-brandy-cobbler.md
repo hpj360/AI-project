@@ -4,10 +4,12 @@ title: 白兰地柯伯乐
 category: ENT
 tags: [鸡尾酒, 柯伯乐, 白兰地, 禁酒令前]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
 related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 29836}
   diffords: {score: 4.46, year: 2022}

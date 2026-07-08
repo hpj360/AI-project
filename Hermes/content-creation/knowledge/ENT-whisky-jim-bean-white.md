@@ -4,10 +4,11 @@ title: 占边 白标
 category: ENT
 tags: [威士忌, 美国, 波本]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-whisky-jim-beam-black, ENT-whisky-jim-beam-devils-cut, ENT-whisky-makers-mark-bourbon, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch]
 related_typed: {ENT-whisky-jim-beam-black: same_brand, ENT-whisky-jim-beam-devils-cut: same_brand, ENT-whisky-makers-mark-bourbon: same_region, ENT-whisky-makers-mark-46: same_region, ENT-whisky-four-roses-small-batch: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 36018}
   whisky_fun: {score: 89, year: 2020}
@@ -60,6 +61,16 @@ awards:
 - **口感**：柔顺甜润，玉米香草
 - **余味**：余味爽净，橡木温暖
 - **风味标签**：玉米, 香草, 焦糖
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

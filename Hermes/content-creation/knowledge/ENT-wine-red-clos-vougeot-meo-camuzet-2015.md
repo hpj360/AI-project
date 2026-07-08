@@ -4,10 +4,11 @@ title: 伏旧园 Méo-Camuzet 2015
 category: ENT
 tags: [红酒, 勃艮第, 特级园]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-clos-vougeot-drc-2015, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
-related_typed: {ENT-wine-red-clos-vougeot-drc-2015: same_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-004-pinot-noir: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-clos-vougeot-drc-2015, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
+related_typed: {ENT-wine-red-clos-vougeot-drc-2015: same_region, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 47115}
   parker: {score: 87, year: 2023}
@@ -61,6 +62,16 @@ Méo-Camuzet 在伏旧园的份额，邻近城堡，结构深厚。
 - **口感**：酒体饱满，单宁紧致，富有结构
 - **余味**：余味悠长，带矿物与辛香
 - **风味标签**：红樱桃, 覆盆子, 松露, 香料
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

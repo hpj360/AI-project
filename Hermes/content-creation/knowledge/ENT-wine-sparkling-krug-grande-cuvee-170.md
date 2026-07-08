@@ -4,10 +4,11 @@ title: 库克陈年香槟 170
 category: ENT
 tags: [起泡酒, 香槟, Krug, 无年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-wine-sparkling-krug-clos-d-ambonnay-2002, ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
 related_typed: {ENT-wine-sparkling-krug-clos-d-ambonnay-2002: same_brand, ENT-wine-sparkling-cristal-2013: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region}
+data_confidence: simulated
 ratings:
   vivino: {score: 3.9, votes: 37768}
   wine_spectator: {score: 80, year: 2021}
@@ -56,6 +57,16 @@ Krug 旗舰无年份香槟，多年份调配，复杂深邃。
 - **口感**：酒体饱满，气泡细腻，复杂深邃
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：烤面包, 坚果, 柑橘, 蜂蜜
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

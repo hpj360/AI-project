@@ -4,10 +4,11 @@ title: 里鹏 2015
 category: ENT
 tags: [红酒, 波尔多, 波美侯, 车库酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-petrus-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine-red-trotanoy-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-red-petrus-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-wine-red-trotanoy-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-petrus-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine-red-trotanoy-2015, ENT-brand-lafite-rothschild]
+related_typed: {ENT-wine-red-petrus-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-wine-red-trotanoy-2015: same_region, ENT-brand-lafite-rothschild: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 37660}
   parker: {score: 83, year: 2023}
@@ -59,6 +60,16 @@ ratings:
 - **口感**：酒体浓郁丰满，单宁柔顺甜美
 - **余味**：余味悠长，带橡木与果酱
 - **风味标签**：黑莓, 奶油, 咖啡, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

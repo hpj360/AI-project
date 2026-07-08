@@ -4,10 +4,11 @@ title: 克里尼利基 14 年
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 高地]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-glenmorangie-original, ENT-whisky-glenmorangie-lasanta, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards]
-related_typed: {ENT-whisky-glenmorangie-original: same_region, ENT-whisky-glenmorangie-lasanta: same_region, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-glenmorangie-original, ENT-whisky-glenmorangie-lasanta, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-brand-jim-beam-white]
+related_typed: {ENT-whisky-glenmorangie-original: same_region, ENT-whisky-glenmorangie-lasanta: same_region, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-brand-jim-beam-white: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 2722}
   whisky_fun: {score: 89, year: 2023}
@@ -60,6 +61,16 @@ awards:
 - **口感**：蜡质独特，蜂蜜柑橘
 - **余味**：余味悠长，蜡质温暖
 - **风味标签**：蜡质, 蜂蜜, 柑橘
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

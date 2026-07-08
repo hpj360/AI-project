@@ -4,10 +4,11 @@ title: Whisky Old N°7
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, Jack Daniel's]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-old-no7, ENT-whisky-jack-daniels-single-barrel, ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-246-jack-daniel-s-no-7]
-related_typed: {ENT-whisky-off-261-tennessee-whiskey: same_brand, ENT-whisky-jack-daniels-old-no7: same_brand, ENT-whisky-jack-daniels-single-barrel: same_brand, ENT-whisky-off-245-monkey-shoulder: cross_region, ENT-whisky-off-246-jack-daniel-s-no-7: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-old-no7, ENT-whisky-jack-daniels-single-barrel, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10]
+related_typed: {ENT-whisky-off-261-tennessee-whiskey: same_brand, ENT-whisky-jack-daniels-old-no7: same_brand, ENT-whisky-jack-daniels-single-barrel: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: same_subcat}
+data_confidence: verified
 ratings:
   vivino: {score: 3.8, votes: 37431}
   whisky_fun: {score: 81, year: 2023}
@@ -56,6 +57,16 @@ OpenFoodFacts 真实产品数据：Whisky Old N°7（Jack Daniel's）
 - **口感**：橡木、麦芽、微甜
 - **余味**：橡木回甘
 - **风味标签**：橡木, 麦芽, 香草
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

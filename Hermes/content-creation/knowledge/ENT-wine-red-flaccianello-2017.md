@@ -4,10 +4,11 @@ title: 弗拉恰内洛 2017
 category: ENT
 tags: [红酒, 意大利, 超级托斯卡纳, 桑娇维塞]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-solaia-2016, ENT-wine-red-tignanello-2017, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
-related_typed: {ENT-wine-red-solaia-2016: same_region, ENT-wine-red-tignanello-2017: same_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-solaia-2016, ENT-wine-red-tignanello-2017, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-red-solaia-2016: same_region, ENT-wine-red-tignanello-2017: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.3, votes: 29890}
   parker: {score: 82, year: 2020}
@@ -59,6 +60,16 @@ Chianti Classico 顶级桑娇维塞单一园，由 Manetti 家族经营。
 - **口感**：酒体饱满，单宁紧致，结构优雅
 - **余味**：余味极悠长，带矿物与辛香
 - **风味标签**：红樱桃, 黑樱桃, 紫罗兰, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

@@ -4,10 +4,11 @@ title: 索拉雅 2016
 category: ENT
 tags: [红酒, 意大利, 超级托斯卡纳]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-tignanello-2017, ENT-wine-red-flaccianello-2017, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
-related_typed: {ENT-wine-red-tignanello-2017: same_brand, ENT-wine-red-flaccianello-2017: same_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-wine-red-tignanello-2017, ENT-wine-red-flaccianello-2017, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-red-tignanello-2017: same_brand, ENT-wine-red-flaccianello-2017: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.7, votes: 25816}
   parker: {score: 86, year: 2020}
@@ -59,6 +60,16 @@ Antinori 家族旗舰，与 Tignanello 同园出产，赤霞珠主导。
 - **口感**：酒体饱满，单宁紧致，结构宏厚
 - **余味**：余味极悠长，带辛香与黑巧
 - **风味标签**：黑加仑, 黑樱桃, 雪松, 辛香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

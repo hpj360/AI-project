@@ -4,10 +4,11 @@ title: 小鼓
 category: ENT
 tags: [清酒, 日本, 纯米大吟醸, 小鼓, 兵库]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux, ENT-sake-off-102-sake-de-cuisine]
 related_typed: {ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: cross_region, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat, ENT-sake-off-102-sake-de-cuisine: same_subcat}
+data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 48801}
   sake_revue: {score: 86, year: 2023}
@@ -55,6 +56,16 @@ ratings:
 - **口感**：酒体醇厚，香气优雅，甜酸平衡
 - **余味**：余味悠长，带米香
 - **风味标签**：果香, 蜜瓜, 米香
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 
 ## 评分奖项
 

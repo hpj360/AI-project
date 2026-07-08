@@ -4,10 +4,12 @@ title: 费城渔会潘趣
 category: ENT
 tags: [鸡尾酒, 潘趣, 朗姆, 白兰地, 美国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-clover-club, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-brandy-hennessy-xo]
-related_typed: {ENT-cocktail-clover-club: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail}
+created: 2026-07-08
+updated: 2026-07-08
+related: [ENT-cocktail-clover-club, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-brandy-hennessy-xo]
+related_typed: {ENT-cocktail-clover-club: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 12167}
   diffords: {score: 4.34, year: 2023}

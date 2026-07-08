@@ -4,10 +4,12 @@ title: 贝里尼
 category: ENT
 tags: [鸡尾酒, IBA, 起泡酒, 意大利, 桃子]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
 ratings:
   vivino: {score: 4.8, votes: 33235}
   diffords: {score: 4.37, year: 2020}
