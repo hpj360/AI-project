@@ -4,8 +4,8 @@ title: 苏联红牌 Stoli Soviet
 category: ENT
 tags: [伏特加, 俄罗斯, 红牌, 复古]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-vodka-stolichnaya, ENT-vodka-kristall, ENT-vodka-polugar, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
 related_typed: {ENT-vodka-stolichnaya: same_brand, ENT-vodka-kristall: same_region, ENT-vodka-polugar: same_region, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat}
 data_confidence: simulated

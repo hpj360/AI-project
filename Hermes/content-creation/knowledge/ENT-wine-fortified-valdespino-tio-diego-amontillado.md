@@ -4,8 +4,8 @@ title: 瓦尔德斯皮诺缇欧迭戈阿蒙蒂亚
 category: ENT
 tags: [加强酒, 雪莉, Amontillado, Valdespino]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017]
 related_typed: {ENT-wine-fortified-gonzalez-byass-tio-pepe-fino: same_region, ENT-wine-fortified-lustau-palo-cortado-vors: same_region, ENT-wine-fortified-williams-humbert-dry-oloroso: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: same_subcat}
 data_confidence: simulated

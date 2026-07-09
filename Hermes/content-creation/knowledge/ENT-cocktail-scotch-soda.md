@@ -4,8 +4,8 @@ title: 苏打苏格兰
 category: ENT
 tags: [鸡尾酒, 高球, 苏格兰, 苏打水, 清爽]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-rusty-nail, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-saketini]
 related_typed: {ENT-cocktail-rusty-nail: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
 data_confidence: official

@@ -4,10 +4,10 @@ title: LA BLONDE
 category: ENT
 tags: [OpenFoodFacts, beer, 啤酒, BRASSERIE DU MONT BLANC]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-beer-corona, ENT-beer-tsingtao-pure-draft, ENT-beer-bud-ice, ENT-beer-goose-island-ipa, ENT-beer-brewdog-punk-ipa]
-related_typed: {ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat, ENT-beer-bud-ice: same_subcat, ENT-beer-goose-island-ipa: same_subcat, ENT-beer-brewdog-punk-ipa: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser]
+related_typed: {ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat, ENT-beer-snow: same_subcat, ENT-beer-budweiser: same_subcat}
 data_confidence: verified
 ratings:
   vivino: {score: 4.2, votes: 23197}

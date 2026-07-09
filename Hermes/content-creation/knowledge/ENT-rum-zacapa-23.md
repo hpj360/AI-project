@@ -4,8 +4,8 @@ title: 萨凯帕 23
 category: ENT
 tags: [朗姆酒, 危地马拉, Zacapa, 陈年]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-rum-zacapa-centenario-25, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr]
 related_typed: {ENT-rum-zacapa-centenario-25: same_brand, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat}
 data_confidence: simulated

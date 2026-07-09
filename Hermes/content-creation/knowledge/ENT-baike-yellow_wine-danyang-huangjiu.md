@@ -4,10 +4,10 @@ title: 丹阳黄酒
 category: ENT
 tags: [百度百科, yellow_wine, 丹阳黄酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-kuaiji-shan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang]
-related_typed: {ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-kuaiji-shan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang, ENT-baike-yellow_wine-jiaxing-huangjiu]
+related_typed: {ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: cross_region, ENT-baike-yellow_wine-jiaxing-huangjiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 ratings:

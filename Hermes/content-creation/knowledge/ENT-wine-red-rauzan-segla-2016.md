@@ -4,10 +4,10 @@ title: 鲁臣世家城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 玛歌]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-canon-2015, ENT-wine-red-margaux-2015, ENT-wine-red-palmer-2015, ENT-brand-latour, ENT-brand-margaux]
-related_typed: {ENT-wine-red-canon-2015: same_brand, ENT-wine-red-margaux-2015: same_region, ENT-wine-red-palmer-2015: same_region, ENT-brand-latour: cross_region, ENT-brand-margaux: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-red-canon-2015, ENT-wine-red-margaux-2015, ENT-wine-red-palmer-2015, ENT-brand-penfolds-grange, ENT-brand-opus-one]
+related_typed: {ENT-wine-red-canon-2015: same_brand, ENT-wine-red-margaux-2015: same_region, ENT-wine-red-palmer-2015: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 3.9, votes: 11445}

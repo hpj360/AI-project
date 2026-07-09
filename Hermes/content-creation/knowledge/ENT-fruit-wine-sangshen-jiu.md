@@ -4,8 +4,8 @@ title: 桑葚酒
 category: ENT
 tags: [果酒, 桑葚, 中国]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-mead-chinese-traditional, ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-cherry-wine, ENT-baike-fruit_wine-zhuyeqing-jiu, ENT-baike-fruit_wine-jinjiu]
 related_typed: {ENT-mead-chinese-traditional: same_brand, ENT-fruit-wine-kiwi-wine: same_brand, ENT-fruit-wine-cherry-wine: same_brand, ENT-baike-fruit_wine-zhuyeqing-jiu: cross_region, ENT-baike-fruit_wine-jinjiu: same_subcat}
 data_confidence: simulated

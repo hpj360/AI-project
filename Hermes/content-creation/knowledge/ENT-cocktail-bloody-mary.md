@@ -4,8 +4,8 @@ title: 血腥玛丽
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典, 伏特加, 番茄, 早午餐]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-mimosa, ENT-cocktail-bees-knees]
 related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-mimosa: same_region, ENT-cocktail-bees-knees: same_region}
 data_confidence: official

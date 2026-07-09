@@ -4,10 +4,10 @@ title: 韩国清米酒
 category: ENT
 tags: [米酒, 韩国, 药酒, 清酒, 传统]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-rice-wine-makgeolli, ENT-rice-wine-ihwaju, ENT-baike-rice_wine-guilin-sanhua-jiu, ENT-baike-rice_wine-riben-qingjiu, ENT-baike-rice_wine-hanguo-makgeolli]
-related_typed: {ENT-rice-wine-makgeolli: same_brand, ENT-rice-wine-ihwaju: same_brand, ENT-baike-rice_wine-guilin-sanhua-jiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-baike-rice_wine-hanguo-makgeolli: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-rice-wine-makgeolli, ENT-rice-wine-ihwaju, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu]
+related_typed: {ENT-rice-wine-makgeolli: same_brand, ENT-rice-wine-ihwaju: same_brand, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 812}

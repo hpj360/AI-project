@@ -4,8 +4,8 @@ title: Clairette Die Jaillance Tradition
 category: ENT
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Jaillance]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 related_typed: {ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_brand, ENT-wine_sparkling-off-063-clairette-de-die-doux: same_brand, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 data_confidence: verified

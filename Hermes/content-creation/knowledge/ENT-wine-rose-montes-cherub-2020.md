@@ -4,8 +4,8 @@ title: 蒙特斯小天使桃红 2020
 category: ENT
 tags: [桃红, 智利, Montes, Syrah]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-red-montes-alpha-m-2017, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019]
 related_typed: {ENT-wine-red-montes-alpha-m-2017: same_brand, ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: same_subcat}
 data_confidence: simulated

@@ -4,10 +4,10 @@ title: 碧尚男爵城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 波亚克]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-lalande-2016, ENT-wine-red-lynch-bages-2016]
-related_typed: {ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-lalande-2016: same_region, ENT-wine-red-lynch-bages-2016: same_region}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-real-pichon-longueville-baron, ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-lalande-2016]
+related_typed: {ENT-wine-real-pichon-longueville-baron: same_brand, ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-lalande-2016: same_region}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 2129}

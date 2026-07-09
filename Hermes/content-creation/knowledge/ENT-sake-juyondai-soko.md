@@ -4,8 +4,8 @@ title: 十四代 双虹
 category: ENT
 tags: [清酒, 日本, 纯米大吟醸, 十四代]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-sake-juyondai-honmaru, ENT-sake-juyondai-ryugetsu, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-shirakumo, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner]
 related_typed: {ENT-sake-juyondai-honmaru: same_brand, ENT-sake-juyondai-ryugetsu: same_brand, ENT-sake-juyondai-nana-tariki: same_brand, ENT-sake-juyondai-shirakumo: same_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: same_subcat}
 data_confidence: simulated

@@ -4,8 +4,8 @@ title: 威士忌斯马修
 category: ENT
 tags: [鸡尾酒, 斯马修, 波本, 薄荷]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-mint-julep, ENT-cocktail-kentucky-buck, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12]
 related_typed: {ENT-cocktail-mint-julep: same_region, ENT-cocktail-kentucky-buck: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail}
 data_confidence: official

@@ -4,10 +4,10 @@ title: 罗曼尼康帝
 category: ENT
 tags: [红酒, 勃艮第, 特级园, 黑皮诺, DRC]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-brand-lafite-rothschild, ENT-brand-latour]
-related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-brand-lafite-rothschild, ENT-brand-latour]
+related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 ratings:

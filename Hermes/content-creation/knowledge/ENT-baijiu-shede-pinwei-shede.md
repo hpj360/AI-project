@@ -4,8 +4,8 @@ title: 舍得 品味舍得
 category: ENT
 tags: [白酒, 浓香, 四川, 舍得]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-baijiu-shede-zhihui-shede, ENT-baijiu-tuopai-tequ, ENT-baike-baijiu-shede-jiu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
 related_typed: {ENT-baijiu-shede-zhihui-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baike-baijiu-shede-jiu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
 data_confidence: simulated

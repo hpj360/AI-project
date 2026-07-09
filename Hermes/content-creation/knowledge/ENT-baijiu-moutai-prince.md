@@ -4,8 +4,8 @@ title: 茅台王子酒
 category: ENT
 tags: [白酒, 酱香, 贵州, 茅台]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-yingbin, ENT-baijiu-laimao-chuancheng, ENT-baijiu-diaoyutai-guobin, ENT-baijiu-guotai-guobiao]
 related_typed: {ENT-baijiu-moutai-feitian-53: same_brand, ENT-baijiu-moutai-yingbin: same_brand, ENT-baijiu-laimao-chuancheng: same_brand, ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-guotai-guobiao: same_region}
 data_confidence: simulated

@@ -4,8 +4,8 @@ title: Silver tequila
 category: ENT
 tags: [OpenFoodFacts, tequila, 龙舌兰, José Cuervo]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
 related_typed: {ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado: same_brand, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
 data_confidence: verified

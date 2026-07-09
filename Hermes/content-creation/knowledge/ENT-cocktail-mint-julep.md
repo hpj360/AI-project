@@ -4,8 +4,8 @@ title: 薄荷茱莉普
 category: ENT
 tags: [鸡尾酒, 茱莉普, 波本, 薄荷, 美国南方]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-whiskey-smash, ENT-cocktail-kentucky-buck, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12]
 related_typed: {ENT-cocktail-whiskey-smash: same_region, ENT-cocktail-kentucky-buck: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail}
 data_confidence: simulated

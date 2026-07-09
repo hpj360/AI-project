@@ -4,8 +4,8 @@ title: 卡慕 布克尼
 category: ENT
 tags: [白兰地, 干邑, 法国, 卡慕]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brandy-camus-vsop, ENT-brandy-camus-xo, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo]
 related_typed: {ENT-brandy-camus-vsop: same_brand, ENT-brandy-camus-xo: same_brand, ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: same_subcat}
 data_confidence: simulated

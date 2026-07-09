@@ -4,8 +4,8 @@ title: 轩尼诗 VSOP
 category: ENT
 tags: [白兰地, 干邑, 法国, 轩尼诗]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brand-remy-martin-vsop, ENT-brand-martell-vsop, ENT-brand-courvoisier-vsop, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brand-remy-martin-vsop: same_region, ENT-brand-martell-vsop: same_region, ENT-brand-courvoisier-vsop: same_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: official

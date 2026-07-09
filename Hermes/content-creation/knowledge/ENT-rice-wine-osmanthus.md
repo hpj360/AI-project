@@ -4,10 +4,10 @@ title: 桂花米酒
 category: ENT
 tags: [米酒, 桂花, 花香, 传统, 创新]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-rice-wine-tian-jiuniang, ENT-baike-rice_wine-hanguo-makgeolli, ENT-baike-rice_wine-kejia-niangjiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
-related_typed: {ENT-rice-wine-tian-jiuniang: same_region, ENT-baike-rice_wine-hanguo-makgeolli: cross_region, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-rice-wine-tian-jiuniang, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng]
+related_typed: {ENT-rice-wine-tian-jiuniang: same_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 34455}

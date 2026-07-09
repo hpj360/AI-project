@@ -4,8 +4,8 @@ title: 紫罗兰时刻主教
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 波本, 红酒, 现代]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-salty-dog, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-tokyo-tea]
 related_typed: {ENT-cocktail-salty-dog: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-tokyo-tea: same_subcat}
 data_confidence: simulated

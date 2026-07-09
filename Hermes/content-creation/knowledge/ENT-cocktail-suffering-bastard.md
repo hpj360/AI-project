@@ -4,8 +4,8 @@ title: 苦难混蛋
 category: ENT
 tags: [鸡尾酒, Tiki, 波本, 金酒, 姜汁啤酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: simulated

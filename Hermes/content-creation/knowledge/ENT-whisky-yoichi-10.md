@@ -4,8 +4,8 @@ title: 余市 10 年
 category: ENT
 tags: [威士忌, 日本, 单一麦芽]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-yoichi-15, ENT-whisky-taketsuru-17, ENT-whisky-taketsuru-21, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12]
 related_typed: {ENT-whisky-yoichi-15: same_brand, ENT-whisky-taketsuru-17: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat}
 data_confidence: simulated

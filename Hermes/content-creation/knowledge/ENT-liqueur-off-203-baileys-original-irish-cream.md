@@ -4,8 +4,8 @@ title: Baileys - Original Irish Cream
 category: ENT
 tags: [OpenFoodFacts, liqueur, 利口酒, Baileys]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-liqueur-off-205-baileys, ENT-liqueur-off-204-aperol, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon, ENT-liqueur-off-207-campari, ENT-liqueur-off-208-aperol-3-4-offen]
 related_typed: {ENT-liqueur-off-205-baileys: same_brand, ENT-liqueur-off-204-aperol: cross_region, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon: cross_region, ENT-liqueur-off-207-campari: cross_region, ENT-liqueur-off-208-aperol-3-4-offen: same_subcat}
 data_confidence: verified

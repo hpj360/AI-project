@@ -4,11 +4,11 @@ title: 即墨老酒
 category: ENT
 tags: [黄酒, 即墨, 山东, 黍米, 青岛]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 data_confidence: simulated
-related: [ENT-yellow-wine-jimo-laoliu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-kuaiji-shan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu]
-related_typed: {ENT-yellow-wine-jimo-laoliu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-kuaiji-shan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: same_subcat}
+related: [ENT-yellow-wine-jimo-laoliu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang]
+related_typed: {ENT-yellow-wine-jimo-laoliu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: same_subcat}
 ratings:
   vivino: {score: 4.8, votes: 60}
   csl: {score: 83, year: 2021}

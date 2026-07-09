@@ -4,10 +4,10 @@ title: 高清水
 category: ENT
 tags: [清酒, 日本, 纯米酒, 高清水, 秋田]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-sake-arabashiri-no6, ENT-sake-aramasa-amaneko, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine]
-related_typed: {ENT-sake-arabashiri-no6: same_region, ENT-sake-aramasa-amaneko: same_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-sake-arabashiri-no6, ENT-sake-aramasa-amaneko, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu]
+related_typed: {ENT-sake-arabashiri-no6: same_region, ENT-sake-aramasa-amaneko: same_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 4427}

@@ -4,10 +4,10 @@ title: Sake de cuisine vin de riz umami doux
 category: ENT
 tags: [OpenFoodFacts, sake, 清酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-sake-dassai-23, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner]
-related_typed: {ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-sake-dassai-23: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-baike-sake-juyondai, ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-baike-sake-hakutsuru]
+related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-baike-sake-hakutsuru: same_subcat}
 data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 37295}

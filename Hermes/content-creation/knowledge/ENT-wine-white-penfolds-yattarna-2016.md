@@ -4,8 +4,8 @@ title: 奔富雅塔娜 2016
 category: ENT
 tags: [白酒, 新世界, 霞多丽, 奔富]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-red-penfolds-grange-2015, ENT-wine-red-penfolds-bin-707-2016, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc]
 related_typed: {ENT-wine-red-penfolds-grange-2015: same_brand, ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat}
 data_confidence: simulated

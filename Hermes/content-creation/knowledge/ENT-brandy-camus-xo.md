@@ -4,8 +4,8 @@ title: 卡慕 XO
 category: ENT
 tags: [白兰地, 干邑, 法国, 卡慕]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brandy-camus-vsop, ENT-brandy-camus-borders-iut, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo]
 related_typed: {ENT-brandy-camus-vsop: same_brand, ENT-brandy-camus-borders-iut: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region}
 data_confidence: simulated

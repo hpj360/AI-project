@@ -4,8 +4,8 @@ title: Ballantine's Finest
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, Ballantine's]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-ballantines-12, ENT-whisky-ballantines-17, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black]
 related_typed: {ENT-whisky-ballantines-12: same_brand, ENT-whisky-ballantines-17: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat}
 data_confidence: verified

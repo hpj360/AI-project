@@ -4,8 +4,8 @@ title: Bacardi Razz
 category: ENT
 tags: [OpenFoodFacts, rum, 朗姆酒, Bacardi]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold]
 related_typed: {ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat}
 data_confidence: verified

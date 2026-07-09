@@ -4,8 +4,8 @@ title: 威士忌高球
 category: ENT
 tags: [鸡尾酒, 高球, 威士忌, 苏打水, 日本]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita, ENT-brand-macallan-12]
 related_typed: {ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region, ENT-brand-macallan-12: base_to_cocktail}
 data_confidence: official

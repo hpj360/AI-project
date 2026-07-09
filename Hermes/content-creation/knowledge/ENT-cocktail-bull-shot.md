@@ -4,8 +4,8 @@ title: 公牛弹
 category: ENT
 tags: [鸡尾酒, 短饮, 伏特加, 牛肉汤, 咸鲜]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-last-word, ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-saketini]
 related_typed: {ENT-cocktail-last-word: same_region, ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
 data_confidence: official

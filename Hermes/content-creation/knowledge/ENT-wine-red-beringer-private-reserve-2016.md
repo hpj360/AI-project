@@ -4,10 +4,10 @@ title: 贝灵哲私藏 2016
 category: ENT
 tags: [红酒, 纳帕谷, 美国]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-joseph-phelps-insignia-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
-related_typed: {ENT-wine-red-joseph-phelps-insignia-2016: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-red-joseph-phelps-insignia-2016, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
+related_typed: {ENT-wine-red-joseph-phelps-insignia-2016: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 27450}

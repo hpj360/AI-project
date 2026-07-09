@@ -4,10 +4,10 @@ title: 法拉利马克思特干型
 category: ENT
 tags: [起泡酒, Trento DOC, Ferrari, 无年份]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-sparkling-ferrari-riserva-del-fondatore-2012, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte]
-related_typed: {ENT-wine-sparkling-ferrari-riserva-del-fondatore-2012: same_brand, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-sparkling-ferrari-riserva-del-fondatore-2012, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt]
+related_typed: {ENT-wine-sparkling-ferrari-riserva-del-fondatore-2012: same_brand, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.4, votes: 6476}

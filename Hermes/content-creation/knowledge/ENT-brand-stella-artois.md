@@ -4,10 +4,10 @@ title: 时代啤酒
 category: ENT
 tags: [啤酒, 比利时, 拉格, 皮尔森]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-beer-heineken, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona, ENT-beer-tsingtao-pure-draft]
-related_typed: {ENT-beer-heineken: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
+related_typed: {ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 ratings:

@@ -4,10 +4,10 @@ title: 菲丽宝娜歌斯园 2012
 category: ENT
 tags: [起泡酒, 香槟, Philipponnat, 独占园]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition]
-related_typed: {ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009: same_region, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original]
+related_typed: {ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009: same_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 21469}

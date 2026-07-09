@@ -4,10 +4,10 @@ title: 卡力特啤酒
 category: ENT
 tags: [啤酒, 德国, 卡力特, 黑啤, 施瓦兹比尔]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona]
-related_typed: {ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu]
+related_typed: {ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 27885}

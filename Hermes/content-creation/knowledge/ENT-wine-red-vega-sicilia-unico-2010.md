@@ -4,10 +4,10 @@ title: 维加西西里亚尤尼科 2010
 category: ENT
 tags: [红酒, 西班牙, Ribera del Duero]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-pingus-2015, ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-pingus-2015: same_region, ENT-wine-red-pesquera-gran-reserva-2012: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-red-pingus-2015, ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
+related_typed: {ENT-wine-red-pingus-2015: same_region, ENT-wine-red-pesquera-gran-reserva-2012: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.4, votes: 18849}

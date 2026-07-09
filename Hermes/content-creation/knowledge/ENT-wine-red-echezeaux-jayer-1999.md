@@ -4,10 +4,10 @@ title: 伊瑟索 Jayer 1999
 category: ENT
 tags: [红酒, 勃艮第, 特级园, 传奇]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-echezeaux-drc-2015, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
-related_typed: {ENT-wine-red-grands-echezeaux-2015: same_region, ENT-wine-red-echezeaux-drc-2015: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-echezeaux-drc-2015, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
+related_typed: {ENT-wine-red-grands-echezeaux-2015: same_region, ENT-wine-red-echezeaux-drc-2015: same_region, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 11589}

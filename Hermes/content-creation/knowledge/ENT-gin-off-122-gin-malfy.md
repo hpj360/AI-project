@@ -4,8 +4,8 @@ title: Gin Malfy
 category: ENT
 tags: [OpenFoodFacts, gin, 金酒, Malfy]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks, ENT-gin-hendricks-lunar, ENT-gin-monkey-47]
 related_typed: {ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat, ENT-gin-hendricks-lunar: same_subcat, ENT-gin-monkey-47: same_subcat}
 data_confidence: verified

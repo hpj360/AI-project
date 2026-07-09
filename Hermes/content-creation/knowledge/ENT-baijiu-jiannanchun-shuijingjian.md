@@ -4,8 +4,8 @@ title: 剑南春 水晶剑
 category: ENT
 tags: [白酒, 浓香, 四川, 剑南春]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu]
 related_typed: {ENT-baijiu-jiannanchun-jinjian-k6: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: same_subcat}
 data_confidence: simulated

@@ -4,8 +4,8 @@ title: 法尔格酒庄 2015
 category: ENT
 tags: [甜酒, 苏玳, Fargues, Lur-Saluces]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-dessert-rieussec-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015]
 related_typed: {ENT-wine-dessert-rieussec-2015: same_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: same_subcat}
 data_confidence: simulated

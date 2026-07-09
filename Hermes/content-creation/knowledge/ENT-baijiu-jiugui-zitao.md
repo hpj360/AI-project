@@ -4,8 +4,8 @@ title: 酒鬼酒 紫陶
 category: ENT
 tags: [白酒, 馥郁香, 湖南, 酒鬼酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-baijiu-jiugui-neican, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu]
 related_typed: {ENT-baijiu-jiugui-neican: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: same_subcat}
 data_confidence: simulated

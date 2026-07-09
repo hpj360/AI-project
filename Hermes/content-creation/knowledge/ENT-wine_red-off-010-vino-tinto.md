@@ -4,8 +4,8 @@ title: Vino tinto
 category: ENT
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Don Simón]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine_white-off-029-vino-blanco-chardonay, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine_white-off-029-vino-blanco-chardonay: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: verified

@@ -4,10 +4,10 @@ title: 卓龙城堡 2015
 category: ENT
 tags: [红酒, 波尔多, 波美侯]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-brand-mouton-rothschild]
-related_typed: {ENT-wine-red-petrus-2015: same_brand, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-brand-mouton-rothschild: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-brand-penfolds-grange]
+related_typed: {ENT-wine-red-petrus-2015: same_brand, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 31984}

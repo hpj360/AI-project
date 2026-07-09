@@ -4,8 +4,8 @@ title: 卡匹林纳
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Caipirinha, 摇和]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-maotai-martini, ENT-cocktail-chinese-colada, ENT-cocktail-earl-grey-martini, ENT-cocktail-jasmine-tea-cocktail, ENT-cocktail-yuzu-margarita]
 related_typed: {ENT-cocktail-maotai-martini: same_subcat, ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-earl-grey-martini: same_subcat, ENT-cocktail-jasmine-tea-cocktail: same_subcat, ENT-cocktail-yuzu-margarita: same_subcat}
 data_confidence: official

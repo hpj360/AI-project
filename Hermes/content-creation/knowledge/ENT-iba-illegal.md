@@ -4,8 +4,8 @@ title: 非法
 category: ENT
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Illegal, 摇和]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-cocktail-americano, ENT-cocktail-margarita]
 related_typed: {ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail, ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat}
 data_confidence: official

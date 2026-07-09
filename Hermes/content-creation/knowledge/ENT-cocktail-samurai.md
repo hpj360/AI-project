@@ -4,8 +4,8 @@ title: 武士
 category: ENT
 tags: [鸡尾酒, 亚洲, 清酒, 威士忌, 经典]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-yuzu-margarita]
 related_typed: {ENT-cocktail-sake-bomb: same_region, ENT-cocktail-sake-martini: same_region, ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-yuzu-margarita: same_region}
 data_confidence: simulated

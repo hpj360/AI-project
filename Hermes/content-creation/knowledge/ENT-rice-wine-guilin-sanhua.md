@@ -4,10 +4,10 @@ title: 桂林三花酒
 category: ENT
 tags: [米酒, 米香型白酒, 桂林, 广西]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-rice-wine-guilin-sanhua-mijiu, ENT-baike-rice_wine-guilin-sanhua-jiu, ENT-baike-rice_wine-riben-qingjiu, ENT-baike-rice_wine-hanguo-makgeolli, ENT-baike-rice_wine-kejia-niangjiu]
-related_typed: {ENT-rice-wine-guilin-sanhua-mijiu: same_brand, ENT-baike-rice_wine-guilin-sanhua-jiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-baike-rice_wine-hanguo-makgeolli: cross_region, ENT-baike-rice_wine-kejia-niangjiu: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-rice-wine-guilin-sanhua-mijiu, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guangdong-mijiu]
+related_typed: {ENT-rice-wine-guilin-sanhua-mijiu: same_brand, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guangdong-mijiu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.0, votes: 6928}

@@ -4,10 +4,10 @@ title: 西施佳雅 2016
 category: ENT
 tags: [红酒, 意大利, 超级托斯卡纳, 赤霞珠]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-ornellaia-2016, ENT-wine-red-masseto-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-red-ornellaia-2016: same_region, ENT-wine-red-masseto-2016: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-real-sassicaia, ENT-wine-red-ornellaia-2016, ENT-wine-red-masseto-2016, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-real-sassicaia: same_brand, ENT-wine-red-ornellaia-2016: same_region, ENT-wine-red-masseto-2016: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.6, votes: 16644}

@@ -4,10 +4,10 @@ title: 出羽樱 一路
 category: ENT
 tags: [清酒, 日本, 纯米大吟醸, 出羽樱, 山形]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-sake-dewazakura, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux, ENT-sake-off-103-sak-pour-cuisine]
-related_typed: {ENT-sake-dewazakura: same_brand, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: cross_region, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat, ENT-sake-off-103-sak-pour-cuisine: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-sake-dewazakura, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux]
+related_typed: {ENT-sake-dewazakura: same_brand, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.3, votes: 33450}

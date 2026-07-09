@@ -4,8 +4,8 @@ title: 生锈钉
 category: ENT
 tags: [鸡尾酒, 短饮, 苏格兰, 杜林标, IBA]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-scotch-soda, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-tokyo-tea]
 related_typed: {ENT-cocktail-scotch-soda: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-tokyo-tea: same_subcat}
 data_confidence: official

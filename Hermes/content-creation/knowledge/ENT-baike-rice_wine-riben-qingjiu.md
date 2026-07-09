@@ -4,10 +4,10 @@ title: 日本清酒
 category: ENT
 tags: [百度百科, rice_wine, 日本清酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-baike-rice_wine-guilin-sanhua-jiu]
-related_typed: {ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-baike-rice_wine-guilin-sanhua-jiu: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-baike-rice_wine-kejia-niangjiu]
+related_typed: {ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-baike-rice_wine-kejia-niangjiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 ratings:

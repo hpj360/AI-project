@@ -4,8 +4,8 @@ title: 董酒 国密董酒
 category: ENT
 tags: [白酒, 药香, 贵州, 董酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-baijiu-dongjiu-hongbiao-dongjiu, ENT-baijiu-zhenjiu-zhensanshi, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-dongjiu-hongbiao-dongjiu: same_brand, ENT-baijiu-zhenjiu-zhensanshi: same_region, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: simulated

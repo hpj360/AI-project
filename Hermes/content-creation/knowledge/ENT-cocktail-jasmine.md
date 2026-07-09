@@ -4,8 +4,8 @@ title: 茉莉
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 金酒, 坎帕里, 酸酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-martinez, ENT-cocktail-saturn, ENT-cocktail-tommys-margarita, ENT-cocktail-chartreuse-swizzle, ENT-cocktail-fogcutter]
 related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-saturn: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-chartreuse-swizzle: same_region, ENT-cocktail-fogcutter: same_region}
 data_confidence: simulated

@@ -4,8 +4,8 @@ title: 桃子蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 美国, 桃子, 水果]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-mead-strawberry, ENT-mead-blueberry, ENT-mead-cinnamon, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-blueberry: same_brand, ENT-mead-cinnamon: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
 data_confidence: simulated

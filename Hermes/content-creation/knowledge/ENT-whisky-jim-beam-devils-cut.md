@@ -4,8 +4,8 @@ title: 占边 魔鬼之切
 category: ENT
 tags: [威士忌, 美国, 波本]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-jim-bean-white, ENT-whisky-jim-beam-black, ENT-whisky-makers-mark-bourbon, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch]
 related_typed: {ENT-whisky-jim-bean-white: same_brand, ENT-whisky-jim-beam-black: same_brand, ENT-whisky-makers-mark-bourbon: same_region, ENT-whisky-makers-mark-46: same_region, ENT-whisky-four-roses-small-batch: same_region}
 data_confidence: simulated

@@ -4,8 +4,8 @@ title: Organic vodka
 category: ENT
 tags: [OpenFoodFacts, vodka, 伏特加, Belvedere]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-vodka-belvedere-original, ENT-vodka-belvedere-intense, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia]
 related_typed: {ENT-vodka-belvedere-original: same_brand, ENT-vodka-belvedere-intense: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat}
 data_confidence: verified

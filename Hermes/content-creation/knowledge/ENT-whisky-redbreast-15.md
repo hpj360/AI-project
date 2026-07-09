@@ -4,8 +4,8 @@ title: 红胸 15 年
 category: ENT
 tags: [威士忌, 爱尔兰, 单一麦芽壶式, 雪莉桶]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-redbreast-12, ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-green-spot, ENT-whisky-midleton-very-rare]
 related_typed: {ENT-whisky-redbreast-12: same_brand, ENT-whisky-jameson: same_region, ENT-whisky-jameson-black-barrel: same_region, ENT-whisky-green-spot: same_region, ENT-whisky-midleton-very-rare: same_region}
 data_confidence: simulated

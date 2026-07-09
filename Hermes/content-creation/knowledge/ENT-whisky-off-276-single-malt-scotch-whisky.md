@@ -4,8 +4,8 @@ title: Single malt scotch whisky
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, Glenllivet]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-266-clan-campbell, ENT-whisky-off-267-blended-scotch-whisky, ENT-whisky-off-270-red-label]
 related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_region, ENT-whisky-off-245-monkey-shoulder: same_region, ENT-whisky-off-266-clan-campbell: same_region, ENT-whisky-off-267-blended-scotch-whisky: same_region, ENT-whisky-off-270-red-label: same_region}
 data_confidence: verified

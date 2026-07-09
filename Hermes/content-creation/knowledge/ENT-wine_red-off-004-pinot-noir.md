@@ -4,8 +4,8 @@ title: Pinot noir
 category: ENT
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Bonot Père & Fils]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-015-cabernet-sauvigon, ENT-wine_red-off-017-naturae]
 related_typed: {ENT-wine_red-off-005-cabernet-sauvignon: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_region, ENT-wine_red-off-009-mouton-cadet: same_region, ENT-wine_red-off-015-cabernet-sauvigon: same_region, ENT-wine_red-off-017-naturae: same_region}
 data_confidence: verified

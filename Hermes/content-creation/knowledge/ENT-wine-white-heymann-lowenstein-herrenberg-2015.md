@@ -4,8 +4,8 @@ title: 海曼勒文施泰因 2015
 category: ENT
 tags: [白酒, 德国, 雷司令, Mosel]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-032-blanc]
 related_typed: {ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat, ENT-wine_white-off-032-blanc: same_subcat}
 data_confidence: simulated

@@ -4,8 +4,8 @@ title: 火龙果酒
 category: ENT
 tags: [果酒, 火龙果, 中国]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-fruit-wine-sangshen-jiu, ENT-mead-chinese-traditional, ENT-fruit-wine-kiwi-wine, ENT-fruit-wine-mango, ENT-baike-fruit_wine-zhuyeqing-jiu]
 related_typed: {ENT-fruit-wine-sangshen-jiu: same_brand, ENT-mead-chinese-traditional: same_brand, ENT-fruit-wine-kiwi-wine: same_brand, ENT-fruit-wine-mango: same_region, ENT-baike-fruit_wine-zhuyeqing-jiu: same_subcat}
 data_confidence: simulated

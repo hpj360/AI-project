@@ -4,8 +4,8 @@ title: 响 21 年
 category: ENT
 tags: [威士忌, 日本, 调和威士忌]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-gin-roku, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-brand-hibiki-harmony, ENT-whisky-hibiki-17]
 related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-brand-hibiki-harmony: same_region, ENT-whisky-hibiki-17: same_region}
 data_confidence: simulated

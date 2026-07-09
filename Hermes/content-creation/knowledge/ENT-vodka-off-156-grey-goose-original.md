@@ -4,8 +4,8 @@ title: Grey goose original
 category: ENT
 tags: [OpenFoodFacts, vodka, 伏特加, Grey Goose]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-vodka-grey-goose-original, ENT-vodka-grey-goose-le-citron, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia]
 related_typed: {ENT-vodka-grey-goose-original: same_brand, ENT-vodka-grey-goose-le-citron: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat}
 data_confidence: verified

@@ -4,8 +4,8 @@ title: 麦卡伦 12 年雪莉桶
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 雪莉桶]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-classic-cut, ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-15-solera]
 related_typed: {ENT-whisky-macallan-12-double-cask: same_brand, ENT-whisky-macallan-18-sherry-oak: same_brand, ENT-whisky-macallan-classic-cut: same_brand, ENT-whisky-glenfiddich-12: same_region, ENT-whisky-glenfiddich-15-solera: same_region}
 data_confidence: simulated

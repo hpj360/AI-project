@@ -4,10 +4,10 @@ title: Sake de cuisine
 category: ENT
 tags: [OpenFoodFacts, sake, 清酒, Hura]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-sake-off-096-cooking-sake, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine]
-related_typed: {ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-baike-sake-juyondai, ENT-baike-sake-hakutsuru, ENT-sake-off-096-cooking-sake, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake]
+related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-baike-sake-hakutsuru: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: same_subcat}
 data_confidence: verified
 ratings:
   vivino: {score: 4.8, votes: 36970}

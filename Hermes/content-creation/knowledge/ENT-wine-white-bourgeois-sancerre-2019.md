@@ -4,10 +4,10 @@ title: 亨利布鲁瓦桑塞尔 2019
 category: ENT
 tags: [白酒, 卢瓦尔, 长相思, Sancerre]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-rose-bourgeois-sancerre-rose-2019, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
-related_typed: {ENT-wine-rose-bourgeois-sancerre-rose-2019: same_brand, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-rose-bourgeois-sancerre-rose-2019, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic]
+related_typed: {ENT-wine-rose-bourgeois-sancerre-rose-2019: same_brand, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 34285}

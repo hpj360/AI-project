@@ -4,10 +4,10 @@ title: 金色年华
 category: ENT
 tags: [黄酒, 上海, 金色年华, 海派]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-yellow-wine-shikumen, ENT-yellow-wine-hejiu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-kuaiji-shan, ENT-baike-yellow_wine-tapai-huangjiu]
-related_typed: {ENT-yellow-wine-shikumen: same_brand, ENT-yellow-wine-hejiu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-kuaiji-shan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-yellow-wine-shikumen, ENT-yellow-wine-hejiu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu]
+related_typed: {ENT-yellow-wine-shikumen: same_brand, ENT-yellow-wine-hejiu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 21277}

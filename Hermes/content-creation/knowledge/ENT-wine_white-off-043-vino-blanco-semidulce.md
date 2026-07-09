@@ -4,8 +4,8 @@ title: Vino Blanco Semidulce
 category: ENT
 tags: [OpenFoodFacts, wine_white, 白葡萄酒, Vinya del Mar]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019]
 related_typed: {ENT-wine_white-off-026-cordon-negro-umiv-v-no: same_region, ENT-wine_white-off-031-vino-blanco: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-027-vin: cross_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: same_subcat}
 data_confidence: verified

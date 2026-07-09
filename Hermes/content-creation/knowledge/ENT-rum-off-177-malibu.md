@@ -4,8 +4,8 @@ title: Malibu
 category: ENT
 tags: [OpenFoodFacts, rum, 朗姆酒, Malibu]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-rum-off-169-caribbean-rum-with-coconut-flavour, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold]
 related_typed: {ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_brand, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat}
 data_confidence: verified

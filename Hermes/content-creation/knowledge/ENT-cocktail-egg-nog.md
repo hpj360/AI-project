@@ -4,8 +4,8 @@ title: 蛋奶酒
 category: ENT
 tags: [鸡尾酒, 潘趣, 波本, 干邑, 圣诞]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-brandy-hennessy-xo, ENT-cocktail-saketini]
 related_typed: {ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
 data_confidence: official

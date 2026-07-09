@@ -4,8 +4,8 @@ title: 八海山 纯米大吟醸
 category: ENT
 tags: [清酒, 日本, 纯米大吟醸, 八海山]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-genshu, ENT-sake-hakkaisan-3nen, ENT-sake-josen-mizunogotoshi]
 related_typed: {ENT-sake-hakkaisan-honjozo: same_brand, ENT-sake-hakkaisan-ginjo: same_brand, ENT-sake-hakkaisan-genshu: same_brand, ENT-sake-hakkaisan-3nen: same_region, ENT-sake-josen-mizunogotoshi: same_region}
 data_confidence: simulated

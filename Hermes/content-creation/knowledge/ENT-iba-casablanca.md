@@ -4,8 +4,8 @@ title: 卡萨布兰卡
 category: ENT
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Casablanca, 摇和]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-americano, ENT-cocktail-margarita, ENT-cocktail-daiquiri, ENT-cocktail-sidecar, ENT-cocktail-sazerac]
 related_typed: {ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat, ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sidecar: same_subcat, ENT-cocktail-sazerac: same_subcat}
 data_confidence: official

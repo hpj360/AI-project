@@ -4,8 +4,8 @@ title: 久保田 蔵出原酒
 category: ENT
 tags: [清酒, 日本, 纯米大吟醸, 久保田, 原酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-sake-kubota-senju, ENT-sake-kubota-manju, ENT-sake-kubota-suiju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban]
 related_typed: {ENT-sake-kubota-senju: same_brand, ENT-sake-kubota-manju: same_brand, ENT-sake-kubota-suiju: same_brand, ENT-sake-kubota-hyakuju: same_region, ENT-sake-kubota-hachiban: same_region}
 data_confidence: simulated

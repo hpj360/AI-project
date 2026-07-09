@@ -4,8 +4,8 @@ title: 中国劲酒
 category: ENT
 tags: [百度百科, fruit_wine, 中国劲酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-baike-fruit_wine-zhuyeqing-jiu]
 related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-baike-fruit_wine-zhuyeqing-jiu: same_subcat}
 data_confidence: verified
@@ -33,7 +33,7 @@ ratings:
 - **分类**：果酒
 - **产地**：中国
 - **生产商**：劲牌有限公司
-- **酒精度**：35%vol8
+- **酒精度**：35%vol
 - **参考价格（RMB）**：¥50-200
 - **价格档位**：
 
@@ -64,7 +64,7 @@ ratings:
 
 ### 历史
 
-1989年12
+1989年
 
 
 ## 合规信息

@@ -4,10 +4,10 @@ title: HB 皇家啤酒
 category: ENT
 tags: [啤酒, 德国, HB, 皇家啤酒, 慕尼黑清啤]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-beer-paulaner, ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing]
-related_typed: {ENT-beer-paulaner: same_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-beer-paulaner, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe]
+related_typed: {ENT-beer-paulaner: same_region, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 40235}

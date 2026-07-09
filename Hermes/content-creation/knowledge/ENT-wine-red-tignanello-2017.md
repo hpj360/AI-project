@@ -4,10 +4,10 @@ title: 天娜 2017
 category: ENT
 tags: [红酒, 意大利, 超级托斯卡纳, 桑娇维塞]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-solaia-2016, ENT-wine-red-flaccianello-2017, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-solaia-2016: same_brand, ENT-wine-red-flaccianello-2017: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-real-tignanello, ENT-wine-red-solaia-2016, ENT-wine-red-flaccianello-2017, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir]
+related_typed: {ENT-wine-real-tignanello: same_brand, ENT-wine-red-solaia-2016: same_brand, ENT-wine-red-flaccianello-2017: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 48960}

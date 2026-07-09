@@ -4,8 +4,8 @@ title: Champagne brut Cordon Rouge
 category: ENT
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Mumm]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-wine_sparkling-off-067-canard-duch-ne, ENT-brand-moet-chandon-imperial]
 related_typed: {ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_region, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_region, ENT-wine_sparkling-off-063-clairette-de-die-doux: same_region, ENT-wine_sparkling-off-067-canard-duch-ne: same_region, ENT-brand-moet-chandon-imperial: same_subcat}
 data_confidence: verified

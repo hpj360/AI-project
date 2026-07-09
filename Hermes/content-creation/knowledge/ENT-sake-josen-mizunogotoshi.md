@@ -4,8 +4,8 @@ title: 上善如水
 category: ENT
 tags: [清酒, 日本, 吟醸, 上善如水, 新潟]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-genshu, ENT-sake-hakkaisan-3nen]
 related_typed: {ENT-sake-hakkaisan-honjozo: same_region, ENT-sake-hakkaisan-ginjo: same_region, ENT-sake-hakkaisan-junmai-daiginjo: same_region, ENT-sake-hakkaisan-genshu: same_region, ENT-sake-hakkaisan-3nen: same_region}
 data_confidence: simulated

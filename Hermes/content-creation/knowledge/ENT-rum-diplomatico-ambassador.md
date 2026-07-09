@@ -4,8 +4,8 @@ title: 外交官 Ambassador
 category: ENT
 tags: [朗姆酒, 委内瑞拉, Diplomatico, 限量]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-rum-diplomatico-reserva-exclusiva, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel]
 related_typed: {ENT-rum-diplomatico-reserva-exclusiva: same_brand, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat}
 data_confidence: simulated

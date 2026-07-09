@@ -4,8 +4,8 @@ title: 乐王吉城堡 2015
 category: ENT
 tags: [红酒, 波尔多, 波美侯]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-red-lafite-2010, ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine-red-trotanoy-2015]
 related_typed: {ENT-wine-red-lafite-2010: same_brand, ENT-wine-red-petrus-2015: same_region, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-wine-red-trotanoy-2015: same_region}
 data_confidence: simulated

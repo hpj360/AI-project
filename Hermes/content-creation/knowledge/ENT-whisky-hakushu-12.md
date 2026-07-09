@@ -4,8 +4,8 @@ title: 白州 12 年
 category: ENT
 tags: [威士忌, 日本, 单一麦芽]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-gin-roku, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-hakushu-18, ENT-brand-jim-beam-white]
 related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-hakushu-18: same_region, ENT-brand-jim-beam-white: same_subcat}
 data_confidence: simulated

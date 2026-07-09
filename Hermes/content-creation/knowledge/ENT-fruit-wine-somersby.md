@@ -4,8 +4,8 @@ title: Somersby 西打酒
 category: ENT
 tags: [果酒, 西打酒, 苹果酒, 丹麦, Somersby]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-beer-carlsberg, ENT-baike-fruit_wine-zhuyeqing-jiu, ENT-baike-fruit_wine-jinjiu, ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu]
 related_typed: {ENT-beer-carlsberg: same_brand, ENT-baike-fruit_wine-zhuyeqing-jiu: cross_region, ENT-baike-fruit_wine-jinjiu: cross_region, ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: same_subcat}
 data_confidence: simulated

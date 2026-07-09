@@ -4,8 +4,8 @@ title: 阿达米加贝尔
 category: ENT
 tags: [起泡酒, 普罗塞克, Adami, DOCG]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-valdo-prosecco-nv, ENT-wine-sparkling-bisol-crede-nv, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
 related_typed: {ENT-wine-sparkling-bisol-cartizze-nv: same_region, ENT-wine-sparkling-valdo-prosecco-nv: same_region, ENT-wine-sparkling-bisol-crede-nv: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
 data_confidence: simulated

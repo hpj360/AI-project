@@ -4,8 +4,8 @@ title: 豪帅金龙舌兰
 category: ENT
 tags: [龙舌兰, 墨西哥, 豪帅, Oro]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-tequila-off-193-blue-agave-gold-tequila, ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-jose-cuervo-especial-gold, ENT-brand-patron-silver, ENT-brand-don-julio-blanco]
 related_typed: {ENT-tequila-off-193-blue-agave-gold-tequila: same_brand, ENT-tequila-off-195-jose-cuervo-tequila-especial: same_brand, ENT-tequila-jose-cuervo-especial-gold: same_brand, ENT-brand-patron-silver: same_region, ENT-brand-don-julio-blanco: same_region}
 data_confidence: official

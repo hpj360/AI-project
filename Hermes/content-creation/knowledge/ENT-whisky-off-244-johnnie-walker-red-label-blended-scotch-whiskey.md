@@ -4,8 +4,8 @@ title: Johnnie Walker Red Label Blended Scotch Whiskey
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, Johnnie Walker]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-265-black-label, ENT-whisky-off-270-red-label, ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-266-clan-campbell]
 related_typed: {ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-off-270-red-label: same_brand, ENT-whisky-off-245-monkey-shoulder: same_region, ENT-whisky-off-266-clan-campbell: same_region}
 data_confidence: verified

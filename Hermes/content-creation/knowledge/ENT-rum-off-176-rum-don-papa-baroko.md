@@ -4,8 +4,8 @@ title: Rum - Don Papa Baroko
 category: ENT
 tags: [OpenFoodFacts, rum, 朗姆酒, Bleeding Heart Rum]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-rum-off-168-masskara, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
 related_typed: {ENT-rum-off-168-masskara: same_region, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat}
 data_confidence: verified

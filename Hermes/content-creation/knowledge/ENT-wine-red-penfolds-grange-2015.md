@@ -4,10 +4,10 @@ title: 奔富葛兰许 2015
 category: ENT
 tags: [红酒, 澳洲, 设拉子, 南澳]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-penfolds-bin-707-2016, ENT-wine-white-penfolds-yattarna-2016, ENT-wine-red-wolf-blass-black-label-2014, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine-red-wolf-blass-black-label-2014: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-red-penfolds-bin-707-2016, ENT-wine-white-penfolds-yattarna-2016, ENT-wine-red-wolf-blass-black-label-2014, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
+related_typed: {ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine-red-wolf-blass-black-label-2014: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 6117}

@@ -4,8 +4,8 @@ title: 蝎子
 category: ENT
 tags: [鸡尾酒, Tiki, 朗姆, 白兰地, 橙, 美国]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-fog-cutter, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-brandy-hennessy-xo]
 related_typed: {ENT-cocktail-fog-cutter: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail}
 data_confidence: simulated

@@ -4,8 +4,8 @@ title: 巴黎之花美丽时光 2013
 category: ENT
 tags: [起泡酒, 香槟, Perrier-Jouët, 年份]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-sparkling-dom-perignon-2012, ENT-wine-sparkling-pol-roger-winston-churchill-2013, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 related_typed: {ENT-wine-sparkling-dom-perignon-2012: same_region, ENT-wine-sparkling-pol-roger-winston-churchill-2013: same_region, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 data_confidence: simulated

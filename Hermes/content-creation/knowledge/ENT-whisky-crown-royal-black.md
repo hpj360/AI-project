@@ -4,8 +4,8 @@ title: 皇冠 黑麦
 category: ENT
 tags: [威士忌, 加拿大, 调和威士忌]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-crown-royal, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal]
 related_typed: {ENT-whisky-crown-royal: same_brand, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat}
 data_confidence: simulated

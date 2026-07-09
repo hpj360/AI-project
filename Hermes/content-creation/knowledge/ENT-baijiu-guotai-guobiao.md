@@ -4,8 +4,8 @@ title: 国台 国标
 category: ENT
 tags: [白酒, 酱香, 贵州, 国台]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-baijiu-diaoyutai-guobin, ENT-baijiu-laimao-chuancheng, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
 related_typed: {ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-laimao-chuancheng: same_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 data_confidence: simulated

@@ -4,10 +4,10 @@ title: 浙江古越龙山绍兴酒股份有限公司
 category: ENT
 tags: [百度百科, yellow_wine, 浙江古越龙山绍兴酒股份有限公司]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-danyang-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-baike-yellow_wine-kuaiji-shan]
-related_typed: {ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-danyang-huangjiu: cross_region, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-baike-yellow_wine-kuaiji-shan: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-baike-yellow_wine-danyang-huangjiu, ENT-baike-yellow_wine-jiaxing-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-baike-yellow_wine-tapai-huangjiu]
+related_typed: {ENT-baike-yellow_wine-danyang-huangjiu: cross_region, ENT-baike-yellow_wine-jiaxing-huangjiu: cross_region, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 ratings:

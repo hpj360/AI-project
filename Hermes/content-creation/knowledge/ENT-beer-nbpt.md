@@ -4,10 +4,10 @@ title: 牛啤堂啤酒
 category: ENT
 tags: [啤酒, 中国, 牛啤堂, 精酿, 北京]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat, ENT-beer-tiaohai]
-related_typed: {ENT-beer-yanjing: same_region, ENT-beer-jing-a: same_region, ENT-beer-great-leap: same_region, ENT-beer-slowboat: same_region, ENT-beer-tiaohai: same_region}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-beer-snow, ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat]
+related_typed: {ENT-beer-snow: same_region, ENT-beer-yanjing: same_region, ENT-beer-jing-a: same_region, ENT-beer-great-leap: same_region, ENT-beer-slowboat: same_region}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 19968}

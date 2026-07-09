@@ -4,10 +4,10 @@ title: 波菲城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 圣朱利安]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-leoville-las-cases-2016, ENT-wine-red-ducru-beaucaillou-2016, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux]
-related_typed: {ENT-wine-red-leoville-las-cases-2016: same_region, ENT-wine-red-ducru-beaucaillou-2016: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-red-leoville-las-cases-2016, ENT-wine-red-ducru-beaucaillou-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-red-leoville-las-cases-2016: same_region, ENT-wine-red-ducru-beaucaillou-2016: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 16444}

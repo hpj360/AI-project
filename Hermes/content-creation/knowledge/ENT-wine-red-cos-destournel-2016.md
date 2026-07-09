@@ -4,10 +4,10 @@ title: 科比埃城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 圣埃斯泰夫]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion, ENT-brand-romanee-conti]
-related_typed: {ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
+related_typed: {ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 3.9, votes: 41140}

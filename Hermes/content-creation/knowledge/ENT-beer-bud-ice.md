@@ -4,10 +4,10 @@ title: 百威冰啤
 category: ENT
 tags: [啤酒, 美国, 百威, 冰啤]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-beer-budweiser, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-heineken, ENT-beer-carlsberg]
-related_typed: {ENT-beer-budweiser: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-beer-budweiser, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu]
+related_typed: {ENT-beer-budweiser: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 7504}

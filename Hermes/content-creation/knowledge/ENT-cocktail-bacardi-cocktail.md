@@ -4,8 +4,8 @@ title: 百加得鸡尾酒
 category: ENT
 tags: [鸡尾酒, IBA, 酸酒, 朗姆, 百加得]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-daiquiri, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-sake-bomb]
 related_typed: {ENT-cocktail-daiquiri: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
 data_confidence: official

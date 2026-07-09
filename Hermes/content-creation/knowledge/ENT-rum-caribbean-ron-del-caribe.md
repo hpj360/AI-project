@@ -4,8 +4,8 @@ title: 加勒比 Ron del Caribe
 category: ENT
 tags: [朗姆酒, 古巴, 加勒比]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-rum-havana-club-3, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel]
 related_typed: {ENT-rum-havana-club-3: same_region, ENT-rum-havana-club-7: same_region, ENT-rum-havana-club-anejo-reserva: same_region, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat}
 data_confidence: simulated

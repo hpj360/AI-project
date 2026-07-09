@@ -4,10 +4,10 @@ title: 玛歌城堡 2015
 category: ENT
 tags: [红酒, 波尔多, 一级庄]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-rauzan-segla-2016, ENT-wine-red-palmer-2015, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux]
-related_typed: {ENT-wine-red-rauzan-segla-2016: same_region, ENT-wine-red-palmer-2015: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-real-margaux, ENT-wine-red-rauzan-segla-2016, ENT-wine-red-palmer-2015, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
+related_typed: {ENT-wine-real-margaux: same_brand, ENT-wine-red-rauzan-segla-2016: same_region, ENT-wine-red-palmer-2015: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 14998}

@@ -4,10 +4,10 @@ title: 力士登堡 2015
 category: ENT
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-brand-romanee-conti, ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-chambertin-rousseau-2015, ENT-brand-haut-brion]
-related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-chambertin-rousseau-2015: same_region, ENT-brand-haut-brion: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-red-chambertin-rousseau-2015, ENT-brand-opus-one]
+related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-red-chambertin-rousseau-2015: same_region, ENT-brand-opus-one: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 3048}

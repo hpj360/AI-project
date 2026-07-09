@@ -4,10 +4,10 @@ title: 肯德尔杰克逊珍藏霞多丽 2018
 category: ENT
 tags: [白酒, 新世界, 霞多丽, 加州]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-white-kistler-les-embisees-2017, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-032-blanc]
-related_typed: {ENT-wine-white-kistler-les-embisees-2017: same_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat, ENT-wine_white-off-032-blanc: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-white-kistler-les-embisees-2017, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense]
+related_typed: {ENT-wine-white-kistler-les-embisees-2017: same_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 1250}

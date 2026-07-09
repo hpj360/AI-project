@@ -4,10 +4,10 @@ title: 拉菲古堡 2010
 category: ENT
 tags: [红酒, 波尔多, 一级庄, 赤霞珠]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-brand-lafite-rothschild, ENT-wine-red-levangile-2015, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016]
-related_typed: {ENT-brand-lafite-rothschild: same_brand, ENT-wine-red-levangile-2015: same_brand, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-red-levangile-2015, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016, ENT-wine-red-pichon-lalande-2016]
+related_typed: {ENT-wine-red-levangile-2015: same_brand, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region, ENT-wine-red-pichon-lalande-2016: same_region}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 4266}

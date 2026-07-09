@@ -4,8 +4,8 @@ title: 水果蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 英国, 水果, mead]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-mead-traditional, ENT-mead-cyser, ENT-mead-ginger, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-traditional: same_brand, ENT-mead-cyser: same_region, ENT-mead-ginger: same_region, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
 data_confidence: simulated

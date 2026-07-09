@@ -4,8 +4,8 @@ title: 绝对伏特加 原味
 category: ENT
 tags: [伏特加, 瑞典, 绝对]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-160-absolut, ENT-vodka-absolut-citron, ENT-brand-belvedere, ENT-brand-stolichnaya]
 related_typed: {ENT-vodka-off-141-absolut-vodka: same_brand, ENT-vodka-off-160-absolut: same_brand, ENT-vodka-absolut-citron: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: same_subcat}
 data_confidence: simulated

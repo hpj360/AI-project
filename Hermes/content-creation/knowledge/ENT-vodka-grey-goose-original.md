@@ -4,8 +4,8 @@ title: 灰雁 原味
 category: ENT
 tags: [伏特加, 法国, 灰雁]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-vodka-off-156-grey-goose-original, ENT-vodka-grey-goose-le-citron, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia]
 related_typed: {ENT-vodka-off-156-grey-goose-original: same_brand, ENT-vodka-grey-goose-le-citron: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat}
 data_confidence: simulated

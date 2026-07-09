@@ -4,8 +4,8 @@ title: 威士忌品鉴法
 category: ENT
 tags: [SOP, 威士忌, 品鉴]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-sake-tasting, SOP-baijiu-tasting, SOP-champagne-service]
 related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat, SOP-champagne-service: same_subcat}
 data_confidence: simulated

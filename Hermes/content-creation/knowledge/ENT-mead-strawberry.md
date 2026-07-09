@@ -4,8 +4,8 @@ title: 草莓蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 美国, 草莓, 水果]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-mead-blueberry, ENT-mead-peach, ENT-mead-cinnamon, ENT-mead-sparkling, ENT-mead-shennong-honey]
 related_typed: {ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-cinnamon: same_brand, ENT-mead-sparkling: same_region, ENT-mead-shennong-honey: same_subcat}
 data_confidence: simulated

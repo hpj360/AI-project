@@ -4,8 +4,8 @@ title: 拉弗格 10 年
 category: ENT
 tags: [威士忌, 苏格兰, 艾雷岛, 单一麦芽, 泥煤]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brand-lagavulin-16, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white]
 related_typed: {ENT-brand-lagavulin-16: same_region, ENT-brand-johnnie-walker-black: cross_region, ENT-brand-chivas-regal-12: cross_region, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat}
 data_confidence: official

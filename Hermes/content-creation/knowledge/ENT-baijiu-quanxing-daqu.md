@@ -4,8 +4,8 @@ title: 全兴大曲
 category: ENT
 tags: [白酒, 浓香, 四川, 全兴]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-baijiu-shuijingfang-zhenniang-8, ENT-baijiu-shuijingfang-jingtai, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
 related_typed: {ENT-baijiu-shuijingfang-zhenniang-8: same_region, ENT-baijiu-shuijingfang-jingtai: same_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 data_confidence: simulated

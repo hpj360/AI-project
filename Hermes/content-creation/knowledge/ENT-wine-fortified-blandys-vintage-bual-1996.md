@@ -4,8 +4,8 @@ title: 布兰迪年份布尔 1996
 category: ENT
 tags: [加强酒, 马德拉, Bual, 年份]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-fortified-justinos-madeira-sercial-10yo, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017]
 related_typed: {ENT-wine-fortified-justinos-madeira-sercial-10yo: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_subcat}
 data_confidence: simulated

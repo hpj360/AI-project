@@ -4,8 +4,8 @@ title: 添加利伦敦干金酒
 category: ENT
 tags: [金酒, 英国, 伦敦干金酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brand-gordons-london-dry, ENT-brand-beefeater-london-dry, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
 related_typed: {ENT-brand-gordons-london-dry: same_region, ENT-brand-beefeater-london-dry: same_region, ENT-gin-gordons-london-dry: same_subcat, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat}
 data_confidence: official

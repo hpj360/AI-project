@@ -4,10 +4,10 @@ title: 黑樱桃酒
 category: ENT
 tags: [果酒, 黑樱桃, 核果, 丹麦]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-baike-fruit_wine-juhua-jiu, ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu]
-related_typed: {ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-baike-fruit_wine-juhua-jiu: cross_region, ENT-fruit-wine-choya-umeshu: same_subcat, ENT-fruit-wine-suntory-umeshu: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu]
+related_typed: {ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: same_subcat, ENT-fruit-wine-umenoyado-umeshu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 43644}

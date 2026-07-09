@@ -4,8 +4,8 @@ title: Vodka
 category: ENT
 tags: [OpenFoodFacts, vodka, 伏特加, Eristoff]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-vodka-off-151-eristoff-black-70cl-18, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
 related_typed: {ENT-vodka-off-151-eristoff-black-70cl-18: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat}
 data_confidence: verified

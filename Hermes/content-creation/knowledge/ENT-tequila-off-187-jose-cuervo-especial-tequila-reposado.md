@@ -4,8 +4,8 @@ title: Jose Cuervo Especial Tequila Reposado
 category: ENT
 tags: [OpenFoodFacts, tequila, 龙舌兰, José Cuervo]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-tequila-off-196-silver-tequila, ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-brand-sauza-blanco]
 related_typed: {ENT-tequila-off-196-silver-tequila: same_brand, ENT-brand-jose-cuervo-especial: cross_region, ENT-brand-patron-silver: cross_region, ENT-brand-don-julio-blanco: cross_region, ENT-brand-sauza-blanco: same_subcat}
 data_confidence: verified

@@ -4,8 +4,8 @@ title: 庞特卡奈城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 波亚克, 生物动力]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016, ENT-wine-red-pichon-lalande-2016]
 related_typed: {ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region, ENT-wine-red-pichon-lalande-2016: same_region}
 data_confidence: simulated

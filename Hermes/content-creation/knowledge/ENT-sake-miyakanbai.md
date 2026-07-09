@@ -4,10 +4,10 @@ title: 宫寒梅
 category: ENT
 tags: [清酒, 日本, 纯米大吟醸, 宫寒梅, 宫城]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux, ENT-sake-off-102-sake-de-cuisine]
-related_typed: {ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: cross_region, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat, ENT-sake-off-102-sake-de-cuisine: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux]
+related_typed: {ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.3, votes: 27186}

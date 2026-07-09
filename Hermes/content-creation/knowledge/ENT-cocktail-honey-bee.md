@@ -4,8 +4,8 @@ title: 蜜蜂
 category: ENT
 tags: [鸡尾酒, 现代经典, 朗姆, 蜂蜜, 柠檬]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash, ENT-cocktail-brandy-fix, ENT-cocktail-port-sangaree]
 related_typed: {ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region, ENT-cocktail-brandy-fix: same_region, ENT-cocktail-port-sangaree: same_region}
 data_confidence: simulated

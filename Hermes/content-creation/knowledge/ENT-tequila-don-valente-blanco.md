@@ -4,8 +4,8 @@ title: 特奎拉 Don Valente Blanco
 category: ENT
 tags: [龙舌兰, 墨西哥, Don Valente, Blanco]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-tequila-orendain-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
 related_typed: {ENT-tequila-orendain-blanco: same_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
 data_confidence: simulated

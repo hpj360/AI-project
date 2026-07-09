@@ -4,8 +4,8 @@ title: 金钟城堡 2015
 category: ENT
 tags: [红酒, 波尔多, 圣埃美隆, 一级A]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-red-cheval-blanc-2015, ENT-wine-red-ausone-2015, ENT-wine-red-pavie-2015, ENT-wine-red-peby-faugeres-2015, ENT-wine-red-figeac-2015]
 related_typed: {ENT-wine-red-cheval-blanc-2015: same_region, ENT-wine-red-ausone-2015: same_region, ENT-wine-red-pavie-2015: same_region, ENT-wine-red-peby-faugeres-2015: same_region, ENT-wine-red-figeac-2015: same_region}
 data_confidence: simulated

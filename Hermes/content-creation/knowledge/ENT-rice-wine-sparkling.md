@@ -4,10 +4,10 @@ title: 气泡米酒
 category: ENT
 tags: [米酒, 气泡, 创新, 中国]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-rice-wine-peach, ENT-baike-rice_wine-riben-qingjiu, ENT-baike-rice_wine-hanguo-makgeolli, ENT-baike-rice_wine-kejia-niangjiu, ENT-rice-wine-kejia-mijiu]
-related_typed: {ENT-rice-wine-peach: same_brand, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-baike-rice_wine-hanguo-makgeolli: cross_region, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-rice-wine-kejia-mijiu: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-rice-wine-peach, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
+related_typed: {ENT-rice-wine-peach: same_brand, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 32668}

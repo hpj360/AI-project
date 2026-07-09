@@ -4,8 +4,8 @@ title: 银快 Blanco
 category: ENT
 tags: [龙舌兰, 墨西哥, 银快, Blanco]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-brand-sauza-blanco, ENT-tequila-off-183-tequila-gold]
 related_typed: {ENT-brand-jose-cuervo-especial: cross_region, ENT-brand-patron-silver: cross_region, ENT-brand-don-julio-blanco: cross_region, ENT-brand-sauza-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat}
 data_confidence: official

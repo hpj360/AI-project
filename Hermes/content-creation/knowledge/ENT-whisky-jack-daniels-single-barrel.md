@@ -4,8 +4,8 @@ title: 杰克丹尼 单桶
 category: ENT
 tags: [威士忌, 美国, 田纳西威士忌, 单桶]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-old-no7, ENT-whisky-jack-daniels-gentleman-jack, ENT-brand-yamazaki-12]
 related_typed: {ENT-whisky-off-247-whisky-old-n-7: same_brand, ENT-whisky-off-261-tennessee-whiskey: same_brand, ENT-whisky-jack-daniels-old-no7: same_brand, ENT-whisky-jack-daniels-gentleman-jack: same_region, ENT-brand-yamazaki-12: same_subcat}
 data_confidence: simulated

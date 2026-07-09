@@ -28,17 +28,25 @@ HEADERS = {
     "Referer": "https://baike.baidu.com/",
 }
 
-# 子类 → 关键词列表（共 40 个品牌）
+# 子类 → 关键词列表（共 100 个品牌）
 BRANDS = {
     "baijiu": [
+        # 品牌系列
         "茅台酒", "五粮液", "剑南春", "泸州老窖", "汾酒",
         "西凤酒", "古井贡酒", "洋河大曲", "董酒", "郎酒",
         "习酒", "水井坊", "舍得酒", "酒鬼酒", "衡水老白干",
         "牛栏山二锅头", "红星二锅头", "宋河粮液", "宝丰酒", "武陵酒",
+        # 具体产品
+        "茅台飞天", "五粮液普五", "五粮液1618", "剑南春水晶剑", "泸州老窖特曲",
+        "泸州老窖国窖1573", "汾酒青花30", "汾酒老白汾", "西凤酒华山论剑", "洋河海之蓝",
+        "洋河天之蓝", "洋河梦之蓝", "古井贡酒年份原浆", "郎酒红花郎", "习酒窖藏1988",
+        "水井坊井台", "舍得品味", "酒鬼酒内参", "牛栏山百年", "红星蓝花十五",
     ],
     "yellow_wine": [
         "古越龙山", "会稽山", "塔牌黄酒", "即墨老酒", "沙洲优黄",
         "丹阳黄酒", "福建老酒", "无锡老酒", "嘉兴黄酒", "黑米酒",
+        # 具体产品
+        "古越龙山三年陈", "古越龙山十年陈", "塔牌冬酿", "会稽山纯生", "即墨老酒十年陈",
     ],
     "rice_wine": [
         "桂林三花酒", "客家娘酒", "广东老米酒", "日本清酒", "韩国马格利",
@@ -46,6 +54,31 @@ BRANDS = {
     "fruit_wine": [
         "竹叶青酒", "劲酒", "五加皮酒", "桂花酒", "菊花酒",
     ],
+    "wine": [
+        "张裕葡萄酒", "张裕解百纳", "长城葡萄酒", "王朝葡萄酒", "威龙葡萄酒",
+        "莫高葡萄酒", "尼雅葡萄酒", "贺兰山葡萄酒", "通化葡萄酒", "龙徽葡萄酒",
+    ],
+    "beer": [
+        "青岛啤酒", "燕京啤酒", "雪花啤酒", "哈尔滨啤酒", "珠江啤酒",
+        "重庆啤酒", "乌苏啤酒", "泰山啤酒", "兰州黄河", "金威啤酒",
+    ],
+    "sake": [
+        "獺祭", "久保田", "八海山", "十四代", "白鹤",
+    ],
+    "spirits_intl": [
+        "麦卡伦18年", "格兰菲迪15年", "百龄坛12年", "芝华士18年", "轩尼诗XO",
+        "人头马CLUB", "马爹利蓝带", "杰克丹尼蜂蜜", "金宾黑麦", "尊美醇18年",
+    ],
+}
+
+# 非中国品牌的关键词 → 国家（用于覆盖默认 "中国"）
+KEYWORD_COUNTRY = {
+    # 清酒（日本）
+    "獺祭": "日本", "久保田": "日本", "八海山": "日本", "十四代": "日本", "白鹤": "日本",
+    # 国际烈酒
+    "麦卡伦18年": "英国", "格兰菲迪15年": "英国", "百龄坛12年": "英国", "芝华士18年": "英国",
+    "轩尼诗XO": "法国", "人头马CLUB": "法国", "马爹利蓝带": "法国",
+    "杰克丹尼蜂蜜": "美国", "金宾黑麦": "美国", "尊美醇18年": "爱尔兰",
 }
 
 # 关键词 → URL 友好 slug（拼音/英文）
@@ -71,6 +104,44 @@ SLUGS = {
     # 果酒/其他
     "竹叶青酒": "zhuyeqing-jiu", "劲酒": "jinjiu", "五加皮酒": "wujiapi-jiu",
     "桂花酒": "guihua-jiu", "菊花酒": "juhua-jiu",
+    # 白酒具体产品
+    "茅台飞天": "maotai-feitian", "五粮液普五": "wuliangye-puwu",
+    "五粮液1618": "wuliangye-1618", "剑南春水晶剑": "jiannanchun-shuijingjian",
+    "泸州老窖特曲": "luzhou-laojiao-tequ", "泸州老窖国窖1573": "luzhou-laojiao-guojiao-1573",
+    "汾酒青花30": "fenjiu-qinghua-30", "汾酒老白汾": "fenjiu-laobaifen",
+    "西凤酒华山论剑": "xifeng-jiu-huashanlunjian", "洋河海之蓝": "yanghe-haizhilan",
+    "洋河天之蓝": "yanghe-tianzhilan", "洋河梦之蓝": "yanghe-mengzhilan",
+    "古井贡酒年份原浆": "gujing-gongjiu-nianfenyuanjiang",
+    "郎酒红花郎": "langjiu-honghualang", "习酒窖藏1988": "xijiu-jiaocang-1988",
+    "水井坊井台": "shuijingfang-jingtai", "舍得品味": "shede-pinwei",
+    "酒鬼酒内参": "jiugui-jiu-neican", "牛栏山百年": "niulanshan-bainian",
+    "红星蓝花十五": "hongxing-lanhua-shiwu",
+    # 黄酒具体产品
+    "古越龙山三年陈": "guyue-longshan-sannianchen",
+    "古越龙山十年陈": "guyue-longshan-shinianchen",
+    "塔牌冬酿": "tapai-dongniang", "会稽山纯生": "kuaiji-shan-chunsheng",
+    "即墨老酒十年陈": "jimo-laojiu-shinianchen",
+    # 葡萄酒（国产）
+    "张裕葡萄酒": "zhangyu-putaojiu", "张裕解百纳": "zhangyu-jiebaina",
+    "长城葡萄酒": "changcheng-putaojiu", "王朝葡萄酒": "wangchao-putaojiu",
+    "威龙葡萄酒": "weilong-putaojiu", "莫高葡萄酒": "mogao-putaojiu",
+    "尼雅葡萄酒": "niya-putaojiu", "贺兰山葡萄酒": "helanshan-putaojiu",
+    "通化葡萄酒": "tonghua-putaojiu", "龙徽葡萄酒": "longhui-putaojiu",
+    # 啤酒（国产）
+    "青岛啤酒": "qingdao-pijiu", "燕京啤酒": "yanjing-pijiu",
+    "雪花啤酒": "xuehua-pijiu", "哈尔滨啤酒": "haerbin-pijiu",
+    "珠江啤酒": "zhujiang-pijiu", "重庆啤酒": "chongqing-pijiu",
+    "乌苏啤酒": "wusu-pijiu", "泰山啤酒": "taishan-pijiu",
+    "兰州黄河": "lanzhou-huanghe", "金威啤酒": "jinwei-pijiu",
+    # 清酒（日本）
+    "獺祭": "dassai", "久保田": "kubota", "八海山": "hakkaisan",
+    "十四代": "juyondai", "白鹤": "hakutsuru",
+    # 国际烈酒
+    "麦卡伦18年": "macallan-18", "格兰菲迪15年": "glenfiddich-15",
+    "百龄坛12年": "ballantines-12", "芝华士18年": "chivas-18",
+    "轩尼诗XO": "hennessy-xo", "人头马CLUB": "remy-martin-club",
+    "马爹利蓝带": "martell-cordon-bleu", "杰克丹尼蜂蜜": "jack-daniels-honey",
+    "金宾黑麦": "jim-beam-rye", "尊美醇18年": "jameson-18",
 }
 
 # 部分关键词直接查不到 lemma 时的备选查询词（按顺序尝试）
@@ -88,6 +159,26 @@ ALTERNATES = {
     "古井贡酒": ["古井贡"],
     "衡水老白干": ["衡水老白干酒", "老白干"],
     "会稽山": ["会稽山黄酒", "会稽山绍兴酒"],
+    # 白酒具体产品备选
+    "茅台飞天": ["飞天茅台"],
+    "五粮液普五": ["普五"],
+    "剑南春水晶剑": ["水晶剑"],
+    "泸州老窖国窖1573": ["国窖1573"],
+    "汾酒青花30": ["青花汾酒"],
+    "汾酒老白汾": ["老白汾"],
+    "洋河海之蓝": ["海之蓝"],
+    "洋河天之蓝": ["天之蓝"],
+    "洋河梦之蓝": ["梦之蓝"],
+    "郎酒红花郎": ["红花郎"],
+    "习酒窖藏1988": ["窖藏1988"],
+    "酒鬼酒内参": ["内参酒"],
+    # 清酒备选（繁简/别名）
+    "獺祭": ["獭祭"],
+    "白鹤": ["白鹤清酒"],
+    # 国际烈酒备选
+    "轩尼诗XO": ["轩尼诗X.O"],
+    "人头马CLUB": ["人头马CLUB"],
+    "金宾黑麦": ["金宾", "占边"],
 }
 
 
@@ -273,7 +364,7 @@ def main():
                 "aliases": [],
                 "tags": ["百度百科", subcategory, parsed["title"]],
                 "summary": parsed["summary"],
-                "country": parsed["country"],
+                "country": KEYWORD_COUNTRY.get(kw, parsed["country"]),
                 "region": parsed["region"],
                 "producer": parsed["producer"],
                 "abv": parsed["abv"],
@@ -317,7 +408,7 @@ def main():
         "",
         f"共 {len(entries)} 条目，由 crawl_baike_baijiu.py 自动生成。",
         "数据来源: 百度百科 openapi (https://baike.baidu.com/api/openapi/BaikeLemmaCardApi)",
-        "subcategory: baijiu(白酒) / yellow_wine(黄酒) / rice_wine(米酒) / fruit_wine(果酒·其他)",
+        "subcategory: baijiu(白酒) / yellow_wine(黄酒) / rice_wine(米酒) / fruit_wine(果酒) / wine(葡萄酒) / beer(啤酒) / sake(清酒) / spirits_intl(国际烈酒)",
         '字段 source 标记为真实抓取数据。',
         '"""',
         "",

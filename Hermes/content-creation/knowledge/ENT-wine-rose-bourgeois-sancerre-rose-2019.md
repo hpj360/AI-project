@@ -4,8 +4,8 @@ title: 亨利布鲁瓦桑塞尔桃红 2019
 category: ENT
 tags: [桃红, 卢瓦尔, 黑皮诺, Sancerre]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-wine-white-bourgeois-sancerre-2019, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019]
 related_typed: {ENT-wine-white-bourgeois-sancerre-2019: same_brand, ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: same_subcat}
 data_confidence: simulated

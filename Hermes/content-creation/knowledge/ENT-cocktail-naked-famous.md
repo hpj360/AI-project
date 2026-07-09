@@ -4,8 +4,8 @@ title: 赤裸与成名
 category: ENT
 tags: [鸡尾酒, 现代经典, 酸酒, 梅斯卡尔]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-oaxaca-old-fashioned, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler]
 related_typed: {ENT-cocktail-oaxaca-old-fashioned: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region}
 data_confidence: simulated

@@ -4,10 +4,10 @@ title: 智美红帽
 category: ENT
 tags: [啤酒, 比利时, 智美, 修道院啤酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-beer-chimay-blue, ENT-beer-chimay-gold, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser]
-related_typed: {ENT-beer-chimay-blue: same_brand, ENT-beer-chimay-gold: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-beer-chimay-blue, ENT-beer-chimay-gold, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
+related_typed: {ENT-beer-chimay-blue: same_brand, ENT-beer-chimay-gold: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.2, votes: 41531}

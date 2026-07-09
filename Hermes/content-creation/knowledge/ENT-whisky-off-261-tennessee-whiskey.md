@@ -4,8 +4,8 @@ title: Tennessee Whiskey
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, Jack Daniel's]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-jack-daniels-old-no7, ENT-whisky-jack-daniels-single-barrel, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10]
 related_typed: {ENT-whisky-off-247-whisky-old-n-7: same_brand, ENT-whisky-jack-daniels-old-no7: same_brand, ENT-whisky-jack-daniels-single-barrel: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: same_subcat}
 data_confidence: verified

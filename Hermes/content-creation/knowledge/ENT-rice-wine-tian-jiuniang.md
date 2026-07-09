@@ -4,10 +4,10 @@ title: 甜酒酿
 category: ENT
 tags: [米酒, 甜酒酿, 传统]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-rice-wine-nuomi-jiu, ENT-rice-wine-zhaquan, ENT-rice-wine-osmanthus, ENT-baike-rice_wine-guilin-sanhua-jiu, ENT-baike-rice_wine-riben-qingjiu]
-related_typed: {ENT-rice-wine-nuomi-jiu: same_brand, ENT-rice-wine-zhaquan: same_brand, ENT-rice-wine-osmanthus: same_region, ENT-baike-rice_wine-guilin-sanhua-jiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-rice-wine-nuomi-jiu, ENT-rice-wine-zhaquan, ENT-rice-wine-osmanthus, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu]
+related_typed: {ENT-rice-wine-nuomi-jiu: same_brand, ENT-rice-wine-zhaquan: same_brand, ENT-rice-wine-osmanthus: same_region, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 30503}

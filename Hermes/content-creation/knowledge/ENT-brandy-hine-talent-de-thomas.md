@@ -4,8 +4,8 @@ title: 御鹿 纯净
 category: ENT
 tags: [白兰地, 干邑, 法国, 御鹿, 限量]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brandy-hine-xo, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis]
 related_typed: {ENT-brandy-hine-xo: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region, ENT-brandy-hennessy-paradis: same_region}
 data_confidence: simulated

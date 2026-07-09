@@ -4,10 +4,10 @@ title: 嘉士伯啤酒
 category: ENT
 tags: [啤酒, 丹麦, 嘉士伯, 工业拉格]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-fruit-wine-somersby, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken]
-related_typed: {ENT-fruit-wine-somersby: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-fruit-wine-somersby, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu]
+related_typed: {ENT-fruit-wine-somersby: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 18707}

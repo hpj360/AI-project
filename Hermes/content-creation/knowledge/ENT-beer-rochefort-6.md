@@ -4,10 +4,10 @@ title: 罗斯福 6 号
 category: ENT
 tags: [啤酒, 比利时, 罗斯福, 修道院啤酒, 双料]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-beer-rochefort-8, ENT-beer-rochefort-10, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser]
-related_typed: {ENT-beer-rochefort-8: same_brand, ENT-beer-rochefort-10: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-beer-rochefort-8, ENT-beer-rochefort-10, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
+related_typed: {ENT-beer-rochefort-8: same_brand, ENT-beer-rochefort-10: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 15579}

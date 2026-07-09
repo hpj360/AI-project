@@ -4,8 +4,8 @@ title: 拿破仑 XO
 category: ENT
 tags: [白兰地, 干邑, 法国, 拿破仑]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-champs-elysees, ENT-brand-courvoisier-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
 related_typed: {ENT-brandy-courvoisier-vsop: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brand-courvoisier-vsop: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
 data_confidence: simulated

@@ -4,8 +4,8 @@ title: 性感沙滩
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典, 伏特加, 派对]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-greyhound, ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-bomb]
 related_typed: {ENT-cocktail-greyhound: same_region, ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
 data_confidence: official

@@ -4,8 +4,8 @@ title: 尊美醇 黑桶
 category: ENT
 tags: [威士忌, 爱尔兰, 调和威士忌]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-jameson, ENT-whisky-redbreast-12, ENT-whisky-redbreast-15, ENT-whisky-green-spot]
 related_typed: {ENT-whisky-off-252-black-barrel-whisky-40: same_brand, ENT-whisky-jameson: same_brand, ENT-whisky-redbreast-12: same_region, ENT-whisky-redbreast-15: same_region, ENT-whisky-green-spot: same_region}
 data_confidence: simulated

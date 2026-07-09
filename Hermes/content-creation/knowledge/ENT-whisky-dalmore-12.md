@@ -4,8 +4,8 @@ title: 大摩 12 年
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 高地, 雪莉桶]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-dalmore-15, ENT-whisky-glenmorangie-original, ENT-whisky-glenmorangie-lasanta, ENT-whisky-clynelish-14, ENT-brand-jim-beam-white]
 related_typed: {ENT-whisky-dalmore-15: same_brand, ENT-whisky-glenmorangie-original: same_region, ENT-whisky-glenmorangie-lasanta: same_region, ENT-whisky-clynelish-14: same_region, ENT-brand-jim-beam-white: same_subcat}
 data_confidence: simulated

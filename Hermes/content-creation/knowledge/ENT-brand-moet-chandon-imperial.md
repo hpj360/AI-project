@@ -4,8 +4,8 @@ title: 酩悦帝国香槟
 category: ENT
 tags: [起泡酒, 香槟, 法国, 酩悦]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-brand-dom-perignon, ENT-wine_sparkling-off-056-br-handon-moet-chandon-champagne-imperial-br, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original]
 related_typed: {ENT-brand-dom-perignon: same_brand, ENT-wine_sparkling-off-056-br-handon-moet-chandon-champagne-imperial-br: same_brand, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
 data_confidence: official

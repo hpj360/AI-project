@@ -4,10 +4,10 @@ title: Cooking Sake
 category: ENT
 tags: [OpenFoodFacts, sake, 清酒, Hinode]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-sake-off-113-amazake, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine]
-related_typed: {ENT-sake-off-113-amazake: same_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: cross_region, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-sake-off-113-amazake, ENT-baike-sake-juyondai, ENT-baike-sake-hakutsuru, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake]
+related_typed: {ENT-sake-off-113-amazake: same_region, ENT-baike-sake-juyondai: cross_region, ENT-baike-sake-hakutsuru: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: same_subcat}
 data_confidence: verified
 ratings:
   vivino: {score: 4.4, votes: 38803}

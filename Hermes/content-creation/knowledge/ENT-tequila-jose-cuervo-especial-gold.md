@@ -4,8 +4,8 @@ title: 豪帅 Jose Cuervo Especial Gold
 category: ENT
 tags: [龙舌兰, 墨西哥, 豪帅, Gold, Mixto]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-tequila-off-193-blue-agave-gold-tequila, ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-sauza-blanco]
 related_typed: {ENT-tequila-off-193-blue-agave-gold-tequila: same_brand, ENT-tequila-off-195-jose-cuervo-tequila-especial: same_brand, ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-sauza-blanco: same_region}
 data_confidence: simulated

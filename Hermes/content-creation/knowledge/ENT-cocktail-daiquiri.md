@@ -4,8 +4,8 @@ title: 得其利
 category: ENT
 tags: [鸡尾酒, IBA, 酸酒, 朗姆, 古巴]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-bacardi-cocktail, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-sake-bomb]
 related_typed: {ENT-cocktail-bacardi-cocktail: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
 data_confidence: official

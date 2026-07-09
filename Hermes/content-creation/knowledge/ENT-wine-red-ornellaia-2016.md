@@ -4,10 +4,10 @@ title: 奥纳亚 2016
 category: ENT
 tags: [红酒, 意大利, 超级托斯卡纳]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-masseto-2016, ENT-wine-red-sassicaia-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-red-masseto-2016: same_brand, ENT-wine-red-sassicaia-2016: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-red-masseto-2016, ENT-wine-red-sassicaia-2016, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
+related_typed: {ENT-wine-red-masseto-2016: same_brand, ENT-wine-red-sassicaia-2016: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 9561}

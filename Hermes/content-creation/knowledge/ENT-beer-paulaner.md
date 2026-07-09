@@ -4,10 +4,10 @@ title: 保罗拉纳啤酒
 category: ENT
 tags: [啤酒, 德国, 保罗拉纳, 小麦啤酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-beer-hofbrau, ENT-beer-tsingtao, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
-related_typed: {ENT-beer-hofbrau: same_region, ENT-beer-tsingtao: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-beer-hofbrau, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu]
+related_typed: {ENT-beer-hofbrau: same_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.1, votes: 47369}

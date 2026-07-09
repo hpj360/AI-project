@@ -1,8 +1,8 @@
 # 知识库全局索引
 
-> content-creation 酒类知识库 | 共 1484 条目 | 由 render_kb.py 维护
+> content-creation 酒类知识库 | 共 1551 条目 | 由 render_kb.py 维护
 
-## 白酒（80）
+## 白酒（79）
 
 - [白云边 15 年](./ENT-baijiu-baiyunbian-15nian.md) | 白酒 | 兼香
 - [白云边 20 年](./ENT-baijiu-baiyunbian-20nian.md) | 白酒 | 兼香
@@ -65,25 +65,24 @@
 - [迎驾贡酒 生态洞藏](./ENT-baijiu-yingjiagong-shengtai-dongcang.md) | 白酒 | 浓香
 - [珍酒 珍三十](./ENT-baijiu-zhenjiu-zhensanshi.md) | 白酒 | 酱香
 - [宝丰酒](./ENT-baike-baijiu-baofeng-jiu.md) | 百度百科 | baijiu
-- [董酒](./ENT-baike-baijiu-dongjiu.md) | 百度百科 | baijiu
 - [汾酒](./ENT-baike-baijiu-fenjiu.md) | 百度百科 | baijiu
 - [古井贡酒](./ENT-baike-baijiu-gujing-gongjiu.md) | 百度百科 | baijiu
 - [衡水老白干](./ENT-baike-baijiu-hengshui-laobaigan.md) | 百度百科 | baijiu
 - [红星二锅头](./ENT-baike-baijiu-hongxing-erguotou.md) | 百度百科 | baijiu
-- [剑南春](./ENT-baike-baijiu-jiannanchun.md) | 百度百科 | baijiu
-- [酒鬼酒](./ENT-baike-baijiu-jiugui-jiu.md) | 百度百科 | baijiu
+- [水晶剑](./ENT-baike-baijiu-jiannanchun-shuijingjian.md) | 百度百科 | baijiu
 - [郎酒](./ENT-baike-baijiu-langjiu.md) | 百度百科 | baijiu
+- [红花郎](./ENT-baike-baijiu-langjiu-honghualang.md) | 百度百科 | baijiu
 - [泸州老窖](./ENT-baike-baijiu-luzhou-laojiao.md) | 百度百科 | baijiu
-- [茅台酒](./ENT-baike-baijiu-maotai.md) | 百度百科 | baijiu
+- [泸州老窖特曲](./ENT-baike-baijiu-luzhou-laojiao-tequ.md) | 百度百科 | baijiu
+- [飞天茅台酒](./ENT-baike-baijiu-maotai-feitian.md) | 百度百科 | baijiu
 - [牛栏山二锅头](./ENT-baike-baijiu-niulanshan-erguotou.md) | 百度百科 | baijiu
 - [舍得](./ENT-baike-baijiu-shede-jiu.md) | 百度百科 | baijiu
 - [水井坊](./ENT-baike-baijiu-shuijingfang.md) | 百度百科 | baijiu
 - [宋河粮液](./ENT-baike-baijiu-songhe-liangye.md) | 百度百科 | baijiu
-- [五粮液](./ENT-baike-baijiu-wuliangye.md) | 百度百科 | baijiu
-- [武陵酒](./ENT-baike-baijiu-wuling-jiu.md) | 百度百科 | baijiu
 - [西凤酒](./ENT-baike-baijiu-xifeng-jiu.md) | 百度百科 | baijiu
 - [习酒](./ENT-baike-baijiu-xijiu.md) | 百度百科 | baijiu
-- [洋河大曲](./ENT-baike-baijiu-yanghe-daqu.md) | 百度百科 | baijiu
+- [洋河梦之蓝](./ENT-baike-baijiu-yanghe-mengzhilan.md) | 百度百科 | baijiu
+- [天之蓝](./ENT-baike-baijiu-yanghe-tianzhilan.md) | 百度百科 | baijiu
 
 ## 威士忌（132）
 
@@ -526,7 +525,7 @@
 - [Elixir végétal de la Grande-Chartreuse](./ENT-liqueur-off-223-elixir-v-g-tal-de-la-grande-chartreuse.md) | OpenFoodFacts | liqueur
 - [Griottines De Fougerolles](./ENT-liqueur-off-224-griottines-de-fougerolles.md) | OpenFoodFacts | liqueur
 
-## 红葡萄酒（132）
+## 红葡萄酒（174）
 
 - [奥比昂城堡](./ENT-brand-haut-brion.md) | 红酒 | 波尔多
 - [拉菲古堡](./ENT-brand-lafite-rothschild.md) | 红酒 | 波尔多
@@ -536,6 +535,48 @@
 - [作品一号](./ENT-brand-opus-one.md) | 红酒 | 美国
 - [奔富葛兰许](./ENT-brand-penfolds-grange.md) | 红酒 | 澳大利亚
 - [罗曼尼康帝](./ENT-brand-romanee-conti.md) | 红酒 | 勃艮第
+- [阿玛罗尼](./ENT-wine-real-amarone.md) | 红酒 | 意大利
+- [金钟古堡](./ENT-wine-real-angelus.md) | 红酒 | 法国
+- [欧颂古堡](./ENT-wine-real-ausone.md) | 红酒 | 法国
+- [巴罗洛](./ENT-wine-real-barolo.md) | 红酒 | 意大利
+- [布鲁内罗](./ENT-wine-real-brunello-di-montalcino.md) | 红酒 | 意大利
+- [凯慕](./ENT-wine-real-caymus.md) | 红酒 | 美国
+- [香贝丹](./ENT-wine-real-chambertin.md) | 红酒 | 法国
+- [白马古堡](./ENT-wine-real-cheval-blanc.md) | 红酒 | 法国
+- [大德园](./ENT-wine-real-clos-de-tart.md) | 红酒 | 法国
+- [沃热园](./ENT-wine-real-clos-de-vougeot.md) | 红酒 | 法国
+- [科登](./ENT-wine-real-corton.md) | 红酒 | 法国
+- [爱士图尔古堡](./ENT-wine-real-cos-destournel.md) | 红酒 | 法国
+- [宝嘉龙古堡](./ENT-wine-real-ducru-beaucaillou.md) | 红酒 | 法国
+- [奥比昂古堡](./ENT-wine-real-haut-brion.md) | 红酒 | 法国
+- [亨施克恩典山](./ENT-wine-real-henschke-hill-of-grace.md) | 红酒 | 澳大利亚
+- [拉塔希](./ENT-wine-real-la-tache.md) | 红酒 | 法国
+- [拉菲古堡](./ENT-wine-real-lafite-rothschild.md) | 红酒 | 法国
+- [拉图古堡](./ENT-wine-real-latour.md) | 红酒 | 法国
+- [雄狮古堡](./ENT-wine-real-leoville-las-cases.md) | 红酒 | 法国
+- [林卓贝斯古堡](./ENT-wine-real-lynch-bages.md) | 红酒 | 法国
+- [玛歌古堡](./ENT-wine-real-margaux.md) | 红酒 | 法国
+- [木桐古堡](./ENT-wine-real-mouton-rothschild.md) | 红酒 | 法国
+- [慕西尼](./ENT-wine-real-musigny.md) | 红酒 | 法国
+- [作品一号](./ENT-wine-real-opus-one.md) | 红酒 | 美国
+- [玛歌帕尔默古堡](./ENT-wine-real-palmer.md) | 红酒 | 法国
+- [奔富389](./ENT-wine-real-penfolds-bin-389.md) | 红酒 | 澳大利亚
+- [奔富707](./ENT-wine-real-penfolds-bin-707.md) | 红酒 | 澳大利亚
+- [奔富葛兰许](./ENT-wine-real-penfolds-grange.md) | 红酒 | 澳大利亚
+- [奔富圣亨利](./ENT-wine-real-penfolds-st-henri.md) | 红酒 | 澳大利亚
+- [柏图斯](./ENT-wine-real-petrus.md) | 红酒 | 法国
+- [庞特卡奈古堡](./ENT-wine-real-pichon-longueville-baron.md) | 红酒 | 法国
+- [普里奥拉](./ENT-wine-real-priorat.md) | 红酒 | 西班牙
+- [里什堡](./ENT-wine-real-richebourg.md) | 红酒 | 法国
+- [里奥哈珍藏](./ENT-wine-real-rioja-gran-reserva.md) | 红酒 | 西班牙
+- [罗曼尼康帝](./ENT-wine-real-romanee-conti.md) | 红酒 | 法国
+- [罗曼尼圣维旺](./ENT-wine-real-romanee-saint-vivant.md) | 红酒 | 法国
+- [西施佳雅](./ENT-wine-real-sassicaia.md) | 红酒 | 意大利
+- [嘹鹰](./ENT-wine-real-screaming-eagle.md) | 红酒 | 美国
+- [银橡](./ENT-wine-real-silver-oak.md) | 红酒 | 美国
+- [天娜](./ENT-wine-real-tignanello.md) | 红酒 | 意大利
+- [蒙特波古堡](./ENT-wine-real-troplong-mondot.md) | 红酒 | 法国
+- [尤尼科](./ENT-wine-real-vega-sicilia-unico.md) | 红酒 | 西班牙
 - [活灵魂 2017](./ENT-wine-red-almaviva-2017.md) | 红酒 | 智利
 - [阿尔瓦罗帕拉西奥埃米塔 2017](./ENT-wine-red-alvaro-palacios-lermita-2017.md) | 红酒 | 西班牙
 - [金钟城堡 2015](./ENT-wine-red-angelus-2015.md) | 红酒 | 波尔多
@@ -661,8 +702,10 @@
 - [Barefoot Merlot, California](./ENT-wine_red-off-023-barefoot-merlot-california.md) | OpenFoodFacts | wine_red
 - [Syrah](./ENT-wine_red-off-024-syrah.md) | OpenFoodFacts | wine_red
 
-## 白葡萄酒（82）
+## 白葡萄酒（84）
 
+- [京东湾](./ENT-wine-real-cloudy-bay.md) | 白酒 | 新西兰
+- [蒙哈榭](./ENT-wine-real-montrachet.md) | 白酒 | 法国
 - [安东尼骑士 2018](./ENT-wine-white-antinori-cervaro-della-sala-2018.md) | 白酒 | 意大利
 - [美好气候霞多丽 2017](./ENT-wine-white-au-bon-climat-2017.md) | 白酒 | 新世界
 - [巴塔蒙哈榭 2015](./ENT-wine-white-batard-montrachet-leflaive-2015.md) | 白酒 | 勃艮第
@@ -746,10 +789,19 @@
 - [Vino Bianco Coop](./ENT-wine_white-off-045-vino-bianco-coop.md) | OpenFoodFacts | wine_white
 - [Graves AOC Rouge](./ENT-wine_white-off-046-graves-aoc-rouge.md) | OpenFoodFacts | wine_white
 
-## 起泡酒（66）
+## 起泡酒（75）
 
 - [唐培里侬香槟](./ENT-brand-dom-perignon.md) | 起泡酒 | 香槟
 - [酩悦帝国香槟](./ENT-brand-moet-chandon-imperial.md) | 起泡酒 | 香槟
+- [宝林爵](./ENT-wine-real-bollinger.md) | 起泡酒 | 香槟
+- [水晶香槟](./ENT-wine-real-cristal.md) | 起泡酒 | 香槟
+- [唐培里侬](./ENT-wine-real-dom-perignon.md) | 起泡酒 | 香槟
+- [库克](./ENT-wine-real-krug.md) | 起泡酒 | 香槟
+- [酩悦](./ENT-wine-real-moet-chandon.md) | 起泡酒 | 香槟
+- [玛姆](./ENT-wine-real-mumm.md) | 起泡酒 | 香槟
+- [宝禄爵](./ENT-wine-real-pol-roger.md) | 起泡酒 | 香槟
+- [沙龙](./ENT-wine-real-salon.md) | 起泡酒 | 香槟
+- [凯歌](./ENT-wine-real-veuve-clicquot.md) | 起泡酒 | 香槟
 - [阿达米加贝尔](./ENT-wine-sparkling-adami-garbel-nv.md) | 起泡酒 | 普罗塞克
 - [美景弗兰恰科塔](./ENT-wine-sparkling-bellavista-franciacorta-nv.md) | 起泡酒 | 弗兰恰科塔
 - [贝鲁奇卡萨瑞斯](./ENT-wine-sparkling-berlucchi-cellarius-nv.md) | 起泡酒 | 弗兰恰科塔
@@ -884,8 +936,10 @@
 - [旭金堡 2015](./ENT-wine-dessert-suduiraut-2015.md) | 甜酒 | 苏玳
 - [滴金酒庄 2015](./ENT-wine-dessert-yquem-2015.md) | 甜酒 | 苏玳
 
-## 清酒（73）
+## 清酒（75）
 
+- [白鹤](./ENT-baike-sake-hakutsuru.md) | 百度百科 | sake
+- [十四代](./ENT-baike-sake-juyondai.md) | 百度百科 | sake
 - [新政 No.6](./ENT-sake-arabashiri-no6.md) | 清酒 | 日本
 - [新政 亜麻猫](./ENT-sake-aramasa-amaneko.md) | 清酒 | 日本
 - [獭祭 磨二割三](./ENT-sake-dassai-23.md) | 清酒 | 日本
@@ -960,17 +1014,15 @@
 - [天狗舞](./ENT-sake-tengumai.md) | 清酒 | 日本
 - [东条纪尾井町](./ENT-sake-tojo-kioicho.md) | 清酒 | 日本
 
-## 黄酒（39）
+## 黄酒（37）
 
 - [丹阳黄酒](./ENT-baike-yellow_wine-danyang-huangjiu.md) | 百度百科 | yellow_wine
-- [福建老酒](./ENT-baike-yellow_wine-fujian-laojiu.md) | 百度百科 | yellow_wine
 - [浙江古越龙山绍兴酒股份有限公司](./ENT-baike-yellow_wine-guyue-longshan.md) | 百度百科 | yellow_wine
 - [黑米酒](./ENT-baike-yellow_wine-heimi-jiu.md) | 百度百科 | yellow_wine
-- [嘉善黄酒](./ENT-baike-yellow_wine-jiaxing-huangjiu.md) | 百度百科 | yellow_wine
+- [绍兴酒](./ENT-baike-yellow_wine-jiaxing-huangjiu.md) | 百度百科 | yellow_wine
 - [即墨老酒](./ENT-baike-yellow_wine-jimo-laojiu.md) | 百度百科 | yellow_wine
-- [会稽山](./ENT-baike-yellow_wine-kuaiji-shan.md) | 百度百科 | yellow_wine
 - [沙洲优黄](./ENT-baike-yellow_wine-shazhou-youhuang.md) | 百度百科 | yellow_wine
-- [绍兴酒](./ENT-baike-yellow_wine-tapai-huangjiu.md) | 百度百科 | yellow_wine
+- [塔牌绍兴酒](./ENT-baike-yellow_wine-tapai-huangjiu.md) | 百度百科 | yellow_wine
 - [丹阳黄酒](./ENT-yellow-wine-danyang-huangjiu.md) | 黄酒 | 丹阳
 - [福建老酒](./ENT-yellow-wine-fujian-laojiu.md) | 黄酒 | 福建
 - [古越龙山 10年陈酿](./ENT-yellow-wine-guyue-longshan-10y.md) | 黄酒 | 绍兴
@@ -1002,10 +1054,8 @@
 - [锡山](./ENT-yellow-wine-xishan.md) | 黄酒 | 无锡
 - [西塘老酒](./ENT-yellow-wine-xitang-laojiu.md) | 黄酒 | 嘉善
 
-## 米酒（34）
+## 米酒（32）
 
-- [三花酒](./ENT-baike-rice_wine-guilin-sanhua-jiu.md) | 百度百科 | rice_wine
-- [马格利酒](./ENT-baike-rice_wine-hanguo-makgeolli.md) | 百度百科 | rice_wine
 - [客家娘酒](./ENT-baike-rice_wine-kejia-niangjiu.md) | 百度百科 | rice_wine
 - [日本清酒](./ENT-baike-rice_wine-riben-qingjiu.md) | 百度百科 | rice_wine
 - [日本甘酒](./ENT-rice-wine-amazake.md) | 米酒 | 日本
@@ -1039,8 +1089,16 @@
 - [韩国清米酒](./ENT-rice-wine-yakju.md) | 米酒 | 韩国
 - [扎泉酒](./ENT-rice-wine-zhaquan.md) | 米酒 | 扎泉
 
-## 啤酒（70）
+## 啤酒（78）
 
+- [哈尔滨啤酒](./ENT-baike-beer-haerbin-pijiu.md) | 百度百科 | beer
+- [金威啤酒](./ENT-baike-beer-jinwei-pijiu.md) | 百度百科 | beer
+- [兰州黄河](./ENT-baike-beer-lanzhou-huanghe.md) | 百度百科 | beer
+- [青岛啤酒](./ENT-baike-beer-qingdao-pijiu.md) | 百度百科 | beer
+- [泰山啤酒](./ENT-baike-beer-taishan-pijiu.md) | 百度百科 | beer
+- [雪花啤酒](./ENT-baike-beer-xuehua-pijiu.md) | 百度百科 | beer
+- [燕京啤酒](./ENT-baike-beer-yanjing-pijiu.md) | 百度百科 | beer
+- [珠江啤酒](./ENT-baike-beer-zhujiang-pijiu.md) | 百度百科 | beer
 - [拳击猫啤酒](./ENT-beer-boxing-cat.md) | 啤酒 | 中国
 - [酿酒狗朋克 IPA](./ENT-beer-brewdog-punk-ipa.md) | 啤酒 | 英国
 - [布鲁克林啤酒](./ENT-beer-brooklyn.md) | 啤酒 | 美国
@@ -1112,11 +1170,10 @@
 - [喜力啤酒](./ENT-brand-heineken.md) | 啤酒 | 荷兰
 - [时代啤酒](./ENT-brand-stella-artois.md) | 啤酒 | 比利时
 
-## 果酒（41）
+## 果酒（40）
 
 - [桂花酿](./ENT-baike-fruit_wine-guihua-jiu.md) | 百度百科 | fruit_wine
 - [中国劲酒](./ENT-baike-fruit_wine-jinjiu.md) | 百度百科 | fruit_wine
-- [菊花酒](./ENT-baike-fruit_wine-juhua-jiu.md) | 百度百科 | fruit_wine
 - [五加皮酒](./ENT-baike-fruit_wine-wujiapi-jiu.md) | 百度百科 | fruit_wine
 - [竹叶青酒](./ENT-baike-fruit_wine-zhuyeqing-jiu.md) | 百度百科 | fruit_wine
 - [杏子酒](./ENT-fruit-wine-apricot.md) | 果酒 | 杏子

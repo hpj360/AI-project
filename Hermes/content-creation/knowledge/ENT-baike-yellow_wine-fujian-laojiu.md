@@ -4,8 +4,8 @@ title: 福建老酒
 category: ENT
 tags: [百度百科, yellow_wine, 福建老酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-danyang-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-baike-yellow_wine-guyue-longshan]
 related_typed: {ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-danyang-huangjiu: cross_region, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-baike-yellow_wine-guyue-longshan: same_subcat}
 data_confidence: verified

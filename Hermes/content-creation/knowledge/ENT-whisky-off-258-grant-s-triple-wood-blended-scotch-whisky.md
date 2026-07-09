@@ -4,8 +4,8 @@ title: Grant's Triple Wood Blended Scotch Whisky
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, Grant's]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-off-257-grant-s, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12]
 related_typed: {ENT-whisky-off-257-grant-s: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat}
 data_confidence: verified

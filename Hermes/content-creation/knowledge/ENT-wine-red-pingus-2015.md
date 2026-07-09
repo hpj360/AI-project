@@ -4,10 +4,10 @@ title: 平古斯 2015
 category: ENT
 tags: [红酒, 西班牙, Ribera del Duero, 膜拜酒]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
-related: [ENT-wine-red-vega-sicilia-unico-2010, ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-vega-sicilia-unico-2010: same_region, ENT-wine-red-pesquera-gran-reserva-2012: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+created: 2026-07-09
+updated: 2026-07-09
+related: [ENT-wine-red-vega-sicilia-unico-2010, ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
+related_typed: {ENT-wine-red-vega-sicilia-unico-2010: same_region, ENT-wine-red-pesquera-gran-reserva-2012: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
 ratings:
   vivino: {score: 4.8, votes: 38792}

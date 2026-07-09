@@ -4,8 +4,8 @@ title: 格兰菲迪 18 年
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-15-solera, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
 related_typed: {ENT-whisky-glenfiddich-12: same_brand, ENT-whisky-glenfiddich-15-solera: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region}
 data_confidence: simulated

@@ -4,8 +4,8 @@ title: 马鞭草
 category: ENT
 tags: [鸡尾酒, 创意, 龙舌兰, 柠檬马鞭草, 现代]
 status: active
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-09
+updated: 2026-07-09
 related: [ENT-cocktail-in-the-rocks, ENT-cocktail-mezcal-negroni, ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco]
 related_typed: {ENT-cocktail-in-the-rocks: same_region, ENT-cocktail-mezcal-negroni: same_region, ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail}
 data_confidence: simulated
