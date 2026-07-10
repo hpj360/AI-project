@@ -4,11 +4,12 @@ title: 必富达 伦敦干
 category: ENT
 tags: [金酒, 伦敦干, 英国, 必富达]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-gin-beefeater-24, ENT-gin-off-123-london-dry-gin, ENT-gin-off-132-pink-strawberry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
 related_typed: {ENT-gin-beefeater-24: same_brand, ENT-gin-off-123-london-dry-gin: same_brand, ENT-gin-off-132-pink-strawberry: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 39746}
   wine_enthusiast: {score: 88, year: 2022}
@@ -69,6 +70,7 @@ awards:
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -109,3 +111,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,17 +4,22 @@ title: Barefoot Merlot, California
 category: ENT
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Barefoot]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
 related_typed: {ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 35748}
   parker: {score: 84, year: 2020}
   wine_spectator: {score: 88, year: 2021}
   james_suckling: {score: 87, year: 2023}
   cellar_tracker: {score: 4.8, votes: 3730}
+source_url: https://world.openfoodfacts.org/product/california
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Barefoot Merlot, California
@@ -69,6 +74,7 @@ OpenFoodFacts 真实产品数据：Barefoot Merlot, California（Barefoot）
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -95,3 +101,5 @@ OpenFoodFacts 真实产品数据：Barefoot Merlot, California（Barefoot）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

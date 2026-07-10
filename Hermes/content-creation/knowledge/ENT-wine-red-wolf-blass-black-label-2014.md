@@ -4,11 +4,12 @@ title: 禾富黑牌 2014
 category: ENT
 tags: [红酒, 澳洲, 设拉子]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-red-penfolds-grange-2015, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
 related_typed: {ENT-wine-red-penfolds-grange-2015: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.1, votes: 1784}
   parker: {score: 80, year: 2021}
@@ -70,6 +71,7 @@ Wolf Blass 旗舰黑牌，多品种混酿，曾连续获大赛金奖。
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -112,3 +114,5 @@ Wolf Blass 标志上的黑鹰象征德国血统的酿酒师 Wolf Blass。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

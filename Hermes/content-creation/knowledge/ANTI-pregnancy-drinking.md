@@ -4,13 +4,17 @@ title: 孕期饮酒禁忌
 category: ENT
 tags: [ANTI, 禁忌, 孕妇, 安全]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-whisky-tasting, SOP-sake-tasting, SOP-baijiu-tasting]
 related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat}
 data_confidence: official
 data_source: WHO 饮酒与健康指南 / CDC 孕期健康
+version: 1
+crawl_date: 2024-07-07
+version: 1
 ---
+
 # 孕期饮酒禁忌
 
 ## 概述
@@ -46,4 +50,7 @@ data_source: WHO 饮酒与健康指南 / CDC 孕期健康
 - 苏打水配水果
 
 
-> 数据来源：WHO 饮酒与健康指南 / CDC 孕期健康
+## 参考资料
+
+- 数据来源：WHO 饮酒与健康指南 / CDC 孕期健康
+- 数据置信度：official

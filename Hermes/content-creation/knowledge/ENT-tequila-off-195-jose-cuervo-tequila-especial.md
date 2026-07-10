@@ -4,14 +4,19 @@ title: jose cuervo tequila especial
 category: ENT
 tags: [OpenFoodFacts, tequila, 龙舌兰, jose cuervo]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-tequila-off-193-blue-agave-gold-tequila, ENT-tequila-jose-cuervo-especial-gold, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold]
 related_typed: {ENT-tequila-off-193-blue-agave-gold-tequila: same_brand, ENT-tequila-jose-cuervo-especial-gold: same_brand, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 510}
   wine_enthusiast: {score: 87, year: 2020}
+source_url: https://world.openfoodfacts.org/product/especial
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # jose cuervo tequila especial
@@ -63,9 +68,10 @@ OpenFoodFacts 真实产品数据：jose cuervo tequila especial（jose cuervo）
 |------|-----------|------|
 | 甜 | 2 | ██░░░ |
 | 酸 | 2 | ██░░░ |
-| 苦 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
 | 烈 | 5 | █████ |
-| 香 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -89,3 +95,5 @@ OpenFoodFacts 真实产品数据：jose cuervo tequila especial（jose cuervo）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

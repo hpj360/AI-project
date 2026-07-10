@@ -4,11 +4,12 @@ title: 伯爵茶马天尼
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 金酒, 伯爵茶, 现代]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-gin-gin-mule, ENT-cocktail-pegu-club-cocktail, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins]
 related_typed: {ENT-cocktail-gin-gin-mule: same_brand, ENT-cocktail-pegu-club-cocktail: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 3.9, votes: 48662}
   diffords: {score: 4.01, year: 2022}
@@ -134,3 +135,5 @@ MarTEAni 一名融合 Martini 与 Tea，是茶酒融合的标志作品。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

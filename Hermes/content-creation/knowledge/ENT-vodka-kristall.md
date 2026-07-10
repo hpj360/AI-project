@@ -4,11 +4,12 @@ title: 水晶 Kristall
 category: ENT
 tags: [伏特加, 俄罗斯, Kristall]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-vodka-stolichnaya, ENT-vodka-stolichnaya-soviet, ENT-vodka-polugar, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled]
 related_typed: {ENT-vodka-stolichnaya: same_region, ENT-vodka-stolichnaya-soviet: same_region, ENT-vodka-polugar: same_region, ENT-vodka-off-142-poliakov: same_subcat, ENT-vodka-off-143-vodka-triple-distilled: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 19710}
   wine_enthusiast: {score: 86, year: 2022}
@@ -67,6 +68,7 @@ Kristall，俄罗斯水晶伏特加，莫斯科水晶酒厂出品。
 | 苦 | 1 | █░░░░ |
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +105,5 @@ Kristall 是苏联时代国宴用酒之一。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

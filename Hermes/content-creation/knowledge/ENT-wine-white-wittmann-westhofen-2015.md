@@ -4,11 +4,12 @@ title: 维特曼 2015
 category: ENT
 tags: [白酒, 德国, 雷司令, 有机]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-white-keller-abtserde-2015, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco]
 related_typed: {ENT-wine-white-keller-abtserde-2015: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.4, votes: 42159}
   parker: {score: 81, year: 2021}
@@ -64,11 +65,12 @@ Rheinhessen 有机名家 Wittmann，Aulerde GG 干型雷司令。
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -110,3 +112,5 @@ Aulerde 园地土壤为黄土与石灰岩，赋予葡萄酒柔和质感。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,11 +4,12 @@ title: 酿酒狗朋克 IPA
 category: ENT
 tags: [啤酒, 英国, 酿酒狗, IPA, 精酿]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-beer-off-087-alus-brewdog-punk-ipa, ENT-beer-off-093-punk-ipa, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
 related_typed: {ENT-beer-off-087-alus-brewdog-punk-ipa: same_brand, ENT-beer-off-093-punk-ipa: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 49481}
   ratebeer: {score: 87, year: 2020}
@@ -63,9 +64,10 @@ ratings:
 |------|-----------|------|
 | 甜 | 2 | ██░░░ |
 | 酸 | 2 | ██░░░ |
-| 苦 | 4 | ████░ |
+| 苦 | 3 | ███░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -105,3 +107,5 @@ BrewDog 以反叛营销著称，朋克之名寓意反主流文化。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

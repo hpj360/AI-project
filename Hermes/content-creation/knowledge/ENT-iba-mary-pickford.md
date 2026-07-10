@@ -4,16 +4,20 @@ title: 玛丽·碧克馥
 category: ENT
 tags: [鸡尾酒, IBA, 难忘杯（The Unforgettables）, Mary Pickford, 摇和]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail, ENT-cocktail-baijiu-sour, ENT-cocktail-maotai-martini, ENT-cocktail-chinese-colada]
 related_typed: {ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat, ENT-cocktail-baijiu-sour: same_subcat, ENT-cocktail-maotai-martini: same_subcat, ENT-cocktail-chinese-colada: same_subcat}
 data_confidence: official
 data_source: IBA Official
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 35566}
   diffords: {score: 4.19, year: 2021}
   iba: {score: 4.5, year: 2021}
+source_url: https://iba-world.com/iba-cocktail/pickford/
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 玛丽·碧克馥
@@ -105,3 +109,5 @@ IBA 官方 难忘杯（The Unforgettables） 系列鸡尾酒 Mary Pickford（玛
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA Official
+- 数据置信度：official

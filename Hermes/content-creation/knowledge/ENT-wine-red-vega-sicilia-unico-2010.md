@@ -4,11 +4,12 @@ title: 维加西西里亚尤尼科 2010
 category: ENT
 tags: [红酒, 西班牙, Ribera del Duero]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-red-pingus-2015, ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
 related_typed: {ENT-wine-red-pingus-2015: same_region, ENT-wine-red-pesquera-gran-reserva-2012: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.4, votes: 18849}
   parker: {score: 81, year: 2020}
@@ -70,6 +71,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -112,3 +114,5 @@ Unico 仅在最佳年份酿造，部分年份桶陈 10 年后才上市，被誉�
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

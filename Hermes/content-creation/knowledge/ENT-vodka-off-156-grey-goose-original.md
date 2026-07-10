@@ -4,14 +4,19 @@ title: Grey goose original
 category: ENT
 tags: [OpenFoodFacts, vodka, 伏特加, Grey Goose]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-vodka-grey-goose-original, ENT-vodka-grey-goose-le-citron, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia]
 related_typed: {ENT-vodka-grey-goose-original: same_brand, ENT-vodka-grey-goose-le-citron: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.0, votes: 39539}
   wine_enthusiast: {score: 81, year: 2022}
+source_url: https://world.openfoodfacts.org/product/original
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Grey goose original
@@ -66,6 +71,7 @@ OpenFoodFacts 真实产品数据：Grey goose original（Grey Goose）
 | 苦 | 1 | █░░░░ |
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -89,3 +95,5 @@ OpenFoodFacts 真实产品数据：Grey goose original（Grey Goose）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

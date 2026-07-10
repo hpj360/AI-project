@@ -4,16 +4,20 @@ title: 灰衣
 category: ENT
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Graycoat, 搅和]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-americano, ENT-cocktail-margarita, ENT-cocktail-daiquiri, ENT-cocktail-sidecar, ENT-cocktail-sazerac]
 related_typed: {ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat, ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sidecar: same_subcat, ENT-cocktail-sazerac: same_subcat}
 data_confidence: official
 data_source: IBA Official
+version: 1
 ratings:
   vivino: {score: 4.0, votes: 28481}
   diffords: {score: 4.05, year: 2020}
   iba: {score: 3.7, year: 2020}
+source_url: https://iba-world.com/iba-cocktail/graycoat/
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 灰衣
@@ -105,3 +109,5 @@ Pour all ingredients into mixing glass with ice cubes. Stir and strain into a ch
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA Official
+- 数据置信度：official

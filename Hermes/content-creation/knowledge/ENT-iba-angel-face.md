@@ -4,16 +4,20 @@ title: 天使之颜
 category: ENT
 tags: [鸡尾酒, IBA, 难忘杯（The Unforgettables）, Angel Face, 摇和]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail, ENT-cocktail-baijiu-sour, ENT-cocktail-maotai-martini]
 related_typed: {ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat, ENT-cocktail-baijiu-sour: same_subcat, ENT-cocktail-maotai-martini: same_subcat}
 data_confidence: official
 data_source: IBA Official
+version: 1
 ratings:
   vivino: {score: 4.0, votes: 37286}
   diffords: {score: 4.05, year: 2022}
   iba: {score: 3.7, year: 2020}
+source_url: https://iba-world.com/iba-cocktail/face/
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 天使之颜
@@ -104,3 +108,5 @@ IBA 官方 难忘杯（The Unforgettables） 系列鸡尾酒 Angel Face（天使
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA Official
+- 数据置信度：official

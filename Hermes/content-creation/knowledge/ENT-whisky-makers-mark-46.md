@@ -4,11 +4,12 @@ title: 美格 46
 category: ENT
 tags: [威士忌, 美国, 波本]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-whisky-makers-mark-bourbon, ENT-whisky-four-roses-small-batch, ENT-whisky-four-roses-single-barrel, ENT-whisky-jim-bean-white, ENT-whisky-jim-beam-black]
 related_typed: {ENT-whisky-makers-mark-bourbon: same_brand, ENT-whisky-four-roses-small-batch: same_region, ENT-whisky-four-roses-single-barrel: same_region, ENT-whisky-jim-bean-white: same_region, ENT-whisky-jim-beam-black: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.2, votes: 36170}
   whisky_fun: {score: 83, year: 2022}
@@ -68,6 +69,7 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -104,3 +106,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,11 +4,12 @@ title: 宝禄爵丘吉尔 2013
 category: ENT
 tags: [起泡酒, 香槟, Pol Roger, 年份]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-sparkling-dom-perignon-2012, ENT-wine-sparkling-perrier-jouet-belle-epoque-2013, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 related_typed: {ENT-wine-sparkling-dom-perignon-2012: same_region, ENT-wine-sparkling-perrier-jouet-belle-epoque-2013: same_region, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.2, votes: 46467}
   wine_spectator: {score: 80, year: 2022}
@@ -62,11 +63,12 @@ Pol Roger 旗舰年份香槟，以英国首相丘吉尔命名。
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
-| 香 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -106,3 +108,5 @@ Cuvée Sir Winston Churchill 仅在最佳年份酿造，体现其强壮风格。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,11 +4,12 @@ title: 希克林 伦敦干
 category: ENT
 tags: [金酒, 伦敦干, 英国, 希克林]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-gin-haymans-old-tom, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower]
 related_typed: {ENT-gin-haymans-old-tom: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.3, votes: 2691}
   wine_enthusiast: {score: 82, year: 2023}
@@ -67,6 +68,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +105,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

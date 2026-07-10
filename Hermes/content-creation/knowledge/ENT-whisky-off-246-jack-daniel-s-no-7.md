@@ -4,15 +4,20 @@ title: Jack Daniel's No.7
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, Jack daniel s]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7]
 related_typed: {ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 36194}
   whisky_fun: {score: 87, year: 2020}
   whisky_bible: {score: 85, year: 2021}
+source_url: https://world.openfoodfacts.org/product/7
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Jack Daniel's No.7
@@ -67,6 +72,7 @@ OpenFoodFacts 真实产品数据：Jack Daniel's No.7（Jack daniel s）
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -91,3 +97,5 @@ OpenFoodFacts 真实产品数据：Jack Daniel's No.7（Jack daniel s）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

@@ -4,16 +4,20 @@ title: 非法
 category: ENT
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Illegal, 摇和]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-cocktail-americano, ENT-cocktail-margarita]
 related_typed: {ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail, ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat}
 data_confidence: official
 data_source: IBA Official
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 30122}
   diffords: {score: 4.29, year: 2023}
   iba: {score: 4.9, year: 2020}
+source_url: https://iba-world.com/iba-cocktail/illegal/
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 非法
@@ -107,3 +111,5 @@ IBA 官方 新时代（New Era Drinks） 系列鸡尾酒 Illegal（非法），�
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA Official
+- 数据置信度：official

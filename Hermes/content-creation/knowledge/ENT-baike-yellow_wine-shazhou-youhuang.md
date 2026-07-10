@@ -4,12 +4,14 @@ title: 沙洲优黄
 category: ENT
 tags: [百度百科, yellow_wine, 沙洲优黄]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baike-yellow_wine-danyang-huangjiu, ENT-baike-yellow_wine-jiaxing-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-baike-yellow_wine-guyue-longshan]
 related_typed: {ENT-baike-yellow_wine-danyang-huangjiu: cross_region, ENT-baike-yellow_wine-jiaxing-huangjiu: cross_region, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-baike-yellow_wine-guyue-longshan: same_subcat}
 data_confidence: verified
 data_source: 百度百科
+source_url: https://baike.baidu.com/item/%E6%B2%99%E6%B4%B2%E4%BC%98%E9%BB%84
+version: 1
 ratings:
   vivino: {score: 3.9, votes: 34214}
   csl: {score: 81, year: 2021}
@@ -45,6 +47,7 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -70,3 +73,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：百度百科
+- 数据置信度：verified

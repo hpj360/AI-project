@@ -4,14 +4,19 @@ title: 斯米诺 No.21 红牌
 category: ENT
 tags: [伏特加, 英国, 斯米诺]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-blue, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
 related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_brand, ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-blue: same_brand, ENT-brand-finlandia: cross_region, ENT-vodka-off-141-absolut-vodka: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 22148}
   wine_enthusiast: {score: 85, year: 2021}
+source_url: https://world.openfoodfacts.org/product/21
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 斯米诺 No.21 红牌
@@ -67,6 +72,7 @@ ratings:
 | 苦 | 1 | █░░░░ |
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +109,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

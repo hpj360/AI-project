@@ -4,11 +4,12 @@ title: 苹果蜂蜜酒
 category: ENT
 tags: [蜂蜜酒, 英国, 苹果, mead]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-mead-traditional, ENT-mead-melomel, ENT-mead-ginger, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-traditional: same_region, ENT-mead-melomel: same_region, ENT-mead-ginger: same_region, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 35457}
   wine_enthusiast: {score: 87, year: 2023}
@@ -61,10 +62,11 @@ Cyser 苹果蜂蜜酒，蜂蜜与苹果汁共同发酵，果蜜交融。
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
 | 甜 | 5 | █████ |
-| 酸 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
 | 苦 | 1 | █░░░░ |
-| 烈 | 2 | ██░░░ |
+| 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -97,3 +99,5 @@ Cyser 源自英国传统，是蜂蜜酒与苹果酒的融合，历史悠久。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

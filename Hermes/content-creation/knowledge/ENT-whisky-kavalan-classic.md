@@ -4,11 +4,12 @@ title: Kavalan 经典
 category: ENT
 tags: [威士忌, 台湾, 单一麦芽]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-whisky-kavalan-solist-vinho, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal]
 related_typed: {ENT-whisky-kavalan-solist-vinho: same_brand, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 18225}
   whisky_fun: {score: 89, year: 2020}
@@ -71,6 +72,7 @@ Kavalan 经典，台湾单一麦芽威士忌，热带气候陈酿。
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -112,3 +114,5 @@ Kavalan 借助亚热带气候快速陈酿，4 年相当于苏格兰 12 年。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,11 +4,12 @@ title: 烟熏古典
 category: ENT
 tags: [鸡尾酒, 现代经典, 波本, 烟熏, 苹果木]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
 related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 23202}
   diffords: {score: 4.23, year: 2021}
@@ -134,3 +135,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,14 +4,19 @@ title: Sekt
 category: ENT
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Rotkäppchen]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-055-sekt-mild, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 related_typed: {ENT-wine_sparkling-off-051-sekt-halbtrocken: same_brand, ENT-wine_sparkling-off-055-sekt-mild: same_brand, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.1, votes: 17720}
   wine_spectator: {score: 83, year: 2022}
+source_url: https://world.openfoodfacts.org/product/sekt
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Sekt
@@ -61,11 +66,12 @@ OpenFoodFacts 真实产品数据：Sekt（Rotkäppchen）
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
-| 香 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -89,3 +95,5 @@ OpenFoodFacts 真实产品数据：Sekt（Rotkäppchen）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

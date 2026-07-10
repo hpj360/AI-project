@@ -4,15 +4,20 @@ title: Black Barrel whisky 40%
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, JAMESON]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-off-243-whisky-40, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10]
 related_typed: {ENT-whisky-jameson: same_brand, ENT-whisky-jameson-black-barrel: same_brand, ENT-whisky-off-243-whisky-40: same_region, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 49516}
   whisky_fun: {score: 87, year: 2020}
   whisky_bible: {score: 88, year: 2020}
+source_url: https://world.openfoodfacts.org/product/40
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Black Barrel whisky 40%
@@ -67,6 +72,7 @@ OpenFoodFacts 真实产品数据：Black Barrel whisky 40%（JAMESON），产地
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -91,3 +97,5 @@ OpenFoodFacts 真实产品数据：Black Barrel whisky 40%（JAMESON），产地
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

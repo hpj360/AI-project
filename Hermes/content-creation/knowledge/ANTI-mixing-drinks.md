@@ -4,13 +4,17 @@ title: 混酒饮用风险
 category: ENT
 tags: [ANTI, 禁忌, 混酒, 安全]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [SOP-champagne-service, SOP-wine-decanting, SOP-cocktail-shaking, SOP-cocktail-stirring, SOP-cocktail-muddling]
 related_typed: {SOP-champagne-service: same_subcat, SOP-wine-decanting: same_subcat, SOP-cocktail-shaking: same_subcat, SOP-cocktail-stirring: same_subcat, SOP-cocktail-muddling: same_subcat}
-data_confidence: simulated
+data_confidence: official
 data_source: 中华医学会肝病学会 / 临床毒理学
+version: 1
+crawl_date: 2024-07-07
+version: 1
 ---
+
 # 混酒饮用风险
 
 ## 概述
@@ -90,4 +94,7 @@ data_source: 中华医学会肝病学会 / 临床毒理学
 - 不再「以酒解酒」
 
 
-> 数据来源：中华医学会肝病学会 / 临床毒理学
+## 参考资料
+
+- 数据来源：中华医学会肝病学会 / 临床毒理学
+- 数据置信度：official

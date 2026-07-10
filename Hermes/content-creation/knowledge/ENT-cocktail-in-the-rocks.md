@@ -4,16 +4,19 @@ title: 岩石中
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 实验, 蛋壳]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-verbena, ENT-cocktail-mezcal-negroni, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball]
 related_typed: {ENT-cocktail-verbena: same_region, ENT-cocktail-mezcal-negroni: same_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat}
 data_confidence: simulated
 data_source: Tello 配方
+version: 1
 ratings:
   vivino: {score: 4.4, votes: 48416}
   diffords: {score: 4.13, year: 2021}
   iba: {score: 4.1, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 岩石中
@@ -133,3 +136,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Tello 配方
+- 数据置信度：simulated

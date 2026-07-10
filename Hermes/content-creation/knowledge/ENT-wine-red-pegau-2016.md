@@ -4,11 +4,12 @@ title: 教皇新堡佩高 2016
 category: ENT
 tags: [红酒, 罗讷河谷, 南罗讷]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-red-chateauneuf-beaucastel-2016, ENT-wine-red-clos-des-papes-2016, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
 related_typed: {ENT-wine-red-chateauneuf-beaucastel-2016: same_region, ENT-wine-red-clos-des-papes-2016: same_region, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 3.9, votes: 4430}
   parker: {score: 79, year: 2021}
@@ -70,6 +71,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -112,3 +114,5 @@ Pégau 是古代酒器，酒标上的小瓶象征着古罗马酒器传统。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

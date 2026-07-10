@@ -4,12 +4,14 @@ title: 桂花酿
 category: ENT
 tags: [百度百科, fruit_wine, 桂花酿]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-baike-fruit_wine-zhuyeqing-jiu]
 related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-baike-fruit_wine-zhuyeqing-jiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
+source_url: https://baike.baidu.com/item/%E6%A1%82%E8%8A%B1%E9%85%BF
+version: 1
 ratings:
   vivino: {score: 4.3, votes: 49781}
   wine_enthusiast: {score: 82, year: 2023}
@@ -45,6 +47,7 @@ ratings:
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -63,3 +66,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：百度百科
+- 数据置信度：verified

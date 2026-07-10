@@ -4,11 +4,12 @@ title: 蒙哈榭 DRC 2014
 category: ENT
 tags: [白酒, 勃艮第, 特级园, DRC, 霞多丽]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-chevalier-montrachet-leflaive-2015]
 related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-white-montrachet-leflaive-2014: same_region, ENT-wine-white-chevalier-montrachet-leflaive-2015: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 36548}
   parker: {score: 92, year: 2020}
@@ -66,11 +67,12 @@ DRC 在 Montrachet 的份额，全球最稀缺的白葡萄酒之一。
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -116,3 +118,5 @@ DRC 蒙哈榭年产量仅约 3000 瓶，是世界上最难买到的白葡萄酒�
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

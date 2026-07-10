@@ -4,11 +4,12 @@ title: 塞塞雷斯侯爵桃红 2020
 category: ENT
 tags: [桃红, 里奥哈, Marqués de Cáceres]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019, ENT-wine-rose-chateau-minuty-m-2020]
 related_typed: {ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 33669}
   parker: {score: 84, year: 2023}
@@ -67,6 +68,7 @@ ratings:
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -106,3 +108,5 @@ Marqués de Cáceres 由法国酿酒师 Henri Forner 建立，引进法国酿造
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,16 +4,20 @@ title: 近距离
 category: ENT
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Point Blank, 搅和]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-sazerac, ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady, ENT-cocktail-bacardi-cocktail]
 related_typed: {ENT-cocktail-sazerac: same_subcat, ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat, ENT-cocktail-bacardi-cocktail: same_subcat}
 data_confidence: official
 data_source: IBA Official
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 44719}
   diffords: {score: 4.34, year: 2021}
   iba: {score: 5.0, year: 2021}
+source_url: https://iba-world.com/iba-cocktail/blank/
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 近距离
@@ -105,3 +109,5 @@ Pour all ingredients into mixing glass with ice cubes. Stir and strain into a ch
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA Official
+- 数据置信度：official

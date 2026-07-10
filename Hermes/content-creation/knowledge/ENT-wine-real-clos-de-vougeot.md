@@ -4,18 +4,22 @@ title: 沃热园
 category: ENT
 tags: [红酒, 法国, 勃艮第, 沃热, 特级园, 黑皮诺]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-montrachet, ENT-wine-real-musigny, ENT-wine-real-chambertin, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-musigny: same_brand, ENT-wine-real-chambertin: same_brand, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 40322}
   parker: {score: 83, year: 2022}
   wine_spectator: {score: 84, year: 2020}
   james_suckling: {score: 85, year: 2021}
   cellar_tracker: {score: 4.6, votes: 3392}
+source_url: https://www.wine-searcher.com/find/vougeot
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 沃热园
@@ -70,6 +74,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -104,3 +109,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

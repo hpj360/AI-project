@@ -4,12 +4,14 @@ title: 丹阳黄酒
 category: ENT
 tags: [百度百科, yellow_wine, 丹阳黄酒]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang, ENT-baike-yellow_wine-jiaxing-huangjiu]
 related_typed: {ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: cross_region, ENT-baike-yellow_wine-jiaxing-huangjiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
+source_url: https://baike.baidu.com/item/%E4%B8%B9%E9%98%B3%E9%BB%84%E9%85%92
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 34211}
   csl: {score: 86, year: 2020}
@@ -45,6 +47,7 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -63,3 +66,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：百度百科
+- 数据置信度：verified

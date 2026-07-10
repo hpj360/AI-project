@@ -4,11 +4,12 @@ title: 洋河 天之蓝
 category: ENT
 tags: [白酒, 浓香, 江苏, 洋河]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baijiu-yanghe-haizhilan, ENT-baijiu-yanghe-mengzhilan-m3, ENT-baijiu-yanghe-mengzhilan-m9, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
 related_typed: {ENT-baijiu-yanghe-haizhilan: same_brand, ENT-baijiu-yanghe-mengzhilan-m3: same_brand, ENT-baijiu-yanghe-mengzhilan-m9: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 15033}
   csl: {score: 88, year: 2022}
@@ -70,6 +71,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -110,3 +112,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

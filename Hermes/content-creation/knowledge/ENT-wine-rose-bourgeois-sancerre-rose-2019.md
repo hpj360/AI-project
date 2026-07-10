@@ -4,11 +4,12 @@ title: 亨利布鲁瓦桑塞尔桃红 2019
 category: ENT
 tags: [桃红, 卢瓦尔, 黑皮诺, Sancerre]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-white-bourgeois-sancerre-2019, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019]
 related_typed: {ENT-wine-white-bourgeois-sancerre-2019: same_brand, ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 48292}
   parker: {score: 85, year: 2020}
@@ -67,6 +68,7 @@ Sancerre 名家 Henri Bourgeois，黑皮诺桃红经典。
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -106,3 +108,5 @@ Sancerre 桃红采用黑皮诺，与长相思白酒共同代表产区。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

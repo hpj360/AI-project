@@ -4,11 +4,12 @@ title: 试飞员（现代版）
 category: ENT
 tags: [鸡尾酒, Tiki, 黑朗姆, 查特酒, 现代]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-kamikaze, ENT-cocktail-melon-ball, ENT-cocktail-smoke-signal, ENT-cocktail-brown-derby, ENT-cocktail-westside]
 related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-melon-ball: same_region, ENT-cocktail-smoke-signal: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.5, votes: 21468}
   diffords: {score: 4.14, year: 2022}
@@ -135,3 +136,5 @@ Test Pilot 是 Tiki 黄金时代代表作，配方曾被精心保密。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

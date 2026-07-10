@@ -4,11 +4,12 @@ title: 索拉雅 2016
 category: ENT
 tags: [红酒, 意大利, 超级托斯卡纳]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-tignanello, ENT-wine-red-tignanello-2017, ENT-wine-red-flaccianello-2017, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
 related_typed: {ENT-wine-real-tignanello: same_brand, ENT-wine-red-tignanello-2017: same_brand, ENT-wine-red-flaccianello-2017: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.7, votes: 25816}
   parker: {score: 86, year: 2020}
@@ -70,6 +71,7 @@ Antinori 家族旗舰，与 Tignanello 同园出产，赤霞珠主导。
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -112,3 +114,5 @@ Solaia 意为阳光之园，仅优秀年份酿造。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

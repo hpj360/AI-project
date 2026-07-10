@@ -4,12 +4,13 @@ title: 卡匹林尼亚
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典, 卡沙萨, 巴西]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 49221}
   diffords: {score: 4.42, year: 2022}
@@ -17,6 +18,8 @@ ratings:
 awards:
   - {name: IBA World Competition Gold, year: 2023, org: IBA World Competition}
   - {name: Tales of the Cocktail Spirited Award, year: 2020, org: Tales of the Cocktail}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 卡匹林尼亚
@@ -142,3 +145,5 @@ Caipirinha 是巴西国饮，2003 年立法成为巴西文化遗产。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

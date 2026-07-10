@@ -4,18 +4,22 @@ title: 马爹利 VSOP
 category: ENT
 tags: [白兰地, 干邑, 法国, 马爹利]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-hennessy-vsop, ENT-brand-remy-martin-vsop, ENT-brand-courvoisier-vsop, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brand-hennessy-vsop: same_region, ENT-brand-remy-martin-vsop: same_region, ENT-brand-courvoisier-vsop: same_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 7858}
   wine_enthusiast: {score: 91, year: 2020}
 awards:
   - {name: San Francisco Silver, year: 2021, org: San Francisco}
   - {name: ISC Silver, year: 2019, org: ISC}
+source_url: https://en.wikipedia.org/wiki/vsop
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 马爹利 VSOP
@@ -69,6 +73,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -105,3 +110,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

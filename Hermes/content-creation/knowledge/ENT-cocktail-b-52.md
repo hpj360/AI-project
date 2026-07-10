@@ -4,18 +4,21 @@ title: B-52 轰炸机
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典, 分层, shooter]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 40032}
   diffords: {score: 4.47, year: 2022}
   iba: {score: 5.0, year: 2021}
 awards:
   - {name: Tales of the Cocktail Best Cocktail, year: 2020, org: Tales of the Cocktail}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # B-52 轰炸机
@@ -140,3 +143,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

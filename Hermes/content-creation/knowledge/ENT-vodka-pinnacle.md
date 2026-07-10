@@ -4,11 +4,12 @@ title: 品尼高 Pinnacle
 category: ENT
 tags: [伏特加, 法国, Pinnacle]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
 related_typed: {ENT-vodka-off-142-poliakov: same_subcat, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat, ENT-vodka-off-145-vodka: same_subcat, ENT-vodka-off-146-premium-vodka: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 5497}
   wine_enthusiast: {score: 94, year: 2020}
@@ -67,6 +68,7 @@ Pinnacle，法国小麦伏特加，性价比高，风味丰富。
 | 苦 | 1 | █░░░░ |
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +105,5 @@ Pinnacle 拥有 30 余种风味版本。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

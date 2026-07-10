@@ -4,11 +4,12 @@ title: 绝对 柠檬风味
 category: ENT
 tags: [伏特加, 调味, 瑞典, 绝对]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-160-absolut, ENT-vodka-absolut-original, ENT-brand-belvedere, ENT-brand-stolichnaya]
 related_typed: {ENT-vodka-off-141-absolut-vodka: same_brand, ENT-vodka-off-160-absolut: same_brand, ENT-vodka-absolut-original: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 34311}
   wine_enthusiast: {score: 89, year: 2022}
@@ -67,6 +68,7 @@ ratings:
 | 苦 | 1 | █░░░░ |
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +105,5 @@ Absolut Citron 是 Cosmopolitan 鸡尾酒关键材料。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

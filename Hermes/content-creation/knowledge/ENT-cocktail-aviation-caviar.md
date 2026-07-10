@@ -4,12 +4,13 @@ title: 飞行鱼子酱
 category: ENT
 tags: [鸡尾酒, 分子, 球化, 金酒, 紫罗兰]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres]
 related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region, ENT-cocktail-margarita-spheres: same_region}
 data_confidence: simulated
 data_source: 分子调酒吧配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 46612}
   diffords: {score: 4.61, year: 2020}
@@ -17,6 +18,8 @@ ratings:
 awards:
   - {name: IBA World Competition Silver, year: 2023, org: IBA World Competition}
   - {name: Tales of the Cocktail Spirited Award, year: 2021, org: Tales of the Cocktail}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 飞行鱼子酱
@@ -147,3 +150,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：分子调酒吧配方
+- 数据置信度：simulated

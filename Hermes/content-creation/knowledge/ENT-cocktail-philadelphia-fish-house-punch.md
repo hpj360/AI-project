@@ -4,16 +4,19 @@ title: 费城渔会潘趣
 category: ENT
 tags: [鸡尾酒, 潘趣, 朗姆, 白兰地, 美国]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-clover-club, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-brandy-hennessy-xo]
 related_typed: {ENT-cocktail-clover-club: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail}
 data_confidence: official
 data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 12167}
   diffords: {score: 4.34, year: 2023}
   iba: {score: 5.0, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 费城渔会潘趣
@@ -136,3 +139,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

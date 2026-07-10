@@ -4,18 +4,22 @@ title: 庞特卡奈古堡
 category: ENT
 tags: [红酒, 法国, 波尔多, 波亚克, 二级庄]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-red-pichon-baron-2016, ENT-wine-real-lafite-rothschild, ENT-wine-real-latour, ENT-wine-real-mouton-rothschild, ENT-wine-real-lynch-bages]
 related_typed: {ENT-wine-red-pichon-baron-2016: same_brand, ENT-wine-real-lafite-rothschild: same_region, ENT-wine-real-latour: same_region, ENT-wine-real-mouton-rothschild: same_region, ENT-wine-real-lynch-bages: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.5, votes: 30043}
   parker: {score: 84, year: 2021}
   wine_spectator: {score: 83, year: 2021}
   james_suckling: {score: 83, year: 2020}
   cellar_tracker: {score: 4.2, votes: 3704}
+source_url: https://www.wine-searcher.com/find/baron
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 庞特卡奈古堡
@@ -70,6 +74,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -104,3 +109,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

@@ -4,18 +4,22 @@ title: 雄狮古堡
 category: ENT
 tags: [红酒, 法国, 波尔多, 圣朱利安, 二级庄]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-ducru-beaucaillou, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine-real-ducru-beaucaillou: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 4458}
   parker: {score: 83, year: 2020}
   wine_spectator: {score: 83, year: 2020}
   james_suckling: {score: 85, year: 2020}
   cellar_tracker: {score: 4.5, votes: 3208}
+source_url: https://www.wine-searcher.com/find/cases
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 雄狮古堡
@@ -70,6 +74,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -104,3 +109,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

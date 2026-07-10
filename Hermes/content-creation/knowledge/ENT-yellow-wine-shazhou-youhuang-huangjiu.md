@@ -4,9 +4,10 @@ title: 沙洲优黄
 category: ENT
 tags: [黄酒, 张家港, 沙洲优黄, 江苏]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 data_confidence: simulated
+version: 1
 related: [ENT-yellow-wine-shazhouyouhuang, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang]
 related_typed: {ENT-yellow-wine-shazhouyouhuang: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: same_subcat}
 ratings:
@@ -68,6 +69,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -113,3 +115,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,11 +4,12 @@ title: 加鲁斯桃红 2018
 category: ENT
 tags: [桃红, 普罗旺斯, Grenache, 橡木桶]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019, ENT-wine-rose-chateau-minuty-m-2020, ENT-wine-rose-domaine-tempier-bandol-2019]
 related_typed: {ENT-wine-rose-whispering-angel-2020: same_brand, ENT-wine-rose-domaines-ott-clos-mireille-2019: same_region, ENT-wine-rose-miraval-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: cross_region, ENT-wine-rose-domaine-tempier-bandol-2019: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 19682}
   parker: {score: 85, year: 2020}
@@ -67,6 +68,7 @@ ratings:
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -106,3 +108,5 @@ Garrus 以勃艮第白酒工艺酿造桃红，被誉为世界最复杂桃红。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

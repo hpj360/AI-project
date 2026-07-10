@@ -4,18 +4,22 @@ title: 玛歌帕尔默古堡
 category: ENT
 tags: [红酒, 法国, 波尔多, 玛歌, 三级庄]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-margaux, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-real-margaux: same_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.2, votes: 20336}
   parker: {score: 82, year: 2021}
   wine_spectator: {score: 83, year: 2023}
   james_suckling: {score: 82, year: 2022}
   cellar_tracker: {score: 3.9, votes: 2951}
+source_url: https://www.wine-searcher.com/find/palmer
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 玛歌帕尔默古堡
@@ -70,6 +74,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -104,3 +109,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

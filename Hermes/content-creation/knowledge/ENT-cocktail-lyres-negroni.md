@@ -4,11 +4,12 @@ title: Lyre's 尼格罗尼
 category: ENT
 tags: [鸡尾酒, 无酒精, Lyre's, 尼格罗尼, 现代]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail]
 related_typed: {ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.5, votes: 7702}
   diffords: {score: 4.14, year: 2020}
@@ -131,3 +132,5 @@ Lyre's 模拟经典烈酒风味，让戒酒者也能享受尼格罗尼的苦甜�
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

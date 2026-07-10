@@ -4,14 +4,19 @@ title: Gin Malfy
 category: ENT
 tags: [OpenFoodFacts, gin, 金酒, Malfy]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks, ENT-gin-hendricks-lunar, ENT-gin-monkey-47]
 related_typed: {ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat, ENT-gin-hendricks-lunar: same_subcat, ENT-gin-monkey-47: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.5, votes: 20146}
   wine_enthusiast: {score: 84, year: 2022}
+source_url: https://world.openfoodfacts.org/product/malfy
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Gin Malfy
@@ -66,6 +71,7 @@ OpenFoodFacts 真实产品数据：Gin Malfy（Malfy）
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -89,3 +95,5 @@ OpenFoodFacts 真实产品数据：Gin Malfy（Malfy）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

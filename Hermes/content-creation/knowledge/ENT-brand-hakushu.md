@@ -4,12 +4,13 @@ title: 白州
 category: ENT
 tags: [威士忌, 日本, 单一麦芽]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black]
 related_typed: {ENT-brand-yamazaki-12: same_brand, ENT-brand-hibiki-harmony: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 24758}
   whisky_fun: {score: 88, year: 2020}
@@ -17,6 +18,9 @@ ratings:
 awards:
   - {name: Malt Maniacs Silver, year: 2020, org: Malt Maniacs}
   - {name: WWA Silver, year: 2021, org: WWA}
+source_url: https://en.wikipedia.org/wiki/hakushu
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 白州
@@ -70,6 +74,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -107,3 +112,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

@@ -4,11 +4,12 @@ title: 库克陈年香槟 170
 category: ENT
 tags: [起泡酒, 香槟, Krug, 无年份]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-sparkling-krug-clos-d-ambonnay-2002, ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
 related_typed: {ENT-wine-sparkling-krug-clos-d-ambonnay-2002: same_brand, ENT-wine-sparkling-cristal-2013: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 3.9, votes: 37768}
   wine_spectator: {score: 80, year: 2021}
@@ -62,11 +63,12 @@ Krug 旗舰无年份香槟，多年份调配，复杂深邃。
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
-| 香 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -106,3 +108,5 @@ Krug 每一版 Grande Cuvée 由 120+ 款基酒调配，编号代表第几版。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

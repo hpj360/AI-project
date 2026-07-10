@@ -4,11 +4,12 @@ title: 狗点长相思 2020
 category: ENT
 tags: [白酒, 新世界, 长相思, 马尔堡]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-cloudy-bay, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense]
 related_typed: {ENT-wine-real-cloudy-bay: same_region, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020: same_region, ENT-wine-white-oyster-bay-sauvignon-blanc-2020: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 45974}
   parker: {score: 88, year: 2020}
@@ -64,11 +65,12 @@ ratings:
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -110,3 +112,5 @@ Dog Point 名字源自当地牧羊犬的看守点，酒庄标志为狗。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

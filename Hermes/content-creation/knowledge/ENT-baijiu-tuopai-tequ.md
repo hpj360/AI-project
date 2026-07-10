@@ -4,11 +4,12 @@ title: 沱牌 特曲
 category: ENT
 tags: [白酒, 浓香, 四川, 沱牌]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-shede-zhihui-shede, ENT-baike-baijiu-shede-jiu, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
 related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-shede-zhihui-shede: same_brand, ENT-baike-baijiu-shede-jiu: same_brand, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 14620}
   csl: {score: 89, year: 2023}
@@ -70,6 +71,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -110,3 +112,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

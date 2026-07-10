@@ -4,11 +4,12 @@ title: 扎泉酒
 category: ENT
 tags: [米酒, 扎泉, 传统]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-rice-wine-nuomi-jiu, ENT-rice-wine-tian-jiuniang, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu]
 related_typed: {ENT-rice-wine-nuomi-jiu: same_brand, ENT-rice-wine-tian-jiuniang: same_brand, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 35827}
   csl: {score: 85, year: 2020}
@@ -62,10 +63,11 @@ ratings:
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
 | 甜 | 4 | ████░ |
-| 酸 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -105,3 +107,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

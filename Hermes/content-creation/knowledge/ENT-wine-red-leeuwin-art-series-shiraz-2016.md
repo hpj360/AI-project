@@ -4,11 +4,12 @@ title: 露纹艺术系列设拉子 2016
 category: ENT
 tags: [红酒, 澳洲, 设拉子, 玛格丽特河]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-white-leeuwin-art-series-chardonnay-2017, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto]
 related_typed: {ENT-wine-white-leeuwin-art-series-chardonnay-2017: same_brand, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 3.8, votes: 45490}
   parker: {score: 80, year: 2023}
@@ -70,6 +71,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -112,3 +114,5 @@ Art Series 酒标每年邀请澳大利亚艺术家创作，兼具收藏价值。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

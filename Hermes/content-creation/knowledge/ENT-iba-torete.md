@@ -4,12 +4,13 @@ title: 托雷特
 category: ENT
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Torete, 摇和]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta]
 related_typed: {ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail, ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat}
 data_confidence: official
 data_source: IBA Official
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 33196}
   diffords: {score: 4.46, year: 2023}
@@ -17,6 +18,9 @@ ratings:
 awards:
   - {name: IBA World Competition Silver, year: 2019, org: IBA World Competition}
   - {name: Tales of the Cocktail Spirited Award, year: 2019, org: Tales of the Cocktail}
+source_url: https://iba-world.com/iba-cocktail/torete/
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 托雷特
@@ -113,3 +117,5 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA Official
+- 数据置信度：official

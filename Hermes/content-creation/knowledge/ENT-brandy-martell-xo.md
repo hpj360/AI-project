@@ -4,11 +4,12 @@ title: 马爹利 XO
 category: ENT
 tags: [白兰地, 干邑, 法国, 马爹利]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brandy-martell-vsop, ENT-brandy-martell-cordon-bleu, ENT-brandy-martell-noblige, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
 related_typed: {ENT-brandy-martell-vsop: same_brand, ENT-brandy-martell-cordon-bleu: same_brand, ENT-brandy-martell-noblige: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 32722}
   wine_enthusiast: {score: 91, year: 2023}
@@ -70,6 +71,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -114,3 +116,5 @@ AOC Cognac
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

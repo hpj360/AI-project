@@ -4,17 +4,21 @@ title: 沙龙
 category: ENT
 tags: [起泡酒, 香槟, 白中白, 霞多丽, Mesnil]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original]
 related_typed: {ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 23899}
   wine_spectator: {score: 90, year: 2021}
 awards:
   - {name: IWSC Gold, year: 2022, org: IWSC}
+source_url: https://www.wine-searcher.com/find/salon
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 沙龙
@@ -64,11 +68,12 @@ awards:
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
-| 香 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -104,3 +109,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

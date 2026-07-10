@@ -4,11 +4,13 @@ title: Mouton Cadet
 category: ENT
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Baron Philippe de Rothschild]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-015-cabernet-sauvigon, ENT-wine_red-off-017-naturae]
 related_typed: {ENT-wine_red-off-004-pinot-noir: same_region, ENT-wine_red-off-005-cabernet-sauvignon: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_region, ENT-wine_red-off-015-cabernet-sauvigon: same_region, ENT-wine_red-off-017-naturae: same_region}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 32691}
   parker: {score: 93, year: 2020}
@@ -18,6 +20,9 @@ ratings:
 awards:
   - {name: Concours Mondial Gold, year: 2023, org: Concours Mondial}
   - {name: IWSC Gold, year: 2023, org: IWSC}
+source_url: https://world.openfoodfacts.org/product/cadet
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Mouton Cadet
@@ -72,6 +77,7 @@ OpenFoodFacts 真实产品数据：Mouton Cadet（Baron Philippe de Rothschild�
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +109,5 @@ OpenFoodFacts 真实产品数据：Mouton Cadet（Baron Philippe de Rothschild�
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

@@ -4,11 +4,12 @@ title: 平古斯 2015
 category: ENT
 tags: [红酒, 西班牙, Ribera del Duero, 膜拜酒]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-red-vega-sicilia-unico-2010, ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
 related_typed: {ENT-wine-red-vega-sicilia-unico-2010: same_region, ENT-wine-red-pesquera-gran-reserva-2012: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 38792}
   parker: {score: 91, year: 2023}
@@ -72,6 +73,7 @@ awards:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -118,3 +120,5 @@ Pingus 名字源自酿酒师童年昵称，老藤丹魄平均树龄超 60 年。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,16 +4,21 @@ title: Gewurztraminer 2012
 category: ENT
 tags: [OpenFoodFacts, wine_white, 白葡萄酒, Wolfberger]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay]
 related_typed: {ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: cross_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 3.9, votes: 18761}
   parker: {score: 79, year: 2022}
   wine_spectator: {score: 82, year: 2022}
   cellar_tracker: {score: 3.6, votes: 1985}
+source_url: https://world.openfoodfacts.org/product/2012
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Gewurztraminer 2012
@@ -63,11 +68,12 @@ OpenFoodFacts 真实产品数据：Gewurztraminer 2012（Wolfberger），产地 
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -93,3 +99,5 @@ OpenFoodFacts 真实产品数据：Gewurztraminer 2012（Wolfberger），产地 
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

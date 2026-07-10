@@ -4,16 +4,19 @@ title: 茉莉
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 金酒, 坎帕里, 酸酒]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-martinez, ENT-cocktail-saturn, ENT-cocktail-tommys-margarita, ENT-cocktail-chartreuse-swizzle, ENT-cocktail-fogcutter]
 related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-saturn: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-chartreuse-swizzle: same_region, ENT-cocktail-fogcutter: same_region}
 data_confidence: simulated
 data_source: Lynch 配方
+version: 1
 ratings:
   vivino: {score: 4.6, votes: 35940}
   diffords: {score: 4.16, year: 2020}
   iba: {score: 4.3, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 茉莉
@@ -133,3 +136,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Lynch 配方
+- 数据置信度：simulated

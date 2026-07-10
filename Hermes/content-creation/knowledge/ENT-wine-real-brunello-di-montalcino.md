@@ -4,12 +4,13 @@ title: 布鲁内罗
 category: ENT
 tags: [红酒, 意大利, 托斯卡纳, 蒙塔尔奇诺, 桑娇维塞, DOCG]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-brand-haut-brion, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 36212}
   parker: {score: 89, year: 2023}
@@ -19,6 +20,9 @@ ratings:
 awards:
   - {name: IWSC Gold, year: 2019, org: IWSC}
   - {name: Decanter Bronze, year: 2020, org: Decanter}
+source_url: https://www.wine-searcher.com/find/montalcino
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 布鲁内罗
@@ -73,6 +77,7 @@ awards:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -112,3 +117,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

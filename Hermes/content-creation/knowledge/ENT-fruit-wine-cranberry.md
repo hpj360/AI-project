@@ -4,11 +4,12 @@ title: 蔓越莓酒
 category: ENT
 tags: [果酒, 蔓越莓, 莓果, 美国]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baike-fruit_wine-jinjiu, ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu]
 related_typed: {ENT-baike-fruit_wine-jinjiu: cross_region, ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 42712}
   wine_enthusiast: {score: 88, year: 2020}
@@ -64,6 +65,7 @@ ratings:
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -95,3 +97,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

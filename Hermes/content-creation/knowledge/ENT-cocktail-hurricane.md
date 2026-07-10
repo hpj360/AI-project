@@ -4,16 +4,19 @@ title: 飓风
 category: ENT
 tags: [鸡尾酒, Tiki, 朗姆, 百香果, 美国]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-grasshopper]
 related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region, ENT-cocktail-grasshopper: same_region}
 data_confidence: simulated
 data_source: Pat O'Brien's 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 48635}
   diffords: {score: 4.24, year: 2023}
   iba: {score: 4.7, year: 2021}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 飓风
@@ -133,3 +136,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Pat O'Brien's 配方
+- 数据置信度：simulated

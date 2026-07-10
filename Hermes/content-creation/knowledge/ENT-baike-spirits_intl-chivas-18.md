@@ -4,12 +4,14 @@ title: 芝华士18年
 category: ENT
 tags: [百度百科, spirits_intl, 芝华士18年]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baike-spirits_intl-martell-cordon-bleu]
 related_typed: {ENT-baike-spirits_intl-martell-cordon-bleu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
+source_url: https://baike.baidu.com/item/%E8%8A%9D%E5%8D%8E%E5%A3%AB18%E5%B9%B4
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 15714}
 ---
@@ -44,6 +46,7 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -61,3 +64,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：百度百科
+- 数据置信度：verified

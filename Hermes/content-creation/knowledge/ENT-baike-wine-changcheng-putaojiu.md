@@ -4,12 +4,14 @@ title: 长城葡萄酒
 category: ENT
 tags: [百度百科, wine, 长城葡萄酒]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baike-wine-helanshan-putaojiu, ENT-baike-wine-zhangyu-putaojiu, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu]
 related_typed: {ENT-baike-wine-helanshan-putaojiu: cross_region, ENT-baike-wine-zhangyu-putaojiu: same_subcat, ENT-baike-wine-zhangyu-jiebaina: same_subcat, ENT-baike-wine-wangchao-putaojiu: same_subcat, ENT-baike-wine-weilong-putaojiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
+source_url: https://baike.baidu.com/item/%E9%95%BF%E5%9F%8E%E8%91%A1%E8%90%84%E9%85%92
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 12424}
 ---
@@ -44,6 +46,7 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -61,3 +64,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：百度百科
+- 数据置信度：verified

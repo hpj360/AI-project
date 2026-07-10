@@ -4,12 +4,13 @@ title: 玛歌古堡
 category: ENT
 tags: [红酒, 法国, 波尔多, 玛歌, 一级庄]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-red-margaux-2015, ENT-wine-real-palmer, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux]
 related_typed: {ENT-wine-red-margaux-2015: same_brand, ENT-wine-real-palmer: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 31861}
   parker: {score: 98, year: 2022}
@@ -20,6 +21,9 @@ awards:
   - {name: IWSC Gold, year: 2019, org: IWSC}
   - {name: Decanter Bronze, year: 2019, org: Decanter}
   - {name: Concours Mondial Silver, year: 2023, org: Concours Mondial}
+source_url: https://www.wine-searcher.com/find/margaux
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 玛歌古堡
@@ -74,6 +78,7 @@ awards:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -114,3 +119,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

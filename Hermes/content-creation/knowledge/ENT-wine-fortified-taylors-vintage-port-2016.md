@@ -4,11 +4,12 @@ title: 泰勒年份波特 2016
 category: ENT
 tags: [加强酒, 波特, 年份, Taylor's]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-fortified-taylors-40-year-old-tawny, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-warres-vintage-port-2016]
 related_typed: {ENT-wine-fortified-taylors-40-year-old-tawny: same_brand, ENT-wine-fortified-grahams-vintage-port-2017: same_region, ENT-wine-fortified-dows-vintage-port-2016: same_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_region, ENT-wine-fortified-warres-vintage-port-2016: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 24944}
   wine_spectator: {score: 88, year: 2022}
@@ -67,6 +68,7 @@ Taylor's 经典年份波特，优雅结构与黑果风味著称。
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -106,3 +108,5 @@ Taylor's 风格优雅结构化，被誉为波特酒中的拉菲。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

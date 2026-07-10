@@ -4,15 +4,19 @@ title: 凯歌
 category: ENT
 tags: [起泡酒, 香槟, LVMH, 霞多丽, 黑皮诺, 皮诺莫尼耶]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-dom-perignon, ENT-wine-real-moet-chandon, ENT-wine-real-krug, ENT-wine-real-bollinger, ENT-wine-real-cristal]
 related_typed: {ENT-wine-real-dom-perignon: same_region, ENT-wine-real-moet-chandon: same_region, ENT-wine-real-krug: same_region, ENT-wine-real-bollinger: same_region, ENT-wine-real-cristal: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.1, votes: 25148}
   wine_spectator: {score: 82, year: 2021}
+source_url: https://www.wine-searcher.com/find/clicquot
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 凯歌
@@ -62,11 +66,12 @@ LVMH旗下香槟品牌，黄色标签为标志，由凯歌夫人创立。
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
-| 香 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -98,3 +103,5 @@ LVMH旗下香槟品牌，黄色标签为标志，由凯歌夫人创立。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

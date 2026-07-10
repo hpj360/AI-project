@@ -4,11 +4,12 @@ title: 骑士蒙哈榭 2015
 category: ENT
 tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine-white-puligny-pucelles-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-combettes-leflaive-2016]
 related_typed: {ENT-wine-white-montrachet-leflaive-2014: same_brand, ENT-wine-white-batard-montrachet-leflaive-2015: same_brand, ENT-wine-white-puligny-pucelles-leflaive-2015: same_brand, ENT-wine-white-montrachet-drc-2014: same_region, ENT-wine-white-puligny-combettes-leflaive-2016: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 14817}
   parker: {score: 89, year: 2022}
@@ -66,11 +67,12 @@ Montrachet 旁的特级园，风格优雅细腻，Leflaive 代表作。
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -116,3 +118,5 @@ AOC Chevalier-Montrachet Grand Cru
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

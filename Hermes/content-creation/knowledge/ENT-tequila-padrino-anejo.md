@@ -4,11 +4,12 @@ title: 帕德龙 Padrino Añejo
 category: ENT
 tags: [龙舌兰, 墨西哥, Padrino, Añejo]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-herradura-reposado]
 related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-herradura-reposado: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 3.8, votes: 25961}
   wine_enthusiast: {score: 82, year: 2022}
@@ -64,9 +65,10 @@ ratings:
 |------|-----------|------|
 | 甜 | 2 | ██░░░ |
 | 酸 | 2 | ██░░░ |
-| 苦 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
 | 烈 | 5 | █████ |
-| 香 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +105,5 @@ Padrino 之名寓意家族传承，注重陈年橡木桶工艺。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

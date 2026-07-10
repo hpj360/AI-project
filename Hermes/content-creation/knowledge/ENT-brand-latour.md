@@ -4,12 +4,13 @@ title: 拉图城堡
 category: ENT
 tags: [红酒, 波尔多, 一级庄, 赤霞珠]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-latour, ENT-wine-real-clos-de-tart, ENT-wine-red-latour-2010, ENT-brand-lafite-rothschild, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine-real-latour: same_brand, ENT-wine-real-clos-de-tart: same_brand, ENT-wine-red-latour-2010: same_brand, ENT-brand-lafite-rothschild: same_region, ENT-brand-mouton-rothschild: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 32629}
   parker: {score: 96, year: 2021}
@@ -19,6 +20,9 @@ ratings:
 awards:
   - {name: Concours Mondial Gold, year: 2023, org: Concours Mondial}
   - {name: IWSC Silver, year: 2022, org: IWSC}
+source_url: https://en.wikipedia.org/wiki/latour
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 拉图城堡
@@ -72,6 +76,7 @@ awards:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -111,3 +116,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

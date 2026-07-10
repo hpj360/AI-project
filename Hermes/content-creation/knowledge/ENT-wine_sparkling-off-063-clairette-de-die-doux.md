@@ -4,14 +4,19 @@ title: Clairette de Die doux
 category: ENT
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Jaillance]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge, ENT-wine_sparkling-off-067-canard-duch-ne]
 related_typed: {ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_brand, ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition: same_brand, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_region, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge: same_region, ENT-wine_sparkling-off-067-canard-duch-ne: same_region}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 8367}
   wine_spectator: {score: 85, year: 2020}
+source_url: https://world.openfoodfacts.org/product/doux
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Clairette de Die doux
@@ -61,11 +66,12 @@ OpenFoodFacts 真实产品数据：Clairette de Die doux（Jaillance），产地
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
-| 香 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -89,3 +95,5 @@ OpenFoodFacts 真实产品数据：Clairette de Die doux（Jaillance），产地
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

@@ -4,12 +4,13 @@ title: 罗曼尼康帝
 category: ENT
 tags: [红酒, 勃艮第, 特级园, 黑皮诺, DRC]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-brand-lafite-rothschild, ENT-brand-latour]
 related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 8736}
   parker: {score: 93, year: 2020}
@@ -19,6 +20,9 @@ ratings:
 awards:
   - {name: IWSC Silver, year: 2019, org: IWSC}
   - {name: Concours Mondial Gold, year: 2020, org: Concours Mondial}
+source_url: https://en.wikipedia.org/wiki/conti
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 罗曼尼康帝
@@ -72,6 +76,7 @@ awards:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -111,3 +116,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

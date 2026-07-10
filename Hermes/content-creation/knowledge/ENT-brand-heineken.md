@@ -4,15 +4,19 @@ title: 喜力啤酒
 category: ENT
 tags: [啤酒, 荷兰, 拉格, 国际啤酒]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-beer-heineken, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe]
 related_typed: {ENT-beer-heineken: same_brand, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.3, votes: 11369}
   ratebeer: {score: 84, year: 2021}
+source_url: https://en.wikipedia.org/wiki/heineken
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 喜力啤酒
@@ -63,9 +67,10 @@ ratings:
 |------|-----------|------|
 | 甜 | 2 | ██░░░ |
 | 酸 | 2 | ██░░░ |
-| 苦 | 4 | ████░ |
+| 苦 | 3 | ███░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -97,3 +102,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

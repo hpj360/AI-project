@@ -4,12 +4,13 @@ title: 拉塔希
 category: ENT
 tags: [红酒, 法国, 勃艮第, 沃恩-罗曼尼, 特级园, DRC, 黑皮诺]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-romanee-conti, ENT-wine-real-romanee-conti, ENT-wine-real-richebourg, ENT-wine-real-romanee-saint-vivant, ENT-brand-margaux]
 related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-real-romanee-saint-vivant: same_region, ENT-brand-margaux: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 42140}
   parker: {score: 90, year: 2021}
@@ -18,6 +19,9 @@ ratings:
   cellar_tracker: {score: 4.8, votes: 697}
 awards:
   - {name: Concours Mondial Gold, year: 2019, org: Concours Mondial}
+source_url: https://www.wine-searcher.com/find/tache
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 拉塔希
@@ -72,6 +76,7 @@ DRC旗下独占特级园，勃艮第最顶级的黑皮诺之一。
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -110,3 +115,5 @@ La Tâche是DRC独占的特级园，1933年法院判决确认独占权。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

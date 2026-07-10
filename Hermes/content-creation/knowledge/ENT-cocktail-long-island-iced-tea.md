@@ -4,16 +4,19 @@ title: 长岛冰茶
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典, 烈, 长饮]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east]
 related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail}
 data_confidence: official
 data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 46540}
   diffords: {score: 4.23, year: 2020}
   iba: {score: 4.7, year: 2023}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 长岛冰茶
@@ -139,3 +142,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

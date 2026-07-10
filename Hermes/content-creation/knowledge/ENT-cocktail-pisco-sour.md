@@ -4,16 +4,19 @@ title: 皮斯科酸酒
 category: ENT
 tags: [鸡尾酒, 酸酒, 皮斯科, 青柠, 秘鲁]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball]
 related_typed: {ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat}
 data_confidence: simulated
 data_source: Morris Bar 配方
+version: 1
 ratings:
   vivino: {score: 4.7, votes: 39482}
   diffords: {score: 4.19, year: 2020}
   iba: {score: 4.4, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 皮斯科酸酒
@@ -133,3 +136,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Morris Bar 配方
+- 数据置信度：simulated

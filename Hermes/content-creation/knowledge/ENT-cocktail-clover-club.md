@@ -4,16 +4,19 @@ title: 三叶草俱乐部
 category: ENT
 tags: [鸡尾酒, IBA, 酸酒, 金酒, 覆盆子]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-philadelphia-fish-house-punch, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb]
 related_typed: {ENT-cocktail-philadelphia-fish-house-punch: same_region, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail, ENT-gin-tanqueray-london-dry: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 43854}
   diffords: {score: 4.28, year: 2021}
   iba: {score: 4.9, year: 2023}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 三叶草俱乐部
@@ -134,3 +137,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

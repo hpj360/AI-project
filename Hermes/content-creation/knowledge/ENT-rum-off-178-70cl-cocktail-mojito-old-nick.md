@@ -4,14 +4,19 @@ title: 70CL Cocktail Mojito Old Nick
 category: ENT
 tags: [OpenFoodFacts, rum, 朗姆酒, Old Nick]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-rum-off-175-old-nick, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
 related_typed: {ENT-rum-off-175-old-nick: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.1, votes: 36075}
   wine_enthusiast: {score: 81, year: 2022}
+source_url: https://world.openfoodfacts.org/product/nick
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 70CL Cocktail Mojito Old Nick
@@ -62,10 +67,11 @@ OpenFoodFacts 真实产品数据：70CL Cocktail Mojito Old Nick（Old Nick）
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
 | 甜 | 4 | ████░ |
-| 酸 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -89,3 +95,5 @@ OpenFoodFacts 真实产品数据：70CL Cocktail Mojito Old Nick（Old Nick）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

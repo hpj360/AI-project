@@ -4,11 +4,12 @@ title: 贝尔德诺珍藏 2012
 category: ENT
 tags: [红酒, 西班牙, Ribera del Duero, 丹魄]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-red-vega-sicilia-unico-2010, ENT-wine-red-pingus-2015, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
 related_typed: {ENT-wine-red-vega-sicilia-unico-2010: same_region, ENT-wine-red-pingus-2015: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 39155}
   parker: {score: 87, year: 2022}
@@ -73,6 +74,7 @@ Ribera del Duero 现代风格先驱，由 Alejandro Fernández 复兴。
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -120,3 +122,5 @@ Fernández 坚持美国橡木桶陈酿，开创了 Ribera del Duero 的现代风
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

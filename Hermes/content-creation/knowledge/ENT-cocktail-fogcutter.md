@@ -4,16 +4,19 @@ title: 雾刀
 category: ENT
 tags: [鸡尾酒, 现代经典, 朗姆, 金酒, 白兰地, Tiki]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-martinez, ENT-cocktail-saturn, ENT-cocktail-jasmine, ENT-cocktail-tommys-margarita, ENT-cocktail-chartreuse-swizzle]
 related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-saturn: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-chartreuse-swizzle: same_region}
 data_confidence: simulated
 data_source: Trader Vic 配方
+version: 1
 ratings:
   vivino: {score: 4.5, votes: 2726}
   diffords: {score: 4.15, year: 2021}
   iba: {score: 4.2, year: 2021}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 雾刀
@@ -138,3 +141,5 @@ Trader Vic 警告饮者两杯后无法看清雾中之路，故得名雾刀。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Trader Vic 配方
+- 数据置信度：simulated

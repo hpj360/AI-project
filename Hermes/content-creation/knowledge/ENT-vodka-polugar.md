@@ -4,11 +4,12 @@ title: 波尔金卡 Polugar
 category: ENT
 tags: [伏特加, 俄罗斯, Polugar, 复古]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-vodka-stolichnaya, ENT-vodka-stolichnaya-soviet, ENT-vodka-kristall, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice]
 related_typed: {ENT-vodka-stolichnaya: same_region, ENT-vodka-stolichnaya-soviet: same_region, ENT-vodka-kristall: same_region, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 6422}
   wine_enthusiast: {score: 85, year: 2020}
@@ -67,6 +68,7 @@ Polugar，复刻 18 世纪俄罗斯贵族面包酒，麦香浓郁。
 | 苦 | 1 | █░░░░ |
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +105,5 @@ Polugar 俄语意为半烧，源自传统壶式蒸馏工艺。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

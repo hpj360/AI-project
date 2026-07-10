@@ -4,18 +4,21 @@ title: 飞行特调
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 金酒, 马拉斯加, 紫罗兰]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
 related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
 data_confidence: simulated
 data_source: Ensslin 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 21664}
   diffords: {score: 4.62, year: 2023}
   iba: {score: 5.0, year: 2023}
 awards:
   - {name: Tales of the Cocktail Best Cocktail, year: 2021, org: Tales of the Cocktail}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 飞行特调
@@ -140,3 +143,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Ensslin 配方
+- 数据置信度：simulated

@@ -4,11 +4,12 @@ title: 萨凯帕 Centenario 25
 category: ENT
 tags: [朗姆酒, 危地马拉, Zacapa, 限量]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-rum-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr]
 related_typed: {ENT-rum-zacapa-23: same_brand, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 31270}
   wine_enthusiast: {score: 97, year: 2020}
@@ -66,10 +67,11 @@ awards:
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
 | 甜 | 4 | ████░ |
-| 酸 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -111,3 +113,5 @@ Centenario 25 瓶身有手工编织棕榈叶装饰。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

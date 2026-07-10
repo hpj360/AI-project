@@ -4,16 +4,20 @@ title: 纸飞机
 category: ENT
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Paper Plane, 摇和]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-daiquiri, ENT-cocktail-sazerac, ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady]
 related_typed: {ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sazerac: same_subcat, ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat}
 data_confidence: official
 data_source: IBA Official
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 35092}
   diffords: {score: 4.34, year: 2020}
   iba: {score: 5.0, year: 2023}
+source_url: https://iba-world.com/iba-cocktail/plane/
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 纸飞机
@@ -105,3 +109,5 @@ IBA 官方 新时代（New Era Drinks） 系列鸡尾酒 Paper Plane（纸飞机
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA Official
+- 数据置信度：official

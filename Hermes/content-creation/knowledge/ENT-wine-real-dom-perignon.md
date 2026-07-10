@@ -4,15 +4,19 @@ title: 唐培里侬
 category: ENT
 tags: [起泡酒, 香槟, LVMH, 霞多丽, 黑皮诺]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-moet-chandon, ENT-wine-real-veuve-clicquot, ENT-wine-real-krug, ENT-wine-real-bollinger, ENT-wine-real-cristal]
 related_typed: {ENT-wine-real-moet-chandon: same_brand, ENT-wine-real-veuve-clicquot: same_region, ENT-wine-real-krug: same_region, ENT-wine-real-bollinger: same_region, ENT-wine-real-cristal: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.1, votes: 19608}
   wine_spectator: {score: 83, year: 2023}
+source_url: https://www.wine-searcher.com/find/perignon
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 唐培里侬
@@ -62,11 +66,12 @@ LVMH旗下顶级香槟，仅生产年份香槟，被誉为香槟之王。
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
-| 香 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -98,3 +103,5 @@ LVMH旗下顶级香槟，仅生产年份香槟，被誉为香槟之王。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

@@ -4,12 +4,13 @@ title: 柏图斯
 category: ENT
 tags: [红酒, 法国, 波尔多, 波美侯]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
 related_typed: {ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 35295}
   parker: {score: 95, year: 2023}
@@ -18,6 +19,9 @@ ratings:
   cellar_tracker: {score: 4.8, votes: 163}
 awards:
   - {name: Concours Mondial Gold, year: 2021, org: Concours Mondial}
+source_url: https://www.wine-searcher.com/find/petrus
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 柏图斯
@@ -72,6 +76,7 @@ awards:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -110,3 +115,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

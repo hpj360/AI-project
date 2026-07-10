@@ -4,16 +4,20 @@ title: 黄金之梦
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Golden Dream, 摇和]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-chinese-colada, ENT-cocktail-jasmine-tea-cocktail, ENT-cocktail-yuzu-margarita, ENT-cocktail-lychee-martini, ENT-cocktail-negroni]
 related_typed: {ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-jasmine-tea-cocktail: same_subcat, ENT-cocktail-yuzu-margarita: same_subcat, ENT-cocktail-lychee-martini: same_subcat, ENT-cocktail-negroni: same_subcat}
 data_confidence: official
 data_source: IBA Official
+version: 1
 ratings:
   vivino: {score: 4.6, votes: 32946}
   diffords: {score: 4.17, year: 2021}
   iba: {score: 4.3, year: 2020}
+source_url: https://iba-world.com/iba-cocktail/dream/
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 黄金之梦
@@ -105,3 +109,5 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA Official
+- 数据置信度：official

@@ -4,16 +4,19 @@ title: 汉基潘基（萨伏伊版本）
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 金酒, 费内特布兰卡, 伦敦]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-satans-whiskers, ENT-cocktail-corpse-reviver-no2, ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini]
 related_typed: {ENT-cocktail-satans-whiskers: same_brand, ENT-cocktail-corpse-reviver-no2: same_brand, ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region}
 data_confidence: simulated
 data_source: Savoy 配方
+version: 1
 ratings:
   vivino: {score: 4.1, votes: 13784}
   diffords: {score: 4.06, year: 2020}
   iba: {score: 3.8, year: 2023}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 汉基潘基（萨伏伊版本）
@@ -133,3 +136,5 @@ Hawtrey 喝后感叹 This is the real hanky-panky，鸡尾酒由此得名。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Savoy 配方
+- 数据置信度：simulated

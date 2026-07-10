@@ -4,16 +4,19 @@ title: 马天尼斯
 category: ENT
 tags: [鸡尾酒, 古典, 金酒, 味美思, 禁酒令前]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-saturn, ENT-cocktail-jasmine, ENT-cocktail-tommys-margarita, ENT-cocktail-chartreuse-swizzle, ENT-cocktail-fogcutter]
 related_typed: {ENT-cocktail-saturn: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-chartreuse-swizzle: same_region, ENT-cocktail-fogcutter: same_region}
 data_confidence: simulated
 data_source: Jerry Thomas 1887 Bartenders Guide
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 1584}
   diffords: {score: 4.22, year: 2022}
   iba: {score: 4.6, year: 2021}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 马天尼斯
@@ -133,3 +136,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Jerry Thomas 1887 Bartenders Guide
+- 数据置信度：simulated

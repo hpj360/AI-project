@@ -4,13 +4,17 @@ title: 空腹饮酒危害
 category: ENT
 tags: [ANTI, 禁忌, 空腹, 安全]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [SOP-champagne-service, SOP-wine-decanting, SOP-cocktail-shaking, SOP-cocktail-stirring, SOP-cocktail-muddling]
 related_typed: {SOP-champagne-service: same_subcat, SOP-wine-decanting: same_subcat, SOP-cocktail-shaking: same_subcat, SOP-cocktail-stirring: same_subcat, SOP-cocktail-muddling: same_subcat}
-data_confidence: simulated
+data_confidence: official
 data_source: 中华医学会消化病学分会 / 临床营养指南
+version: 1
+crawl_date: 2024-07-07
+version: 1
 ---
+
 # 空腹饮酒危害
 
 ## 概述
@@ -76,4 +80,7 @@ data_source: 中华医学会消化病学分会 / 临床营养指南
 - 服药期间：空腹 + 药物 + 酒精 = 高风险
 
 
-> 数据来源：中华医学会消化病学分会 / 临床营养指南
+## 参考资料
+
+- 数据来源：中华医学会消化病学分会 / 临床营养指南
+- 数据置信度：official

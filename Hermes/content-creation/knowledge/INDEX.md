@@ -1566,6 +1566,65 @@
 - [白佳人](./ENT-iba-white-lady.md) | 鸡尾酒 | IBA
 - [黄鸟](./ENT-iba-yellow-bird.md) | 鸡尾酒 | IBA
 
+## guide（40）
+
+- [酒精过敏识别与处理](./ANTI-allergy-alcohol.md) | ANTI | 禁忌
+- [暴饮危害与安全标准](./ANTI-binge-drinking.md) | ANTI | 禁忌
+- [饮酒驾驶标准与禁忌](./ANTI-driving-drinking.md) | ANTI | 禁忌
+- [空腹饮酒危害](./ANTI-empty-stomach.md) | ANTI | 禁忌
+- [酒精+能量饮料风险](./ANTI-energy-drink-mix.md) | ANTI | 禁忌
+- [酒精与食物相互作用](./ANTI-interaction-food.md) | ANTI | 禁忌
+- [服药期间饮酒禁忌](./ANTI-medication-drinking.md) | ANTI | 禁忌
+- [未成年人饮酒危害](./ANTI-minor-drinking.md) | ANTI | 禁忌
+- [混酒饮用风险](./ANTI-mixing-drinks.md) | ANTI | 禁忌
+- [孕期饮酒禁忌](./ANTI-pregnancy-drinking.md) | ANTI | 禁忌
+- [白酒选购决策](./DEC-baijiu-selection.md) | DEC | 白酒
+- [鸡尾酒入门推荐决策](./DEC-cocktail-beginner.md) | DEC | 鸡尾酒
+- [送酒决策树](./DEC-gift-selection.md) | DEC | 送礼
+- [聚会用酒决策](./DEC-party-selection.md) | DEC | 聚会
+- [价格档位决策](./DEC-price-tier.md) | DEC | 价格
+- [红酒配餐决策树](./DEC-red-wine-pairing.md) | DEC | 红酒
+- [清酒选购决策](./DEC-sake-selection.md) | DEC | 清酒
+- [适饮温度决策](./DEC-temperature-guide.md) | DEC | 温度
+- [威士忌选购决策](./DEC-whisky-selection.md) | DEC | 威士忌
+- [白葡萄酒配餐决策树](./DEC-white-wine-pairing.md) | DEC | 白葡萄酒
+- [白酒服务规范](./SOP-baijiu-service.md) | SOP | 白酒
+- [白酒品鉴法](./SOP-baijiu-tasting.md) | SOP | 白酒
+- [啤酒倒酒技法](./SOP-beer-pouring.md) | SOP | 啤酒
+- [香槟服务规范](./SOP-champagne-service.md) | SOP | 香槟
+- [鸡尾酒捣碎技法](./SOP-cocktail-muddling.md) | SOP | 鸡尾酒
+- [鸡尾酒摇和技法](./SOP-cocktail-shaking.md) | SOP | 鸡尾酒
+- [鸡尾酒搅和技法](./SOP-cocktail-stirring.md) | SOP | 鸡尾酒
+- [配餐基本原则](./SOP-food-pairing-basic.md) | SOP | 配餐
+- [清酒储存规范](./SOP-sake-storage.md) | SOP | 清酒
+- [清酒品鉴法](./SOP-sake-tasting.md) | SOP | 清酒
+- [清酒适饮温度指南](./SOP-sake-temperature.md) | SOP | 清酒
+- [威士忌酒杯选择](./SOP-whisky-glass.md) | SOP | 威士忌
+- [威士忌储存规范](./SOP-whisky-storage.md) | SOP | 威士忌
+- [威士忌品鉴法](./SOP-whisky-tasting.md) | SOP | 威士忌
+- [白葡萄酒品鉴法](./SOP-white-wine-tasting.md) | SOP | 白葡萄酒
+- [红酒醒酒指南](./SOP-wine-decanting.md) | SOP | 红酒
+- [酒杯选择指南](./SOP-wine-glass-selection.md) | SOP | 酒杯
+- [开瓶器使用与开瓶规范](./SOP-wine-opening.md) | SOP | 葡萄酒
+- [葡萄酒储存规范](./SOP-wine-storage.md) | SOP | 葡萄酒
+- [红酒品鉴五步法](./SOP-wine-tasting-5steps.md) | SOP | 红酒
+
+## spirits_intl（2）
+
+- [芝华士18年](./ENT-baike-spirits_intl-chivas-18.md) | 百度百科 | spirits_intl
+- [蓝带马爹利](./ENT-baike-spirits_intl-martell-cordon-bleu.md) | 百度百科 | spirits_intl
+
+## wine（8）
+
+- [长城葡萄酒](./ENT-baike-wine-changcheng-putaojiu.md) | 百度百科 | wine
+- [贺兰山东麓葡萄酒](./ENT-baike-wine-helanshan-putaojiu.md) | 百度百科 | wine
+- [龙徽葡萄酒](./ENT-baike-wine-longhui-putaojiu.md) | 百度百科 | wine
+- [通化葡萄酒](./ENT-baike-wine-tonghua-putaojiu.md) | 百度百科 | wine
+- [王朝葡萄酒](./ENT-baike-wine-wangchao-putaojiu.md) | 百度百科 | wine
+- [威龙葡萄酒](./ENT-baike-wine-weilong-putaojiu.md) | 百度百科 | wine
+- [张裕解百纳](./ENT-baike-wine-zhangyu-jiebaina.md) | 百度百科 | wine
+- [张裕葡萄酒](./ENT-baike-wine-zhangyu-putaojiu.md) | 百度百科 | wine
+
 ---
 
 > 维护规则：

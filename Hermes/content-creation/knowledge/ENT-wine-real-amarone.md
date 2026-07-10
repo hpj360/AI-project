@@ -4,18 +4,22 @@ title: 阿玛罗尼
 category: ENT
 tags: [红酒, 意大利, 威尼托, 阿玛罗尼, 风干葡萄, DOCG]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 8917}
   parker: {score: 88, year: 2023}
   wine_spectator: {score: 86, year: 2021}
   james_suckling: {score: 85, year: 2020}
   cellar_tracker: {score: 4.8, votes: 1121}
+source_url: https://www.wine-searcher.com/find/amarone
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 阿玛罗尼
@@ -70,6 +74,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -104,3 +109,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

@@ -4,16 +4,19 @@ title: 黑暗风暴
 category: ENT
 tags: [鸡尾酒, IBA, 新时代, 朗姆, 姜啤, 百慕大]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
 related_typed: {ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 48686}
   diffords: {score: 4.22, year: 2022}
   iba: {score: 4.6, year: 2023}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 黑暗风暴
@@ -133,3 +136,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

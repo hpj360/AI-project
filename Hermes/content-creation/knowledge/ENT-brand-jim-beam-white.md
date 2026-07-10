@@ -4,12 +4,13 @@ title: 金宾白标波本
 category: ENT
 tags: [威士忌, 美国, 肯塔基, 波本]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-whisky-makers-mark-bourbon, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch, ENT-whisky-four-roses-single-barrel, ENT-whisky-jim-bean-white]
 related_typed: {ENT-whisky-makers-mark-bourbon: same_region, ENT-whisky-makers-mark-46: same_region, ENT-whisky-four-roses-small-batch: same_region, ENT-whisky-four-roses-single-barrel: same_region, ENT-whisky-jim-bean-white: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 1606}
   whisky_fun: {score: 89, year: 2021}
@@ -18,6 +19,9 @@ awards:
   - {name: WWA Gold, year: 2021, org: WWA}
   - {name: Malt Maniacs Silver, year: 2019, org: Malt Maniacs}
   - {name: ISC Trophy, year: 2019, org: ISC}
+source_url: https://en.wikipedia.org/wiki/white
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 金宾白标波本
@@ -71,6 +75,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -109,3 +114,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

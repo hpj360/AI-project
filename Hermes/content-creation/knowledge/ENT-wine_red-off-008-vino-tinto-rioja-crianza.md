@@ -4,17 +4,22 @@ title: Vino tinto Rioja crianza
 category: ENT
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, El Coto]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine_white-off-030-el-coto-blanc, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine_white-off-030-el-coto-blanc: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 34560}
   parker: {score: 85, year: 2023}
   wine_spectator: {score: 88, year: 2022}
   james_suckling: {score: 84, year: 2021}
   cellar_tracker: {score: 4.8, votes: 4554}
+source_url: https://world.openfoodfacts.org/product/crianza
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Vino tinto Rioja crianza
@@ -69,6 +74,7 @@ OpenFoodFacts 真实产品数据：Vino tinto Rioja crianza（El Coto）
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -95,3 +101,5 @@ OpenFoodFacts 真实产品数据：Vino tinto Rioja crianza（El Coto）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

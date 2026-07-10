@@ -4,11 +4,12 @@ title: 尼伯特年份波特 2017
 category: ENT
 tags: [加强酒, 波特, 年份, Niepoort]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-warres-vintage-port-2016]
 related_typed: {ENT-wine-fortified-grahams-vintage-port-2017: same_region, ENT-wine-fortified-dows-vintage-port-2016: same_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_region, ENT-wine-fortified-taylors-vintage-port-2016: same_region, ENT-wine-fortified-warres-vintage-port-2016: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.6, votes: 9023}
   wine_spectator: {score: 81, year: 2021}
@@ -67,6 +68,7 @@ Niepoort 新派年份波特，丹麦裔家族的优雅之作。
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -106,3 +108,5 @@ Dirk Niepoort 是新派波特酒代表人物，倡导低产优雅风格。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

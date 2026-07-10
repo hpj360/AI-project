@@ -4,14 +4,19 @@ title: Br МОЁ HANDON MOET & CHANDON CHAMPAGNE IMPERIAL BR
 category: ENT
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Moët & Chandon]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 related_typed: {ENT-brand-moet-chandon-imperial: same_brand, ENT-brand-dom-perignon: same_brand, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 7487}
   wine_spectator: {score: 87, year: 2020}
+source_url: https://world.openfoodfacts.org/product/br
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Br МОЁ HANDON MOET & CHANDON CHAMPAGNE IMPERIAL BR
@@ -61,11 +66,12 @@ OpenFoodFacts 真实产品数据：Br МОЁ HANDON MOET & CHANDON CHAMPAGNE IMP
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
-| 香 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -89,3 +95,5 @@ OpenFoodFacts 真实产品数据：Br МОЁ HANDON MOET & CHANDON CHAMPAGNE IMP
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

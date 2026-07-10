@@ -4,16 +4,19 @@ title: 培根脂肪洗油波本
 category: ENT
 tags: [鸡尾酒, 分子, 洗油, 波本, 培根]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
 related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
 data_confidence: simulated
 data_source: Freeman 配方
+version: 1
 ratings:
   vivino: {score: 4.2, votes: 3689}
   diffords: {score: 4.08, year: 2020}
   iba: {score: 3.9, year: 2020}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 培根脂肪洗油波本
@@ -137,3 +140,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Freeman 配方
+- 数据置信度：simulated

@@ -4,11 +4,12 @@ title: 格兰杰 激稀塔 12 年
 category: ENT
 tags: [威士忌, 苏格兰, 单一麦芽, 高地, 雪莉桶]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-whisky-glenmorangie-original, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-clynelish-14, ENT-brand-jack-daniels-no7]
 related_typed: {ENT-whisky-glenmorangie-original: same_brand, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-clynelish-14: same_region, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 13886}
   whisky_fun: {score: 91, year: 2022}
@@ -71,6 +72,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -112,3 +114,5 @@ Lasanta 取盖尔语温暖之意。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

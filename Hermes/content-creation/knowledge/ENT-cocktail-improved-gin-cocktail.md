@@ -4,16 +4,19 @@ title: 改良金酒鸡尾酒
 category: ENT
 tags: [鸡尾酒, 古典, 金酒, 禁酒令前]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
 related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
 data_confidence: official
 data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.2, votes: 6263}
   diffords: {score: 4.07, year: 2020}
   iba: {score: 3.9, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 改良金酒鸡尾酒
@@ -135,3 +138,5 @@ Improved 系列在传统 Cocktail 基础上加马拉斯基诺与苦艾酒洗杯�
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

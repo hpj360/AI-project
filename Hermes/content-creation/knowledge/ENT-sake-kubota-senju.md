@@ -4,11 +4,12 @@ title: 久保田 千寿
 category: ENT
 tags: [清酒, 日本, 吟醸, 久保田]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-sake-kubota-manju, ENT-sake-kubota-suiju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban, ENT-sake-kubota-kuradashi-genshu]
 related_typed: {ENT-sake-kubota-manju: same_brand, ENT-sake-kubota-suiju: same_brand, ENT-sake-kubota-hyakuju: same_brand, ENT-sake-kubota-hachiban: same_region, ENT-sake-kubota-kuradashi-genshu: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 25497}
   sake_revue: {score: 94, year: 2021}
@@ -68,6 +69,7 @@ awards:
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -111,3 +113,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

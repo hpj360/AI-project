@@ -4,18 +4,21 @@ title: 尸体复活者二号
 category: ENT
 tags: [鸡尾酒, 禁酒令, 金酒, 力乔酒, 复苏]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
 related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
 data_confidence: simulated
 data_source: Savoy Cocktail Book 1930
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 34895}
   diffords: {score: 4.41, year: 2023}
   iba: {score: 5.0, year: 2022}
 awards:
   - {name: IBA World Competition Silver, year: 2019, org: IBA World Competition}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 尸体复活者二号
@@ -140,3 +143,5 @@ Craddock 称四杯已足以复活尸体，故得名。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Savoy Cocktail Book 1930
+- 数据置信度：simulated

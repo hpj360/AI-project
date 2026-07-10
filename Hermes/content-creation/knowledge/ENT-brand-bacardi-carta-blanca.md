@@ -4,17 +4,21 @@ title: 百加得白朗姆
 category: ENT
 tags: [朗姆酒, 古巴, 波多黎各, 白朗姆]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-rum-off-181-bacardi-razz, ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23]
 related_typed: {ENT-rum-off-181-bacardi-razz: same_brand, ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 32993}
   wine_enthusiast: {score: 88, year: 2022}
 awards:
   - {name: San Francisco Silver, year: 2020, org: San Francisco}
+source_url: https://en.wikipedia.org/wiki/blanca
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 百加得白朗姆
@@ -64,10 +68,11 @@ awards:
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
 | 甜 | 4 | ████░ |
-| 酸 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +108,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

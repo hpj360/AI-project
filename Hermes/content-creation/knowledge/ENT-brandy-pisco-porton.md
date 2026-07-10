@@ -4,11 +4,12 @@ title: Pisco Portón
 category: ENT
 tags: [白兰地, 秘鲁, pisco]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.5, votes: 35077}
   wine_enthusiast: {score: 83, year: 2021}
@@ -67,6 +68,7 @@ Quebranta 葡萄发酵后罐式蒸馏，不陈酿
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -107,3 +109,5 @@ Portón 使用传统罐式蒸馏工艺，不过橡木桶。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

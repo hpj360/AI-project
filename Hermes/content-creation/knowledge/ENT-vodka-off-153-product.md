@@ -4,14 +4,19 @@ title: סמירנוף אייס זכוכית
 category: ENT
 tags: [OpenFoodFacts, vodka, 伏特加, Hansa borg as]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
 related_typed: {ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat, ENT-vodka-off-142-poliakov: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 9758}
   wine_enthusiast: {score: 88, year: 2020}
+source_url: https://world.openfoodfacts.org/product/product
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # סמירנוף אייס זכוכית
@@ -66,6 +71,7 @@ OpenFoodFacts 真实产品数据：סמירנוף אייס זכוכית（Hansa 
 | 苦 | 1 | █░░░░ |
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -89,3 +95,5 @@ OpenFoodFacts 真实产品数据：סמירנוף אייס זכוכית（Hansa 
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

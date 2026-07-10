@@ -4,12 +4,13 @@ title: 芝华士 12 年
 category: ENT
 tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-johnnie-walker-black, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25, ENT-whisky-ballantines-12]
 related_typed: {ENT-brand-johnnie-walker-black: same_region, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region, ENT-whisky-chivas-regal-25: same_region, ENT-whisky-ballantines-12: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 9219}
   whisky_fun: {score: 92, year: 2023}
@@ -17,6 +18,9 @@ ratings:
 awards:
   - {name: WWA Best in Class, year: 2021, org: WWA}
   - {name: ISC Trophy, year: 2021, org: ISC}
+source_url: https://en.wikipedia.org/wiki/12
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 芝华士 12 年
@@ -70,6 +74,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -107,3 +112,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

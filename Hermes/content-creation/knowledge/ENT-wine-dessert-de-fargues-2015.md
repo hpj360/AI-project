@@ -4,11 +4,12 @@ title: 法尔格酒庄 2015
 category: ENT
 tags: [甜酒, 苏玳, Fargues, Lur-Saluces]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-dessert-rieussec-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015]
 related_typed: {ENT-wine-dessert-rieussec-2015: same_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 6601}
   parker: {score: 90, year: 2020}
@@ -68,6 +69,7 @@ Yquem 同家族 Lur-Saluces 旗下苏玳贵腐甜白。
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -108,3 +110,5 @@ Lur-Saluces 家族出售 Yquem 后，专注经营 Fargues 酒庄。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

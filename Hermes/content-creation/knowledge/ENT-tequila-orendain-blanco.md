@@ -4,11 +4,12 @@ title: 欧雷 Orendain Blanco
 category: ENT
 tags: [龙舌兰, 墨西哥, Orendain, Blanco, 传统]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-tequila-don-valente-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
 related_typed: {ENT-tequila-don-valente-blanco: same_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 6640}
   wine_enthusiast: {score: 91, year: 2020}
@@ -66,9 +67,10 @@ awards:
 |------|-----------|------|
 | 甜 | 2 | ██░░░ |
 | 酸 | 2 | ██░░░ |
-| 苦 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
 | 烈 | 5 | █████ |
-| 香 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -109,3 +111,5 @@ Orendain 家族是墨西哥龙舌兰历史最悠久的酿酒世家之一。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,16 +4,19 @@ title: 蜜瓜球
 category: ENT
 tags: [鸡尾酒, 短饮, 伏特加, 蜜瓜利口酒, 果味]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-kamikaze, ENT-cocktail-test-pilot-modern, ENT-cocktail-smoke-signal, ENT-cocktail-brown-derby, ENT-cocktail-westside]
 related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-test-pilot-modern: same_region, ENT-cocktail-smoke-signal: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
 data_confidence: official
 data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 16598}
   diffords: {score: 4.36, year: 2021}
   iba: {score: 5.0, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 蜜瓜球
@@ -133,3 +136,5 @@ Midori 蜜瓜利口酒 1971 年日本上市，1978 年进入美国。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

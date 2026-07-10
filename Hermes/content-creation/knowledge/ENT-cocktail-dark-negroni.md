@@ -4,16 +4,19 @@ title: 黑色尼格罗尼
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 黑朗姆, 苦味]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
 related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
 data_confidence: simulated
 data_source: 现代配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 27041}
   diffords: {score: 4.28, year: 2023}
   iba: {score: 4.9, year: 2023}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 黑色尼格罗尼
@@ -132,3 +135,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：现代配方
+- 数据置信度：simulated

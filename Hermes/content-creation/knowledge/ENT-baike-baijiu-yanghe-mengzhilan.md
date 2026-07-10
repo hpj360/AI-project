@@ -4,12 +4,14 @@ title: 洋河梦之蓝
 category: ENT
 tags: [百度百科, baijiu, 洋河梦之蓝]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu, ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-fenjiu-laobaifen-10]
 related_typed: {ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat, ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat, ENT-baijiu-fenjiu-laobaifen-10: same_subcat}
 data_confidence: verified
 data_source: 百度百科
+source_url: https://baike.baidu.com/item/%E6%B4%8B%E6%B2%B3%E6%A2%A6%E4%B9%8B%E8%93%9D
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 3453}
   csl: {score: 84, year: 2021}
@@ -49,6 +51,7 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -67,3 +70,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：百度百科
+- 数据置信度：verified

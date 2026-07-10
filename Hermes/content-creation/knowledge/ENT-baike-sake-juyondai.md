@@ -4,12 +4,14 @@ title: 十四代
 category: ENT
 tags: [百度百科, sake, 十四代]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baike-sake-hakutsuru, ENT-sake-off-096-cooking-sake, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu]
 related_typed: {ENT-baike-sake-hakutsuru: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
+source_url: https://baike.baidu.com/item/%E5%8D%81%E5%9B%9B%E4%BB%A3
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 27374}
   sake_revue: {score: 94, year: 2020}
@@ -48,6 +50,7 @@ awards:
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -71,3 +74,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：百度百科
+- 数据置信度：verified

@@ -4,16 +4,19 @@ title: 三点一划
 category: ENT
 tags: [鸡尾酒, Tiki, 朗姆, 蜂蜜, 法属马提尼克]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-cobras-fang, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-saketini]
 related_typed: {ENT-cocktail-cobras-fang: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
 data_confidence: simulated
 data_source: Don the Beachcomber 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 10722}
   diffords: {score: 4.25, year: 2021}
   iba: {score: 4.8, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 三点一划
@@ -135,3 +138,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Don the Beachcomber 配方
+- 数据置信度：simulated

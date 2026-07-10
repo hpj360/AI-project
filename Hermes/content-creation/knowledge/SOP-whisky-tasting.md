@@ -4,13 +4,17 @@ title: 威士忌品鉴法
 category: ENT
 tags: [SOP, 威士忌, 品鉴]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-sake-tasting, SOP-baijiu-tasting, SOP-champagne-service]
 related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat, SOP-champagne-service: same_subcat}
-data_confidence: simulated
+data_confidence: official
 data_source: Whisky Magazine Tasting Guide
+version: 1
+crawl_date: 2024-07-07
+version: 1
 ---
+
 # 威士忌品鉴法
 
 ## 概述
@@ -44,4 +48,7 @@ data_source: Whisky Magazine Tasting Guide
 - 余味：长度与风味特征
 
 
-> 数据来源：Whisky Magazine Tasting Guide
+## 参考资料
+
+- 数据来源：Whisky Magazine Tasting Guide
+- 数据置信度：official

@@ -4,11 +4,12 @@ title: 夏山凯乐 2016
 category: ENT
 tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-white-batard-montrachet-ramonet-2015, ENT-wine-white-criots-batard-ramonet-2015, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc]
 related_typed: {ENT-wine-white-batard-montrachet-ramonet-2015: same_brand, ENT-wine-white-criots-batard-ramonet-2015: same_brand, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 46616}
   parker: {score: 87, year: 2022}
@@ -64,11 +65,12 @@ Ramonet 在 Caillerets 的一级园，风格浓郁。
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 4 | ████░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -110,3 +112,5 @@ Caillerets 意为小石地，形容园中砾石遍布。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

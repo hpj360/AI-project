@@ -4,11 +4,12 @@ title: 圣殿苏打
 category: ENT
 tags: [鸡尾酒, 无酒精, Seedlip, 高球, 现代]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
 related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.4, votes: 2606}
   diffords: {score: 4.12, year: 2023}
@@ -132,3 +133,5 @@ Seedlip Spice 模拟威士忌香料风味，配苏打水如威士忌高球。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

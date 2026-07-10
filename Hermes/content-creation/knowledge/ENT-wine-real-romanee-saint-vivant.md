@@ -4,12 +4,13 @@ title: 罗曼尼圣维旺
 category: ENT
 tags: [红酒, 法国, 勃艮第, 沃恩-罗曼尼, 特级园, DRC, 黑皮诺]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-romanee-conti, ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-brand-mouton-rothschild]
 related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 13998}
   parker: {score: 94, year: 2021}
@@ -20,6 +21,9 @@ awards:
   - {name: IWSC Gold, year: 2021, org: IWSC}
   - {name: Decanter Gold, year: 2021, org: Decanter}
   - {name: Concours Mondial Silver, year: 2021, org: Concours Mondial}
+source_url: https://www.wine-searcher.com/find/vivant
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 罗曼尼圣维旺
@@ -74,6 +78,7 @@ DRC旗下特级园之一，以优雅细腻著称。
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -114,3 +119,5 @@ DRC旗下特级园之一，以优雅细腻著称。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

@@ -4,13 +4,17 @@ title: 未成年人饮酒危害
 category: ENT
 tags: [ANTI, 禁忌, 未成年, 安全]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [SOP-champagne-service, SOP-wine-decanting, SOP-cocktail-shaking, SOP-cocktail-stirring, SOP-cocktail-muddling]
 related_typed: {SOP-champagne-service: same_subcat, SOP-wine-decanting: same_subcat, SOP-cocktail-shaking: same_subcat, SOP-cocktail-stirring: same_subcat, SOP-cocktail-muddling: same_subcat}
 data_confidence: official
 data_source: 未成年人保护法 / WHO 青少年饮酒报告
+version: 1
+crawl_date: 2024-07-07
+version: 1
 ---
+
 # 未成年人饮酒危害
 
 ## 概述
@@ -65,4 +69,7 @@ data_source: 未成年人保护法 / WHO 青少年饮酒报告
 - 发现违规售酒及时举报
 
 
-> 数据来源：未成年人保护法 / WHO 青少年饮酒报告
+## 参考资料
+
+- 数据来源：未成年人保护法 / WHO 青少年饮酒报告
+- 数据置信度：official

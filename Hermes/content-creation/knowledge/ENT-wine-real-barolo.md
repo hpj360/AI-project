@@ -4,18 +4,22 @@ title: 巴罗洛
 category: ENT
 tags: [红酒, 意大利, 皮埃蒙特, 内比奥罗, DOCG]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-brand-haut-brion, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.0, votes: 32288}
   parker: {score: 80, year: 2021}
   wine_spectator: {score: 79, year: 2020}
   james_suckling: {score: 82, year: 2022}
   cellar_tracker: {score: 3.7, votes: 3370}
+source_url: https://www.wine-searcher.com/find/barolo
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 巴罗洛
@@ -70,6 +74,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -104,3 +109,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

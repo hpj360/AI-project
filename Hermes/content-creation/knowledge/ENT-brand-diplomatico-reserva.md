@@ -4,17 +4,21 @@ title: 外交官 Reserva Exclusiva
 category: ENT
 tags: [朗姆酒, 委内瑞拉, 陈年朗姆, 高端]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr]
 related_typed: {ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: cross_region, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 8335}
   wine_enthusiast: {score: 99, year: 2021}
 awards:
   - {name: San Francisco Silver, year: 2020, org: San Francisco}
+source_url: https://en.wikipedia.org/wiki/reserva
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 外交官 Reserva Exclusiva
@@ -64,10 +68,11 @@ awards:
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
 | 甜 | 4 | ████░ |
-| 酸 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +108,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

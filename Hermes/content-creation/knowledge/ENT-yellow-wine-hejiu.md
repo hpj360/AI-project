@@ -4,11 +4,12 @@ title: 和酒
 category: ENT
 tags: [黄酒, 上海, 和酒, 海派]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-yellow-wine-shikumen, ENT-yellow-wine-jinsenianhua, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu]
 related_typed: {ENT-yellow-wine-shikumen: same_brand, ENT-yellow-wine-jinsenianhua: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 3.8, votes: 2660}
   csl: {score: 79, year: 2021}
@@ -66,6 +67,7 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -105,3 +107,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

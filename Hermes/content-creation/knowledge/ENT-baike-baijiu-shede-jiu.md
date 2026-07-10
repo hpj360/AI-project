@@ -4,12 +4,14 @@ title: 舍得
 category: ENT
 tags: [百度百科, baijiu, 舍得]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-shede-zhihui-shede, ENT-baijiu-tuopai-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
 related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-shede-zhihui-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
+source_url: https://baike.baidu.com/item/%E8%88%8D%E5%BE%97
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 17850}
   csl: {score: 84, year: 2023}
@@ -46,6 +48,7 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -71,3 +74,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：百度百科
+- 数据置信度：verified

@@ -4,16 +4,19 @@ title: 莫吉托
 category: ENT
 tags: [鸡尾酒, IBA, 当代经典, 朗姆, 薄荷, 古巴]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-casablanca, ENT-cocktail-mary-pickford, ENT-cocktail-el-presidente, ENT-cocktail-cuba-libre, ENT-cocktail-hotel-nacional-special]
 related_typed: {ENT-cocktail-casablanca: same_region, ENT-cocktail-mary-pickford: same_region, ENT-cocktail-el-presidente: same_region, ENT-cocktail-cuba-libre: same_region, ENT-cocktail-hotel-nacional-special: same_region}
 data_confidence: official
 data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.7, votes: 461}
   diffords: {score: 4.18, year: 2021}
   iba: {score: 4.4, year: 2021}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 莫吉托
@@ -137,3 +140,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

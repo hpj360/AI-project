@@ -4,11 +4,12 @@ title: 马赛多 2016
 category: ENT
 tags: [红酒, 意大利, 超级托斯卡纳, 梅洛]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-red-ornellaia-2016, ENT-wine-red-sassicaia-2016, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
 related_typed: {ENT-wine-red-ornellaia-2016: same_brand, ENT-wine-red-sassicaia-2016: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.0, votes: 43000}
   parker: {score: 82, year: 2023}
@@ -70,6 +71,7 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -112,3 +114,5 @@ Toscana IGT
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

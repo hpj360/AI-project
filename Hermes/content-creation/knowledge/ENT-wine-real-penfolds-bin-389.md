@@ -4,12 +4,13 @@ title: 奔富389
 category: ENT
 tags: [红酒, 澳大利亚, 南澳, 赤霞珠, 西拉, Penfolds]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-real-penfolds-grange, ENT-wine-real-penfolds-bin-707, ENT-wine-real-penfolds-st-henri, ENT-brand-penfolds-grange, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-real-penfolds-grange: same_brand, ENT-wine-real-penfolds-bin-707: same_brand, ENT-wine-real-penfolds-st-henri: same_brand, ENT-brand-penfolds-grange: same_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 2976}
   parker: {score: 90, year: 2020}
@@ -20,6 +21,9 @@ awards:
   - {name: Concours Mondial Gold, year: 2019, org: Concours Mondial}
   - {name: Decanter Gold, year: 2022, org: Decanter}
   - {name: IWSC Gold, year: 2022, org: IWSC}
+source_url: https://www.wine-searcher.com/find/389
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 奔富389
@@ -74,6 +78,7 @@ awards:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -114,3 +119,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

@@ -4,17 +4,21 @@ title: 绍扎 Blanco
 category: ENT
 tags: [龙舌兰, 墨西哥, 绍扎, Blanco]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold]
 related_typed: {ENT-brand-jose-cuervo-especial: same_region, ENT-brand-patron-silver: same_region, ENT-brand-don-julio-blanco: same_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 44628}
   wine_enthusiast: {score: 89, year: 2023}
 awards:
   - {name: San Francisco Gold, year: 2020, org: San Francisco}
+source_url: https://en.wikipedia.org/wiki/blanco
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 绍扎 Blanco
@@ -65,9 +69,10 @@ awards:
 |------|-----------|------|
 | 甜 | 2 | ██░░░ |
 | 酸 | 2 | ██░░░ |
-| 苦 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
 | 烈 | 5 | █████ |
-| 香 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -103,3 +108,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

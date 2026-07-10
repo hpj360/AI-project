@@ -4,16 +4,19 @@ title: 最终守护
 category: ENT
 tags: [鸡尾酒, 现代经典, 黑麦, 苹果白兰地, 等比]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
 related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
 data_confidence: simulated
 data_source: Milk & Honey 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 24243}
   diffords: {score: 4.28, year: 2022}
   iba: {score: 4.9, year: 2023}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 最终守护
@@ -134,3 +137,5 @@ Sasha Petraske 以 Last Word 等比结构衍生，取代金酒与查特酒为黑
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Milk & Honey 配方
+- 数据置信度：simulated

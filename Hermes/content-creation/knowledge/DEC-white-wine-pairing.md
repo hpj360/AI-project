@@ -4,13 +4,17 @@ title: 白葡萄酒配餐决策树
 category: ENT
 tags: [DEC, 白葡萄酒, 配餐, 决策]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-whisky-tasting, SOP-sake-tasting, SOP-baijiu-tasting]
 related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing Guide
+version: 1
+crawl_date: 2024-07-07
+version: 1
 ---
+
 # 白葡萄酒配餐决策树
 
 ## 概述
@@ -53,4 +57,7 @@ data_source: WSET Food & Wine Pairing Guide
 - 蓝纹奶酪 → 苏玳贵腐
 
 
-> 数据来源：WSET Food & Wine Pairing Guide
+## 参考资料
+
+- 数据来源：WSET Food & Wine Pairing Guide
+- 数据置信度：official

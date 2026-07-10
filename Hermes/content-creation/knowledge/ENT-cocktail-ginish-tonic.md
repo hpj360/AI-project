@@ -4,11 +4,12 @@ title: Ginish 汤力
 category: ENT
 tags: [鸡尾酒, 无酒精, Ginish, 高球, 现代]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres]
 related_typed: {ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region, ENT-cocktail-margarita-spheres: same_region}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 702}
   diffords: {score: 4.41, year: 2023}
@@ -137,3 +138,5 @@ Ginish 无酒精金酒配汤力水与青柠，零酒精的金汤力替代品。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

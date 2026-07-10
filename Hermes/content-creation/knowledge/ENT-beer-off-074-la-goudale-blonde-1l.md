@@ -4,14 +4,19 @@ title: la goudale blonde 1l
 category: ENT
 tags: [OpenFoodFacts, beer, 啤酒, Brasserie Goudale]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-beer-off-080-3-monts, ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe]
 related_typed: {ENT-beer-off-080-3-monts: same_region, ENT-beer-off-091-blonde-non-filtr-champ-libre: same_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat}
 data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 38605}
   ratebeer: {score: 88, year: 2023}
+source_url: https://world.openfoodfacts.org/product/1l
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # la goudale blonde 1l
@@ -63,9 +68,10 @@ OpenFoodFacts 真实产品数据：la goudale blonde 1l（Brasserie Goudale）�
 |------|-----------|------|
 | 甜 | 2 | ██░░░ |
 | 酸 | 2 | ██░░░ |
-| 苦 | 4 | ████░ |
+| 苦 | 3 | ███░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -89,3 +95,5 @@ OpenFoodFacts 真实产品数据：la goudale blonde 1l（Brasserie Goudale）�
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

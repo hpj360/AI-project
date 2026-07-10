@@ -4,16 +4,20 @@ title: 皇冠威士忌
 category: ENT
 tags: [威士忌, 加拿大, 加拿大威士忌, 调和]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7]
 related_typed: {ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
+version: 1
 ratings:
   vivino: {score: 4.7, votes: 36181}
   whisky_fun: {score: 82, year: 2023}
   whisky_bible: {score: 86, year: 2022}
+source_url: https://en.wikipedia.org/wiki/royal
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 皇冠威士忌
@@ -67,6 +71,7 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -99,3 +104,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

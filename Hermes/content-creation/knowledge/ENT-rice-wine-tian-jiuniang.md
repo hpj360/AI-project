@@ -4,11 +4,12 @@ title: 甜酒酿
 category: ENT
 tags: [米酒, 甜酒酿, 传统]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-rice-wine-nuomi-jiu, ENT-rice-wine-zhaquan, ENT-rice-wine-osmanthus, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu]
 related_typed: {ENT-rice-wine-nuomi-jiu: same_brand, ENT-rice-wine-zhaquan: same_brand, ENT-rice-wine-osmanthus: same_region, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: same_subcat}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 30503}
   csl: {score: 86, year: 2021}
@@ -64,10 +65,11 @@ awards:
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
 | 甜 | 4 | ████░ |
-| 酸 | 1 | █░░░░ |
+| 酸 | 2 | ██░░░ |
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -111,3 +113,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,12 +4,14 @@ title: 浙江古越龙山绍兴酒股份有限公司
 category: ENT
 tags: [百度百科, yellow_wine, 浙江古越龙山绍兴酒股份有限公司]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baike-yellow_wine-danyang-huangjiu, ENT-baike-yellow_wine-jiaxing-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-baike-yellow_wine-tapai-huangjiu]
 related_typed: {ENT-baike-yellow_wine-danyang-huangjiu: cross_region, ENT-baike-yellow_wine-jiaxing-huangjiu: cross_region, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
+source_url: https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E5%8F%A4%E8%B6%8A%E9%BE%99%E5%B1%B1%E7%BB%8D%E5%85%B4%E9%85%92%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 30601}
   csl: {score: 87, year: 2021}
@@ -48,6 +50,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -71,3 +74,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：百度百科
+- 数据置信度：verified

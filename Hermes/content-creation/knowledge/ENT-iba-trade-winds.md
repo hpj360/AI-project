@@ -4,16 +4,20 @@ title: 信风
 category: ENT
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Trade Winds, 搅和]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady, ENT-cocktail-bacardi-cocktail, ENT-cocktail-casablanca]
 related_typed: {ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat, ENT-cocktail-bacardi-cocktail: same_subcat, ENT-cocktail-casablanca: same_subcat}
 data_confidence: official
 data_source: IBA Official
+version: 1
 ratings:
   vivino: {score: 4.5, votes: 16798}
   diffords: {score: 4.14, year: 2022}
   iba: {score: 4.2, year: 2020}
+source_url: https://iba-world.com/iba-cocktail/winds/
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 信风
@@ -105,3 +109,5 @@ Pour all ingredients into mixing glass with ice cubes. Stir and strain into a ro
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA Official
+- 数据置信度：official

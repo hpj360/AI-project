@@ -4,16 +4,19 @@ title: 僵尸
 category: ENT
 tags: [鸡尾酒, Tiki, 朗姆, 热带, 美国]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-navy-grog, ENT-cocktail-test-pilot, ENT-cocktail-nui-nui, ENT-cocktail-qb-cooler, ENT-brand-bacardi-carta-blanca]
 related_typed: {ENT-cocktail-navy-grog: same_region, ENT-cocktail-test-pilot: same_region, ENT-cocktail-nui-nui: same_region, ENT-cocktail-qb-cooler: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail}
 data_confidence: simulated
 data_source: Don the Beachcomber 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 5445}
   diffords: {score: 4.28, year: 2022}
   iba: {score: 4.9, year: 2023}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 僵尸
@@ -137,3 +140,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Don the Beachcomber 配方
+- 数据置信度：simulated

@@ -4,11 +4,12 @@ title: 肯塔基巴克
 category: ENT
 tags: [鸡尾酒, 现代经典, 波本, 草莓, 高球]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-mint-julep, ENT-cocktail-whiskey-smash, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12]
 related_typed: {ENT-cocktail-mint-julep: same_region, ENT-cocktail-whiskey-smash: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail}
 data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.2, votes: 10852}
   diffords: {score: 4.08, year: 2020}
@@ -135,3 +136,5 @@ Buck 家族用姜汁啤酒加气泡，Kentucky Buck 加草莓使其更圆润。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

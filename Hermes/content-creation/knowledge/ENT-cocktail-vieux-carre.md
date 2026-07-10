@@ -4,16 +4,19 @@ title: 老广场
 category: ENT
 tags: [鸡尾酒, 现代经典, 黑麦, 干邑, 新奥尔良]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz]
 related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region}
 data_confidence: simulated
 data_source: Hotel Monteleone 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 9236}
   diffords: {score: 4.24, year: 2022}
   iba: {score: 4.7, year: 2020}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 老广场
@@ -136,3 +139,5 @@ Vieux Carré 意为老广场，指新奥尔良法国区，是城市标志性鸡�
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Hotel Monteleone 配方
+- 数据置信度：simulated

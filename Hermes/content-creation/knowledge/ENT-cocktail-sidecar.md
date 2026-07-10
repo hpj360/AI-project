@@ -4,16 +4,19 @@ title: 侧车
 category: ENT
 tags: [鸡尾酒, IBA, 酸酒, 白兰地, 法国]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa, ENT-cocktail-bees-knees]
 related_typed: {ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region, ENT-cocktail-bees-knees: same_region}
 data_confidence: official
 data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.7, votes: 21965}
   diffords: {score: 4.18, year: 2020}
   iba: {score: 4.4, year: 2023}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 侧车
@@ -134,3 +137,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

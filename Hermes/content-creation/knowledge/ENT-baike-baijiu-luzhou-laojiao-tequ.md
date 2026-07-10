@@ -4,12 +4,14 @@ title: 泸州老窖特曲
 category: ENT
 tags: [百度百科, baijiu, 泸州老窖特曲]
 status: active
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu, ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-fenjiu-laobaifen-10]
 related_typed: {ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat, ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat, ENT-baijiu-fenjiu-laobaifen-10: same_subcat}
 data_confidence: verified
 data_source: 百度百科
+source_url: https://baike.baidu.com/item/%E6%B3%B8%E5%B7%9E%E8%80%81%E7%AA%96%E7%89%B9%E6%9B%B2
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 31111}
   csl: {score: 91, year: 2022}
@@ -47,6 +49,7 @@ awards:
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项
 
@@ -69,3 +72,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：百度百科
+- 数据置信度：verified
