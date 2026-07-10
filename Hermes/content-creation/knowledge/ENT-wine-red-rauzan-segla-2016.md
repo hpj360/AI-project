@@ -4,10 +4,12 @@ title: 鲁臣世家城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 玛歌]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-canon-2015, ENT-wine-red-margaux-2015, ENT-wine-red-palmer-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
-related_typed: {ENT-wine-red-canon-2015: same_brand, ENT-wine-red-margaux-2015: same_region, ENT-wine-red-palmer-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-red-canon-2015, ENT-wine-red-margaux-2015, ENT-wine-red-palmer-2015, ENT-brand-penfolds-grange, ENT-brand-opus-one]
+related_typed: {ENT-wine-red-canon-2015: same_brand, ENT-wine-red-margaux-2015: same_region, ENT-wine-red-palmer-2015: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 3.9, votes: 11445}
   parker: {score: 83, year: 2023}
@@ -60,6 +62,17 @@ ratings:
 - **余味**：余味悠长，带花香与果味
 - **风味标签**：黑加仑, 紫罗兰, 雪松, 香料
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -101,3 +114,5 @@ Chanel 接手后修缮城堡，将时尚与酒庄美学融合。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,10 +4,12 @@ title: 加勒比 Ron del Caribe
 category: ENT
 tags: [朗姆酒, 古巴, 加勒比]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-havana-club-3, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-off-169-caribbean-rum-with-coconut-flavour, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour]
-related_typed: {ENT-rum-havana-club-3: same_region, ENT-rum-havana-club-7: same_region, ENT-rum-havana-club-anejo-reserva: same_region, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-rum-havana-club-3, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel]
+related_typed: {ENT-rum-havana-club-3: same_region, ENT-rum-havana-club-7: same_region, ENT-rum-havana-club-anejo-reserva: same_region, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 27759}
   wine_enthusiast: {score: 87, year: 2023}
@@ -60,6 +62,17 @@ Ron del Caribe，加勒比调和朗姆，多国陈年朗姆调和。
 - **余味**：余味悠长，温暖橡木
 - **风味标签**：香草, 焦糖, 烟草
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -100,3 +113,5 @@ Ron del Caribe 致敬加勒比朗姆传统。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

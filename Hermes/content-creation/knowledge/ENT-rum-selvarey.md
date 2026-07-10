@@ -4,10 +4,12 @@ title: 塞瓦亚 Selvarey
 category: ENT
 tags: [朗姆酒, 巴拿马, Selvarey]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-rum-off-167-spiced-rum, ENT-rum-off-169-caribbean-rum-with-coconut-flavour, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour, ENT-rum-off-171-saint-james, ENT-rum-off-172-rhum-blanc-agricole]
-related_typed: {ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-171-saint-james: same_subcat, ENT-rum-off-172-rhum-blanc-agricole: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara]
+related_typed: {ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 22728}
   wine_enthusiast: {score: 90, year: 2020}
@@ -59,6 +61,17 @@ Selvarey，巴拿马陈年朗姆，时尚品牌明星代言。
 - **余味**：余味悠长，温暖甜润
 - **风味标签**：香草, 椰子, 焦糖
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -98,3 +111,5 @@ Selvarey 瓶身设计时尚，定位年轻市场。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

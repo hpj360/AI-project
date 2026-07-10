@@ -4,13 +4,19 @@ title: Nigori saké
 category: ENT
 tags: [OpenFoodFacts, sake, 清酒]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-sake-dassai-23, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner]
-related_typed: {ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-sake-dassai-23: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-baike-sake-juyondai, ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-baike-sake-hakutsuru]
+related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-baike-sake-hakutsuru: same_subcat}
+data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 41913}
   sake_revue: {score: 86, year: 2020}
+source_url: https://world.openfoodfacts.org/product/sak
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Nigori saké
@@ -54,6 +60,17 @@ OpenFoodFacts 真实产品数据：Nigori saké
 - **余味**：清爽回甘
 - **风味标签**：米香, 果味, 清爽
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -76,3 +93,5 @@ OpenFoodFacts 真实产品数据：Nigori saké
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

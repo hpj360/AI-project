@@ -4,10 +4,12 @@ title: 克里蒙 2015
 category: ENT
 tags: [甜酒, 巴萨克, Climens, 一级庄]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-dessert-coutet-2015, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-rieussec-2015, ENT-wine-dessert-guiraud-2015]
 related_typed: {ENT-wine-dessert-coutet-2015: same_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-rieussec-2015: cross_region, ENT-wine-dessert-guiraud-2015: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 39958}
   parker: {score: 89, year: 2022}
@@ -58,6 +60,17 @@ ratings:
 - **余味**：余味极悠长，带蜂蜜与花香
 - **风味标签**：蜂蜜, 杏脯, 白花, 矿物
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -97,3 +110,5 @@ Barsac 与 Sauterne AOC 双重认证，风格比苏玳更轻盈。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

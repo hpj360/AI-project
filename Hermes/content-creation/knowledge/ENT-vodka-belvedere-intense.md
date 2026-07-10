@@ -4,10 +4,12 @@ title: 雪树 Intense
 category: ENT
 tags: [伏特加, 波兰, 雪树, 原桶强度]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-161-organic-vodka, ENT-vodka-belvedere-original, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka]
-related_typed: {ENT-vodka-off-161-organic-vodka: same_brand, ENT-vodka-belvedere-original: same_brand, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: cross_region, ENT-vodka-off-146-premium-vodka: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-vodka-off-161-organic-vodka, ENT-vodka-belvedere-original, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
+related_typed: {ENT-vodka-off-161-organic-vodka: same_brand, ENT-vodka-belvedere-original: same_brand, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat, ENT-vodka-off-142-poliakov: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 13416}
   wine_enthusiast: {score: 90, year: 2020}
@@ -57,6 +59,17 @@ ratings:
 - **余味**：余味悠长，强劲温暖
 - **风味标签**：黑麦, 香草, 奶油
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -92,3 +105,5 @@ Intense 保留更多风味物质，口感浓郁。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,13 +4,19 @@ title: Vecchio Amaro Del Capo
 category: ENT
 tags: [OpenFoodFacts, liqueur, 利口酒, Caffo]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-liqueur-off-203-baileys-original-irish-cream, ENT-liqueur-off-211-davide-campari-bitter-tonic, ENT-liqueur-off-215-lik-r-kahl-a-kaffee, ENT-liqueur-off-224-griottines-de-fougerolles, ENT-liqueur-off-204-aperol]
 related_typed: {ENT-liqueur-off-203-baileys-original-irish-cream: cross_region, ENT-liqueur-off-211-davide-campari-bitter-tonic: cross_region, ENT-liqueur-off-215-lik-r-kahl-a-kaffee: cross_region, ENT-liqueur-off-224-griottines-de-fougerolles: cross_region, ENT-liqueur-off-204-aperol: same_subcat}
+data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 20647}
   wine_enthusiast: {score: 88, year: 2021}
+source_url: https://world.openfoodfacts.org/product/capo
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Vecchio Amaro Del Capo
@@ -56,6 +62,17 @@ OpenFoodFacts 真实产品数据：Vecchio Amaro Del Capo（Caffo）
 - **余味**：甜润回甘
 - **风味标签**：甜润, 果香
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 5 | █████ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -78,3 +95,5 @@ OpenFoodFacts 真实产品数据：Vecchio Amaro Del Capo（Caffo）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

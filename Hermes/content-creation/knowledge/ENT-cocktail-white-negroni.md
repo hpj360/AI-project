@@ -4,14 +4,19 @@ title: 白色尼格罗尼
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 金酒, Suze, 苦味]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
 related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
+data_confidence: simulated
+data_source: Collins 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 16240}
   diffords: {score: 4.35, year: 2020}
   iba: {score: 5.0, year: 2020}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 白色尼格罗尼
@@ -130,3 +135,5 @@ Suze 龙胆草力乔赋予独特苦味与淡金色，是现代尼格罗尼变体
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Collins 配方
+- 数据置信度：simulated

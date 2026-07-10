@@ -4,14 +4,19 @@ title: 苏打苏格兰
 category: ENT
 tags: [鸡尾酒, 高球, 苏格兰, 苏打水, 清爽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-rusty-nail, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-saketini]
-related_typed: {ENT-cocktail-rusty-nail: same_region, ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-cocktail-rusty-nail, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-saketini]
+related_typed: {ENT-cocktail-rusty-nail: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 13578}
   diffords: {score: 4.32, year: 2020}
   iba: {score: 5.0, year: 2020}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 苏打苏格兰
@@ -130,3 +135,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

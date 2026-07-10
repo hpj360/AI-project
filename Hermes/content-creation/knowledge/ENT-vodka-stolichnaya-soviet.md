@@ -4,10 +4,12 @@ title: 苏联红牌 Stoli Soviet
 category: ENT
 tags: [伏特加, 俄罗斯, 红牌, 复古]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-stolichnaya, ENT-vodka-kristall, ENT-vodka-polugar, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka]
-related_typed: {ENT-vodka-stolichnaya: same_brand, ENT-vodka-kristall: same_region, ENT-vodka-polugar: same_region, ENT-vodka-off-144-smirnoff-ice: cross_region, ENT-vodka-off-145-vodka: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-vodka-stolichnaya, ENT-vodka-kristall, ENT-vodka-polugar, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
+related_typed: {ENT-vodka-stolichnaya: same_brand, ENT-vodka-kristall: same_region, ENT-vodka-polugar: same_region, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 44016}
   wine_enthusiast: {score: 89, year: 2023}
@@ -57,6 +59,17 @@ ratings:
 - **余味**：余味悠长，温暖谷物
 - **风味标签**：谷物, 黑麦面包, 矿物
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 1 | █░░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 5 | █████ |
+| 香 | 1 | █░░░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -92,3 +105,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

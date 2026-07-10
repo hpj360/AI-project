@@ -4,10 +4,13 @@ title: 查特酒搅和
 category: ENT
 tags: [鸡尾酒, 现代经典, 查特酒, 朗姆, 提基]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-martinez, ENT-cocktail-saturn, ENT-cocktail-jasmine, ENT-cocktail-tommys-margarita, ENT-cocktail-fogcutter]
 related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-saturn: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-fogcutter: same_region}
+data_confidence: simulated
+data_source: Smuggler's Cove 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 31659}
   diffords: {score: 4.5, year: 2021}
@@ -15,6 +18,8 @@ ratings:
 awards:
   - {name: IBA World Competition Gold, year: 2021, org: IBA World Competition}
   - {name: Tales of the Cocktail Best Cocktail, year: 2019, org: Tales of the Cocktail}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 查特酒搅和
@@ -141,3 +146,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Smuggler's Cove 配方
+- 数据置信度：simulated

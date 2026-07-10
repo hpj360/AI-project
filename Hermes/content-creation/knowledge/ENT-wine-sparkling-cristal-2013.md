@@ -4,10 +4,12 @@ title: 水晶香槟 2013
 category: ENT
 tags: [起泡酒, 香槟, Louis Roederer, 年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-pichon-lalande-2016, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
-related_typed: {ENT-wine-red-pichon-lalande-2016: same_brand, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-real-cristal, ENT-wine-red-pichon-lalande-2016, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012]
+related_typed: {ENT-wine-real-cristal: same_brand, ENT-wine-red-pichon-lalande-2016: same_brand, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 43390}
   wine_spectator: {score: 90, year: 2022}
@@ -59,6 +61,17 @@ Louis Roederer 旗舰年份香槟，原为沙皇亚历山大二世定制。
 - **余味**：余味极悠长，带矿物与辛香
 - **风味标签**：白花, 柑橘, 蜜饯, 烤杏仁
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -101,3 +114,5 @@ Cristal 平底水晶瓶设计源自沙皇担心瓶底藏炸弹。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

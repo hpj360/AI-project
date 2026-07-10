@@ -36,6 +36,11 @@ class Entry:
     related_typed: dict = field(default_factory=dict)  # 类型化关系 {target_id: rel_type}
     ratings: dict = field(default_factory=dict)
     awards: list = field(default_factory=list)
+    data_confidence: str = "simulated"  # simulated/verified/official
+    data_source: str = ""  # 数据来源
+    source_url: str = ""  # 原始链接
+    crawl_date: str = ""  # 抓取时间
+    version: int = 1  # 数据版本
     content: str = ""  # 正文 Markdown
     raw: str = ""  # 原始文件内容
     file_path: Optional[Path] = None
@@ -67,6 +72,8 @@ class Entry:
             "abv_num": None,
             "price_rmb": None,
             "region": "",
+            "data_confidence": self.data_confidence,
+            "data_source": self.data_source,
         }
         # 从正文提取基础信息
         # 酒精度
@@ -241,6 +248,11 @@ def load_entry(path: Path) -> Optional[Entry]:
         related_typed=meta.get("related_typed", {}) if isinstance(meta.get("related_typed"), dict) else {},
         ratings=meta.get("ratings", {}) if isinstance(meta.get("ratings"), dict) else {},
         awards=meta.get("awards", []) if isinstance(meta.get("awards"), list) else [],
+        data_confidence=meta.get("data_confidence", "simulated"),
+        data_source=meta.get("data_source", ""),
+        source_url=meta.get("source_url", ""),
+        crawl_date=meta.get("crawl_date", ""),
+        version=int(meta.get("version", 1)) if isinstance(meta.get("version", 1), (int, str)) else 1,
         content=body,
         raw=raw,
         file_path=path,
@@ -437,9 +449,78 @@ class KnowledgeBase:
                     "category": e.category,
                     "tags": e.tags,
                     "score": round(score, 4),
+                    "data_confidence": e.data_confidence,
+                    "data_source": e.data_source,
                     "file": str(e.file_path.name) if e.file_path else "",
                 })
         return out
+
+    # ============================================================
+    # Agent 响应分层模板（P5: 根据数据置信度格式化回答）
+    # ============================================================
+
+    # 置信度 → 回答策略映射
+    _CONFIDENCE_STRATEGY = {
+        "official":  {"label": "权威来源",   "prefix": "",                    "suffix": ""},
+        "verified":  {"label": "已验证来源", "prefix": "",                    "suffix": "\n\n> 📖 数据来源：{source}（已验证）"},
+        "simulated": {"label": "推测数据",   "prefix": "⚠️ 以下信息为知识库推测，建议进一步核实：\n\n", "suffix": "\n\n> ⚠️ 本条目数据置信度较低（推测生成），实际信息请以品牌官方为准。"},
+        "unknown":   {"label": "未标注",     "prefix": "",                    "suffix": "\n\n> ℹ️ 本条目数据来源未标注，请谨慎参考。"},
+    }
+
+    def format_response(self, query: str, top_k: int = 5) -> str:
+        """根据数据置信度分层格式化 Agent 回答。
+
+        策略：
+        - official:  直接引用，标注权威来源（IBA/WSET/官方标准）
+        - verified:  标注参考来源（百度百科/Wikipedia/品牌官方）
+        - simulated: 降级提示"该信息为推测，建议核实"
+        - unknown:   提示"数据来源未标注"
+
+        返回格式化的 Markdown 回答字符串。
+        """
+        results = self.search(query, top_k=top_k)
+        if not results:
+            return f"未找到与「{query}」相关的知识条目。"
+
+        # 按置信度分组排序：official > verified > simulated > unknown
+        confidence_order = {"official": 0, "verified": 1, "simulated": 2, "unknown": 3}
+        results_sorted = sorted(
+            results,
+            key=lambda r: (confidence_order.get(r.get("data_confidence", "unknown"), 9), -r.get("score", 0)),
+        )
+
+        lines = [f"## 关于「{query}」的知识库回答", ""]
+        for i, r in enumerate(results_sorted, 1):
+            confidence = r.get("data_confidence", "unknown")
+            strategy = self._CONFIDENCE_STRATEGY.get(confidence, self._CONFIDENCE_STRATEGY["unknown"])
+            source = r.get("data_source", "")
+            title = r["title"]
+            score = r.get("score", 0)
+
+            # 条目标题行
+            lines.append(f"### {i}. {title}")
+            lines.append(f"- **置信度**：{strategy['label']}（score: {score}）")
+            if source:
+                lines.append(f"- **数据来源**：{source}")
+            lines.append(f"- **条目 ID**：{r['id']}")
+
+            # 获取条目正文摘要（前 3 行非空内容）
+            entry = self.entries.get(r["id"])
+            if entry:
+                content_lines = [l for l in entry.content.split("\n") if l.strip() and not l.startswith("#")][:3]
+                if content_lines:
+                    lines.append("")
+                    lines.append(strategy["prefix"] + "\n".join(content_lines) + strategy["suffix"].format(source=source))
+            lines.append("")
+
+        # 汇总置信度提示
+        conf_counts = {}
+        for r in results_sorted:
+            c = r.get("data_confidence", "unknown")
+            conf_counts[c] = conf_counts.get(c, 0) + 1
+        summary_parts = [f"{v} 条{self._CONFIDENCE_STRATEGY.get(k, {}).get('label', k)}" for k, v in conf_counts.items()]
+        lines += ["---", "", f"**本次回答数据构成**：{', '.join(summary_parts)}", ""]
+        return "\n".join(lines)
 
     def filter(self, *,
                subcategory: str = None,

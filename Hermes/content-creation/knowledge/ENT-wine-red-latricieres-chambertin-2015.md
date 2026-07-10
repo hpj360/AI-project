@@ -4,10 +4,12 @@ title: 力士登堡 2015
 category: ENT
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine-red-chambertin-rousseau-2015, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-romanee-conti-2015: same_brand, ENT-wine-red-la-tache-2015: same_brand, ENT-wine-red-richebourg-2015: same_brand, ENT-wine-red-chambertin-rousseau-2015: same_region, ENT-wine_red-off-003-adama: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-red-chambertin-rousseau-2015, ENT-brand-opus-one]
+related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-red-chambertin-rousseau-2015: same_region, ENT-brand-opus-one: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 3048}
   parker: {score: 89, year: 2023}
@@ -60,6 +62,17 @@ DRC 在 Latricières-Chambertin 的地块，风格优雅细腻。
 - **余味**：余味悠长，带矿物与花香
 - **风味标签**：红樱桃, 覆盆子, 松露, 辛香
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -101,3 +114,5 @@ Latricières 意为贫瘠之地，因土壤多石不利耕作。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,13 +4,19 @@ title: Alus BREWDOG PUNK ipa
 category: ENT
 tags: [OpenFoodFacts, beer, 啤酒, Brewdog]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-beer-brewdog-punk-ipa, ENT-beer-off-093-punk-ipa, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona]
-related_typed: {ENT-beer-brewdog-punk-ipa: same_brand, ENT-beer-off-093-punk-ipa: same_brand, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-beer-brewdog-punk-ipa, ENT-beer-off-093-punk-ipa, ENT-beer-tsingtao, ENT-beer-snow, ENT-baike-beer-taishan-pijiu]
+related_typed: {ENT-beer-brewdog-punk-ipa: same_brand, ENT-beer-off-093-punk-ipa: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat}
+data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.4, votes: 10113}
   ratebeer: {score: 83, year: 2022}
+source_url: https://world.openfoodfacts.org/product/ipa
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Alus BREWDOG PUNK ipa
@@ -56,6 +62,17 @@ OpenFoodFacts 真实产品数据：Alus BREWDOG PUNK ipa（Brewdog）
 - **余味**：苦味回甘
 - **风味标签**：啤酒花, 热带水果, 苦味
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -78,3 +95,5 @@ OpenFoodFacts 真实产品数据：Alus BREWDOG PUNK ipa（Brewdog）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

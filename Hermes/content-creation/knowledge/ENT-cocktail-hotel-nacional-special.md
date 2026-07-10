@@ -4,14 +4,19 @@ title: 国家酒店特调
 category: ENT
 tags: [鸡尾酒, 现代经典, 朗姆, 菠萝, 杏, 古巴]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-casablanca, ENT-cocktail-mojito, ENT-cocktail-mary-pickford, ENT-cocktail-el-presidente, ENT-cocktail-cuba-libre]
 related_typed: {ENT-cocktail-casablanca: same_region, ENT-cocktail-mojito: same_region, ENT-cocktail-mary-pickford: same_region, ENT-cocktail-el-presidente: same_region, ENT-cocktail-cuba-libre: same_region}
+data_confidence: simulated
+data_source: Hotel Nacional 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 37438}
   diffords: {score: 4.29, year: 2022}
   iba: {score: 5.0, year: 2020}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 国家酒店特调
@@ -133,3 +138,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Hotel Nacional 配方
+- 数据置信度：simulated

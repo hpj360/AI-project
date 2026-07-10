@@ -4,10 +4,13 @@ title: 马天尼珍珠
 category: ENT
 tags: [鸡尾酒, 分子, 球化, 金酒, 干味美思]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
 related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
+data_confidence: simulated
+data_source: 分子调酒吧配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 4984}
   diffords: {score: 4.4, year: 2020}
@@ -15,6 +18,8 @@ ratings:
 awards:
   - {name: Tales of the Cocktail Best Cocktail, year: 2022, org: Tales of the Cocktail}
   - {name: IBA World Competition Gold, year: 2023, org: IBA World Competition}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 马天尼珍珠
@@ -143,3 +148,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：分子调酒吧配方
+- 数据置信度：simulated

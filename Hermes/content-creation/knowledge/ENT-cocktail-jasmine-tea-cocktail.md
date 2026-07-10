@@ -4,14 +4,19 @@ title: 茉莉花茶鸡尾酒
 category: ENT
 tags: [鸡尾酒, 亚洲, 茶, 茉莉花茶, 中国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
-related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
+related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+data_confidence: simulated
+data_source: 中国配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 32868}
   diffords: {score: 4.36, year: 2021}
   iba: {score: 5.0, year: 2020}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 茉莉花茶鸡尾酒
@@ -131,3 +136,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：中国配方
+- 数据置信度：simulated

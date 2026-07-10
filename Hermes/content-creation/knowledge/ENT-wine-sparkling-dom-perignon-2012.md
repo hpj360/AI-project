@@ -4,10 +4,12 @@ title: 唐培里侬 2012
 category: ENT
 tags: [起泡酒, 香槟, LVMH, 霞多丽, 黑皮诺]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-pol-roger-winston-churchill-2013, ENT-wine-sparkling-perrier-jouet-belle-epoque-2013, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original]
-related_typed: {ENT-wine-sparkling-pol-roger-winston-churchill-2013: same_region, ENT-wine-sparkling-perrier-jouet-belle-epoque-2013: same_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-sparkling-pol-roger-winston-churchill-2013, ENT-wine-sparkling-perrier-jouet-belle-epoque-2013, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
+related_typed: {ENT-wine-sparkling-pol-roger-winston-churchill-2013: same_region, ENT-wine-sparkling-perrier-jouet-belle-epoque-2013: same_region, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 7163}
   wine_spectator: {score: 90, year: 2021}
@@ -59,6 +61,17 @@ LVMH 旗下顶级香槟，仅生产年份香槟，被誉为香槟之王。
 - **余味**：余味极悠长，带矿物与辛香
 - **风味标签**：白花, 柑橘, 烤面包, 杏仁
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -101,3 +114,5 @@ Dom Pérignon 仅在最佳年份酿造，自 1921 年首年份以来约一半年
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

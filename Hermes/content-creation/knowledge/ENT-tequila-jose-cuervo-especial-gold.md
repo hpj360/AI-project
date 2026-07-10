@@ -4,10 +4,12 @@ title: 豪帅 Jose Cuervo Especial Gold
 category: ENT
 tags: [龙舌兰, 墨西哥, 豪帅, Gold, Mixto]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-tequila-off-193-blue-agave-gold-tequila, ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-sauza-blanco]
 related_typed: {ENT-tequila-off-193-blue-agave-gold-tequila: same_brand, ENT-tequila-off-195-jose-cuervo-tequila-especial: same_brand, ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-sauza-blanco: same_region}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.4, votes: 40964}
   wine_enthusiast: {score: 82, year: 2022}
@@ -57,6 +59,17 @@ ratings:
 - **余味**：余味甜润，带橡木香
 - **风味标签**：龙舌兰, 焦糖, 橡木
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -92,3 +105,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

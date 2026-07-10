@@ -4,15 +4,21 @@ title: Vino Blanco chardonay
 category: ENT
 tags: [OpenFoodFacts, wine_white, 白葡萄酒, Don Simón]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine_red-off-010-vino-tinto, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine_red-off-010-vino-tinto: same_brand, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-031-vino-blanco: cross_region, ENT-wine_white-off-027-vin: same_subcat}
+data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 3.8, votes: 42322}
   parker: {score: 81, year: 2020}
   wine_spectator: {score: 82, year: 2022}
   cellar_tracker: {score: 3.5, votes: 3575}
+source_url: https://world.openfoodfacts.org/product/chardonay
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Vino Blanco chardonay
@@ -58,6 +64,17 @@ OpenFoodFacts 真实产品数据：Vino Blanco chardonay（Don Simón）
 - **余味**：清爽回甘
 - **风味标签**：柑橘, 果味, 清爽
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -82,3 +99,5 @@ OpenFoodFacts 真实产品数据：Vino Blanco chardonay（Don Simón）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

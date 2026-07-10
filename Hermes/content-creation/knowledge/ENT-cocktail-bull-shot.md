@@ -4,14 +4,19 @@ title: 公牛弹
 category: ENT
 tags: [鸡尾酒, 短饮, 伏特加, 牛肉汤, 咸鲜]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-last-word, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-saketini]
-related_typed: {ENT-cocktail-last-word: same_region, ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-cocktail-last-word, ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-saketini]
+related_typed: {ENT-cocktail-last-word: same_region, ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.0, votes: 23952}
   diffords: {score: 4.04, year: 2023}
   iba: {score: 3.7, year: 2021}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 公牛弹
@@ -134,3 +139,5 @@ Bull Shot 是血腥玛丽的咸鲜变体，用牛肉汤替代番茄汁。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

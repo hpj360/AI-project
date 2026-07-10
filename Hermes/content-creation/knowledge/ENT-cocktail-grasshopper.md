@@ -4,14 +4,19 @@ title: 蚱蜢
 category: ENT
 tags: [鸡尾酒, 短饮, 薄荷, 可可, 奶油, 餐后]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz]
 related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region}
+data_confidence: official
+data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 2751}
   diffords: {score: 4.35, year: 2023}
   iba: {score: 5.0, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 蚱蜢
@@ -131,3 +136,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

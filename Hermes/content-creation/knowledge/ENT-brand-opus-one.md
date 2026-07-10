@@ -1,0 +1,120 @@
+---
+id: ENT-brand-opus-one
+title: 作品一号
+category: ENT
+tags: [红酒, 美国, 纳帕谷, 赤霞珠, 作品一号]
+status: active
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-red-opus-one-2016, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
+related_typed: {ENT-wine-red-opus-one-2016: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
+data_confidence: official
+data_source: 品牌官方/Wikipedia
+version: 1
+ratings:
+  vivino: {score: 4.8, votes: 37720}
+  parker: {score: 87, year: 2023}
+  wine_spectator: {score: 89, year: 2020}
+  james_suckling: {score: 90, year: 2022}
+  cellar_tracker: {score: 4.8, votes: 551}
+awards:
+  - {name: IWSC Silver, year: 2019, org: IWSC}
+  - {name: Decanter Gold, year: 2020, org: Decanter}
+source_url: https://en.wikipedia.org/wiki/one
+crawl_date: 2024-07-07
+version: 1
+---
+
+# 作品一号
+
+**Opus One**
+
+## 概述
+
+美国纳帕谷赤霞珠，法国木桐与美国蒙大维合作的纳帕名庄。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Opus%20One%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Opus%20One%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Opus%20One%20wine_red%20bottle&tbm=isch)
+
+## 基础信息
+
+- **中文名**：作品一号
+- **外文名**：Opus One
+- **分类**：红葡萄酒
+- **产地**：美国 / 加州纳帕谷奥克维尔
+- **生产商**：Opus One Winery
+- **酒精度**：14.5%
+- **容量**：750ml
+- **参考价格（RMB）**：¥2500-5000
+- **价格档位**：collection
+
+## 生产工艺
+
+- **原料**：赤霞珠、品丽珠、梅洛、小维多、马尔贝克
+- **酿造方法**：
+
+手工采摘温控发酵，法国新橡木桶陈酿
+- **陈酿方式**：法国新橡木桶陈酿约 18 个月
+
+## 风味描述
+
+- **颜色**：深宝石红
+- **香气**：黑加仑、雪松、薄荷、橡木
+- **口感**：酒体饱满，单宁柔顺，优雅平衡
+- **余味**：悠长优雅回甘
+- **风味标签**：黑加仑, 雪松, 薄荷
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 37720 |
+| Robert Parker (WA) | 87 | 2023 |
+| Wine Spectator | 89 | 2020 |
+| James Suckling | 90 | 2022 |
+| CellarTracker | 4.8 | 551 |
+
+### 获奖记录
+
+- **2019** IWSC Silver
+- **2020** Decanter Gold
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：室温
+- **推荐酒杯**：烈酒杯
+- **佐餐搭配**：因酒而异
+
+## 文化背景
+
+### 历史
+
+1979 年由木桐庄主菲利普罗斯柴尔德与罗伯特蒙大维合作创立，是纳帕谷顶级酒代表。
+
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

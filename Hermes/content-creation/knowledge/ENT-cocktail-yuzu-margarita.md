@@ -4,16 +4,21 @@ title: 柚子玛格丽特
 category: ENT
 tags: [鸡尾酒, 亚洲, 柚子, 龙舌兰, 日本]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-cocktail-sake-bomb: same_region, ENT-cocktail-sake-martini: same_region, ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region}
+data_confidence: simulated
+data_source: 日本配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 19300}
   diffords: {score: 4.45, year: 2020}
   iba: {score: 5.0, year: 2020}
 awards:
   - {name: Tales of the Cocktail Spirited Award, year: 2022, org: Tales of the Cocktail}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 柚子玛格丽特
@@ -138,3 +143,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：日本配方
+- 数据置信度：simulated

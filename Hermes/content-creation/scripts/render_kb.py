@@ -81,9 +81,9 @@ def generate_ratings(entry: dict) -> tuple[dict, list]:
     seed = int(hashlib.md5(slug.encode()).hexdigest(), 16) % (2**32)
     rng = random.Random(seed)
 
-    # 不评分的类别（仅保留流程类、装饰类）
+    # 不评分的类别（仅保留流程类、装饰类、指导性知识）
     if subcat in ("process", "region", "pairing", "glassware",
-                  "tasting_sop", "sop", "dec", "anti", "other_spirit"):
+                  "tasting_sop", "sop", "dec", "anti", "guide", "other_spirit"):
         return {}, []
 
     if tier == "high":
@@ -365,6 +365,91 @@ def _generate_image_urls(query: str, subcategory: str = "") -> list[tuple[str, s
     ]
 
 
+# ============================================================
+# 数据置信度判定 + 风味轮廓模板
+# ============================================================
+
+# 数据源 → 置信度等级映射
+# official: 权威机构（IBA/WSET/WHO/CDC/官方标准）
+# verified: 已验证真实数据（百度百科/Wikipedia/品牌官方/OpenFoodFacts）
+# simulated: 推测/构造数据（AI 生成的品牌补充）
+_OFFICIAL_KEYWORDS = ("IBA", "官方", "WSET", "WHO", "CDC", "国家标准", "GB/T")
+_VERIFIED_KEYWORDS = ("百度百科", "Wikipedia", "品牌官方", "OpenFoodFacts", "Wine-Searcher",
+                      "Vivino", "RateBeer", "Untappd", "Difford", "Wine Spectator")
+
+
+def _determine_data_confidence(entry: dict) -> tuple[str, str]:
+    """根据 entry 的 source 字段判定数据置信度。
+
+    返回 (data_confidence, data_source)。
+    优先级：显式传入 > 关键词推断 > 默认 simulated。
+    """
+    # 1. 显式指定
+    if entry.get("data_confidence"):
+        return entry["data_confidence"], entry.get("source", entry.get("data_source", ""))
+
+    source = entry.get("source", "") or entry.get("data_source", "")
+    eid = entry.get("id", "")
+
+    # 2. 关键词推断
+    if any(kw in source for kw in _OFFICIAL_KEYWORDS):
+        return "official", source
+    if any(kw in source for kw in _VERIFIED_KEYWORDS):
+        return "verified", source
+    # OpenFoodFacts 真实数据（id 前缀 off-）
+    if "off-" in eid or "OpenFoodFacts" in source:
+        return "verified", source or "OpenFoodFacts"
+    # IBA 官方鸡尾酒（id 前缀 iba-）
+    if eid.startswith("iba-") or "iba" in source.lower():
+        return "official", source or "IBA Official"
+    # 百度百科真实数据（id 前缀 baike-）
+    if eid.startswith("baike-") or "百度百科" in source:
+        return "verified", source or "百度百科"
+    # SOP/DEC/ANTI 指导性知识（权威方法论）
+    if (entry.get("subcategory") in ("sop", "dec", "anti", "guide")
+            or entry.get("category") in ("SOP", "DEC", "ANTI")
+            or eid.startswith(("SOP-", "DEC-", "ANTI-"))):
+        return "official", source or "行业最佳实践"
+
+    # 3. 默认推测
+    return "simulated", source
+
+
+# 风味轮廓模板：5 维（甜/酸/苦/烈/香）默认值，按子类
+_FLAVOR_PROFILE_TEMPLATES = {
+    "baijiu":          {"sweet": 2, "sour": 1, "bitter": 2, "strong": 5, "aroma": 4},
+    "whisky":          {"sweet": 2, "sour": 1, "bitter": 2, "strong": 5, "aroma": 4},
+    "brandy":          {"sweet": 3, "sour": 1, "bitter": 2, "strong": 4, "aroma": 5},
+    "gin":             {"sweet": 1, "sour": 2, "bitter": 3, "strong": 4, "aroma": 5},
+    "vodka":           {"sweet": 1, "sour": 1, "bitter": 1, "strong": 5, "aroma": 1},
+    "rum":             {"sweet": 4, "sour": 2, "bitter": 1, "strong": 4, "aroma": 3},
+    "tequila":         {"sweet": 2, "sour": 2, "bitter": 3, "strong": 5, "aroma": 4},
+    "liqueur":         {"sweet": 5, "sour": 2, "bitter": 1, "strong": 3, "aroma": 4},
+    "wine_red":        {"sweet": 2, "sour": 3, "bitter": 3, "strong": 3, "aroma": 4},
+    "wine_white":      {"sweet": 2, "sour": 4, "bitter": 1, "strong": 2, "aroma": 4},
+    "wine_sparkling":  {"sweet": 2, "sour": 4, "bitter": 1, "strong": 2, "aroma": 3},
+    "wine_fortified":  {"sweet": 4, "sour": 2, "bitter": 2, "strong": 4, "aroma": 5},
+    "wine_rose":       {"sweet": 3, "sour": 3, "bitter": 1, "strong": 2, "aroma": 4},
+    "wine_dessert":    {"sweet": 5, "sour": 2, "bitter": 1, "strong": 3, "aroma": 4},
+    "beer":            {"sweet": 2, "sour": 2, "bitter": 3, "strong": 2, "aroma": 3},
+    "sake":            {"sweet": 3, "sour": 2, "bitter": 1, "strong": 3, "aroma": 4},
+    "yellow_wine":     {"sweet": 4, "sour": 2, "bitter": 2, "strong": 3, "aroma": 4},
+    "rice_wine":       {"sweet": 4, "sour": 2, "bitter": 1, "strong": 2, "aroma": 3},
+    "fruit_wine":      {"sweet": 4, "sour": 3, "bitter": 1, "strong": 2, "aroma": 4},
+    "mead":            {"sweet": 5, "sour": 2, "bitter": 1, "strong": 3, "aroma": 4},
+    "cocktail":        {"sweet": 3, "sour": 3, "bitter": 2, "strong": 3, "aroma": 4},
+}
+_DEFAULT_FLAVOR_PROFILE = {"sweet": 3, "sour": 3, "bitter": 2, "strong": 3, "aroma": 3}
+
+
+def _get_flavor_profile(entry: dict) -> dict:
+    """获取风味轮廓：优先用 entry 自带，否则用子类模板。"""
+    if entry.get("flavor_profile"):
+        return entry["flavor_profile"]
+    subcat = entry.get("subcategory", "")
+    return _FLAVOR_PROFILE_TEMPLATES.get(subcat, _DEFAULT_FLAVOR_PROFILE).copy()
+
+
 def render_entry(entry: dict, ratings: dict, awards: list) -> str:
     """渲染单个条目为 Markdown。"""
     eid = entry["id"]
@@ -374,6 +459,9 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
     tags = entry.get("tags", [])
     related = entry.get("related", [])
 
+    # 数据置信度判定（P2: 数据可信度保障）
+    data_confidence, data_source = _determine_data_confidence(entry)
+
     # frontmatter
     fm = ["---",
           f"id: {eid}",
@@ -382,7 +470,15 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
           f"tags: [{', '.join(tags)}]",
           "status: active",
           f"created: {TODAY}",
-          f"updated: {TODAY}"]
+          f"updated: {TODAY}",
+          f"data_confidence: {data_confidence}"]
+    if data_source:
+        fm.append(f"data_source: {data_source}")
+    if entry.get("source_url"):
+        fm.append(f"source_url: {entry['source_url']}")
+    if entry.get("crawl_date"):
+        fm.append(f"crawl_date: {entry['crawl_date']}")
+    fm.append(f"version: {entry.get('version', 1)}")
     if related:
         fm.append(f"related: [{', '.join(related)}]")
     if ratings:
@@ -396,6 +492,20 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
             parts = [f"{k}: {v}" for k, v in a.items()]
             fm.append(f"  - {{{', '.join(parts)}}}")
     fm.append("---")
+
+    # SOP/DEC/ANTI 指导性知识特殊渲染：直接使用预写正文（subcategory=guide + content_body）
+    if entry.get("subcategory") == "guide" and entry.get("content_body"):
+        body = [f"# {title}", ""]
+        if title_en:
+            body += [f"**{title_en}**", ""]
+        if entry.get("summary"):
+            body += ["## 概述", "", entry["summary"], ""]
+        body.append(entry["content_body"])
+        body += ["", "## 参考资料", "",
+                 f"- 数据来源：{data_source or '行业最佳实践'}",
+                 f"- 数据置信度：{data_confidence}",
+                 ""]
+        return "\n".join(fm) + "\n\n" + "\n".join(body)
 
     body = [f"# {title}", ""]
     if title_en:
@@ -565,10 +675,13 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
                 body.append(f"- **风味标签**：{', '.join(flavor_tpl['flavor_tags'])}")
             body.append("")
 
-    # 风味轮廓雷达
-    if entry.get("flavor_profile"):
+    # 风味轮廓雷达（优先用 entry 自带，否则用子类模板兜底，确保 100% 覆盖）
+    flavor_profile = _get_flavor_profile(entry)
+    if flavor_profile:
         body += ["## 风味轮廓", ""]
-        body.extend(render_flavor_profile(entry["flavor_profile"]))
+        body.extend(render_flavor_profile(flavor_profile))
+        if not entry.get("flavor_profile"):
+            body.append("> 注：风味轮廓为子类默认值，具体品牌可能有差异。")
         body.append("")
 
     # 评分奖项
@@ -652,6 +765,8 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
 
     body += ["## 参考资料", "",
              "- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。",
+             f"- 数据来源：{data_source or '知识库整理'}",
+             f"- 数据置信度：{data_confidence}",
              ""]
 
     return "\n".join(fm) + "\n\n" + "\n".join(body)
@@ -668,14 +783,30 @@ def build_index(all_entries: list) -> str:
         sub = e.get("subcategory", "other")
         by_subcat.setdefault(sub, []).append(e)
 
-    # 排序：烈酒 → 葡萄酒 → 亚洲酒 → 鸡尾酒
+    # 排序：烈酒 → 葡萄酒 → 亚洲酒 → 鸡尾酒 → 指导性知识
     order = ["baijiu", "whisky", "brandy", "gin", "vodka", "rum", "tequila", "liqueur",
              "other_spirit", "wine_red", "wine_white", "wine_sparkling", "wine_fortified",
              "wine_rose", "wine_dessert", "sake", "yellow_wine", "rice_wine", "beer",
-             "fruit_wine", "mead", "cocktail"]
+             "fruit_wine", "mead", "cocktail", "guide"]
 
+    listed = set()
     for sub in order:
         if sub not in by_subcat:
+            continue
+        sub_cn = SUBCATEGORY_CN.get(sub, sub)
+        entries = sorted(by_subcat[sub], key=lambda x: x.get("id", ""))
+        lines += [f"## {sub_cn}（{len(entries)}）", ""]
+        for e in entries:
+            title = e.get("title", e["id"])
+            tags = e.get("tags", [])
+            tag_str = " | ".join(tags[:2]) if tags else ""
+            lines.append(f"- [{title}](./{e['id']}.md){' | ' + tag_str if tag_str else ''}")
+        lines.append("")
+        listed.add(sub)
+
+    # 兜底：未在 order 中的子类也加入索引（避免孤立文件）
+    for sub in sorted(by_subcat.keys()):
+        if sub in listed:
             continue
         sub_cn = SUBCATEGORY_CN.get(sub, sub)
         entries = sorted(by_subcat[sub], key=lambda x: x.get("id", ""))

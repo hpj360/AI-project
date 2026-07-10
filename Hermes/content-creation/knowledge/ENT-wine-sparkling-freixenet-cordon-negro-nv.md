@@ -4,10 +4,12 @@ title: 黑牌菲斯奈特
 category: ENT
 tags: [起泡酒, 卡瓦, Freixenet, 无年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine_sparkling-off-070-freixenet-prosecco, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-juve-y-camps-reserva-2017]
 related_typed: {ENT-wine_sparkling-off-070-freixenet-prosecco: same_brand, ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 46425}
   wine_spectator: {score: 89, year: 2020}
@@ -57,6 +59,17 @@ ratings:
 - **余味**：余味短至中长，带果味
 - **风味标签**：柑橘, 白花, 青苹果, 烤面包
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -95,3 +108,5 @@ Cordon Negro 黑牌磨砂瓶设计已成为卡瓦的全球标志。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

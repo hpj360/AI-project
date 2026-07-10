@@ -1,0 +1,81 @@
+---
+id: SOP-wine-opening
+title: 开瓶器使用与开瓶规范
+category: ENT
+tags: [SOP, 葡萄酒, 开瓶]
+status: active
+created: 2026-07-10
+updated: 2026-07-10
+related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-whisky-tasting, SOP-sake-tasting, SOP-baijiu-tasting]
+related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat}
+data_confidence: official
+data_source: Court of Master Sommeliers 服务规范
+version: 1
+crawl_date: 2024-07-07
+version: 1
+---
+
+# 开瓶器使用与开瓶规范
+
+## 概述
+
+葡萄酒开瓶规范：常用开瓶器类型、操作步骤与老酒开瓶注意事项。
+
+## 常用开瓶器类型
+
+### 1. 侍者刀（Waiter's Friend / 海马刀）
+- 最通用，专业侍酒师首选
+- 包含：螺旋钻、割箔刀、支点杠杆
+
+### 2. 蝴蝶开瓶器（Wing Corkscrew）
+- 操作简单，适合家用
+- 螺旋钻入后两侧手柄抬起拔塞
+
+### 3. 兔耳开瓶器（Rabbit）
+- 杠杆原理，省力
+- 适合木塞较紧的酒
+
+### 4. 老酒开瓶器（Ah-So / 双叉）
+- 两片金属片夹住木塞
+- 适用于脆弱老酒木塞，避免碎裂
+
+### 5. 电动开瓶器
+- 便捷，适合老年人
+- 注意：可能损坏老酒塞
+
+## 标准开瓶步骤（侍者刀）
+
+1. **割箔**：用割箔刀沿瓶口凸起下方割一圈，取下铝箔
+2. **擦净**：用清洁布擦拭瓶口
+3. **钻入**：螺旋钻对准木塞中心，垂直旋转钻入
+   - 钻入深度：剩 1 圈螺旋可见（避免穿透木塞）
+4. **撬起**：用支点杠杆第一级撬起木塞至 2/3
+5. **续撬**：换第二级支点，撬至接近拔出
+6. **手动拔出**：最后 1cm 用手缓缓拔出，听到「啵」声
+7. **擦净**：用布擦拭瓶口内外（去除木塞屑与可能存在的结晶）
+8. **闻塞**：检查木塞有无异味（霉味、醋味）
+
+## 老酒开瓶（10 年以上）
+
+### 使用 Ah-So 双叉开瓶器
+1. 将两片金属片沿木塞与瓶壁之间插入
+2. 左右交替压入至到底
+3. 缓慢旋转上拔，避免晃动
+4. 保留木塞完整，避免碎屑入酒
+
+### 老酒注意事项
+- 开瓶前静置 24 小时（沉淀下沉）
+- 切忌摇晃
+- 滗析分离沉淀
+- 木塞可能脆弱易碎，备好备用塞
+
+## 开瓶后处理
+- 红酒：醒酒或倒入杯中
+- 老酒：尽快饮用（接触空气即衰退）
+- 未饮完：使用抽真空塞冷藏
+
+
+## 参考资料
+
+- 数据来源：Court of Master Sommeliers 服务规范
+- 数据置信度：official

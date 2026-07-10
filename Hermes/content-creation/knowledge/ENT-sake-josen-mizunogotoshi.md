@@ -4,10 +4,12 @@ title: 上善如水
 category: ENT
 tags: [清酒, 日本, 吟醸, 上善如水, 新潟]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-genshu, ENT-sake-hakkaisan-3nen]
 related_typed: {ENT-sake-hakkaisan-honjozo: same_region, ENT-sake-hakkaisan-ginjo: same_region, ENT-sake-hakkaisan-junmai-daiginjo: same_region, ENT-sake-hakkaisan-genshu: same_region, ENT-sake-hakkaisan-3nen: same_region}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 11211}
   sake_revue: {score: 89, year: 2020}
@@ -59,6 +61,17 @@ awards:
 - **余味**：余味干净，带果香
 - **风味标签**：清爽, 果香, 蜜瓜
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -102,3 +115,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

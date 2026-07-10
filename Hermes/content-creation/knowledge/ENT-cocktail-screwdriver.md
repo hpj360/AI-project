@@ -4,14 +4,19 @@ title: 螺丝刀
 category: ENT
 tags: [鸡尾酒, IBA, 新时代, 伏特加, 橙汁]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
-related_typed: {ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
+related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 9278}
   diffords: {score: 4.22, year: 2022}
   iba: {score: 4.6, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 螺丝刀
@@ -131,3 +136,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

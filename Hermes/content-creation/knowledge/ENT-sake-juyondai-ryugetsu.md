@@ -4,10 +4,12 @@ title: 十四代 龙月
 category: ENT
 tags: [清酒, 日本, 纯米大吟醸, 十四代]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-sake-juyondai-honmaru, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-soko, ENT-sake-juyondai-shirakumo, ENT-sake-off-096-cooking-sake]
-related_typed: {ENT-sake-juyondai-honmaru: same_brand, ENT-sake-juyondai-nana-tariki: same_brand, ENT-sake-juyondai-soko: same_brand, ENT-sake-juyondai-shirakumo: same_region, ENT-sake-off-096-cooking-sake: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-sake-juyondai-honmaru, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-soko, ENT-sake-juyondai-shirakumo, ENT-baike-sake-hakutsuru]
+related_typed: {ENT-sake-juyondai-honmaru: same_brand, ENT-sake-juyondai-nana-tariki: same_brand, ENT-sake-juyondai-soko: same_brand, ENT-sake-juyondai-shirakumo: same_region, ENT-baike-sake-hakutsuru: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 38765}
   sake_revue: {score: 99, year: 2022}
@@ -58,6 +60,17 @@ awards:
 - **余味**：余味极长，带花蜜与米香
 - **风味标签**：果香, 蜜瓜, 花蜜
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -100,3 +113,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

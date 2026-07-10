@@ -4,10 +4,12 @@ title: 瑞加度尼亚桃红 2009
 category: ENT
 tags: [桃红, 里奥哈, Gran Reserva, López de Heredia]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009, ENT-wine-rose-muga-rosado-2020, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019]
 related_typed: {ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009: same_brand, ENT-wine-rose-muga-rosado-2020: same_region, ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 3.9, votes: 34565}
   parker: {score: 80, year: 2023}
@@ -57,6 +59,17 @@ ratings:
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：坚果, 蜜饯, 草莓干, 辛香
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -95,3 +108,5 @@ Tondonia Gran Reserva Rosado 仅在优秀年份酿造，桶陈 4 年后瓶陈数
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

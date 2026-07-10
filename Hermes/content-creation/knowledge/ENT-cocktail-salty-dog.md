@@ -4,14 +4,19 @@ title: 咸狗
 category: ENT
 tags: [鸡尾酒, IBA, 新时代, 伏特加, 葡萄柚, 盐边]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-violet-hour-bishop, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-cocktail-sake-martini]
-related_typed: {ENT-cocktail-violet-hour-bishop: same_region, ENT-vodka-off-141-absolut-vodka: base_to_cocktail, ENT-vodka-off-142-poliakov: base_to_cocktail, ENT-vodka-off-143-vodka-triple-distilled: base_to_cocktail, ENT-cocktail-sake-martini: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-cocktail-violet-hour-bishop, ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-martini]
+related_typed: {ENT-cocktail-violet-hour-bishop: same_region, ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-martini: same_subcat}
+data_confidence: official
+data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 49331}
   diffords: {score: 4.36, year: 2020}
   iba: {score: 5.0, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 咸狗
@@ -130,3 +135,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

@@ -4,10 +4,12 @@ title: Kavalan 独奏 Vinho
 category: ENT
 tags: [威士忌, 台湾, 单一麦芽, 原桶强度]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-kavalan-classic, ENT-whisky-off-250-blended-scotch-wiskhy, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-whisky-off-253-william-peel, ENT-whisky-off-254-royal-challenge-whisky]
-related_typed: {ENT-whisky-kavalan-classic: same_brand, ENT-whisky-off-250-blended-scotch-wiskhy: same_subcat, ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_subcat, ENT-whisky-off-253-william-peel: same_subcat, ENT-whisky-off-254-royal-challenge-whisky: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-whisky-kavalan-classic, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal]
+related_typed: {ENT-whisky-kavalan-classic: same_brand, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 4609}
   whisky_fun: {score: 87, year: 2022}
@@ -58,6 +60,17 @@ Kavalan 独奏 Vinho，葡萄酒桶陈酿原桶强度威士忌。
 - **余味**：余味悠长，深邃复杂
 - **风味标签**：巧克力, 咖啡, 热带水果
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -93,3 +106,5 @@ Vinho 桶为美国红酒与葡萄牙白酒桶再烤精炼。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

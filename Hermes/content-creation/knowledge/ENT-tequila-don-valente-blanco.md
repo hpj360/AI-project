@@ -4,10 +4,12 @@ title: 特奎拉 Don Valente Blanco
 category: ENT
 tags: [龙舌兰, 墨西哥, Don Valente, Blanco]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-tequila-orendain-blanco, ENT-tequila-off-186-tequila, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado, ENT-tequila-off-188-tequila-estribos, ENT-tequila-off-189-tequila-0-35l]
-related_typed: {ENT-tequila-orendain-blanco: same_region, ENT-tequila-off-186-tequila: cross_region, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado: cross_region, ENT-tequila-off-188-tequila-estribos: same_subcat, ENT-tequila-off-189-tequila-0-35l: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-tequila-orendain-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
+related_typed: {ENT-tequila-orendain-blanco: same_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 17034}
   wine_enthusiast: {score: 88, year: 2020}
@@ -57,6 +59,17 @@ ratings:
 - **余味**：余味爽净，带龙舌兰香
 - **风味标签**：龙舌兰, 柑橘, 胡椒
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -92,3 +105,5 @@ Don Valente 之名致敬龙舌兰老匠人 Valente。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

@@ -4,10 +4,12 @@ title: 红颜容城堡 2016
 category: ENT
 tags: [红酒, 波尔多, 一级庄]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-la-mission-haut-brion-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir]
-related_typed: {ENT-wine-red-la-mission-haut-brion-2016: same_brand, ENT-wine_red-off-001-vin-rouge-sans-alcool: cross_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-004-pinot-noir: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-real-haut-brion, ENT-wine-red-la-mission-haut-brion-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-real-haut-brion: same_brand, ENT-wine-red-la-mission-haut-brion-2016: same_brand, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.0, votes: 32133}
   parker: {score: 80, year: 2022}
@@ -60,6 +62,17 @@ ratings:
 - **余味**：余味悠长，带烟熏与果酱
 - **风味标签**：黑加仑, 烟熏, 雪茄盒, 泥土
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -101,3 +114,5 @@ AOC Pessac-Léognan Premier Grand Cru Classé
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

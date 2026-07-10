@@ -4,10 +4,12 @@ title: 烟熏信号
 category: ENT
 tags: [鸡尾酒, 创意, 梅斯卡尔, 烟熏, 山核桃]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-kamikaze, ENT-cocktail-melon-ball, ENT-cocktail-test-pilot-modern, ENT-cocktail-brown-derby, ENT-cocktail-westside]
 related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-melon-ball: same_region, ENT-cocktail-test-pilot-modern: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 9051}
   diffords: {score: 4.41, year: 2023}
@@ -140,3 +142,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

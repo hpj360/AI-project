@@ -4,13 +4,19 @@ title: Bière blonde
 category: ENT
 tags: [OpenFoodFacts, beer, 啤酒, Jenlain]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-beer-corona, ENT-beer-tsingtao-pure-draft, ENT-beer-bud-ice, ENT-beer-goose-island-ipa, ENT-beer-brewdog-punk-ipa]
-related_typed: {ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat, ENT-beer-bud-ice: same_subcat, ENT-beer-goose-island-ipa: same_subcat, ENT-beer-brewdog-punk-ipa: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu]
+related_typed: {ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat}
+data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 43390}
   ratebeer: {score: 89, year: 2022}
+source_url: https://world.openfoodfacts.org/product/blonde
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Bière blonde
@@ -56,6 +62,17 @@ OpenFoodFacts 真实产品数据：Bière blonde（Jenlain）
 - **余味**：苦味回甘
 - **风味标签**：麦芽, 蜂蜜, 微苦
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -78,3 +95,5 @@ OpenFoodFacts 真实产品数据：Bière blonde（Jenlain）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

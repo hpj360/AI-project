@@ -4,10 +4,12 @@ title: 云雾之湾长相思 2020
 category: ENT
 tags: [白酒, 新世界, 长相思, 马尔堡]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-cloudy-bay-pelorus-nv, ENT-wine-white-dog-point-sauvignon-blanc-2020, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay]
-related_typed: {ENT-wine-sparkling-cloudy-bay-pelorus-nv: same_brand, ENT-wine-white-dog-point-sauvignon-blanc-2020: same_region, ENT-wine-white-oyster-bay-sauvignon-blanc-2020: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-sparkling-cloudy-bay-pelorus-nv, ENT-wine-real-cloudy-bay, ENT-wine-white-dog-point-sauvignon-blanc-2020, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019]
+related_typed: {ENT-wine-sparkling-cloudy-bay-pelorus-nv: same_brand, ENT-wine-real-cloudy-bay: same_region, ENT-wine-white-dog-point-sauvignon-blanc-2020: same_region, ENT-wine-white-oyster-bay-sauvignon-blanc-2020: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.7, votes: 48011}
   parker: {score: 83, year: 2021}
@@ -59,6 +61,17 @@ ratings:
 - **余味**：余味中长，带果味与矿物
 - **风味标签**：百香果, 青柠, 黑加仑叶, 西番莲
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -99,3 +112,5 @@ Cloudy Bay 名字源自库克船长抵达时所见的海湾云雾。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

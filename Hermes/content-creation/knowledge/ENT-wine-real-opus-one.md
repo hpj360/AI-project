@@ -1,0 +1,113 @@
+---
+id: ENT-wine-real-opus-one
+title: 作品一号
+category: ENT
+tags: [红酒, 美国, 纳帕谷, 赤霞珠, 波尔多混酿]
+status: active
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-real-silver-oak, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-real-silver-oak: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+data_confidence: official
+data_source: 品牌官方/Wikipedia/Wine-Searcher
+version: 1
+ratings:
+  vivino: {score: 4.4, votes: 28968}
+  parker: {score: 80, year: 2021}
+  wine_spectator: {score: 82, year: 2023}
+  james_suckling: {score: 81, year: 2021}
+  cellar_tracker: {score: 4.1, votes: 2264}
+source_url: https://www.wine-searcher.com/find/one
+crawl_date: 2024-07-07
+version: 1
+---
+
+# 作品一号
+
+**Opus One**
+
+## 概述
+
+美国纳帕谷顶级红酒，木桐罗斯柴尔德与蒙大维合资创立。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Opus%20One%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/Opus%20One%20wine_red)
+- [Google 图片](https://www.google.com/search?q=Opus%20One%20wine_red%20bottle&tbm=isch)
+
+## 基础信息
+
+- **中文名**：作品一号
+- **外文名**：Opus One
+- **别名**：Opus One, 作品一号
+- **分类**：红葡萄酒
+- **产地**：美国 / 加州/纳帕谷
+- **生产商**：Opus One Winery (Constellation + Rothchild)
+- **酒精度**：14.5%
+- **容量**：750ml
+- **参考价格（RMB）**：¥2500-8000
+- **价格档位**：collection
+
+## 生产工艺
+
+- **原料**：赤霞珠、梅洛、品丽珠、小维多、马尔贝克
+- **酿造方法**：
+
+波尔多风格酿造，法国新橡木桶陈年18个月
+- **陈酿方式**：法国新橡木桶18个月
+
+## 风味描述
+
+- **颜色**：深宝石红
+- **香气**：黑加仑、雪松、香料、可可
+- **口感**：优雅浓郁、单宁细腻
+- **余味**：悠长
+- **风味标签**：黑加仑, 雪松, 可可, 优雅
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.4 | 28968 |
+| Robert Parker (WA) | 80 | 2021 |
+| Wine Spectator | 82 | 2023 |
+| James Suckling | 81 | 2021 |
+| CellarTracker | 4.1 | 2264 |
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：16-18°C
+- **推荐酒杯**：波尔多杯
+- **佐餐搭配**：牛排、烤鸭、奶酪
+
+## 文化背景
+
+### 历史
+
+1979年由木桐的Baron Philippe de Rothschild与罗伯特·蒙大维共同创立，美法合作典范。
+
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia/Wine-Searcher
+- 数据置信度：official

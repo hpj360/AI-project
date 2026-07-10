@@ -4,14 +4,19 @@ title: 汤米的玛格丽特
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 龙舌兰, 青柠, 蜂蜜]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-martinez, ENT-cocktail-saturn, ENT-cocktail-jasmine, ENT-cocktail-chartreuse-swizzle, ENT-cocktail-fogcutter]
 related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-saturn: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-chartreuse-swizzle: same_region, ENT-cocktail-fogcutter: same_region}
+data_confidence: simulated
+data_source: Tommy's 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 16106}
   diffords: {score: 4.38, year: 2021}
   iba: {score: 5.0, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 汤米的玛格丽特
@@ -132,3 +137,5 @@ Tommy's 以龙舌兰酒藏闻名，此配方被 IBA 收录为新时代经典。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Tommy's 配方
+- 数据置信度：simulated

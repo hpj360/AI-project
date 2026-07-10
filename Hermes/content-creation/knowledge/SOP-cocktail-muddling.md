@@ -1,0 +1,63 @@
+---
+id: SOP-cocktail-muddling
+title: 鸡尾酒捣碎技法
+category: ENT
+tags: [SOP, 鸡尾酒, 捣碎]
+status: active
+created: 2026-07-10
+updated: 2026-07-10
+related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-whisky-tasting, SOP-sake-tasting, SOP-baijiu-tasting]
+related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat}
+data_confidence: official
+data_source: Mixology 鸡尾酒技法教程
+version: 1
+crawl_date: 2024-07-07
+version: 1
+---
+
+# 鸡尾酒捣碎技法
+
+## 概述
+
+捣碎（Muddle）技法：释放水果、香草、香料风味的操作规范。
+
+## 捣碎（Muddle）要点
+
+### 适用场景
+- 莫吉托（薄荷）、老式（糖块与苦精）、柯布勒（水果）
+- 需要释放新鲜食材风味的配方
+- 萃取柑橘类精油（果皮）
+
+### 捣碎步骤
+1. 将食材（薄荷/水果/糖）放入杯底
+2. 持捣棒垂直下压
+3. 轻柔旋转研磨 4-6 次
+4. 加入冰块与酒液
+
+### 力度控制（关键）
+- **薄荷/香草类**：轻捣，仅压裂叶脉释放精油
+  - 过度捣碎 → 释放苦味（叶绿素）
+- **柑橘类**：中度捣压释放果汁与果皮油
+- **浆果/软水果**：捣至果肉破裂即可
+- **糖块**：研碎至无颗粒
+
+### 捣棒选择
+- 木质：传统，不破坏食材
+- 塑料/树脂：易清洁，适合商业吧台
+- 平底：通用；齿状：增加摩擦
+
+### 常见错误
+- 过度用力捣薄荷 → 苦涩
+- 捣柠檬片连皮捣 → 苦味溶出
+- 捣后不及时加冰 → 风味流失
+- 使用搅拌代替捣碎 → 风味不足
+
+### 配方示例
+- 莫吉托：薄荷轻捣 + 青柠汁 + 糖 + 苏打水 + 朗姆
+- 老式：糖块 + 安古斯图拉苦精捣化 + 威士忌
+
+
+## 参考资料
+
+- 数据来源：Mixology 鸡尾酒技法教程
+- 数据置信度：official

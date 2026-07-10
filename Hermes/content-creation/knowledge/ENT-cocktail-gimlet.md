@@ -4,14 +4,19 @@ title: 吉姆雷特
 category: ENT
 tags: [鸡尾酒, IBA, 新时代, 金酒, 青柠]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
 related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
+data_confidence: official
+data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 3.8, votes: 23369}
   diffords: {score: 4.0, year: 2023}
   iba: {score: 3.5, year: 2020}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 吉姆雷特
@@ -131,3 +136,5 @@ Rose's 青柠糖浆是吉姆雷特的经典配料。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

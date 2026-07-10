@@ -4,14 +4,19 @@ title: 林荫大道
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 波本, 苦味, 巴黎]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
 related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
+data_confidence: simulated
+data_source: Harry's Bar 配方
+version: 1
 ratings:
   vivino: {score: 4.1, votes: 47164}
   diffords: {score: 4.06, year: 2023}
   iba: {score: 3.8, year: 2020}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 林荫大道
@@ -131,3 +136,5 @@ Gwynne 是巴黎美国侨民，创办 Boulevardier 杂志，鸡尾酒以此致�
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Harry's Bar 配方
+- 数据置信度：simulated

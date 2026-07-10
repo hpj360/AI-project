@@ -4,10 +4,12 @@ title: 布兰迪年份布尔 1996
 category: ENT
 tags: [加强酒, 马德拉, Bual, 年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-fortified-justinos-madeira-sercial-10yo, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017]
 related_typed: {ENT-wine-fortified-justinos-madeira-sercial-10yo: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.0, votes: 35850}
   wine_spectator: {score: 82, year: 2021}
@@ -57,6 +59,17 @@ Estufagem 加热陈酿，橡木桶陈酿
 - **余味**：余味极悠长，带焦糖与辛香
 - **风味标签**：焦糖, 蜜饯, 坚果, 辛香
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 4 | ████░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -95,3 +108,5 @@ DOC Madeira Vintage Bual
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

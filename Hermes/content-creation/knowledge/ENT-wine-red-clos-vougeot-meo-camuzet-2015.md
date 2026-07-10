@@ -4,10 +4,12 @@ title: 伏旧园 Méo-Camuzet 2015
 category: ENT
 tags: [红酒, 勃艮第, 特级园]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-clos-vougeot-drc-2015, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
-related_typed: {ENT-wine-red-clos-vougeot-drc-2015: same_region, ENT-wine_red-off-002-bordeaux-2013: cross_region, ENT-wine_red-off-003-adama: cross_region, ENT-wine_red-off-004-pinot-noir: cross_region, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-red-clos-vougeot-drc-2015, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-red-clos-vougeot-drc-2015: same_region, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 47115}
   parker: {score: 87, year: 2023}
@@ -62,6 +64,17 @@ Méo-Camuzet 在伏旧园的份额，邻近城堡，结构深厚。
 - **余味**：余味悠长，带矿物与辛香
 - **风味标签**：红樱桃, 覆盆子, 松露, 香料
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -107,3 +120,5 @@ AOC Clos de Vougeot Grand Cru
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

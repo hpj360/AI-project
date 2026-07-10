@@ -4,10 +4,12 @@ title: Grappa Nonino
 category: ENT
 tags: [白兰地, 意大利, grappa, 葡萄渣]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 3.9, votes: 14156}
   wine_enthusiast: {score: 81, year: 2022}
@@ -57,6 +59,17 @@ Nonino Grappa，意大利葡萄渣白兰地代表，柔顺优雅。
 - **余味**：余味爽净，柔顺温暖
 - **风味标签**：葡萄, 梨, 花香
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -96,3 +109,5 @@ Nonino 1973 年首创单品种葡萄 Grappa。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

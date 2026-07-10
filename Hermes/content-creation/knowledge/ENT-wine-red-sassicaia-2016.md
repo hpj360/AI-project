@@ -4,10 +4,12 @@ title: 西施佳雅 2016
 category: ENT
 tags: [红酒, 意大利, 超级托斯卡纳, 赤霞珠]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-red-ornellaia-2016, ENT-wine-red-masseto-2016, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
-related_typed: {ENT-wine-red-ornellaia-2016: same_region, ENT-wine-red-masseto-2016: same_region, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-real-sassicaia, ENT-wine-red-ornellaia-2016, ENT-wine-red-masseto-2016, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-real-sassicaia: same_brand, ENT-wine-red-ornellaia-2016: same_region, ENT-wine-red-masseto-2016: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.6, votes: 16644}
   parker: {score: 84, year: 2022}
@@ -60,6 +62,17 @@ ratings:
 - **余味**：余味极悠长，带矿物与黑巧
 - **风味标签**：黑加仑, 雪松, 烟熏, 辛香
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 3 | ███░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 3 | ███░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -101,3 +114,5 @@ DOC Bolgheri Sassicaia（专属 DOC）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

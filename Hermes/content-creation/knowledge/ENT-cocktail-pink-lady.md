@@ -4,16 +4,21 @@ title: 粉红佳人
 category: ENT
 tags: [鸡尾酒, 短饮, 金酒, 石榴, 蛋白, 禁酒令]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
 related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
+data_confidence: official
+data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 31749}
   diffords: {score: 4.5, year: 2023}
   iba: {score: 5.0, year: 2023}
 awards:
   - {name: Tales of the Cocktail Best Cocktail, year: 2023, org: Tales of the Cocktail}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 粉红佳人
@@ -139,3 +144,5 @@ Pink Lady 也指 1940 年代好莱坞女星 Jean Harlow 偏爱的鸡尾酒。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

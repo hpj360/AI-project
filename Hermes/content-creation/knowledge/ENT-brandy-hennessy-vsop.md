@@ -4,10 +4,12 @@ title: 轩尼诗 VSOP
 category: ENT
 tags: [白兰地, 干邑, 法国, 轩尼诗]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop]
 related_typed: {ENT-brandy-hennessy-vs: same_brand, ENT-brandy-hennessy-xo: same_brand, ENT-brandy-hennessy-paradis: same_brand, ENT-brandy-hennessy-richard: same_region, ENT-brandy-martell-vsop: same_region}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 32425}
   wine_enthusiast: {score: 98, year: 2021}
@@ -59,6 +61,17 @@ awards:
 - **余味**：余味悠长，温暖平衡
 - **风味标签**：香草, 辛香, 橡木
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -102,3 +115,5 @@ VSOP（Very Superior Old Pale）最年轻生命之水陈酿至少 4 年。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

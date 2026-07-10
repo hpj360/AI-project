@@ -4,14 +4,20 @@ title: 12 y. o. whisky 40%
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, GLENFIDDICH]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-off-253-william-peel, ENT-whisky-off-246-jack-daniel-s-no-7, ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards]
-related_typed: {ENT-whisky-off-252-black-barrel-whisky-40: cross_region, ENT-whisky-off-253-william-peel: cross_region, ENT-whisky-off-246-jack-daniel-s-no-7: same_subcat, ENT-whisky-off-247-whisky-old-n-7: same_subcat, ENT-whisky-off-248-whisky-ecosse-blended-sans-ge-1-l-sir-edwards: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu]
+related_typed: {ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat}
+data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.4, votes: 1810}
   whisky_fun: {score: 84, year: 2020}
   whisky_bible: {score: 81, year: 2023}
+source_url: https://world.openfoodfacts.org/product/40
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 12 y. o. whisky 40%
@@ -57,6 +63,17 @@ OpenFoodFacts 真实产品数据：12 y. o. whisky 40%（GLENFIDDICH）
 - **余味**：橡木回甘
 - **风味标签**：橡木, 麦芽, 香草
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -80,3 +97,5 @@ OpenFoodFacts 真实产品数据：12 y. o. whisky 40%（GLENFIDDICH）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

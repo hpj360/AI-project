@@ -1,0 +1,114 @@
+---
+id: ENT-brand-remy-martin-vsop
+title: 人头马 VSOP
+category: ENT
+tags: [白兰地, 干邑, 法国, 人头马]
+status: active
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-xo, ENT-brandy-remy-martin-club, ENT-brand-hennessy-vsop, ENT-brand-martell-vsop]
+related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-xo: same_brand, ENT-brandy-remy-martin-club: same_brand, ENT-brand-hennessy-vsop: same_region, ENT-brand-martell-vsop: same_region}
+data_confidence: official
+data_source: 品牌官方/Wikipedia
+version: 1
+ratings:
+  vivino: {score: 4.8, votes: 35198}
+  wine_enthusiast: {score: 96, year: 2023}
+awards:
+  - {name: ISC Gold, year: 2023, org: ISC}
+  - {name: San Francisco Gold, year: 2023, org: San Francisco}
+source_url: https://en.wikipedia.org/wiki/vsop
+crawl_date: 2024-07-07
+version: 1
+---
+
+# 人头马 VSOP
+
+**Rémy Martin VSOP**
+
+## 概述
+
+法国干邑白兰地，大香槟区与小香槟区生命之水调和经典。
+
+## 图片参考
+
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=R%C3%A9my%20Martin%20VSOP%20brandy%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/R%C3%A9my%20Martin%20VSOP%20brandy)
+- [Google 图片](https://www.google.com/search?q=R%C3%A9my%20Martin%20VSOP%20brandy%20bottle&tbm=isch)
+
+## 基础信息
+
+- **中文名**：人头马 VSOP
+- **外文名**：Rémy Martin VSOP
+- **分类**：白兰地
+- **产地**：法国 / 法国干邑
+- **生产商**：Rémy Martin
+- **酒精度**：40%
+- **容量**：700ml
+- **参考价格（RMB）**：¥450-700
+- **价格档位**：advanced
+
+## 生产工艺
+
+- **原料**：葡萄、水、酵母
+- **酿造方法**：
+
+大香槟区与小香槟区生命之水调和，橡木桶陈酿
+- **陈酿方式**：法国橡木桶陈酿至少 4 年
+
+## 风味描述
+
+- **颜色**：金色
+- **香气**：杏、桃、香草、橡木
+- **口感**：果香、香草、橡木、蜂蜜
+- **余味**：柔顺果香回甘
+- **风味标签**：果香, 香草, 橡木
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 3 | ███░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 4 | ████░ |
+| 香 | 5 | █████ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 35198 |
+| Wine Enthusiast | 96 | 2023 |
+
+### 获奖记录
+
+- **2023** ISC Gold
+- **2023** San Francisco Gold
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 饮用指南
+
+- **适饮温度**：室温
+- **推荐酒杯**：烈酒杯
+- **佐餐搭配**：因酒而异
+
+## 文化背景
+
+### 历史
+
+1724 年由 Rémy Martin 创立于干邑，专注大香槟区与小香槟区生命之水。
+
+
+## 合规信息
+
+- **可购性**：市售
+- **合规提示**：理性饮酒，未成年人禁止饮酒
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：品牌官方/Wikipedia
+- 数据置信度：official

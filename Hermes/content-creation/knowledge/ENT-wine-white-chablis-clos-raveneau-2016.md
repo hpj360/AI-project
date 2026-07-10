@@ -4,10 +4,12 @@ title: 夏布利克罗 2016
 category: ENT
 tags: [白酒, 勃艮第, 夏布利, 特级园, 霞多丽]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine-white-chablis-vaudesir-dauvissat-2016, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine-white-chablis-preuses-dauvissat-2016: same_region, ENT-wine-white-chablis-vaudesir-dauvissat-2016: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 21486}
   parker: {score: 88, year: 2022}
@@ -61,6 +63,17 @@ awards:
 - **余味**：余味极悠长，带矿物与海盐
 - **风味标签**：柑橘, 白花, 牡蛎壳, 矿物
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -105,3 +118,5 @@ Les Clos 是夏布利 7 大特级园之首，Raveneau 拒绝使用新橡木桶�
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

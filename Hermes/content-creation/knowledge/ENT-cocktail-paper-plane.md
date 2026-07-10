@@ -4,16 +4,21 @@ title: 纸飞机
 category: ENT
 tags: [鸡尾酒, 现代经典, 波本, 阿佩罗, 等比]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-final-ward, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
 related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-final-ward: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
+data_confidence: simulated
+data_source: Milk & Honey 配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 15492}
   diffords: {score: 4.45, year: 2020}
   iba: {score: 5.0, year: 2021}
 awards:
   - {name: Tales of the Cocktail Best Cocktail, year: 2023, org: Tales of the Cocktail}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 纸飞机
@@ -138,3 +143,5 @@ awards:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Milk & Honey 配方
+- 数据置信度：simulated

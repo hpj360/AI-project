@@ -4,10 +4,12 @@ title: 紫罗兰时刻主教
 category: ENT
 tags: [鸡尾酒, 酒吧签名, 波本, 红酒, 现代]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-salty-dog, ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-off-243-whisky-40, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-cocktail-tokyo-tea]
-related_typed: {ENT-cocktail-salty-dog: same_region, ENT-whisky-off-242-ballantine-s-finest: base_to_cocktail, ENT-whisky-off-243-whisky-40: base_to_cocktail, ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: base_to_cocktail, ENT-cocktail-tokyo-tea: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-cocktail-salty-dog, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-tokyo-tea]
+related_typed: {ENT-cocktail-salty-dog: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-tokyo-tea: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 45277}
   diffords: {score: 4.41, year: 2021}
@@ -140,3 +142,5 @@ The Violet Hour 是芝加哥工艺鸡尾酒运动的先驱酒吧。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

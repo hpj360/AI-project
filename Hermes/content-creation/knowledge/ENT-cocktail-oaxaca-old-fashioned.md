@@ -4,10 +4,12 @@ title: 瓦哈卡古典
 category: ENT
 tags: [鸡尾酒, 现代经典, 梅斯卡尔, 龙舌兰, 古典]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-naked-famous, ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation]
 related_typed: {ENT-cocktail-naked-famous: same_brand, ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.6, votes: 21359}
   diffords: {score: 4.15, year: 2021}
@@ -136,3 +138,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

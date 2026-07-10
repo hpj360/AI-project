@@ -4,10 +4,12 @@ title: 瓦尔多普罗塞克
 category: ENT
 tags: [起泡酒, 普罗塞克, Valdo, 无年份]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-bisol-crede-nv, ENT-wine-sparkling-adami-garbel-nv, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken]
-related_typed: {ENT-wine-sparkling-bisol-cartizze-nv: same_region, ENT-wine-sparkling-bisol-crede-nv: same_region, ENT-wine-sparkling-adami-garbel-nv: same_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: cross_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-bisol-crede-nv, ENT-wine-sparkling-adami-garbel-nv, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
+related_typed: {ENT-wine-sparkling-bisol-cartizze-nv: same_region, ENT-wine-sparkling-bisol-crede-nv: same_region, ENT-wine-sparkling-adami-garbel-nv: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.4, votes: 3192}
   wine_spectator: {score: 81, year: 2023}
@@ -57,6 +59,17 @@ Charmat 法，不锈钢桶二次发酵
 - **余味**：余味短至中长，带果味
 - **风味标签**：青苹果, 白桃, 梨, 白花
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 3 | ███░░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -95,3 +108,5 @@ Valdo 是意大利起泡酒领军品牌之一，主打日常餐酒市场。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated

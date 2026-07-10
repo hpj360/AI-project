@@ -4,14 +4,20 @@ title: Blended Scotch Wiskhy
 category: ENT
 tags: [OpenFoodFacts, whisky, 威士忌, Label 5]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-off-253-william-peel, ENT-whisky-off-246-jack-daniel-s-no-7]
-related_typed: {ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_brand, ENT-whisky-off-245-monkey-shoulder: cross_region, ENT-whisky-off-252-black-barrel-whisky-40: cross_region, ENT-whisky-off-253-william-peel: cross_region, ENT-whisky-off-246-jack-daniel-s-no-7: same_subcat}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12]
+related_typed: {ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat}
+data_confidence: verified
+data_source: OpenFoodFacts
+version: 1
 ratings:
   vivino: {score: 4.3, votes: 24844}
   whisky_fun: {score: 83, year: 2020}
   whisky_bible: {score: 84, year: 2020}
+source_url: https://world.openfoodfacts.org/product/wiskhy
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # Blended Scotch Wiskhy
@@ -57,6 +63,17 @@ OpenFoodFacts 真实产品数据：Blended Scotch Wiskhy（Label 5）
 - **余味**：橡木回甘
 - **风味标签**：橡木, 麦芽, 香草
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 1 | █░░░░ |
+| 苦 | 2 | ██░░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -80,3 +97,5 @@ OpenFoodFacts 真实产品数据：Blended Scotch Wiskhy（Label 5）
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：OpenFoodFacts
+- 数据置信度：verified

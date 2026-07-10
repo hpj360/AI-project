@@ -4,16 +4,21 @@ title: 禁酒嘲弄者
 category: ENT
 tags: [鸡尾酒, 古典, 黑麦, 味美思, 禁酒令]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
 related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
+data_confidence: official
+data_source: IBA 官方配方
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 27366}
   diffords: {score: 4.41, year: 2022}
   iba: {score: 5.0, year: 2021}
 awards:
   - {name: Tales of the Cocktail Spirited Award, year: 2021, org: Tales of the Cocktail}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 禁酒嘲弄者
@@ -140,3 +145,5 @@ Scofflaw 一词由 1924 年波士顿禁酒令词汇比赛产生。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：IBA 官方配方
+- 数据置信度：official

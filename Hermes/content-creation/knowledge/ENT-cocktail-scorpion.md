@@ -4,14 +4,19 @@ title: 蝎子
 category: ENT
 tags: [鸡尾酒, Tiki, 朗姆, 白兰地, 橙, 美国]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
-related: [ENT-cocktail-fog-cutter, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-brandy-hennessy-xo]
-related_typed: {ENT-cocktail-fog-cutter: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: base_to_cocktail, ENT-rum-off-163-rhum-negrita: base_to_cocktail, ENT-rum-off-164-bumbu-original-rum-40: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail}
+created: 2026-07-10
+updated: 2026-07-10
+related: [ENT-cocktail-fog-cutter, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-brandy-hennessy-xo]
+related_typed: {ENT-cocktail-fog-cutter: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail}
+data_confidence: simulated
+data_source: Trader Vic 配方
+version: 1
 ratings:
   vivino: {score: 4.6, votes: 43817}
   diffords: {score: 4.16, year: 2023}
   iba: {score: 4.3, year: 2022}
+crawl_date: 2024-07-07
+version: 1
 ---
 
 # 蝎子
@@ -133,3 +138,5 @@ ratings:
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Trader Vic 配方
+- 数据置信度：simulated

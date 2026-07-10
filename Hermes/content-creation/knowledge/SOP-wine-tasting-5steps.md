@@ -1,0 +1,52 @@
+---
+id: SOP-wine-tasting-5steps
+title: 红酒品鉴五步法
+category: ENT
+tags: [SOP, 红酒, 品鉴]
+status: active
+created: 2026-07-10
+updated: 2026-07-10
+related: [SOP-white-wine-tasting, SOP-whisky-tasting, SOP-sake-tasting, SOP-baijiu-tasting, SOP-champagne-service]
+related_typed: {SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat, SOP-champagne-service: same_subcat}
+data_confidence: official
+data_source: WSET Level 2 Systematic Approach to Tasting
+version: 1
+crawl_date: 2024-07-07
+version: 1
+---
+
+# 红酒品鉴五步法
+
+## 概述
+
+专业的红酒品鉴标准流程：观色、闻香、品味、回味、评价。
+
+## 品鉴步骤
+
+### 1. 观色（Visual）
+- 将酒杯倾斜 45°，白色背景前观察
+- 评估：颜色深浅、透明度、酒腿（挂杯）
+- 红酒年龄判断：紫红（年轻）→ 宝石红（成熟）→ 砖红（陈年）
+
+### 2. 闻香（Nose）
+- 先不摇杯，轻闻初始香气
+- 摇杯 10 秒后，闻释放的香气
+- 红酒典型香气：红色水果、黑色水果、橡木、香料、皮革
+
+### 3. 品味（Palate）
+- 入口 5-10ml，让酒液覆盖舌面
+- 评估：甜度、酸度、单宁、酒体、酒精度
+- 注意各味觉的平衡度
+
+### 4. 回味（Finish）
+- 吞咽后感受余味长度
+- 短（<5秒）/中（5-15秒）/长（>15秒）
+
+### 5. 评价（Evaluate）
+- 综合评分：外观、香气、口感、回味、整体平衡
+
+
+## 参考资料
+
+- 数据来源：WSET Level 2 Systematic Approach to Tasting
+- 数据置信度：official

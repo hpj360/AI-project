@@ -4,10 +4,12 @@ title: 瑞加度尼亚白 2009
 category: ENT
 tags: [白酒, 西班牙, Viura, Rioja]
 status: active
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-10
+updated: 2026-07-10
 related: [ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
 related_typed: {ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009: same_brand, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
+data_confidence: simulated
+version: 1
 ratings:
   vivino: {score: 4.8, votes: 31351}
   parker: {score: 88, year: 2021}
@@ -61,6 +63,17 @@ Rioja 名家 López de Heredia，Tondonia 白葡萄酒长期桶陈。
 - **余味**：余味极悠长，带坚果与辛香
 - **风味标签**：坚果, 蜂蜜, 烟熏, 柑橘蜜饯
 
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 4 | ████░ |
+| 苦 | 1 | █░░░░ |
+| 烈 | 2 | ██░░░ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
 ## 评分奖项
 
 | 评分机构 | 评分 | 年份/票数 |
@@ -105,3 +118,5 @@ Tondonia 白葡萄酒仅在优秀年份酿造，桶陈 6 年后才上市。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：知识库整理
+- 数据置信度：simulated
