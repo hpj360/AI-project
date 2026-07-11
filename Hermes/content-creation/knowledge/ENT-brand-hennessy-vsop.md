@@ -2,10 +2,11 @@
 id: ENT-brand-hennessy-vsop
 title: 轩尼诗 VSOP
 category: ENT
+subcategory: brandy
 tags: [白兰地, 干邑, 法国, 轩尼诗]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-remy-martin-vsop, ENT-brand-martell-vsop, ENT-brand-courvoisier-vsop, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brand-remy-martin-vsop: same_region, ENT-brand-martell-vsop: same_region, ENT-brand-courvoisier-vsop: same_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: official

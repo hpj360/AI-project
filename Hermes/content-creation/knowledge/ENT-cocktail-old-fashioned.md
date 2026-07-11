@@ -2,10 +2,11 @@
 id: ENT-cocktail-old-fashioned
 title: 古典
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 古典, 威士忌, 禁酒令前]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
 related_typed: {ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
 data_confidence: official

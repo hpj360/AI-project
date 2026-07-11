@@ -2,10 +2,11 @@
 id: ENT-sake-off-113-amazake
 title: Amazake
 category: ENT
+subcategory: sake
 tags: [OpenFoodFacts, sake, 清酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-sake-off-096-cooking-sake, ENT-baike-sake-juyondai, ENT-baike-sake-hakutsuru, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake]
 related_typed: {ENT-sake-off-096-cooking-sake: same_region, ENT-baike-sake-juyondai: cross_region, ENT-baike-sake-hakutsuru: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: same_subcat}
 data_confidence: verified

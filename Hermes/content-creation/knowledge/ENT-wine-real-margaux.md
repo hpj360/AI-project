@@ -2,10 +2,11 @@
 id: ENT-wine-real-margaux
 title: 玛歌古堡
 category: ENT
+subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 玛歌, 一级庄]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-margaux-2015, ENT-wine-real-palmer, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux]
 related_typed: {ENT-wine-red-margaux-2015: same_brand, ENT-wine-real-palmer: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: same_subcat}
 data_confidence: official

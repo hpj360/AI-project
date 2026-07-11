@@ -2,10 +2,11 @@
 id: ENT-sake-nihonsakari
 title: 日本盛
 category: ENT
+subcategory: sake
 tags: [清酒, 日本, 本酿造, 日本盛, 爱知]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux]
 related_typed: {ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat}
 data_confidence: simulated

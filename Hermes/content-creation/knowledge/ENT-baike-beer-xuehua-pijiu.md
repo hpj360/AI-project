@@ -2,10 +2,11 @@
 id: ENT-baike-beer-xuehua-pijiu
 title: 雪花啤酒
 category: ENT
+subcategory: beer
 tags: [百度百科, beer, 雪花啤酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-baike-beer-qingdao-pijiu]
 related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-baike-beer-qingdao-pijiu: same_subcat}
 data_confidence: verified

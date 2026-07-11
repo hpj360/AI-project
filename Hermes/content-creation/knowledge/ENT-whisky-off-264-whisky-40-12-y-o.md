@@ -2,10 +2,11 @@
 id: ENT-whisky-off-264-whisky-40-12-y-o
 title: Whisky 40% 12 y. o
 category: ENT
+subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, CHIVAS REGAL]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12]
 related_typed: {ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat}
 data_confidence: verified

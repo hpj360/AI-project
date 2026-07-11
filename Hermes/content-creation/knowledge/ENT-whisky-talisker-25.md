@@ -2,10 +2,11 @@
 id: ENT-whisky-talisker-25
 title: 泰斯卡 25 年
 category: ENT
+subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 岛屿区]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-talisker-10, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony]
 related_typed: {ENT-whisky-talisker-10: same_brand, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat}
 data_confidence: simulated

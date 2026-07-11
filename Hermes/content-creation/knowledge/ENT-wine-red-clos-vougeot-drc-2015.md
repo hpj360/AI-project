@@ -2,10 +2,11 @@
 id: ENT-wine-red-clos-vougeot-drc-2015
 title: 伏旧园 DRC 2015
 category: ENT
+subcategory: wine_red
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-red-clos-vougeot-meo-camuzet-2015, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-red-clos-vougeot-meo-camuzet-2015: same_region, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated

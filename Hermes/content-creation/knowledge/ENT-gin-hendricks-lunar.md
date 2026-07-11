@@ -2,10 +2,11 @@
 id: ENT-gin-hendricks-lunar
 title: 亨利爵士 月之水滴
 category: ENT
+subcategory: gin
 tags: [金酒, 新西方, 英国, 亨利爵士, 限量]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-gin-hendricks, ENT-gin-off-119-hendrick-s-gin, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry]
 related_typed: {ENT-gin-hendricks: same_brand, ENT-gin-off-119-hendrick-s-gin: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat}
 data_confidence: simulated

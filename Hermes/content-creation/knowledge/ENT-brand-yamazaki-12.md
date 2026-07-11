@@ -2,10 +2,11 @@
 id: ENT-brand-yamazaki-12
 title: 山崎 12 年
 category: ENT
+subcategory: whisky
 tags: [威士忌, 日本, 单一麦芽]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black]
 related_typed: {ENT-brand-hibiki-harmony: same_brand, ENT-brand-hakushu: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat}
 data_confidence: official

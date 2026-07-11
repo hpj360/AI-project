@@ -2,10 +2,11 @@
 id: ENT-cocktail-ward-eight
 title: 第八选区
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 酸酒, 黑麦, 橙, 美国]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-ward-eight-sig, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-saketini]
 related_typed: {ENT-cocktail-ward-eight-sig: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
 data_confidence: simulated

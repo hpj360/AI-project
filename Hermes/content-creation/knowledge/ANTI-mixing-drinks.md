@@ -2,10 +2,11 @@
 id: ANTI-mixing-drinks
 title: 混酒饮用风险
 category: ENT
+subcategory: guide
 tags: [ANTI, 禁忌, 混酒, 安全]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [SOP-champagne-service, SOP-wine-decanting, SOP-cocktail-shaking, SOP-cocktail-stirring, SOP-cocktail-muddling]
 related_typed: {SOP-champagne-service: same_subcat, SOP-wine-decanting: same_subcat, SOP-cocktail-shaking: same_subcat, SOP-cocktail-stirring: same_subcat, SOP-cocktail-muddling: same_subcat}
 data_confidence: official

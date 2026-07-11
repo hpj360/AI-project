@@ -2,10 +2,11 @@
 id: ENT-wine-red-rauzan-segla-2016
 title: 鲁臣世家城堡 2016
 category: ENT
+subcategory: wine_red
 tags: [红酒, 波尔多, 玛歌]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-canon-2015, ENT-wine-red-margaux-2015, ENT-wine-red-palmer-2015, ENT-brand-penfolds-grange, ENT-brand-opus-one]
 related_typed: {ENT-wine-red-canon-2015: same_brand, ENT-wine-red-margaux-2015: same_region, ENT-wine-red-palmer-2015: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
 data_confidence: simulated

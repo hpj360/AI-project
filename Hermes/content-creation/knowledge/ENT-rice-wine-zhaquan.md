@@ -2,10 +2,11 @@
 id: ENT-rice-wine-zhaquan
 title: 扎泉酒
 category: ENT
+subcategory: rice_wine
 tags: [米酒, 扎泉, 传统]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-rice-wine-nuomi-jiu, ENT-rice-wine-tian-jiuniang, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu]
 related_typed: {ENT-rice-wine-nuomi-jiu: same_brand, ENT-rice-wine-tian-jiuniang: same_brand, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: same_subcat}
 data_confidence: simulated

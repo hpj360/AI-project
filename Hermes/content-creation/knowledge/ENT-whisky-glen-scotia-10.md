@@ -2,10 +2,11 @@
 id: ENT-whisky-glen-scotia-10
 title: 格兰帝 10 年
 category: ENT
+subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 坎贝尔敦]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson]
 related_typed: {ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat}
 data_confidence: simulated

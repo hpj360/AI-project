@@ -2,10 +2,11 @@
 id: ENT-wine-sparkling-raventos-i-blanc-manuel-nv
 title: 拉文托斯 2015
 category: ENT
+subcategory: wine_sparkling
 tags: [起泡酒, 卡瓦, Raventós, 年份, 单一园]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-049-mateus-ros-original]
 related_typed: {ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
 data_confidence: simulated

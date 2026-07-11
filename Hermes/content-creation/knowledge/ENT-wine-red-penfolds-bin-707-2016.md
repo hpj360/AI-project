@@ -2,10 +2,11 @@
 id: ENT-wine-red-penfolds-bin-707-2016
 title: 奔富 Bin 707 2016
 category: ENT
+subcategory: wine_red
 tags: [红酒, 澳洲, 赤霞珠]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-penfolds-grange-2015, ENT-wine-white-penfolds-yattarna-2016, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
 related_typed: {ENT-wine-red-penfolds-grange-2015: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
 data_confidence: simulated

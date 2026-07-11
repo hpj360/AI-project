@@ -2,10 +2,11 @@
 id: ENT-baijiu-laimao-chuancheng
 title: 赖茅 传承
 category: ENT
+subcategory: baijiu
 tags: [白酒, 酱香, 贵州, 赖茅]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baike-baijiu-maotai-feitian, ENT-baijiu-diaoyutai-guobin, ENT-baijiu-guotai-guobiao, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
 related_typed: {ENT-baike-baijiu-maotai-feitian: same_brand, ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-guotai-guobiao: same_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 data_confidence: simulated

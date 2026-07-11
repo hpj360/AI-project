@@ -1,6 +1,6 @@
 # 知识库全局索引
 
-> content-creation 酒类知识库 | 共 1551 条目 | 由 render_kb.py 维护
+> content-creation 酒类知识库 | 共 1708 条目 | 由 render_kb.py 维护
 
 ## 白酒（79）
 
@@ -1566,7 +1566,7 @@
 - [白佳人](./ENT-iba-white-lady.md) | 鸡尾酒 | IBA
 - [黄鸟](./ENT-iba-yellow-bird.md) | 鸡尾酒 | IBA
 
-## guide（40）
+## 指导性知识（40）
 
 - [酒精过敏识别与处理](./ANTI-allergy-alcohol.md) | ANTI | 禁忌
 - [暴饮危害与安全标准](./ANTI-binge-drinking.md) | ANTI | 禁忌
@@ -1609,10 +1609,194 @@
 - [葡萄酒储存规范](./SOP-wine-storage.md) | SOP | 葡萄酒
 - [红酒品鉴五步法](./SOP-wine-tasting-5steps.md) | SOP | 红酒
 
+## 购买指南（15）
+
+- [100元以内选酒指南](./DEC-buy-by-budget-100.md) | 购买 | 预算
+- [800-2000元选酒指南](./DEC-buy-by-budget-2000.md) | 购买 | 预算
+- [100-300元选酒指南](./DEC-buy-by-budget-300.md) | 购买 | 预算
+- [300-800元选酒指南](./DEC-buy-by-budget-800.md) | 购买 | 预算
+- [2000元以上高端选酒](./DEC-buy-by-budget-premium.md) | 购买 | 预算
+- [购酒渠道对比](./DEC-buy-channel-guide.md) | 购买 | 渠道
+- [期酒购买指南](./DEC-buy-en-primeur.md) | 购买 | 期酒
+- [商务宴请选酒](./DEC-buy-for-business.md) | 购买 | 商务宴请
+- [收藏目的选酒](./DEC-buy-for-collection.md) | 购买 | 收藏
+- [日常口粮酒选择](./DEC-buy-for-daily.md) | 购买 | 日常
+- [送礼选酒指南](./DEC-buy-for-gift.md) | 购买 | 送礼
+- [婚宴用酒选择](./DEC-buy-for-wedding.md) | 购买 | 婚宴
+- [进口酒购买指南](./DEC-buy-imported.md) | 购买 | 进口酒
+- [购后运输与储存](./DEC-buy-storage-transport.md) | 购买 | 运输
+- [年份选择指南](./DEC-buy-vintage-guide.md) | 购买 | 年份
+
+## 收藏投资（12）
+
+- [拍卖参与流程](./DEC-collect-auction.md) | 收藏投资 | 拍卖
+- [白酒收藏](./DEC-collect-baijiu.md) | 收藏投资 | 白酒
+- [葡萄酒收藏入门指南](./DEC-collect-basics.md) | 收藏投资 | 葡萄酒
+- [波尔多期酒制度](./DEC-collect-bordeaux.md) | 收藏投资 | 波尔多
+- [勃艮第收藏指南](./DEC-collect-burgundy.md) | 收藏投资 | 勃艮第
+- [中国白酒投资趋势](./DEC-collect-china-trend.md) | 收藏投资 | 中国白酒
+- [收藏退出策略](./DEC-collect-exit.md) | 收藏投资 | 退出策略
+- [Liv-ex指数解读](./DEC-collect-livex.md) | 收藏投资 | Liv-ex
+- [投资组合策略](./DEC-collect-portfolio.md) | 收藏投资 | 投资组合
+- [专业酒窖建设](./DEC-collect-storage.md) | 收藏投资 | 酒窖
+- [年份酒投资指南](./DEC-collect-vintage-chart.md) | 收藏投资 | 年份酒
+- [威士忌投资](./DEC-collect-whisky.md) | 收藏投资 | 威士忌
+
+## 假酒鉴别（12）
+
+- [汾酒防伪鉴别指南](./ANTI-fake-fenjiu.md) | 假酒鉴别 | 汾酒
+- [红星二锅头鉴别指南](./ANTI-fake-hongxing.md) | 假酒鉴别 | 红星
+- [拉菲酒标识别指南](./ANTI-fake-lafite.md) | 假酒鉴别 | 拉菲
+- [茅台防伪鉴别指南](./ANTI-fake-maotai.md) | 假酒鉴别 | 茅台
+- [茅台包装鉴别要点](./ANTI-fake-maotai-packaging.md) | 假酒鉴别 | 茅台
+- [甲醇中毒识别与预防](./ANTI-fake-methanol.md) | 假酒鉴别 | 甲醇中毒
+- [常见假酒造假手段](./ANTI-fake-methods.md) | 假酒鉴别 | 造假手段
+- [线上购酒防骗指南](./ANTI-fake-online-purchase.md) | 假酒鉴别 | 线上购酒
+- [举报假酒渠道指南](./ANTI-fake-report.md) | 假酒鉴别 | 举报
+- [威士忌通用鉴别方法](./ANTI-fake-whisky-general.md) | 假酒鉴别 | 威士忌
+- [葡萄酒通用鉴别方法](./ANTI-fake-wine-general.md) | 假酒鉴别 | 葡萄酒
+- [五粮液防伪鉴别指南](./ANTI-fake-wuliangye.md) | 假酒鉴别 | 五粮液
+
+## 酒具器皿（15）
+
+- [醒酒器类型与选择](./SOP-decanter-types.md) | 酒具器皿 | 醒酒器
+- [醒酒操作规范](./SOP-decanter-usage.md) | 酒具器皿 | 醒酒
+- [白酒酒具选择与使用](./SOP-glassware-baijiu.md) | 酒具器皿 | 白酒
+- [酒具清洁与保养](./SOP-glassware-care.md) | 酒具器皿 | 清洁保养
+- [鸡尾酒杯型大全](./SOP-glassware-cocktail.md) | 酒具器皿 | 鸡尾酒
+- [ISO标准品鉴杯详解](./SOP-glassware-iso-standard.md) | 酒具器皿 | 品鉴杯
+- [波尔多杯选择与使用](./SOP-glassware-red-bordeaux.md) | 酒具器皿 | 酒杯
+- [勃艮第杯选择与使用](./SOP-glassware-red-burgundy.md) | 酒具器皿 | 酒杯
+- [清酒酒具选择与使用](./SOP-glassware-sake.md) | 酒具器皿 | 清酒
+- [起泡酒杯选择与使用](./SOP-glassware-sparkling.md) | 酒具器皿 | 酒杯
+- [烈酒品鉴杯型对比](./SOP-glassware-spirits.md) | 酒具器皿 | 酒杯
+- [白葡萄酒杯选择与使用](./SOP-glassware-white.md) | 酒具器皿 | 酒杯
+- [冰具与温度控制](./SOP-ice-tool.md) | 酒具器皿 | 冰具
+- [开瓶操作规范](./SOP-opener-technique.md) | 酒具器皿 | 开瓶
+- [开瓶器类型与选择](./SOP-opener-types.md) | 酒具器皿 | 开瓶器
+
+## 葡萄品种（28）
+
+- [品丽珠](./GRAPE-cabernet-franc.md) | 葡萄品种 | 红品种
+- [赤霞珠](./GRAPE-cabernet-sauvignon.md) | 葡萄品种 | 红品种
+- [佳美娜](./GRAPE-carmenere.md) | 葡萄品种 | 红品种
+- [霞多丽](./GRAPE-chardonnay.md) | 葡萄品种 | 白品种
+- [白诗南](./GRAPE-chenin-blanc.md) | 葡萄品种 | 白品种
+- [贵人香](./GRAPE-feteasca-regala.md) | 葡萄品种 | 白品种
+- [琼瑶浆](./GRAPE-gewurztraminer.md) | 葡萄品种 | 白品种
+- [歌海娜](./GRAPE-grenache.md) | 葡萄品种 | 红品种
+- [绿维特利纳](./GRAPE-gruner-veltliner.md) | 葡萄品种 | 白品种
+- [甲州](./GRAPE-koshu.md) | 葡萄品种 | 白品种
+- [马尔贝克](./GRAPE-malbec.md) | 葡萄品种 | 红品种
+- [马瑟兰](./GRAPE-marselan.md) | 葡萄品种 | 红品种
+- [美乐](./GRAPE-merlot.md) | 葡萄品种 | 红品种
+- [慕合怀特](./GRAPE-mourvedre.md) | 葡萄品种 | 红品种
+- [密斯卡岱](./GRAPE-muscat.md) | 葡萄品种 | 白品种
+- [内比奥罗](./GRAPE-nebbiolo.md) | 葡萄品种 | 红品种
+- [小维多](./GRAPE-petit-verdot.md) | 葡萄品种 | 红品种
+- [灰皮诺](./GRAPE-pinot-gris.md) | 葡萄品种 | 白品种
+- [黑皮诺](./GRAPE-pinot-noir.md) | 葡萄品种 | 红品种
+- [雷司令](./GRAPE-riesling.md) | 葡萄品种 | 白品种
+- [桑娇维塞](./GRAPE-sangiovese.md) | 葡萄品种 | 红品种
+- [长相思](./GRAPE-sauvignon-blanc.md) | 葡萄品种 | 白品种
+- [赛美蓉](./GRAPE-semillon.md) | 葡萄品种 | 白品种
+- [西拉](./GRAPE-syrah.md) | 葡萄品种 | 红品种
+- [丹拿](./GRAPE-tannat.md) | 葡萄品种 | 红品种
+- [丹魄](./GRAPE-tempranillo.md) | 葡萄品种 | 红品种
+- [维欧尼](./GRAPE-viognier.md) | 葡萄品种 | 白品种
+- [增芳德](./GRAPE-zinfandel.md) | 葡萄品种 | 红品种
+
+## 法律法规（15）
+
+- [中国白酒GB/T国家标准](./LAW-cn-baijiu-gbt.md) | 法律法规 | 白酒
+- [中国饮酒年龄规定](./LAW-cn-drinking-age.md) | 法律法规 | 饮酒年龄
+- [中国酒类进口税率](./LAW-cn-import-tax.md) | 法律法规 | 进口税
+- [中国线上售酒规定](./LAW-cn-online-sale.md) | 法律法规 | 线上售酒
+- [欧盟有机葡萄酒认证标准](./LAW-eu-organic-wine.md) | 法律法规 | 欧盟
+- [欧盟烈酒法规](./LAW-eu-spirit-regulation.md) | 法律法规 | 欧盟
+- [欧盟葡萄酒法规](./LAW-eu-wine-regulation.md) | 法律法规 | 欧盟
+- [酒类广告限制](./LAW-int-advertising.md) | 法律法规 | 广告
+- [海关携酒入境限额](./LAW-int-customs.md) | 法律法规 | 海关
+- [各国酒驾标准](./LAW-int-driving-limit.md) | 法律法规 | 酒驾
+- [WHO全球酒精政策](./LAW-int-who-policy.md) | 法律法规 | WHO
+- [日本酒类税法](./LAW-jp-sake-law.md) | 法律法规 | 日本
+- [英国酒类税制](./LAW-uk-duty.md) | 法律法规 | 英国
+- [美国饮酒年龄规定](./LAW-us-drinking-age.md) | 法律法规 | 饮酒年龄
+- [美国TTB酒类法规](./LAW-us-ttb.md) | 法律法规 | TTB
+
+## 餐酒搭配（15）
+
+- [断塞/坏塞处理](./SOP-service-cork-failure.md) | 侍酒 | 断塞
+- [醒酒操作全流程](./SOP-service-decanting.md) | 侍酒 | 醒酒
+- [酒杯准备](./SOP-service-glass-prep.md) | 侍酒 | 酒杯
+- [家庭侍酒指南](./SOP-service-home.md) | 侍酒 | 家庭
+- [剩酒保存方法](./SOP-service-leftover.md) | 侍酒 | 剩酒
+- [专业开瓶操作规范](./SOP-service-opening.md) | 侍酒 | 开瓶
+- [上酒顺序规范](./SOP-service-order.md) | 侍酒 | 上酒顺序
+- [倒酒规范](./SOP-service-pouring.md) | 侍酒 | 倒酒
+- [餐厅侍酒全流程](./SOP-service-restaurant.md) | 侍酒 | 餐厅
+- [品鉴会组织规范](./SOP-service-tasting-flight.md) | 侍酒 | 品鉴会
+- [红酒侍酒温度指南](./SOP-service-temperature-red.md) | 侍酒 | 温度
+- [清酒侍酒温度](./SOP-service-temperature-sake.md) | 侍酒 | 温度
+- [起泡酒侍酒温度](./SOP-service-temperature-sparkling.md) | 侍酒 | 温度
+- [烈酒侍酒温度](./SOP-service-temperature-spirits.md) | 侍酒 | 温度
+- [白酒侍酒温度指南](./SOP-service-temperature-white.md) | 侍酒 | 温度
+
+## 场景推荐（15）
+
+- [生日庆祝用酒](./SCENE-birthday.md) | 场景 | 生日
+- [商务宴请用酒](./SCENE-business-dinner.md) | 场景 | 商务宴请
+- [圣诞节用酒](./SCENE-christmas.md) | 场景 | 圣诞
+- [公司活动用酒](./SCENE-company-event.md) | 场景 | 公司活动
+- [约会场景用酒](./SCENE-date-night.md) | 场景 | 约会
+- [送客户用酒](./SCENE-gift-client.md) | 场景 | 送礼
+- [送长辈用酒](./SCENE-gift-elder.md) | 场景 | 送礼
+- [中秋用酒推荐](./SCENE-mid-autumn.md) | 场景 | 中秋
+- [新年用酒](./SCENE-new-year.md) | 场景 | 新年
+- [派对聚会用酒](./SCENE-party.md) | 场景 | 派对
+- [独酌放松用酒](./SCENE-solo-relax.md) | 场景 | 独酌
+- [春节用酒推荐](./SCENE-spring-festival.md) | 场景 | 春节
+- [夏季户外用酒](./SCENE-summer-outdoor.md) | 场景 | 夏季
+- [婚宴用酒推荐清单](./SCENE-wedding.md) | 场景 | 婚宴
+- [冬季暖身用酒](./SCENE-winter-warm.md) | 场景 | 冬季
+
 ## spirits_intl（2）
 
 - [芝华士18年](./ENT-baike-spirits_intl-chivas-18.md) | 百度百科 | spirits_intl
 - [蓝带马爹利](./ENT-baike-spirits_intl-martell-cordon-bleu.md) | 百度百科 | spirits_intl
+
+## 行业趋势（30）
+
+- [AI品控应用](./TREND-ai-quality.md) | 行业趋势 | AI
+- [智能酒吧技术](./TREND-bar-tech.md) | 行业趋势 | 智能酒吧
+- [B Corp认证酒庄](./TREND-bcorp-certification.md) | 行业趋势 | B Corp
+- [生物动力法酿造](./TREND-biodynamic.md) | 行业趋势 | 生物动力法
+- [区块链葡萄酒溯源](./TREND-blockchain-wine.md) | 行业趋势 | 区块链
+- [酒类碳足迹管理](./TREND-carbon-footprint.md) | 行业趋势 | 碳足迹
+- [中国低度白酒趋势](./TREND-china-low-baijiu.md) | 行业趋势 | 低度白酒
+- [精酿烈酒社区](./TREND-craft-spirit-community.md) | 行业趋势 | 精酿
+- [脱醇工艺技术演进](./TREND-dealcoholization-tech.md) | 行业趋势 | 脱醇技术
+- [中国数字酒证](./TREND-digital-baijiu.md) | 行业趋势 | 数字酒证
+- [数字酒窖管理](./TREND-digital-cellar.md) | 行业趋势 | 数字酒窖
+- [Z世代饮酒习惯](./TREND-gen-z-drinking.md) | 行业趋势 | Z世代
+- [国潮白酒趋势](./TREND-guochao-baijiu.md) | 行业趋势 | 国潮
+- [硬苏打水热潮](./TREND-hard-seltzer.md) | 行业趋势 | 硬苏打
+- [直播带货选品策略](./TREND-live-commerce.md) | 行业趋势 | 直播带货
+- [低度鸡尾酒流行趋势](./TREND-low-abv-cocktail.md) | 行业趋势 | 低度化
+- [低无酒精饮品市场崛起](./TREND-low-alcohol-rise.md) | 行业趋势 | 低无酒精
+- [无酒精鸡尾酒文化兴起](./TREND-mocktail-culture.md) | 行业趋势 | 无酒精
+- [自然酒运动](./TREND-natural-wine.md) | 行业趋势 | 自然酒
+- [NFT酒证应用](./TREND-nft-wine.md) | 行业趋势 | NFT
+- [无醇啤酒快速发展](./TREND-non-alcoholic-beer.md) | 行业趋势 | 无醇啤酒
+- [无醇葡萄酒发展](./TREND-non-alcoholic-wine.md) | 行业趋势 | 无醇葡萄酒
+- [有机葡萄酒认证体系](./TREND-organic-wine.md) | 行业趋势 | 有机认证
+- [再生农业实践](./TREND-regenerative-agriculture.md) | 行业趋势 | 再生农业
+- [RFID追溯技术](./TREND-rfid-tracking.md) | 行业趋势 | RFID
+- [智能标签应用](./TREND-smart-label.md) | 行业趋势 | 智能标签
+- [可持续包装创新](./TREND-sustainable-packaging.md) | 行业趋势 | 可持续
+- [网红酒款分析](./TREND-viral-wine.md) | 行业趋势 | 网红酒
+- [节水酿造实践](./TREND-water-conservation.md) | 行业趋势 | 节水
+- [葡萄酒订阅服务](./TREND-wine-subscription.md) | 行业趋势 | 订阅服务
 
 ## wine（8）
 

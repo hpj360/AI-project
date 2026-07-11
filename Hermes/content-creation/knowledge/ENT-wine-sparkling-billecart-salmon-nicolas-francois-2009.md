@@ -2,10 +2,11 @@
 id: ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009
 title: 宝禄嘉尼古拉斯 2009
 category: ENT
+subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Billecart-Salmon, 年份]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-sparkling-philipponnat-clos-des-goisses-2012, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition]
 related_typed: {ENT-wine-sparkling-philipponnat-clos-des-goisses-2012: same_region, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_subcat}
 data_confidence: simulated

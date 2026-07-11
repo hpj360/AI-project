@@ -2,10 +2,11 @@
 id: ENT-cocktail-liquid-nitrogen-margarita
 title: 液氮玛格丽特
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 分子, 液氮, 龙舌兰, 冰沙]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
 related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
 data_confidence: simulated

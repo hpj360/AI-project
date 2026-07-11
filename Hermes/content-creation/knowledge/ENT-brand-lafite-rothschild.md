@@ -2,10 +2,11 @@
 id: ENT-brand-lafite-rothschild
 title: 拉菲古堡
 category: ENT
+subcategory: wine_red
 tags: [红酒, 波尔多, 一级庄, 赤霞珠, 拉菲]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-lafite-2010, ENT-wine-red-levangile-2015, ENT-brand-latour, ENT-brand-mouton-rothschild, ENT-brand-margaux]
 related_typed: {ENT-wine-red-lafite-2010: same_brand, ENT-wine-red-levangile-2015: same_brand, ENT-brand-latour: same_region, ENT-brand-mouton-rothschild: same_region, ENT-brand-margaux: same_subcat}
 data_confidence: official

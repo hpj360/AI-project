@@ -2,10 +2,11 @@
 id: ENT-brandy-hennessy-paradis
 title: 轩尼诗 百乐廷
 category: ENT
+subcategory: brandy
 tags: [白兰地, 干邑, 法国, 轩尼诗, 高端]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop]
 related_typed: {ENT-brandy-hennessy-vs: same_brand, ENT-brandy-hennessy-vsop: same_brand, ENT-brandy-hennessy-xo: same_brand, ENT-brandy-hennessy-richard: same_region, ENT-brandy-martell-vsop: same_region}
 data_confidence: simulated

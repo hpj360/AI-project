@@ -2,10 +2,11 @@
 id: ENT-cocktail-egg-nog
 title: 蛋奶酒
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 潘趣, 波本, 干邑, 圣诞]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-brandy-hennessy-xo, ENT-cocktail-saketini]
 related_typed: {ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-brandy-hennessy-xo: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
 data_confidence: official

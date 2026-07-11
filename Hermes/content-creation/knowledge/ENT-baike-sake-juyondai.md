@@ -2,10 +2,11 @@
 id: ENT-baike-sake-juyondai
 title: 十四代
 category: ENT
+subcategory: sake
 tags: [百度百科, sake, 十四代]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baike-sake-hakutsuru, ENT-sake-off-096-cooking-sake, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu]
 related_typed: {ENT-baike-sake-hakutsuru: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat}
 data_confidence: verified

@@ -2,10 +2,11 @@
 id: ENT-brandy-off-225-fine-cognac-martell-vs
 title: Fine Cognac MARTELL VS
 category: ENT
+subcategory: brandy
 tags: [OpenFoodFacts, brandy, 白兰地, MARTELL]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brandy-martell-vsop: same_brand, ENT-brandy-martell-xo: same_brand, ENT-brandy-martell-cordon-bleu: same_brand, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: verified

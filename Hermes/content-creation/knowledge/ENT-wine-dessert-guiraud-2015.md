@@ -2,10 +2,11 @@
 id: ENT-wine-dessert-guiraud-2015
 title: 吉哈达 2015
 category: ENT
+subcategory: wine_dessert
 tags: [甜酒, 苏玳, Guiraud, 一级庄]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-rieussec-2015]
 related_typed: {ENT-wine-dessert-yquem-2015: same_region, ENT-wine-dessert-suduiraut-2015: same_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: cross_region, ENT-wine-dessert-rieussec-2015: same_subcat}
 data_confidence: simulated

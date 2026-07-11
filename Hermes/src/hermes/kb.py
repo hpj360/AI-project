@@ -41,6 +41,7 @@ class Entry:
     source_url: str = ""  # 原始链接
     crawl_date: str = ""  # 抓取时间
     version: int = 1  # 数据版本
+    _fm_subcategory: str = ""  # frontmatter 中的规范化子类（优先于 id 推断）
     content: str = ""  # 正文 Markdown
     raw: str = ""  # 原始文件内容
     file_path: Optional[Path] = None
@@ -66,7 +67,7 @@ class Entry:
         if hasattr(self, "_cached_attrs"):
             return self._cached_attrs
         attrs = {
-            "subcategory": self.id.split("-")[1] if "-" in self.id else "",
+            "subcategory": self._fm_subcategory or (self.id.split("-")[1] if "-" in self.id else ""),
             "flavor_tags": [],
             "flavor_profile": {},
             "abv_num": None,
@@ -252,6 +253,7 @@ def load_entry(path: Path) -> Optional[Entry]:
         data_source=meta.get("data_source", ""),
         source_url=meta.get("source_url", ""),
         crawl_date=meta.get("crawl_date", ""),
+        _fm_subcategory=meta.get("subcategory", ""),
         version=int(meta.get("version", 1)) if isinstance(meta.get("version", 1), (int, str)) else 1,
         content=body,
         raw=raw,
@@ -609,7 +611,7 @@ class KnowledgeBase:
             if e.status not in VALID_STATUS:
                 report.invalid_status.append(f"{eid}: {e.status}")
             # 命名违规
-            if not re.match(r'^(ENT|PRJ|SOP|DEC|ANTI)-', eid):
+            if not re.match(r'^(ENT|PRJ|SOP|DEC|ANTI|GRAPE|REGION|PROC|LAW|TREND|SCENE)-', eid):
                 report.naming_violations.append(eid)
             # 缺 frontmatter（content 为空且 raw 不含 ---）
             if "---" not in e.raw[:20]:

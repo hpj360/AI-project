@@ -2,10 +2,11 @@
 id: ENT-brand-smirnoff-no21
 title: 斯米尔诺夫 21 号
 category: ENT
+subcategory: vodka
 tags: [伏特加, 俄罗斯, 英国, 原味]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-vodka-smirnoff-no-21, ENT-vodka-smirnoff-blue, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia]
 related_typed: {ENT-vodka-smirnoff-no-21: same_region, ENT-vodka-smirnoff-blue: same_region, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat}
 data_confidence: official

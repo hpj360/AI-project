@@ -2,10 +2,11 @@
 id: ENT-cocktail-dry-martini
 title: 干马天尼
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 古典, 金酒, 经典]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-manhattan, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan, ENT-cocktail-dirty-martini]
 related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region, ENT-cocktail-dirty-martini: same_region}
 data_confidence: official

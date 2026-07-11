@@ -2,10 +2,11 @@
 id: ENT-cocktail-old-cuban
 title: 老古巴
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 朗姆, 薄荷, 香槟]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-red-hook, ENT-cocktail-paper-plane, ENT-cocktail-final-ward, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
 related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-final-ward: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
 data_confidence: simulated

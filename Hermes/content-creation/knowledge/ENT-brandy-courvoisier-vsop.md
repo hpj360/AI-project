@@ -2,10 +2,11 @@
 id: ENT-brandy-courvoisier-vsop
 title: 拿破仑 VSOP
 category: ENT
+subcategory: brandy
 tags: [白兰地, 干邑, 法国, 拿破仑]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees, ENT-brand-courvoisier-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
 related_typed: {ENT-brandy-courvoisier-xo: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brand-courvoisier-vsop: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
 data_confidence: simulated

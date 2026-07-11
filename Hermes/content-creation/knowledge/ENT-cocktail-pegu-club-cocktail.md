@@ -2,10 +2,11 @@
 id: ENT-cocktail-pegu-club-cocktail
 title: 佩古俱乐部
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 金酒, 苦精, 缅甸]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-earl-grey-marteani, ENT-cocktail-gin-gin-mule, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito]
 related_typed: {ENT-cocktail-earl-grey-marteani: same_brand, ENT-cocktail-gin-gin-mule: same_brand, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat}
 data_confidence: simulated

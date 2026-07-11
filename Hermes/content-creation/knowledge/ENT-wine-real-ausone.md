@@ -2,10 +2,11 @@
 id: ENT-wine-real-ausone
 title: 欧颂古堡
 category: ENT
+subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 圣埃美隆, 一级A等]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-cheval-blanc, ENT-wine-real-troplong-mondot, ENT-wine-real-angelus, ENT-brand-lafite-rothschild, ENT-brand-latour]
 related_typed: {ENT-wine-real-cheval-blanc: same_region, ENT-wine-real-troplong-mondot: same_region, ENT-wine-real-angelus: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
 data_confidence: official

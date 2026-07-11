@@ -2,10 +2,11 @@
 id: ENT-whisky-kavalan-solist-vinho
 title: Kavalan 独奏 Vinho
 category: ENT
+subcategory: whisky
 tags: [威士忌, 台湾, 单一麦芽, 原桶强度]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-kavalan-classic, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal]
 related_typed: {ENT-whisky-kavalan-classic: same_brand, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat}
 data_confidence: simulated

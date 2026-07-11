@@ -2,10 +2,11 @@
 id: ENT-brand-haut-brion
 title: 奥比昂城堡
 category: ENT
+subcategory: wine_red
 tags: [红酒, 波尔多, 一级庄, 赤霞珠]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-haut-brion, ENT-wine-red-haut-brion-2016, ENT-wine-red-la-mission-haut-brion-2016, ENT-brand-lafite-rothschild, ENT-brand-latour]
 related_typed: {ENT-wine-real-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-wine-red-la-mission-haut-brion-2016: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
 data_confidence: official

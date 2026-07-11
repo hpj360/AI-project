@@ -179,19 +179,19 @@ CORRECTED_ABV_RANGES = {
     'vodka': (35, 50),       # 伏特加
     'rum': (35, 50),         # 朗姆酒
     'tequila': (35, 50),     # 龙舌兰
-    'wine_red': (11, 15),    # 红葡萄酒
-    'wine_white': (10, 14),  # 白葡萄酒
+    'wine_red': (11, 16),    # 红葡萄酒（温暖产区可达16%）
+    'wine_white': (7, 15),   # 白葡萄酒（德国Kabinett 8.5%，TBA 7%）
     'wine_sparkling': (10, 13), # 起泡酒
     'wine_fortified': (15, 22), # 加强酒
-    'wine_rose': (10, 13),   # 桃红
-    'wine_dessert': (8, 20), # 甜酒
+    'wine_rose': (10, 14.5), # 桃红（高端可达14%）
+    'wine_dessert': (5, 22), # 甜酒（Eszencia 5%，加强甜酒22%）
     'beer': (2, 12),         # 啤酒（修正：精酿可达12%）
     'sake': (5, 20),         # 清酒（修正：起泡清酒5%）
     'cocktail': (5, 40),     # 鸡尾酒（修正：纯饮型可达40%）
     'liqueur': (15, 40),     # 力娇酒
     'mead': (8, 18),         # 蜂蜜酒
-    'fruit_wine': (5, 18),   # 果酒
-    'rice_wine': (8, 22),    # 米酒
+    'fruit_wine': (3, 40),   # 果酒（低度发酵型3%，蒸馏型可达40%）
+    'rice_wine': (1, 55),    # 米酒（甜酒酿1%，蒸馏米酒可达55%）
     'yellow_wine': (8, 20),  # 黄酒
 }
 

@@ -2,10 +2,11 @@
 id: ENT-cocktail-zombie
 title: 僵尸
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, Tiki, 朗姆, 热带, 美国]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-navy-grog, ENT-cocktail-test-pilot, ENT-cocktail-nui-nui, ENT-cocktail-qb-cooler, ENT-brand-bacardi-carta-blanca]
 related_typed: {ENT-cocktail-navy-grog: same_region, ENT-cocktail-test-pilot: same_region, ENT-cocktail-nui-nui: same_region, ENT-cocktail-qb-cooler: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail}
 data_confidence: simulated

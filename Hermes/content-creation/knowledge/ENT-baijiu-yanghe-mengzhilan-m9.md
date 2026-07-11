@@ -2,10 +2,11 @@
 id: ENT-baijiu-yanghe-mengzhilan-m9
 title: 洋河 梦之蓝 M9
 category: ENT
+subcategory: baijiu
 tags: [白酒, 浓香, 江苏, 洋河]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baijiu-yanghe-haizhilan, ENT-baijiu-yanghe-tianzhilan, ENT-baijiu-yanghe-mengzhilan-m3, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
 related_typed: {ENT-baijiu-yanghe-haizhilan: same_brand, ENT-baijiu-yanghe-tianzhilan: same_brand, ENT-baijiu-yanghe-mengzhilan-m3: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
 data_confidence: simulated

@@ -2,10 +2,11 @@
 id: ENT-brandy-off-227-cognac-vsop-fine-champagne-40
 title: Cognac Vsop - Fine Champagne 40°
 category: ENT
+subcategory: brandy
 tags: [OpenFoodFacts, brandy, 白兰地, Rémy Martin]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-xo, ENT-brandy-remy-martin-club, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-xo: same_brand, ENT-brandy-remy-martin-club: same_brand, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: verified

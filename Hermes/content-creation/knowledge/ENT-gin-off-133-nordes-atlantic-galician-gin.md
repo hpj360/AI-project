@@ -2,10 +2,11 @@
 id: ENT-gin-off-133-nordes-atlantic-galician-gin
 title: Nordes Atlantic Galician Gin
 category: ENT
+subcategory: gin
 tags: [OpenFoodFacts, gin, 金酒, Nordes]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-gin-beefeater-24, ENT-gin-hendricks, ENT-gin-hendricks-lunar, ENT-gin-monkey-47, ENT-gin-deaths-door]
 related_typed: {ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat, ENT-gin-hendricks-lunar: same_subcat, ENT-gin-monkey-47: same_subcat, ENT-gin-deaths-door: same_subcat}
 data_confidence: verified

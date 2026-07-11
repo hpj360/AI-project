@@ -2,10 +2,11 @@
 id: ENT-wine-red-petrus-2015
 title: 柏图斯 2015
 category: ENT
+subcategory: wine_red
 tags: [红酒, 波尔多, 波美侯, 梅洛]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-trotanoy-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-red-trotanoy-2015: same_brand, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated

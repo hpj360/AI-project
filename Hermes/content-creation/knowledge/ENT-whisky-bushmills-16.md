@@ -2,10 +2,11 @@
 id: ENT-whisky-bushmills-16
 title: 布什米尔斯 16 年
 category: ENT
+subcategory: whisky
 tags: [威士忌, 爱尔兰, 单一麦芽, 三桶]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-bushmills-original, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson]
 related_typed: {ENT-whisky-bushmills-original: same_brand, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat}
 data_confidence: simulated

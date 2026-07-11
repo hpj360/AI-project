@@ -2,10 +2,11 @@
 id: ENT-wine-rose-charles-melton-rose-virginia-2019
 title: 查尔斯梅尔顿维吉尼亚桃红 2019
 category: ENT
+subcategory: wine_rose
 tags: [桃红, 澳洲, Barossa, Charles Melton]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-rose-whistler-rose-2020, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019]
 related_typed: {ENT-wine-rose-whistler-rose-2020: same_region, ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: same_subcat}
 data_confidence: simulated

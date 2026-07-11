@@ -2,10 +2,11 @@
 id: ENT-iba-champagne-cocktail
 title: 香槟鸡尾酒
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Champagne Cocktail, 摇和]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-maotai-martini, ENT-cocktail-chinese-colada, ENT-cocktail-jasmine-tea-cocktail, ENT-cocktail-yuzu-margarita, ENT-cocktail-lychee-martini]
 related_typed: {ENT-cocktail-maotai-martini: same_subcat, ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-jasmine-tea-cocktail: same_subcat, ENT-cocktail-yuzu-margarita: same_subcat, ENT-cocktail-lychee-martini: same_subcat}
 data_confidence: official

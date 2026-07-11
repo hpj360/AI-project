@@ -2,10 +2,11 @@
 id: ENT-whisky-glenlivet-12
 title: 格兰利威 12 年
 category: ENT
+subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-glenlivet-15-french-oak, ENT-whisky-glenlivet-18, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
 related_typed: {ENT-whisky-glenlivet-15-french-oak: same_brand, ENT-whisky-glenlivet-18: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region}
 data_confidence: simulated

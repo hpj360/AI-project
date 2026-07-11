@@ -2,10 +2,11 @@
 id: ENT-gin-gordons-elderflower
 title: 哥顿 接骨木花
 category: ENT
+subcategory: gin
 tags: [金酒, 调味金酒, 英国, 哥顿]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-gin-gordons-london-dry, ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
 related_typed: {ENT-gin-gordons-london-dry: same_brand, ENT-gin-off-125-premium-pink-distilled-gin: same_brand, ENT-gin-off-128-traditional-style-grilled-squid: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region}
 data_confidence: simulated

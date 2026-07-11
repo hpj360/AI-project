@@ -2,10 +2,11 @@
 id: ENT-sake-hakkaisan-ginjo
 title: 八海山 吟醸
 category: ENT
+subcategory: sake
 tags: [清酒, 日本, 吟醸, 八海山]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-genshu, ENT-sake-hakkaisan-3nen, ENT-sake-josen-mizunogotoshi]
 related_typed: {ENT-sake-hakkaisan-honjozo: same_brand, ENT-sake-hakkaisan-junmai-daiginjo: same_brand, ENT-sake-hakkaisan-genshu: same_brand, ENT-sake-hakkaisan-3nen: same_region, ENT-sake-josen-mizunogotoshi: same_region}
 data_confidence: simulated

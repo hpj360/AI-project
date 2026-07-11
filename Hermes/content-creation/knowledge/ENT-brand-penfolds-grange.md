@@ -2,10 +2,11 @@
 id: ENT-brand-penfolds-grange
 title: 奔富葛兰许
 category: ENT
+subcategory: wine_red
 tags: [红酒, 澳大利亚, 设拉子, 奔富]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-penfolds-grange-2015, ENT-wine-red-penfolds-bin-707-2016, ENT-wine-white-penfolds-yattarna-2016, ENT-wine-real-penfolds-grange, ENT-wine-real-penfolds-bin-389]
 related_typed: {ENT-wine-red-penfolds-grange-2015: same_brand, ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine-real-penfolds-grange: same_region, ENT-wine-real-penfolds-bin-389: same_region}
 data_confidence: official

@@ -2,10 +2,11 @@
 id: ENT-sake-kubota-hachiban
 title: 久保田 八番
 category: ENT
+subcategory: sake
 tags: [清酒, 日本, 纯米酒, 久保田]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-sake-kubota-senju, ENT-sake-kubota-manju, ENT-sake-kubota-suiju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-kuradashi-genshu]
 related_typed: {ENT-sake-kubota-senju: same_brand, ENT-sake-kubota-manju: same_brand, ENT-sake-kubota-suiju: same_brand, ENT-sake-kubota-hyakuju: same_region, ENT-sake-kubota-kuradashi-genshu: same_region}
 data_confidence: simulated

@@ -2,10 +2,11 @@
 id: ENT-cocktail-bloody-mary
 title: 血腥玛丽
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典, 伏特加, 番茄, 早午餐]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-mimosa, ENT-cocktail-bees-knees]
 related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-mimosa: same_region, ENT-cocktail-bees-knees: same_region}
 data_confidence: official

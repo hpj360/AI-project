@@ -2,10 +2,11 @@
 id: ENT-whisky-paul-john-brilliance
 title: 保罗约翰 经典
 category: ENT
+subcategory: whisky
 tags: [威士忌, 印度, 单一麦芽]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal, ENT-brand-glenmorangie-original]
 related_typed: {ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat, ENT-brand-glenmorangie-original: same_subcat}
 data_confidence: simulated

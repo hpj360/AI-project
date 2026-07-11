@@ -2,10 +2,11 @@
 id: ENT-whisky-off-265-black-label
 title: Black label
 category: ENT
+subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, Johnnie Walker]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-270-red-label, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12]
 related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_brand, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-270-red-label: same_brand, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat}
 data_confidence: verified

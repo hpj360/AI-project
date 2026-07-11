@@ -2,10 +2,11 @@
 id: ENT-wine-real-haut-brion
 title: 奥比昂古堡
 category: ENT
+subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 佩萨克-雷奥良, 一级庄]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-haut-brion, ENT-wine-red-haut-brion-2016, ENT-wine-red-la-mission-haut-brion-2016, ENT-brand-lafite-rothschild, ENT-brand-latour]
 related_typed: {ENT-brand-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-wine-red-la-mission-haut-brion-2016: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
 data_confidence: official

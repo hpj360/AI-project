@@ -2,10 +2,11 @@
 id: ENT-cocktail-in-the-rocks
 title: 岩石中
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 酒吧签名, 实验, 蛋壳]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-verbena, ENT-cocktail-mezcal-negroni, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball]
 related_typed: {ENT-cocktail-verbena: same_region, ENT-cocktail-mezcal-negroni: same_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat}
 data_confidence: simulated

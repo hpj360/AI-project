@@ -2,10 +2,11 @@
 id: ENT-wine-red-pingus-2015
 title: 平古斯 2015
 category: ENT
+subcategory: wine_red
 tags: [红酒, 西班牙, Ribera del Duero, 膜拜酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-vega-sicilia-unico-2010, ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
 related_typed: {ENT-wine-red-vega-sicilia-unico-2010: same_region, ENT-wine-red-pesquera-gran-reserva-2012: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated

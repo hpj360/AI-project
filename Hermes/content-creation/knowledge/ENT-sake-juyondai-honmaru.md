@@ -2,10 +2,11 @@
 id: ENT-sake-juyondai-honmaru
 title: 十四代 本丸
 category: ENT
+subcategory: sake
 tags: [清酒, 日本, 纯米酒, 十四代]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-sake-juyondai-ryugetsu, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-soko, ENT-sake-juyondai-shirakumo, ENT-baike-sake-juyondai]
 related_typed: {ENT-sake-juyondai-ryugetsu: same_brand, ENT-sake-juyondai-nana-tariki: same_brand, ENT-sake-juyondai-soko: same_brand, ENT-sake-juyondai-shirakumo: same_region, ENT-baike-sake-juyondai: same_subcat}
 data_confidence: simulated

@@ -2,10 +2,11 @@
 id: ENT-iba-porto-flip
 title: 波特翻转
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Porto Flip, 摇和]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-yuzu-margarita, ENT-cocktail-lychee-martini, ENT-cocktail-negroni, ENT-cocktail-americano, ENT-cocktail-margarita]
 related_typed: {ENT-cocktail-yuzu-margarita: same_subcat, ENT-cocktail-lychee-martini: same_subcat, ENT-cocktail-negroni: same_subcat, ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat}
 data_confidence: official

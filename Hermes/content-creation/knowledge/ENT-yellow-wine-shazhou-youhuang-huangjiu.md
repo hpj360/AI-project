@@ -2,10 +2,11 @@
 id: ENT-yellow-wine-shazhou-youhuang-huangjiu
 title: 沙洲优黄
 category: ENT
+subcategory: yellow_wine
 tags: [黄酒, 张家港, 沙洲优黄, 江苏]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 data_confidence: simulated
 version: 1
 related: [ENT-yellow-wine-shazhouyouhuang, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang]

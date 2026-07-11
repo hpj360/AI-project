@@ -2,10 +2,11 @@
 id: ENT-wine-real-ducru-beaucaillou
 title: 宝嘉龙古堡
 category: ENT
+subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 圣朱利安, 二级庄]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-leoville-las-cases, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-real-leoville-las-cases: same_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official

@@ -2,10 +2,11 @@
 id: ENT-brand-bombay-sapphire
 title: 孟买蓝宝石金酒
 category: ENT
+subcategory: gin
 tags: [金酒, 英国, 伦敦干金酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks]
 related_typed: {ENT-gin-gordons-london-dry: same_subcat, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat}
 data_confidence: official

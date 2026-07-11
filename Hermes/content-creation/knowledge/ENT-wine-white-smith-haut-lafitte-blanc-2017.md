@@ -2,10 +2,11 @@
 id: ENT-wine-white-smith-haut-lafitte-blanc-2017
 title: 史密斯拉菲特白 2017
 category: ENT
+subcategory: wine_white
 tags: [白酒, 波尔多, 赛美蓉, 长相思]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-white-haut-brion-blanc-2017, ENT-wine-white-domaine-de-chevalier-blanc-2017, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
 related_typed: {ENT-wine-white-haut-brion-blanc-2017: same_region, ENT-wine-white-domaine-de-chevalier-blanc-2017: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
 data_confidence: simulated

@@ -2,10 +2,11 @@
 id: ENT-tequila-off-186-tequila
 title: Tequila
 category: ENT
+subcategory: tequila
 tags: [OpenFoodFacts, tequila, 龙舌兰, San José]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco]
 related_typed: {ENT-brand-jose-cuervo-especial: cross_region, ENT-brand-patron-silver: cross_region, ENT-brand-don-julio-blanco: cross_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: same_subcat}
 data_confidence: verified

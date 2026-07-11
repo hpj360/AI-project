@@ -2,10 +2,11 @@
 id: ENT-iba-yellow-bird
 title: 黄鸟
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Yellow Bird, 摇和]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady, ENT-cocktail-bacardi-cocktail, ENT-cocktail-casablanca]
 related_typed: {ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat, ENT-cocktail-bacardi-cocktail: same_subcat, ENT-cocktail-casablanca: same_subcat}
 data_confidence: official

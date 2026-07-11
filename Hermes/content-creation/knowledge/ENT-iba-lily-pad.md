@@ -2,10 +2,11 @@
 id: ENT-iba-lily-pad
 title: 荷叶
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Lily Pad, 摇和]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-margarita, ENT-cocktail-daiquiri, ENT-cocktail-sazerac, ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta]
 related_typed: {ENT-cocktail-margarita: same_subcat, ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sazerac: same_subcat, ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat}
 data_confidence: official

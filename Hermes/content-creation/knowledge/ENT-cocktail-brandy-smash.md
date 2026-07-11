@@ -2,10 +2,11 @@
 id: ENT-cocktail-brandy-smash
 title: 白兰地斯马修
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 斯马修, 白兰地, 薄荷, 禁酒令前]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
 related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
 data_confidence: simulated

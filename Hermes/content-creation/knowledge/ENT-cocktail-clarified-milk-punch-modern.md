@@ -2,10 +2,11 @@
 id: ENT-cocktail-clarified-milk-punch-modern
 title: 现代澄清牛奶潘趣
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 创意, 澄清, 牛奶, 现代]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-brown-butter-rum-old-fashioned, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler]
 related_typed: {ENT-cocktail-brown-butter-rum-old-fashioned: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region}
 data_confidence: simulated

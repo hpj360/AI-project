@@ -2,10 +2,11 @@
 id: ENT-gin-haymans-old-tom
 title: 希克林 Old Tom
 category: ENT
+subcategory: gin
 tags: [金酒, old tom, 英国, 希克林]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-gin-haymans-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower]
 related_typed: {ENT-gin-haymans-london-dry: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region}
 data_confidence: simulated

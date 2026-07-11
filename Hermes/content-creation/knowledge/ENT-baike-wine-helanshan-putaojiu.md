@@ -2,10 +2,11 @@
 id: ENT-baike-wine-helanshan-putaojiu
 title: 贺兰山东麓葡萄酒
 category: ENT
+subcategory: wine_red
 tags: [百度百科, wine, 贺兰山东麓葡萄酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baike-wine-zhangyu-putaojiu, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu]
 related_typed: {ENT-baike-wine-zhangyu-putaojiu: cross_region, ENT-baike-wine-zhangyu-jiebaina: cross_region, ENT-baike-wine-changcheng-putaojiu: cross_region, ENT-baike-wine-wangchao-putaojiu: cross_region, ENT-baike-wine-weilong-putaojiu: same_subcat}
 data_confidence: verified
@@ -24,14 +25,14 @@ ratings:
 
 ## 图片参考
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=%E8%B4%BA%E5%85%B0%E5%B1%B1%E4%B8%9C%E9%BA%93%E8%91%A1%E8%90%84%E9%85%92%20wine%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/%E8%B4%BA%E5%85%B0%E5%B1%B1%E4%B8%9C%E9%BA%93%E8%91%A1%E8%90%84%E9%85%92%20wine)
-- [Google 图片](https://www.google.com/search?q=%E8%B4%BA%E5%85%B0%E5%B1%B1%E4%B8%9C%E9%BA%93%E8%91%A1%E8%90%84%E9%85%92%20wine%20bottle&tbm=isch)
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=%E8%B4%BA%E5%85%B0%E5%B1%B1%E4%B8%9C%E9%BA%93%E8%91%A1%E8%90%84%E9%85%92%20wine_red%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/%E8%B4%BA%E5%85%B0%E5%B1%B1%E4%B8%9C%E9%BA%93%E8%91%A1%E8%90%84%E9%85%92%20wine_red)
+- [Google 图片](https://www.google.com/search?q=%E8%B4%BA%E5%85%B0%E5%B1%B1%E4%B8%9C%E9%BA%93%E8%91%A1%E8%90%84%E9%85%92%20wine_red%20bottle&tbm=isch)
 
 ## 基础信息
 
 - **中文名**：贺兰山东麓葡萄酒
-- **分类**：wine
+- **分类**：红葡萄酒
 - **产地**：中国 / 宁夏回族自治区
 - **酒精度**：
 - **参考价格（RMB）**：¥50-200
@@ -41,11 +42,11 @@ ratings:
 
 | 维度 | 评分 (1-5) | 轮廓 |
 |------|-----------|------|
-| 甜 | 3 | ███░░ |
+| 甜 | 2 | ██░░░ |
 | 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
-| 香 | 3 | ███░░ |
+| 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 评分奖项

@@ -2,10 +2,11 @@
 id: ENT-gin-roku
 title: 罗斯福 Roku 六
 category: ENT
+subcategory: gin
 tags: [金酒, 日本, 三得利, 樱花]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-yamazaki-25, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
 related_typed: {ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-yamazaki-25: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: same_subcat}
 data_confidence: simulated

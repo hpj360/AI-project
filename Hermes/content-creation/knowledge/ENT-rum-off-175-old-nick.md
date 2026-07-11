@@ -2,10 +2,11 @@
 id: ENT-rum-off-175-old-nick
 title: Old Nick
 category: ENT
+subcategory: rum
 tags: [OpenFoodFacts, rum, 朗姆酒, Old Nick]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-rum-off-178-70cl-cocktail-mojito-old-nick, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita]
 related_typed: {ENT-rum-off-178-70cl-cocktail-mojito-old-nick: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat}
 data_confidence: verified

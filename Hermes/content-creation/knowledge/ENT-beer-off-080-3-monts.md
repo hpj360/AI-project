@@ -2,10 +2,11 @@
 id: ENT-beer-off-080-3-monts
 title: 3 Monts
 category: ENT
+subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒, 3 Monts]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu]
 related_typed: {ENT-beer-off-074-la-goudale-blonde-1l: same_region, ENT-beer-off-091-blonde-non-filtr-champ-libre: same_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat}
 data_confidence: verified

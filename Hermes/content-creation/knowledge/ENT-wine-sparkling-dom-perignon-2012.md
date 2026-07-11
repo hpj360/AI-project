@@ -2,10 +2,11 @@
 id: ENT-wine-sparkling-dom-perignon-2012
 title: 唐培里侬 2012
 category: ENT
+subcategory: wine_sparkling
 tags: [起泡酒, 香槟, LVMH, 霞多丽, 黑皮诺]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-sparkling-pol-roger-winston-churchill-2013, ENT-wine-sparkling-perrier-jouet-belle-epoque-2013, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 related_typed: {ENT-wine-sparkling-pol-roger-winston-churchill-2013: same_region, ENT-wine-sparkling-perrier-jouet-belle-epoque-2013: same_region, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 data_confidence: simulated

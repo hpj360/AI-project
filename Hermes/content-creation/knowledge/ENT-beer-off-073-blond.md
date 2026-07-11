@@ -2,10 +2,11 @@
 id: ENT-beer-off-073-blond
 title: Blond
 category: ENT
+subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒, Leffe]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu]
 related_typed: {ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr: same_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat}
 data_confidence: verified

@@ -2,10 +2,11 @@
 id: ENT-whisky-lagavulin-16
 title: 拉加维林 16 年
 category: ENT
+subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 烟熏]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-lagavulin-8, ENT-whisky-ardbeg-10, ENT-whisky-ardbeg-uigeadail, ENT-whisky-bowmore-12, ENT-whisky-bowmore-15]
 related_typed: {ENT-whisky-lagavulin-8: same_brand, ENT-whisky-ardbeg-10: same_region, ENT-whisky-ardbeg-uigeadail: same_region, ENT-whisky-bowmore-12: same_region, ENT-whisky-bowmore-15: same_region}
 data_confidence: simulated

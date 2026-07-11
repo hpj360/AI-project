@@ -2,10 +2,11 @@
 id: ENT-fruit-wine-black-cherry
 title: 黑樱桃酒
 category: ENT
+subcategory: fruit_wine
 tags: [果酒, 黑樱桃, 核果, 丹麦]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu]
 related_typed: {ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: same_subcat, ENT-fruit-wine-umenoyado-umeshu: same_subcat}
 data_confidence: simulated

@@ -2,10 +2,11 @@
 id: ENT-sake-takashimizu
 title: 高清水
 category: ENT
+subcategory: sake
 tags: [清酒, 日本, 纯米酒, 高清水, 秋田]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-sake-arabashiri-no6, ENT-sake-aramasa-amaneko, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu]
 related_typed: {ENT-sake-arabashiri-no6: same_region, ENT-sake-aramasa-amaneko: same_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat}
 data_confidence: simulated

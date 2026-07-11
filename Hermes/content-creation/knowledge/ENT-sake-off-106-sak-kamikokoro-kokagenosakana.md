@@ -2,10 +2,11 @@
 id: ENT-sake-off-106-sak-kamikokoro-kokagenosakana
 title: Saké Kamikokoro Kokagenosakana
 category: ENT
+subcategory: sake
 tags: [OpenFoodFacts, sake, 清酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baike-sake-juyondai, ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-baike-sake-hakutsuru]
 related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-baike-sake-hakutsuru: same_subcat}
 data_confidence: verified

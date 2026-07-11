@@ -2,10 +2,11 @@
 id: ENT-yellow-wine-kuaijishan-huangjiu
 title: 会稽山黄酒
 category: ENT
+subcategory: yellow_wine
 tags: [黄酒, 绍兴, 会稽山, 加饭]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 data_confidence: simulated
 version: 1
 related: [ENT-yellow-wine-kuaijishan, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y]

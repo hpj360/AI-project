@@ -2,10 +2,11 @@
 id: ENT-wine-real-moet-chandon
 title: 酩悦
 category: ENT
+subcategory: wine_sparkling
 tags: [起泡酒, 香槟, LVMH, 霞多丽, 黑皮诺, 皮诺莫尼耶]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-dom-perignon, ENT-wine-real-veuve-clicquot, ENT-wine-real-krug, ENT-wine-real-bollinger, ENT-wine-real-cristal]
 related_typed: {ENT-wine-real-dom-perignon: same_brand, ENT-wine-real-veuve-clicquot: same_region, ENT-wine-real-krug: same_region, ENT-wine-real-bollinger: same_region, ENT-wine-real-cristal: same_region}
 data_confidence: official

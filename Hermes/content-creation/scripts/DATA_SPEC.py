@@ -40,6 +40,20 @@ SUBCATEGORY_CN = {
     "mead": "蜂蜜酒",
     # 鸡尾酒
     "cocktail": "鸡尾酒",
+    # 知识类（非酒类）
+    "grape": "葡萄品种",
+    "region": "产区风土",
+    "process": "酿造工艺",
+    "law": "法律法规",
+    "fake": "假酒鉴别",
+    "collect": "收藏投资",
+    "glassware": "酒具器皿",
+    "pairing": "餐酒搭配",
+    "buying": "购买指南",
+    "scene": "场景推荐",
+    "trend": "行业趋势",
+    "aging": "陈年潜力",
+    "guide": "指导性知识",
 }
 
 

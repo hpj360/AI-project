@@ -2,10 +2,11 @@
 id: ENT-wine-red-solaia-2016
 title: 索拉雅 2016
 category: ENT
+subcategory: wine_red
 tags: [红酒, 意大利, 超级托斯卡纳]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-tignanello, ENT-wine-red-tignanello-2017, ENT-wine-red-flaccianello-2017, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
 related_typed: {ENT-wine-real-tignanello: same_brand, ENT-wine-red-tignanello-2017: same_brand, ENT-wine-red-flaccianello-2017: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
 data_confidence: simulated

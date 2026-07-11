@@ -2,10 +2,11 @@
 id: ENT-iba-chartreuse-swizzle
 title: 查特搅和
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Chartreuse Swizzle, 摇和]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-americano, ENT-cocktail-margarita, ENT-cocktail-daiquiri, ENT-cocktail-sidecar, ENT-cocktail-sazerac]
 related_typed: {ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat, ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sidecar: same_subcat, ENT-cocktail-sazerac: same_subcat}
 data_confidence: official

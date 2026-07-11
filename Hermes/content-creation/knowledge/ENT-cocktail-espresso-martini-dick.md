@@ -2,10 +2,11 @@
 id: ENT-cocktail-espresso-martini-dick
 title: 浓缩咖啡马天尼（迪克原版）
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 酒吧签名, 伏特加, 咖啡, 伦敦]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-bramble-freds, ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble]
 related_typed: {ENT-cocktail-bramble-freds: same_brand, ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region}
 data_confidence: simulated

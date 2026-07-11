@@ -2,10 +2,11 @@
 id: ENT-brandy-off-226-very-special-cognac
 title: Very Special Cognac
 category: ENT
+subcategory: brandy
 tags: [OpenFoodFacts, brandy, 白兰地, Hennessy]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu]
 related_typed: {ENT-brandy-hennessy-paradis: same_brand, ENT-brandy-hennessy-richard: same_brand, ENT-brandy-martell-vsop: same_subcat, ENT-brandy-martell-xo: same_subcat, ENT-brandy-martell-cordon-bleu: same_subcat}
 data_confidence: verified

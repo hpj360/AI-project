@@ -2,10 +2,11 @@
 id: ENT-brandy-pierre-ferrand-reserve
 title: 皮埃尔费朗 庄园珍藏
 category: ENT
+subcategory: brandy
 tags: [白兰地, 干邑, 法国, 皮埃尔费朗]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brandy-ferrand-1840-original, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis]
 related_typed: {ENT-brandy-ferrand-1840-original: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region, ENT-brandy-hennessy-paradis: same_region}
 data_confidence: simulated

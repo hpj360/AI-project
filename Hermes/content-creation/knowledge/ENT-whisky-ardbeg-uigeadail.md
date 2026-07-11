@@ -2,10 +2,11 @@
 id: ENT-whisky-ardbeg-uigeadail
 title: 雅伯 Uigeadail
 category: ENT
+subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 原桶强度]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-ardbeg-10, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8, ENT-whisky-bowmore-12, ENT-whisky-bowmore-15]
 related_typed: {ENT-whisky-ardbeg-10: same_brand, ENT-whisky-lagavulin-16: same_region, ENT-whisky-lagavulin-8: same_region, ENT-whisky-bowmore-12: same_region, ENT-whisky-bowmore-15: same_region}
 data_confidence: simulated

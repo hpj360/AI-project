@@ -2,10 +2,11 @@
 id: ENT-wine-white-chablis-vaudesir-dauvissat-2016
 title: 夏布利沃德西尔 2016
 category: ENT
+subcategory: wine_white
 tags: [白酒, 勃艮第, 夏布利, 特级园]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine-white-chablis-clos-raveneau-2016, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc]
 related_typed: {ENT-wine-white-chablis-preuses-dauvissat-2016: same_brand, ENT-wine-white-chablis-clos-raveneau-2016: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat}
 data_confidence: simulated

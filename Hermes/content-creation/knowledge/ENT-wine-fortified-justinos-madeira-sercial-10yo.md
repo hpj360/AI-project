@@ -2,10 +2,11 @@
 id: ENT-wine-fortified-justinos-madeira-sercial-10yo
 title: 朱斯蒂诺舍西亚尔十年马德拉
 category: ENT
+subcategory: wine_fortified
 tags: [加强酒, 马德拉, Sercial, 陈年]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-fortified-blandys-vintage-bual-1996, ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017]
 related_typed: {ENT-wine-fortified-blandys-vintage-bual-1996: same_region, ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_subcat}
 data_confidence: simulated

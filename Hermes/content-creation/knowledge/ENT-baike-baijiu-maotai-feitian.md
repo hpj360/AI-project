@@ -2,10 +2,11 @@
 id: ENT-baike-baijiu-maotai-feitian
 title: 飞天茅台酒
 category: ENT
+subcategory: baijiu
 tags: [百度百科, baijiu, 飞天茅台酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baijiu-laimao-chuancheng, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu, ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6]
 related_typed: {ENT-baijiu-laimao-chuancheng: same_brand, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat, ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat}
 data_confidence: verified

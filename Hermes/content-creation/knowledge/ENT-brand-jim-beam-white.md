@@ -2,10 +2,11 @@
 id: ENT-brand-jim-beam-white
 title: 金宾白标波本
 category: ENT
+subcategory: whisky
 tags: [威士忌, 美国, 肯塔基, 波本]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-makers-mark-bourbon, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch, ENT-whisky-four-roses-single-barrel, ENT-whisky-jim-bean-white]
 related_typed: {ENT-whisky-makers-mark-bourbon: same_region, ENT-whisky-makers-mark-46: same_region, ENT-whisky-four-roses-small-batch: same_region, ENT-whisky-four-roses-single-barrel: same_region, ENT-whisky-jim-bean-white: same_region}
 data_confidence: official

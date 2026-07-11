@@ -2,10 +2,11 @@
 id: ENT-whisky-green-spot
 title: 绿点
 category: ENT
+subcategory: whisky
 tags: [威士忌, 爱尔兰, 单一麦芽壶式]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-redbreast-12, ENT-whisky-redbreast-15, ENT-whisky-midleton-very-rare]
 related_typed: {ENT-whisky-jameson: same_region, ENT-whisky-jameson-black-barrel: same_region, ENT-whisky-redbreast-12: same_region, ENT-whisky-redbreast-15: same_region, ENT-whisky-midleton-very-rare: same_region}
 data_confidence: simulated

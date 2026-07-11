@@ -2,10 +2,11 @@
 id: ENT-baijiu-fenjiu-huangai-bofen
 title: 汾酒 黄盖玻汾
 category: ENT
+subcategory: baijiu
 tags: [白酒, 清香, 山西, 汾酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baijiu-fenjiu-laobaifen-10, ENT-baijiu-fenjiu-qinghua-30, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-fenjiu-laobaifen-10: same_brand, ENT-baijiu-fenjiu-qinghua-30: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: simulated

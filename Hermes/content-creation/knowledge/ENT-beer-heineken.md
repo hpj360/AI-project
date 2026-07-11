@@ -2,10 +2,11 @@
 id: ENT-beer-heineken
 title: 喜力啤酒
 category: ENT
+subcategory: beer
 tags: [啤酒, 荷兰, 喜力, 工业拉格]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-heineken, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu]
 related_typed: {ENT-brand-heineken: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: same_subcat}
 data_confidence: simulated

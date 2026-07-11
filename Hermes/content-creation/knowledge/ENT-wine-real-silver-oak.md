@@ -2,10 +2,11 @@
 id: ENT-wine-real-silver-oak
 title: 银橡
 category: ENT
+subcategory: wine_red
 tags: [红酒, 美国, 纳帕谷, 赤霞珠, 亚历山大谷]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-silver-oak-2014, ENT-wine-real-opus-one, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
 related_typed: {ENT-wine-red-silver-oak-2014: same_brand, ENT-wine-real-opus-one: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
 data_confidence: official

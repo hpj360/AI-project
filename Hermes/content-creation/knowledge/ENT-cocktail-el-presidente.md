@@ -2,10 +2,11 @@
 id: ENT-cocktail-el-presidente
 title: 总统
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 禁酒令, 朗姆, 味美思, 古巴]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-casablanca, ENT-cocktail-mojito, ENT-cocktail-mary-pickford, ENT-cocktail-cuba-libre, ENT-cocktail-hotel-nacional-special]
 related_typed: {ENT-cocktail-casablanca: same_region, ENT-cocktail-mojito: same_region, ENT-cocktail-mary-pickford: same_region, ENT-cocktail-cuba-libre: same_region, ENT-cocktail-hotel-nacional-special: same_region}
 data_confidence: simulated

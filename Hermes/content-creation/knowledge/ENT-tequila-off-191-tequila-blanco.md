@@ -2,10 +2,11 @@
 id: ENT-tequila-off-191-tequila-blanco
 title: Tequila Blanco
 category: ENT
+subcategory: tequila
 tags: [OpenFoodFacts, tequila, 龙舌兰, Sierra]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-194-sierra-tequila-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-184-sierra-tequila-silver]
 related_typed: {ENT-tequila-off-183-tequila-gold: same_brand, ENT-tequila-off-194-sierra-tequila-blanco: same_brand, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
 data_confidence: verified

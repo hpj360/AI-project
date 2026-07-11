@@ -2,10 +2,11 @@
 id: ENT-tequila-herradura-reposado
 title: 赫雷德拉 Herradura Reposado
 category: ENT
+subcategory: tequila
 tags: [龙舌兰, 墨西哥, 赫雷德拉, Reposado]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-patron-silver]
 related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-patron-silver: same_region}
 data_confidence: simulated

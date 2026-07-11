@@ -2,10 +2,11 @@
 id: ENT-mead-traditional
 title: 传统蜂蜜酒
 category: ENT
+subcategory: mead
 tags: [蜂蜜酒, 英国, 传统, mead]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-mead-melomel, ENT-mead-cyser, ENT-mead-ginger, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-melomel: same_brand, ENT-mead-cyser: same_region, ENT-mead-ginger: same_region, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
 data_confidence: simulated

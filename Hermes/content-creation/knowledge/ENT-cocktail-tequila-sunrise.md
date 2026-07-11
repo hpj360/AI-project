@@ -2,10 +2,11 @@
 id: ENT-cocktail-tequila-sunrise
 title: 龙舌兰日出
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典, 龙舌兰, 渐变]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-margarita, ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-cocktail-sake-bomb]
 related_typed: {ENT-cocktail-margarita: same_region, ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
 data_confidence: official

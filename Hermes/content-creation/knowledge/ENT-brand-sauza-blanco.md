@@ -2,10 +2,11 @@
 id: ENT-brand-sauza-blanco
 title: 绍扎 Blanco
 category: ENT
+subcategory: tequila
 tags: [龙舌兰, 墨西哥, 绍扎, Blanco]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold]
 related_typed: {ENT-brand-jose-cuervo-especial: same_region, ENT-brand-patron-silver: same_region, ENT-brand-don-julio-blanco: same_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat}
 data_confidence: official

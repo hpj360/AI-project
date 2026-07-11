@@ -2,10 +2,11 @@
 id: ENT-vodka-ketel-one
 title: 坎特一号 Ketel One
 category: ENT
+subcategory: vodka
 tags: [伏特加, 荷兰, Ketel One]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-gin-nolets-reserve, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka]
 related_typed: {ENT-gin-nolets-reserve: same_brand, ENT-vodka-off-142-poliakov: same_subcat, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat, ENT-vodka-off-145-vodka: same_subcat}
 data_confidence: simulated

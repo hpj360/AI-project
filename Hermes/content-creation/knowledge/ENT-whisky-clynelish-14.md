@@ -2,10 +2,11 @@
 id: ENT-whisky-clynelish-14
 title: 克里尼利基 14 年
 category: ENT
+subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 高地]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-glenmorangie-original, ENT-whisky-glenmorangie-lasanta, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-brand-jim-beam-white]
 related_typed: {ENT-whisky-glenmorangie-original: same_region, ENT-whisky-glenmorangie-lasanta: same_region, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-brand-jim-beam-white: same_subcat}
 data_confidence: simulated

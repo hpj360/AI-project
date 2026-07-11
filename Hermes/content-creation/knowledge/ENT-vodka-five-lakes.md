@@ -2,10 +2,11 @@
 id: ENT-vodka-five-lakes
 title: 五湖 Pyat Ozer
 category: ENT
+subcategory: vodka
 tags: [伏特加, 俄罗斯, 五湖]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-vodka-beluga, ENT-vodka-birch, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka]
 related_typed: {ENT-vodka-beluga: same_region, ENT-vodka-birch: same_region, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat, ENT-vodka-off-145-vodka: same_subcat}
 data_confidence: simulated

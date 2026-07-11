@@ -2,10 +2,11 @@
 id: ENT-beer-jing-a
 title: 京A啤酒
 category: ENT
+subcategory: beer
 tags: [啤酒, 中国, 京A, 精酿, 北京]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-snow, ENT-beer-yanjing, ENT-beer-great-leap, ENT-beer-slowboat, ENT-beer-nbpt]
 related_typed: {ENT-beer-snow: same_region, ENT-beer-yanjing: same_region, ENT-beer-great-leap: same_region, ENT-beer-slowboat: same_region, ENT-beer-nbpt: same_region}
 data_confidence: simulated

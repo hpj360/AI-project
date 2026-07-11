@@ -2,10 +2,11 @@
 id: ENT-baijiu-moutai-feitian-53
 title: 茅台飞天 53 度
 category: ENT
+subcategory: baijiu
 tags: [白酒, 酱香, 贵州, 茅台]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin, ENT-baijiu-laimao-chuancheng, ENT-baijiu-diaoyutai-guobin, ENT-baijiu-guotai-guobiao]
 related_typed: {ENT-baijiu-moutai-prince: same_brand, ENT-baijiu-moutai-yingbin: same_brand, ENT-baijiu-laimao-chuancheng: same_brand, ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-guotai-guobiao: same_region}
 data_confidence: simulated

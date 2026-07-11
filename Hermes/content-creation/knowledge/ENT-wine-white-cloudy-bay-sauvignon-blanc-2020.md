@@ -2,10 +2,11 @@
 id: ENT-wine-white-cloudy-bay-sauvignon-blanc-2020
 title: 云雾之湾长相思 2020
 category: ENT
+subcategory: wine_white
 tags: [白酒, 新世界, 长相思, 马尔堡]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-sparkling-cloudy-bay-pelorus-nv, ENT-wine-real-cloudy-bay, ENT-wine-white-dog-point-sauvignon-blanc-2020, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019]
 related_typed: {ENT-wine-sparkling-cloudy-bay-pelorus-nv: same_brand, ENT-wine-real-cloudy-bay: same_region, ENT-wine-white-dog-point-sauvignon-blanc-2020: same_region, ENT-wine-white-oyster-bay-sauvignon-blanc-2020: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: same_subcat}
 data_confidence: simulated

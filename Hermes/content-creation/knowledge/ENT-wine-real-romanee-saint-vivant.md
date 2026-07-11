@@ -2,10 +2,11 @@
 id: ENT-wine-real-romanee-saint-vivant
 title: 罗曼尼圣维旺
 category: ENT
+subcategory: wine_red
 tags: [红酒, 法国, 勃艮第, 沃恩-罗曼尼, 特级园, DRC, 黑皮诺]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-romanee-conti, ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-brand-mouton-rothschild]
 related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: official

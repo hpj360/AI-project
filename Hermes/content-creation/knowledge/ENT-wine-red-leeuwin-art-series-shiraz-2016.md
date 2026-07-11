@@ -2,10 +2,11 @@
 id: ENT-wine-red-leeuwin-art-series-shiraz-2016
 title: 露纹艺术系列设拉子 2016
 category: ENT
+subcategory: wine_red
 tags: [红酒, 澳洲, 设拉子, 玛格丽特河]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-white-leeuwin-art-series-chardonnay-2017, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto]
 related_typed: {ENT-wine-white-leeuwin-art-series-chardonnay-2017: same_brand, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat}
 data_confidence: simulated

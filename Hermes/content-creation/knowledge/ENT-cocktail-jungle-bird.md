@@ -2,10 +2,11 @@
 id: ENT-cocktail-jungle-bird
 title: 丛林鸟
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, Tiki, 黑朗姆, 金巴利, 菠萝]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: simulated

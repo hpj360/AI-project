@@ -2,10 +2,11 @@
 id: ENT-cocktail-bramble
 title: 荆棘
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代, 金酒, 黑莓]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-vesper, ENT-cocktail-gimlet]
 related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-vesper: same_region, ENT-cocktail-gimlet: same_region}
 data_confidence: official

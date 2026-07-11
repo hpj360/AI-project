@@ -2,10 +2,11 @@
 id: ENT-wine-real-clos-de-vougeot
 title: 沃热园
 category: ENT
+subcategory: wine_red
 tags: [红酒, 法国, 勃艮第, 沃热, 特级园, 黑皮诺]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-montrachet, ENT-wine-real-musigny, ENT-wine-real-chambertin, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-musigny: same_brand, ENT-wine-real-chambertin: same_brand, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
 data_confidence: official

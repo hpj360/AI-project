@@ -2,10 +2,11 @@
 id: ENT-wine-dessert-bonnezeaux-chateau-de-fesles-2017
 title: 波内索费斯酒庄 2017
 category: ENT
+subcategory: wine_dessert
 tags: [甜酒, 卢瓦尔, Bonnezeaux, 白诗南]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-dessert-quarts-de-chaume-baudouin-2016, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015]
 related_typed: {ENT-wine-dessert-quarts-de-chaume-baudouin-2016: same_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: same_subcat}
 data_confidence: simulated

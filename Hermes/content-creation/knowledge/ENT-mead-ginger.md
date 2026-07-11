@@ -2,10 +2,11 @@
 id: ENT-mead-ginger
 title: 姜蜂蜜酒
 category: ENT
+subcategory: mead
 tags: [蜂蜜酒, 英国, 姜, 香料]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-mead-strawberry, ENT-mead-blueberry, ENT-mead-peach, ENT-mead-traditional, ENT-mead-cyser]
 related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-traditional: same_region, ENT-mead-cyser: same_region}
 data_confidence: simulated

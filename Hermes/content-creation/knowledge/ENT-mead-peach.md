@@ -2,10 +2,11 @@
 id: ENT-mead-peach
 title: 桃子蜂蜜酒
 category: ENT
+subcategory: mead
 tags: [蜂蜜酒, 美国, 桃子, 水果]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-mead-strawberry, ENT-mead-blueberry, ENT-mead-cinnamon, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-blueberry: same_brand, ENT-mead-cinnamon: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
 data_confidence: simulated

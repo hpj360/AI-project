@@ -2,10 +2,11 @@
 id: ENT-vodka-off-144-smirnoff-ice
 title: smirnoff - ice
 category: ENT
+subcategory: vodka
 tags: [OpenFoodFacts, vodka, 伏特加, Smirnoff]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-smirnoff-no-21, ENT-vodka-smirnoff-blue, ENT-brand-belvedere, ENT-brand-stolichnaya]
 related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_brand, ENT-vodka-smirnoff-no-21: same_brand, ENT-vodka-smirnoff-blue: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: same_subcat}
 data_confidence: verified

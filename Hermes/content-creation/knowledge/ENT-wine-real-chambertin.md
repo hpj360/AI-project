@@ -2,10 +2,11 @@
 id: ENT-wine-real-chambertin
 title: 香贝丹
 category: ENT
+subcategory: wine_red
 tags: [红酒, 法国, 勃艮第, 热夫雷-香贝丹, 特级园, 黑皮诺]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-brand-haut-brion, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official

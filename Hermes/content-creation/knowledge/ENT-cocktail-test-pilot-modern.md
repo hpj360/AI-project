@@ -2,10 +2,11 @@
 id: ENT-cocktail-test-pilot-modern
 title: 试飞员（现代版）
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, Tiki, 黑朗姆, 查特酒, 现代]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-kamikaze, ENT-cocktail-melon-ball, ENT-cocktail-smoke-signal, ENT-cocktail-brown-derby, ENT-cocktail-westside]
 related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-melon-ball: same_region, ENT-cocktail-smoke-signal: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
 data_confidence: simulated

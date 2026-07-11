@@ -2,10 +2,11 @@
 id: ENT-brand-remy-martin-vsop
 title: 人头马 VSOP
 category: ENT
+subcategory: brandy
 tags: [白兰地, 干邑, 法国, 人头马]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-xo, ENT-brandy-remy-martin-club, ENT-brand-hennessy-vsop, ENT-brand-martell-vsop]
 related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-xo: same_brand, ENT-brandy-remy-martin-club: same_brand, ENT-brand-hennessy-vsop: same_region, ENT-brand-martell-vsop: same_region}
 data_confidence: official

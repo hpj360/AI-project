@@ -2,10 +2,11 @@
 id: ENT-cocktail-earl-grey-martini
 title: 伯爵茶马天尼
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 亚洲, 茶, 伯爵茶, 金酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper, ENT-cocktail-gimlet]
 related_typed: {ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region, ENT-cocktail-gimlet: same_region}
 data_confidence: simulated

@@ -2,10 +2,11 @@
 id: ENT-cocktail-greenpoint
 title: 绿点
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 黑麦, 查特酒, 苦精]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler]
 related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region}
 data_confidence: simulated

@@ -2,10 +2,11 @@
 id: ENT-wine-real-penfolds-bin-389
 title: 奔富389
 category: ENT
+subcategory: wine_red
 tags: [红酒, 澳大利亚, 南澳, 赤霞珠, 西拉, Penfolds]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-penfolds-grange, ENT-wine-real-penfolds-bin-707, ENT-wine-real-penfolds-st-henri, ENT-brand-penfolds-grange, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-real-penfolds-grange: same_brand, ENT-wine-real-penfolds-bin-707: same_brand, ENT-wine-real-penfolds-st-henri: same_brand, ENT-brand-penfolds-grange: same_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official

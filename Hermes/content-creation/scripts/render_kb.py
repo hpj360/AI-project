@@ -369,6 +369,173 @@ def _generate_image_urls(query: str, subcategory: str = "") -> list[tuple[str, s
 # 数据置信度判定 + 风味轮廓模板
 # ============================================================
 
+# 品牌→酒类子类映射（用于 brand 子类规范化）
+BRAND_TO_SUBCAT = {
+    # vodka
+    "absolut": "vodka", "belvedere": "vodka", "stolichnaya": "vodka",
+    "grey-goose": "vodka", "ciroc": "vodka", "tito-s": "vodka", "skyy": "vodka",
+    "sobieski": "vodka", "tito": "vodka", "kettle-one": "vodka",
+    # whisky
+    "chivas-regal": "whisky", "johnnie-walker": "whisky", "macallan": "whisky",
+    "glenfiddich": "whisky", "glenlivet": "whisky", "jameson": "whisky",
+    "jack-daniel-s": "whisky", "suntory": "whisky", "yamazaki": "whisky",
+    "lagavulin": "whisky", "laphroaig": "whisky", "ardbeg": "whisky",
+    "talisker": "whisky", "oban": "whisky", "dalmore": "whisky",
+    "hibiki": "whisky", "hakushu": "whisky", "nikka": "whisky",
+    "bulleit": "whisky", "crown-royal": "whisky", "glenmorangie": "whisky",
+    # gin
+    "beefeater": "gin", "bombay-sapphire": "gin", "tanqueray": "gin",
+    "aviation-gin": "gin", "hendricks": "gin", "gordon-s": "gin",
+    "nolet-s": "gin", "plymouth": "gin", "sipsmith": "gin",
+    # rum
+    "bacardi": "rum", "captain-morgan": "rum", "malibu": "rum",
+    "morgan": "rum", "diplomatico": "rum", "havana-club": "rum",
+    "zacapa": "rum", "myers-s": "rum", "appleton": "rum",
+    # tequila
+    "patron": "tequila", "don-julio": "tequila", "jose-cuervo": "tequila",
+    "herradura": "tequila", "1800": "tequila", "el-tesoro": "tequila",
+    "sauza": "tequila", "casamigos": "tequila",
+    # brandy
+    "hennessy": "brandy", "remy-martin": "brandy", "courvoisier": "brandy",
+    "martell": "brandy", "asbach": "brandy", "torres": "brandy",
+    "cognac": "brandy", "armagnac": "brandy",
+    # beer
+    "budweiser": "beer", "corona": "beer", "heineken": "beer",
+    "stella-artois": "beer", "guinness": "beer", "tsingtao": "beer",
+    "carlsberg": "beer", "asahi": "beer", "sapporo": "beer",
+    # liqueur
+    "baileys": "liqueur", "kahlua": "liqueur", "grand-marnier": "liqueur",
+    "cointreau": "liqueur", "amaretto": "liqueur", "chambord": "liqueur",
+    "midori": "liqueur", "galliano": "liqueur", "drambuie": "liqueur",
+    # wine_sparkling
+    "dom-perignon": "wine_sparkling", "moet-chandon": "wine_sparkling",
+    "veuve-clicquot": "wine_sparkling", "krug": "wine_sparkling",
+    "perrier-jouet": "wine_sparkling", "tatiinger": "wine_sparkling",
+    "laurent-perrier": "wine_sparkling", "ruinart": "wine_sparkling",
+}
+
+# 需要归入 guide 的拆碎子类
+_GUIDE_SUBCATS = {
+    "allergy", "binge", "driving", "empty", "energy", "food", "interaction",
+    "medication", "minor", "mixing", "party", "pregnancy", "price", "red",
+    "white", "champagne", "temperature", "gift", "sop", "dec", "anti",
+    "tasting_sop", "guide",
+}
+
+
+def _normalize_subcategory(entry: dict) -> str:
+    """规范化子类（修复命名混乱）。
+
+    规则：
+    1. wine → 从 id 提取细分（wine-dessert → wine_dessert）
+    2. brand → 从 id 查品牌映射表
+    3. baike → 从 id 提取酒类
+    4. iba → cocktail
+    5. fruit/rice/yellow → 补全为 fruit_wine/rice_wine/yellow_wine
+    6. 拆碎的SOP子类 → guide
+    7. 新知识类子类（grape/region/process/law等）保持原值
+    8. 其他保持原值
+    """
+    subcat = entry.get("subcategory", "")
+    eid = entry.get("id", "")
+
+    # 新增知识类子类直接保留
+    if subcat in ("grape", "region", "process", "law", "fake", "collect",
+                  "glassware", "pairing", "buying", "scene", "trend", "aging"):
+        return subcat
+
+    # wine 拆分：从 id 提取（ENT-wine-dessert-xxx → wine_dessert）
+    if subcat == "wine" or (subcat == "" and "ENT-wine-" in eid):
+        rest = eid.replace("ENT-wine-", "").replace("ENT-brand-wine-", "")
+        wine_types = ["dessert", "red", "white", "sparkling", "rose",
+                      "fortified", "red-off", "white-off"]
+        for wt in wine_types:
+            if rest.startswith(wt):
+                return f"wine_{wt.replace('-off', '')}"
+        # brand 类含酒名关键词推断
+        name = (entry.get("title", "") + entry.get("name_en", "")).lower()
+        if any(k in name for k in ["champagne", "sparkling", "brut", "crémant"]):
+            return "wine_sparkling"
+        if any(k in name for k in ["port", "sherry", "madeira", "marsala", "vermouth"]):
+            return "wine_fortified"
+        if any(k in name for k in ["sauternes", "tokaji", "icewine", "ice-wine", "late harvest"]):
+            return "wine_dessert"
+        if any(k in name for k in ["rosé", "rose", "rosado", "blush"]):
+            return "wine_rose"
+        if any(k in name for k in ["chardonnay", "sauvignon blanc", "riesling", "pinot gris", "gewürztraminer"]):
+            return "wine_white"
+        return "wine_red"
+
+    # brand 子类：查品牌映射表
+    if subcat == "brand":
+        brand_key = eid.replace("ENT-brand-", "").lower()
+        # 尝试完整匹配
+        if brand_key in BRAND_TO_SUBCAT:
+            return BRAND_TO_SUBCAT[brand_key]
+        # 尝试前缀匹配（品牌名可能有多个词）
+        for bkey, bsub in BRAND_TO_SUBCAT.items():
+            if brand_key.startswith(bkey) or bkey in brand_key:
+                return bsub
+        # 按品牌名关键词推断
+        name = (entry.get("title", "") + entry.get("name_en", "")).lower()
+        if any(k in name for k in ["vodka"]):
+            return "vodka"
+        if any(k in name for k in ["whisky", "whiskey", "scotch", "bourbon"]):
+            return "whisky"
+        if any(k in name for k in ["cognac", "brandy", "armagnac"]):
+            return "brandy"
+        if any(k in name for k in ["gin"]):
+            return "gin"
+        if any(k in name for k in ["rum"]):
+            return "rum"
+        if any(k in name for k in ["tequila", "mezcal"]):
+            return "tequila"
+        if any(k in name for k in ["liqueur", "liqueur"]):
+            return "liqueur"
+        if any(k in name for k in ["beer", "lager", "ale", "stout", "pilsner"]):
+            return "beer"
+        if any(k in name for k in ["champagne", "sparkling"]):
+            return "wine_sparkling"
+        return "other_spirit"
+
+    # baike 子类：从 id 提取酒类
+    if subcat == "baike" or eid.startswith("ENT-baike-"):
+        rest = eid.replace("ENT-baike-", "")
+        baike_map = {
+            "baijiu": "baijiu", "whisky": "whisky", "brandy": "brandy",
+            "gin": "gin", "vodka": "vodka", "rum": "rum", "tequila": "tequila",
+            "beer": "beer", "wine_red": "wine_red", "wine_white": "wine_white",
+            "wine_sparkling": "wine_sparkling", "wine": "wine_red",
+            "sake": "sake", "liqueur": "liqueur",
+            "yellow_wine": "yellow_wine", "yellow": "yellow_wine",
+            "rice_wine": "rice_wine", "rice": "rice_wine",
+            "fruit_wine": "fruit_wine", "fruit": "fruit_wine",
+            "mead": "mead",
+        }
+        for prefix, mapped in baike_map.items():
+            if rest.startswith(prefix):
+                return mapped
+        return "other_spirit"
+
+    # iba 子类 → cocktail
+    if subcat == "iba" or eid.startswith("ENT-iba-"):
+        return "cocktail"
+
+    # 截断子类补全
+    if subcat == "fruit":
+        return "fruit_wine"
+    if subcat == "rice":
+        return "rice_wine"
+    if subcat == "yellow":
+        return "yellow_wine"
+
+    # 拆碎的SOP/DEC/ANTI子类 → guide
+    if subcat in _GUIDE_SUBCATS:
+        return "guide"
+
+    return subcat
+
+
 # 数据源 → 置信度等级映射
 # official: 权威机构（IBA/WSET/WHO/CDC/官方标准）
 # verified: 已验证真实数据（百度百科/Wikipedia/品牌官方/OpenFoodFacts）
@@ -459,6 +626,11 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
     tags = entry.get("tags", [])
     related = entry.get("related", [])
 
+    # P0: 子类规范化（修复 wine/brand/baike/iba/截断子类 命名混乱）
+    normalized_subcat = _normalize_subcategory(entry)
+    if normalized_subcat and normalized_subcat != entry.get("subcategory", ""):
+        entry = {**entry, "subcategory": normalized_subcat}
+
     # 数据置信度判定（P2: 数据可信度保障）
     data_confidence, data_source = _determine_data_confidence(entry)
 
@@ -467,6 +639,7 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
           f"id: {eid}",
           f"title: {title}",
           f"category: {cat}",
+          f"subcategory: {entry.get('subcategory', '')}",
           f"tags: [{', '.join(tags)}]",
           "status: active",
           f"created: {TODAY}",

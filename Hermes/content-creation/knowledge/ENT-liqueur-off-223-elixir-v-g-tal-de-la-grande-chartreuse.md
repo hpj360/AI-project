@@ -2,10 +2,11 @@
 id: ENT-liqueur-off-223-elixir-v-g-tal-de-la-grande-chartreuse
 title: Elixir végétal de la Grande-Chartreuse
 category: ENT
+subcategory: liqueur
 tags: [OpenFoodFacts, liqueur, 利口酒, Chartreuse]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-liqueur-off-217-chartreuse, ENT-liqueur-off-203-baileys-original-irish-cream, ENT-liqueur-off-211-davide-campari-bitter-tonic, ENT-liqueur-off-215-lik-r-kahl-a-kaffee, ENT-liqueur-off-204-aperol]
 related_typed: {ENT-liqueur-off-217-chartreuse: same_brand, ENT-liqueur-off-203-baileys-original-irish-cream: cross_region, ENT-liqueur-off-211-davide-campari-bitter-tonic: cross_region, ENT-liqueur-off-215-lik-r-kahl-a-kaffee: cross_region, ENT-liqueur-off-204-aperol: same_subcat}
 data_confidence: verified

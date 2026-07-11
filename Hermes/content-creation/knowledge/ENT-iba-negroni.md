@@ -2,10 +2,11 @@
 id: ENT-iba-negroni
 title: 尼格罗尼
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 难忘杯（The Unforgettables）, Negroni, 摇和]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-makgeolli-cocktail, ENT-cocktail-baijiu-sour, ENT-cocktail-maotai-martini, ENT-cocktail-chinese-colada, ENT-cocktail-earl-grey-martini]
 related_typed: {ENT-cocktail-makgeolli-cocktail: same_subcat, ENT-cocktail-baijiu-sour: same_subcat, ENT-cocktail-maotai-martini: same_subcat, ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-earl-grey-martini: same_subcat}
 data_confidence: official

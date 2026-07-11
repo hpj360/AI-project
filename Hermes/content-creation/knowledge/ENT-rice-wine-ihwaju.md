@@ -2,10 +2,11 @@
 id: ENT-rice-wine-ihwaju
 title: 韩国梨花酒
 category: ENT
+subcategory: rice_wine
 tags: [米酒, 韩国, 梨花酒, 传统]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-rice-wine-makgeolli, ENT-rice-wine-yakju, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu]
 related_typed: {ENT-rice-wine-makgeolli: same_brand, ENT-rice-wine-yakju: same_brand, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: same_subcat}
 data_confidence: simulated

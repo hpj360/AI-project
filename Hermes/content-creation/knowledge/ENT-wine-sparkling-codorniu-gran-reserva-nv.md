@@ -2,10 +2,11 @@
 id: ENT-wine-sparkling-codorniu-gran-reserva-nv
 title: 卡瓦世家格兰珍藏
 category: ENT
+subcategory: wine_sparkling
 tags: [起泡酒, 卡瓦, Codorníu, 传统法]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-juve-y-camps-reserva-2017, ENT-wine_sparkling-off-048-clairette-de-die-tradition]
 related_typed: {ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_subcat}
 data_confidence: simulated

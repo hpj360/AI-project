@@ -2,10 +2,11 @@
 id: ENT-wine-red-levangile-2015
 title: 乐王吉城堡 2015
 category: ENT
+subcategory: wine_red
 tags: [红酒, 波尔多, 波美侯]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-lafite-2010, ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine-red-trotanoy-2015]
 related_typed: {ENT-wine-red-lafite-2010: same_brand, ENT-wine-red-petrus-2015: same_region, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-wine-red-trotanoy-2015: same_region}
 data_confidence: simulated

@@ -2,10 +2,11 @@
 id: ENT-beer-off-093-punk-ipa
 title: Punk IPA
 category: ENT
+subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒, Brewdog]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-brewdog-punk-ipa, ENT-beer-off-087-alus-brewdog-punk-ipa, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
 related_typed: {ENT-beer-brewdog-punk-ipa: same_brand, ENT-beer-off-087-alus-brewdog-punk-ipa: same_brand, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
 data_confidence: verified

@@ -2,10 +2,11 @@
 id: ENT-baike-spirits_intl-martell-cordon-bleu
 title: 蓝带马爹利
 category: ENT
+subcategory: other_spirit
 tags: [百度百科, spirits_intl, 蓝带马爹利]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baike-spirits_intl-chivas-18]
 related_typed: {ENT-baike-spirits_intl-chivas-18: same_subcat}
 data_confidence: verified
@@ -24,14 +25,14 @@ ratings:
 
 ## 图片参考
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=%E8%93%9D%E5%B8%A6%E9%A9%AC%E7%88%B9%E5%88%A9%20spirits_intl%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/%E8%93%9D%E5%B8%A6%E9%A9%AC%E7%88%B9%E5%88%A9%20spirits_intl)
-- [Google 图片](https://www.google.com/search?q=%E8%93%9D%E5%B8%A6%E9%A9%AC%E7%88%B9%E5%88%A9%20spirits_intl%20bottle&tbm=isch)
+- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=%E8%93%9D%E5%B8%A6%E9%A9%AC%E7%88%B9%E5%88%A9%20other_spirit%20bottle&title=Special:MediaSearch&type=image)
+- [Unsplash 图库](https://unsplash.com/s/photos/%E8%93%9D%E5%B8%A6%E9%A9%AC%E7%88%B9%E5%88%A9%20other_spirit)
+- [Google 图片](https://www.google.com/search?q=%E8%93%9D%E5%B8%A6%E9%A9%AC%E7%88%B9%E5%88%A9%20other_spirit%20bottle&tbm=isch)
 
 ## 基础信息
 
 - **中文名**：蓝带马爹利
-- **分类**：spirits_intl
+- **分类**：其他烈酒
 - **产地**：法国
 - **酒精度**：
 - **参考价格（RMB）**：¥50-200

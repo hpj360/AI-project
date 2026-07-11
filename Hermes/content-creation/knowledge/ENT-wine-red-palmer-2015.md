@@ -2,10 +2,11 @@
 id: ENT-wine-red-palmer-2015
 title: 宝玛城堡 2015
 category: ENT
+subcategory: wine_red
 tags: [红酒, 波尔多, 玛歌]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-margaux-2015, ENT-wine-red-rauzan-segla-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
 related_typed: {ENT-wine-red-margaux-2015: same_region, ENT-wine-red-rauzan-segla-2016: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: simulated

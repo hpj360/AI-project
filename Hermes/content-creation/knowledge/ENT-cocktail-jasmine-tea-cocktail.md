@@ -2,10 +2,11 @@
 id: ENT-cocktail-jasmine-tea-cocktail
 title: 茉莉花茶鸡尾酒
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 亚洲, 茶, 茉莉花茶, 中国]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
 related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
 data_confidence: simulated

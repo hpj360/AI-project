@@ -2,10 +2,11 @@
 id: ENT-wine-real-screaming-eagle
 title: 嘹鹰
 category: ENT
+subcategory: wine_red
 tags: [红酒, 美国, 纳帕谷, 赤霞珠, 膜拜酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-screaming-eagle-2015, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
 related_typed: {ENT-wine-red-screaming-eagle-2015: same_brand, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: official

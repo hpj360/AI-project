@@ -2,10 +2,11 @@
 id: ENT-beer-off-076-brasserie-de-gayant-la-goudale
 title: Brasserie de Gayant, La goudale
 category: ENT
+subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒, Brasserie de Gayant]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-baike-beer-taishan-pijiu]
 related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat}
 data_confidence: verified

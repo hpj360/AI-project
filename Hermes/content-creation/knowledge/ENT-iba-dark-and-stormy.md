@@ -2,10 +2,11 @@
 id: ENT-iba-dark-and-stormy
 title: 暴风骇浪
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Dark and Stormy, 直接注入]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-chinese-colada, ENT-cocktail-jasmine-tea-cocktail, ENT-cocktail-yuzu-margarita, ENT-cocktail-lychee-martini, ENT-cocktail-negroni]
 related_typed: {ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-jasmine-tea-cocktail: same_subcat, ENT-cocktail-yuzu-margarita: same_subcat, ENT-cocktail-lychee-martini: same_subcat, ENT-cocktail-negroni: same_subcat}
 data_confidence: official

@@ -2,10 +2,11 @@
 id: ENT-baijiu-hengshui-laobaigan-gufa-20
 title: 衡水老白干 古法 20
 category: ENT
+subcategory: baijiu
 tags: [白酒, 老白干香, 河北, 衡水老白干]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baijiu-hengshui-laobaigan-shijiujiufang, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
 related_typed: {ENT-baijiu-hengshui-laobaigan-shijiujiufang: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 data_confidence: simulated

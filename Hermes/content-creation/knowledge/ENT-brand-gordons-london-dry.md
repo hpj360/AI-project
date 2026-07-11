@@ -2,10 +2,11 @@
 id: ENT-brand-gordons-london-dry
 title: 哥顿伦敦干金酒
 category: ENT
+subcategory: gin
 tags: [金酒, 英国, 伦敦干金酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-tanqueray-london-dry, ENT-brand-beefeater-london-dry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry]
 related_typed: {ENT-brand-tanqueray-london-dry: same_region, ENT-brand-beefeater-london-dry: same_region, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat}
 data_confidence: official

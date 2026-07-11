@@ -2,10 +2,11 @@
 id: ENT-whisky-off-269-malt-12-years-whisky-40
 title: Malt 12 Years Whisky 40º
 category: ENT
+subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, Cardhu]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-cardhu-12, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12]
 related_typed: {ENT-whisky-cardhu-12: same_brand, ENT-brand-chivas-regal-12: same_subcat, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat}
 data_confidence: verified

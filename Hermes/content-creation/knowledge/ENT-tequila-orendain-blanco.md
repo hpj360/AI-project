@@ -2,10 +2,11 @@
 id: ENT-tequila-orendain-blanco
 title: 欧雷 Orendain Blanco
 category: ENT
+subcategory: tequila
 tags: [龙舌兰, 墨西哥, Orendain, Blanco, 传统]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-tequila-don-valente-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
 related_typed: {ENT-tequila-don-valente-blanco: same_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
 data_confidence: simulated

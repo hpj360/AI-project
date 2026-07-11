@@ -2,10 +2,11 @@
 id: ENT-cocktail-aviation-caviar
 title: 飞行鱼子酱
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 分子, 球化, 金酒, 紫罗兰]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres]
 related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region, ENT-cocktail-margarita-spheres: same_region}
 data_confidence: simulated

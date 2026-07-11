@@ -2,10 +2,11 @@
 id: ENT-cocktail-clover-club
 title: 三叶草俱乐部
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 酸酒, 金酒, 覆盆子]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-philadelphia-fish-house-punch, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-bomb]
 related_typed: {ENT-cocktail-philadelphia-fish-house-punch: same_region, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail, ENT-gin-tanqueray-london-dry: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
 data_confidence: official

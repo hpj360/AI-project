@@ -2,10 +2,11 @@
 id: ENT-wine-dessert-inniskillin-icewine-vidal-2018
 title: 云岭冰酒维达尔 2018
 category: ENT
+subcategory: wine_dessert
 tags: [甜酒, 冰酒, 加拿大, Inniskillin, Vidal]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-dessert-inniskillin-icewine-riesling-2018, ENT-wine-dessert-jackson-triggs-icewine-vidal-2018, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015]
 related_typed: {ENT-wine-dessert-inniskillin-icewine-riesling-2018: same_brand, ENT-wine-dessert-jackson-triggs-icewine-vidal-2018: same_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: same_subcat}
 data_confidence: simulated

@@ -2,10 +2,11 @@
 id: ENT-tequila-mi-tierra-blanco
 title: 米尼奥 Mi Tierra Blanco
 category: ENT
+subcategory: tequila
 tags: [龙舌兰, 墨西哥, Mi Tierra, Blanco, 传统]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-herradura-reposado]
 related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-herradura-reposado: same_region}
 data_confidence: simulated

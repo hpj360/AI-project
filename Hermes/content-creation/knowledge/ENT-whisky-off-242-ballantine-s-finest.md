@@ -2,10 +2,11 @@
 id: ENT-whisky-off-242-ballantine-s-finest
 title: Ballantine's Finest
 category: ENT
+subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, Ballantine's]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-ballantines-12, ENT-whisky-ballantines-17, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black]
 related_typed: {ENT-whisky-ballantines-12: same_brand, ENT-whisky-ballantines-17: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat}
 data_confidence: verified

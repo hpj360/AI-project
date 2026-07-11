@@ -2,10 +2,11 @@
 id: ENT-sake-kubota-suiju
 title: 久保田 翠寿
 category: ENT
+subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 久保田]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-sake-kubota-senju, ENT-sake-kubota-manju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban, ENT-sake-kubota-kuradashi-genshu]
 related_typed: {ENT-sake-kubota-senju: same_brand, ENT-sake-kubota-manju: same_brand, ENT-sake-kubota-hyakuju: same_brand, ENT-sake-kubota-hachiban: same_region, ENT-sake-kubota-kuradashi-genshu: same_region}
 data_confidence: simulated

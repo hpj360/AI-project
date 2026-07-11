@@ -2,10 +2,11 @@
 id: ENT-wine_red-off-008-vino-tinto-rioja-crianza
 title: Vino tinto Rioja crianza
 category: ENT
+subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, El Coto]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine_white-off-030-el-coto-blanc, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine_white-off-030-el-coto-blanc: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: verified

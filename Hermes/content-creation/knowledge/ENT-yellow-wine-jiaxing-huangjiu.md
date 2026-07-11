@@ -2,10 +2,11 @@
 id: ENT-yellow-wine-jiaxing-huangjiu
 title: 嘉兴黄酒
 category: ENT
+subcategory: yellow_wine
 tags: [黄酒, 嘉兴, 浙江, 江南]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 data_confidence: simulated
 version: 1
 related: [ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang, ENT-baike-yellow_wine-danyang-huangjiu]

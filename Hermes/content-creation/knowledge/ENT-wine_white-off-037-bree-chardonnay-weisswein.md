@@ -2,10 +2,11 @@
 id: ENT-wine_white-off-037-bree-chardonnay-weisswein
 title: Bree Chardonnay Weisswein
 category: ENT
+subcategory: wine_white
 tags: [OpenFoodFacts, wine_white, 白葡萄酒, Bree]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-046-graves-aoc-rouge, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine_white-off-035-vin-blanc-classic: same_region, ENT-wine_white-off-046-graves-aoc-rouge: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 data_confidence: verified

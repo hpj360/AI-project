@@ -2,10 +2,11 @@
 id: ENT-cocktail-red-hook
 title: 红钩
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 威士忌, 黑麦]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-final-ward, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
 related_typed: {ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-final-ward: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
 data_confidence: simulated

@@ -2,10 +2,11 @@
 id: ENT-wine-white-chablis-clos-raveneau-2016
 title: 夏布利克罗 2016
 category: ENT
+subcategory: wine_white
 tags: [白酒, 勃艮第, 夏布利, 特级园, 霞多丽]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine-white-chablis-vaudesir-dauvissat-2016, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine-white-chablis-preuses-dauvissat-2016: same_region, ENT-wine-white-chablis-vaudesir-dauvissat-2016: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 data_confidence: simulated

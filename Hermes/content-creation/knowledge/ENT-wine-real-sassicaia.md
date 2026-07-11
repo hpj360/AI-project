@@ -2,10 +2,11 @@
 id: ENT-wine-real-sassicaia
 title: 西施佳雅
 category: ENT
+subcategory: wine_red
 tags: [红酒, 意大利, 超级托斯卡纳, 博格利, 赤霞珠]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-sassicaia-2016, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
 related_typed: {ENT-wine-red-sassicaia-2016: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
 data_confidence: official

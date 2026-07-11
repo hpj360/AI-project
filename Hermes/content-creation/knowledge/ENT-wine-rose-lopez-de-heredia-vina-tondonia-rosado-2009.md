@@ -2,10 +2,11 @@
 id: ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009
 title: 瑞加度尼亚桃红 2009
 category: ENT
+subcategory: wine_rose
 tags: [桃红, 里奥哈, Gran Reserva, López de Heredia]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009, ENT-wine-rose-muga-rosado-2020, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019]
 related_typed: {ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009: same_brand, ENT-wine-rose-muga-rosado-2020: same_region, ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: same_subcat}
 data_confidence: simulated

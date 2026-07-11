@@ -2,10 +2,11 @@
 id: ENT-cocktail-brandy-daisy
 title: 白兰地雏菊
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 酸酒, 白兰地, 石榴, 禁酒令前]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-hurricane, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz]
 related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-hurricane: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region}
 data_confidence: official

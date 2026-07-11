@@ -2,10 +2,11 @@
 id: ENT-beer-off-094-timisoreana
 title: Timisoreana
 category: ENT
+subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu]
 related_typed: {ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat}
 data_confidence: verified

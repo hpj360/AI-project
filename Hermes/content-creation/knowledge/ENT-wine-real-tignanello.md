@@ -2,10 +2,11 @@
 id: ENT-wine-real-tignanello
 title: 天娜
 category: ENT
+subcategory: wine_red
 tags: [红酒, 意大利, 超级托斯卡纳, 托斯卡纳, 桑娇维塞]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-solaia-2016, ENT-wine-red-tignanello-2017, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-red-solaia-2016: same_brand, ENT-wine-red-tignanello-2017: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: official

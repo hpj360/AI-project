@@ -2,10 +2,11 @@
 id: ENT-vodka-belvedere-original
 title: 雪树 原味
 category: ENT
+subcategory: vodka
 tags: [伏特加, 波兰, 雪树]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-vodka-off-161-organic-vodka, ENT-vodka-belvedere-intense, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
 related_typed: {ENT-vodka-off-161-organic-vodka: same_brand, ENT-vodka-belvedere-intense: same_brand, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat, ENT-vodka-off-142-poliakov: same_subcat}
 data_confidence: simulated

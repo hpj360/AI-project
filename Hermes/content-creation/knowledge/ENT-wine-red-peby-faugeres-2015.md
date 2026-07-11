@@ -2,10 +2,11 @@
 id: ENT-wine-red-peby-faugeres-2015
 title: 柏菲酒庄 2015
 category: ENT
+subcategory: wine_red
 tags: [红酒, 波尔多, 圣埃美隆]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-cheval-blanc-2015, ENT-wine-red-ausone-2015, ENT-wine-red-pavie-2015, ENT-wine-red-angelus-2015, ENT-wine-red-figeac-2015]
 related_typed: {ENT-wine-red-cheval-blanc-2015: same_region, ENT-wine-red-ausone-2015: same_region, ENT-wine-red-pavie-2015: same_region, ENT-wine-red-angelus-2015: same_region, ENT-wine-red-figeac-2015: same_region}
 data_confidence: simulated

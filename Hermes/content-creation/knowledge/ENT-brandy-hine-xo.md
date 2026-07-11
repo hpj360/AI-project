@@ -2,10 +2,11 @@
 id: ENT-brandy-hine-xo
 title: 御鹿 XO
 category: ENT
+subcategory: brandy
 tags: [白兰地, 干邑, 法国, 御鹿]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brandy-hine-talent-de-thomas, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis]
 related_typed: {ENT-brandy-hine-talent-de-thomas: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region, ENT-brandy-hennessy-paradis: same_region}
 data_confidence: simulated

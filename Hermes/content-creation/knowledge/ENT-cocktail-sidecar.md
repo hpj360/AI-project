@@ -2,10 +2,11 @@
 id: ENT-cocktail-sidecar
 title: 侧车
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 酸酒, 白兰地, 法国]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa, ENT-cocktail-bees-knees]
 related_typed: {ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region, ENT-cocktail-bees-knees: same_region}
 data_confidence: official

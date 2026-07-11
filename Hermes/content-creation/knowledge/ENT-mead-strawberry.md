@@ -2,10 +2,11 @@
 id: ENT-mead-strawberry
 title: 草莓蜂蜜酒
 category: ENT
+subcategory: mead
 tags: [蜂蜜酒, 美国, 草莓, 水果]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-mead-blueberry, ENT-mead-peach, ENT-mead-cinnamon, ENT-mead-sparkling, ENT-mead-shennong-honey]
 related_typed: {ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-cinnamon: same_brand, ENT-mead-sparkling: same_region, ENT-mead-shennong-honey: same_subcat}
 data_confidence: simulated

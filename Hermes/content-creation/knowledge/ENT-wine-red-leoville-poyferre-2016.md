@@ -2,10 +2,11 @@
 id: ENT-wine-red-leoville-poyferre-2016
 title: 波菲城堡 2016
 category: ENT
+subcategory: wine_red
 tags: [红酒, 波尔多, 圣朱利安]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-leoville-las-cases-2016, ENT-wine-red-ducru-beaucaillou-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
 related_typed: {ENT-wine-red-leoville-las-cases-2016: same_region, ENT-wine-red-ducru-beaucaillou-2016: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: simulated

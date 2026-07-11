@@ -2,10 +2,11 @@
 id: ENT-whisky-off-250-blended-scotch-wiskhy
 title: Blended Scotch Wiskhy
 category: ENT
+subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, Label 5]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12]
 related_typed: {ENT-whisky-off-251-label-5-blended-scotch-whisky-classic-black: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat}
 data_confidence: verified

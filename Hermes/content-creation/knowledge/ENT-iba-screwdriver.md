@@ -2,10 +2,11 @@
 id: ENT-iba-screwdriver
 title: 螺丝刀
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Screwdriver, 搅和]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-lychee-martini, ENT-cocktail-negroni, ENT-cocktail-americano, ENT-cocktail-margarita, ENT-cocktail-daiquiri]
 related_typed: {ENT-cocktail-lychee-martini: same_subcat, ENT-cocktail-negroni: same_subcat, ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat, ENT-cocktail-daiquiri: same_subcat}
 data_confidence: official

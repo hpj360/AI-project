@@ -2,10 +2,11 @@
 id: ENT-wine-red-margaux-2015
 title: 玛歌城堡 2015
 category: ENT
+subcategory: wine_red
 tags: [红酒, 波尔多, 一级庄]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-margaux, ENT-wine-red-rauzan-segla-2016, ENT-wine-red-palmer-2015, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-real-margaux: same_brand, ENT-wine-red-rauzan-segla-2016: same_region, ENT-wine-red-palmer-2015: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated

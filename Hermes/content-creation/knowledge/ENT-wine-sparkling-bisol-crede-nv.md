@@ -2,10 +2,11 @@
 id: ENT-wine-sparkling-bisol-crede-nv
 title: 比索克里德
 category: ENT
+subcategory: wine_sparkling
 tags: [起泡酒, 普罗塞克, Bisol, DOCG]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-valdo-prosecco-nv, ENT-wine-sparkling-adami-garbel-nv, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
 related_typed: {ENT-wine-sparkling-bisol-cartizze-nv: same_brand, ENT-wine-sparkling-valdo-prosecco-nv: same_region, ENT-wine-sparkling-adami-garbel-nv: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
 data_confidence: simulated

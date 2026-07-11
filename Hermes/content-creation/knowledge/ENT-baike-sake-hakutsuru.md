@@ -2,10 +2,11 @@
 id: ENT-baike-sake-hakutsuru
 title: 白鹤
 category: ENT
+subcategory: sake
 tags: [百度百科, sake, 白鹤]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baike-sake-juyondai, ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner]
 related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: same_subcat}
 data_confidence: verified

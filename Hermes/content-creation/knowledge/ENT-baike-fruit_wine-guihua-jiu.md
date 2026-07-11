@@ -2,10 +2,11 @@
 id: ENT-baike-fruit_wine-guihua-jiu
 title: 桂花酿
 category: ENT
+subcategory: fruit_wine
 tags: [百度百科, fruit_wine, 桂花酿]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-baike-fruit_wine-zhuyeqing-jiu]
 related_typed: {ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-baike-fruit_wine-zhuyeqing-jiu: same_subcat}
 data_confidence: verified

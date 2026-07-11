@@ -2,10 +2,11 @@
 id: ENT-cocktail-oaxaca-old-fashioned
 title: 瓦哈卡古典
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 梅斯卡尔, 龙舌兰, 古典]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-naked-famous, ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation]
 related_typed: {ENT-cocktail-naked-famous: same_brand, ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region}
 data_confidence: simulated

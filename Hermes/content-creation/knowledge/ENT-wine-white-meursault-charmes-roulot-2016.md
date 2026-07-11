@@ -2,10 +2,11 @@
 id: ENT-wine-white-meursault-charmes-roulot-2016
 title: 默尔索夏姆 2016
 category: ENT
+subcategory: wine_white
 tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-white-meursault-genevrieres-roulot-2015, ENT-wine-white-meursault-perrieres-coche-dury-2015, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc]
 related_typed: {ENT-wine-white-meursault-genevrieres-roulot-2015: same_brand, ENT-wine-white-meursault-perrieres-coche-dury-2015: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat}
 data_confidence: simulated

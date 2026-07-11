@@ -2,10 +2,11 @@
 id: ENT-mead-champagne-method
 title: 香槟法蜂蜜酒
 category: ENT
+subcategory: mead
 tags: [蜂蜜酒, 法国, 气泡, 香槟法]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-mead-pyment, ENT-mead-vanilla, ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey]
 related_typed: {ENT-mead-pyment: same_brand, ENT-mead-vanilla: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: same_subcat}
 data_confidence: simulated

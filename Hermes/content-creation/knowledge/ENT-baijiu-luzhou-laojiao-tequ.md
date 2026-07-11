@@ -2,10 +2,11 @@
 id: ENT-baijiu-luzhou-laojiao-tequ
 title: 泸州老窖 特曲
 category: ENT
+subcategory: baijiu
 tags: [白酒, 浓香, 四川, 泸州老窖]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-luzhou-guojiao-1573: same_brand, ENT-baijiu-luzhou-touqu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: simulated

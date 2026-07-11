@@ -2,10 +2,11 @@
 id: ENT-brandy-off-240-courvoisier-vsop-cognac
 title: Courvoisier VSOP Cognac
 category: ENT
+subcategory: brandy
 tags: [OpenFoodFacts, brandy, 白兰地, Courvoisier]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop]
 related_typed: {ENT-brandy-courvoisier-vsop: same_brand, ENT-brandy-courvoisier-xo: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brandy-hennessy-richard: cross_region, ENT-brandy-martell-vsop: same_subcat}
 data_confidence: verified

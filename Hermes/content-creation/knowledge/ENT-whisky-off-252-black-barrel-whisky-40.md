@@ -2,10 +2,11 @@
 id: ENT-whisky-off-252-black-barrel-whisky-40
 title: Black Barrel whisky 40%
 category: ENT
+subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, JAMESON]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-off-243-whisky-40, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10]
 related_typed: {ENT-whisky-jameson: same_brand, ENT-whisky-jameson-black-barrel: same_brand, ENT-whisky-off-243-whisky-40: same_region, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: same_subcat}
 data_confidence: verified

@@ -2,10 +2,11 @@
 id: ENT-yellow-wine-jimo-laoliu-huangjiu
 title: 即墨老酒
 category: ENT
+subcategory: yellow_wine
 tags: [黄酒, 即墨, 山东, 黍米, 青岛]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 data_confidence: simulated
 version: 1
 related: [ENT-yellow-wine-jimo-laoliu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang]

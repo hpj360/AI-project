@@ -2,10 +2,11 @@
 id: ENT-wine_white-off-030-el-coto-blanc
 title: El coto blanc
 category: ENT
+subcategory: wine_white
 tags: [OpenFoodFacts, wine_white, 白葡萄酒, El Coto]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_brand, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-031-vino-blanco: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 data_confidence: verified

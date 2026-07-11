@@ -2,10 +2,11 @@
 id: ENT-wine_sparkling-off-052-nicolas-feuillatte
 title: Nicolas Feuillatte
 category: ENT
+subcategory: wine_sparkling
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Nicolas Feuillatte]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine_sparkling-off-065-champagne-brut-ros, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge, ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-wine_sparkling-off-067-canard-duch-ne]
 related_typed: {ENT-wine_sparkling-off-065-champagne-brut-ros: same_brand, ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_region, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge: same_region, ENT-wine_sparkling-off-063-clairette-de-die-doux: same_region, ENT-wine_sparkling-off-067-canard-duch-ne: same_region}
 data_confidence: verified

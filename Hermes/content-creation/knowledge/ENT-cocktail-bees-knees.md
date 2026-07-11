@@ -2,10 +2,11 @@
 id: ENT-cocktail-bees-knees
 title: 蜜蜂之膝
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 禁酒令, 金酒, 蜂蜜]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
 related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
 data_confidence: simulated

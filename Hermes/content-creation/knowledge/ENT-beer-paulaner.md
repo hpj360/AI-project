@@ -2,10 +2,11 @@
 id: ENT-beer-paulaner
 title: 保罗拉纳啤酒
 category: ENT
+subcategory: beer
 tags: [啤酒, 德国, 保罗拉纳, 小麦啤酒]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-hofbrau, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu]
 related_typed: {ENT-beer-hofbrau: same_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: same_subcat}
 data_confidence: simulated

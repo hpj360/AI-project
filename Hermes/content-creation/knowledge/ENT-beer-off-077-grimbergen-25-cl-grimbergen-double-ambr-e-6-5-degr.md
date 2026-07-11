@@ -2,10 +2,11 @@
 id: ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr
 title: Grimbergen 25 cl Grimbergen Double Ambrèe 6.5 DEGRE ALCOOL
 category: ENT
+subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒, GRIMBERGEN]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-off-073-blond, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
 related_typed: {ENT-beer-off-073-blond: same_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
 data_confidence: verified

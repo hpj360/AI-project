@@ -2,10 +2,11 @@
 id: ENT-whisky-chivas-regal-12
 title: 芝华士 12 年
 category: ENT
+subcategory: whisky
 tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25, ENT-whisky-ballantines-12, ENT-whisky-ballantines-17, ENT-whisky-dewars-12]
 related_typed: {ENT-whisky-chivas-regal-18: same_brand, ENT-whisky-chivas-regal-25: same_brand, ENT-whisky-ballantines-12: same_region, ENT-whisky-ballantines-17: same_region, ENT-whisky-dewars-12: same_region}
 data_confidence: simulated

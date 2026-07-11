@@ -2,10 +2,11 @@
 id: ENT-whisky-yamazaki-12
 title: 山崎 12 年
 category: ENT
+subcategory: whisky
 tags: [威士忌, 日本, 单一麦芽]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-gin-roku, ENT-whisky-yamazaki-18, ENT-whisky-yamazaki-25, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12]
 related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-yamazaki-25: same_brand, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat}
 data_confidence: simulated

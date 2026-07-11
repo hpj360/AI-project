@@ -2,10 +2,11 @@
 id: ENT-brand-laphroaig-10
 title: 拉弗格 10 年
 category: ENT
+subcategory: whisky
 tags: [威士忌, 苏格兰, 艾雷岛, 单一麦芽, 泥煤]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-lagavulin-16, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white]
 related_typed: {ENT-brand-lagavulin-16: same_region, ENT-brand-johnnie-walker-black: cross_region, ENT-brand-chivas-regal-12: cross_region, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat}
 data_confidence: official

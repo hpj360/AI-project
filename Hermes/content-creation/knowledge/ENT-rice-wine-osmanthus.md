@@ -2,10 +2,11 @@
 id: ENT-rice-wine-osmanthus
 title: 桂花米酒
 category: ENT
+subcategory: rice_wine
 tags: [米酒, 桂花, 花香, 传统, 创新]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-rice-wine-tian-jiuniang, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng]
 related_typed: {ENT-rice-wine-tian-jiuniang: same_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: same_subcat}
 data_confidence: simulated

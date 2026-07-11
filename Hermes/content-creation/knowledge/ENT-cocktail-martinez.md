@@ -2,10 +2,11 @@
 id: ENT-cocktail-martinez
 title: 马天尼斯
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 古典, 金酒, 味美思, 禁酒令前]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-saturn, ENT-cocktail-jasmine, ENT-cocktail-tommys-margarita, ENT-cocktail-chartreuse-swizzle, ENT-cocktail-fogcutter]
 related_typed: {ENT-cocktail-saturn: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-chartreuse-swizzle: same_region, ENT-cocktail-fogcutter: same_region}
 data_confidence: simulated

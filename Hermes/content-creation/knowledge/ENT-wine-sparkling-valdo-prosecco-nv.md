@@ -2,10 +2,11 @@
 id: ENT-wine-sparkling-valdo-prosecco-nv
 title: 瓦尔多普罗塞克
 category: ENT
+subcategory: wine_sparkling
 tags: [起泡酒, 普罗塞克, Valdo, 无年份]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-bisol-crede-nv, ENT-wine-sparkling-adami-garbel-nv, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
 related_typed: {ENT-wine-sparkling-bisol-cartizze-nv: same_region, ENT-wine-sparkling-bisol-crede-nv: same_region, ENT-wine-sparkling-adami-garbel-nv: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
 data_confidence: simulated

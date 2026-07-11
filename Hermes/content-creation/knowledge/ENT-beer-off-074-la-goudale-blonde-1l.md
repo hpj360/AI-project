@@ -2,10 +2,11 @@
 id: ENT-beer-off-074-la-goudale-blonde-1l
 title: la goudale blonde 1l
 category: ENT
+subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒, Brasserie Goudale]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-off-080-3-monts, ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe]
 related_typed: {ENT-beer-off-080-3-monts: same_region, ENT-beer-off-091-blonde-non-filtr-champ-libre: same_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat}
 data_confidence: verified

@@ -2,10 +2,11 @@
 id: ENT-cocktail-mimosa
 title: 含羞草
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典, 起泡酒, 早午餐]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-bees-knees]
 related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-bees-knees: same_region}
 data_confidence: official

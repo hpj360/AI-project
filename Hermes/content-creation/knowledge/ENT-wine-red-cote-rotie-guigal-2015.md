@@ -2,10 +2,11 @@
 id: ENT-wine-red-cote-rotie-guigal-2015
 title: 罗第吉佳尔 2015
 category: ENT
+subcategory: wine_red
 tags: [红酒, 罗讷河谷, 北罗讷, 西拉]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine-red-gerin-cote-rotie-2015, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
 related_typed: {ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_brand, ENT-wine-red-gerin-cote-rotie-2015: same_region, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
 data_confidence: simulated

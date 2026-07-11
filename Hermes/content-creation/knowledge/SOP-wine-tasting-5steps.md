@@ -2,10 +2,11 @@
 id: SOP-wine-tasting-5steps
 title: 红酒品鉴五步法
 category: ENT
+subcategory: guide
 tags: [SOP, 红酒, 品鉴]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [SOP-white-wine-tasting, SOP-whisky-tasting, SOP-sake-tasting, SOP-baijiu-tasting, SOP-champagne-service]
 related_typed: {SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat, SOP-champagne-service: same_subcat}
 data_confidence: official

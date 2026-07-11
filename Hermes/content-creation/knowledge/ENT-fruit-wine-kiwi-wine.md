@@ -2,10 +2,11 @@
 id: ENT-fruit-wine-kiwi-wine
 title: 猕猴桃酒
 category: ENT
+subcategory: fruit_wine
 tags: [果酒, 猕猴桃, 中国]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-fruit-wine-sangshen-jiu, ENT-mead-chinese-traditional, ENT-fruit-wine-cherry-wine, ENT-baike-fruit_wine-zhuyeqing-jiu, ENT-baike-fruit_wine-jinjiu]
 related_typed: {ENT-fruit-wine-sangshen-jiu: same_brand, ENT-mead-chinese-traditional: same_brand, ENT-fruit-wine-cherry-wine: same_brand, ENT-baike-fruit_wine-zhuyeqing-jiu: cross_region, ENT-baike-fruit_wine-jinjiu: same_subcat}
 data_confidence: simulated

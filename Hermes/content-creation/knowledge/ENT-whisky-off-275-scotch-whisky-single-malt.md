@@ -2,10 +2,11 @@
 id: ENT-whisky-off-275-scotch-whisky-single-malt
 title: Scotch Whisky Single Malt
 category: ENT
+subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, Knockando]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu]
 related_typed: {ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat}
 data_confidence: verified

@@ -2,10 +2,11 @@
 id: ENT-cocktail-whiskey-smash
 title: 威士忌斯马修
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, 斯马修, 波本, 薄荷]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-cocktail-mint-julep, ENT-cocktail-kentucky-buck, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12]
 related_typed: {ENT-cocktail-mint-julep: same_region, ENT-cocktail-kentucky-buck: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail}
 data_confidence: official

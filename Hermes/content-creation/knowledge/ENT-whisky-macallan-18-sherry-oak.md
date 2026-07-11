@@ -2,10 +2,11 @@
 id: ENT-whisky-macallan-18-sherry-oak
 title: 麦卡伦 18 年雪莉桶
 category: ENT
+subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 雪莉桶]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-classic-cut, ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-15-solera]
 related_typed: {ENT-whisky-macallan-12-sherry-oak: same_brand, ENT-whisky-macallan-12-double-cask: same_brand, ENT-whisky-macallan-classic-cut: same_brand, ENT-whisky-glenfiddich-12: same_region, ENT-whisky-glenfiddich-15-solera: same_region}
 data_confidence: simulated

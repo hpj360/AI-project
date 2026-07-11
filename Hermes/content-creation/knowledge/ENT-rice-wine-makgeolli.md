@@ -2,10 +2,11 @@
 id: ENT-rice-wine-makgeolli
 title: 韩国马格利
 category: ENT
+subcategory: rice_wine
 tags: [米酒, 韩国, 马格利, 传统]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-rice-wine-yakju, ENT-rice-wine-ihwaju, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu]
 related_typed: {ENT-rice-wine-yakju: same_brand, ENT-rice-wine-ihwaju: same_brand, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: same_subcat}
 data_confidence: simulated

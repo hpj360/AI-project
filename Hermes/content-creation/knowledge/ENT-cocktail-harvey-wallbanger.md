@@ -2,10 +2,11 @@
 id: ENT-cocktail-harvey-wallbanger
 title: 哈维撞墙
 category: ENT
+subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代, 伏特加, 加利亚诺]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
 related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
 data_confidence: official

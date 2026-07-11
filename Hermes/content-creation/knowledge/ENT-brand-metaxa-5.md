@@ -2,10 +2,11 @@
 id: ENT-brand-metaxa-5
 title: 迈塔克萨 5 星
 category: ENT
+subcategory: brandy
 tags: [白兰地, 希腊, Metaxa]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu]
 related_typed: {ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: cross_region, ENT-brandy-martell-vsop: same_subcat, ENT-brandy-martell-xo: same_subcat, ENT-brandy-martell-cordon-bleu: same_subcat}
 data_confidence: official

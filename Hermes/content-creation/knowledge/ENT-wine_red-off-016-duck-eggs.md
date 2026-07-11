@@ -2,10 +2,11 @@
 id: ENT-wine_red-off-016-duck-eggs
 title: Duck Eggs
 category: ENT
+subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Cepa 21]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
 related_typed: {ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
 data_confidence: verified

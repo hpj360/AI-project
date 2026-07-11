@@ -2,10 +2,11 @@
 id: ENT-liqueur-off-214-oat-energy-flapjack-giant-oat-bar-blueberry
 title: Oat Energy Flapjack Giant Oat Bar - Blueberry
 category: ENT
+subcategory: liqueur
 tags: [OpenFoodFacts, liqueur, 利口酒, NatureTech]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-liqueur-off-203-baileys-original-irish-cream, ENT-liqueur-off-211-davide-campari-bitter-tonic, ENT-liqueur-off-215-lik-r-kahl-a-kaffee, ENT-liqueur-off-224-griottines-de-fougerolles, ENT-liqueur-off-204-aperol]
 related_typed: {ENT-liqueur-off-203-baileys-original-irish-cream: cross_region, ENT-liqueur-off-211-davide-campari-bitter-tonic: cross_region, ENT-liqueur-off-215-lik-r-kahl-a-kaffee: cross_region, ENT-liqueur-off-224-griottines-de-fougerolles: cross_region, ENT-liqueur-off-204-aperol: same_subcat}
 data_confidence: verified

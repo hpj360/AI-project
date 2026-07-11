@@ -2,10 +2,11 @@
 id: ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-
 title: E.Guigal Appellation Côtes Du Rhône Contrôlée Red Wine
 category: ENT
+subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, E. Guigal]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-red-cote-rotie-guigal-2015, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-015-cabernet-sauvigon]
 related_typed: {ENT-wine-red-cote-rotie-guigal-2015: same_brand, ENT-wine_red-off-004-pinot-noir: same_region, ENT-wine_red-off-005-cabernet-sauvignon: same_region, ENT-wine_red-off-009-mouton-cadet: same_region, ENT-wine_red-off-015-cabernet-sauvigon: same_region}
 data_confidence: verified

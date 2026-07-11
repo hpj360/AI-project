@@ -2,10 +2,11 @@
 id: ENT-wine-red-la-mission-haut-brion-2016
 title: 小红颜容 2016
 category: ENT
+subcategory: wine_red
 tags: [红酒, 波尔多, 佩萨克-雷奥良]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-haut-brion, ENT-wine-red-haut-brion-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
 related_typed: {ENT-wine-real-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: simulated

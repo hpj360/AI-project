@@ -2,10 +2,11 @@
 id: ENT-vodka-off-151-eristoff-black-70cl-18
 title: Eristoff black 70cl - 18
 category: ENT
+subcategory: vodka
 tags: [OpenFoodFacts, vodka, 伏特加, Eristoff]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-vodka-off-145-vodka, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
 related_typed: {ENT-vodka-off-145-vodka: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat}
 data_confidence: verified

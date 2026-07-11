@@ -2,10 +2,11 @@
 id: ENT-wine-real-leoville-las-cases
 title: 雄狮古堡
 category: ENT
+subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 圣朱利安, 二级庄]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-ducru-beaucaillou, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine-real-ducru-beaucaillou: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: official

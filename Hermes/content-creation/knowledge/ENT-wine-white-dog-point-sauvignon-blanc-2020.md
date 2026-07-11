@@ -2,10 +2,11 @@
 id: ENT-wine-white-dog-point-sauvignon-blanc-2020
 title: 狗点长相思 2020
 category: ENT
+subcategory: wine_white
 tags: [白酒, 新世界, 长相思, 马尔堡]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-wine-real-cloudy-bay, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine-white-oyster-bay-sauvignon-blanc-2020, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense]
 related_typed: {ENT-wine-real-cloudy-bay: same_region, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020: same_region, ENT-wine-white-oyster-bay-sauvignon-blanc-2020: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat}
 data_confidence: simulated

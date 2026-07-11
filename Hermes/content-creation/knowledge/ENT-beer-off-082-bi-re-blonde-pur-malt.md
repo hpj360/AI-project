@@ -2,10 +2,11 @@
 id: ENT-beer-off-082-bi-re-blonde-pur-malt
 title: Bière blonde pur malt
 category: ENT
+subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒, Jade]
 status: active
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-11
+updated: 2026-07-11
 related: [ENT-beer-off-083-biere-blonde-sans-gluten-jade, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
 related_typed: {ENT-beer-off-083-biere-blonde-sans-gluten-jade: same_brand, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
 data_confidence: verified
