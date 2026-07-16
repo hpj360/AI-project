@@ -7,8 +7,8 @@ tags: [红酒, 法国, 波尔多, 波美侯]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
-related_typed: {ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
+related: [ENT-wine-real-petrus-2015, ENT-wine-real-le-pin-2015, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux]
+related_typed: {ENT-wine-real-petrus-2015: same_region, ENT-wine-real-le-pin-2015: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

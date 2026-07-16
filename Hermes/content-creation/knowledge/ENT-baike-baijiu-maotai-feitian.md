@@ -7,8 +7,8 @@ tags: [百度百科, baijiu, 飞天茅台酒]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baijiu-laimao-chuancheng, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu, ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6]
-related_typed: {ENT-baijiu-laimao-chuancheng: same_brand, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat, ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat}
+related: [ENT-baijiu-laimao-chuancheng, ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-fenjiu-laobaifen-10, ENT-baijiu-fenjiu-qinghua-30]
+related_typed: {ENT-baijiu-laimao-chuancheng: same_brand, ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat, ENT-baijiu-fenjiu-laobaifen-10: same_subcat, ENT-baijiu-fenjiu-qinghua-30: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E9%85%92

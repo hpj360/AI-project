@@ -7,8 +7,8 @@ tags: [甜酒, 托卡伊, Aszú, 6 Puttonyos]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-rieussec-2015]
-related_typed: {ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: cross_region, ENT-wine-dessert-rieussec-2015: same_subcat}
+related: [ENT-wine-real-yquem-2017, ENT-wine-real-tokaji-aszu-6-puttonyos, ENT-wine-real-sauternes-climens-2017, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015]
+related_typed: {ENT-wine-real-yquem-2017: cross_region, ENT-wine-real-tokaji-aszu-6-puttonyos: cross_region, ENT-wine-real-sauternes-climens-2017: cross_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: same_subcat}
 data_confidence: simulated
 version: 1
 ---

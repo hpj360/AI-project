@@ -7,8 +7,8 @@ tags: [红酒, 法国, 波尔多, 圣埃美隆, 一级A等]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-ausone, ENT-wine-real-troplong-mondot, ENT-wine-real-angelus, ENT-brand-lafite-rothschild, ENT-brand-latour]
-related_typed: {ENT-wine-real-ausone: same_region, ENT-wine-real-troplong-mondot: same_region, ENT-wine-real-angelus: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
+related: [ENT-wine-real-ausone, ENT-wine-real-troplong-mondot, ENT-wine-real-angelus, ENT-wine-real-cheval-blanc-2015, ENT-wine-real-ausone-2015]
+related_typed: {ENT-wine-real-ausone: same_region, ENT-wine-real-troplong-mondot: same_region, ENT-wine-real-angelus: same_region, ENT-wine-real-cheval-blanc-2015: same_region, ENT-wine-real-ausone-2015: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

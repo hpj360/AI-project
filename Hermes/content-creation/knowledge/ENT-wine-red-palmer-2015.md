@@ -7,8 +7,8 @@ tags: [红酒, 波尔多, 玛歌]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-margaux-2015, ENT-wine-red-rauzan-segla-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-red-margaux-2015: same_region, ENT-wine-red-rauzan-segla-2016: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+related: [ENT-wine-red-margaux-2015, ENT-wine-red-rauzan-segla-2016, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
+related_typed: {ENT-wine-red-margaux-2015: same_region, ENT-wine-red-rauzan-segla-2016: same_region, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
 data_confidence: simulated
 version: 1
 ---

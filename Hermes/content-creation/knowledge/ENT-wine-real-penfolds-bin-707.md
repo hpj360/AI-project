@@ -7,8 +7,8 @@ tags: [红酒, 澳大利亚, 南澳, 赤霞珠, Penfolds]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-penfolds-grange, ENT-wine-real-penfolds-bin-389, ENT-wine-real-penfolds-st-henri, ENT-brand-penfolds-grange, ENT-brand-romanee-conti]
-related_typed: {ENT-wine-real-penfolds-grange: same_brand, ENT-wine-real-penfolds-bin-389: same_brand, ENT-wine-real-penfolds-st-henri: same_brand, ENT-brand-penfolds-grange: same_region, ENT-brand-romanee-conti: same_subcat}
+related: [ENT-wine-real-penfolds-grange, ENT-wine-real-penfolds-bin-389, ENT-wine-real-penfolds-st-henri, ENT-brand-penfolds-grange, ENT-brand-haut-brion]
+related_typed: {ENT-wine-real-penfolds-grange: same_brand, ENT-wine-real-penfolds-bin-389: same_brand, ENT-wine-real-penfolds-st-henri: same_brand, ENT-brand-penfolds-grange: same_region, ENT-brand-haut-brion: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

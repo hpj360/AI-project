@@ -7,8 +7,8 @@ tags: [红酒, 意大利, 超级托斯卡纳, 托斯卡纳, 桑娇维塞]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-solaia-2016, ENT-wine-red-tignanello-2017, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
-related_typed: {ENT-wine-red-solaia-2016: same_brand, ENT-wine-red-tignanello-2017: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
+related: [ENT-wine-real-tignanello-2018, ENT-wine-red-solaia-2016, ENT-wine-red-tignanello-2017, ENT-brand-margaux, ENT-brand-mouton-rothschild]
+related_typed: {ENT-wine-real-tignanello-2018: same_brand, ENT-wine-red-solaia-2016: same_brand, ENT-wine-red-tignanello-2017: same_brand, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

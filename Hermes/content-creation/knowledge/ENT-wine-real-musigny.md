@@ -7,8 +7,8 @@ tags: [红酒, 法国, 勃艮第, 香波-慕西尼, 特级园, 黑皮诺]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-chambertin, ENT-brand-haut-brion, ENT-brand-romanee-conti]
-related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-chambertin: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
+related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-chambertin, ENT-wine-real-musigny-comte-vogues, ENT-brand-margaux]
+related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-chambertin: same_brand, ENT-wine-real-musigny-comte-vogues: same_region, ENT-brand-margaux: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

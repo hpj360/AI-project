@@ -7,8 +7,8 @@ tags: [红酒, 法国, 波尔多, 圣朱利安, 二级庄]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-leoville-las-cases, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion, ENT-brand-romanee-conti]
-related_typed: {ENT-wine-real-leoville-las-cases: same_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
+related: [ENT-wine-real-leoville-las-cases, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
+related_typed: {ENT-wine-real-leoville-las-cases: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

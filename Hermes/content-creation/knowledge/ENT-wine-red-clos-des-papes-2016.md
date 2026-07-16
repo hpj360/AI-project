@@ -7,8 +7,8 @@ tags: [红酒, 罗讷河谷, 南罗讷]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-chateauneuf-beaucastel-2016, ENT-wine-red-pegau-2016, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
-related_typed: {ENT-wine-red-chateauneuf-beaucastel-2016: same_region, ENT-wine-red-pegau-2016: same_region, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
+related: [ENT-wine-red-chateauneuf-beaucastel-2016, ENT-wine-red-pegau-2016, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
+related_typed: {ENT-wine-red-chateauneuf-beaucastel-2016: same_region, ENT-wine-red-pegau-2016: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,8 @@ tags: [红酒, 意大利, 超级托斯卡纳, 博格利, 赤霞珠]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-sassicaia-2016, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
-related_typed: {ENT-wine-red-sassicaia-2016: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
+related: [ENT-wine-red-sassicaia-2016, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion, ENT-brand-romanee-conti]
+related_typed: {ENT-wine-red-sassicaia-2016: same_brand, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

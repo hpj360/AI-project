@@ -7,8 +7,8 @@ tags: [红酒, 波尔多, 波美侯, 梅洛]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-trotanoy-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-brand-penfolds-grange]
-related_typed: {ENT-wine-red-trotanoy-2015: same_brand, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-brand-penfolds-grange: same_subcat}
+related: [ENT-wine-real-petrus-2015, ENT-wine-red-trotanoy-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015]
+related_typed: {ENT-wine-real-petrus-2015: same_brand, ENT-wine-red-trotanoy-2015: same_brand, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region}
 data_confidence: simulated
 version: 1
 ---

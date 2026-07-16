@@ -7,8 +7,8 @@ tags: [白酒, 新世界, 长相思, 马尔堡]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-cloudy-bay, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine-white-dog-point-sauvignon-blanc-2020, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense]
-related_typed: {ENT-wine-real-cloudy-bay: same_region, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020: same_region, ENT-wine-white-dog-point-sauvignon-blanc-2020: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat}
+related: [ENT-wine-real-cloudy-bay, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020, ENT-wine-white-dog-point-sauvignon-blanc-2020, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
+related_typed: {ENT-wine-real-cloudy-bay: same_region, ENT-wine-white-cloudy-bay-sauvignon-blanc-2020: same_region, ENT-wine-white-dog-point-sauvignon-blanc-2020: same_region, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
 data_confidence: simulated
 version: 1
 ---

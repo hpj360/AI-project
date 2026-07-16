@@ -7,8 +7,8 @@ tags: [红酒, 波尔多, 一级庄, 赤霞珠, 拉菲]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-lafite-2010, ENT-wine-red-levangile-2015, ENT-brand-latour, ENT-brand-mouton-rothschild, ENT-brand-margaux]
-related_typed: {ENT-wine-red-lafite-2010: same_brand, ENT-wine-red-levangile-2015: same_brand, ENT-brand-latour: same_region, ENT-brand-mouton-rothschild: same_region, ENT-brand-margaux: same_subcat}
+related: [ENT-wine-real-lafite-2018, ENT-wine-red-lafite-2010, ENT-wine-red-levangile-2015, ENT-brand-latour, ENT-brand-mouton-rothschild]
+related_typed: {ENT-wine-real-lafite-2018: same_brand, ENT-wine-red-lafite-2010: same_brand, ENT-wine-red-levangile-2015: same_brand, ENT-brand-latour: same_region, ENT-brand-mouton-rothschild: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

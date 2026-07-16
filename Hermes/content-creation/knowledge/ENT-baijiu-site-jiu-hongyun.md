@@ -7,8 +7,8 @@ tags: [白酒, 特香, 江西, 四特酒]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baijiu-site-jiu-shiwunian, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
-related_typed: {ENT-baijiu-site-jiu-shiwunian: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
+related: [ENT-baijiu-site-jiu-shiwunian, ENT-baike-baijiu-ext-site-jiu, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
+related_typed: {ENT-baijiu-site-jiu-shiwunian: same_brand, ENT-baike-baijiu-ext-site-jiu: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 data_confidence: simulated
 version: 1
 ---

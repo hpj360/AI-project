@@ -7,8 +7,8 @@ tags: [白酒, 浓香, 四川, 舍得]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-tuopai-tequ, ENT-baike-baijiu-shede-jiu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
-related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baike-baijiu-shede-jiu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
+related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-tuopai-tequ, ENT-baike-baijiu-ext-shede, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
+related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baike-baijiu-ext-shede: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
 data_confidence: simulated
 version: 1
 ---

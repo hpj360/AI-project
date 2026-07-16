@@ -7,8 +7,8 @@ tags: [白酒, 浓香, 四川, 水井坊]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baijiu-shuijingfang-zhenniang-8, ENT-baijiu-quanxing-daqu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
-related_typed: {ENT-baijiu-shuijingfang-zhenniang-8: same_brand, ENT-baijiu-quanxing-daqu: same_region, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
+related: [ENT-baijiu-shuijingfang-zhenniang-8, ENT-baike-baijiu-ext-shuijingfang, ENT-baijiu-quanxing-daqu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
+related_typed: {ENT-baijiu-shuijingfang-zhenniang-8: same_brand, ENT-baike-baijiu-ext-shuijingfang: same_brand, ENT-baijiu-quanxing-daqu: same_region, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
 data_confidence: simulated
 version: 1
 ---

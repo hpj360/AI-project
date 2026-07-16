@@ -7,8 +7,8 @@ tags: [红酒, 法国, 波尔多, 波亚克, 一级庄]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-latour, ENT-wine-real-mouton-rothschild, ENT-wine-real-pichon-longueville-baron, ENT-wine-real-lynch-bages, ENT-brand-lafite-rothschild]
-related_typed: {ENT-wine-real-latour: same_region, ENT-wine-real-mouton-rothschild: same_region, ENT-wine-real-pichon-longueville-baron: same_region, ENT-wine-real-lynch-bages: same_region, ENT-brand-lafite-rothschild: same_subcat}
+related: [ENT-wine-real-latour, ENT-wine-real-mouton-rothschild, ENT-wine-real-pichon-longueville-baron, ENT-wine-real-lynch-bages, ENT-wine-real-lafite-2018]
+related_typed: {ENT-wine-real-latour: same_region, ENT-wine-real-mouton-rothschild: same_region, ENT-wine-real-pichon-longueville-baron: same_region, ENT-wine-real-lynch-bages: same_region, ENT-wine-real-lafite-2018: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

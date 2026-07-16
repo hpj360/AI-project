@@ -7,8 +7,8 @@ tags: [米酒, 广东, 九江, 双蒸]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu]
-related_typed: {ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: same_subcat}
+related: [ENT-baike-baijiu-ext-jiujiang-shuangzheng, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
+related_typed: {ENT-baike-baijiu-ext-jiujiang-shuangzheng: same_brand, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: same_subcat}
 data_confidence: simulated
 version: 1
 ---

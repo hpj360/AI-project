@@ -7,8 +7,8 @@ tags: [红酒, 波尔多, 波美侯]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-trotanoy-2015, ENT-brand-penfolds-grange]
-related_typed: {ENT-wine-red-petrus-2015: same_region, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-trotanoy-2015: same_region, ENT-brand-penfolds-grange: same_subcat}
+related: [ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-trotanoy-2015, ENT-brand-opus-one]
+related_typed: {ENT-wine-red-petrus-2015: same_region, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-trotanoy-2015: same_region, ENT-brand-opus-one: same_subcat}
 data_confidence: simulated
 version: 1
 ---
