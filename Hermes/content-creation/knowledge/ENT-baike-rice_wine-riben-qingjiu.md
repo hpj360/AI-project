@@ -7,8 +7,8 @@ tags: [百度百科, rice_wine, 日本清酒]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-baike-rice_wine-kejia-niangjiu]
-related_typed: {ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-baike-rice_wine-kejia-niangjiu: same_subcat}
+related: [ENT-rice-guilin-san-hua-52, ENT-rice-guilin-san-hua-dongzang-10, ENT-rice-jiujiang-shuangzheng-29-5, ENT-rice-shiwan-yubingshao-29, ENT-baike-rice_wine-kejia-niangjiu]
+related_typed: {ENT-rice-guilin-san-hua-52: cross_region, ENT-rice-guilin-san-hua-dongzang-10: cross_region, ENT-rice-jiujiang-shuangzheng-29-5: cross_region, ENT-rice-shiwan-yubingshao-29: cross_region, ENT-baike-rice_wine-kejia-niangjiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E6%97%A5%E6%9C%AC%E6%B8%85%E9%85%92

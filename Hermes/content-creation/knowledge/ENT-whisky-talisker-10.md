@@ -7,8 +7,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 岛屿区]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-whisky-talisker-25, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony]
-related_typed: {ENT-whisky-talisker-25: same_brand, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat}
+related: [ENT-whisky-talisker-25, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu]
+related_typed: {ENT-whisky-talisker-25: same_brand, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,8 @@ tags: [米酒, 桂花, 花香, 传统, 创新]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-rice-wine-tian-jiuniang, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng]
-related_typed: {ENT-rice-wine-tian-jiuniang: same_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: same_subcat}
+related: [ENT-rice-wine-tian-jiuniang, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-guilin-san-hua-dongzang-10, ENT-rice-jiujiang-shuangzheng-29-5, ENT-rice-shiwan-yubingshao-29]
+related_typed: {ENT-rice-wine-tian-jiuniang: same_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-guilin-san-hua-dongzang-10: cross_region, ENT-rice-jiujiang-shuangzheng-29-5: cross_region, ENT-rice-shiwan-yubingshao-29: same_subcat}
 data_confidence: simulated
 version: 1
 ---

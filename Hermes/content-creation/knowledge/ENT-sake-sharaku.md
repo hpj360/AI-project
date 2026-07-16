@@ -7,8 +7,8 @@ tags: [清酒, 日本, 纯米吟醸, 写乐, 福岛]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-sake-sharaku-junmai-ginjo, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine]
-related_typed: {ENT-sake-sharaku-junmai-ginjo: same_brand, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat}
+related: [ENT-sake-sharaku-junmai-ginjo, ENT-sake-real-juyondai, ENT-sake-real-arabashiri, ENT-sake-real-nanbu-bijin, ENT-sake-real-kaze-no-mori]
+related_typed: {ENT-sake-sharaku-junmai-ginjo: same_brand, ENT-sake-real-juyondai: same_subcat, ENT-sake-real-arabashiri: same_subcat, ENT-sake-real-nanbu-bijin: same_subcat, ENT-sake-real-kaze-no-mori: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -547,7 +547,7 @@ ENTRIES = [
         "tags": ["产区风土", "意大利", "皮德蒙特", "内比奥罗", "巴罗洛"],
         "source": "WSET/Consorzio di Tutela Barolo Barbaresco",
         "data_confidence": "official",
-        "summary": "意大利西北部的"酒王之乡"，巴罗洛与巴巴莱斯科的内比奥罗享誉全球。",
+        "summary": "意大利西北部的「酒王之乡」，巴罗洛与巴巴莱斯科的内比奥罗享誉全球。",
         "content_body": """## 地理与气候
 
 ### 位置
@@ -1410,7 +1410,7 @@ ENTRIES = [
         "tags": ["产区风土", "中国", "宁夏", "赤霞珠", "贺兰山"],
         "source": "宁夏贺兰山东麓葡萄产业园区管委会",
         "data_confidence": "official",
-        "summary": "中国最具国际声誉的葡萄酒产区，"中国波尔多"，赤霞珠为主导的精品产区。",
+        "summary": "中国最具国际声誉的葡萄酒产区，「中国波尔多」，赤霞珠为主导的精品产区。",
         "content_body": """## 地理与气候
 
 ### 位置
@@ -1573,7 +1573,7 @@ ENTRIES = [
         "tags": ["产区风土", "中国", "山东", "烟台", "海岸气候"],
         "source": "烟台市葡萄与葡萄酒局",
         "data_confidence": "official",
-        "summary": "中国现代葡萄酒工业的摇篮，"国际葡萄·葡萄酒城"，张裕大本营。",
+        "summary": "中国现代葡萄酒工业的摇篮，「国际葡萄·葡萄酒城」，张裕大本营。",
         "content_body": """## 地理与气候
 
 ### 位置
@@ -2217,7 +2217,7 @@ ENTRIES = [
         "tags": ["产区风土", "智利", "迈坡", "赤霞珠", "安第斯山"],
         "source": "WSET/Wines of Chile",
         "data_confidence": "official",
-        "summary": "智利最古老的葡萄酒产区，"智利的波尔多"，赤霞珠与安第斯山融雪水的经典组合。",
+        "summary": "智利最古老的葡萄酒产区，「智利的波尔多」，赤霞珠与安第斯山融雪水的经典组合。",
         "content_body": """## 地理与气候
 
 ### 位置

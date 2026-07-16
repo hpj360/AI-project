@@ -7,8 +7,8 @@ tags: [伏特加, 波兰, 雪树, 原桶强度]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-vodka-off-161-organic-vodka, ENT-vodka-belvedere-original, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
-related_typed: {ENT-vodka-off-161-organic-vodka: same_brand, ENT-vodka-belvedere-original: same_brand, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat, ENT-vodka-off-142-poliakov: same_subcat}
+related: [ENT-vodka-off-161-organic-vodka, ENT-vodka-belvedere-original, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice]
+related_typed: {ENT-vodka-off-161-organic-vodka: same_brand, ENT-vodka-belvedere-original: same_brand, ENT-vodka-off-142-poliakov: same_subcat, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat}
 data_confidence: simulated
 version: 1
 ---

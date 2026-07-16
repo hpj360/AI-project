@@ -7,8 +7,8 @@ tags: [白酒, 百度百科, 酱香型, 江苏, 今世缘]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baijiu-jinshiyuan-guoyuan-sikai, ENT-baike-baijiu-ext-shuanggou-daqu, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
-related_typed: {ENT-baijiu-jinshiyuan-guoyuan-sikai: same_brand, ENT-baike-baijiu-ext-shuanggou-daqu: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
+related: [ENT-baijiu-jinshiyuan-guoyuan-sikai, ENT-baike-baijiu-ext-shuanggou-daqu, ENT-baijiu-yanghe-mengzhilan-m9, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
+related_typed: {ENT-baijiu-jinshiyuan-guoyuan-sikai: same_brand, ENT-baike-baijiu-ext-shuanggou-daqu: same_region, ENT-baijiu-yanghe-mengzhilan-m9: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/今世缘

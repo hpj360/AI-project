@@ -7,8 +7,8 @@ tags: [白酒, 百度百科, 芝麻香型, 山东, 景芝白干]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baike-baijiu-ext-lanling-meijiu, ENT-baike-baijiu-ext-huaguan-jiu, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu, ENT-baijiu-jiannanchun-shuijingjian]
-related_typed: {ENT-baike-baijiu-ext-lanling-meijiu: same_region, ENT-baike-baijiu-ext-huaguan-jiu: same_region, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat, ENT-baijiu-jiannanchun-shuijingjian: same_subcat}
+related: [ENT-baike-baijiu-ext-lanling-meijiu, ENT-baike-baijiu-ext-huaguan-jiu, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
+related_typed: {ENT-baike-baijiu-ext-lanling-meijiu: same_region, ENT-baike-baijiu-ext-huaguan-jiu: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/景芝白干

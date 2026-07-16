@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, BRASSERIE DU MONT BLANC]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser]
-related_typed: {ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat, ENT-beer-snow: same_subcat, ENT-beer-budweiser: same_subcat}
+related: [ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona]
+related_typed: {ENT-beer-heineken: same_subcat, ENT-beer-carlsberg: same_subcat, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

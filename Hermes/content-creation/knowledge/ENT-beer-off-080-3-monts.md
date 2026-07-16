@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, 3 Monts]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu]
-related_typed: {ENT-beer-off-074-la-goudale-blonde-1l: same_region, ENT-beer-off-091-blonde-non-filtr-champ-libre: same_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat}
+related: [ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-baike-beer-jinwei-pijiu, ENT-beer-budweiser, ENT-beer-heineken]
+related_typed: {ENT-beer-off-074-la-goudale-blonde-1l: same_region, ENT-beer-off-091-blonde-non-filtr-champ-libre: same_region, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-budweiser: same_subcat, ENT-beer-heineken: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

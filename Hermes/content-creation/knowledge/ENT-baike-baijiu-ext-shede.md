@@ -7,8 +7,8 @@ tags: [白酒, 百度百科, 浓香型, 四川, 舍得]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-shede-zhihui-shede, ENT-baijiu-tuopai-tequ, ENT-baike-baijiu-ext-shuijingfang, ENT-baijiu-luzhou-laojiao-tequ]
-related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-shede-zhihui-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baike-baijiu-ext-shuijingfang: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
+related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-shede-zhihui-shede, ENT-baijiu-tuopai-tequ, ENT-baike-baijiu-ext-shuijingfang, ENT-baijiu-langjiu-qinghua-lang]
+related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-shede-zhihui-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baike-baijiu-ext-shuijingfang: same_region, ENT-baijiu-langjiu-qinghua-lang: same_region}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/舍得酒

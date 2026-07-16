@@ -7,8 +7,8 @@ tags: [啤酒, 丹麦, 嘉士伯, 工业拉格]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-fruit-wine-somersby, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu]
-related_typed: {ENT-fruit-wine-somersby: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: same_subcat}
+related: [ENT-beer-real-carlsberg-pilsner, ENT-fruit-wine-somersby, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
+related_typed: {ENT-beer-real-carlsberg-pilsner: same_brand, ENT-fruit-wine-somersby: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

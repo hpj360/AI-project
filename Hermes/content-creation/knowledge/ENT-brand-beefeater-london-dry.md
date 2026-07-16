@@ -7,8 +7,8 @@ tags: [金酒, 英国, 伦敦干金酒]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-gordons-london-dry, ENT-brand-tanqueray-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24]
-related_typed: {ENT-brand-gordons-london-dry: same_region, ENT-brand-tanqueray-london-dry: same_region, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat}
+related: [ENT-gin-beefeater-london-dry, ENT-brand-gordons-london-dry, ENT-brand-tanqueray-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-24]
+related_typed: {ENT-gin-beefeater-london-dry: same_brand, ENT-brand-gordons-london-dry: same_region, ENT-brand-tanqueray-london-dry: same_region, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-24: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Brasserie de Gayant]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-baike-beer-taishan-pijiu]
-related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat}
+related: [ENT-beer-tsingtao, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg, ENT-baike-beer-jinwei-pijiu]
+related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-baike-beer-jinwei-pijiu: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

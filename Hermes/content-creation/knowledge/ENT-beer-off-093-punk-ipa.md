@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Brewdog]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-brewdog-punk-ipa, ENT-beer-off-087-alus-brewdog-punk-ipa, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
-related_typed: {ENT-beer-brewdog-punk-ipa: same_brand, ENT-beer-off-087-alus-brewdog-punk-ipa: same_brand, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
+related: [ENT-beer-brewdog-punk-ipa, ENT-beer-off-087-alus-brewdog-punk-ipa, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing]
+related_typed: {ENT-beer-brewdog-punk-ipa: same_brand, ENT-beer-off-087-alus-brewdog-punk-ipa: same_brand, ENT-beer-carlsberg: same_subcat, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

@@ -520,7 +520,7 @@ ENTRIES = [
         "tags": ["法餐", "勃艮第", "波尔多", "鹅肝", "松露", "经典"],
         "source": "WSET Food & Wine Pairing",
         "data_confidence": "official",
-        "summary": "经典法餐菜式配酒建议，遵循"产地同源"原则。",
+        "summary": "经典法餐菜式配酒建议，遵循「产地同源」原则。",
         "content_body": """## 法餐经典配酒指南
 
 ### 1. 前菜

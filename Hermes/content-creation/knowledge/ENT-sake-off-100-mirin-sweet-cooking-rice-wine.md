@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, sake, 清酒, WAN JA SHAN]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baike-sake-juyondai, ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-baike-sake-hakutsuru]
-related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-baike-sake-hakutsuru: same_subcat}
+related: [ENT-baike-sake-juyondai, ENT-sake-real-dassai-23, ENT-sake-real-kubota-senjuu, ENT-sake-real-hakkaisan-tokubetsu-junmai, ENT-baike-sake-hakutsuru]
+related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-real-dassai-23: cross_region, ENT-sake-real-kubota-senjuu: cross_region, ENT-sake-real-hakkaisan-tokubetsu-junmai: cross_region, ENT-baike-sake-hakutsuru: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

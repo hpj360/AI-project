@@ -7,8 +7,8 @@ tags: [米酒, 绍兴, 浙江, 传统]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu]
-related_typed: {ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: same_subcat}
+related: [ENT-rice-shaoxing-cooking-16, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-guilin-san-hua-52, ENT-rice-guilin-san-hua-dongzang-10]
+related_typed: {ENT-rice-shaoxing-cooking-16: same_region, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-guilin-san-hua-52: cross_region, ENT-rice-guilin-san-hua-dongzang-10: same_subcat}
 data_confidence: simulated
 version: 1
 ---

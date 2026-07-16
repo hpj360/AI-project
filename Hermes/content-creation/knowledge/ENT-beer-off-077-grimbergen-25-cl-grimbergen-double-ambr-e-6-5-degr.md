@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, GRIMBERGEN]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-off-073-blond, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
-related_typed: {ENT-beer-off-073-blond: same_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
+related: [ENT-beer-off-073-blond, ENT-baike-beer-jinwei-pijiu, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-off-073-blond: same_region, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-budweiser: same_subcat, ENT-beer-heineken: same_subcat, ENT-beer-carlsberg: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

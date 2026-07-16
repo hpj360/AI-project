@@ -7,8 +7,8 @@ tags: [IBA, 国际调酒师协会, 调酒历史, 专业组织]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady, ENT-cocktail-bacardi-cocktail, ENT-cocktail-casablanca, ENT-cocktail-hanky-panky]
-related_typed: {ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat, ENT-cocktail-bacardi-cocktail: same_subcat, ENT-cocktail-casablanca: same_subcat, ENT-cocktail-hanky-panky: same_subcat}
+related: [ENT-cocktail-bacardi-cocktail, ENT-cocktail-casablanca, ENT-cocktail-clover-club, ENT-cocktail-bellini, ENT-cocktail-mojito]
+related_typed: {ENT-cocktail-bacardi-cocktail: same_subcat, ENT-cocktail-casablanca: same_subcat, ENT-cocktail-clover-club: same_subcat, ENT-cocktail-bellini: same_subcat, ENT-cocktail-mojito: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1

@@ -7,8 +7,8 @@ tags: [梅酒, umeshu, 果酒, 日本, SUNTORY, 樱花桶, 春季限定]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu]
-related_typed: {ENT-brand-yamazaki-12: same_brand, ENT-brand-hibiki-harmony: same_brand, ENT-brand-hakushu: same_brand, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: same_subcat}
+related: [ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-fruit-wine-suntory-umeshu, ENT-baike-fruit_wine-guihua-jiu]
+related_typed: {ENT-brand-yamazaki-12: same_brand, ENT-brand-hibiki-harmony: same_brand, ENT-brand-hakushu: same_brand, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-baike-fruit_wine-guihua-jiu: same_subcat}
 data_confidence: verified
 data_source: Suntory 官网
 version: 1

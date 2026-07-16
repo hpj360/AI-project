@@ -7,8 +7,8 @@ tags: [啤酒, 中国, 青岛, 纯生]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-tsingtao, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu]
-related_typed: {ENT-beer-tsingtao: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: same_subcat}
+related: [ENT-beer-tsingtao, ENT-beer-real-tsingtao, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
+related_typed: {ENT-beer-tsingtao: same_brand, ENT-beer-real-tsingtao: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

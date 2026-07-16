@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Gallia]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-off-080-3-monts, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
-related_typed: {ENT-beer-off-074-la-goudale-blonde-1l: same_region, ENT-beer-off-080-3-monts: same_region, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
+related: [ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-off-080-3-monts, ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin]
+related_typed: {ENT-beer-off-074-la-goudale-blonde-1l: same_region, ENT-beer-off-080-3-monts: same_region, ENT-beer-heineken: same_subcat, ENT-beer-carlsberg: same_subcat, ENT-beer-harbin: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

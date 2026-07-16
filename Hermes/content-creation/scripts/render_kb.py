@@ -534,6 +534,17 @@ def _normalize_subcategory(entry: dict) -> str:
         for prefix, mapped in baike_map.items():
             if rest.startswith(prefix):
                 return mapped
+        # spirits_intl 子类：从品牌名推断具体酒类
+        if rest.startswith("spirits_intl-"):
+            brand_part = rest.replace("spirits_intl-", "")
+            for bkey, bsub in BRAND_TO_SUBCAT.items():
+                if brand_part.startswith(bkey) or bkey in brand_part:
+                    return bsub
+            name = (entry.get("title", "") + entry.get("name_en", "")).lower()
+            if any(k in name for k in ["chivas", "芝华士", "johnnie", "walker", "macallan"]):
+                return "whisky"
+            if any(k in name for k in ["martell", "马爹利", "hennessy", "轩尼诗", "cognac"]):
+                return "brandy"
         return "other_spirit"
 
     # iba 子类 → cocktail

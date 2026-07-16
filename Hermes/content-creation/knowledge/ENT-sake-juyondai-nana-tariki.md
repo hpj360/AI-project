@@ -7,8 +7,8 @@ tags: [清酒, 日本, 纯米大吟醸, 十四代, 雫酒]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-sake-juyondai-honmaru, ENT-sake-juyondai-ryugetsu, ENT-sake-juyondai-soko, ENT-sake-juyondai-shirakumo, ENT-sake-off-096-cooking-sake]
-related_typed: {ENT-sake-juyondai-honmaru: same_brand, ENT-sake-juyondai-ryugetsu: same_brand, ENT-sake-juyondai-soko: same_brand, ENT-sake-juyondai-shirakumo: same_region, ENT-sake-off-096-cooking-sake: same_subcat}
+related: [ENT-sake-juyondai-honmaru, ENT-sake-juyondai-ryugetsu, ENT-sake-juyondai-soko, ENT-sake-real-juyondai, ENT-sake-juyondai-shirakumo]
+related_typed: {ENT-sake-juyondai-honmaru: same_brand, ENT-sake-juyondai-ryugetsu: same_brand, ENT-sake-juyondai-soko: same_brand, ENT-sake-real-juyondai: same_region, ENT-sake-juyondai-shirakumo: same_region}
 data_confidence: simulated
 version: 1
 ---

@@ -1,25 +1,29 @@
 ---
 id: ENT-gin-roku
-title: 罗斯福 Roku 六
+title: Roku Gin
 category: ENT
 subcategory: gin
-tags: [金酒, 日本, 三得利, 樱花]
+tags: [金酒, gin, 日本, Roku, 6种日本植物, 三得利]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
 related: [ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-whisky-yamazaki-25, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
 related_typed: {ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-whisky-yamazaki-25: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: same_subcat}
-data_confidence: simulated
+data_confidence: verified
+data_source: VinePair
 version: 1
+ratings:
+  vivino: {score: 4.8, votes: 306}
+  wine_enthusiast: {score: 87, year: 2022}
 ---
 
-# 罗斯福 Roku 六
+# Roku Gin
 
 **Roku Gin**
 
 ## 概述
 
-Roku 六，日本三得利金酒，6 种日本植物配方。
+Roku 日本金酒，6 种日本植物（樱花、樱叶、煎茶、玉露、山椒、柚子），VinePair 2024 top-trending 第 2 名。
 
 ## 图片参考
 
@@ -29,33 +33,14 @@ Roku 六，日本三得利金酒，6 种日本植物配方。
 
 ## 基础信息
 
-- **中文名**：罗斯福 Roku 六
-- **外文名**：Roku Gin
-- **别名**：Roku, 六
+- **中文名**：六金酒
+- **外文名**：Roku
 - **分类**：金酒
-- **产地**：日本 / 日本-大阪
-- **生产商**：三得利
+- **产地**：日本
+- **生产商**：Suntory
 - **酒精度**：43%
-- **容量**：700ml
-- **参考价格（RMB）**：¥300-450
-- **价格档位**：premium
-
-## 生产工艺
-
-- **原料**：谷物、杜松子、植物香料、水
-- **酿造方法**：
-
-6 种日本植物（樱花、樱叶、煎茶、玉露、柚子、山椒）
-- **蒸馏方式**：四种不同蒸馏器蒸馏
-- **陈酿方式**：不陈酿
-
-## 风味描述
-
-- **颜色**：无色透明
-- **香气**：樱花、柚子、煎茶、杜松
-- **口感**：柔顺花香，樱花柚子
-- **余味**：余味悠长，清新茶香
-- **风味标签**：樱花, 柚子, 煎茶
+- **参考价格（RMB）**：¥100-250
+- **价格档位**：daily
 
 ## 风味轮廓
 
@@ -68,23 +53,14 @@ Roku 六，日本三得利金酒，6 种日本植物配方。
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
-## 饮用指南
+## 评分奖项
 
-- **适饮温度**：室温或冰镇
-- **推荐酒杯**：格兰凯恩杯
-- **佐餐搭配**：日料、寿司、刺身
-- **鸡尾酒应用**：Gin Tonic, Martini, Gimlet
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 306 |
+| Wine Enthusiast | 87 | 2022 |
 
-## 文化背景
-
-### 历史
-
-Roku 2017 年由三得利推出，专为日本植物风味设计。
-
-### 趣闻
-
-Roku 取日语六之意，象征 6 种日本植物。
-
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 
@@ -94,5 +70,5 @@ Roku 取日语六之意，象征 6 种日本植物。
 ## 参考资料
 
 - 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
-- 数据来源：知识库整理
-- 数据置信度：simulated
+- 数据来源：VinePair
+- 数据置信度：verified

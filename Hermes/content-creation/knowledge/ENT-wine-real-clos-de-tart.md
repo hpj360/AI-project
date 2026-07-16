@@ -7,8 +7,8 @@ tags: [红酒, 法国, 勃艮第, 莫雷-圣丹尼, 特级园, 黑皮诺]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-latour, ENT-wine-red-latour-2010, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
-related_typed: {ENT-wine-real-latour: same_brand, ENT-wine-red-latour-2010: same_brand, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
+related: [ENT-wine-real-latour, ENT-wine-red-latour-2010, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
+related_typed: {ENT-wine-real-latour: same_brand, ENT-wine-red-latour-2010: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

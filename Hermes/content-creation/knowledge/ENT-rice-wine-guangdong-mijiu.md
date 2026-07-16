@@ -7,8 +7,8 @@ tags: [米酒, 广东, 传统]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-rice-wine-guangdong-lao-mijiu, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
-related_typed: {ENT-rice-wine-guangdong-lao-mijiu: same_region, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: same_subcat}
+related: [ENT-rice-jiujiang-shuangzheng-29-5, ENT-rice-shiwan-yubingshao-29, ENT-rice-hongli-40, ENT-rice-wine-guangdong-lao-mijiu, ENT-baike-rice_wine-kejia-niangjiu]
+related_typed: {ENT-rice-jiujiang-shuangzheng-29-5: same_region, ENT-rice-shiwan-yubingshao-29: same_region, ENT-rice-hongli-40: same_region, ENT-rice-wine-guangdong-lao-mijiu: same_region, ENT-baike-rice_wine-kejia-niangjiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

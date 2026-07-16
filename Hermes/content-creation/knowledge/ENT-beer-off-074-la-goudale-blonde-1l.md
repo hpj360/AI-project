@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Brasserie Goudale]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-off-080-3-monts, ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe]
-related_typed: {ENT-beer-off-080-3-monts: same_region, ENT-beer-off-091-blonde-non-filtr-champ-libre: same_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat}
+related: [ENT-beer-off-080-3-monts, ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
+related_typed: {ENT-beer-off-080-3-monts: same_region, ENT-beer-off-091-blonde-non-filtr-champ-libre: same_region, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

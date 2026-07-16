@@ -7,8 +7,8 @@ tags: [红酒, 意大利, 超级托斯卡纳]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-masseto-2016, ENT-wine-red-sassicaia-2016, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
-related_typed: {ENT-wine-red-masseto-2016: same_brand, ENT-wine-red-sassicaia-2016: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
+related: [ENT-wine-red-masseto-2016, ENT-wine-red-sassicaia-2016, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
+related_typed: {ENT-wine-red-masseto-2016: same_brand, ENT-wine-red-sassicaia-2016: same_region, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
 data_confidence: simulated
 version: 1
 ---

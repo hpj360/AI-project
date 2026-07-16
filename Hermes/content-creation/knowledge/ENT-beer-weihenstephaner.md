@@ -7,8 +7,8 @@ tags: [啤酒, 德国, 唯森, 小麦啤酒]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe]
-related_typed: {ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat}
+related: [ENT-beer-real-weihenstephaner-hefeweissbier, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu]
+related_typed: {ENT-beer-real-weihenstephaner-hefeweissbier: same_brand, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

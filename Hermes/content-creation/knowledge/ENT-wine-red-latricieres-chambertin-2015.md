@@ -7,8 +7,8 @@ tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-red-chambertin-rousseau-2015, ENT-brand-opus-one]
-related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-red-chambertin-rousseau-2015: same_region, ENT-brand-opus-one: same_subcat}
+related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-red-chambertin-rousseau-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool]
+related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-red-chambertin-rousseau-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -1,8 +1,8 @@
 # 知识库全局索引
 
-> content-creation 酒类知识库 | 共 1854 条目 | 由 render_kb.py 维护
+> content-creation 酒类知识库 | 共 2031 条目 | 由 render_kb.py 维护
 
-## 白酒（107）
+## 白酒（117）
 
 - [白云边 15 年](./ENT-baijiu-baiyunbian-15nian.md) | 白酒 | 兼香
 - [白云边 20 年](./ENT-baijiu-baiyunbian-20nian.md) | 白酒 | 兼香
@@ -13,12 +13,15 @@
 - [汾酒 黄盖玻汾](./ENT-baijiu-fenjiu-huangai-bofen.md) | 白酒 | 清香
 - [汾酒 老白汾 10 年](./ENT-baijiu-fenjiu-laobaifen-10.md) | 白酒 | 清香
 - [汾酒 青花 30](./ENT-baijiu-fenjiu-qinghua-30.md) | 白酒 | 清香
+- [汾酒青花 30 复兴版 53 度](./ENT-baijiu-fenjiu-qinghua-30.md) | 白酒 | baijiu
+- [古井贡酒 年份原浆 古 20 52 度](./ENT-baijiu-gujinggong-jiu-20.md) | 白酒 | baijiu
 - [国台 国标](./ENT-baijiu-guotai-guobiao.md) | 白酒 | 酱香
 - [衡水老白干 古法 20](./ENT-baijiu-hengshui-laobaigan-gufa-20.md) | 白酒 | 老白干香
 - [衡水老白干 十九酒坊](./ENT-baijiu-hengshui-laobaigan-shijiujiufang.md) | 白酒 | 老白干香
 - [红星 二锅头](./ENT-baijiu-hongxing-erguotou.md) | 白酒 | 清香
 - [红星 蓝花十五](./ENT-baijiu-hongxing-lanhua-15.md) | 白酒 | 清香
 - [黄鹤楼 20 年](./ENT-baijiu-huanghelou-20nian.md) | 白酒 | 清香
+- [剑南春 52 度](./ENT-baijiu-jiannanchun-52.md) | 白酒 | baijiu
 - [金剑南 K6](./ENT-baijiu-jiannanchun-jinjian-k6.md) | 白酒 | 浓香
 - [剑南春 水晶剑](./ENT-baijiu-jiannanchun-shuijingjian.md) | 白酒 | 浓香
 - [景芝 景阳春](./ENT-baijiu-jingzhi-jingyangchun.md) | 白酒 | 芝麻香
@@ -29,11 +32,14 @@
 - [口子窖 20 年](./ENT-baijiu-kouzijiao-20nian.md) | 白酒 | 兼香
 - [赖茅 传承](./ENT-baijiu-laimao-chuancheng.md) | 白酒 | 酱香
 - [红花郎 10](./ENT-baijiu-langjiu-honghualang-10.md) | 白酒 | 酱香
+- [郎酒青花郎 53 度](./ENT-baijiu-langjiu-qinghua-lang.md) | 白酒 | baijiu
 - [青花郎](./ENT-baijiu-langjiu-qinghualang.md) | 白酒 | 酱香
 - [国窖 1573](./ENT-baijiu-luzhou-guojiao-1573.md) | 白酒 | 浓香
 - [泸州老窖 特曲](./ENT-baijiu-luzhou-laojiao-tequ.md) | 白酒 | 浓香
 - [泸州老窖 头曲](./ENT-baijiu-luzhou-touqu.md) | 白酒 | 浓香
+- [泸州老窖 国窖 1573 52 度](./ENT-baijiu-luzhoulaojiao-guojiao-1573.md) | 白酒 | baijiu
 - [茅台飞天 53 度](./ENT-baijiu-moutai-feitian-53.md) | 白酒 | 酱香
+- [贵州茅台飞天 53 度](./ENT-baijiu-moutai-feitian-53.md) | 白酒 | baijiu
 - [茅台王子酒](./ENT-baijiu-moutai-prince.md) | 白酒 | 酱香
 - [茅台迎宾酒](./ENT-baijiu-moutai-yingbin.md) | 白酒 | 酱香
 - [牛栏山 陈酿](./ENT-baijiu-niulanshan-chenhniang.md) | 白酒 | 清香
@@ -51,15 +57,19 @@
 - [五粮液 1618](./ENT-baijiu-wuliangye-1618.md) | 白酒 | 浓香
 - [五粮液 交杯](./ENT-baijiu-wuliangye-jiaobei.md) | 白酒 | 浓香
 - [五粮液 普五 52 度](./ENT-baijiu-wuliangye-puwu.md) | 白酒 | 浓香
+- [五粮液 普五八代 52 度](./ENT-baijiu-wuliangye-puwu-52.md) | 白酒 | baijiu
 - [武陵 上酱](./ENT-baijiu-wuling-shangjiang.md) | 白酒 | 酱香
 - [西凤酒 15 年](./ENT-baijiu-xifeng-15nian.md) | 白酒 | 凤香
 - [西凤酒 红西凤](./ENT-baijiu-xifeng-hongxifeng.md) | 白酒 | 凤香
+- [西凤酒 华山论剑 20 年 55 度](./ENT-baijiu-xifeng-jiu-huashanlunjian-20.md) | 白酒 | baijiu
 - [习酒 窖藏 1988](./ENT-baijiu-xijiu-jiaocang-1988.md) | 白酒 | 酱香
+- [习酒 窖藏 1988 53 度](./ENT-baijiu-xijiu-jiaocang-1988.md) | 白酒 | baijiu
 - [金质习酒](./ENT-baijiu-xijiu-jinzhi-xijiu.md) | 白酒 | 酱香
 - [君品习酒](./ENT-baijiu-xijiu-junpin-xijiu.md) | 白酒 | 酱香
 - [洋河 海之蓝](./ENT-baijiu-yanghe-haizhilan.md) | 白酒 | 浓香
 - [洋河 梦之蓝 M3](./ENT-baijiu-yanghe-mengzhilan-m3.md) | 白酒 | 浓香
 - [洋河 梦之蓝 M9](./ENT-baijiu-yanghe-mengzhilan-m9.md) | 白酒 | 浓香
+- [洋河梦之蓝 M9 52 度](./ENT-baijiu-yanghe-mengzhilan-m9.md) | 白酒 | baijiu
 - [洋河 天之蓝](./ENT-baijiu-yanghe-tianzhilan.md) | 白酒 | 浓香
 - [伊力特 伊力老窖](./ENT-baijiu-yilite-yili-laojiao.md) | 白酒 | 浓香
 - [迎驾贡酒 生态洞藏](./ENT-baijiu-yingjiagong-shengtai-dongcang.md) | 白酒 | 浓香
@@ -112,7 +122,7 @@
 - [洋河梦之蓝](./ENT-baike-baijiu-yanghe-mengzhilan.md) | 百度百科 | baijiu
 - [天之蓝](./ENT-baike-baijiu-yanghe-tianzhilan.md) | 百度百科 | baijiu
 
-## 威士忌（132）
+## 威士忌（140）
 
 - [芝华士 12 年](./ENT-brand-chivas-regal-12.md) | 威士忌 | 苏格兰
 - [皇冠威士忌](./ENT-brand-crown-royal.md) | 威士忌 | 加拿大
@@ -138,6 +148,7 @@
 - [百龄坛 17 年](./ENT-whisky-ballantines-17.md) | 威士忌 | 苏格兰
 - [百富 12 年双桶](./ENT-whisky-balvenie-12-doublewood.md) | 威士忌 | 苏格兰
 - [百富 14 年卡瑞杜](./ENT-whisky-balvenie-14-caribbean-cask.md) | 威士忌 | 苏格兰
+- [The Balvenie DoubleWood 12 Year Old](./ENT-whisky-balvenie-doublewood-12.md) | 威士忌 | whisky
 - [巴兹海登](./ENT-whisky-basil-hayden.md) | 威士忌 | 美国
 - [波摩 12 年](./ENT-whisky-bowmore-12.md) | 威士忌 | 苏格兰
 - [波摩 15 年](./ENT-whisky-bowmore-15.md) | 威士忌 | 苏格兰
@@ -158,11 +169,14 @@
 - [四玫瑰 单桶](./ENT-whisky-four-roses-single-barrel.md) | 威士忌 | 美国
 - [四玫瑰 小批量](./ENT-whisky-four-roses-small-batch.md) | 威士忌 | 美国
 - [格兰帝 10 年](./ENT-whisky-glen-scotia-10.md) | 威士忌 | 苏格兰
+- [Glenfiddich 12 Year Old](./ENT-whisky-glenfiddich-12.md) | 威士忌 | whisky
 - [格兰菲迪 12 年](./ENT-whisky-glenfiddich-12.md) | 威士忌 | 苏格兰
 - [格兰菲迪 15 年索雷拉](./ENT-whisky-glenfiddich-15-solera.md) | 威士忌 | 苏格兰
+- [Glenfiddich 18 Year Old](./ENT-whisky-glenfiddich-18.md) | 威士忌 | whisky
 - [格兰菲迪 18 年](./ENT-whisky-glenfiddich-18.md) | 威士忌 | 苏格兰
 - [格兰利威 12 年](./ENT-whisky-glenlivet-12.md) | 威士忌 | 苏格兰
 - [格兰利威 15 年法国橡木](./ENT-whisky-glenlivet-15-french-oak.md) | 威士忌 | 苏格兰
+- [The Glenlivet 18 Years Old](./ENT-whisky-glenlivet-18.md) | 威士忌 | whisky
 - [格兰利威 18 年](./ENT-whisky-glenlivet-18.md) | 威士忌 | 苏格兰
 - [格兰杰 激稀塔 12 年](./ENT-whisky-glenmorangie-lasanta.md) | 威士忌 | 苏格兰
 - [格兰杰 10 年原桶](./ENT-whisky-glenmorangie-original.md) | 威士忌 | 苏格兰
@@ -182,6 +196,7 @@
 - [占边 魔鬼之切](./ENT-whisky-jim-beam-devils-cut.md) | 威士忌 | 美国
 - [占边 白标](./ENT-whisky-jim-bean-white.md) | 威士忌 | 美国
 - [尊尼获加 黑牌 12 年](./ENT-whisky-johnnie-walker-black-label.md) | 威士忌 | 苏格兰
+- [Johnnie Walker Blue Label](./ENT-whisky-johnnie-walker-blue.md) | 威士忌 | whisky
 - [尊尼获加 蓝牌](./ENT-whisky-johnnie-walker-blue-label.md) | 威士忌 | 苏格兰
 - [尊尼获加 红牌](./ENT-whisky-johnnie-walker-red-label.md) | 威士忌 | 苏格兰
 - [Kavalan 经典](./ENT-whisky-kavalan-classic.md) | 威士忌 | 台湾
@@ -192,7 +207,10 @@
 - [麦卡伦 12 年蓝钻双桶](./ENT-whisky-macallan-12-double-cask.md) | 威士忌 | 苏格兰
 - [麦卡伦 12 年雪莉桶](./ENT-whisky-macallan-12-sherry-oak.md) | 威士忌 | 苏格兰
 - [麦卡伦 18 年雪莉桶](./ENT-whisky-macallan-18-sherry-oak.md) | 威士忌 | 苏格兰
+- [The Macallan Sherry Oak 30 Year Old (2024)](./ENT-whisky-macallan-30-sherry-oak.md) | 威士忌 | whisky
 - [麦卡伦 经典切](./ENT-whisky-macallan-classic-cut.md) | 威士忌 | 苏格兰
+- [The Macallan Double Cask 12 Year Old](./ENT-whisky-macallan-double-cask-12.md) | 威士忌 | whisky
+- [The Macallan Sherry Oak Cask 12 Year Old](./ENT-whisky-macallan-sherry-oak-12.md) | 威士忌 | whisky
 - [美格 46](./ENT-whisky-makers-mark-46.md) | 威士忌 | 美国
 - [美格 波本](./ENT-whisky-makers-mark-bourbon.md) | 威士忌 | 美国
 - [米德尔顿 稀世](./ENT-whisky-midleton-very-rare.md) | 威士忌 | 爱尔兰
@@ -305,7 +323,7 @@
 - [雷诺 XO](./ENT-brandy-renault-xo.md) | 白兰地 | 干邑
 - [Torres 10 年](./ENT-brandy-torres-10.md) | 白兰地 | 西班牙
 
-## 金酒（58）
+## 金酒（66）
 
 - [Aviation 美式金酒](./ENT-brand-aviation-gin.md) | 金酒 | 美国
 - [必富达伦敦干金酒](./ENT-brand-beefeater-london-dry.md) | 金酒 | 英国
@@ -316,8 +334,10 @@
 - [飞行](./ENT-gin-aviation.md) | 金酒 | 美国
 - [必富达 24](./ENT-gin-beefeater-24.md) | 金酒 | 伦敦干
 - [必富达 伦敦干](./ENT-gin-beefeater-london-dry.md) | 金酒 | 伦敦干
+- [Beefeater London Dry Gin](./ENT-gin-beefeater-london-dry.md) | 金酒 | gin
 - [杰纳斯 荷兰金酒](./ENT-gin-bols-genievre.md) | 金酒 | 荷兰
 - [孟买蓝宝石](./ENT-gin-bombay-sapphire.md) | 金酒 | 伦敦干
+- [Bombay Sapphire London Dry Gin](./ENT-gin-bombay-sapphire.md) | 金酒 | gin
 - [孟买蓝宝石 奢华](./ENT-gin-bombay-sapphire-east.md) | 金酒 | 伦敦干
 - [狮牌 Bulldog](./ENT-gin-bulldog.md) | 金酒 | 伦敦干
 - [卡普罗克 CapRock](./ENT-gin-caprock.md) | 金酒 | 美国
@@ -332,6 +352,7 @@
 - [季之美 Ki No Bi](./ENT-gin-ki-no-bi.md) | 金酒 | 日本
 - [Martin Miller's](./ENT-gin-martin-millers.md) | 金酒 | 英国
 - [猴子 47 黑森林](./ENT-gin-monkey-47.md) | 金酒 | 德国
+- [Monkey 47 Schwarzwald Dry Gin](./ENT-gin-monkey-47.md) | 金酒 | gin
 - [诺诺 No.3](./ENT-gin-no3-london-dry.md) | 金酒 | 伦敦干
 - [六号花园 Nolet's](./ENT-gin-nolets-reserve.md) | 金酒 | 荷兰
 - [Hendrick’s Gin](./ENT-gin-off-119-hendrick-s-gin.md) | OpenFoodFacts | gin
@@ -357,16 +378,21 @@
 - [Gin Gordon's](./ENT-gin-off-139-gin-gordon-s.md) | OpenFoodFacts | gin
 - [Distilled Gin with a blackberry & raspberry infusion](./ENT-gin-off-140-distilled-gin-with-a-blackberry-raspberry-infusion.md) | OpenFoodFacts | gin
 - [普利茅斯](./ENT-gin-plymouth.md) | 金酒 | 普利茅斯
+- [Plymouth English Gin](./ENT-gin-plymouth.md) | 金酒 | gin
 - [罗斯福 Roku 六](./ENT-gin-roku.md) | 金酒 | 日本
+- [Roku Gin](./ENT-gin-roku.md) | 金酒 | gin
 - [黑刺莓 Sipsmith Sloe](./ENT-gin-sipsmith-sloe.md) | 金酒 | sloe
 - [添加利 伦敦干](./ENT-gin-tanqueray-london-dry.md) | 金酒 | 伦敦干
+- [Tanqueray London Dry Gin](./ENT-gin-tanqueray-london-dry.md) | 金酒 | gin
 - [添加利 No.10](./ENT-gin-tanqueray-no-ten.md) | 金酒 | 伦敦干
+- [Tanqueray Nº Ten Gin](./ENT-gin-tanqueray-no-ten.md) | 金酒 | gin
 - [添加利 Rangpur](./ENT-gin-tanqueray-rangpur.md) | 金酒 | 伦敦干
 - [塔奎莱 康沃尔](./ENT-gin-tarquins.md) | 金酒 | 英国
 - [植物学家](./ENT-gin-the-botanist.md) | 金酒 | 英国
+- [The Botanist Islay Dry Gin](./ENT-gin-the-botanist.md) | 金酒 | gin
 - [Whitley Neill](./ENT-gin-whitley-neill.md) | 金酒 | 英国
 
-## 伏特加（52）
+## 伏特加（60）
 
 - [绝对伏特加原味](./ENT-brand-absolut-original.md) | 伏特加 | 瑞典
 - [雪树伏特加](./ENT-brand-belvedere.md) | 伏特加 | 波兰
@@ -374,17 +400,21 @@
 - [灰雁伏特加](./ENT-brand-grey-goose.md) | 伏特加 | 法国
 - [斯米尔诺夫 21 号](./ENT-brand-smirnoff-no21.md) | 伏特加 | 俄罗斯
 - [红牌伏特加](./ENT-brand-stolichnaya.md) | 伏特加 | 俄罗斯
+- [Absolut Vodka](./ENT-vodka-absolut.md) | 伏特加 | vodka
 - [绝对 柠檬风味](./ENT-vodka-absolut-citron.md) | 伏特加 | 调味
 - [绝对伏特加 原味](./ENT-vodka-absolut-original.md) | 伏特加 | 瑞典
 - [波罗的海 Baltic](./ENT-vodka-baltic.md) | 伏特加 | 拉脱维亚
 - [贝尔鲁卡 Beluga](./ENT-vodka-beluga.md) | 伏特加 | 俄罗斯
+- [Belvedere Vodka](./ENT-vodka-belvedere.md) | 伏特加 | vodka
 - [雪树 Intense](./ENT-vodka-belvedere-intense.md) | 伏特加 | 波兰
 - [雪树 原味](./ENT-vodka-belvedere-original.md) | 伏特加 | 波兰
 - [白桦树 Birch](./ENT-vodka-birch.md) | 伏特加 | 俄罗斯
+- [Cîroc Vodka](./ENT-vodka-ciroc.md) | 伏特加 | vodka
 - [诗珞珂 Ciroc](./ENT-vodka-ciroc.md) | 伏特加 | 法国
 - [芬兰 Finlandia](./ENT-vodka-finlandia.md) | 伏特加 | 芬兰
 - [五湖 Pyat Ozer](./ENT-vodka-five-lakes.md) | 伏特加 | 俄罗斯
 - [灰雁 柠檬](./ENT-vodka-grey-goose-le-citron.md) | 伏特加 | 调味
+- [Grey Goose Original Vodka](./ENT-vodka-grey-goose-original.md) | 伏特加 | vodka
 - [灰雁 原味](./ENT-vodka-grey-goose-original.md) | 伏特加 | 法国
 - [皇冠 Imperia](./ENT-vodka-imperia.md) | 伏特加 | 俄罗斯
 - [坎特一号 Ketel One](./ENT-vodka-ketel-one.md) | 伏特加 | 荷兰
@@ -412,11 +442,15 @@
 - [Organic vodka](./ENT-vodka-off-161-organic-vodka.md) | OpenFoodFacts | vodka
 - [品尼高 Pinnacle](./ENT-vodka-pinnacle.md) | 伏特加 | 法国
 - [波尔金卡 Polugar](./ENT-vodka-polugar.md) | 伏特加 | 俄罗斯
+- [Reyka Vodka](./ENT-vodka-reyka.md) | 伏特加 | vodka
 - [艾丝酷 Skyy](./ENT-vodka-skyy.md) | 伏特加 | 美国
 - [斯米诺 蓝标 50 号](./ENT-vodka-smirnoff-blue.md) | 伏特加 | 英国
 - [斯米诺 No.21 红牌](./ENT-vodka-smirnoff-no-21.md) | 伏特加 | 英国
+- [Smirnoff Red Label Vodka](./ENT-vodka-smirnoff-red.md) | 伏特加 | vodka
+- [Stolichnaya (Stoli) Vodka](./ENT-vodka-stoli.md) | 伏特加 | vodka
 - [红牌 Stolichnaya](./ENT-vodka-stolichnaya.md) | 伏特加 | 俄罗斯
 - [苏联红牌 Stoli Soviet](./ENT-vodka-stolichnaya-soviet.md) | 伏特加 | 俄罗斯
+- [Tito's Handmade Vodka](./ENT-vodka-titos.md) | 伏特加 | vodka
 - [乌克兰 Ukraina](./ENT-vodka-ukraina.md) | 伏特加 | 乌克兰
 - [扎波罗热 Zaporozhye](./ENT-vodka-zaporozhye.md) | 伏特加 | 乌克兰
 - [野牛草 Zubrowka](./ENT-vodka-zubrowka.md) | 伏特加 | 波兰
@@ -571,7 +605,7 @@
 - [皮斯科](./ENT-wiki-spirit-pisco.md) | 烈酒 | Pisco
 - [韩国烧酒](./ENT-wiki-spirit-soju.md) | 烈酒 | 烧酒
 
-## 红葡萄酒（195）
+## 红葡萄酒（205）
 
 - [奥比昂城堡](./ENT-brand-haut-brion.md) | 红酒 | 波尔多
 - [拉菲古堡](./ENT-brand-lafite-rothschild.md) | 红酒 | 波尔多
@@ -665,6 +699,7 @@
 - [张裕解百纳 2017](./ENT-wine-red-changyu-cabernet-2017.md) | 红酒 | 中国
 - [教皇新堡博卡斯特 2016](./ENT-wine-red-chateauneuf-beaucastel-2016.md) | 红酒 | 罗讷河谷
 - [夏芙埃米塔日 2015](./ENT-wine-red-chave-hermitage-2015.md) | 红酒 | 罗讷河谷
+- [Château Cheval Blanc](./ENT-wine-red-cheval-blanc.md) | 红酒 | wine_red
 - [白马城堡 2015](./ENT-wine-red-cheval-blanc-2015.md) | 红酒 | 波尔多
 - [武乔 2016](./ENT-wine-red-clos-de-tart-2016.md) | 红酒 | 勃艮第
 - [克隆拉马尔 2015](./ENT-wine-red-clos-des-lambrays-2015.md) | 红酒 | 勃艮第
@@ -687,6 +722,7 @@
 - [大伊瑟索 2015](./ENT-wine-red-grands-echezeaux-2015.md) | 红酒 | 勃艮第
 - [长城干红 2017](./ENT-wine-red-great-wall-dry-red-2017.md) | 红酒 | 中国
 - [哈兰酒庄 2015](./ENT-wine-red-harlan-estate-2015.md) | 红酒 | 纳帕谷
+- [Château Haut-Brion](./ENT-wine-red-haut-brion.md) | 红酒 | wine_red
 - [红颜容城堡 2016](./ENT-wine-red-haut-brion-2016.md) | 红酒 | 波尔多
 - [海兹玛莎园 2014](./ENT-wine-red-heitz-cellar-martha-2014.md) | 红酒 | 纳帕谷
 - [神恩山 2014](./ENT-wine-red-henschke-hill-of-grace-2014.md) | 红酒 | 澳洲
@@ -698,6 +734,8 @@
 - [康帝 2015](./ENT-wine-red-la-romane-liger-belair-2015.md) | 红酒 | 勃艮第
 - [拉塔希 2015](./ENT-wine-red-la-tache-2015.md) | 红酒 | 勃艮第
 - [拉菲古堡 2010](./ENT-wine-red-lafite-2010.md) | 红酒 | 波尔多
+- [Château Lafite Rothschild](./ENT-wine-red-lafite-rothschild.md) | 红酒 | wine_red
+- [Château Latour](./ENT-wine-red-latour.md) | 红酒 | wine_red
 - [拉图城堡 2010](./ENT-wine-red-latour-2010.md) | 红酒 | 波尔多
 - [力士登堡 2015](./ENT-wine-red-latricieres-chambertin-2015.md) | 红酒 | 勃艮第
 - [里鹏 2015](./ENT-wine-red-le-pin-2015.md) | 红酒 | 波尔多
@@ -705,11 +743,15 @@
 - [雄狮城堡 2016](./ENT-wine-red-leoville-las-cases-2016.md) | 红酒 | 波尔多
 - [波菲城堡 2016](./ENT-wine-red-leoville-poyferre-2016.md) | 红酒 | 波尔多
 - [乐王吉城堡 2015](./ENT-wine-red-levangile-2015.md) | 红酒 | 波尔多
+- [Château Lynch-Bages](./ENT-wine-red-lynch-bages.md) | 红酒 | wine_red
 - [靓茨伯城堡 2016](./ENT-wine-red-lynch-bages-2016.md) | 红酒 | 波尔多
+- [Château Margaux](./ENT-wine-red-margaux.md) | 红酒 | wine_red
 - [玛歌城堡 2015](./ENT-wine-red-margaux-2015.md) | 红酒 | 波尔多
 - [马赛多 2016](./ENT-wine-red-masseto-2016.md) | 红酒 | 意大利
 - [魔爵红 2017](./ENT-wine-red-montes-alpha-m-2017.md) | 红酒 | 智利
+- [Château Montrose](./ENT-wine-red-montrose.md) | 红酒 | wine_red
 - [木桐城堡 2016](./ENT-wine-red-mouton-2016.md) | 红酒 | 波尔多
+- [Château Mouton Rothschild](./ENT-wine-red-mouton-rothschild.md) | 红酒 | wine_red
 - [蜜思妮 2015](./ENT-wine-red-musigny-vogue-2015.md) | 红酒 | 勃艮第
 - [作品一号 2016](./ENT-wine-red-opus-one-2016.md) | 红酒 | 纳帕谷
 - [奥纳亚 2016](./ENT-wine-red-ornellaia-2016.md) | 红酒 | 意大利
@@ -720,10 +762,12 @@
 - [奔富 Bin 707 2016](./ENT-wine-red-penfolds-bin-707-2016.md) | 红酒 | 澳洲
 - [奔富葛兰许 2015](./ENT-wine-red-penfolds-grange-2015.md) | 红酒 | 澳洲
 - [贝尔德诺珍藏 2012](./ENT-wine-red-pesquera-gran-reserva-2012.md) | 红酒 | 西班牙
+- [Pétrus 帕图斯](./ENT-wine-red-petrus.md) | 红酒 | wine_red
 - [柏图斯 2015](./ENT-wine-red-petrus-2015.md) | 红酒 | 波尔多
 - [碧尚男爵城堡 2016](./ENT-wine-red-pichon-baron-2016.md) | 红酒 | 波尔多
 - [碧尚女爵城堡 2016](./ENT-wine-red-pichon-lalande-2016.md) | 红酒 | 波尔多
 - [平古斯 2015](./ENT-wine-red-pingus-2015.md) | 红酒 | 西班牙
+- [Château Pontet-Canet](./ENT-wine-red-pontet-canet.md) | 红酒 | wine_red
 - [庞特卡奈城堡 2016](./ENT-wine-red-pontet-canet-2016.md) | 红酒 | 波尔多
 - [鲁臣世家城堡 2016](./ENT-wine-red-rauzan-segla-2016.md) | 红酒 | 波尔多
 - [里奇堡 2015](./ENT-wine-red-richebourg-2015.md) | 红酒 | 勃艮第
@@ -1051,7 +1095,7 @@
 - [托卡伊阿苏6篓](./ENT-wine-real-tokaji-aszu-6-puttonyos.md) | 葡萄酒 | 甜白葡萄酒
 - [滴金酒庄 2017](./ENT-wine-real-yquem-2017.md) | 葡萄酒 | 甜白葡萄酒
 
-## 清酒（75）
+## 清酒（85）
 
 - [白鹤](./ENT-baike-sake-hakutsuru.md) | 百度百科 | sake
 - [十四代](./ENT-baike-sake-juyondai.md) | 百度百科 | sake
@@ -1122,6 +1166,16 @@
 - [Miyako Sake nihonshu](./ENT-sake-off-117-miyako-sake-nihonshu.md) | OpenFoodFacts | sake
 - [Midai Sake De Cuisine 300Ml](./ENT-sake-off-118-midai-sake-de-cuisine-300ml.md) | OpenFoodFacts | sake
 - [大关](./ENT-sake-ozeki.md) | 清酒 | 日本
+- [播州一献](./ENT-sake-real-arabashiri.md) | 清酒 | 纯米酒
+- [炭屋金](./ENT-sake-real-born-gold.md) | 清酒 | 纯米大吟酿
+- [獭祭纯米大吟酿23](./ENT-sake-real-dassai-23.md) | 清酒 | 纯米大吟酿
+- [八海山特別纯米](./ENT-sake-real-hakkaisan-tokubetsu-junmai.md) | 清酒 | 特别纯米
+- [十四代](./ENT-sake-real-juyondai.md) | 清酒 | 纯米大吟酿
+- [风之森](./ENT-sake-real-kaze-no-mori.md) | 清酒 | 无滤过生原酒
+- [久保田千寿](./ENT-sake-real-kubota-senjuu.md) | 清酒 | 纯米大吟酿
+- [南部美人](./ENT-sake-real-nanbu-bijin.md) | 清酒 | 纯米大吟酿
+- [奥播磨浊酒](./ENT-sake-real-okuharima-nigori.md) | 清酒 | 浊酒
+- [龟之井](./ENT-sake-real-tatenokawa-mountain.md) | 清酒 | 纯米大吟酿
 - [清泉](./ENT-sake-seisen.md) | 清酒 | 日本
 - [写乐](./ENT-sake-sharaku.md) | 清酒 | 日本
 - [写乐 纯米吟醸](./ENT-sake-sharaku-junmai-ginjo.md) | 清酒 | 日本
@@ -1177,10 +1231,18 @@
 - [锡山](./ENT-yellow-wine-xishan.md) | 黄酒 | 无锡
 - [西塘老酒](./ENT-yellow-wine-xitang-laojiu.md) | 黄酒 | 嘉善
 
-## 米酒（32）
+## 米酒（40）
 
 - [客家娘酒](./ENT-baike-rice_wine-kejia-niangjiu.md) | 百度百科 | rice_wine
 - [日本清酒](./ENT-baike-rice_wine-riben-qingjiu.md) | 百度百科 | rice_wine
+- [桂林三花酒 52 度（玻瓶）](./ENT-rice-guilin-san-hua-52.md) | 米酒 | rice_wine
+- [桂林三花酒 洞藏 10 年](./ENT-rice-guilin-san-hua-dongzang-10.md) | 米酒 | rice_wine
+- [红荔米酒 40 度（浸泡酒）](./ENT-rice-hongli-40.md) | 米酒 | rice_wine
+- [九江双蒸 29.5 度（佳品）](./ENT-rice-jiujiang-shuangzheng-29-5.md) | 米酒 | rice_wine
+- [漓江三花酒 28 度（珍品）](./ENT-rice-lijiang-san-hua-28.md) | 米酒 | rice_wine
+- [漓江三花酒 52 度（高三）](./ENT-rice-lijiang-san-hua-52.md) | 米酒 | rice_wine
+- [绍兴米酒（烹饪用）16 度](./ENT-rice-shaoxing-cooking-16.md) | 米酒 | rice_wine
+- [石湾玉冰烧 29 度](./ENT-rice-shiwan-yubingshao-29.md) | 米酒 | rice_wine
 - [日本甘酒](./ENT-rice-wine-amazake.md) | 米酒 | 日本
 - [长乐烧](./ENT-rice-wine-changle-shao.md) | 米酒 | 米香型白酒
 - [福建老酒](./ENT-rice-wine-fujian-laojiu.md) | 米酒 | 福建
@@ -1212,7 +1274,7 @@
 - [韩国清米酒](./ENT-rice-wine-yakju.md) | 米酒 | 韩国
 - [扎泉酒](./ENT-rice-wine-zhaquan.md) | 米酒 | 扎泉
 
-## 啤酒（78）
+## 啤酒（98）
 
 - [哈尔滨啤酒](./ENT-baike-beer-haerbin-pijiu.md) | 百度百科 | beer
 - [金威啤酒](./ENT-baike-beer-jinwei-pijiu.md) | 百度百科 | beer
@@ -1275,6 +1337,26 @@
 - [Bière blonde](./ENT-beer-off-095-bi-re-blonde.md) | OpenFoodFacts | beer
 - [熊猫精酿](./ENT-beer-panda-brew.md) | 啤酒 | 中国
 - [保罗拉纳啤酒](./ENT-beer-paulaner.md) | 啤酒 | 德国
+- [朝日超爽](./ENT-beer-real-asahi-super-dry.md) | 啤酒 | 拉格
+- [百威啤酒](./ENT-beer-real-budweiser.md) | 啤酒 | 美式拉格
+- [嘉士伯啤酒](./ENT-beer-real-carlsberg-pilsner.md) | 啤酒 | 皮尔森
+- [智美蓝帽](./ENT-beer-real-chimay-blue.md) | 啤酒 | 修道院啤酒
+- [库珀斯淡色艾尔](./ENT-beer-real-coopers-pale-ale.md) | 啤酒 | 淡色艾尔
+- [科罗娜特酿](./ENT-beer-real-corona-extra.md) | 啤酒 | 墨西哥拉格
+- [内华达山淡色艾尔](./ENT-beer-real-founding-fathers-ipa.md) | 啤酒 | 美式淡色艾尔
+- [健力士黑啤酒](./ENT-beer-real-guinness-draught.md) | 啤酒 | 世涛
+- [喜力啤酒](./ENT-beer-real-heineken-lager.md) | 啤酒 | 拉格
+- [Cloudwater IPA](./ENT-beer-real-ipa-cloudwater.md) | 啤酒 | IPA
+- [康迪隆兰比克](./ENT-beer-real-lambic-cantillon.md) | 啤酒 | 兰比克
+- [乌奎尔皮尔森](./ENT-beer-real-pilsner-urquell.md) | 啤酒 | 皮尔森
+- [罗斯福10号](./ENT-beer-real-rochefort-10.md) | 啤酒 | 修道院啤酒
+- [德国皮尔森（纯净法）](./ENT-beer-real-ruhra-pils.md) | 啤酒 | 皮尔森
+- [札幌黑标生啤](./ENT-beer-real-sapporo-black.md) | 啤酒 | 拉格
+- [雪花啤酒](./ENT-beer-real-snow-beer.md) | 啤酒 | 拉格
+- [时代啤酒](./ENT-beer-real-stella-artois.md) | 啤酒 | 比利时拉格
+- [青岛啤酒](./ENT-beer-real-tsingtao.md) | 啤酒 | 拉格
+- [维森小麦白啤](./ENT-beer-real-weihenstephaner-hefeweissbier.md) | 啤酒 | 小麦啤
+- [西弗莱特伦12号](./ENT-beer-real-westvleteren-12.md) | 啤酒 | 修道院啤酒
 - [罗斯福 10 号](./ENT-beer-rochefort-10.md) | 啤酒 | 比利时
 - [罗斯福 6 号](./ENT-beer-rochefort-6.md) | 啤酒 | 比利时
 - [罗斯福 8 号](./ENT-beer-rochefort-8.md) | 啤酒 | 比利时
@@ -1379,7 +1461,7 @@
 - [Wild Blossom Hive2o Variety 4 Pack](./ENT-mead-wild-blossom-hive2o.md) | 蜂蜜酒 | mead
 - [云南野蜂蜜酒](./ENT-mead-yunnan-wild-honey.md) | 蜂蜜酒 | 中国
 
-## 鸡尾酒（328）
+## 鸡尾酒（336）
 
 - [航空邮件](./ENT-cocktail-airmail.md) | 鸡尾酒 | 现代经典
 - [亚历山大](./ENT-cocktail-alexander.md) | 鸡尾酒 | 短饮
@@ -1487,6 +1569,14 @@
 - [热托迪](./ENT-cocktail-hot-toddy.md) | 鸡尾酒 | 托迪
 - [国家酒店特调](./ENT-cocktail-hotel-nacional-special.md) | 鸡尾酒 | 现代经典
 - [飓风](./ENT-cocktail-hurricane.md) | 鸡尾酒 | Tiki
+- [Americano 美式咖啡](./ENT-cocktail-iba-americano.md) | 鸡尾酒 | cocktail
+- [Daiquiri 戴基丽](./ENT-cocktail-iba-daiquiri.md) | 鸡尾酒 | cocktail
+- [Dry Martini 干马天尼](./ENT-cocktail-iba-dry-martini.md) | 鸡尾酒 | cocktail
+- [Manhattan 曼哈顿](./ENT-cocktail-iba-manhattan.md) | 鸡尾酒 | cocktail
+- [Margarita 玛格丽特](./ENT-cocktail-iba-margarita.md) | 鸡尾酒 | cocktail
+- [Negroni 尼格罗尼](./ENT-cocktail-iba-negroni.md) | 鸡尾酒 | cocktail
+- [Old Fashioned 古典鸡尾酒](./ENT-cocktail-iba-old-fashioned.md) | 鸡尾酒 | cocktail
+- [Whiskey Sour 威士忌酸](./ENT-cocktail-iba-whiskey-sour.md) | 鸡尾酒 | cocktail
 - [改良金酒鸡尾酒](./ENT-cocktail-improved-gin-cocktail.md) | 鸡尾酒 | 古典
 - [改良威士忌鸡尾酒](./ENT-cocktail-improved-whiskey-cocktail.md) | 鸡尾酒 | 酒吧签名
 - [岩石中](./ENT-cocktail-in-the-rocks.md) | 鸡尾酒 | 酒吧签名
@@ -1758,6 +1848,22 @@
 - [葡萄酒储存规范](./SOP-wine-storage.md) | SOP | 葡萄酒
 - [红酒品鉴五步法](./SOP-wine-tasting-5steps.md) | SOP | 红酒
 
+## 陈年潜力（13）
+
+- [白酒陈年](./DEC-aging-baijiu.md) | 陈年潜力 | 白酒
+- [巴罗洛陈年](./DEC-aging-barolo.md) | 陈年潜力 | 巴罗洛
+- [啤酒陈年](./DEC-aging-beer.md) | 陈年潜力 | 啤酒
+- [香槟陈年](./DEC-aging-champagne.md) | 陈年潜力 | 香槟
+- [通用陈年速查表](./DEC-aging-chart.md) | 陈年潜力 | 速查表
+- [波特陈年](./DEC-aging-port.md) | 陈年潜力 | 波特
+- [波尔多红酒陈年](./DEC-aging-red-bordeaux.md) | 陈年潜力 | 波尔多
+- [勃艮第红酒陈年](./DEC-aging-red-burgundy.md) | 陈年潜力 | 勃艮第
+- [雷司令陈年](./DEC-aging-riesling.md) | 陈年潜力 | 雷司令
+- [清酒陈年](./DEC-aging-sake.md) | 陈年潜力 | 清酒
+- [苏玳贵腐陈年](./DEC-aging-sauternes.md) | 陈年潜力 | 苏玳
+- [威士忌陈年](./DEC-aging-whisky.md) | 陈年潜力 | 威士忌
+- [勃艮第白酒陈年](./DEC-aging-white-burgundy.md) | 陈年潜力 | 勃艮第
+
 ## 购买指南（15）
 
 - [100元以内选酒指南](./DEC-buy-by-budget-100.md) | 购买 | 预算
@@ -1873,8 +1979,28 @@
 - [美国饮酒年龄规定](./LAW-us-drinking-age.md) | 法律法规 | 饮酒年龄
 - [美国TTB酒类法规](./LAW-us-ttb.md) | 法律法规 | TTB
 
-## 餐酒搭配（15）
+## 餐酒搭配（35）
 
+- [开胃菜配酒](./DEC-pairing-appetizer.md) | 开胃菜 | 前菜
+- [烧烤配酒指南](./DEC-pairing-barbecue.md) | 烧烤 | 中式烧烤
+- [粤菜配酒指南](./DEC-pairing-cantonese.md) | 粤菜 | 清蒸
+- [奶酪配酒指南](./DEC-pairing-cheese.md) | 奶酪 | 软质
+- [巧克力配酒](./DEC-pairing-chocolate.md) | 巧克力 | 黑巧
+- [甜点配酒指南](./DEC-pairing-dessert.md) | 甜点 | 巧克力
+- [法餐配酒指南](./DEC-pairing-french.md) | 法餐 | 勃艮第
+- [火锅配酒指南](./DEC-pairing-hotpot.md) | 火锅 | 麻辣锅
+- [意餐配酒指南](./DEC-pairing-italian.md) | 意餐 | 意面
+- [日料配酒指南](./DEC-pairing-japanese.md) | 日料 | 刺身
+- [北方菜配酒指南](./DEC-pairing-northern.md) | 北方菜 | 烤鸭
+- [禽类配酒指南](./DEC-pairing-poultry.md) | 禽类 | 鸡肉
+- [红肉配酒指南](./DEC-pairing-red-meat.md) | 红肉 | 牛排
+- [按酱汁配酒](./DEC-pairing-sauce-based.md) | 酱汁 | 红酒汁
+- [海鲜配酒指南](./DEC-pairing-seafood.md) | 海鲜 | 白鱼
+- [川菜配酒指南](./DEC-pairing-sichuan.md) | 川菜 | 麻辣
+- [汤品配酒](./DEC-pairing-soup.md) | 汤品 | 浓汤
+- [辛辣菜肴配酒](./DEC-pairing-spicy.md) | 辛辣 | 川菜
+- [素食配酒指南](./DEC-pairing-vegetarian.md) | 素食 | 豆制品
+- [餐酒搭配核心原则](./DEC-pairing-weight-match.md) | 餐酒搭配 | 原则
 - [断塞/坏塞处理](./SOP-service-cork-failure.md) | 侍酒 | 断塞
 - [醒酒操作全流程](./SOP-service-decanting.md) | 侍酒 | 醒酒
 - [酒杯准备](./SOP-service-glass-prep.md) | 侍酒 | 酒杯
@@ -1890,6 +2016,66 @@
 - [起泡酒侍酒温度](./SOP-service-temperature-sparkling.md) | 侍酒 | 温度
 - [烈酒侍酒温度](./SOP-service-temperature-spirits.md) | 侍酒 | 温度
 - [白酒侍酒温度指南](./SOP-service-temperature-white.md) | 侍酒 | 温度
+
+## 酿造工艺（18）
+
+- [酒泥陈年工艺](./PROC-aging-lees.md) | 酿造工艺 | 酒泥陈年
+- [橡木桶类型对比](./PROC-aging-oak-types.md) | 酿造工艺 | 橡木桶
+- [氧化陈年vs还原陈年](./PROC-aging-oxidation.md) | 酿造工艺 | 氧化
+- [白酒固态发酵工艺](./PROC-baijiu-solid-state.md) | 酿造工艺 | 白酒
+- [啤酒糖化与煮沸](./PROC-beer-mashing.md) | 酿造工艺 | 啤酒
+- [调配工艺](./PROC-blending-art.md) | 酿造工艺 | 调配
+- [起泡工艺对比](./PROC-carbonation.md) | 酿造工艺 | 起泡酒
+- [连续蒸馏原理](./PROC-distillation-column-still.md) | 酿造工艺 | 蒸馏
+- [壶式蒸馏原理](./PROC-distillation-pot-still.md) | 酿造工艺 | 蒸馏
+- [发酵原理详解](./PROC-fermentation-basics.md) | 酿造工艺 | 发酵
+- [野生酵母vs商业酵母](./PROC-fermentation-wild-vs-commercial.md) | 酿造工艺 | 酵母
+- [过滤与下胶工艺](./PROC-filtration.md) | 酿造工艺 | 过滤
+- [加强酒工艺](./PROC-fortification.md) | 酿造工艺 | 加强酒
+- [冰酒工艺](./PROC-ice-wine.md) | 酿造工艺 | 冰酒
+- [苹果酸-乳酸发酵](./PROC-malolactic.md) | 酿造工艺 | 苹果酸-乳酸发酵
+- [橙酒工艺](./PROC-orange-wine.md) | 酿造工艺 | 橙酒
+- [桃红酿造三种方法](./PROC-rose-methods.md) | 酿造工艺 | 桃红
+- [清酒酿造工艺](./PROC-sake-brewing.md) | 酿造工艺 | 清酒
+
+## 产区风土（36）
+
+- [门多萨产区](./REGION-ar-mendoza.md) | 产区风土 | 阿根廷
+- [巴罗萨谷产区](./REGION-au-barossa.md) | 产区风土 | 澳大利亚
+- [猎人谷产区](./REGION-au-hunter-valley.md) | 产区风土 | 澳大利亚
+- [卡萨布兰卡谷产区](./REGION-cl-casablanca.md) | 产区风土 | 智利
+- [迈坡产区](./REGION-cl-maipo.md) | 产区风土 | 智利
+- [河北昌黎产区](./REGION-cn-hebei-changli.md) | 产区风土 | 中国
+- [宁夏贺兰山东麓产区](./REGION-cn-ningxia.md) | 产区风土 | 中国
+- [山东烟台产区](./REGION-cn-shandong.md) | 产区风土 | 中国
+- [新疆产区](./REGION-cn-xinjiang.md) | 产区风土 | 中国
+- [云南香格里拉产区](./REGION-cn-yunnan-shangri-la.md) | 产区风土 | 中国
+- [阿尔萨斯产区](./REGION-france-alsace.md) | 产区风土 | 法国
+- [波尔多产区](./REGION-france-bordeaux.md) | 产区风土 | 法国
+- [勃艮第产区](./REGION-france-burgundy.md) | 产区风土 | 法国
+- [香槟产区](./REGION-france-champagne.md) | 产区风土 | 法国
+- [朗格多克产区](./REGION-france-languedoc.md) | 产区风土 | 法国
+- [卢瓦尔河谷产区](./REGION-france-loire.md) | 产区风土 | 法国
+- [普罗旺斯产区](./REGION-france-provence.md) | 产区风土 | 法国
+- [罗纳河谷产区](./REGION-france-rhone.md) | 产区风土 | 法国
+- [阿布鲁佐产区](./REGION-italy-abruzzo.md) | 产区风土 | 意大利
+- [弗留利产区](./REGION-italy-friuli.md) | 产区风土 | 意大利
+- [皮德蒙特产区](./REGION-italy-piedmont.md) | 产区风土 | 意大利
+- [西西里产区](./REGION-italy-sicily.md) | 产区风土 | 意大利
+- [托斯卡纳产区](./REGION-italy-tuscany.md) | 产区风土 | 意大利
+- [威尼托产区](./REGION-italy-veneto.md) | 产区风土 | 意大利
+- [北海道产区](./REGION-jp-hokkaido.md) | 产区风土 | 日本
+- [山崎/白州威士忌产区](./REGION-jp-yamazaki.md) | 产区风土 | 日本
+- [马尔堡产区](./REGION-nz-marlborough.md) | 产区风土 | 新西兰
+- [普里奥拉托产区](./REGION-spain-priorat.md) | 产区风土 | 西班牙
+- [杜罗河岸产区](./REGION-spain-ribera-del-duero.md) | 产区风土 | 西班牙
+- [里奥哈产区](./REGION-spain-rioja.md) | 产区风土 | 西班牙
+- [艾雷岛产区](./REGION-uk-islay.md) | 产区风土 | 苏格兰
+- [斯佩塞产区](./REGION-uk-speyside.md) | 产区风土 | 苏格兰
+- [纳帕谷产区](./REGION-us-napa.md) | 产区风土 | 美国
+- [俄勒冈产区](./REGION-us-oregon.md) | 产区风土 | 美国
+- [索诺玛产区](./REGION-us-sonoma.md) | 产区风土 | 美国
+- [华盛顿州产区](./REGION-us-washington.md) | 产区风土 | 美国
 
 ## 场景推荐（15）
 

@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Brewdog]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-brewdog-punk-ipa, ENT-beer-off-093-punk-ipa, ENT-beer-tsingtao, ENT-beer-snow, ENT-baike-beer-taishan-pijiu]
-related_typed: {ENT-beer-brewdog-punk-ipa: same_brand, ENT-beer-off-093-punk-ipa: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat}
+related: [ENT-beer-brewdog-punk-ipa, ENT-beer-off-093-punk-ipa, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg]
+related_typed: {ENT-beer-brewdog-punk-ipa: same_brand, ENT-beer-off-093-punk-ipa: same_brand, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

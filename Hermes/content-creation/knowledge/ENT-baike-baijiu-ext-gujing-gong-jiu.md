@@ -7,8 +7,8 @@ tags: [白酒, 百度百科, 浓香型, 安徽, 古井贡酒]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baike-baijiu-ext-kouzijiao, ENT-baike-baijiu-ext-zhongzi-jiu, ENT-baike-baijiu-ext-xuan-jiu, ENT-baike-baijiu-ext-gaolujia-jiu, ENT-baijiu-luzhou-laojiao-tequ]
-related_typed: {ENT-baike-baijiu-ext-kouzijiao: same_region, ENT-baike-baijiu-ext-zhongzi-jiu: same_region, ENT-baike-baijiu-ext-xuan-jiu: same_region, ENT-baike-baijiu-ext-gaolujia-jiu: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
+related: [ENT-baike-baijiu-ext-kouzijiao, ENT-baike-baijiu-ext-zhongzi-jiu, ENT-baike-baijiu-ext-xuan-jiu, ENT-baike-baijiu-ext-gaolujia-jiu, ENT-baijiu-gujinggong-jiu-20]
+related_typed: {ENT-baike-baijiu-ext-kouzijiao: same_region, ENT-baike-baijiu-ext-zhongzi-jiu: same_region, ENT-baike-baijiu-ext-xuan-jiu: same_region, ENT-baike-baijiu-ext-gaolujia-jiu: same_region, ENT-baijiu-gujinggong-jiu-20: same_region}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/古井贡

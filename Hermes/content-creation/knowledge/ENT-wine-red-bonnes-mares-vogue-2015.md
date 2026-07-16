@@ -7,8 +7,8 @@ tags: [红酒, 勃艮第, 特级园]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-musigny-comte-vogues, ENT-wine-red-musigny-vogue-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-real-musigny-comte-vogues: same_brand, ENT-wine-red-musigny-vogue-2015: same_brand, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+related: [ENT-wine-real-musigny-comte-vogues, ENT-wine-red-musigny-vogue-2015, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir]
+related_typed: {ENT-wine-real-musigny-comte-vogues: same_brand, ENT-wine-red-musigny-vogue-2015: same_brand, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat}
 data_confidence: simulated
 version: 1
 ---

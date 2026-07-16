@@ -7,8 +7,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 雪莉桶]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-classic-cut, ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-15-solera]
-related_typed: {ENT-whisky-macallan-12-sherry-oak: same_brand, ENT-whisky-macallan-12-double-cask: same_brand, ENT-whisky-macallan-classic-cut: same_brand, ENT-whisky-glenfiddich-12: same_region, ENT-whisky-glenfiddich-15-solera: same_region}
+related: [ENT-whisky-macallan-sherry-oak-12, ENT-whisky-macallan-double-cask-12, ENT-whisky-macallan-30-sherry-oak, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask]
+related_typed: {ENT-whisky-macallan-sherry-oak-12: same_brand, ENT-whisky-macallan-double-cask-12: same_brand, ENT-whisky-macallan-30-sherry-oak: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region}
 data_confidence: simulated
 version: 1
 ---

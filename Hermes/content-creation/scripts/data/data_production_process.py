@@ -2992,7 +2992,7 @@ L-苹果酸 → L-乳酸 + CO2
         "tags": ["陈年潜力", "巴罗洛", "内比奥罗", "意大利"],
         "source": "WSET/Consorzio Tutela Barolo Barbaresco",
         "data_confidence": "official",
-        "summary": "巴罗洛被誉为"酒王"，陈年潜力极强，单宁酸度极高，需10-30年才达巅峰。",
+        "summary": "巴罗洛被誉为「酒王」，陈年潜力极强，单宁酸度极高，需10-30年才达巅峰。",
         "content_body": """## 陈年潜力要素
 
 ### 1. 极高单宁

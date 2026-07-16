@@ -7,8 +7,8 @@ tags: [红酒, 西班牙, Ribera del Duero]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-pingus-2015, ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-]
-related_typed: {ENT-wine-red-pingus-2015: same_region, ENT-wine-red-pesquera-gran-reserva-2012: same_region, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat}
+related: [ENT-wine-red-pingus-2015, ENT-wine-red-pesquera-gran-reserva-2012, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
+related_typed: {ENT-wine-red-pingus-2015: same_region, ENT-wine-red-pesquera-gran-reserva-2012: same_region, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
 data_confidence: simulated
 version: 1
 ---

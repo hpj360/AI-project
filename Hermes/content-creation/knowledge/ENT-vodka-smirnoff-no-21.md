@@ -7,8 +7,8 @@ tags: [伏特加, 英国, 斯米诺]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-blue, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
-related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_brand, ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-blue: same_brand, ENT-brand-finlandia: cross_region, ENT-vodka-off-141-absolut-vodka: same_subcat}
+related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-red, ENT-vodka-smirnoff-blue, ENT-vodka-off-142-poliakov]
+related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_brand, ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-red: same_brand, ENT-vodka-smirnoff-blue: same_region, ENT-vodka-off-142-poliakov: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

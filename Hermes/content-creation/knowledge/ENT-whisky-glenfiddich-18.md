@@ -7,8 +7,8 @@ tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-15-solera, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
-related_typed: {ENT-whisky-glenfiddich-12: same_brand, ENT-whisky-glenfiddich-15-solera: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region}
+related: [ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-15-solera, ENT-whisky-glenlivet-18, ENT-whisky-balvenie-doublewood-12, ENT-brand-jack-daniels-no7]
+related_typed: {ENT-whisky-glenfiddich-12: same_brand, ENT-whisky-glenfiddich-15-solera: same_brand, ENT-whisky-glenlivet-18: same_region, ENT-whisky-balvenie-doublewood-12: same_region, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: simulated
 version: 1
 ---

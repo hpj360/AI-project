@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Jade]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-off-082-bi-re-blonde-pur-malt, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-baike-beer-taishan-pijiu]
-related_typed: {ENT-beer-off-082-bi-re-blonde-pur-malt: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat}
+related: [ENT-beer-off-082-bi-re-blonde-pur-malt, ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin]
+related_typed: {ENT-beer-off-082-bi-re-blonde-pur-malt: same_brand, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

@@ -7,8 +7,8 @@ tags: [红酒, 意大利, 皮埃蒙特, 内比奥罗, DOCG]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-brand-margaux, ENT-brand-mouton-rothschild]
-related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
+related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
+related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

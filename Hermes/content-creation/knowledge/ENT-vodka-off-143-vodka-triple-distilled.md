@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, vodka, 伏特加, Smirnoff]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-no-21, ENT-vodka-smirnoff-blue, ENT-brand-belvedere, ENT-brand-stolichnaya]
-related_typed: {ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-no-21: same_brand, ENT-vodka-smirnoff-blue: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: same_subcat}
+related: [ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-red, ENT-vodka-smirnoff-no-21, ENT-brand-belvedere, ENT-brand-stolichnaya]
+related_typed: {ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-red: same_brand, ENT-vodka-smirnoff-no-21: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

@@ -7,8 +7,8 @@ tags: [清酒, 日本, 纯米酒, 越后杜氏, 新潟]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-sake-seisen, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine]
-related_typed: {ENT-sake-seisen: same_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat}
+related: [ENT-sake-seisen, ENT-sake-real-arabashiri, ENT-sake-real-nanbu-bijin, ENT-sake-real-kaze-no-mori, ENT-sake-real-born-gold]
+related_typed: {ENT-sake-seisen: same_region, ENT-sake-real-arabashiri: same_subcat, ENT-sake-real-nanbu-bijin: same_subcat, ENT-sake-real-kaze-no-mori: same_subcat, ENT-sake-real-born-gold: same_subcat}
 data_confidence: simulated
 version: 1
 ---

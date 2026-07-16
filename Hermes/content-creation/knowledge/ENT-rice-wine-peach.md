@@ -7,8 +7,8 @@ tags: [米酒, 果味, 蜜桃, 创新, 中国]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-rice-wine-sparkling, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua]
-related_typed: {ENT-rice-wine-sparkling: same_brand, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: same_subcat}
+related: [ENT-rice-wine-sparkling, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-guilin-san-hua-dongzang-10, ENT-rice-jiujiang-shuangzheng-29-5, ENT-rice-shiwan-yubingshao-29]
+related_typed: {ENT-rice-wine-sparkling: same_brand, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-guilin-san-hua-dongzang-10: cross_region, ENT-rice-jiujiang-shuangzheng-29-5: cross_region, ENT-rice-shiwan-yubingshao-29: same_subcat}
 data_confidence: simulated
 version: 1
 ---

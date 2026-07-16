@@ -7,8 +7,8 @@ tags: [红酒, 法国, 波尔多, 玛歌, 一级庄]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-margaux-2015, ENT-wine-real-palmer, ENT-wine-real-margaux-2015, ENT-brand-lafite-rothschild, ENT-brand-latour]
-related_typed: {ENT-wine-red-margaux-2015: same_brand, ENT-wine-real-palmer: same_region, ENT-wine-real-margaux-2015: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
+related: [ENT-wine-red-margaux-2015, ENT-wine-real-palmer, ENT-wine-real-margaux-2015, ENT-brand-latour, ENT-brand-margaux]
+related_typed: {ENT-wine-red-margaux-2015: same_brand, ENT-wine-real-palmer: same_region, ENT-wine-real-margaux-2015: same_region, ENT-brand-latour: cross_region, ENT-brand-margaux: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

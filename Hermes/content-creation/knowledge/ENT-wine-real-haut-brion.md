@@ -7,8 +7,8 @@ tags: [红酒, 法国, 波尔多, 佩萨克-雷奥良, 一级庄]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-haut-brion, ENT-wine-red-haut-brion-2016, ENT-wine-red-la-mission-haut-brion-2016, ENT-wine-real-haut-brion-2016, ENT-brand-lafite-rothschild]
-related_typed: {ENT-brand-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-wine-red-la-mission-haut-brion-2016: same_brand, ENT-wine-real-haut-brion-2016: same_region, ENT-brand-lafite-rothschild: same_subcat}
+related: [ENT-brand-haut-brion, ENT-wine-red-haut-brion, ENT-wine-red-haut-brion-2016, ENT-wine-real-haut-brion-2016, ENT-brand-margaux]
+related_typed: {ENT-brand-haut-brion: same_brand, ENT-wine-red-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-wine-real-haut-brion-2016: same_region, ENT-brand-margaux: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

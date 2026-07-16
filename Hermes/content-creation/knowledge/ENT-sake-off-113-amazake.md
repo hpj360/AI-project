@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, sake, 清酒]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-sake-off-096-cooking-sake, ENT-baike-sake-juyondai, ENT-baike-sake-hakutsuru, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake]
-related_typed: {ENT-sake-off-096-cooking-sake: same_region, ENT-baike-sake-juyondai: cross_region, ENT-baike-sake-hakutsuru: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: same_subcat}
+related: [ENT-sake-off-096-cooking-sake, ENT-sake-real-kubota-senjuu, ENT-sake-real-hakkaisan-tokubetsu-junmai, ENT-sake-real-juyondai, ENT-sake-real-arabashiri]
+related_typed: {ENT-sake-off-096-cooking-sake: same_region, ENT-sake-real-kubota-senjuu: cross_region, ENT-sake-real-hakkaisan-tokubetsu-junmai: cross_region, ENT-sake-real-juyondai: same_subcat, ENT-sake-real-arabashiri: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

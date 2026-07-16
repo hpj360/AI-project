@@ -7,8 +7,8 @@ tags: [葡萄酒, 红葡萄酒, 澳大利亚, Penfolds, 葛兰许, 西拉, 旗�
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-penfolds-grange, ENT-wine-real-penfolds-bin-389, ENT-wine-real-penfolds-bin-707, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
-related_typed: {ENT-wine-real-penfolds-grange: same_brand, ENT-wine-real-penfolds-bin-389: same_brand, ENT-wine-real-penfolds-bin-707: same_brand, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
+related: [ENT-wine-real-penfolds-grange, ENT-wine-real-penfolds-bin-389, ENT-wine-real-penfolds-bin-707, ENT-brand-penfolds-grange, ENT-brand-opus-one]
+related_typed: {ENT-wine-real-penfolds-grange: same_brand, ENT-wine-real-penfolds-bin-389: same_brand, ENT-wine-real-penfolds-bin-707: same_brand, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

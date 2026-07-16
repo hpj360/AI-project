@@ -7,8 +7,8 @@ tags: [鸡尾酒, 禁酒令, 1920s, 美国, 地下酒吧]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady, ENT-cocktail-bacardi-cocktail, ENT-cocktail-casablanca]
-related_typed: {ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat, ENT-cocktail-bacardi-cocktail: same_subcat, ENT-cocktail-casablanca: same_subcat}
+related: [ENT-cocktail-brandy-crusta, ENT-cocktail-bacardi-cocktail, ENT-cocktail-casablanca, ENT-cocktail-hanky-panky, ENT-cocktail-clover-club]
+related_typed: {ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-bacardi-cocktail: same_subcat, ENT-cocktail-casablanca: same_subcat, ENT-cocktail-hanky-panky: same_subcat, ENT-cocktail-clover-club: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1

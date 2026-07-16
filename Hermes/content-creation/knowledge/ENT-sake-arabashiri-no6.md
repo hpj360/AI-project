@@ -7,8 +7,8 @@ tags: [清酒, 日本, 纯米酒, 新政, 秋田]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-sake-aramasa-amaneko, ENT-sake-takashimizu, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu]
-related_typed: {ENT-sake-aramasa-amaneko: same_brand, ENT-sake-takashimizu: same_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat}
+related: [ENT-sake-aramasa-amaneko, ENT-sake-takashimizu, ENT-sake-real-juyondai, ENT-sake-real-arabashiri, ENT-sake-real-nanbu-bijin]
+related_typed: {ENT-sake-aramasa-amaneko: same_brand, ENT-sake-takashimizu: same_region, ENT-sake-real-juyondai: same_subcat, ENT-sake-real-arabashiri: same_subcat, ENT-sake-real-nanbu-bijin: same_subcat}
 data_confidence: simulated
 version: 1
 ---

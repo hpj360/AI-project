@@ -7,8 +7,8 @@ tags: [威士忌, 日本, 单一麦芽]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-whisky-yoichi-10, ENT-whisky-taketsuru-17, ENT-whisky-taketsuru-21, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12]
-related_typed: {ENT-whisky-yoichi-10: same_brand, ENT-whisky-taketsuru-17: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat}
+related: [ENT-whisky-yoichi-10, ENT-whisky-taketsuru-17, ENT-whisky-taketsuru-21, ENT-brand-hibiki-harmony, ENT-brand-hakushu]
+related_typed: {ENT-whisky-yoichi-10: same_brand, ENT-whisky-taketsuru-17: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

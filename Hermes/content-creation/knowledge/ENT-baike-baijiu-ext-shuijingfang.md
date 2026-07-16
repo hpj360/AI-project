@@ -7,8 +7,8 @@ tags: [白酒, 百度百科, 四川, 水井坊]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baijiu-shuijingfang-zhenniang-8, ENT-baijiu-shuijingfang-jingtai, ENT-baike-baijiu-ext-shede, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
-related_typed: {ENT-baijiu-shuijingfang-zhenniang-8: same_brand, ENT-baijiu-shuijingfang-jingtai: same_brand, ENT-baike-baijiu-ext-shede: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
+related: [ENT-baijiu-shuijingfang-zhenniang-8, ENT-baijiu-shuijingfang-jingtai, ENT-baike-baijiu-ext-shede, ENT-baijiu-langjiu-qinghua-lang, ENT-baijiu-luzhou-laojiao-tequ]
+related_typed: {ENT-baijiu-shuijingfang-zhenniang-8: same_brand, ENT-baijiu-shuijingfang-jingtai: same_brand, ENT-baike-baijiu-ext-shede: same_region, ENT-baijiu-langjiu-qinghua-lang: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/水井坊
