@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 美国, 纳帕谷, 赤霞珠, Wagner]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
 related_typed: {ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 35607}
-  parker: {score: 86, year: 2022}
-  wine_spectator: {score: 84, year: 2022}
-  james_suckling: {score: 87, year: 2023}
-  cellar_tracker: {score: 4.8, votes: 919}
-source_url: https://www.wine-searcher.com/find/caymus
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 35607 |
-| Robert Parker (WA) | 86 | 2022 |
-| Wine Spectator | 84 | 2022 |
-| James Suckling | 87 | 2023 |
-| CellarTracker | 4.8 | 919 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

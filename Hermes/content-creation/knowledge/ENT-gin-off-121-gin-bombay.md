@@ -5,20 +5,12 @@ category: ENT
 subcategory: gin
 tags: [OpenFoodFacts, gin, 金酒, Bacardi-Martini]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks, ENT-gin-hendricks-lunar]
 related_typed: {ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat, ENT-gin-hendricks-lunar: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 31913}
-  wine_enthusiast: {score: 100, year: 2020}
-awards:
-  - {name: ISC Silver, year: 2019, org: ISC}
-source_url: https://world.openfoodfacts.org/product/bombay
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -75,19 +67,6 @@ OpenFoodFacts 真实产品数据：Gin Bombay（Bacardi-Martini）
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 31913 |
-| Wine Enthusiast | 100 | 2020 |
-
-### 获奖记录
-
-- **2019** ISC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,15 +5,12 @@ category: ENT
 subcategory: wine_fortified
 tags: [加强酒, 味美思, Carpano, 甜味美思]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016]
 related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.0, votes: 16099}
-  wine_spectator: {score: 82, year: 2020}
 ---
 
 # 卡帕诺古老配方味美思
@@ -70,15 +67,6 @@ ratings:
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.0 | 16099 |
-| Wine Spectator | 82 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-red-clos-vougeot-meo-camuzet-2015, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-red-clos-vougeot-meo-camuzet-2015: same_region, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 43739}
-  parker: {score: 83, year: 2022}
-  wine_spectator: {score: 84, year: 2020}
-  james_suckling: {score: 87, year: 2023}
-  cellar_tracker: {score: 4.7, votes: 4664}
 ---
 
 # 伏旧园 DRC 2015
@@ -73,18 +67,6 @@ DRC 在伏旧园的份额酿造，葡萄园紧邻城堡。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 43739 |
-| Robert Parker (WA) | 83 | 2022 |
-| Wine Spectator | 84 | 2020 |
-| James Suckling | 87 | 2023 |
-| CellarTracker | 4.7 | 4664 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

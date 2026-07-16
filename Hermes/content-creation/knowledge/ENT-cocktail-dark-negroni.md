@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 酒吧签名, 黑朗姆, 苦味]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
 related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
 data_confidence: simulated
 data_source: 现代配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 27041}
-  diffords: {score: 4.28, year: 2023}
-  iba: {score: 4.9, year: 2023}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -95,16 +89,6 @@ version: 1
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 27041 |
-| Difford's Guide | 4.28 | 2023 |
-| IBA 推荐 | 4.9 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 加拿大, 调和威士忌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-crown-royal, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal]
 related_typed: {ENT-whisky-crown-royal: same_brand, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 38938}
-  whisky_fun: {score: 89, year: 2023}
-  whisky_bible: {score: 89, year: 2023}
-awards:
-  - {name: ISC Gold, year: 2021, org: ISC}
-  - {name: WWA Gold, year: 2020, org: WWA}
 ---
 
 # 皇冠 黑麦
@@ -74,21 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 38938 |
-| Whisky Fun | 89 | 2023 |
-| Whisky Bible | 89 | 2023 |
-
-### 获奖记录
-
-- **2021** ISC Gold
-- **2020** WWA Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

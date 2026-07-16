@@ -5,15 +5,12 @@ category: ENT
 subcategory: vodka
 tags: [伏特加, 荷兰, Ketel One]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-nolets-reserve, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka]
 related_typed: {ENT-gin-nolets-reserve: same_brand, ENT-vodka-off-142-poliakov: same_subcat, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat, ENT-vodka-off-145-vodka: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.2, votes: 12699}
-  wine_enthusiast: {score: 81, year: 2021}
 ---
 
 # 坎特一号 Ketel One
@@ -70,15 +67,6 @@ Ketel One，荷兰家族伏特加，铜壶蒸馏纯净顺滑。
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.2 | 12699 |
-| Wine Enthusiast | 81 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,17 +5,14 @@ category: ENT
 subcategory: yellow_wine
 tags: [百度百科, yellow_wine, 沙洲优黄]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-yellow_wine-danyang-huangjiu, ENT-baike-yellow_wine-jiaxing-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-baike-yellow_wine-guyue-longshan]
 related_typed: {ENT-baike-yellow_wine-danyang-huangjiu: cross_region, ENT-baike-yellow_wine-jiaxing-huangjiu: cross_region, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-baike-yellow_wine-guyue-longshan: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E6%B2%99%E6%B4%B2%E4%BC%98%E9%BB%84
 version: 1
-ratings:
-  vivino: {score: 3.9, votes: 34214}
-  csl: {score: 81, year: 2021}
 ---
 
 # 沙洲优黄
@@ -49,15 +46,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 34214 |
-| 中国酒类鉴评 | 81 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 文化背景
 

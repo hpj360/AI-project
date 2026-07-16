@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 亚洲, 荔枝, 伏特加, 中国]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
 related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
 data_confidence: simulated
 data_source: 中国配方
-version: 1
-ratings:
-  vivino: {score: 4.2, votes: 20144}
-  diffords: {score: 4.08, year: 2020}
-  iba: {score: 3.9, year: 2021}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -96,16 +90,6 @@ version: 1
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.2 | 20144 |
-| Difford's Guide | 4.08 | 2020 |
-| IBA 推荐 | 3.9 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

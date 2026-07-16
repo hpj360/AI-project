@@ -5,18 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 浓香, 四川, 五粮液]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-wuliangye-1618: same_brand, ENT-baijiu-wuliangye-jiaobei: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 30148}
-  csl: {score: 95, year: 2023}
-awards:
-  - {name: CMB Gold, year: 2020, org: CMB}
-  - {name: 布鲁塞尔大奖赛 银奖, year: 2022, org: 布鲁塞尔大奖赛}
 ---
 
 # 五粮液 普五 52 度
@@ -73,20 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 30148 |
-| 中国酒类鉴评 | 95 | 2023 |
-
-### 获奖记录
-
-- **2020** CMB Gold
-- **2022** 布鲁塞尔大奖赛 银奖
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

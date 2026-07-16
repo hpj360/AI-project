@@ -5,18 +5,12 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 委内瑞拉, Diplomatico, 限量]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rum-diplomatico-reserva-exclusiva, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel]
 related_typed: {ENT-rum-diplomatico-reserva-exclusiva: same_brand, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 20773}
-  wine_enthusiast: {score: 92, year: 2020}
-awards:
-  - {name: San Francisco Silver, year: 2022, org: San Francisco}
-  - {name: ISC Silver, year: 2020, org: ISC}
 ---
 
 # 外交官 Ambassador
@@ -73,20 +67,6 @@ awards:
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 20773 |
-| Wine Enthusiast | 92 | 2020 |
-
-### 获奖记录
-
-- **2022** San Francisco Silver
-- **2020** ISC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

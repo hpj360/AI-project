@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 玛歌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-margaux-2015, ENT-wine-red-rauzan-segla-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
 related_typed: {ENT-wine-red-margaux-2015: same_region, ENT-wine-red-rauzan-segla-2016: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 13047}
-  parker: {score: 88, year: 2021}
-  wine_spectator: {score: 87, year: 2021}
-  james_suckling: {score: 89, year: 2020}
-  cellar_tracker: {score: 4.8, votes: 3396}
 ---
 
 # 宝玛城堡 2015
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 13047 |
-| Robert Parker (WA) | 88 | 2021 |
-| Wine Spectator | 87 | 2021 |
-| James Suckling | 89 | 2020 |
-| CellarTracker | 4.8 | 3396 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

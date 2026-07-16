@@ -5,18 +5,12 @@ category: ENT
 subcategory: brandy
 tags: [OpenFoodFacts, brandy, 白兰地, Rémy Martin]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-xo, ENT-brandy-remy-martin-club, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-xo: same_brand, ENT-brandy-remy-martin-club: same_brand, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.5, votes: 45437}
-  wine_enthusiast: {score: 84, year: 2023}
-source_url: https://world.openfoodfacts.org/product/40
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Cognac Vsop - Fine Champagne 40°（Rémy Mar
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.5 | 45437 |
-| Wine Enthusiast | 84 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,17 +5,14 @@ category: ENT
 subcategory: baijiu
 tags: [百度百科, baijiu, 红花郎]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu, ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-fenjiu-laobaifen-10]
 related_typed: {ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat, ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat, ENT-baijiu-fenjiu-laobaifen-10: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E7%BA%A2%E8%8A%B1%E9%83%8E
 version: 1
-ratings:
-  vivino: {score: 4.2, votes: 42998}
-  csl: {score: 80, year: 2021}
 ---
 
 # 红花郎
@@ -53,15 +50,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.2 | 42998 |
-| 中国酒类鉴评 | 80 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

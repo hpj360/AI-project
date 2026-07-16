@@ -5,17 +5,12 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 危地马拉, Zacapa, 陈年]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rum-zacapa-centenario-25, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr]
 related_typed: {ENT-rum-zacapa-centenario-25: same_brand, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 21439}
-  wine_enthusiast: {score: 96, year: 2020}
-awards:
-  - {name: San Francisco Gold, year: 2020, org: San Francisco}
 ---
 
 # 萨凯帕 23
@@ -72,19 +67,6 @@ awards:
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 21439 |
-| Wine Enthusiast | 96 | 2020 |
-
-### 获奖记录
-
-- **2020** San Francisco Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

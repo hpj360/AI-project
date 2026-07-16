@@ -5,21 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 高球, 威士忌, 苏打水, 日本]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita, ENT-brand-macallan-12]
 related_typed: {ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region, ENT-brand-macallan-12: base_to_cocktail}
 data_confidence: official
 data_source: IBA 官方配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 34144}
-  diffords: {score: 4.48, year: 2023}
-  iba: {score: 5.0, year: 2021}
-awards:
-  - {name: Tales of the Cocktail Best Cocktail, year: 2022, org: Tales of the Cocktail}
-  - {name: IBA World Competition Silver, year: 2022, org: IBA World Competition}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -97,21 +88,6 @@ version: 1
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 34144 |
-| Difford's Guide | 4.48 | 2023 |
-| IBA 推荐 | 5.0 | 2021 |
-
-### 获奖记录
-
-- **2022** Tales of the Cocktail Best Cocktail
-- **2022** IBA World Competition Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

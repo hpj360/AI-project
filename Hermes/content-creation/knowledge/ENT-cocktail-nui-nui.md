@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, Tiki, 朗姆, 香草, 美国]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-zombie, ENT-cocktail-navy-grog, ENT-cocktail-test-pilot, ENT-cocktail-qb-cooler, ENT-brand-bacardi-carta-blanca]
 related_typed: {ENT-cocktail-zombie: same_region, ENT-cocktail-navy-grog: same_region, ENT-cocktail-test-pilot: same_region, ENT-cocktail-qb-cooler: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail}
 data_confidence: simulated
 data_source: Don the Beachcomber 配方
-version: 1
-ratings:
-  vivino: {score: 4.4, votes: 9186}
-  diffords: {score: 4.11, year: 2022}
-  iba: {score: 4.1, year: 2022}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -98,16 +92,6 @@ version: 1
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.4 | 9186 |
-| Difford's Guide | 4.11 | 2022 |
-| IBA 推荐 | 4.1 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

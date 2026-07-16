@@ -5,15 +5,12 @@ category: ENT
 subcategory: fruit_wine
 tags: [果酒, 黑樱桃, 核果, 丹麦]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu]
 related_typed: {ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: same_subcat, ENT-fruit-wine-umenoyado-umeshu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 43644}
-  wine_enthusiast: {score: 84, year: 2022}
 ---
 
 # 黑樱桃酒
@@ -67,15 +64,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 43644 |
-| Wine Enthusiast | 84 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

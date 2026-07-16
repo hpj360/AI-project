@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Mar de Uvas]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
 related_typed: {ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.1, votes: 20736}
-  parker: {score: 83, year: 2021}
-  wine_spectator: {score: 81, year: 2023}
-  james_suckling: {score: 81, year: 2020}
-  cellar_tracker: {score: 3.8, votes: 441}
-source_url: https://world.openfoodfacts.org/product/syrah
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ OpenFoodFacts 真实产品数据：Syrah（Mar de Uvas）
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.1 | 20736 |
-| Robert Parker (WA) | 83 | 2021 |
-| Wine Spectator | 81 | 2023 |
-| James Suckling | 81 | 2020 |
-| CellarTracker | 3.8 | 441 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

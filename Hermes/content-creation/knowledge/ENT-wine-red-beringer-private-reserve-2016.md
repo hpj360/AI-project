@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 纳帕谷, 美国]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-joseph-phelps-insignia-2016, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
 related_typed: {ENT-wine-red-joseph-phelps-insignia-2016: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 27450}
-  parker: {score: 87, year: 2021}
-  wine_spectator: {score: 85, year: 2020}
-  james_suckling: {score: 87, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 3341}
 ---
 
 # 贝灵哲私藏 2016
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 27450 |
-| Robert Parker (WA) | 87 | 2021 |
-| Wine Spectator | 85 | 2020 |
-| James Suckling | 87 | 2022 |
-| CellarTracker | 4.8 | 3341 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

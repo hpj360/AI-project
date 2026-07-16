@@ -5,20 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 原桶强度]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-ardbeg-10, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8, ENT-whisky-bowmore-12, ENT-whisky-bowmore-15]
 related_typed: {ENT-whisky-ardbeg-10: same_brand, ENT-whisky-lagavulin-16: same_region, ENT-whisky-lagavulin-8: same_region, ENT-whisky-bowmore-12: same_region, ENT-whisky-bowmore-15: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 19035}
-  whisky_fun: {score: 91, year: 2021}
-  whisky_bible: {score: 90, year: 2023}
-awards:
-  - {name: ISC Gold, year: 2020, org: ISC}
-  - {name: WWA Best in Class, year: 2022, org: WWA}
-  - {name: Malt Maniacs Gold, year: 2023, org: Malt Maniacs}
 ---
 
 # 雅伯 Uigeadail
@@ -75,22 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 19035 |
-| Whisky Fun | 91 | 2021 |
-| Whisky Bible | 90 | 2023 |
-
-### 获奖记录
-
-- **2020** ISC Gold
-- **2022** WWA Best in Class
-- **2023** Malt Maniacs Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

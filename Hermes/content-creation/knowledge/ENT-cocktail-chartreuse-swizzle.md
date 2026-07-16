@@ -5,21 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 查特酒, 朗姆, 提基]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-martinez, ENT-cocktail-saturn, ENT-cocktail-jasmine, ENT-cocktail-tommys-margarita, ENT-cocktail-fogcutter]
 related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-saturn: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-fogcutter: same_region}
 data_confidence: simulated
 data_source: Smuggler's Cove 配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 31659}
-  diffords: {score: 4.5, year: 2021}
-  iba: {score: 5.0, year: 2022}
-awards:
-  - {name: IBA World Competition Gold, year: 2021, org: IBA World Competition}
-  - {name: Tales of the Cocktail Best Cocktail, year: 2019, org: Tales of the Cocktail}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -101,21 +92,6 @@ version: 1
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 31659 |
-| Difford's Guide | 4.5 | 2021 |
-| IBA 推荐 | 5.0 | 2022 |
-
-### 获奖记录
-
-- **2021** IBA World Competition Gold
-- **2019** Tales of the Cocktail Best Cocktail
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

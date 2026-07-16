@@ -5,21 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 酸酒, 朗姆, 百加得]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-daiquiri, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-sake-bomb]
 related_typed: {ENT-cocktail-daiquiri: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 18838}
-  diffords: {score: 4.4, year: 2023}
-  iba: {score: 5.0, year: 2022}
-awards:
-  - {name: IBA World Competition Gold, year: 2021, org: IBA World Competition}
-  - {name: Tales of the Cocktail Best Cocktail, year: 2022, org: Tales of the Cocktail}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -99,21 +90,6 @@ version: 1
 | 苦 | 0 | ░░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 2 | ██░░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 18838 |
-| Difford's Guide | 4.4 | 2023 |
-| IBA 推荐 | 5.0 | 2022 |
-
-### 获奖记录
-
-- **2021** IBA World Competition Gold
-- **2022** Tales of the Cocktail Best Cocktail
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

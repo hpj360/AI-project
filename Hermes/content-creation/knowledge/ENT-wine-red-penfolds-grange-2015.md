@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 澳洲, 设拉子, 南澳]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-penfolds-bin-707-2016, ENT-wine-white-penfolds-yattarna-2016, ENT-wine-red-wolf-blass-black-label-2014, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
 related_typed: {ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine-red-wolf-blass-black-label-2014: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 6117}
-  parker: {score: 89, year: 2020}
-  wine_spectator: {score: 92, year: 2023}
-  james_suckling: {score: 89, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 3258}
-awards:
-  - {name: Concours Mondial Silver, year: 2021, org: Concours Mondial}
-  - {name: IWSC Gold, year: 2022, org: IWSC}
 ---
 
 # 奔富葛兰许 2015
@@ -76,23 +67,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 6117 |
-| Robert Parker (WA) | 89 | 2020 |
-| Wine Spectator | 92 | 2023 |
-| James Suckling | 89 | 2021 |
-| CellarTracker | 4.8 | 3258 |
-
-### 获奖记录
-
-- **2021** Concours Mondial Silver
-- **2022** IWSC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

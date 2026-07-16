@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典, 伏特加, 蔓越莓]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-dirty-martini]
 related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-dirty-martini: same_region}
 data_confidence: official
 data_source: IBA 官方配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 47197}
-  diffords: {score: 4.26, year: 2021}
-  iba: {score: 4.8, year: 2021}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -97,16 +91,6 @@ version: 1
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 47197 |
-| Difford's Guide | 4.26 | 2021 |
-| IBA 推荐 | 4.8 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

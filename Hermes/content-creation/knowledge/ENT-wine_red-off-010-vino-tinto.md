@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Don Simón]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_white-off-029-vino-blanco-chardonay, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine_white-off-029-vino-blanco-chardonay: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 37302}
-  parker: {score: 89, year: 2023}
-  wine_spectator: {score: 86, year: 2021}
-  james_suckling: {score: 87, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 4605}
-source_url: https://world.openfoodfacts.org/product/tinto
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ OpenFoodFacts 真实产品数据：Vino tinto（Don Simón）
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 37302 |
-| Robert Parker (WA) | 89 | 2023 |
-| Wine Spectator | 86 | 2021 |
-| James Suckling | 87 | 2021 |
-| CellarTracker | 4.8 | 4605 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

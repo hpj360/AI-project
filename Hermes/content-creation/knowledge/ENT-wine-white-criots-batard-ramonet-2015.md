@@ -5,17 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-white-batard-montrachet-ramonet-2015, ENT-wine-white-chassagne-caillerets-ramonet-2016, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine-white-batard-montrachet-ramonet-2015: same_brand, ENT-wine-white-chassagne-caillerets-ramonet-2016: same_brand, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.1, votes: 38605}
-  parker: {score: 83, year: 2021}
-  wine_spectator: {score: 82, year: 2020}
-  cellar_tracker: {score: 3.8, votes: 1959}
 ---
 
 # 夏山蒙哈榭克里奥 2015
@@ -72,17 +67,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.1 | 38605 |
-| Robert Parker (WA) | 83 | 2021 |
-| Wine Spectator | 82 | 2020 |
-| CellarTracker | 3.8 | 1959 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

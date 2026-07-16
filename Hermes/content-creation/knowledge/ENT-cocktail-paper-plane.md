@@ -5,20 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 波本, 阿佩罗, 等比]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-final-ward, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
 related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-final-ward: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
 data_confidence: simulated
 data_source: Milk & Honey 配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 15492}
-  diffords: {score: 4.45, year: 2020}
-  iba: {score: 5.0, year: 2021}
-awards:
-  - {name: Tales of the Cocktail Best Cocktail, year: 2023, org: Tales of the Cocktail}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -99,20 +91,6 @@ version: 1
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 15492 |
-| Difford's Guide | 4.45 | 2020 |
-| IBA 推荐 | 5.0 | 2021 |
-
-### 获奖记录
-
-- **2023** Tales of the Cocktail Best Cocktail
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

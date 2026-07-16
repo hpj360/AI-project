@@ -5,22 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 澳洲, 赤霞珠]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-penfolds-grange-2015, ENT-wine-white-penfolds-yattarna-2016, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
 related_typed: {ENT-wine-red-penfolds-grange-2015: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 34770}
-  parker: {score: 89, year: 2021}
-  wine_spectator: {score: 91, year: 2023}
-  james_suckling: {score: 89, year: 2020}
-  cellar_tracker: {score: 4.8, votes: 4815}
-awards:
-  - {name: IWSC Silver, year: 2020, org: IWSC}
-  - {name: Concours Mondial Silver, year: 2019, org: Concours Mondial}
-  - {name: Decanter Gold, year: 2019, org: Decanter}
 ---
 
 # 奔富 Bin 707 2016
@@ -77,24 +67,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 34770 |
-| Robert Parker (WA) | 89 | 2021 |
-| Wine Spectator | 91 | 2023 |
-| James Suckling | 89 | 2020 |
-| CellarTracker | 4.8 | 4815 |
-
-### 获奖记录
-
-- **2020** IWSC Silver
-- **2019** Concours Mondial Silver
-- **2019** Decanter Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

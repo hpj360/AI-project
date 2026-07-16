@@ -5,19 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 勃艮第, 夏布利, 特级园, 霞多丽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine-white-chablis-vaudesir-dauvissat-2016, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine-white-chablis-preuses-dauvissat-2016: same_region, ENT-wine-white-chablis-vaudesir-dauvissat-2016: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 21486}
-  parker: {score: 88, year: 2022}
-  wine_spectator: {score: 88, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 2042}
-awards:
-  - {name: Decanter Silver, year: 2019, org: Decanter}
 ---
 
 # 夏布利克罗 2016
@@ -74,21 +67,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 21486 |
-| Robert Parker (WA) | 88 | 2022 |
-| Wine Spectator | 88 | 2022 |
-| CellarTracker | 4.8 | 2042 |
-
-### 获奖记录
-
-- **2019** Decanter Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

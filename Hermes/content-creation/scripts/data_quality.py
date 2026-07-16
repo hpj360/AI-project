@@ -231,9 +231,50 @@ def _get_data_confidence(e):
     return m.group(1).strip() if m else 'unknown'
 
 
+def check_hallucinations(kb):
+    """幻觉检查：检测可能由 AI 编造的虚假数据。
+
+    检查项：
+    1. simulated 条目不应携带评分/获奖（评分必须来自真实数据源）
+    2. 非酒类子类不应渲染酒精度/价格/风味轮廓
+    """
+    NON_ALCOHOL_SUBCATS = {
+        "process", "region", "pairing", "glassware", "tasting_sop", "sop", "dec",
+        "anti", "guide", "other_spirit", "law", "fake", "collect", "grape",
+        "aging", "buying", "scene", "trend",
+    }
+    fake_ratings = []
+    fake_awards = []
+    misrendered = []
+
+    for e in kb.entries.values():
+        conf = _get_data_confidence(e)
+        subcat = e.structured_attrs.get('subcategory', '')
+
+        # 检查1: simulated 数据不应有评分/获奖
+        if conf == 'simulated':
+            if e.ratings:
+                fake_ratings.append((e.id, e.title, list(e.ratings.keys())))
+            if e.awards:
+                fake_awards.append((e.id, e.title, len(e.awards)))
+
+        # 检查2: 非酒类子类不应含酒精度/价格/风味轮廓
+        if subcat in NON_ALCOHOL_SUBCATS:
+            if '参考价格' in e.content or '风味轮廓' in e.content:
+                misrendered.append((e.id, e.title, subcat))
+
+    return {
+        'fake_ratings': fake_ratings,
+        'fake_awards': fake_awards,
+        'misrendered': misrendered,
+    }
+
+
 def generate_quality_report(kb):
     """生成数据质量看板。"""
     total = len(kb)
+    if total == 0:
+        return "知识库为空，无法生成报告。"
 
     # 置信度分布
     conf = Counter(_get_data_confidence(e) for e in kb.entries.values())
@@ -251,6 +292,9 @@ def generate_quality_report(kb):
 
     # 衰减检查
     freshness = check_data_freshness(kb)
+
+    # 幻觉检查
+    halluc = check_hallucinations(kb)
 
     report = f"""
 {'='*60}
@@ -273,6 +317,11 @@ def generate_quality_report(kb):
   价格过期(>6月):    {len(freshness['price_stale'])} 条
   评分过期(>12月):   {len(freshness['rating_stale'])} 条
   通用过期(>24月):   {len(freshness['general_stale'])} 条
+
+防幻觉检查:
+  simulated含编造评分: {len(halluc['fake_ratings'])} 条 {'✓' if not halluc['fake_ratings'] else '← 需修复'}
+  simulated含编造获奖: {len(halluc['fake_awards'])} 条 {'✓' if not halluc['fake_awards'] else '← 需修复'}
+  非酒类条目错误渲染:  {len(halluc['misrendered'])} 条 {'✓' if not halluc['misrendered'] else '← 需修复'}
 """
     return report
 

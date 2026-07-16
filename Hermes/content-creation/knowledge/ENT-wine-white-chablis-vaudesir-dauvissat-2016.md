@@ -5,17 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 勃艮第, 夏布利, 特级园]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-white-chablis-preuses-dauvissat-2016, ENT-wine-white-chablis-clos-raveneau-2016, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc]
 related_typed: {ENT-wine-white-chablis-preuses-dauvissat-2016: same_brand, ENT-wine-white-chablis-clos-raveneau-2016: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 40303}
-  parker: {score: 88, year: 2021}
-  wine_spectator: {score: 87, year: 2023}
-  cellar_tracker: {score: 4.8, votes: 3371}
 ---
 
 # 夏布利沃德西尔 2016
@@ -72,17 +67,6 @@ Dauvissat 的 Vaudésir 特级园，风格强劲矿物。
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 40303 |
-| Robert Parker (WA) | 88 | 2021 |
-| Wine Spectator | 87 | 2023 |
-| CellarTracker | 4.8 | 3371 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,17 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 浓香, 四川, 舍得]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-tuopai-tequ, ENT-baike-baijiu-shede-jiu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
 related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baike-baijiu-shede-jiu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 24640}
-  csl: {score: 88, year: 2021}
-awards:
-  - {name: CMB Silver, year: 2022, org: CMB}
 ---
 
 # 舍得 智慧舍得
@@ -72,19 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 24640 |
-| 中国酒类鉴评 | 88 | 2021 |
-
-### 获奖记录
-
-- **2022** CMB Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

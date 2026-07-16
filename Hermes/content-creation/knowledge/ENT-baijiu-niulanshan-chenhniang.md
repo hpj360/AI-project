@@ -5,15 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 清香, 北京, 牛栏山]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-niulanshan-erguotou-lvping, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
 related_typed: {ENT-baijiu-niulanshan-erguotou-lvping: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.1, votes: 2727}
-  csl: {score: 80, year: 2023}
 ---
 
 # 牛栏山 陈酿
@@ -70,15 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.1 | 2727 |
-| 中国酒类鉴评 | 80 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

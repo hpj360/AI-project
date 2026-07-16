@@ -5,20 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 新世界, 霞多丽, 奔富]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-penfolds-grange-2015, ENT-wine-red-penfolds-bin-707-2016, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc]
 related_typed: {ENT-wine-red-penfolds-grange-2015: same_brand, ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 45363}
-  parker: {score: 92, year: 2021}
-  wine_spectator: {score: 90, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 2096}
-awards:
-  - {name: Decanter Silver, year: 2023, org: Decanter}
-  - {name: IWSC Silver, year: 2022, org: IWSC}
 ---
 
 # 奔富雅塔娜 2016
@@ -75,22 +67,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 45363 |
-| Robert Parker (WA) | 92 | 2021 |
-| Wine Spectator | 90 | 2021 |
-| CellarTracker | 4.8 | 2096 |
-
-### 获奖记录
-
-- **2023** Decanter Silver
-- **2022** IWSC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

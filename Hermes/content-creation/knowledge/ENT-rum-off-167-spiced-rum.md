@@ -5,20 +5,12 @@ category: ENT
 subcategory: rum
 tags: [OpenFoodFacts, rum, 朗姆酒, Captain Morgan]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40]
 related_typed: {ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 20169}
-  wine_enthusiast: {score: 90, year: 2023}
-awards:
-  - {name: ISC Silver, year: 2021, org: ISC}
-source_url: https://world.openfoodfacts.org/product/rum
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -75,19 +67,6 @@ OpenFoodFacts 真实产品数据：Spiced Rum（Captain Morgan）
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 20169 |
-| Wine Enthusiast | 90 | 2023 |
-
-### 获奖记录
-
-- **2021** ISC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

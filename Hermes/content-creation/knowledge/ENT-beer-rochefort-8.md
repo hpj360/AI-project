@@ -5,15 +5,12 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 比利时, 罗斯福, 修道院啤酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-beer-rochefort-6, ENT-beer-rochefort-10, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
 related_typed: {ENT-beer-rochefort-6: same_brand, ENT-beer-rochefort-10: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.7, votes: 22528}
-  ratebeer: {score: 85, year: 2020}
 ---
 
 # 罗斯福 8 号
@@ -69,15 +66,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.7 | 22528 |
-| RateBeer | 85 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

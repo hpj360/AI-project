@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 短饮, 伏特加, 牛肉汤, 咸鲜]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-last-word, ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-saketini]
 related_typed: {ENT-cocktail-last-word: same_region, ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
-version: 1
-ratings:
-  vivino: {score: 4.0, votes: 23952}
-  diffords: {score: 4.04, year: 2023}
-  iba: {score: 3.7, year: 2021}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -98,16 +92,6 @@ version: 1
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.0 | 23952 |
-| Difford's Guide | 4.04 | 2023 |
-| IBA 推荐 | 3.7 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

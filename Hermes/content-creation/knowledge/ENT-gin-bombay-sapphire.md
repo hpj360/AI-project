@@ -5,17 +5,12 @@ category: ENT
 subcategory: gin
 tags: [金酒, 伦敦干, 英国, 孟买]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-off-124-gin-tonic, ENT-gin-off-127-bombay-sapphire-london-dry-gin, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry]
 related_typed: {ENT-gin-off-124-gin-tonic: same_brand, ENT-gin-off-127-bombay-sapphire-london-dry-gin: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 46619}
-  wine_enthusiast: {score: 92, year: 2021}
-awards:
-  - {name: ISC Silver, year: 2023, org: ISC}
 ---
 
 # 孟买蓝宝石
@@ -72,19 +67,6 @@ awards:
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 46619 |
-| Wine Enthusiast | 92 | 2021 |
-
-### 获奖记录
-
-- **2023** ISC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

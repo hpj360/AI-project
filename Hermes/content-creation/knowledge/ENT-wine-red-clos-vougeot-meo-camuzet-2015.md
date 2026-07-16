@@ -5,20 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 勃艮第, 特级园]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-clos-vougeot-drc-2015, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
 related_typed: {ENT-wine-red-clos-vougeot-drc-2015: same_region, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 47115}
-  parker: {score: 87, year: 2023}
-  wine_spectator: {score: 89, year: 2020}
-  james_suckling: {score: 87, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 3258}
-awards:
-  - {name: IWSC Gold, year: 2021, org: IWSC}
 ---
 
 # 伏旧园 Méo-Camuzet 2015
@@ -75,22 +67,6 @@ Méo-Camuzet 在伏旧园的份额，邻近城堡，结构深厚。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 47115 |
-| Robert Parker (WA) | 87 | 2023 |
-| Wine Spectator | 89 | 2020 |
-| James Suckling | 87 | 2022 |
-| CellarTracker | 4.8 | 3258 |
-
-### 获奖记录
-
-- **2021** IWSC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

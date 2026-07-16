@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, CHIVAS REGAL]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12]
 related_typed: {ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 44643}
-  whisky_fun: {score: 86, year: 2023}
-  whisky_bible: {score: 87, year: 2023}
-source_url: https://world.openfoodfacts.org/product/o
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -74,16 +67,6 @@ OpenFoodFacts 真实产品数据：Whisky 40% 12 y. o（CHIVAS REGAL）
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 44643 |
-| Whisky Fun | 86 | 2023 |
-| Whisky Bible | 87 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

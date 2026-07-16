@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 智利, 佳美娜]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-don-melchor-2017, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
 related_typed: {ENT-wine-red-don-melchor-2017: same_brand, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 32831}
-  parker: {score: 84, year: 2021}
-  wine_spectator: {score: 86, year: 2023}
-  james_suckling: {score: 85, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 3034}
 ---
 
 # 卡尔明 2017
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 32831 |
-| Robert Parker (WA) | 84 | 2021 |
-| Wine Spectator | 86 | 2023 |
-| James Suckling | 85 | 2022 |
-| CellarTracker | 4.8 | 3034 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

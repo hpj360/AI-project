@@ -5,20 +5,12 @@ category: ENT
 subcategory: tequila
 tags: [OpenFoodFacts, tequila, 龙舌兰, Jose Cuervo]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-jose-cuervo-especial-gold, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold]
 related_typed: {ENT-tequila-off-195-jose-cuervo-tequila-especial: same_brand, ENT-tequila-jose-cuervo-especial-gold: same_brand, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 43558}
-  wine_enthusiast: {score: 87, year: 2022}
-awards:
-  - {name: San Francisco Double Gold, year: 2019, org: San Francisco}
-source_url: https://world.openfoodfacts.org/product/tequila
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -75,19 +67,6 @@ OpenFoodFacts 真实产品数据：Blue Agave Gold Tequila（Jose Cuervo）
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 43558 |
-| Wine Enthusiast | 87 | 2022 |
-
-### 获奖记录
-
-- **2019** San Francisco Double Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

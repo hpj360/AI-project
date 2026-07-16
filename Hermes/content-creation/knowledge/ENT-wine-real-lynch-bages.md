@@ -5,23 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 波亚克, 五级庄]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-lafite-rothschild, ENT-wine-real-latour, ENT-wine-real-mouton-rothschild, ENT-wine-real-pichon-longueville-baron, ENT-brand-margaux]
 related_typed: {ENT-wine-real-lafite-rothschild: same_region, ENT-wine-real-latour: same_region, ENT-wine-real-mouton-rothschild: same_region, ENT-wine-real-pichon-longueville-baron: same_region, ENT-brand-margaux: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 32501}
-  parker: {score: 90, year: 2021}
-  wine_spectator: {score: 90, year: 2021}
-  james_suckling: {score: 88, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 4680}
-awards:
-  - {name: Decanter Bronze, year: 2019, org: Decanter}
-source_url: https://www.wine-searcher.com/find/bages
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -78,22 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 32501 |
-| Robert Parker (WA) | 90 | 2021 |
-| Wine Spectator | 90 | 2021 |
-| James Suckling | 88 | 2022 |
-| CellarTracker | 4.8 | 4680 |
-
-### 获奖记录
-
-- **2019** Decanter Bronze
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

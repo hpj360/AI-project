@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 酒吧签名, 梅斯卡尔, 苦味]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-verbena, ENT-cocktail-in-the-rocks, ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco]
 related_typed: {ENT-cocktail-verbena: same_region, ENT-cocktail-in-the-rocks: same_region, ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail}
 data_confidence: simulated
 data_source: 现代配方
-version: 1
-ratings:
-  vivino: {score: 4.2, votes: 33181}
-  diffords: {score: 4.08, year: 2020}
-  iba: {score: 3.9, year: 2021}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -95,16 +89,6 @@ version: 1
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.2 | 33181 |
-| Difford's Guide | 4.08 | 2020 |
-| IBA 推荐 | 3.9 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

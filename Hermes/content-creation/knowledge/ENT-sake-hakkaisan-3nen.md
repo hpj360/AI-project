@@ -5,17 +5,12 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米酒, 八海山, 熟成]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-genshu, ENT-sake-josen-mizunogotoshi]
 related_typed: {ENT-sake-hakkaisan-honjozo: same_brand, ENT-sake-hakkaisan-ginjo: same_brand, ENT-sake-hakkaisan-junmai-daiginjo: same_brand, ENT-sake-hakkaisan-genshu: same_region, ENT-sake-josen-mizunogotoshi: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 33594}
-  sake_revue: {score: 97, year: 2021}
-awards:
-  - {name: IWC Gold, year: 2022, org: IWC}
 ---
 
 # 八海山 3年熟成
@@ -71,19 +66,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 33594 |
-| Sake Revue | 97 | 2021 |
-
-### 获奖记录
-
-- **2022** IWC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

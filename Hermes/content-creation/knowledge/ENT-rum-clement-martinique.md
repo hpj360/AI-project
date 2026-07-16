@@ -5,17 +5,12 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 马提尼克, Clément, rhum agricole]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum]
 related_typed: {ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat, ENT-rum-off-167-spiced-rum: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 15774}
-  wine_enthusiast: {score: 89, year: 2021}
-awards:
-  - {name: San Francisco Silver, year: 2021, org: San Francisco}
 ---
 
 # 马蒂尼卡斯 Clément
@@ -72,19 +67,6 @@ Clément，马提尼克农业朗姆，甘蔗汁法式酿造经典。
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 15774 |
-| Wine Enthusiast | 89 | 2021 |
-
-### 获奖记录
-
-- **2021** San Francisco Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,19 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 难忘杯（The Unforgettables）, Ramos Gin Fizz, 摇和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-baijiu-sour, ENT-cocktail-maotai-martini, ENT-cocktail-chinese-colada, ENT-cocktail-earl-grey-martini, ENT-cocktail-jasmine-tea-cocktail]
 related_typed: {ENT-cocktail-baijiu-sour: same_subcat, ENT-cocktail-maotai-martini: same_subcat, ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-earl-grey-martini: same_subcat, ENT-cocktail-jasmine-tea-cocktail: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 5152}
-  diffords: {score: 4.27, year: 2022}
-  iba: {score: 4.8, year: 2021}
-source_url: https://iba-world.com/iba-cocktail/fizz/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -87,16 +80,6 @@ Shake all ingredients (except soda) vigorously with ice, strain into a highball 
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 5152 |
-| Difford's Guide | 4.27 | 2022 |
-| IBA 推荐 | 4.8 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

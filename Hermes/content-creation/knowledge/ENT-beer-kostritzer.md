@@ -5,15 +5,12 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 德国, 卡力特, 黑啤, 施瓦兹比尔]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu]
 related_typed: {ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 27885}
-  ratebeer: {score: 85, year: 2023}
 ---
 
 # 卡力特啤酒
@@ -69,15 +66,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 27885 |
-| RateBeer | 85 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

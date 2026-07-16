@@ -5,25 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 波亚克, 一级庄]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-latour, ENT-wine-real-mouton-rothschild, ENT-wine-real-pichon-longueville-baron, ENT-wine-real-lynch-bages, ENT-brand-lafite-rothschild]
 related_typed: {ENT-wine-real-latour: same_region, ENT-wine-real-mouton-rothschild: same_region, ENT-wine-real-pichon-longueville-baron: same_region, ENT-wine-real-lynch-bages: same_region, ENT-brand-lafite-rothschild: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 41604}
-  parker: {score: 94, year: 2023}
-  wine_spectator: {score: 94, year: 2021}
-  james_suckling: {score: 92, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 4359}
-awards:
-  - {name: IWSC Gold, year: 2021, org: IWSC}
-  - {name: Concours Mondial Gold, year: 2021, org: Concours Mondial}
-  - {name: Decanter Silver, year: 2019, org: Decanter}
-source_url: https://www.wine-searcher.com/find/rothschild
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -80,24 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 41604 |
-| Robert Parker (WA) | 94 | 2023 |
-| Wine Spectator | 94 | 2021 |
-| James Suckling | 92 | 2021 |
-| CellarTracker | 4.8 | 4359 |
-
-### 获奖记录
-
-- **2021** IWSC Gold
-- **2021** Concours Mondial Gold
-- **2019** Decanter Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

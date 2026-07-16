@@ -5,15 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 兼香, 安徽, 口子窖]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-kouzijiao-20nian, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
 related_typed: {ENT-baijiu-kouzijiao-20nian: same_brand, ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.2, votes: 30017}
-  csl: {score: 80, year: 2021}
 ---
 
 # 口子窖 10 年
@@ -70,15 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.2 | 30017 |
-| 中国酒类鉴评 | 80 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

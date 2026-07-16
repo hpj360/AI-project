@@ -5,19 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Shotgun, 摇和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta]
 related_typed: {ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail, ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.3, votes: 9198}
-  diffords: {score: 4.11, year: 2021}
-  iba: {score: 4.0, year: 2020}
-source_url: https://iba-world.com/iba-cocktail/shotgun/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -83,16 +76,6 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 9198 |
-| Difford's Guide | 4.11 | 2021 |
-| IBA 推荐 | 4.0 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

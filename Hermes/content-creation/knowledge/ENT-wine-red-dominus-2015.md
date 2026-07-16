@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 纳帕谷, 美国]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-]
 related_typed: {ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 3.9, votes: 22612}
-  parker: {score: 79, year: 2023}
-  wine_spectator: {score: 79, year: 2021}
-  james_suckling: {score: 80, year: 2023}
-  cellar_tracker: {score: 3.6, votes: 1492}
 ---
 
 # 多明纳斯 2015
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 22612 |
-| Robert Parker (WA) | 79 | 2023 |
-| Wine Spectator | 79 | 2021 |
-| James Suckling | 80 | 2023 |
-| CellarTracker | 3.6 | 1492 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 一级庄]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-margaux, ENT-wine-red-rauzan-segla-2016, ENT-wine-red-palmer-2015, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-real-margaux: same_brand, ENT-wine-red-rauzan-segla-2016: same_region, ENT-wine-red-palmer-2015: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 14998}
-  parker: {score: 94, year: 2022}
-  wine_spectator: {score: 92, year: 2023}
-  james_suckling: {score: 92, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 3359}
-awards:
-  - {name: Concours Mondial Gold, year: 2021, org: Concours Mondial}
-  - {name: Decanter Bronze, year: 2020, org: Decanter}
 ---
 
 # 玛歌城堡 2015
@@ -76,23 +67,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 14998 |
-| Robert Parker (WA) | 94 | 2022 |
-| Wine Spectator | 92 | 2023 |
-| James Suckling | 92 | 2022 |
-| CellarTracker | 4.8 | 3359 |
-
-### 获奖记录
-
-- **2021** Concours Mondial Gold
-- **2020** Decanter Bronze
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 中国, 云南, 玫瑰蜜]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru]
 related_typed: {ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 18519}
-  parker: {score: 83, year: 2023}
-  wine_spectator: {score: 84, year: 2023}
-  james_suckling: {score: 86, year: 2020}
-  cellar_tracker: {score: 4.7, votes: 4900}
 ---
 
 # 云南红 2017
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 18519 |
-| Robert Parker (WA) | 83 | 2023 |
-| Wine Spectator | 84 | 2023 |
-| James Suckling | 86 | 2020 |
-| CellarTracker | 4.7 | 4900 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

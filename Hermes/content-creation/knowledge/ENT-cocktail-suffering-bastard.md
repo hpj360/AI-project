@@ -5,16 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, Tiki, 波本, 金酒, 姜汁啤酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 47753}
-  diffords: {score: 4.36, year: 2021}
-  iba: {score: 5.0, year: 2022}
 ---
 
 # 苦难混蛋
@@ -94,16 +90,6 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 47753 |
-| Difford's Guide | 4.36 | 2021 |
-| IBA 推荐 | 5.0 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

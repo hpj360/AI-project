@@ -5,16 +5,12 @@ category: ENT
 subcategory: mead
 tags: [蜂蜜酒, 美国, 气泡, sparkling]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-mead-strawberry, ENT-mead-blueberry, ENT-mead-peach, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 5228}
-  wine_enthusiast: {score: 89, year: 2021}
-  ratebeer: {score: 86, year: 2021}
 ---
 
 # 起泡蜂蜜酒
@@ -68,16 +64,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 5228 |
-| Wine Enthusiast | 89 | 2021 |
-| RateBeer | 86 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

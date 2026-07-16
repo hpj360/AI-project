@@ -5,18 +5,12 @@ category: ENT
 subcategory: gin
 tags: [OpenFoodFacts, gin, 金酒, Bombay Sapphire]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-off-127-bombay-sapphire-london-dry-gin, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks, ENT-gin-hendricks-lunar]
 related_typed: {ENT-gin-off-127-bombay-sapphire-london-dry-gin: same_brand, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat, ENT-gin-hendricks-lunar: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 4077}
-  wine_enthusiast: {score: 86, year: 2022}
-source_url: https://world.openfoodfacts.org/product/tonic
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Gin & Tonic（Bombay Sapphire）
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 4077 |
-| Wine Enthusiast | 86 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

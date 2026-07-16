@@ -5,20 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-balvenie-14-caribbean-cask, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-classic-cut]
 related_typed: {ENT-whisky-balvenie-14-caribbean-cask: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region, ENT-whisky-macallan-classic-cut: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 39900}
-  whisky_fun: {score: 90, year: 2022}
-  whisky_bible: {score: 88, year: 2021}
-awards:
-  - {name: Malt Maniacs Silver, year: 2023, org: Malt Maniacs}
-  - {name: ISC Trophy, year: 2022, org: ISC}
-  - {name: WWA Best in Class, year: 2020, org: WWA}
 ---
 
 # 百富 12 年双桶
@@ -75,22 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 39900 |
-| Whisky Fun | 90 | 2022 |
-| Whisky Bible | 88 | 2021 |
-
-### 获奖记录
-
-- **2023** Malt Maniacs Silver
-- **2022** ISC Trophy
-- **2020** WWA Best in Class
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

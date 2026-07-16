@@ -5,16 +5,14 @@ category: ENT
 subcategory: wine_red
 tags: [百度百科, wine, 王朝葡萄酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-wine-helanshan-putaojiu, ENT-baike-wine-zhangyu-putaojiu, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu, ENT-baike-wine-weilong-putaojiu]
 related_typed: {ENT-baike-wine-helanshan-putaojiu: cross_region, ENT-baike-wine-zhangyu-putaojiu: same_subcat, ENT-baike-wine-zhangyu-jiebaina: same_subcat, ENT-baike-wine-changcheng-putaojiu: same_subcat, ENT-baike-wine-weilong-putaojiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E7%8E%8B%E6%9C%9D%E8%91%A1%E8%90%84%E9%85%92
 version: 1
-ratings:
-  vivino: {score: 4.3, votes: 42952}
 ---
 
 # 王朝葡萄酒
@@ -48,14 +46,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 42952 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

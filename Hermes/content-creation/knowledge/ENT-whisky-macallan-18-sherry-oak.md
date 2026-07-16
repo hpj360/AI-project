@@ -5,18 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 雪莉桶]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-classic-cut, ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-15-solera]
 related_typed: {ENT-whisky-macallan-12-sherry-oak: same_brand, ENT-whisky-macallan-12-double-cask: same_brand, ENT-whisky-macallan-classic-cut: same_brand, ENT-whisky-glenfiddich-12: same_region, ENT-whisky-glenfiddich-15-solera: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 46592}
-  whisky_fun: {score: 96, year: 2020}
-  whisky_bible: {score: 94, year: 2021}
-awards:
-  - {name: WWA Silver, year: 2019, org: WWA}
 ---
 
 # 麦卡伦 18 年雪莉桶
@@ -73,20 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 46592 |
-| Whisky Fun | 96 | 2020 |
-| Whisky Bible | 94 | 2021 |
-
-### 获奖记录
-
-- **2019** WWA Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

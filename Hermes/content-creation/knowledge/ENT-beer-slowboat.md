@@ -5,18 +5,12 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 中国, 悠航, 精酿, 北京]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-beer-snow, ENT-beer-yanjing, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-nbpt]
 related_typed: {ENT-beer-snow: same_region, ENT-beer-yanjing: same_region, ENT-beer-jing-a: same_region, ENT-beer-great-leap: same_region, ENT-beer-nbpt: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 32405}
-  ratebeer: {score: 88, year: 2020}
-awards:
-  - {name: WBA Silver, year: 2023, org: WBA}
-  - {name: World Beer Cup Bronze, year: 2023, org: World Beer Cup}
 ---
 
 # 悠航啤酒
@@ -72,20 +66,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 32405 |
-| RateBeer | 88 | 2020 |
-
-### 获奖记录
-
-- **2023** WBA Silver
-- **2023** World Beer Cup Bronze
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

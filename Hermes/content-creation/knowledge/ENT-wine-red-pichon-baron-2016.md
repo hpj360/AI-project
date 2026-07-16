@@ -5,22 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 波亚克]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-pichon-longueville-baron, ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-lalande-2016]
 related_typed: {ENT-wine-real-pichon-longueville-baron: same_brand, ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-lalande-2016: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 2129}
-  parker: {score: 88, year: 2021}
-  wine_spectator: {score: 89, year: 2023}
-  james_suckling: {score: 88, year: 2023}
-  cellar_tracker: {score: 4.8, votes: 309}
-awards:
-  - {name: Concours Mondial Silver, year: 2020, org: Concours Mondial}
-  - {name: Decanter Silver, year: 2020, org: Decanter}
-  - {name: IWSC Gold, year: 2023, org: IWSC}
 ---
 
 # 碧尚男爵城堡 2016
@@ -77,24 +67,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 2129 |
-| Robert Parker (WA) | 88 | 2021 |
-| Wine Spectator | 89 | 2023 |
-| James Suckling | 88 | 2023 |
-| CellarTracker | 4.8 | 309 |
-
-### 获奖记录
-
-- **2020** Concours Mondial Silver
-- **2020** Decanter Silver
-- **2023** IWSC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

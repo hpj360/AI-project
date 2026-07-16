@@ -5,17 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 浓香, 四川, 泸州老窖]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-luzhou-laojiao-tequ: same_brand, ENT-baijiu-luzhou-guojiao-1573: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 42444}
-  csl: {score: 92, year: 2022}
-awards:
-  - {name: CMB Silver, year: 2023, org: CMB}
 ---
 
 # 泸州老窖 头曲
@@ -72,19 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 42444 |
-| 中国酒类鉴评 | 92 | 2022 |
-
-### 获奖记录
-
-- **2023** CMB Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

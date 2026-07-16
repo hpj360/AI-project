@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 圣埃美隆, 一级A等]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-ausone, ENT-wine-real-troplong-mondot, ENT-wine-real-angelus, ENT-brand-lafite-rothschild, ENT-brand-latour]
 related_typed: {ENT-wine-real-ausone: same_region, ENT-wine-real-troplong-mondot: same_region, ENT-wine-real-angelus: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 33051}
-  parker: {score: 84, year: 2022}
-  wine_spectator: {score: 83, year: 2021}
-  james_suckling: {score: 87, year: 2021}
-  cellar_tracker: {score: 4.7, votes: 1072}
-source_url: https://www.wine-searcher.com/find/blanc
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 33051 |
-| Robert Parker (WA) | 84 | 2022 |
-| Wine Spectator | 83 | 2021 |
-| James Suckling | 87 | 2021 |
-| CellarTracker | 4.7 | 1072 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

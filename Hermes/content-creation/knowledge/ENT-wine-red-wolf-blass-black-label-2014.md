@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 澳洲, 设拉子]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-penfolds-grange-2015, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
 related_typed: {ENT-wine-red-penfolds-grange-2015: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.1, votes: 1784}
-  parker: {score: 80, year: 2021}
-  wine_spectator: {score: 81, year: 2020}
-  james_suckling: {score: 81, year: 2022}
-  cellar_tracker: {score: 3.8, votes: 351}
 ---
 
 # 禾富黑牌 2014
@@ -73,18 +67,6 @@ Wolf Blass 旗舰黑牌，多品种混酿，曾连续获大赛金奖。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.1 | 1784 |
-| Robert Parker (WA) | 80 | 2021 |
-| Wine Spectator | 81 | 2020 |
-| James Suckling | 81 | 2022 |
-| CellarTracker | 3.8 | 351 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

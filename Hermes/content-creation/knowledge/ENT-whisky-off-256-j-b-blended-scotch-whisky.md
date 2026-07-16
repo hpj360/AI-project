@@ -5,23 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, JB]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7]
 related_typed: {ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 47588}
-  whisky_fun: {score: 91, year: 2023}
-  whisky_bible: {score: 88, year: 2021}
-awards:
-  - {name: ISC Trophy, year: 2023, org: ISC}
-  - {name: Malt Maniacs Gold, year: 2020, org: Malt Maniacs}
-  - {name: WWA Gold, year: 2022, org: WWA}
-source_url: https://world.openfoodfacts.org/product/whisky
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -78,22 +67,6 @@ OpenFoodFacts 真实产品数据：J&B Blended Scotch Whisky（JB）
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 47588 |
-| Whisky Fun | 91 | 2023 |
-| Whisky Bible | 88 | 2021 |
-
-### 获奖记录
-
-- **2023** ISC Trophy
-- **2020** Malt Maniacs Gold
-- **2022** WWA Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

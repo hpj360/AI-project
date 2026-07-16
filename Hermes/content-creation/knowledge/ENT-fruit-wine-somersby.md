@@ -5,15 +5,12 @@ category: ENT
 subcategory: fruit_wine
 tags: [果酒, 西打酒, 苹果酒, 丹麦, Somersby]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-beer-carlsberg, ENT-baike-fruit_wine-zhuyeqing-jiu, ENT-baike-fruit_wine-jinjiu, ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu]
 related_typed: {ENT-beer-carlsberg: same_brand, ENT-baike-fruit_wine-zhuyeqing-jiu: cross_region, ENT-baike-fruit_wine-jinjiu: cross_region, ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 16442}
-  wine_enthusiast: {score: 89, year: 2022}
 ---
 
 # Somersby 西打酒
@@ -69,15 +66,6 @@ Somersby 丹麦西打酒，嘉士伯集团出品，苹果风味清爽，全球�
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 16442 |
-| Wine Enthusiast | 89 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

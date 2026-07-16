@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 一级庄, 赤霞珠]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-haut-brion, ENT-wine-red-haut-brion-2016, ENT-wine-red-la-mission-haut-brion-2016, ENT-brand-lafite-rothschild, ENT-brand-latour]
 related_typed: {ENT-wine-real-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-wine-red-la-mission-haut-brion-2016: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 41393}
-  parker: {score: 85, year: 2020}
-  wine_spectator: {score: 87, year: 2020}
-  james_suckling: {score: 85, year: 2023}
-  cellar_tracker: {score: 4.8, votes: 4694}
-source_url: https://en.wikipedia.org/wiki/brion
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -75,18 +66,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 41393 |
-| Robert Parker (WA) | 85 | 2020 |
-| Wine Spectator | 87 | 2020 |
-| James Suckling | 85 | 2023 |
-| CellarTracker | 4.8 | 4694 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

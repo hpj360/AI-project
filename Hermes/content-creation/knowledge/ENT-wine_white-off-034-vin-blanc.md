@@ -5,20 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [OpenFoodFacts, wine_white, 白葡萄酒, La Villageoise]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine_white-off-025-vin-blanc-sec: same_brand, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-031-vino-blanco: cross_region, ENT-wine_white-off-035-vin-blanc-classic: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 3.9, votes: 48300}
-  parker: {score: 79, year: 2020}
-  wine_spectator: {score: 79, year: 2020}
-  cellar_tracker: {score: 3.6, votes: 4193}
-source_url: https://world.openfoodfacts.org/product/blanc
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -75,17 +67,6 @@ OpenFoodFacts 真实产品数据：Vin blanc（La Villageoise）
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 48300 |
-| Robert Parker (WA) | 79 | 2020 |
-| Wine Spectator | 79 | 2020 |
-| CellarTracker | 3.6 | 4193 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

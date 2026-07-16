@@ -5,15 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 酱香, 贵州, 钓鱼台]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-guotai-guobiao, ENT-baijiu-laimao-chuancheng, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
 related_typed: {ENT-baijiu-guotai-guobiao: same_region, ENT-baijiu-laimao-chuancheng: same_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.4, votes: 38567}
-  csl: {score: 81, year: 2021}
 ---
 
 # 钓鱼台 国宾
@@ -70,15 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.4 | 38567 |
-| 中国酒类鉴评 | 81 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

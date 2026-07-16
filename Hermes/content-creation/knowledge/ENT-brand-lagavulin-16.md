@@ -5,22 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 艾雷岛, 单一麦芽, 泥煤]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white]
 related_typed: {ENT-brand-laphroaig-10: same_region, ENT-brand-johnnie-walker-black: cross_region, ENT-brand-chivas-regal-12: cross_region, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 49709}
-  whisky_fun: {score: 91, year: 2021}
-  whisky_bible: {score: 92, year: 2022}
-awards:
-  - {name: Malt Maniacs Silver, year: 2020, org: Malt Maniacs}
-  - {name: ISC Silver, year: 2022, org: ISC}
-source_url: https://en.wikipedia.org/wiki/16
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,21 +66,6 @@ version: 1
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 49709 |
-| Whisky Fun | 91 | 2021 |
-| Whisky Bible | 92 | 2022 |
-
-### 获奖记录
-
-- **2020** Malt Maniacs Silver
-- **2022** ISC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

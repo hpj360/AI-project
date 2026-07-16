@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 朗姆, 经典]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-mojito, ENT-cocktail-mary-pickford, ENT-cocktail-el-presidente, ENT-cocktail-cuba-libre, ENT-cocktail-hotel-nacional-special]
 related_typed: {ENT-cocktail-mojito: same_region, ENT-cocktail-mary-pickford: same_region, ENT-cocktail-el-presidente: same_region, ENT-cocktail-cuba-libre: same_region, ENT-cocktail-hotel-nacional-special: same_region}
 data_confidence: official
 data_source: IBA 官方配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 14136}
-  diffords: {score: 4.31, year: 2021}
-  iba: {score: 5.0, year: 2022}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -97,16 +91,6 @@ version: 1
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 14136 |
-| Difford's Guide | 4.31 | 2021 |
-| IBA 推荐 | 5.0 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

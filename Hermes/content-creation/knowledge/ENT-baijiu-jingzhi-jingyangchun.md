@@ -5,18 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 芝麻香, 山东, 景芝]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
 related_typed: {ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 49559}
-  csl: {score: 90, year: 2023}
-awards:
-  - {name: CMB Gold, year: 2020, org: CMB}
-  - {name: 布鲁塞尔大奖赛 大金奖, year: 2022, org: 布鲁塞尔大奖赛}
 ---
 
 # 景芝 景阳春
@@ -73,20 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 49559 |
-| 中国酒类鉴评 | 90 | 2023 |
-
-### 获奖记录
-
-- **2020** CMB Gold
-- **2022** 布鲁塞尔大奖赛 大金奖
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

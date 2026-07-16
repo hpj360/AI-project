@@ -5,15 +5,12 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 出羽樱, 山形]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-sake-dewazakura, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux]
 related_typed: {ENT-sake-dewazakura: same_brand, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.3, votes: 33450}
-  sake_revue: {score: 81, year: 2020}
 ---
 
 # 出羽樱 一路
@@ -69,15 +66,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 33450 |
-| Sake Revue | 81 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

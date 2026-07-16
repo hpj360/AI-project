@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, Jack Daniel's]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-jack-daniels-old-no7, ENT-whisky-jack-daniels-single-barrel, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10]
 related_typed: {ENT-whisky-off-247-whisky-old-n-7: same_brand, ENT-whisky-jack-daniels-old-no7: same_brand, ENT-whisky-jack-daniels-single-barrel: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 18473}
-  whisky_fun: {score: 84, year: 2022}
-  whisky_bible: {score: 87, year: 2021}
-source_url: https://world.openfoodfacts.org/product/whiskey
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -74,16 +67,6 @@ OpenFoodFacts 真实产品数据：Tennessee Whiskey（Jack Daniel's）
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 18473 |
-| Whisky Fun | 84 | 2022 |
-| Whisky Bible | 87 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

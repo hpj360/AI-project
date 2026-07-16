@@ -5,15 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 弗兰恰科塔, Berlucchi, 无年份]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-sparkling-berlucchi-cellarius-nv, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt]
 related_typed: {ENT-wine-sparkling-berlucchi-cellarius-nv: same_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 42365}
-  wine_spectator: {score: 86, year: 2020}
 ---
 
 # 古伊多贝鲁奇 61
@@ -70,15 +67,6 @@ Berlucchi 61 系列纪念 1961 年首产弗兰恰科塔。
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 42365 |
-| Wine Spectator | 86 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

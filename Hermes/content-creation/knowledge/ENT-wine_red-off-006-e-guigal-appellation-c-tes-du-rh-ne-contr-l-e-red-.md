@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, E. Guigal]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-cote-rotie-guigal-2015, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-015-cabernet-sauvigon]
 related_typed: {ENT-wine-red-cote-rotie-guigal-2015: same_brand, ENT-wine_red-off-004-pinot-noir: same_region, ENT-wine_red-off-005-cabernet-sauvignon: same_region, ENT-wine_red-off-009-mouton-cadet: same_region, ENT-wine_red-off-015-cabernet-sauvigon: same_region}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 10176}
-  parker: {score: 85, year: 2020}
-  wine_spectator: {score: 85, year: 2021}
-  james_suckling: {score: 86, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 1332}
-source_url: https://world.openfoodfacts.org/product/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ OpenFoodFacts 真实产品数据：E.Guigal Appellation Côtes Du Rhône Contrô
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 10176 |
-| Robert Parker (WA) | 85 | 2020 |
-| Wine Spectator | 85 | 2021 |
-| James Suckling | 86 | 2021 |
-| CellarTracker | 4.8 | 1332 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,19 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Lord Pimm, 直接注入]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-daiquiri, ENT-cocktail-sazerac, ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady]
 related_typed: {ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sazerac: same_subcat, ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 45334}
-  diffords: {score: 4.39, year: 2020}
-  iba: {score: 5.0, year: 2021}
-source_url: https://iba-world.com/iba-cocktail/pimm/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -83,16 +76,6 @@ Build Pimm's, gin and lemon juice into a highball glass over ice, top with lemon
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 45334 |
-| Difford's Guide | 4.39 | 2020 |
-| IBA 推荐 | 5.0 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-red-echezeaux-drc-2015, ENT-wine-red-echezeaux-jayer-1999]
 related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-red-echezeaux-drc-2015: same_region, ENT-wine-red-echezeaux-jayer-1999: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 33260}
-  parker: {score: 85, year: 2020}
-  wine_spectator: {score: 84, year: 2023}
-  james_suckling: {score: 84, year: 2020}
-  cellar_tracker: {score: 4.8, votes: 4945}
 ---
 
 # 大伊瑟索 2015
@@ -73,18 +67,6 @@ DRC 特级园，结构比 Échézeaux 更深厚，邻近 Clos de Vougeot。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 33260 |
-| Robert Parker (WA) | 85 | 2020 |
-| Wine Spectator | 84 | 2023 |
-| James Suckling | 84 | 2020 |
-| CellarTracker | 4.8 | 4945 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

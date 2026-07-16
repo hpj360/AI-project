@@ -5,18 +5,12 @@ category: ENT
 subcategory: mead
 tags: [蜂蜜酒, 英国, 传统, mead]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-mead-melomel, ENT-mead-cyser, ENT-mead-ginger, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-melomel: same_brand, ENT-mead-cyser: same_region, ENT-mead-ginger: same_region, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 13401}
-  wine_enthusiast: {score: 88, year: 2021}
-  ratebeer: {score: 89, year: 2020}
-awards:
-  - {name: Mazer Cup Gold, year: 2021, org: Mazer Cup}
 ---
 
 # 传统蜂蜜酒
@@ -70,20 +64,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 13401 |
-| Wine Enthusiast | 88 | 2021 |
-| RateBeer | 89 | 2020 |
-
-### 获奖记录
-
-- **2021** Mazer Cup Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

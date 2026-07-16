@@ -5,19 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Penicillin, 摇和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-daiquiri, ENT-cocktail-sazerac, ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady]
 related_typed: {ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sazerac: same_subcat, ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 3.9, votes: 47544}
-  diffords: {score: 4.03, year: 2021}
-  iba: {score: 3.6, year: 2022}
-source_url: https://iba-world.com/iba-cocktail/penicillin/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -84,16 +77,6 @@ IBA 官方 新时代（New Era Drinks） 系列鸡尾酒 Penicillin（盘尼西�
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 47544 |
-| Difford's Guide | 4.03 | 2021 |
-| IBA 推荐 | 3.6 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

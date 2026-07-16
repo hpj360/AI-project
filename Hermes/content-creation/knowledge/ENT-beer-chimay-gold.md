@@ -5,15 +5,12 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 比利时, 智美, 修道院啤酒, 金啤]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-beer-chimay-blue, ENT-beer-chimay-red, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
 related_typed: {ENT-beer-chimay-blue: same_brand, ENT-beer-chimay-red: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 29060}
-  ratebeer: {score: 87, year: 2021}
 ---
 
 # 智美金帽
@@ -69,15 +66,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 29060 |
-| RateBeer | 87 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,17 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-white-chevalier-montrachet-leflaive-2015, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine-white-puligny-pucelles-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-combettes-leflaive-2016]
 related_typed: {ENT-wine-white-chevalier-montrachet-leflaive-2015: same_brand, ENT-wine-white-batard-montrachet-leflaive-2015: same_brand, ENT-wine-white-puligny-pucelles-leflaive-2015: same_brand, ENT-wine-white-montrachet-drc-2014: same_region, ENT-wine-white-puligny-combettes-leflaive-2016: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 8542}
-  parker: {score: 85, year: 2023}
-  wine_spectator: {score: 87, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 1460}
 ---
 
 # 蒙哈榭乐弗莱夫 2014
@@ -72,17 +67,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 8542 |
-| Robert Parker (WA) | 85 | 2023 |
-| Wine Spectator | 87 | 2021 |
-| CellarTracker | 4.8 | 1460 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

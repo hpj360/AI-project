@@ -5,18 +5,12 @@ category: ENT
 subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒, Brewdog]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-beer-brewdog-punk-ipa, ENT-beer-off-093-punk-ipa, ENT-beer-tsingtao, ENT-beer-snow, ENT-baike-beer-taishan-pijiu]
 related_typed: {ENT-beer-brewdog-punk-ipa: same_brand, ENT-beer-off-093-punk-ipa: same_brand, ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.4, votes: 10113}
-  ratebeer: {score: 83, year: 2022}
-source_url: https://world.openfoodfacts.org/product/ipa
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Alus BREWDOG PUNK ipa（Brewdog）
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.4 | 10113 |
-| RateBeer | 83 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,17 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Jacquesson, 无年份]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
 related_typed: {ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 5310}
-  wine_spectator: {score: 89, year: 2020}
-awards:
-  - {name: IWSC Gold, year: 2023, org: IWSC}
 ---
 
 # 杰克森七百号
@@ -72,19 +67,6 @@ Jacquesson 编号系列香槟，每版以基酒年份命名。
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 5310 |
-| Wine Spectator | 89 | 2020 |
-
-### 获奖记录
-
-- **2023** IWSC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

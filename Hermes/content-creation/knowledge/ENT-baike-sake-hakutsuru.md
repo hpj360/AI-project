@@ -5,19 +5,14 @@ category: ENT
 subcategory: sake
 tags: [百度百科, sake, 白鹤]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-sake-juyondai, ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner]
 related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E7%99%BD%E9%B9%A4
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 27324}
-  sake_revue: {score: 87, year: 2022}
-awards:
-  - {name: 全国新酒鉴评会 金赏, year: 2019, org: 全国新酒鉴评会}
 ---
 
 # 白鹤
@@ -51,19 +46,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 27324 |
-| Sake Revue | 87 | 2022 |
-
-### 获奖记录
-
-- **2019** 全国新酒鉴评会 金赏
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

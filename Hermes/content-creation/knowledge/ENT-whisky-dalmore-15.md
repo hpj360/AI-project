@@ -5,20 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 高地, 雪莉桶]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-dalmore-12, ENT-whisky-glenmorangie-original, ENT-whisky-glenmorangie-lasanta, ENT-whisky-clynelish-14, ENT-brand-jim-beam-white]
 related_typed: {ENT-whisky-dalmore-12: same_brand, ENT-whisky-glenmorangie-original: same_region, ENT-whisky-glenmorangie-lasanta: same_region, ENT-whisky-clynelish-14: same_region, ENT-brand-jim-beam-white: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 14466}
-  whisky_fun: {score: 89, year: 2021}
-  whisky_bible: {score: 90, year: 2020}
-awards:
-  - {name: WWA Best in Class, year: 2022, org: WWA}
-  - {name: ISC Silver, year: 2021, org: ISC}
-  - {name: Malt Maniacs Gold, year: 2021, org: Malt Maniacs}
 ---
 
 # 大摩 15 年
@@ -75,22 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 14466 |
-| Whisky Fun | 89 | 2021 |
-| Whisky Bible | 90 | 2020 |
-
-### 获奖记录
-
-- **2022** WWA Best in Class
-- **2021** ISC Silver
-- **2021** Malt Maniacs Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

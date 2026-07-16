@@ -5,17 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 意大利, 灰皮诺, 威尼托]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
 related_typed: {ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 42641}
-  parker: {score: 84, year: 2020}
-  wine_spectator: {score: 84, year: 2023}
-  cellar_tracker: {score: 4.7, votes: 1845}
 ---
 
 # 圣玛格丽特灰皮诺 2019
@@ -72,17 +67,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 42641 |
-| Robert Parker (WA) | 84 | 2020 |
-| Wine Spectator | 84 | 2023 |
-| CellarTracker | 4.7 | 1845 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

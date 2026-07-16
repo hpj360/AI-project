@@ -5,14 +5,12 @@ category: ENT
 subcategory: guide
 tags: [ANTI, 禁忌, 未成年, 安全]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [SOP-champagne-service, SOP-wine-decanting, SOP-cocktail-shaking, SOP-cocktail-stirring, SOP-cocktail-muddling]
 related_typed: {SOP-champagne-service: same_subcat, SOP-wine-decanting: same_subcat, SOP-cocktail-shaking: same_subcat, SOP-cocktail-stirring: same_subcat, SOP-cocktail-muddling: same_subcat}
 data_confidence: official
 data_source: 未成年人保护法 / WHO 青少年饮酒报告
-version: 1
-crawl_date: 2024-07-07
 version: 1
 ---
 

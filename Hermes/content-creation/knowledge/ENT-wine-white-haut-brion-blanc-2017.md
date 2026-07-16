@@ -5,19 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 波尔多, 赛美蓉, 长相思]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-white-domaine-de-chevalier-blanc-2017, ENT-wine-white-smith-haut-lafitte-blanc-2017, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
 related_typed: {ENT-wine-white-domaine-de-chevalier-blanc-2017: same_region, ENT-wine-white-smith-haut-lafitte-blanc-2017: same_region, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 43422}
-  parker: {score: 90, year: 2020}
-  wine_spectator: {score: 87, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 2847}
-awards:
-  - {name: Decanter Gold, year: 2019, org: Decanter}
 ---
 
 # 侯伯王白 2017
@@ -74,21 +67,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 43422 |
-| Robert Parker (WA) | 90 | 2020 |
-| Wine Spectator | 87 | 2021 |
-| CellarTracker | 4.8 | 2847 |
-
-### 获奖记录
-
-- **2019** Decanter Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

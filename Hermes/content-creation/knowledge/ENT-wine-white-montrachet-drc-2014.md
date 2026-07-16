@@ -5,19 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 勃艮第, 特级园, DRC, 霞多丽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-chevalier-montrachet-leflaive-2015]
 related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-white-montrachet-leflaive-2014: same_region, ENT-wine-white-chevalier-montrachet-leflaive-2015: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 36548}
-  parker: {score: 92, year: 2020}
-  wine_spectator: {score: 91, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 1825}
-awards:
-  - {name: IWSC Silver, year: 2019, org: IWSC}
 ---
 
 # 蒙哈榭 DRC 2014
@@ -74,21 +67,6 @@ DRC 在 Montrachet 的份额，全球最稀缺的白葡萄酒之一。
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 36548 |
-| Robert Parker (WA) | 92 | 2020 |
-| Wine Spectator | 91 | 2021 |
-| CellarTracker | 4.8 | 1825 |
-
-### 获奖记录
-
-- **2019** IWSC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

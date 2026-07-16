@@ -5,22 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 澳洲, 设拉子, 猎人谷]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto]
 related_typed: {ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 21985}
-  parker: {score: 89, year: 2021}
-  wine_spectator: {score: 88, year: 2020}
-  james_suckling: {score: 87, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 442}
-awards:
-  - {name: Decanter Gold, year: 2020, org: Decanter}
-  - {name: IWSC Gold, year: 2020, org: IWSC}
-  - {name: Concours Mondial Gold, year: 2022, org: Concours Mondial}
 ---
 
 # 布肯伍德墓园 2016
@@ -77,24 +67,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 21985 |
-| Robert Parker (WA) | 89 | 2021 |
-| Wine Spectator | 88 | 2020 |
-| James Suckling | 87 | 2021 |
-| CellarTracker | 4.8 | 442 |
-
-### 获奖记录
-
-- **2020** Decanter Gold
-- **2020** IWSC Gold
-- **2022** Concours Mondial Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

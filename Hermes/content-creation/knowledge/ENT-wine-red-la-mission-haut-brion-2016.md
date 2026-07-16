@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 佩萨克-雷奥良]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-haut-brion, ENT-wine-red-haut-brion-2016, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
 related_typed: {ENT-wine-real-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 46024}
-  parker: {score: 83, year: 2023}
-  wine_spectator: {score: 85, year: 2020}
-  james_suckling: {score: 85, year: 2021}
-  cellar_tracker: {score: 4.5, votes: 2584}
 ---
 
 # 小红颜容 2016
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 46024 |
-| Robert Parker (WA) | 83 | 2023 |
-| Wine Spectator | 85 | 2020 |
-| James Suckling | 85 | 2021 |
-| CellarTracker | 4.5 | 2584 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,19 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Graycoat, 搅和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-americano, ENT-cocktail-margarita, ENT-cocktail-daiquiri, ENT-cocktail-sidecar, ENT-cocktail-sazerac]
 related_typed: {ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat, ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sidecar: same_subcat, ENT-cocktail-sazerac: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.0, votes: 28481}
-  diffords: {score: 4.05, year: 2020}
-  iba: {score: 3.7, year: 2020}
-source_url: https://iba-world.com/iba-cocktail/graycoat/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -83,16 +76,6 @@ Pour all ingredients into mixing glass with ice cubes. Stir and strain into a ch
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.0 | 28481 |
-| Difford's Guide | 4.05 | 2020 |
-| IBA 推荐 | 3.7 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

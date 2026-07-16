@@ -5,23 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [OpenFoodFacts, wine_white, 白葡萄酒, FREIXENET]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-043-vino-blanco-semidulce, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-027-vin, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019]
 related_typed: {ENT-wine_white-off-031-vino-blanco: same_region, ENT-wine_white-off-043-vino-blanco-semidulce: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-027-vin: cross_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 15301}
-  parker: {score: 89, year: 2020}
-  wine_spectator: {score: 90, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 2231}
-awards:
-  - {name: IWSC Silver, year: 2020, org: IWSC}
-  - {name: Decanter Gold, year: 2023, org: Decanter}
-source_url: https://world.openfoodfacts.org/product/no
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -78,22 +67,6 @@ OpenFoodFacts 真实产品数据：Cordon Negro šumivé víno（FREIXENET），
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 15301 |
-| Robert Parker (WA) | 89 | 2020 |
-| Wine Spectator | 90 | 2022 |
-| CellarTracker | 4.8 | 2231 |
-
-### 获奖记录
-
-- **2020** IWSC Silver
-- **2023** Decanter Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

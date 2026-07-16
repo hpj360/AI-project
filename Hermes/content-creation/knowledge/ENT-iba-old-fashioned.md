@@ -5,22 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 难忘杯（The Unforgettables）, Old Fashioned, 摇和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-makgeolli-cocktail, ENT-cocktail-baijiu-sour, ENT-cocktail-maotai-martini, ENT-cocktail-chinese-colada, ENT-cocktail-earl-grey-martini]
 related_typed: {ENT-cocktail-makgeolli-cocktail: same_subcat, ENT-cocktail-baijiu-sour: same_subcat, ENT-cocktail-maotai-martini: same_subcat, ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-earl-grey-martini: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 10585}
-  diffords: {score: 4.47, year: 2023}
-  iba: {score: 5.0, year: 2023}
-awards:
-  - {name: Tales of the Cocktail Best Cocktail, year: 2020, org: Tales of the Cocktail}
-  - {name: IBA World Competition Silver, year: 2022, org: IBA World Competition}
-source_url: https://iba-world.com/iba-cocktail/fashioned/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -84,21 +74,6 @@ IBA 官方 难忘杯（The Unforgettables） 系列鸡尾酒 Old Fashioned（古
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 10585 |
-| Difford's Guide | 4.47 | 2023 |
-| IBA 推荐 | 5.0 | 2023 |
-
-### 获奖记录
-
-- **2020** Tales of the Cocktail Best Cocktail
-- **2022** IBA World Competition Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

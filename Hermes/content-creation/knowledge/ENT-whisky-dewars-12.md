@@ -5,16 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-dewars-18, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25, ENT-whisky-ballantines-12]
 related_typed: {ENT-whisky-dewars-18: same_brand, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region, ENT-whisky-chivas-regal-25: same_region, ENT-whisky-ballantines-12: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.3, votes: 19107}
-  whisky_fun: {score: 83, year: 2020}
-  whisky_bible: {score: 83, year: 2022}
 ---
 
 # 帝王 12 年
@@ -71,16 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 19107 |
-| Whisky Fun | 83 | 2020 |
-| Whisky Bible | 83 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

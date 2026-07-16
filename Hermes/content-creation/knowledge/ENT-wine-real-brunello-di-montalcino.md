@@ -5,24 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 意大利, 托斯卡纳, 蒙塔尔奇诺, 桑娇维塞, DOCG]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-brand-haut-brion, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 36212}
-  parker: {score: 89, year: 2023}
-  wine_spectator: {score: 90, year: 2021}
-  james_suckling: {score: 87, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 4194}
-awards:
-  - {name: IWSC Gold, year: 2019, org: IWSC}
-  - {name: Decanter Bronze, year: 2020, org: Decanter}
-source_url: https://www.wine-searcher.com/find/montalcino
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -79,23 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 36212 |
-| Robert Parker (WA) | 89 | 2023 |
-| Wine Spectator | 90 | 2021 |
-| James Suckling | 87 | 2022 |
-| CellarTracker | 4.8 | 4194 |
-
-### 获奖记录
-
-- **2019** IWSC Gold
-- **2020** Decanter Bronze
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

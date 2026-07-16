@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 波美侯, 梅洛]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-trotanoy-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-red-trotanoy-2015: same_brand, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 3880}
-  parker: {score: 96, year: 2020}
-  wine_spectator: {score: 99, year: 2023}
-  james_suckling: {score: 96, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 4051}
-awards:
-  - {name: Concours Mondial Gold, year: 2023, org: Concours Mondial}
-  - {name: Decanter Silver, year: 2019, org: Decanter}
 ---
 
 # 柏图斯 2015
@@ -76,23 +67,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 3880 |
-| Robert Parker (WA) | 96 | 2020 |
-| Wine Spectator | 99 | 2023 |
-| James Suckling | 96 | 2021 |
-| CellarTracker | 4.8 | 4051 |
-
-### 获奖记录
-
-- **2023** Concours Mondial Gold
-- **2019** Decanter Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

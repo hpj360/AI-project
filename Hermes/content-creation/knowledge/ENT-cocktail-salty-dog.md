@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代, 伏特加, 葡萄柚, 盐边]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-violet-hour-bishop, ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-martini]
 related_typed: {ENT-cocktail-violet-hour-bishop: same_region, ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-martini: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 49331}
-  diffords: {score: 4.36, year: 2020}
-  iba: {score: 5.0, year: 2022}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -95,16 +89,6 @@ version: 1
 | 苦 | 3 | ███░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 2 | ██░░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 49331 |
-| Difford's Guide | 4.36 | 2020 |
-| IBA 推荐 | 5.0 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

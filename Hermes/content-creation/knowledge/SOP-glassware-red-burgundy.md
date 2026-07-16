@@ -5,14 +5,12 @@ category: ENT
 subcategory: glassware
 tags: [酒具器皿, 酒杯, 勃艮第, 黑皮诺, 红酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [SOP-glassware-red-bordeaux, SOP-glassware-white, SOP-glassware-sparkling, SOP-glassware-spirits, SOP-glassware-sake]
 related_typed: {SOP-glassware-red-bordeaux: same_subcat, SOP-glassware-white: same_subcat, SOP-glassware-sparkling: same_subcat, SOP-glassware-spirits: same_subcat, SOP-glassware-sake: same_subcat}
 data_confidence: official
 data_source: RIEDEL官方杯型指南/WSET标准
-version: 1
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -36,20 +34,6 @@ version: 1
 - **外文名**：Burgundy Glass
 - **分类**：酒具器皿
 - **产地**：
-- **酒精度**：未知
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
-
-## 风味轮廓
-
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 3 | ███░░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 合规信息
 

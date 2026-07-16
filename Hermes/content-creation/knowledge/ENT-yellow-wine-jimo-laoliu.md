@@ -5,15 +5,12 @@ category: ENT
 subcategory: yellow_wine
 tags: [黄酒, 即墨, 山东, 黍米]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-yellow-wine-jimo-laoliu-huangjiu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang]
 related_typed: {ENT-yellow-wine-jimo-laoliu-huangjiu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 23494}
-  csl: {score: 88, year: 2020}
 ---
 
 # 即墨老酒
@@ -69,15 +66,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 23494 |
-| 中国酒类鉴评 | 88 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

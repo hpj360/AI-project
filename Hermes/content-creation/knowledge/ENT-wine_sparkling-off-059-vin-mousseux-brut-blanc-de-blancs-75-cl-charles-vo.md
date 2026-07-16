@@ -5,20 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Charles Volner]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 related_typed: {ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 34641}
-  wine_spectator: {score: 89, year: 2021}
-awards:
-  - {name: Decanter Silver, year: 2023, org: Decanter}
-source_url: https://world.openfoodfacts.org/product/vo
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -75,19 +67,6 @@ OpenFoodFacts 真实产品数据：Vin mousseux brut blanc de blancs 75 cl Charl
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 34641 |
-| Wine Spectator | 89 | 2021 |
-
-### 获奖记录
-
-- **2023** Decanter Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

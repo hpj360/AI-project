@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 安格仕苦精, 酸酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
 related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
 data_confidence: simulated
 data_source: Milk & Honey 配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 16204}
-  diffords: {score: 4.25, year: 2021}
-  iba: {score: 4.8, year: 2020}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -97,16 +91,6 @@ version: 1
 | 苦 | 5 | █████ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 16204 |
-| Difford's Guide | 4.25 | 2021 |
-| IBA 推荐 | 4.8 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

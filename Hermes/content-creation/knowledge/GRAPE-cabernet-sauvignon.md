@@ -5,16 +5,12 @@ category: ENT
 subcategory: grape
 tags: [葡萄品种, 红品种, 赤霞珠, 波尔多]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [GRAPE-merlot, GRAPE-pinot-noir, GRAPE-syrah, GRAPE-grenache, GRAPE-malbec]
 related_typed: {GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat, GRAPE-malbec: same_subcat}
 data_confidence: official
 data_source: Wine Grapes (Jancis Robinson)/WSET
-version: 1
-ratings:
-  vivino: {score: 4.6, votes: 5950}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -38,28 +34,6 @@ version: 1
 - **外文名**：Cabernet Sauvignon
 - **分类**：葡萄品种
 - **产地**：
-- **酒精度**：未知
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
-
-## 风味轮廓
-
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 3 | ███░░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.6 | 5950 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

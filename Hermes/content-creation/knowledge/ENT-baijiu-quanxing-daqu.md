@@ -5,15 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 浓香, 四川, 全兴]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-shuijingfang-zhenniang-8, ENT-baijiu-shuijingfang-jingtai, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-luzhou-laojiao-tequ]
 related_typed: {ENT-baijiu-shuijingfang-zhenniang-8: same_region, ENT-baijiu-shuijingfang-jingtai: same_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat, ENT-baijiu-luzhou-laojiao-tequ: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.1, votes: 29604}
-  csl: {score: 79, year: 2020}
 ---
 
 # 全兴大曲
@@ -70,15 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.1 | 29604 |
-| 中国酒类鉴评 | 79 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

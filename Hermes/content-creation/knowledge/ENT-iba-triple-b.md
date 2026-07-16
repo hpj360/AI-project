@@ -5,19 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Triple B, 摇和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady, ENT-cocktail-bacardi-cocktail, ENT-cocktail-casablanca]
 related_typed: {ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat, ENT-cocktail-bacardi-cocktail: same_subcat, ENT-cocktail-casablanca: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.7, votes: 4279}
-  diffords: {score: 4.19, year: 2023}
-  iba: {score: 4.4, year: 2022}
-source_url: https://iba-world.com/iba-cocktail/b/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -83,16 +76,6 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.7 | 4279 |
-| Difford's Guide | 4.19 | 2023 |
-| IBA 推荐 | 4.4 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

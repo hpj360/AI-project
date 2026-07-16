@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Nicolas Feuillatte]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_sparkling-off-065-champagne-brut-ros, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge, ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-wine_sparkling-off-067-canard-duch-ne]
 related_typed: {ENT-wine_sparkling-off-065-champagne-brut-ros: same_brand, ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_region, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge: same_region, ENT-wine_sparkling-off-063-clairette-de-die-doux: same_region, ENT-wine_sparkling-off-067-canard-duch-ne: same_region}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 15548}
-  wine_spectator: {score: 82, year: 2020}
-source_url: https://world.openfoodfacts.org/product/feuillatte
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Nicolas Feuillatte（Nicolas Feuillatte），
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 15548 |
-| Wine Spectator | 82 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,22 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Blood and Sand, 摇和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-baijiu-sour, ENT-cocktail-maotai-martini, ENT-cocktail-chinese-colada, ENT-cocktail-earl-grey-martini, ENT-cocktail-jasmine-tea-cocktail]
 related_typed: {ENT-cocktail-baijiu-sour: same_subcat, ENT-cocktail-maotai-martini: same_subcat, ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-earl-grey-martini: same_subcat, ENT-cocktail-jasmine-tea-cocktail: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 6847}
-  diffords: {score: 4.46, year: 2020}
-  iba: {score: 5.0, year: 2022}
-awards:
-  - {name: Tales of the Cocktail Spirited Award, year: 2023, org: Tales of the Cocktail}
-  - {name: IBA World Competition Silver, year: 2023, org: IBA World Competition}
-source_url: https://iba-world.com/iba-cocktail/sand/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -86,21 +76,6 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 6847 |
-| Difford's Guide | 4.46 | 2020 |
-| IBA 推荐 | 5.0 | 2022 |
-
-### 获奖记录
-
-- **2023** Tales of the Cocktail Spirited Award
-- **2023** IBA World Competition Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

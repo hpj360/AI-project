@@ -5,24 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 波亚克, 一级庄]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-latour, ENT-wine-real-clos-de-tart, ENT-wine-red-latour-2010, ENT-wine-real-lafite-rothschild, ENT-wine-real-mouton-rothschild]
 related_typed: {ENT-brand-latour: same_brand, ENT-wine-real-clos-de-tart: same_brand, ENT-wine-red-latour-2010: same_brand, ENT-wine-real-lafite-rothschild: same_region, ENT-wine-real-mouton-rothschild: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 28091}
-  parker: {score: 93, year: 2022}
-  wine_spectator: {score: 94, year: 2020}
-  james_suckling: {score: 94, year: 2020}
-  cellar_tracker: {score: 4.8, votes: 834}
-awards:
-  - {name: Concours Mondial Silver, year: 2019, org: Concours Mondial}
-  - {name: IWSC Gold, year: 2020, org: IWSC}
-source_url: https://www.wine-searcher.com/find/latour
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -79,23 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 28091 |
-| Robert Parker (WA) | 93 | 2022 |
-| Wine Spectator | 94 | 2020 |
-| James Suckling | 94 | 2020 |
-| CellarTracker | 4.8 | 834 |
-
-### 获奖记录
-
-- **2019** Concours Mondial Silver
-- **2020** IWSC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

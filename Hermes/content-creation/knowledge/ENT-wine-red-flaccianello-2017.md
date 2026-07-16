@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 意大利, 超级托斯卡纳, 桑娇维塞]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-solaia-2016, ENT-wine-red-tignanello-2017, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
 related_typed: {ENT-wine-red-solaia-2016: same_region, ENT-wine-red-tignanello-2017: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.3, votes: 29890}
-  parker: {score: 82, year: 2020}
-  wine_spectator: {score: 83, year: 2023}
-  james_suckling: {score: 81, year: 2021}
-  cellar_tracker: {score: 4.0, votes: 2954}
 ---
 
 # 弗拉恰内洛 2017
@@ -73,18 +67,6 @@ Chianti Classico 顶级桑娇维塞单一园，由 Manetti 家族经营。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 29890 |
-| Robert Parker (WA) | 82 | 2020 |
-| Wine Spectator | 83 | 2023 |
-| James Suckling | 81 | 2021 |
-| CellarTracker | 4.0 | 2954 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

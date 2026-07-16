@@ -5,17 +5,12 @@ category: ENT
 subcategory: brandy
 tags: [白兰地, 干邑, 法国, 费朗]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brandy-pierre-ferrand-reserve, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis]
 related_typed: {ENT-brandy-pierre-ferrand-reserve: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region, ENT-brandy-hennessy-paradis: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 23148}
-  wine_enthusiast: {score: 87, year: 2022}
-awards:
-  - {name: San Francisco Silver, year: 2023, org: San Francisco}
 ---
 
 # 费朗 1840 原桶
@@ -72,19 +67,6 @@ awards:
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 23148 |
-| Wine Enthusiast | 87 | 2022 |
-
-### 获奖记录
-
-- **2023** San Francisco Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

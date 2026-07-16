@@ -5,18 +5,12 @@ category: ENT
 subcategory: mead
 tags: [蜂蜜酒, 美国, 蓝莓, 水果]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-mead-strawberry, ENT-mead-peach, ENT-mead-cinnamon, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
 related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-cinnamon: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 33963}
-  wine_enthusiast: {score: 89, year: 2023}
-  ratebeer: {score: 88, year: 2021}
-awards:
-  - {name: Mazer Cup Bronze, year: 2019, org: Mazer Cup}
 ---
 
 # 蓝莓蜂蜜酒
@@ -70,20 +64,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 33963 |
-| Wine Enthusiast | 89 | 2023 |
-| RateBeer | 88 | 2021 |
-
-### 获奖记录
-
-- **2019** Mazer Cup Bronze
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

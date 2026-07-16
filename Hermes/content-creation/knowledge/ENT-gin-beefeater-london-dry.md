@@ -5,17 +5,12 @@ category: ENT
 subcategory: gin
 tags: [金酒, 伦敦干, 英国, 必富达]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-beefeater-24, ENT-gin-off-123-london-dry-gin, ENT-gin-off-132-pink-strawberry, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur]
 related_typed: {ENT-gin-beefeater-24: same_brand, ENT-gin-off-123-london-dry-gin: same_brand, ENT-gin-off-132-pink-strawberry: same_brand, ENT-gin-tanqueray-no-ten: same_region, ENT-gin-tanqueray-rangpur: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 39746}
-  wine_enthusiast: {score: 88, year: 2022}
-awards:
-  - {name: San Francisco Silver, year: 2022, org: San Francisco}
 ---
 
 # 必富达 伦敦干
@@ -72,19 +67,6 @@ awards:
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 39746 |
-| Wine Enthusiast | 88 | 2022 |
-
-### 获奖记录
-
-- **2022** San Francisco Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

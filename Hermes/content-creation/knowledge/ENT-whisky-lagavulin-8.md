@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-lagavulin-16, ENT-whisky-ardbeg-10, ENT-whisky-ardbeg-uigeadail, ENT-whisky-bowmore-12, ENT-whisky-bowmore-15]
 related_typed: {ENT-whisky-lagavulin-16: same_brand, ENT-whisky-ardbeg-10: same_region, ENT-whisky-ardbeg-uigeadail: same_region, ENT-whisky-bowmore-12: same_region, ENT-whisky-bowmore-15: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 31665}
-  whisky_fun: {score: 97, year: 2022}
-  whisky_bible: {score: 98, year: 2023}
-awards:
-  - {name: ISC Trophy, year: 2022, org: ISC}
-  - {name: Malt Maniacs Silver, year: 2023, org: Malt Maniacs}
 ---
 
 # 拉加维林 8 年
@@ -74,21 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 31665 |
-| Whisky Fun | 97 | 2022 |
-| Whisky Bible | 98 | 2023 |
-
-### 获奖记录
-
-- **2022** ISC Trophy
-- **2023** Malt Maniacs Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

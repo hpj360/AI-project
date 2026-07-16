@@ -5,18 +5,12 @@ category: ENT
 subcategory: vodka
 tags: [OpenFoodFacts, vodka, 伏特加]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
 related_typed: {ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat, ENT-vodka-off-142-poliakov: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 45729}
-  wine_enthusiast: {score: 91, year: 2022}
-source_url: https://world.openfoodfacts.org/product/vodka
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -71,15 +65,6 @@ OpenFoodFacts 真实产品数据：Beluga Noble Vodka
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 45729 |
-| Wine Enthusiast | 91 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

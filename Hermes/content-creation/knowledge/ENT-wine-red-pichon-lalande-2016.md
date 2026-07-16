@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 波亚克]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-cristal, ENT-wine-sparkling-cristal-2013, ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016]
 related_typed: {ENT-wine-real-cristal: same_brand, ENT-wine-sparkling-cristal-2013: same_brand, ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 17789}
-  parker: {score: 85, year: 2023}
-  wine_spectator: {score: 85, year: 2023}
-  james_suckling: {score: 85, year: 2020}
-  cellar_tracker: {score: 4.6, votes: 248}
 ---
 
 # 碧尚女爵城堡 2016
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 17789 |
-| Robert Parker (WA) | 85 | 2023 |
-| Wine Spectator | 85 | 2023 |
-| James Suckling | 85 | 2020 |
-| CellarTracker | 4.6 | 248 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

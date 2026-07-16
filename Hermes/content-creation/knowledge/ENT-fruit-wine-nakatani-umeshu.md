@@ -5,15 +5,12 @@ category: ENT
 subcategory: fruit_wine
 tags: [果酒, 梅酒, 日本, 中谷]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-fruit_wine-zhuyeqing-jiu, ENT-baike-fruit_wine-jinjiu, ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-fruit-wine-choya-umeshu]
 related_typed: {ENT-baike-fruit_wine-zhuyeqing-jiu: cross_region, ENT-baike-fruit_wine-jinjiu: cross_region, ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-fruit-wine-choya-umeshu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 46088}
-  wine_enthusiast: {score: 86, year: 2023}
 ---
 
 # 中谷梅酒
@@ -69,15 +66,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 46088 |
-| Wine Enthusiast | 86 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

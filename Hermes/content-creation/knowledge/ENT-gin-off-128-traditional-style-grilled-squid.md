@@ -5,18 +5,12 @@ category: ENT
 subcategory: gin
 tags: [OpenFoodFacts, gin, 金酒, GORDON'S]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-off-136-gin-pink, ENT-gin-off-138-0-gin, ENT-gin-beefeater-24, ENT-gin-hendricks]
 related_typed: {ENT-gin-off-125-premium-pink-distilled-gin: same_brand, ENT-gin-off-136-gin-pink: same_brand, ENT-gin-off-138-0-gin: same_brand, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.3, votes: 18303}
-  wine_enthusiast: {score: 81, year: 2021}
-source_url: https://world.openfoodfacts.org/product/squid
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Traditional Style Grilled Squid（GORDON'S）
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 18303 |
-| Wine Enthusiast | 81 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,18 +5,12 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 古巴, 加勒比]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rum-havana-club-3, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel]
 related_typed: {ENT-rum-havana-club-3: same_region, ENT-rum-havana-club-7: same_region, ENT-rum-havana-club-anejo-reserva: same_region, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 27759}
-  wine_enthusiast: {score: 87, year: 2023}
-awards:
-  - {name: San Francisco Silver, year: 2021, org: San Francisco}
-  - {name: ISC Silver, year: 2022, org: ISC}
 ---
 
 # 加勒比 Ron del Caribe
@@ -73,20 +67,6 @@ Ron del Caribe，加勒比调和朗姆，多国陈年朗姆调和。
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 27759 |
-| Wine Enthusiast | 87 | 2023 |
-
-### 获奖记录
-
-- **2021** San Francisco Silver
-- **2022** ISC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

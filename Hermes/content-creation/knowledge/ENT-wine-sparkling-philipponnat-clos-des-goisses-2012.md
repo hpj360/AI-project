@@ -5,15 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Philipponnat, 独占园]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-049-mateus-ros-original]
 related_typed: {ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009: same_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: cross_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 21469}
-  wine_spectator: {score: 87, year: 2020}
 ---
 
 # 菲丽宝娜歌斯园 2012
@@ -70,15 +67,6 @@ Philipponnat 独占园年份香槟，Clos des Goisses 陡坡园地。
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 21469 |
-| Wine Spectator | 87 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

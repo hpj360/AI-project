@@ -5,21 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 古典, 威士忌, 禁酒令前]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
 related_typed: {ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 4792}
-  diffords: {score: 4.44, year: 2023}
-  iba: {score: 5.0, year: 2020}
-awards:
-  - {name: Tales of the Cocktail Spirited Award, year: 2019, org: Tales of the Cocktail}
-  - {name: IBA World Competition Silver, year: 2019, org: IBA World Competition}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -100,21 +91,6 @@ version: 1
 | 苦 | 2 | ██░░░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 4792 |
-| Difford's Guide | 4.44 | 2023 |
-| IBA 推荐 | 5.0 | 2020 |
-
-### 获奖记录
-
-- **2019** Tales of the Cocktail Spirited Award
-- **2019** IBA World Competition Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

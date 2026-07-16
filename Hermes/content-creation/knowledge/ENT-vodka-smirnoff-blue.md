@@ -5,18 +5,12 @@ category: ENT
 subcategory: vodka
 tags: [伏特加, 英国, 斯米诺]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-no-21, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
 related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_brand, ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-no-21: same_brand, ENT-brand-finlandia: cross_region, ENT-vodka-off-141-absolut-vodka: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.5, votes: 13559}
-  wine_enthusiast: {score: 83, year: 2021}
-source_url: https://world.openfoodfacts.org/product/blue
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -74,15 +68,6 @@ version: 1
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.5 | 13559 |
-| Wine Enthusiast | 83 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

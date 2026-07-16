@@ -5,16 +5,14 @@ category: ENT
 subcategory: other_spirit
 tags: [百度百科, spirits_intl, 蓝带马爹利]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-spirits_intl-chivas-18]
 related_typed: {ENT-baike-spirits_intl-chivas-18: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E8%93%9D%E5%B8%A6%E9%A9%AC%E7%88%B9%E5%88%A9
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 20351}
 ---
 
 # 蓝带马爹利
@@ -34,28 +32,6 @@ ratings:
 - **中文名**：蓝带马爹利
 - **分类**：其他烈酒
 - **产地**：法国
-- **酒精度**：
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：
-
-## 风味轮廓
-
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 3 | ███░░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 20351 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

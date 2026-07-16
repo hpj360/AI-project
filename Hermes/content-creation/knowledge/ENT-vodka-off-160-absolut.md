@@ -5,18 +5,12 @@ category: ENT
 subcategory: vodka
 tags: [OpenFoodFacts, vodka, 伏特加, Absolut]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-vodka-off-141-absolut-vodka, ENT-vodka-absolut-original, ENT-vodka-absolut-citron, ENT-brand-belvedere, ENT-brand-stolichnaya]
 related_typed: {ENT-vodka-off-141-absolut-vodka: same_brand, ENT-vodka-absolut-original: same_brand, ENT-vodka-absolut-citron: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 11214}
-  wine_enthusiast: {score: 87, year: 2023}
-source_url: https://world.openfoodfacts.org/product/absolut
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Absolut（Absolut），产地 Sweden
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 11214 |
-| Wine Enthusiast | 87 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

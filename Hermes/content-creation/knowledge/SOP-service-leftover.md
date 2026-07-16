@@ -5,14 +5,12 @@ category: ENT
 subcategory: pairing
 tags: [侍酒, 剩酒, 保存, 抽真空, 氧化]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
 related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
-version: 1
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -36,20 +34,6 @@ version: 1
 - **外文名**：Leftover Wine Storage
 - **分类**：餐酒搭配
 - **产地**：
-- **酒精度**：未知
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
-
-## 风味轮廓
-
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 3 | ███░░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
 
 ## 合规信息
 

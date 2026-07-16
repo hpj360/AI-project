@@ -5,16 +5,12 @@ category: ENT
 subcategory: collect
 tags: [收藏投资, 酒窖, 储存, 温湿度控制]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [DEC-collect-basics, DEC-collect-vintage-chart, DEC-collect-livex, DEC-collect-auction, DEC-collect-whisky]
 related_typed: {DEC-collect-basics: same_subcat, DEC-collect-vintage-chart: same_subcat, DEC-collect-livex: same_subcat, DEC-collect-auction: same_subcat, DEC-collect-whisky: same_subcat}
 data_confidence: verified
 data_source: Wine Cellar Specifiers/Eurocave
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 19058}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -38,28 +34,6 @@ version: 1
 - **外文名**：Professional Wine Cellar Construction
 - **分类**：收藏投资
 - **产地**：
-- **酒精度**：未知
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
-
-## 风味轮廓
-
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 3 | ███░░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 19058 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

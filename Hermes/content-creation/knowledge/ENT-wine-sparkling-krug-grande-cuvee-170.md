@@ -5,15 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Krug, 无年份]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-sparkling-krug-clos-d-ambonnay-2002, ENT-wine-sparkling-cristal-2013, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv]
 related_typed: {ENT-wine-sparkling-krug-clos-d-ambonnay-2002: same_brand, ENT-wine-sparkling-cristal-2013: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region, ENT-wine-sparkling-ruinart-blanc-de-blancs-nv: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 3.9, votes: 37768}
-  wine_spectator: {score: 80, year: 2021}
 ---
 
 # 库克陈年香槟 170
@@ -70,15 +67,6 @@ Krug 旗舰无年份香槟，多年份调配，复杂深邃。
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 37768 |
-| Wine Spectator | 80 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

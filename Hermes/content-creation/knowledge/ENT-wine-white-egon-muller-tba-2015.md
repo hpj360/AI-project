@@ -5,17 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 德国, 雷司令, 贵腐, TBA]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-032-blanc]
 related_typed: {ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-031-vino-blanco: same_subcat, ENT-wine_white-off-032-blanc: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 3.8, votes: 18383}
-  parker: {score: 80, year: 2021}
-  wine_spectator: {score: 78, year: 2023}
-  cellar_tracker: {score: 3.5, votes: 758}
 ---
 
 # 伊慕 TBA 2015
@@ -72,17 +67,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.8 | 18383 |
-| Robert Parker (WA) | 80 | 2021 |
-| Wine Spectator | 78 | 2023 |
-| CellarTracker | 3.5 | 758 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

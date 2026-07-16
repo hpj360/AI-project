@@ -5,16 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 日本, 调和麦芽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-yoichi-10, ENT-whisky-yoichi-15, ENT-whisky-taketsuru-21, ENT-brand-hibiki-harmony, ENT-whisky-hibiki-21]
 related_typed: {ENT-whisky-yoichi-10: same_brand, ENT-whisky-yoichi-15: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-brand-hibiki-harmony: same_region, ENT-whisky-hibiki-21: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.7, votes: 43614}
-  whisky_fun: {score: 82, year: 2023}
-  whisky_bible: {score: 83, year: 2021}
 ---
 
 # 竹鹤 17 年
@@ -71,16 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.7 | 43614 |
-| Whisky Fun | 82 | 2023 |
-| Whisky Bible | 83 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

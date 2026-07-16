@@ -5,16 +5,14 @@ category: ENT
 subcategory: other_spirit
 tags: [百度百科, spirits_intl, 芝华士18年]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-spirits_intl-martell-cordon-bleu]
 related_typed: {ENT-baike-spirits_intl-martell-cordon-bleu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E8%8A%9D%E5%8D%8E%E5%A3%AB18%E5%B9%B4
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 15714}
 ---
 
 # 芝华士18年
@@ -34,28 +32,6 @@ ratings:
 - **中文名**：芝华士18年
 - **分类**：其他烈酒
 - **产地**：英国
-- **酒精度**：
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：
-
-## 风味轮廓
-
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 3 | ███░░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 15714 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

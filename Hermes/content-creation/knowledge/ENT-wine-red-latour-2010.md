@@ -5,22 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 一级庄]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-latour, ENT-wine-real-clos-de-tart, ENT-wine-red-lafite-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016]
 related_typed: {ENT-wine-real-latour: same_brand, ENT-wine-real-clos-de-tart: same_brand, ENT-wine-red-lafite-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 16116}
-  parker: {score: 98, year: 2021}
-  wine_spectator: {score: 96, year: 2021}
-  james_suckling: {score: 96, year: 2023}
-  cellar_tracker: {score: 4.8, votes: 2315}
-awards:
-  - {name: Concours Mondial Gold, year: 2020, org: Concours Mondial}
-  - {name: IWSC Silver, year: 2020, org: IWSC}
-  - {name: Decanter Silver, year: 2020, org: Decanter}
 ---
 
 # 拉图城堡 2010
@@ -77,24 +67,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 16116 |
-| Robert Parker (WA) | 98 | 2021 |
-| Wine Spectator | 96 | 2021 |
-| James Suckling | 96 | 2023 |
-| CellarTracker | 4.8 | 2315 |
-
-### 获奖记录
-
-- **2020** Concours Mondial Gold
-- **2020** IWSC Silver
-- **2020** Decanter Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

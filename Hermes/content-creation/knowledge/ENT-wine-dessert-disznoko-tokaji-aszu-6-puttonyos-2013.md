@@ -5,16 +5,12 @@ category: ENT
 subcategory: wine_dessert
 tags: [甜酒, 托卡伊, Aszú, 6 Puttonyos]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015, ENT-wine-dessert-rieussec-2015]
 related_typed: {ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: cross_region, ENT-wine-dessert-rieussec-2015: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 15151}
-  parker: {score: 91, year: 2022}
-  wine_spectator: {score: 91, year: 2023}
 ---
 
 # 狄斯诺克托卡伊 6 篓 2013
@@ -71,16 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 15151 |
-| Robert Parker (WA) | 91 | 2022 |
-| Wine Spectator | 91 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

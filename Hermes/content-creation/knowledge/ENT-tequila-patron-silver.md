@@ -5,17 +5,12 @@ category: ENT
 subcategory: tequila
 tags: [龙舌兰, 墨西哥, 白金武士, Patrón, Blanco]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-tequila-don-julio-blanco, ENT-tequila-don-julio-reposado, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-herradura-reposado]
 related_typed: {ENT-tequila-don-julio-blanco: same_region, ENT-tequila-don-julio-reposado: same_region, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-herradura-reposado: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 29584}
-  wine_enthusiast: {score: 98, year: 2023}
-awards:
-  - {name: San Francisco Double Gold, year: 2019, org: San Francisco}
 ---
 
 # 白金武士 Patrón Silver
@@ -72,19 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 29584 |
-| Wine Enthusiast | 98 | 2023 |
-
-### 获奖记录
-
-- **2019** San Francisco Double Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,16 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 加拿大, 黑麦威士忌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal, ENT-brand-glenmorangie-original]
 related_typed: {ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat, ENT-brand-glenmorangie-original: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 3.9, votes: 19931}
-  whisky_fun: {score: 82, year: 2023}
-  whisky_bible: {score: 81, year: 2021}
 ---
 
 # Alberta Premium
@@ -71,16 +67,6 @@ Alberta Premium，100% 黑麦加拿大威士忌代表。
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 19931 |
-| Whisky Fun | 82 | 2023 |
-| Whisky Bible | 81 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

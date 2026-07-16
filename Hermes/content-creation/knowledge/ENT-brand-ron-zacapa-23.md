@@ -5,20 +5,12 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 危地马拉, 陈年朗姆, 高端]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-diplomatico-reserva, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr]
 related_typed: {ENT-brand-diplomatico-reserva: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: cross_region, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 31440}
-  wine_enthusiast: {score: 96, year: 2021}
-awards:
-  - {name: San Francisco Gold, year: 2020, org: San Francisco}
-source_url: https://en.wikipedia.org/wiki/23
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -74,19 +66,6 @@ version: 1
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 31440 |
-| Wine Enthusiast | 96 | 2021 |
-
-### 获奖记录
-
-- **2020** San Francisco Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

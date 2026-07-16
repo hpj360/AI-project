@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 茱莉普, 波本, 薄荷, 美国南方]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-whiskey-smash, ENT-cocktail-kentucky-buck, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12]
 related_typed: {ENT-cocktail-whiskey-smash: same_region, ENT-cocktail-kentucky-buck: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail}
 data_confidence: simulated
 data_source: 传统配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 41121}
-  diffords: {score: 4.29, year: 2023}
-  iba: {score: 4.9, year: 2023}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -95,16 +89,6 @@ version: 1
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 41121 |
-| Difford's Guide | 4.29 | 2023 |
-| IBA 推荐 | 4.9 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, Tiki, 朗姆, 百香果, 美国]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta, ENT-cocktail-gin-fizz, ENT-cocktail-ramos-gin-fizz, ENT-cocktail-grasshopper]
 related_typed: {ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region, ENT-cocktail-gin-fizz: same_region, ENT-cocktail-ramos-gin-fizz: same_region, ENT-cocktail-grasshopper: same_region}
 data_confidence: simulated
 data_source: Pat O'Brien's 配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 48635}
-  diffords: {score: 4.24, year: 2023}
-  iba: {score: 4.7, year: 2021}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -96,16 +90,6 @@ version: 1
 | 苦 | 0 | ░░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 48635 |
-| Difford's Guide | 4.24 | 2023 |
-| IBA 推荐 | 4.7 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

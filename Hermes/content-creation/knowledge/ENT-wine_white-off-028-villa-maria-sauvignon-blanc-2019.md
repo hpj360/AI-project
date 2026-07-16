@@ -5,20 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [OpenFoodFacts, wine_white, 白葡萄酒, Villa maria]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-031-vino-blanco, ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-031-vino-blanco: cross_region, ENT-wine_white-off-035-vin-blanc-classic: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.0, votes: 28441}
-  parker: {score: 81, year: 2021}
-  wine_spectator: {score: 83, year: 2023}
-  cellar_tracker: {score: 3.7, votes: 1464}
-source_url: https://world.openfoodfacts.org/product/2019
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -75,17 +67,6 @@ OpenFoodFacts 真实产品数据：Villa Maria Sauvignon Blanc 2019（Villa mari
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.0 | 28441 |
-| Robert Parker (WA) | 81 | 2021 |
-| Wine Spectator | 83 | 2023 |
-| CellarTracker | 3.7 | 1464 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

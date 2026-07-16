@@ -5,15 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 浓香, 江苏, 洋河]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-yanghe-tianzhilan, ENT-baijiu-yanghe-mengzhilan-m3, ENT-baijiu-yanghe-mengzhilan-m9, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
 related_typed: {ENT-baijiu-yanghe-tianzhilan: same_brand, ENT-baijiu-yanghe-mengzhilan-m3: same_brand, ENT-baijiu-yanghe-mengzhilan-m9: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.7, votes: 21571}
-  csl: {score: 82, year: 2023}
 ---
 
 # 洋河 海之蓝
@@ -70,15 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.7 | 21571 |
-| 中国酒类鉴评 | 82 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

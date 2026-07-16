@@ -5,17 +5,12 @@ category: ENT
 subcategory: brandy
 tags: [白兰地, 干邑, 法国, 轩尼诗]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop]
 related_typed: {ENT-brandy-hennessy-vs: same_brand, ENT-brandy-hennessy-xo: same_brand, ENT-brandy-hennessy-paradis: same_brand, ENT-brandy-hennessy-richard: same_region, ENT-brandy-martell-vsop: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 32425}
-  wine_enthusiast: {score: 98, year: 2021}
-awards:
-  - {name: San Francisco Double Gold, year: 2019, org: San Francisco}
 ---
 
 # 轩尼诗 VSOP
@@ -72,19 +67,6 @@ awards:
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 32425 |
-| Wine Enthusiast | 98 | 2021 |
-
-### 获奖记录
-
-- **2019** San Francisco Double Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

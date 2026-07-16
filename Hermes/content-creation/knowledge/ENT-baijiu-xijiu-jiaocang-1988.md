@@ -5,15 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 酱香, 贵州, 习酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-xijiu-jinzhi-xijiu, ENT-baijiu-xijiu-junpin-xijiu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-xijiu-jinzhi-xijiu: same_brand, ENT-baijiu-xijiu-junpin-xijiu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.2, votes: 7878}
-  csl: {score: 81, year: 2020}
 ---
 
 # 习酒 窖藏 1988
@@ -70,15 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.2 | 7878 |
-| 中国酒类鉴评 | 81 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

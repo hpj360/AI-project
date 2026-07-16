@@ -5,18 +5,12 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 久保田, 原酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-sake-kubota-senju, ENT-sake-kubota-manju, ENT-sake-kubota-suiju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban]
 related_typed: {ENT-sake-kubota-senju: same_brand, ENT-sake-kubota-manju: same_brand, ENT-sake-kubota-suiju: same_brand, ENT-sake-kubota-hyakuju: same_region, ENT-sake-kubota-hachiban: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 33891}
-  sake_revue: {score: 97, year: 2020}
-awards:
-  - {name: IWC Gold, year: 2023, org: IWC}
-  - {name: 全国新酒鉴评会 入赏, year: 2022, org: 全国新酒鉴评会}
 ---
 
 # 久保田 蔵出原酒
@@ -72,20 +66,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 33891 |
-| Sake Revue | 97 | 2020 |
-
-### 获奖记录
-
-- **2023** IWC Gold
-- **2022** 全国新酒鉴评会 入赏
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

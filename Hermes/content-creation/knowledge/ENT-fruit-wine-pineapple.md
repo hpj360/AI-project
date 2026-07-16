@@ -5,18 +5,12 @@ category: ENT
 subcategory: fruit_wine
 tags: [果酒, 菠萝, 热带, 中国]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu]
 related_typed: {ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: same_subcat, ENT-fruit-wine-umenoyado-umeshu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 19097}
-  wine_enthusiast: {score: 88, year: 2021}
-awards:
-  - {name: IWSC Silver, year: 2021, org: IWSC}
-  - {name: San Francisco Gold, year: 2021, org: San Francisco}
 ---
 
 # 菠萝酒
@@ -70,20 +64,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 19097 |
-| Wine Enthusiast | 88 | 2021 |
-
-### 获奖记录
-
-- **2021** IWSC Silver
-- **2021** San Francisco Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

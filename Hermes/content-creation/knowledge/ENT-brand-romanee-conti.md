@@ -5,24 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 勃艮第, 特级园, 黑皮诺, DRC]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-brand-lafite-rothschild, ENT-brand-latour]
 related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 8736}
-  parker: {score: 93, year: 2020}
-  wine_spectator: {score: 92, year: 2023}
-  james_suckling: {score: 94, year: 2020}
-  cellar_tracker: {score: 4.8, votes: 1930}
-awards:
-  - {name: IWSC Silver, year: 2019, org: IWSC}
-  - {name: Concours Mondial Gold, year: 2020, org: Concours Mondial}
-source_url: https://en.wikipedia.org/wiki/conti
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -78,23 +66,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 8736 |
-| Robert Parker (WA) | 93 | 2020 |
-| Wine Spectator | 92 | 2023 |
-| James Suckling | 94 | 2020 |
-| CellarTracker | 4.8 | 1930 |
-
-### 获奖记录
-
-- **2019** IWSC Silver
-- **2020** Concours Mondial Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

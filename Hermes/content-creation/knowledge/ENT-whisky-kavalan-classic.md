@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 台湾, 单一麦芽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-kavalan-solist-vinho, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal]
 related_typed: {ENT-whisky-kavalan-solist-vinho: same_brand, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 18225}
-  whisky_fun: {score: 89, year: 2020}
-  whisky_bible: {score: 90, year: 2022}
-awards:
-  - {name: ISC Silver, year: 2021, org: ISC}
-  - {name: WWA Gold, year: 2019, org: WWA}
 ---
 
 # Kavalan 经典
@@ -74,21 +67,6 @@ Kavalan 经典，台湾单一麦芽威士忌，热带气候陈酿。
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 18225 |
-| Whisky Fun | 89 | 2020 |
-| Whisky Bible | 90 | 2022 |
-
-### 获奖记录
-
-- **2021** ISC Silver
-- **2019** WWA Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

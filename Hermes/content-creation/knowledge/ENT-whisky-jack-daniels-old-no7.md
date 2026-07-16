@@ -5,16 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 美国, 田纳西威士忌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-off-247-whisky-old-n-7, ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-single-barrel, ENT-whisky-jack-daniels-gentleman-jack, ENT-brand-yamazaki-12]
 related_typed: {ENT-whisky-off-247-whisky-old-n-7: same_brand, ENT-whisky-off-261-tennessee-whiskey: same_brand, ENT-whisky-jack-daniels-single-barrel: same_brand, ENT-whisky-jack-daniels-gentleman-jack: same_region, ENT-brand-yamazaki-12: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.6, votes: 19967}
-  whisky_fun: {score: 82, year: 2021}
-  whisky_bible: {score: 85, year: 2021}
 ---
 
 # 杰克丹尼 7 号
@@ -71,16 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.6 | 19967 |
-| Whisky Fun | 82 | 2021 |
-| Whisky Bible | 85 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

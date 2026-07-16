@@ -5,21 +5,12 @@ category: ENT
 subcategory: brandy
 tags: [白兰地, 干邑, 法国, 轩尼诗]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-remy-martin-vsop, ENT-brand-martell-vsop, ENT-brand-courvoisier-vsop, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brand-remy-martin-vsop: same_region, ENT-brand-martell-vsop: same_region, ENT-brand-courvoisier-vsop: same_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 13305}
-  wine_enthusiast: {score: 93, year: 2020}
-awards:
-  - {name: San Francisco Double Gold, year: 2019, org: San Francisco}
-  - {name: ISC Gold, year: 2022, org: ISC}
-source_url: https://en.wikipedia.org/wiki/vsop
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -75,20 +66,6 @@ version: 1
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 13305 |
-| Wine Enthusiast | 93 | 2020 |
-
-### 获奖记录
-
-- **2019** San Francisco Double Gold
-- **2022** ISC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, JP. CHENET]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-015-cabernet-sauvigon]
 related_typed: {ENT-wine_red-off-004-pinot-noir: same_region, ENT-wine_red-off-005-cabernet-sauvignon: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_region, ENT-wine_red-off-009-mouton-cadet: same_region, ENT-wine_red-off-015-cabernet-sauvigon: same_region}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.4, votes: 46525}
-  parker: {score: 84, year: 2022}
-  wine_spectator: {score: 81, year: 2020}
-  james_suckling: {score: 81, year: 2022}
-  cellar_tracker: {score: 4.1, votes: 3093}
-source_url: https://world.openfoodfacts.org/product/syrah
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ OpenFoodFacts 真实产品数据：CABERNET-SYRAH（JP. CHENET），产地 Franc
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.4 | 46525 |
-| Robert Parker (WA) | 84 | 2022 |
-| Wine Spectator | 81 | 2020 |
-| James Suckling | 81 | 2022 |
-| CellarTracker | 4.1 | 3093 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

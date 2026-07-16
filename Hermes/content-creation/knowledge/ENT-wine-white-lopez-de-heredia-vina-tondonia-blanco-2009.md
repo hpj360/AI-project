@@ -5,19 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 西班牙, Viura, Rioja]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc]
 related_typed: {ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009: same_brand, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 31351}
-  parker: {score: 88, year: 2021}
-  wine_spectator: {score: 89, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 4522}
-awards:
-  - {name: Decanter Silver, year: 2023, org: Decanter}
 ---
 
 # 瑞加度尼亚白 2009
@@ -74,21 +67,6 @@ Rioja 名家 López de Heredia，Tondonia 白葡萄酒长期桶陈。
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 31351 |
-| Robert Parker (WA) | 88 | 2021 |
-| Wine Spectator | 89 | 2022 |
-| CellarTracker | 4.8 | 4522 |
-
-### 获奖记录
-
-- **2023** Decanter Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

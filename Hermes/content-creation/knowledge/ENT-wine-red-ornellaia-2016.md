@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 意大利, 超级托斯卡纳]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-masseto-2016, ENT-wine-red-sassicaia-2016, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
 related_typed: {ENT-wine-red-masseto-2016: same_brand, ENT-wine-red-sassicaia-2016: same_region, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 9561}
-  parker: {score: 89, year: 2021}
-  wine_spectator: {score: 90, year: 2021}
-  james_suckling: {score: 91, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 4677}
-awards:
-  - {name: IWSC Gold, year: 2022, org: IWSC}
-  - {name: Concours Mondial Silver, year: 2019, org: Concours Mondial}
 ---
 
 # 奥纳亚 2016
@@ -76,23 +67,6 @@ Bolgheri 顶级名庄，与 Sassicaia 齐名，风格浓郁。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 9561 |
-| Robert Parker (WA) | 89 | 2021 |
-| Wine Spectator | 90 | 2021 |
-| James Suckling | 91 | 2022 |
-| CellarTracker | 4.8 | 4677 |
-
-### 获奖记录
-
-- **2022** IWSC Gold
-- **2019** Concours Mondial Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

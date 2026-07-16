@@ -5,15 +5,12 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 墨西哥, 科罗娜, 工业拉格]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu]
 related_typed: {ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 43957}
-  ratebeer: {score: 83, year: 2020}
 ---
 
 # 科罗娜啤酒
@@ -69,15 +66,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 43957 |
-| RateBeer | 83 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

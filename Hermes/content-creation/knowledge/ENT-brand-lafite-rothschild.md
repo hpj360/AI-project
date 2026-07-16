@@ -5,25 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 一级庄, 赤霞珠, 拉菲]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-lafite-2010, ENT-wine-red-levangile-2015, ENT-brand-latour, ENT-brand-mouton-rothschild, ENT-brand-margaux]
 related_typed: {ENT-wine-red-lafite-2010: same_brand, ENT-wine-red-levangile-2015: same_brand, ENT-brand-latour: same_region, ENT-brand-mouton-rothschild: same_region, ENT-brand-margaux: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 49767}
-  parker: {score: 96, year: 2022}
-  wine_spectator: {score: 95, year: 2021}
-  james_suckling: {score: 94, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 4712}
-awards:
-  - {name: Decanter Gold, year: 2020, org: Decanter}
-  - {name: IWSC Gold, year: 2021, org: IWSC}
-  - {name: Concours Mondial Gold, year: 2023, org: Concours Mondial}
-source_url: https://en.wikipedia.org/wiki/rothschild
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -79,24 +66,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 49767 |
-| Robert Parker (WA) | 96 | 2022 |
-| Wine Spectator | 95 | 2021 |
-| James Suckling | 94 | 2021 |
-| CellarTracker | 4.8 | 4712 |
-
-### 获奖记录
-
-- **2020** Decanter Gold
-- **2021** IWSC Gold
-- **2023** Concours Mondial Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

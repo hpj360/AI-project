@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 波美侯]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-lafite-2010, ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-vieux-chateau-certan-2015, ENT-wine-red-trotanoy-2015]
 related_typed: {ENT-wine-red-lafite-2010: same_brand, ENT-wine-red-petrus-2015: same_region, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-vieux-chateau-certan-2015: same_region, ENT-wine-red-trotanoy-2015: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.2, votes: 12606}
-  parker: {score: 83, year: 2022}
-  wine_spectator: {score: 83, year: 2021}
-  james_suckling: {score: 82, year: 2022}
-  cellar_tracker: {score: 3.9, votes: 2198}
 ---
 
 # 乐王吉城堡 2015
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.2 | 12606 |
-| Robert Parker (WA) | 83 | 2022 |
-| Wine Spectator | 83 | 2021 |
-| James Suckling | 82 | 2022 |
-| CellarTracker | 3.9 | 2198 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

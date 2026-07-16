@@ -5,24 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 勃艮第, 沃恩-罗曼尼, 特级园, DRC, 黑皮诺]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-romanee-conti, ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-romanee-saint-vivant, ENT-brand-mouton-rothschild]
 related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-romanee-saint-vivant: same_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 22268}
-  parker: {score: 88, year: 2020}
-  wine_spectator: {score: 88, year: 2023}
-  james_suckling: {score: 89, year: 2020}
-  cellar_tracker: {score: 4.8, votes: 1031}
-awards:
-  - {name: Decanter Bronze, year: 2021, org: Decanter}
-  - {name: Concours Mondial Gold, year: 2020, org: Concours Mondial}
-source_url: https://www.wine-searcher.com/find/richebourg
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -79,23 +67,6 @@ DRC旗下特级园之一，沃恩-罗曼尼村最知名的特级园之一。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 22268 |
-| Robert Parker (WA) | 88 | 2020 |
-| Wine Spectator | 88 | 2023 |
-| James Suckling | 89 | 2020 |
-| CellarTracker | 4.8 | 1031 |
-
-### 获奖记录
-
-- **2021** Decanter Bronze
-- **2020** Concours Mondial Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

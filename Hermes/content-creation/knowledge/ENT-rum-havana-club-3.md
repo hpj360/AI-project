@@ -5,18 +5,12 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 古巴, 哈瓦那俱乐部, 白朗姆]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rum-off-174-rhum-cubain, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-rum-caribbean-ron-del-caribe, ENT-brand-diplomatico-reserva]
 related_typed: {ENT-rum-off-174-rhum-cubain: same_brand, ENT-rum-havana-club-7: same_brand, ENT-rum-havana-club-anejo-reserva: same_brand, ENT-rum-caribbean-ron-del-caribe: same_region, ENT-brand-diplomatico-reserva: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 8607}
-  wine_enthusiast: {score: 92, year: 2020}
-awards:
-  - {name: San Francisco Silver, year: 2020, org: San Francisco}
-  - {name: ISC Gold, year: 2023, org: ISC}
 ---
 
 # 哈瓦那俱乐部 3 年
@@ -73,20 +67,6 @@ awards:
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 8607 |
-| Wine Enthusiast | 92 | 2020 |
-
-### 获奖记录
-
-- **2020** San Francisco Silver
-- **2023** ISC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

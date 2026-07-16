@@ -5,20 +5,12 @@ category: ENT
 subcategory: rum
 tags: [OpenFoodFacts, rum, 朗姆酒, Havana Club]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rum-havana-club-3, ENT-rum-havana-club-7, ENT-rum-havana-club-anejo-reserva, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23]
 related_typed: {ENT-rum-havana-club-3: same_brand, ENT-rum-havana-club-7: same_brand, ENT-rum-havana-club-anejo-reserva: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 33327}
-  wine_enthusiast: {score: 91, year: 2020}
-awards:
-  - {name: ISC Gold, year: 2019, org: ISC}
-source_url: https://world.openfoodfacts.org/product/cubain
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -75,19 +67,6 @@ OpenFoodFacts 真实产品数据：Rhum Cubain（Havana Club），产地 Cuba
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 33327 |
-| Wine Enthusiast | 91 | 2020 |
-
-### 获奖记录
-
-- **2019** ISC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,16 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 无酒精, Lyre's, 尼格罗尼, 现代]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail]
 related_typed: {ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.5, votes: 7702}
-  diffords: {score: 4.14, year: 2020}
-  iba: {score: 4.2, year: 2023}
 ---
 
 # Lyre's 尼格罗尼
@@ -91,16 +87,6 @@ Lyre's 无酒精金酒味美思金巴利替代品等比搅和，零酒精尼格�
 | 苦 | 4 | ████░ |
 | 烈 | 0 | ░░░░░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.5 | 7702 |
-| Difford's Guide | 4.14 | 2020 |
-| IBA 推荐 | 4.2 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

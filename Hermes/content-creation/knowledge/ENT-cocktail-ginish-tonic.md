@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 无酒精, Ginish, 高球, 现代]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres, ENT-cocktail-margarita-spheres]
 related_typed: {ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region, ENT-cocktail-margarita-spheres: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 702}
-  diffords: {score: 4.41, year: 2023}
-  iba: {score: 5.0, year: 2020}
-awards:
-  - {name: Tales of the Cocktail Best Cocktail, year: 2021, org: Tales of the Cocktail}
 ---
 
 # Ginish 汤力
@@ -93,20 +87,6 @@ Ginish 无酒精金酒配汤力水与青柠，零酒精的金汤力替代品。
 | 苦 | 3 | ███░░ |
 | 烈 | 0 | ░░░░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 702 |
-| Difford's Guide | 4.41 | 2023 |
-| IBA 推荐 | 5.0 | 2020 |
-
-### 获奖记录
-
-- **2021** Tales of the Cocktail Best Cocktail
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

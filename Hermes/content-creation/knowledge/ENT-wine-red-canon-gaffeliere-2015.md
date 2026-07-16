@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 圣埃美隆]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-cheval-blanc-2015, ENT-wine-red-ausone-2015, ENT-wine-red-pavie-2015, ENT-wine-red-angelus-2015, ENT-wine-red-peby-faugeres-2015]
 related_typed: {ENT-wine-red-cheval-blanc-2015: same_region, ENT-wine-red-ausone-2015: same_region, ENT-wine-red-pavie-2015: same_region, ENT-wine-red-angelus-2015: same_region, ENT-wine-red-peby-faugeres-2015: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 47404}
-  parker: {score: 85, year: 2022}
-  wine_spectator: {score: 84, year: 2022}
-  james_suckling: {score: 85, year: 2020}
-  cellar_tracker: {score: 4.5, votes: 4808}
 ---
 
 # 卡农嘉芙丽城堡 2015
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 47404 |
-| Robert Parker (WA) | 85 | 2022 |
-| Wine Spectator | 84 | 2022 |
-| James Suckling | 85 | 2020 |
-| CellarTracker | 4.5 | 4808 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

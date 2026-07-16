@@ -5,20 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 高地]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-glenmorangie-lasanta, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-clynelish-14, ENT-brand-jack-daniels-no7]
 related_typed: {ENT-whisky-glenmorangie-lasanta: same_brand, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-clynelish-14: same_region, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 580}
-  whisky_fun: {score: 90, year: 2020}
-  whisky_bible: {score: 93, year: 2022}
-awards:
-  - {name: ISC Gold, year: 2022, org: ISC}
-  - {name: WWA Gold, year: 2022, org: WWA}
-  - {name: Malt Maniacs Silver, year: 2021, org: Malt Maniacs}
 ---
 
 # 格兰杰 10 年原桶
@@ -75,22 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 580 |
-| Whisky Fun | 90 | 2020 |
-| Whisky Bible | 93 | 2022 |
-
-### 获奖记录
-
-- **2022** ISC Gold
-- **2022** WWA Gold
-- **2021** Malt Maniacs Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

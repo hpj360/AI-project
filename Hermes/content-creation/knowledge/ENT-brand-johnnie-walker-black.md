@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-chivas-regal-12, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25, ENT-whisky-ballantines-12]
 related_typed: {ENT-brand-chivas-regal-12: same_region, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region, ENT-whisky-chivas-regal-25: same_region, ENT-whisky-ballantines-12: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 45144}
-  whisky_fun: {score: 85, year: 2020}
-  whisky_bible: {score: 86, year: 2021}
-source_url: https://en.wikipedia.org/wiki/black
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,16 +66,6 @@ version: 1
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 45144 |
-| Whisky Fun | 85 | 2020 |
-| Whisky Bible | 86 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

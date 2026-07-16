@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, Tiki, 朗姆, 蜂蜜, 法属马提尼克]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-cobras-fang, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-saketini]
 related_typed: {ENT-cocktail-cobras-fang: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
 data_confidence: simulated
 data_source: Don the Beachcomber 配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 10722}
-  diffords: {score: 4.25, year: 2021}
-  iba: {score: 4.8, year: 2022}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -98,16 +92,6 @@ version: 1
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 10722 |
-| Difford's Guide | 4.25 | 2021 |
-| IBA 推荐 | 4.8 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

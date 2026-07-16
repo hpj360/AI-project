@@ -5,17 +5,12 @@ category: ENT
 subcategory: brandy
 tags: [白兰地, 干邑, 法国, 人头马]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-club, ENT-brandy-louis-xiii, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
 related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-club: same_brand, ENT-brandy-louis-xiii: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 339}
-  wine_enthusiast: {score: 93, year: 2021}
-awards:
-  - {name: ISC Silver, year: 2020, org: ISC}
 ---
 
 # 人头马 XO
@@ -72,19 +67,6 @@ awards:
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 339 |
-| Wine Enthusiast | 93 | 2021 |
-
-### 获奖记录
-
-- **2020** ISC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,18 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 双桶]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-18-sherry-oak, ENT-whisky-macallan-classic-cut, ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-15-solera]
 related_typed: {ENT-whisky-macallan-12-sherry-oak: same_brand, ENT-whisky-macallan-18-sherry-oak: same_brand, ENT-whisky-macallan-classic-cut: same_brand, ENT-whisky-glenfiddich-12: same_region, ENT-whisky-glenfiddich-15-solera: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 35534}
-  whisky_fun: {score: 94, year: 2023}
-  whisky_bible: {score: 92, year: 2023}
-awards:
-  - {name: ISC Gold, year: 2021, org: ISC}
 ---
 
 # 麦卡伦 12 年蓝钻双桶
@@ -73,20 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 35534 |
-| Whisky Fun | 94 | 2023 |
-| Whisky Bible | 92 | 2023 |
-
-### 获奖记录
-
-- **2021** ISC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

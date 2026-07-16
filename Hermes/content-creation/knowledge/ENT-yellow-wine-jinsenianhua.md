@@ -5,18 +5,12 @@ category: ENT
 subcategory: yellow_wine
 tags: [黄酒, 上海, 金色年华, 海派]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-yellow-wine-shikumen, ENT-yellow-wine-hejiu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu]
 related_typed: {ENT-yellow-wine-shikumen: same_brand, ENT-yellow-wine-hejiu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 21277}
-  csl: {score: 89, year: 2020}
-awards:
-  - {name: CMB Silver, year: 2021, org: CMB}
-  - {name: 布鲁塞尔大奖赛 金奖, year: 2021, org: 布鲁塞尔大奖赛}
 ---
 
 # 金色年华
@@ -72,20 +66,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 21277 |
-| 中国酒类鉴评 | 89 | 2020 |
-
-### 获奖记录
-
-- **2021** CMB Silver
-- **2021** 布鲁塞尔大奖赛 金奖
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

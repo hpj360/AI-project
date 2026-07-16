@@ -5,25 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 澳大利亚, 南澳, 赤霞珠, 西拉, Penfolds]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-penfolds-grange, ENT-wine-real-penfolds-bin-707, ENT-wine-real-penfolds-st-henri, ENT-brand-penfolds-grange, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-real-penfolds-grange: same_brand, ENT-wine-real-penfolds-bin-707: same_brand, ENT-wine-real-penfolds-st-henri: same_brand, ENT-brand-penfolds-grange: same_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 2976}
-  parker: {score: 90, year: 2020}
-  wine_spectator: {score: 89, year: 2023}
-  james_suckling: {score: 91, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 4842}
-awards:
-  - {name: Concours Mondial Gold, year: 2019, org: Concours Mondial}
-  - {name: Decanter Gold, year: 2022, org: Decanter}
-  - {name: IWSC Gold, year: 2022, org: IWSC}
-source_url: https://www.wine-searcher.com/find/389
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -80,24 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 2976 |
-| Robert Parker (WA) | 90 | 2020 |
-| Wine Spectator | 89 | 2023 |
-| James Suckling | 91 | 2022 |
-| CellarTracker | 4.8 | 4842 |
-
-### 获奖记录
-
-- **2019** Concours Mondial Gold
-- **2022** Decanter Gold
-- **2022** IWSC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

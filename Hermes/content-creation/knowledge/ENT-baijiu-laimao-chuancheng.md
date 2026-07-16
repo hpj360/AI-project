@@ -5,18 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 酱香, 贵州, 赖茅]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-baijiu-maotai-feitian, ENT-baijiu-diaoyutai-guobin, ENT-baijiu-guotai-guobiao, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
 related_typed: {ENT-baike-baijiu-maotai-feitian: same_brand, ENT-baijiu-diaoyutai-guobin: same_region, ENT-baijiu-guotai-guobiao: same_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 31218}
-  csl: {score: 88, year: 2022}
-awards:
-  - {name: CMB Gold, year: 2019, org: CMB}
-  - {name: 布鲁塞尔大奖赛 银奖, year: 2021, org: 布鲁塞尔大奖赛}
 ---
 
 # 赖茅 传承
@@ -73,20 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 31218 |
-| 中国酒类鉴评 | 88 | 2022 |
-
-### 获奖记录
-
-- **2019** CMB Gold
-- **2021** 布鲁塞尔大奖赛 银奖
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

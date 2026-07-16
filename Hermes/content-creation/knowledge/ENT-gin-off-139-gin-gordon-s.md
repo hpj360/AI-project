@@ -5,18 +5,12 @@ category: ENT
 subcategory: gin
 tags: [OpenFoodFacts, gin, 金酒, Gordon's]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-off-125-premium-pink-distilled-gin, ENT-gin-off-128-traditional-style-grilled-squid, ENT-gin-off-136-gin-pink, ENT-gin-beefeater-24, ENT-gin-hendricks]
 related_typed: {ENT-gin-off-125-premium-pink-distilled-gin: same_brand, ENT-gin-off-128-traditional-style-grilled-squid: same_brand, ENT-gin-off-136-gin-pink: same_brand, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.0, votes: 585}
-  wine_enthusiast: {score: 82, year: 2023}
-source_url: https://world.openfoodfacts.org/product/s
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Gin Gordon's（Gordon's）
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.0 | 585 |
-| Wine Enthusiast | 82 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

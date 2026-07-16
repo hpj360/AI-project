@@ -5,18 +5,12 @@ category: ENT
 subcategory: yellow_wine
 tags: [黄酒, 黑米, 创新, 养生]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 data_confidence: simulated
 version: 1
 related: [ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang, ENT-baike-yellow_wine-danyang-huangjiu]
 related_typed: {ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: cross_region, ENT-baike-yellow_wine-danyang-huangjiu: same_subcat}
-ratings:
-  vivino: {score: 4.8, votes: 20954}
-  csl: {score: 89, year: 2023}
-awards:
-  - {name: 布鲁塞尔大奖赛 金奖, year: 2021, org: 布鲁塞尔大奖赛}
-  - {name: CMB Silver, year: 2019, org: CMB}
 ---
 
 # 黑米黄酒
@@ -71,20 +65,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 20954 |
-| 中国酒类鉴评 | 89 | 2023 |
-
-### 获奖记录
-
-- **2021** 布鲁塞尔大奖赛 金奖
-- **2019** CMB Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

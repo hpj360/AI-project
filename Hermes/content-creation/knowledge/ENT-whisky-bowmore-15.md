@@ -5,18 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 雪莉桶]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-bowmore-12, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8, ENT-whisky-ardbeg-10, ENT-whisky-ardbeg-uigeadail]
 related_typed: {ENT-whisky-bowmore-12: same_brand, ENT-whisky-lagavulin-16: same_region, ENT-whisky-lagavulin-8: same_region, ENT-whisky-ardbeg-10: same_region, ENT-whisky-ardbeg-uigeadail: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 21501}
-  whisky_fun: {score: 89, year: 2023}
-  whisky_bible: {score: 89, year: 2022}
-awards:
-  - {name: ISC Trophy, year: 2022, org: ISC}
 ---
 
 # 波摩 15 年
@@ -73,20 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 21501 |
-| Whisky Fun | 89 | 2023 |
-| Whisky Bible | 89 | 2022 |
-
-### 获奖记录
-
-- **2022** ISC Trophy
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

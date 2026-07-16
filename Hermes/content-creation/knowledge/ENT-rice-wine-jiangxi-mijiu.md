@@ -5,15 +5,12 @@ category: ENT
 subcategory: rice_wine
 tags: [米酒, 江西, 传统]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu]
 related_typed: {ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 29668}
-  csl: {score: 89, year: 2021}
 ---
 
 # 江西米酒
@@ -69,15 +66,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 29668 |
-| 中国酒类鉴评 | 89 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

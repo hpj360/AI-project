@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Christkindl]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
 related_typed: {ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.0, votes: 10529}
-  parker: {score: 79, year: 2022}
-  wine_spectator: {score: 80, year: 2021}
-  james_suckling: {score: 81, year: 2020}
-  cellar_tracker: {score: 3.7, votes: 2770}
-source_url: https://world.openfoodfacts.org/product/rot
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ OpenFoodFacts 真实产品数据：Christkindl Glühwein rot（Christkindl），
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.0 | 10529 |
-| Robert Parker (WA) | 79 | 2022 |
-| Wine Spectator | 80 | 2021 |
-| James Suckling | 81 | 2020 |
-| CellarTracker | 3.7 | 2770 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

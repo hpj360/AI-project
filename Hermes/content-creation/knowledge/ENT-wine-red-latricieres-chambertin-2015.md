@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-red-chambertin-rousseau-2015, ENT-brand-opus-one]
 related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-red-chambertin-rousseau-2015: same_region, ENT-brand-opus-one: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 3048}
-  parker: {score: 89, year: 2023}
-  wine_spectator: {score: 88, year: 2021}
-  james_suckling: {score: 88, year: 2020}
-  cellar_tracker: {score: 4.8, votes: 1090}
 ---
 
 # 力士登堡 2015
@@ -73,18 +67,6 @@ DRC 在 Latricières-Chambertin 的地块，风格优雅细腻。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 3048 |
-| Robert Parker (WA) | 89 | 2023 |
-| Wine Spectator | 88 | 2021 |
-| James Suckling | 88 | 2020 |
-| CellarTracker | 4.8 | 1090 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

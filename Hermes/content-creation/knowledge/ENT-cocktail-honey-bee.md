@@ -5,20 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 朗姆, 蜂蜜, 柠檬]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash, ENT-cocktail-brandy-fix, ENT-cocktail-port-sangaree]
 related_typed: {ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region, ENT-cocktail-brandy-fix: same_region, ENT-cocktail-port-sangaree: same_region}
 data_confidence: simulated
 data_source: 经典配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 29806}
-  diffords: {score: 4.46, year: 2023}
-  iba: {score: 5.0, year: 2021}
-awards:
-  - {name: Tales of the Cocktail Spirited Award, year: 2019, org: Tales of the Cocktail}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -97,20 +89,6 @@ version: 1
 | 苦 | 1 | █░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 29806 |
-| Difford's Guide | 4.46 | 2023 |
-| IBA 推荐 | 5.0 | 2021 |
-
-### 获奖记录
-
-- **2019** Tales of the Cocktail Spirited Award
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

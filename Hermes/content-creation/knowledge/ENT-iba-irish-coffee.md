@@ -5,22 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Irish Coffee, 摇和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-chinese-colada, ENT-cocktail-jasmine-tea-cocktail, ENT-cocktail-yuzu-margarita, ENT-cocktail-lychee-martini, ENT-cocktail-negroni]
 related_typed: {ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-jasmine-tea-cocktail: same_subcat, ENT-cocktail-yuzu-margarita: same_subcat, ENT-cocktail-lychee-martini: same_subcat, ENT-cocktail-negroni: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 6608}
-  diffords: {score: 4.41, year: 2020}
-  iba: {score: 5.0, year: 2021}
-awards:
-  - {name: IBA World Competition Gold, year: 2019, org: IBA World Competition}
-  - {name: Tales of the Cocktail Spirited Award, year: 2022, org: Tales of the Cocktail}
-source_url: https://iba-world.com/iba-cocktail/coffee/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -86,21 +76,6 @@ IBA 官方 当代经典（Contemporary Classics） 系列鸡尾酒 Irish Coffee�
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 6608 |
-| Difford's Guide | 4.41 | 2020 |
-| IBA 推荐 | 5.0 | 2021 |
-
-### 获奖记录
-
-- **2019** IBA World Competition Gold
-- **2022** Tales of the Cocktail Spirited Award
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

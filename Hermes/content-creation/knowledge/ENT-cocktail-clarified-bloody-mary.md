@@ -5,20 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 分子, 离心, 伏特加, 番茄]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-ginish-tonic, ENT-cocktail-espresso-tonic, ENT-cocktail-aviation-caviar, ENT-cocktail-bloody-mary-spheres, ENT-cocktail-mojito-spheres]
 related_typed: {ENT-cocktail-ginish-tonic: same_region, ENT-cocktail-espresso-tonic: same_region, ENT-cocktail-aviation-caviar: same_region, ENT-cocktail-bloody-mary-spheres: same_region, ENT-cocktail-mojito-spheres: same_region}
 data_confidence: simulated
 data_source: 分子调酒吧配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 31713}
-  diffords: {score: 4.41, year: 2021}
-  iba: {score: 5.0, year: 2020}
-awards:
-  - {name: IBA World Competition Silver, year: 2020, org: IBA World Competition}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -103,20 +95,6 @@ version: 1
 | 苦 | 2 | ██░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 31713 |
-| Difford's Guide | 4.41 | 2021 |
-| IBA 推荐 | 5.0 | 2020 |
-
-### 获奖记录
-
-- **2020** IBA World Competition Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

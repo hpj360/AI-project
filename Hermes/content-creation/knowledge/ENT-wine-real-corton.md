@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 勃艮第, 阿洛克斯-科登, 特级园, 黑皮诺]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-brand-haut-brion, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 9384}
-  parker: {score: 85, year: 2023}
-  wine_spectator: {score: 84, year: 2022}
-  james_suckling: {score: 83, year: 2023}
-  cellar_tracker: {score: 4.5, votes: 35}
-source_url: https://www.wine-searcher.com/find/corton
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 9384 |
-| Robert Parker (WA) | 85 | 2023 |
-| Wine Spectator | 84 | 2022 |
-| James Suckling | 83 | 2023 |
-| CellarTracker | 4.5 | 35 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

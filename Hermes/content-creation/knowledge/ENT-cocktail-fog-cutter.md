@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, Tiki, 朗姆, 金酒, 雪莉, 美国]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-scorpion, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-gin-bombay-sapphire]
 related_typed: {ENT-cocktail-scorpion: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-gin-bombay-sapphire: base_to_cocktail}
 data_confidence: simulated
 data_source: Trader Vic 配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 37653}
-  diffords: {score: 4.26, year: 2020}
-  iba: {score: 4.8, year: 2020}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -99,16 +93,6 @@ version: 1
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 37653 |
-| Difford's Guide | 4.26 | 2020 |
-| IBA 推荐 | 4.8 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

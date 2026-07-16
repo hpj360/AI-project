@@ -5,17 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Krug, 独占园, 黑中白]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-sparkling-krug-grande-cuvee-170, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise, ENT-wine_sparkling-off-048-clairette-de-die-tradition]
 related_typed: {ENT-wine-sparkling-krug-grande-cuvee-170: same_brand, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: cross_region, ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 36796}
-  wine_spectator: {score: 91, year: 2022}
-awards:
-  - {name: Decanter Gold, year: 2020, org: Decanter}
 ---
 
 # 库克阿姆博内园 2002
@@ -72,19 +67,6 @@ Krug 独占园黑中白香槟，Ambonnay 围墙内黑皮诺。
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 36796 |
-| Wine Spectator | 91 | 2022 |
-
-### 获奖记录
-
-- **2020** Decanter Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

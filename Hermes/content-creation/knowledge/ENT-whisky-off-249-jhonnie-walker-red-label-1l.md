@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, Johnnie walker]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-265-black-label, ENT-whisky-off-270-red-label, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10]
 related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-off-270-red-label: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.5, votes: 191}
-  whisky_fun: {score: 84, year: 2021}
-  whisky_bible: {score: 82, year: 2021}
-source_url: https://world.openfoodfacts.org/product/1l
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -74,16 +67,6 @@ OpenFoodFacts 真实产品数据：Jhonnie walker red label 1l（Johnnie walker�
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.5 | 191 |
-| Whisky Fun | 84 | 2021 |
-| Whisky Bible | 82 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,20 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 亚洲, 柚子, 龙舌兰, 日本]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-cocktail-sake-bomb: same_region, ENT-cocktail-sake-martini: same_region, ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region}
 data_confidence: simulated
 data_source: 日本配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 19300}
-  diffords: {score: 4.45, year: 2020}
-  iba: {score: 5.0, year: 2020}
-awards:
-  - {name: Tales of the Cocktail Spirited Award, year: 2022, org: Tales of the Cocktail}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -99,20 +91,6 @@ version: 1
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 19300 |
-| Difford's Guide | 4.45 | 2020 |
-| IBA 推荐 | 5.0 | 2020 |
-
-### 获奖记录
-
-- **2022** Tales of the Cocktail Spirited Award
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

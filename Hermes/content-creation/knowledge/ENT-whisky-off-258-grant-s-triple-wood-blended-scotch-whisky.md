@@ -5,21 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, Grant's]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-off-257-grant-s, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12]
 related_typed: {ENT-whisky-off-257-grant-s: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 15160}
-  whisky_fun: {score: 88, year: 2022}
-  whisky_bible: {score: 87, year: 2020}
-awards:
-  - {name: Malt Maniacs Gold, year: 2022, org: Malt Maniacs}
-source_url: https://world.openfoodfacts.org/product/whisky
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,20 +67,6 @@ OpenFoodFacts 真实产品数据：Grant's Triple Wood Blended Scotch Whisky（G
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 15160 |
-| Whisky Fun | 88 | 2022 |
-| Whisky Bible | 87 | 2020 |
-
-### 获奖记录
-
-- **2022** Malt Maniacs Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

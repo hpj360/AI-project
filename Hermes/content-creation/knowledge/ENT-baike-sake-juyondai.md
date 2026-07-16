@@ -5,20 +5,14 @@ category: ENT
 subcategory: sake
 tags: [百度百科, sake, 十四代]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-sake-hakutsuru, ENT-sake-off-096-cooking-sake, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu]
 related_typed: {ENT-baike-sake-hakutsuru: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E5%8D%81%E5%9B%9B%E4%BB%A3
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 27374}
-  sake_revue: {score: 94, year: 2020}
-awards:
-  - {name: 全国新酒鉴评会 金赏, year: 2023, org: 全国新酒鉴评会}
-  - {name: IWC Silver, year: 2022, org: IWC}
 ---
 
 # 十四代
@@ -52,20 +46,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 27374 |
-| Sake Revue | 94 | 2020 |
-
-### 获奖记录
-
-- **2023** 全国新酒鉴评会 金赏
-- **2022** IWC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

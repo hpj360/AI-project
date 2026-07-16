@@ -5,20 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, Tiki, 朗姆, 椰子, 英属维京群岛]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea]
 related_typed: {ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: same_subcat}
 data_confidence: simulated
 data_source: Soggy Dollar Bar 配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 5178}
-  diffords: {score: 4.46, year: 2021}
-  iba: {score: 5.0, year: 2023}
-awards:
-  - {name: IBA World Competition Silver, year: 2021, org: IBA World Competition}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -98,20 +90,6 @@ version: 1
 | 苦 | 0 | ░░░░░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 5178 |
-| Difford's Guide | 4.46 | 2021 |
-| IBA 推荐 | 5.0 | 2023 |
-
-### 获奖记录
-
-- **2021** IBA World Competition Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

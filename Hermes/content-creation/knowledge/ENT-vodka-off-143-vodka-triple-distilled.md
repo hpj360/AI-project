@@ -5,18 +5,12 @@ category: ENT
 subcategory: vodka
 tags: [OpenFoodFacts, vodka, 伏特加, Smirnoff]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-no-21, ENT-vodka-smirnoff-blue, ENT-brand-belvedere, ENT-brand-stolichnaya]
 related_typed: {ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-no-21: same_brand, ENT-vodka-smirnoff-blue: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 30110}
-  wine_enthusiast: {score: 85, year: 2021}
-source_url: https://world.openfoodfacts.org/product/distilled
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Vodka triple distilled（Smirnoff）
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 30110 |
-| Wine Enthusiast | 85 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

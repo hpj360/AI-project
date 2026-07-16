@@ -5,20 +5,12 @@ category: ENT
 subcategory: gin
 tags: [金酒, 美国, 美式金酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks, ENT-gin-hendricks-lunar]
 related_typed: {ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat, ENT-gin-hendricks-lunar: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 10192}
-  wine_enthusiast: {score: 92, year: 2020}
-awards:
-  - {name: San Francisco Gold, year: 2020, org: San Francisco}
-source_url: https://en.wikipedia.org/wiki/gin
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -74,19 +66,6 @@ version: 1
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 10192 |
-| Wine Enthusiast | 92 | 2020 |
-
-### 获奖记录
-
-- **2020** San Francisco Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

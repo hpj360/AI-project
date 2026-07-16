@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-off-242-ballantine-s-finest, ENT-whisky-ballantines-17, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25]
 related_typed: {ENT-whisky-off-242-ballantine-s-finest: same_brand, ENT-whisky-ballantines-17: same_brand, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region, ENT-whisky-chivas-regal-25: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 40196}
-  whisky_fun: {score: 91, year: 2022}
-  whisky_bible: {score: 90, year: 2020}
-awards:
-  - {name: WWA Gold, year: 2019, org: WWA}
-  - {name: ISC Gold, year: 2021, org: ISC}
 ---
 
 # 百龄坛 12 年
@@ -74,21 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 40196 |
-| Whisky Fun | 91 | 2022 |
-| Whisky Bible | 90 | 2020 |
-
-### 获奖记录
-
-- **2019** WWA Gold
-- **2021** ISC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

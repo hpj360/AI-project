@@ -5,19 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Hemingway Special, 摇和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-chinese-colada, ENT-cocktail-jasmine-tea-cocktail, ENT-cocktail-yuzu-margarita, ENT-cocktail-lychee-martini, ENT-cocktail-negroni]
 related_typed: {ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-jasmine-tea-cocktail: same_subcat, ENT-cocktail-yuzu-margarita: same_subcat, ENT-cocktail-lychee-martini: same_subcat, ENT-cocktail-negroni: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 27953}
-  diffords: {score: 4.39, year: 2020}
-  iba: {score: 5.0, year: 2023}
-source_url: https://iba-world.com/iba-cocktail/special/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -83,16 +76,6 @@ IBA 官方 当代经典（Contemporary Classics） 系列鸡尾酒 Hemingway Spe
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 27953 |
-| Difford's Guide | 4.39 | 2020 |
-| IBA 推荐 | 5.0 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 智利, 波尔多混酿]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-sena-2017, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet]
 related_typed: {ENT-wine-red-sena-2017: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 36182}
-  parker: {score: 91, year: 2021}
-  wine_spectator: {score: 87, year: 2022}
-  james_suckling: {score: 88, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 3643}
-awards:
-  - {name: Concours Mondial Silver, year: 2023, org: Concours Mondial}
-  - {name: IWSC Silver, year: 2019, org: IWSC}
 ---
 
 # 唐马西米亚诺 2017
@@ -76,23 +67,6 @@ Errázuriz 旗舰，纪念创始人 Don Maximiano Errázuriz。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 36182 |
-| Robert Parker (WA) | 91 | 2021 |
-| Wine Spectator | 87 | 2022 |
-| James Suckling | 88 | 2021 |
-| CellarTracker | 4.8 | 3643 |
-
-### 获奖记录
-
-- **2023** Concours Mondial Silver
-- **2019** IWSC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

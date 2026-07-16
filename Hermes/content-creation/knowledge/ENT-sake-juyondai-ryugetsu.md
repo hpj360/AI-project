@@ -5,17 +5,12 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 十四代]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-sake-juyondai-honmaru, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-soko, ENT-sake-juyondai-shirakumo, ENT-baike-sake-hakutsuru]
 related_typed: {ENT-sake-juyondai-honmaru: same_brand, ENT-sake-juyondai-nana-tariki: same_brand, ENT-sake-juyondai-soko: same_brand, ENT-sake-juyondai-shirakumo: same_region, ENT-baike-sake-hakutsuru: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 38765}
-  sake_revue: {score: 99, year: 2022}
-awards:
-  - {name: 全国新酒鉴评会 入赏, year: 2021, org: 全国新酒鉴评会}
 ---
 
 # 十四代 龙月
@@ -71,19 +66,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 38765 |
-| Sake Revue | 99 | 2022 |
-
-### 获奖记录
-
-- **2021** 全国新酒鉴评会 入赏
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

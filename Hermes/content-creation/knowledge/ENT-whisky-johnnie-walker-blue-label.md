@@ -5,16 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-265-black-label, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18]
 related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_brand, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 47127}
-  whisky_fun: {score: 88, year: 2023}
-  whisky_bible: {score: 86, year: 2023}
 ---
 
 # 尊尼获加 蓝牌
@@ -71,16 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 47127 |
-| Whisky Fun | 88 | 2023 |
-| Whisky Bible | 86 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

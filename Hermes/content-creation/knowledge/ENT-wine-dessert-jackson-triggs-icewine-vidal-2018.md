@@ -5,16 +5,12 @@ category: ENT
 subcategory: wine_dessert
 tags: [甜酒, 冰酒, 加拿大, Jackson-Triggs]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-dessert-inniskillin-icewine-riesling-2018, ENT-wine-dessert-inniskillin-icewine-vidal-2018, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015]
 related_typed: {ENT-wine-dessert-inniskillin-icewine-riesling-2018: same_region, ENT-wine-dessert-inniskillin-icewine-vidal-2018: same_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.1, votes: 35880}
-  parker: {score: 83, year: 2023}
-  wine_spectator: {score: 82, year: 2022}
 ---
 
 # 杰克翠格冰酒维达尔 2018
@@ -71,16 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.1 | 35880 |
-| Robert Parker (WA) | 83 | 2023 |
-| Wine Spectator | 82 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

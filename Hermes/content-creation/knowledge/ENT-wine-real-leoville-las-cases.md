@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 圣朱利安, 二级庄]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-ducru-beaucaillou, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine-real-ducru-beaucaillou: same_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 4458}
-  parker: {score: 83, year: 2020}
-  wine_spectator: {score: 83, year: 2020}
-  james_suckling: {score: 85, year: 2020}
-  cellar_tracker: {score: 4.5, votes: 3208}
-source_url: https://www.wine-searcher.com/find/cases
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 4458 |
-| Robert Parker (WA) | 83 | 2020 |
-| Wine Spectator | 83 | 2020 |
-| James Suckling | 85 | 2020 |
-| CellarTracker | 4.5 | 3208 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

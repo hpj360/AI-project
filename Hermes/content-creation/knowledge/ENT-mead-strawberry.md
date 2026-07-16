@@ -5,16 +5,12 @@ category: ENT
 subcategory: mead
 tags: [蜂蜜酒, 美国, 草莓, 水果]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-mead-blueberry, ENT-mead-peach, ENT-mead-cinnamon, ENT-mead-sparkling, ENT-mead-shennong-honey]
 related_typed: {ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-cinnamon: same_brand, ENT-mead-sparkling: same_region, ENT-mead-shennong-honey: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.0, votes: 6033}
-  wine_enthusiast: {score: 80, year: 2020}
-  ratebeer: {score: 81, year: 2023}
 ---
 
 # 草莓蜂蜜酒
@@ -68,16 +64,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.0 | 6033 |
-| Wine Enthusiast | 80 | 2020 |
-| RateBeer | 81 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

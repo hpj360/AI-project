@@ -5,24 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 美国, 纳帕谷, 赤霞珠, 作品一号]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-opus-one-2016, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine-red-opus-one-2016: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 37720}
-  parker: {score: 87, year: 2023}
-  wine_spectator: {score: 89, year: 2020}
-  james_suckling: {score: 90, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 551}
-awards:
-  - {name: IWSC Silver, year: 2019, org: IWSC}
-  - {name: Decanter Gold, year: 2020, org: Decanter}
-source_url: https://en.wikipedia.org/wiki/one
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -78,23 +66,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 37720 |
-| Robert Parker (WA) | 87 | 2023 |
-| Wine Spectator | 89 | 2020 |
-| James Suckling | 90 | 2022 |
-| CellarTracker | 4.8 | 551 |
-
-### 获奖记录
-
-- **2019** IWSC Silver
-- **2020** Decanter Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

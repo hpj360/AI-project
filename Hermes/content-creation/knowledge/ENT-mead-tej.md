@@ -5,18 +5,12 @@ category: ENT
 subcategory: mead
 tags: [蜂蜜酒, 埃塞俄比亚, 传统, tej]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey, ENT-mead-yunnan-wild-honey, ENT-mead-huangshan-honey]
 related_typed: {ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: cross_region, ENT-mead-yunnan-wild-honey: cross_region, ENT-mead-huangshan-honey: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 44589}
-  wine_enthusiast: {score: 87, year: 2021}
-  ratebeer: {score: 91, year: 2020}
-awards:
-  - {name: Mazer Cup Silver, year: 2022, org: Mazer Cup}
 ---
 
 # 埃塞俄比亚蜂蜜酒
@@ -70,20 +64,6 @@ Tej 埃塞俄比亚传统蜂蜜酒，使用野蜂蜜与 gesho 植物酿造，风
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 44589 |
-| Wine Enthusiast | 87 | 2021 |
-| RateBeer | 91 | 2020 |
-
-### 获奖记录
-
-- **2022** Mazer Cup Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,17 +5,12 @@ category: ENT
 subcategory: rice_wine
 tags: [米酒, 甜酒酿, 传统]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rice-wine-nuomi-jiu, ENT-rice-wine-zhaquan, ENT-rice-wine-osmanthus, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu]
 related_typed: {ENT-rice-wine-nuomi-jiu: same_brand, ENT-rice-wine-zhaquan: same_brand, ENT-rice-wine-osmanthus: same_region, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 30503}
-  csl: {score: 86, year: 2021}
-awards:
-  - {name: 全国酒类鉴评 银奖, year: 2021, org: 全国酒类鉴评}
 ---
 
 # 甜酒酿
@@ -71,19 +66,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 30503 |
-| 中国酒类鉴评 | 86 | 2021 |
-
-### 获奖记录
-
-- **2021** 全国酒类鉴评 银奖
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

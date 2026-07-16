@@ -5,18 +5,12 @@ category: ENT
 subcategory: gin
 tags: [金酒, 伦敦干, 英国, 添加利, 小批量]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-tanqueray-rangpur, ENT-gin-off-120-tanqueray-london-dry-gin, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
 related_typed: {ENT-gin-tanqueray-rangpur: same_brand, ENT-gin-off-120-tanqueray-london-dry-gin: same_brand, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region, ENT-gin-beefeater-london-dry: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 33946}
-  wine_enthusiast: {score: 93, year: 2022}
-awards:
-  - {name: San Francisco Silver, year: 2023, org: San Francisco}
-  - {name: ISC Gold, year: 2022, org: ISC}
 ---
 
 # 添加利 No.10
@@ -73,20 +67,6 @@ awards:
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 33946 |
-| Wine Enthusiast | 93 | 2022 |
-
-### 获奖记录
-
-- **2023** San Francisco Silver
-- **2022** ISC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

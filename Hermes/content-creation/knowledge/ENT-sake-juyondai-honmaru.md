@@ -5,17 +5,12 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米酒, 十四代]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-sake-juyondai-ryugetsu, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-soko, ENT-sake-juyondai-shirakumo, ENT-baike-sake-juyondai]
 related_typed: {ENT-sake-juyondai-ryugetsu: same_brand, ENT-sake-juyondai-nana-tariki: same_brand, ENT-sake-juyondai-soko: same_brand, ENT-sake-juyondai-shirakumo: same_region, ENT-baike-sake-juyondai: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 5344}
-  sake_revue: {score: 99, year: 2023}
-awards:
-  - {name: 全国新酒鉴评会 入赏, year: 2019, org: 全国新酒鉴评会}
 ---
 
 # 十四代 本丸
@@ -71,19 +66,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 5344 |
-| Sake Revue | 99 | 2023 |
-
-### 获奖记录
-
-- **2019** 全国新酒鉴评会 入赏
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

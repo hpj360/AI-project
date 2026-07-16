@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 玛歌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-canon-2015, ENT-wine-red-margaux-2015, ENT-wine-red-palmer-2015, ENT-brand-penfolds-grange, ENT-brand-opus-one]
 related_typed: {ENT-wine-red-canon-2015: same_brand, ENT-wine-red-margaux-2015: same_region, ENT-wine-red-palmer-2015: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 3.9, votes: 11445}
-  parker: {score: 83, year: 2023}
-  wine_spectator: {score: 79, year: 2020}
-  james_suckling: {score: 79, year: 2020}
-  cellar_tracker: {score: 3.6, votes: 2300}
 ---
 
 # 鲁臣世家城堡 2016
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 11445 |
-| Robert Parker (WA) | 83 | 2023 |
-| Wine Spectator | 79 | 2020 |
-| James Suckling | 79 | 2020 |
-| CellarTracker | 3.6 | 2300 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

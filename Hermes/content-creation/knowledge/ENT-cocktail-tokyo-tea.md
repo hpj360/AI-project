@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 亚洲, 清酒, 长饮, 派对]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita]
 related_typed: {ENT-cocktail-sake-bomb: same_region, ENT-cocktail-sake-martini: same_region, ENT-cocktail-saketini: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region}
 data_confidence: simulated
 data_source: 日本配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 23700}
-  diffords: {score: 4.4, year: 2022}
-  iba: {score: 5.0, year: 2021}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -100,16 +94,6 @@ version: 1
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 23700 |
-| Difford's Guide | 4.4 | 2022 |
-| IBA 推荐 | 5.0 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

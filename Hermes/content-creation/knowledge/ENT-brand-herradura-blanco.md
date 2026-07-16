@@ -5,18 +5,12 @@ category: ENT
 subcategory: tequila
 tags: [龙舌兰, 墨西哥, 银快, Blanco]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-brand-sauza-blanco, ENT-tequila-off-183-tequila-gold]
 related_typed: {ENT-brand-jose-cuervo-especial: cross_region, ENT-brand-patron-silver: cross_region, ENT-brand-don-julio-blanco: cross_region, ENT-brand-sauza-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.0, votes: 19805}
-  wine_enthusiast: {score: 80, year: 2020}
-source_url: https://en.wikipedia.org/wiki/blanco
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -72,15 +66,6 @@ version: 1
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.0 | 19805 |
-| Wine Enthusiast | 80 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

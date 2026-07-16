@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 勃艮第, 特级园, 武若]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-bonnes-mares-vogue-2015, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
 related_typed: {ENT-wine-red-bonnes-mares-vogue-2015: same_brand, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.3, votes: 18874}
-  parker: {score: 80, year: 2021}
-  wine_spectator: {score: 83, year: 2022}
-  james_suckling: {score: 82, year: 2022}
-  cellar_tracker: {score: 4.0, votes: 647}
 ---
 
 # 蜜思妮 2015
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 18874 |
-| Robert Parker (WA) | 80 | 2021 |
-| Wine Spectator | 83 | 2022 |
-| James Suckling | 82 | 2022 |
-| CellarTracker | 4.0 | 647 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

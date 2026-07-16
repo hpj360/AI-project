@@ -5,20 +5,14 @@ category: ENT
 subcategory: beer
 tags: [百度百科, beer, 兰州黄河]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-baike-beer-qingdao-pijiu]
 related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-baike-beer-qingdao-pijiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E5%85%B0%E5%B7%9E%E9%BB%84%E6%B2%B3
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 21490}
-  ratebeer: {score: 88, year: 2021}
-awards:
-  - {name: World Beer Cup Bronze, year: 2021, org: World Beer Cup}
-  - {name: WBA Gold, year: 2023, org: WBA}
 ---
 
 # 兰州黄河
@@ -52,20 +46,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 21490 |
-| RateBeer | 88 | 2021 |
-
-### 获奖记录
-
-- **2021** World Beer Cup Bronze
-- **2023** WBA Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

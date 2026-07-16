@@ -5,18 +5,12 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 荷兰, 拉格, 国际啤酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-beer-heineken, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe]
 related_typed: {ENT-beer-heineken: same_brand, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.3, votes: 11369}
-  ratebeer: {score: 84, year: 2021}
-source_url: https://en.wikipedia.org/wiki/heineken
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -72,15 +66,6 @@ version: 1
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 11369 |
-| RateBeer | 84 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

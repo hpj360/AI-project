@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 岛屿区]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-talisker-10, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony]
 related_typed: {ENT-whisky-talisker-10: same_brand, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 28731}
-  whisky_fun: {score: 97, year: 2023}
-  whisky_bible: {score: 96, year: 2023}
-awards:
-  - {name: WWA Best in Class, year: 2019, org: WWA}
-  - {name: ISC Gold, year: 2019, org: ISC}
 ---
 
 # 泰斯卡 25 年
@@ -74,21 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 28731 |
-| Whisky Fun | 97 | 2023 |
-| Whisky Bible | 96 | 2023 |
-
-### 获奖记录
-
-- **2019** WWA Best in Class
-- **2019** ISC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

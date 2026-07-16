@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 圣埃美隆, 一级A等]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-cheval-blanc, ENT-wine-real-ausone, ENT-wine-real-troplong-mondot, ENT-brand-margaux, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine-real-cheval-blanc: same_region, ENT-wine-real-ausone: same_region, ENT-wine-real-troplong-mondot: same_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.2, votes: 10999}
-  parker: {score: 81, year: 2023}
-  wine_spectator: {score: 81, year: 2023}
-  james_suckling: {score: 81, year: 2021}
-  cellar_tracker: {score: 3.9, votes: 4765}
-source_url: https://www.wine-searcher.com/find/angelus
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.2 | 10999 |
-| Robert Parker (WA) | 81 | 2023 |
-| Wine Spectator | 81 | 2023 |
-| James Suckling | 81 | 2021 |
-| CellarTracker | 3.9 | 4765 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

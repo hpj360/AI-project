@@ -5,17 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Louis Roederer, 年份]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-cristal, ENT-wine-red-pichon-lalande-2016, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012]
 related_typed: {ENT-wine-real-cristal: same_brand, ENT-wine-red-pichon-lalande-2016: same_brand, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region, ENT-wine-sparkling-veuve-clicquot-la-grande-dame-2012: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 43390}
-  wine_spectator: {score: 90, year: 2022}
-awards:
-  - {name: Decanter Gold, year: 2023, org: Decanter}
 ---
 
 # 水晶香槟 2013
@@ -72,19 +67,6 @@ Louis Roederer 旗舰年份香槟，原为沙皇亚历山大二世定制。
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 43390 |
-| Wine Spectator | 90 | 2022 |
-
-### 获奖记录
-
-- **2023** Decanter Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

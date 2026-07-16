@@ -5,18 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 斯佩塞]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-18, ENT-whisky-macallan-12-sherry-oak, ENT-whisky-macallan-12-double-cask, ENT-whisky-macallan-18-sherry-oak]
 related_typed: {ENT-whisky-glenfiddich-12: same_brand, ENT-whisky-glenfiddich-18: same_brand, ENT-whisky-macallan-12-sherry-oak: same_region, ENT-whisky-macallan-12-double-cask: same_region, ENT-whisky-macallan-18-sherry-oak: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 37812}
-  whisky_fun: {score: 99, year: 2023}
-  whisky_bible: {score: 96, year: 2022}
-awards:
-  - {name: ISC Trophy, year: 2021, org: ISC}
 ---
 
 # 格兰菲迪 15 年索雷拉
@@ -73,20 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 37812 |
-| Whisky Fun | 99 | 2023 |
-| Whisky Bible | 96 | 2022 |
-
-### 获奖记录
-
-- **2021** ISC Trophy
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 勃艮第, 莫雷-圣丹尼, 特级园, 黑皮诺]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-latour, ENT-wine-red-latour-2010, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-real-latour: same_brand, ENT-wine-red-latour-2010: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 3.9, votes: 34756}
-  parker: {score: 81, year: 2020}
-  wine_spectator: {score: 79, year: 2021}
-  james_suckling: {score: 82, year: 2022}
-  cellar_tracker: {score: 3.6, votes: 4961}
-source_url: https://www.wine-searcher.com/find/tart
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 34756 |
-| Robert Parker (WA) | 81 | 2020 |
-| Wine Spectator | 79 | 2021 |
-| James Suckling | 82 | 2022 |
-| CellarTracker | 3.6 | 4961 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,16 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 金酒, 查特酒, 味美思]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-cosmopolitan, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler]
 related_typed: {ENT-cocktail-cosmopolitan: same_region, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 30439}
-  diffords: {score: 4.27, year: 2021}
-  iba: {score: 4.8, year: 2023}
 ---
 
 # 宝石
@@ -93,16 +89,6 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 30439 |
-| Difford's Guide | 4.27 | 2021 |
-| IBA 推荐 | 4.8 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

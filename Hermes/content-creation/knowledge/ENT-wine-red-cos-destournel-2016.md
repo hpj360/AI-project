@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 圣埃斯泰夫]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
 related_typed: {ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 3.9, votes: 41140}
-  parker: {score: 80, year: 2022}
-  wine_spectator: {score: 82, year: 2021}
-  james_suckling: {score: 82, year: 2021}
-  cellar_tracker: {score: 3.6, votes: 2499}
 ---
 
 # 科比埃城堡 2016
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 41140 |
-| Robert Parker (WA) | 80 | 2022 |
-| Wine Spectator | 82 | 2021 |
-| James Suckling | 82 | 2021 |
-| CellarTracker | 3.6 | 2499 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

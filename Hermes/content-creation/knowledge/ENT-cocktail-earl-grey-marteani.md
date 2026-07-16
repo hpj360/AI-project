@@ -5,16 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 酒吧签名, 金酒, 伯爵茶, 现代]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-gin-gin-mule, ENT-cocktail-pegu-club-cocktail, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins]
 related_typed: {ENT-cocktail-gin-gin-mule: same_brand, ENT-cocktail-pegu-club-cocktail: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 3.9, votes: 48662}
-  diffords: {score: 4.01, year: 2022}
-  iba: {score: 3.6, year: 2022}
 ---
 
 # 伯爵茶马天尼
@@ -94,16 +90,6 @@ ratings:
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 48662 |
-| Difford's Guide | 4.01 | 2022 |
-| IBA 推荐 | 3.6 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

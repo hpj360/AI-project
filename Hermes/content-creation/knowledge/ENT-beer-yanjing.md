@@ -5,18 +5,12 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 中国, 燕京, 工业拉格]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-beer-snow, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat, ENT-beer-nbpt]
 related_typed: {ENT-beer-snow: same_region, ENT-beer-jing-a: same_region, ENT-beer-great-leap: same_region, ENT-beer-slowboat: same_region, ENT-beer-nbpt: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 47901}
-  ratebeer: {score: 89, year: 2020}
-awards:
-  - {name: World Beer Cup Gold, year: 2020, org: World Beer Cup}
-  - {name: WBA Gold, year: 2019, org: WBA}
 ---
 
 # 燕京啤酒
@@ -72,20 +66,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 47901 |
-| RateBeer | 89 | 2020 |
-
-### 获奖记录
-
-- **2020** World Beer Cup Gold
-- **2019** WBA Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

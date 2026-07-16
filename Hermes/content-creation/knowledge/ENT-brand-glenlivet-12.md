@@ -5,22 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 斯佩塞, 单一麦芽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7]
 related_typed: {ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: cross_region, ENT-brand-chivas-regal-12: cross_region, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 27761}
-  whisky_fun: {score: 94, year: 2022}
-  whisky_bible: {score: 96, year: 2021}
-awards:
-  - {name: WWA Best in Class, year: 2020, org: WWA}
-  - {name: ISC Gold, year: 2023, org: ISC}
-source_url: https://en.wikipedia.org/wiki/12
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,21 +66,6 @@ version: 1
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 27761 |
-| Whisky Fun | 94 | 2022 |
-| Whisky Bible | 96 | 2021 |
-
-### 获奖记录
-
-- **2020** WWA Best in Class
-- **2023** ISC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

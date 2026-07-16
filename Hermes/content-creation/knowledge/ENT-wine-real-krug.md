@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, LVMH, 霞多丽, 黑皮诺, 皮诺莫尼耶]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-dom-perignon, ENT-wine-real-moet-chandon, ENT-wine-real-veuve-clicquot, ENT-wine-real-bollinger, ENT-wine-real-cristal]
 related_typed: {ENT-wine-real-dom-perignon: same_region, ENT-wine-real-moet-chandon: same_region, ENT-wine-real-veuve-clicquot: same_region, ENT-wine-real-bollinger: same_region, ENT-wine-real-cristal: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 39923}
-  wine_spectator: {score: 86, year: 2020}
-awards:
-  - {name: IWSC Silver, year: 2019, org: IWSC}
-  - {name: Decanter Silver, year: 2023, org: Decanter}
-source_url: https://www.wine-searcher.com/find/krug
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,20 +67,6 @@ LVMH旗下顶级香槟，以单一园和小橡木桶发酵著称，香槟中的�
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 39923 |
-| Wine Spectator | 86 | 2020 |
-
-### 获奖记录
-
-- **2019** IWSC Silver
-- **2023** Decanter Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

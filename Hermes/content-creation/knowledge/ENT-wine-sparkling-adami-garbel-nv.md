@@ -5,15 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 普罗塞克, Adami, DOCG]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-sparkling-bisol-cartizze-nv, ENT-wine-sparkling-valdo-prosecco-nv, ENT-wine-sparkling-bisol-crede-nv, ENT-wine_sparkling-off-049-mateus-ros-original, ENT-wine_sparkling-off-050-petillant-de-listel-peche]
 related_typed: {ENT-wine-sparkling-bisol-cartizze-nv: same_region, ENT-wine-sparkling-valdo-prosecco-nv: same_region, ENT-wine-sparkling-bisol-crede-nv: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: cross_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 46247}
-  wine_spectator: {score: 85, year: 2022}
 ---
 
 # 阿达米加贝尔
@@ -70,15 +67,6 @@ Charmat 法，不锈钢桶二次发酵
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 46247 |
-| Wine Spectator | 85 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

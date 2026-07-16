@@ -5,18 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 日本, 调和威士忌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-roku, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-brand-hibiki-harmony, ENT-whisky-hibiki-17]
 related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-brand-hibiki-harmony: same_region, ENT-whisky-hibiki-17: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 22223}
-  whisky_fun: {score: 95, year: 2021}
-  whisky_bible: {score: 96, year: 2022}
-awards:
-  - {name: ISC Trophy, year: 2022, org: ISC}
 ---
 
 # 响 21 年
@@ -73,20 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 22223 |
-| Whisky Fun | 95 | 2021 |
-| Whisky Bible | 96 | 2022 |
-
-### 获奖记录
-
-- **2022** ISC Trophy
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,20 +5,12 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 比利时, 拉格, 皮尔森]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
 related_typed: {ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 34494}
-  ratebeer: {score: 87, year: 2023}
-awards:
-  - {name: World Beer Cup Silver, year: 2021, org: World Beer Cup}
-source_url: https://en.wikipedia.org/wiki/artois
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -74,19 +66,6 @@ version: 1
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 34494 |
-| RateBeer | 87 | 2023 |
-
-### 获奖记录
-
-- **2021** World Beer Cup Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

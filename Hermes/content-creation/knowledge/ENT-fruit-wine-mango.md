@@ -5,18 +5,12 @@ category: ENT
 subcategory: fruit_wine
 tags: [果酒, 芒果, 热带, 中国]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-fruit-wine-dragon-fruit-wine, ENT-baike-fruit_wine-wujiapi-jiu, ENT-baike-fruit_wine-guihua-jiu, ENT-fruit-wine-choya-umeshu, ENT-fruit-wine-suntory-umeshu]
 related_typed: {ENT-fruit-wine-dragon-fruit-wine: same_region, ENT-baike-fruit_wine-wujiapi-jiu: cross_region, ENT-baike-fruit_wine-guihua-jiu: cross_region, ENT-fruit-wine-choya-umeshu: cross_region, ENT-fruit-wine-suntory-umeshu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 31100}
-  wine_enthusiast: {score: 91, year: 2020}
-awards:
-  - {name: IWSC Gold, year: 2020, org: IWSC}
-  - {name: San Francisco Gold, year: 2022, org: San Francisco}
 ---
 
 # 芒果酒
@@ -70,20 +64,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 31100 |
-| Wine Enthusiast | 91 | 2020 |
-
-### 获奖记录
-
-- **2020** IWSC Gold
-- **2022** San Francisco Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

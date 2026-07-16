@@ -5,16 +5,12 @@ category: ENT
 subcategory: wine_dessert
 tags: [甜酒, 奥地利, TBA, Kracher, 贵腐]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-dessert-kracher-beerenauslese-zwischen-den-seen-2016, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015, ENT-wine-dessert-coutet-2015]
 related_typed: {ENT-wine-dessert-kracher-beerenauslese-zwischen-den-seen-2016: same_brand, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: cross_region, ENT-wine-dessert-coutet-2015: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 4926}
-  parker: {score: 87, year: 2022}
-  wine_spectator: {score: 86, year: 2021}
 ---
 
 # 克拉赫 TBA 12 2015
@@ -71,16 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 4926 |
-| Robert Parker (WA) | 87 | 2022 |
-| Wine Spectator | 86 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

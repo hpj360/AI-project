@@ -5,18 +5,12 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 浓香, 四川, 沱牌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-shede-zhihui-shede, ENT-baike-baijiu-shede-jiu, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
 related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-shede-zhihui-shede: same_brand, ENT-baike-baijiu-shede-jiu: same_brand, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 14620}
-  csl: {score: 89, year: 2023}
-awards:
-  - {name: 布鲁塞尔大奖赛 金奖, year: 2022, org: 布鲁塞尔大奖赛}
-  - {name: CMB Gold, year: 2023, org: CMB}
 ---
 
 # 沱牌 特曲
@@ -73,20 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 14620 |
-| 中国酒类鉴评 | 89 | 2023 |
-
-### 获奖记录
-
-- **2022** 布鲁塞尔大奖赛 金奖
-- **2023** CMB Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

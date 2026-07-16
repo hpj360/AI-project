@@ -5,16 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 爱尔兰, 单一麦芽壶式, 雪莉桶]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-redbreast-15, ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-green-spot, ENT-whisky-midleton-very-rare]
 related_typed: {ENT-whisky-redbreast-15: same_brand, ENT-whisky-jameson: same_region, ENT-whisky-jameson-black-barrel: same_region, ENT-whisky-green-spot: same_region, ENT-whisky-midleton-very-rare: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 10095}
-  whisky_fun: {score: 86, year: 2021}
-  whisky_bible: {score: 86, year: 2022}
 ---
 
 # 红胸 12 年
@@ -71,16 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 10095 |
-| Whisky Fun | 86 | 2021 |
-| Whisky Bible | 86 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

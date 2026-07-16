@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, Johnnie Walker]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-265-black-label, ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-266-clan-campbell]
 related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_brand, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-off-245-monkey-shoulder: same_region, ENT-whisky-off-266-clan-campbell: same_region}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.4, votes: 222}
-  whisky_fun: {score: 84, year: 2023}
-  whisky_bible: {score: 83, year: 2020}
-source_url: https://world.openfoodfacts.org/product/label
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -74,16 +67,6 @@ OpenFoodFacts 真实产品数据：Red Label（Johnnie Walker），产地 Scotla
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.4 | 222 |
-| Whisky Fun | 84 | 2023 |
-| Whisky Bible | 83 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

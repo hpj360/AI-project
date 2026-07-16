@@ -5,18 +5,12 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米酒, 北の庄, 福井]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-sake-off-097-mirin-sak-doux-pour-cuisiner, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux]
 related_typed: {ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: cross_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat, ENT-sake-off-101-sake-de-cuisine-vin-de-riz-umami-doux: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 36037}
-  sake_revue: {score: 90, year: 2023}
-awards:
-  - {name: 全国新酒鉴评会 金赏, year: 2019, org: 全国新酒鉴评会}
-  - {name: IWC Gold, year: 2022, org: IWC}
 ---
 
 # 北の庄
@@ -72,20 +66,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 36037 |
-| Sake Revue | 90 | 2023 |
-
-### 获奖记录
-
-- **2019** 全国新酒鉴评会 金赏
-- **2022** IWC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

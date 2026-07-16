@@ -5,20 +5,14 @@ category: ENT
 subcategory: beer
 tags: [百度百科, beer, 燕京啤酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-baike-beer-qingdao-pijiu]
 related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-baike-beer-qingdao-pijiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E7%87%95%E4%BA%AC%E5%95%A4%E9%85%92
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 8503}
-  ratebeer: {score: 89, year: 2022}
-awards:
-  - {name: World Beer Cup Bronze, year: 2020, org: World Beer Cup}
-  - {name: WBA Gold, year: 2021, org: WBA}
 ---
 
 # 燕京啤酒
@@ -52,20 +46,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 8503 |
-| RateBeer | 89 | 2022 |
-
-### 获奖记录
-
-- **2020** World Beer Cup Bronze
-- **2021** WBA Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

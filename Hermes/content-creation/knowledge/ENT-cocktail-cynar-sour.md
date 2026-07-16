@@ -5,16 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 创意, Cynar, 酸酒, 现代]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-americano, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball]
 related_typed: {ENT-cocktail-americano: same_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.6, votes: 49063}
-  diffords: {score: 4.16, year: 2021}
-  iba: {score: 4.3, year: 2022}
 ---
 
 # Cynar 酸酒
@@ -93,16 +89,6 @@ Cynar 苦味利口酒配柠檬蛋白与糖浆，朝鲜蓟苦味的现代酸酒�
 | 苦 | 4 | ████░ |
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.6 | 49063 |
-| Difford's Guide | 4.16 | 2021 |
-| IBA 推荐 | 4.3 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

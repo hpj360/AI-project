@@ -5,18 +5,12 @@ category: ENT
 subcategory: brandy
 tags: [白兰地, 希腊, Metaxa]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu]
 related_typed: {ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: cross_region, ENT-brandy-martell-vsop: same_subcat, ENT-brandy-martell-xo: same_subcat, ENT-brandy-martell-cordon-bleu: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 34297}
-  wine_enthusiast: {score: 87, year: 2021}
-source_url: https://en.wikipedia.org/wiki/5
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -72,15 +66,6 @@ version: 1
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 34297 |
-| Wine Enthusiast | 87 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

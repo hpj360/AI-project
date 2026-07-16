@@ -5,15 +5,12 @@ category: ENT
 subcategory: brandy
 tags: [白兰地, 西班牙, 白兰地]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
 related_typed: {ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.5, votes: 8774}
-  wine_enthusiast: {score: 84, year: 2020}
 ---
 
 # Torres 10 年
@@ -70,15 +67,6 @@ Torres 10 年，西班牙白兰地经典，雪莉桶陈酿。
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.5 | 8774 |
-| Wine Enthusiast | 84 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

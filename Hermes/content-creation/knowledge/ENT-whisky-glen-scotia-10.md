@@ -5,20 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 坎贝尔敦]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson]
 related_typed: {ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 11393}
-  whisky_fun: {score: 91, year: 2021}
-  whisky_bible: {score: 88, year: 2022}
-awards:
-  - {name: ISC Trophy, year: 2022, org: ISC}
-  - {name: WWA Best in Class, year: 2023, org: WWA}
-  - {name: Malt Maniacs Silver, year: 2020, org: Malt Maniacs}
 ---
 
 # 格兰帝 10 年
@@ -75,22 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 11393 |
-| Whisky Fun | 91 | 2021 |
-| Whisky Bible | 88 | 2022 |
-
-### 获奖记录
-
-- **2022** ISC Trophy
-- **2023** WWA Best in Class
-- **2020** Malt Maniacs Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

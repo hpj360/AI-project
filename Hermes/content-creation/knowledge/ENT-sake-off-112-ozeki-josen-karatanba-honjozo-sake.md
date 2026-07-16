@@ -5,21 +5,12 @@ category: ENT
 subcategory: sake
 tags: [OpenFoodFacts, sake, 清酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-sake-juyondai, ENT-sake-off-096-cooking-sake, ENT-sake-off-102-sake-de-cuisine, ENT-sake-off-113-amazake, ENT-baike-sake-hakutsuru]
 related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-off-096-cooking-sake: cross_region, ENT-sake-off-102-sake-de-cuisine: cross_region, ENT-sake-off-113-amazake: cross_region, ENT-baike-sake-hakutsuru: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 9635}
-  sake_revue: {score: 93, year: 2021}
-awards:
-  - {name: 全国新酒鉴评会 金赏, year: 2022, org: 全国新酒鉴评会}
-  - {name: IWC Silver, year: 2020, org: IWC}
-source_url: https://world.openfoodfacts.org/product/sake
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -74,20 +65,6 @@ OpenFoodFacts 真实产品数据：Ozeki Josen Karatanba Honjozo Sake
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 9635 |
-| Sake Revue | 93 | 2021 |
-
-### 获奖记录
-
-- **2022** 全国新酒鉴评会 金赏
-- **2020** IWC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

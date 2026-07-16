@@ -5,19 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 难忘杯（The Unforgettables）, Monkey Gland, 摇和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail, ENT-cocktail-baijiu-sour, ENT-cocktail-maotai-martini, ENT-cocktail-chinese-colada]
 related_typed: {ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat, ENT-cocktail-baijiu-sour: same_subcat, ENT-cocktail-maotai-martini: same_subcat, ENT-cocktail-chinese-colada: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.3, votes: 48775}
-  diffords: {score: 4.11, year: 2020}
-  iba: {score: 4.0, year: 2023}
-source_url: https://iba-world.com/iba-cocktail/gland/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -83,16 +76,6 @@ IBA 官方 难忘杯（The Unforgettables） 系列鸡尾酒 Monkey Gland（猴�
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 48775 |
-| Difford's Guide | 4.11 | 2020 |
-| IBA 推荐 | 4.0 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

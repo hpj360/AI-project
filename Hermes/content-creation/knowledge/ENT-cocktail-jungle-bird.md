@@ -5,16 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, Tiki, 黑朗姆, 金巴利, 菠萝]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.0, votes: 45203}
-  diffords: {score: 4.04, year: 2021}
-  iba: {score: 3.7, year: 2021}
 ---
 
 # 丛林鸟
@@ -95,16 +91,6 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.0 | 45203 |
-| Difford's Guide | 4.04 | 2021 |
-| IBA 推荐 | 3.7 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

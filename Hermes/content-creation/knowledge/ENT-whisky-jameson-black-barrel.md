@@ -5,20 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 爱尔兰, 调和威士忌]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-jameson, ENT-whisky-redbreast-12, ENT-whisky-redbreast-15, ENT-whisky-green-spot]
 related_typed: {ENT-whisky-off-252-black-barrel-whisky-40: same_brand, ENT-whisky-jameson: same_brand, ENT-whisky-redbreast-12: same_region, ENT-whisky-redbreast-15: same_region, ENT-whisky-green-spot: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 20546}
-  whisky_fun: {score: 94, year: 2023}
-  whisky_bible: {score: 91, year: 2022}
-awards:
-  - {name: WWA Silver, year: 2022, org: WWA}
-  - {name: ISC Trophy, year: 2021, org: ISC}
-  - {name: Malt Maniacs Silver, year: 2019, org: Malt Maniacs}
 ---
 
 # 尊美醇 黑桶
@@ -75,22 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 20546 |
-| Whisky Fun | 94 | 2023 |
-| Whisky Bible | 91 | 2022 |
-
-### 获奖记录
-
-- **2022** WWA Silver
-- **2021** ISC Trophy
-- **2019** Malt Maniacs Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

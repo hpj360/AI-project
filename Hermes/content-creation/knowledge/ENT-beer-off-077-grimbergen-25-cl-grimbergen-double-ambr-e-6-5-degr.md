@@ -5,18 +5,12 @@ category: ENT
 subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒, GRIMBERGEN]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-beer-off-073-blond, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
 related_typed: {ENT-beer-off-073-blond: same_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 38085}
-  ratebeer: {score: 87, year: 2023}
-source_url: https://world.openfoodfacts.org/product/degr
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Grimbergen 25 cl Grimbergen Double Ambrèe 6.
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 38085 |
-| RateBeer | 87 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

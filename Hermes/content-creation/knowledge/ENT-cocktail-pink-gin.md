@@ -5,20 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 古典, 金酒, 苦精, 英国海军]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail]
 related_typed: {ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 8646}
-  diffords: {score: 4.45, year: 2023}
-  iba: {score: 5.0, year: 2022}
-awards:
-  - {name: IBA World Competition Gold, year: 2023, org: IBA World Competition}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -97,20 +89,6 @@ version: 1
 | 苦 | 4 | ████░ |
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 8646 |
-| Difford's Guide | 4.45 | 2023 |
-| IBA 推荐 | 5.0 | 2022 |
-
-### 获奖记录
-
-- **2023** IBA World Competition Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,19 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Casablanca, 摇和]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-americano, ENT-cocktail-margarita, ENT-cocktail-daiquiri, ENT-cocktail-sidecar, ENT-cocktail-sazerac]
 related_typed: {ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat, ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sidecar: same_subcat, ENT-cocktail-sazerac: same_subcat}
 data_confidence: official
 data_source: IBA Official
-version: 1
-ratings:
-  vivino: {score: 4.2, votes: 12818}
-  diffords: {score: 4.08, year: 2021}
-  iba: {score: 3.9, year: 2020}
-source_url: https://iba-world.com/iba-cocktail/casablanca/
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -83,16 +76,6 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 | 苦 | 2 | ██░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 3 | ███░░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.2 | 12818 |
-| Difford's Guide | 4.08 | 2021 |
-| IBA 推荐 | 3.9 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

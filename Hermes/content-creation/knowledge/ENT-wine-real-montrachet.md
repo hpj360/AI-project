@@ -5,20 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 法国, 勃艮第, 普里尼-蒙哈榭, 特级园, 霞多丽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-wine-real-chambertin, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
 related_typed: {ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-wine-real-chambertin: same_brand, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 15760}
-  parker: {score: 86, year: 2020}
-  wine_spectator: {score: 86, year: 2020}
-  cellar_tracker: {score: 4.8, votes: 4769}
-source_url: https://www.wine-searcher.com/find/montrachet
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -75,17 +67,6 @@ version: 1
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 15760 |
-| Robert Parker (WA) | 86 | 2020 |
-| Wine Spectator | 86 | 2020 |
-| CellarTracker | 4.8 | 4769 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

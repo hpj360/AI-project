@@ -5,24 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 意大利, 超级托斯卡纳, 博格利, 赤霞珠]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-sassicaia-2016, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
 related_typed: {ENT-wine-red-sassicaia-2016: same_brand, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 37645}
-  parker: {score: 89, year: 2021}
-  wine_spectator: {score: 90, year: 2023}
-  james_suckling: {score: 88, year: 2020}
-  cellar_tracker: {score: 4.8, votes: 1099}
-awards:
-  - {name: IWSC Silver, year: 2023, org: IWSC}
-  - {name: Concours Mondial Gold, year: 2022, org: Concours Mondial}
-source_url: https://www.wine-searcher.com/find/sassicaia
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -79,23 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 37645 |
-| Robert Parker (WA) | 89 | 2021 |
-| Wine Spectator | 90 | 2023 |
-| James Suckling | 88 | 2020 |
-| CellarTracker | 4.8 | 1099 |
-
-### 获奖记录
-
-- **2023** IWSC Silver
-- **2022** Concours Mondial Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

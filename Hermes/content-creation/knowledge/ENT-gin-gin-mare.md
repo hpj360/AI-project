@@ -5,17 +5,12 @@ category: ENT
 subcategory: gin
 tags: [金酒, 西班牙, 地中海, 新西方]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry]
 related_typed: {ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 18808}
-  wine_enthusiast: {score: 90, year: 2022}
-awards:
-  - {name: San Francisco Silver, year: 2022, org: San Francisco}
 ---
 
 # 金玛丽
@@ -72,19 +67,6 @@ Gin Mare，地中海风格金酒，加入橄榄与迷迭香。
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 18808 |
-| Wine Enthusiast | 90 | 2022 |
-
-### 获奖记录
-
-- **2022** San Francisco Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

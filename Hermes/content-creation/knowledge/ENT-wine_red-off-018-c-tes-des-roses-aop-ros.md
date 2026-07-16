@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Gerard Bertrand]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-015-cabernet-sauvigon]
 related_typed: {ENT-wine_red-off-004-pinot-noir: same_region, ENT-wine_red-off-005-cabernet-sauvignon: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_region, ENT-wine_red-off-009-mouton-cadet: same_region, ENT-wine_red-off-015-cabernet-sauvigon: same_region}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 8022}
-  parker: {score: 87, year: 2022}
-  wine_spectator: {score: 86, year: 2022}
-  james_suckling: {score: 86, year: 2020}
-  cellar_tracker: {score: 4.8, votes: 324}
-source_url: https://world.openfoodfacts.org/product/ros
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ OpenFoodFacts 真实产品数据：Côtes des Roses AOP, rosé（Gerard Bertrand
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 8022 |
-| Robert Parker (WA) | 87 | 2022 |
-| Wine Spectator | 86 | 2022 |
-| James Suckling | 86 | 2020 |
-| CellarTracker | 4.8 | 324 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

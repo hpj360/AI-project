@@ -5,22 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 西班牙, 里奥哈, Gran Reserva]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-rioja-gran-reserva, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo]
 related_typed: {ENT-wine-real-rioja-gran-reserva: same_region, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_subcat, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 30030}
-  parker: {score: 89, year: 2020}
-  wine_spectator: {score: 87, year: 2023}
-  james_suckling: {score: 89, year: 2022}
-  cellar_tracker: {score: 4.8, votes: 3318}
-awards:
-  - {name: Decanter Gold, year: 2020, org: Decanter}
-  - {name: IWSC Gold, year: 2021, org: IWSC}
-  - {name: Concours Mondial Silver, year: 2019, org: Concours Mondial}
 ---
 
 # 里奥哈阿尔塔 904 2011
@@ -77,24 +67,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 30030 |
-| Robert Parker (WA) | 89 | 2020 |
-| Wine Spectator | 87 | 2023 |
-| James Suckling | 89 | 2022 |
-| CellarTracker | 4.8 | 3318 |
-
-### 获奖记录
-
-- **2020** Decanter Gold
-- **2021** IWSC Gold
-- **2019** Concours Mondial Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

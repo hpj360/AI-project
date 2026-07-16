@@ -5,16 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 现代经典, Tiki, 金酒, 百香果]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-martinez, ENT-cocktail-jasmine, ENT-cocktail-tommys-margarita, ENT-cocktail-chartreuse-swizzle, ENT-cocktail-fogcutter]
 related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-chartreuse-swizzle: same_region, ENT-cocktail-fogcutter: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 16325}
-  diffords: {score: 4.34, year: 2023}
-  iba: {score: 5.0, year: 2020}
 ---
 
 # 土星
@@ -94,16 +90,6 @@ ratings:
 | 苦 | 1 | █░░░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 16325 |
-| Difford's Guide | 4.34 | 2023 |
-| IBA 推荐 | 5.0 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

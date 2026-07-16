@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 酸酒, 白兰地, 朗姆]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-sidecar, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa, ENT-cocktail-bees-knees]
 related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region, ENT-cocktail-bees-knees: same_region}
 data_confidence: official
 data_source: IBA 官方配方
-version: 1
-ratings:
-  vivino: {score: 4.2, votes: 1707}
-  diffords: {score: 4.09, year: 2020}
-  iba: {score: 3.9, year: 2021}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -97,16 +91,6 @@ version: 1
 | 苦 | 1 | █░░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.2 | 1707 |
-| Difford's Guide | 4.09 | 2020 |
-| IBA 推荐 | 3.9 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

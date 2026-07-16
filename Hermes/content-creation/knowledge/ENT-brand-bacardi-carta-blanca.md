@@ -5,20 +5,12 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 古巴, 波多黎各, 白朗姆]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rum-off-181-bacardi-razz, ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23]
 related_typed: {ENT-rum-off-181-bacardi-razz: same_brand, ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 32993}
-  wine_enthusiast: {score: 88, year: 2022}
-awards:
-  - {name: San Francisco Silver, year: 2020, org: San Francisco}
-source_url: https://en.wikipedia.org/wiki/blanca
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -74,19 +66,6 @@ version: 1
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 32993 |
-| Wine Enthusiast | 88 | 2022 |
-
-### 获奖记录
-
-- **2020** San Francisco Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,15 +5,12 @@ category: ENT
 subcategory: tequila
 tags: [龙舌兰, 墨西哥, Don Valente, Blanco]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-tequila-orendain-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
 related_typed: {ENT-tequila-orendain-blanco: same_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 17034}
-  wine_enthusiast: {score: 88, year: 2020}
 ---
 
 # 特奎拉 Don Valente Blanco
@@ -70,15 +67,6 @@ ratings:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 17034 |
-| Wine Enthusiast | 88 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

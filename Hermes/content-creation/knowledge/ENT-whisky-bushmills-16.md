@@ -5,20 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 爱尔兰, 单一麦芽, 三桶]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-bushmills-original, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson]
 related_typed: {ENT-whisky-bushmills-original: same_brand, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 18894}
-  whisky_fun: {score: 91, year: 2022}
-  whisky_bible: {score: 88, year: 2023}
-awards:
-  - {name: Malt Maniacs Gold, year: 2021, org: Malt Maniacs}
-  - {name: ISC Silver, year: 2019, org: ISC}
-  - {name: WWA Gold, year: 2021, org: WWA}
 ---
 
 # 布什米尔斯 16 年
@@ -75,22 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 18894 |
-| Whisky Fun | 91 | 2022 |
-| Whisky Bible | 88 | 2023 |
-
-### 获奖记录
-
-- **2021** Malt Maniacs Gold
-- **2019** ISC Silver
-- **2021** WWA Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

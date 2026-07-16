@@ -5,17 +5,12 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 久保田]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-sake-kubota-senju, ENT-sake-kubota-manju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban, ENT-sake-kubota-kuradashi-genshu]
 related_typed: {ENT-sake-kubota-senju: same_brand, ENT-sake-kubota-manju: same_brand, ENT-sake-kubota-hyakuju: same_brand, ENT-sake-kubota-hachiban: same_region, ENT-sake-kubota-kuradashi-genshu: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 30412}
-  sake_revue: {score: 95, year: 2023}
-awards:
-  - {name: 全国新酒鉴评会 金赏, year: 2023, org: 全国新酒鉴评会}
 ---
 
 # 久保田 翠寿
@@ -71,19 +66,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 30412 |
-| Sake Revue | 95 | 2023 |
-
-### 获奖记录
-
-- **2023** 全国新酒鉴评会 金赏
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

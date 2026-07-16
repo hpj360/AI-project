@@ -5,17 +5,12 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 巴拿马, Selvarey]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara]
 related_typed: {ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 22728}
-  wine_enthusiast: {score: 90, year: 2020}
-awards:
-  - {name: San Francisco Gold, year: 2021, org: San Francisco}
 ---
 
 # 塞瓦亚 Selvarey
@@ -72,19 +67,6 @@ Selvarey，巴拿马陈年朗姆，时尚品牌明星代言。
 | 烈 | 4 | ████░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 22728 |
-| Wine Enthusiast | 90 | 2020 |
-
-### 获奖记录
-
-- **2021** San Francisco Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

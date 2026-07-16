@@ -5,19 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-white-meursault-charmes-roulot-2016, ENT-wine-white-meursault-perrieres-coche-dury-2015, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine-white-meursault-charmes-roulot-2016: same_brand, ENT-wine-white-meursault-perrieres-coche-dury-2015: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 3133}
-  parker: {score: 88, year: 2022}
-  wine_spectator: {score: 90, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 3084}
-awards:
-  - {name: Decanter Silver, year: 2019, org: Decanter}
 ---
 
 # 默尔索热内弗里耶 2015
@@ -74,21 +67,6 @@ Roulot 家族的一级园，风格清透精准，酸度优雅。
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 3133 |
-| Robert Parker (WA) | 88 | 2022 |
-| Wine Spectator | 90 | 2021 |
-| CellarTracker | 4.8 | 3084 |
-
-### 获奖记录
-
-- **2019** Decanter Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

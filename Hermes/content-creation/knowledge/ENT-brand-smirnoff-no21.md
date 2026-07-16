@@ -5,18 +5,12 @@ category: ENT
 subcategory: vodka
 tags: [伏特加, 俄罗斯, 英国, 原味]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-vodka-smirnoff-no-21, ENT-vodka-smirnoff-blue, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia]
 related_typed: {ENT-vodka-smirnoff-no-21: same_region, ENT-vodka-smirnoff-blue: same_region, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 22658}
-  wine_enthusiast: {score: 85, year: 2022}
-source_url: https://en.wikipedia.org/wiki/no21
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -72,15 +66,6 @@ version: 1
 | 烈 | 5 | █████ |
 | 香 | 1 | █░░░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 22658 |
-| Wine Enthusiast | 85 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

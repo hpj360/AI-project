@@ -5,17 +5,12 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 比利时, 林德曼, 兰比克, 水果啤酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu]
 related_typed: {ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 26787}
-  ratebeer: {score: 87, year: 2021}
-awards:
-  - {name: World Beer Cup Silver, year: 2021, org: World Beer Cup}
 ---
 
 # 林德曼啤酒
@@ -71,19 +66,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 26787 |
-| RateBeer | 87 | 2021 |
-
-### 获奖记录
-
-- **2021** World Beer Cup Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

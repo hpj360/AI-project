@@ -5,23 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 澳大利亚, 设拉子, 奔富]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-penfolds-grange-2015, ENT-wine-red-penfolds-bin-707-2016, ENT-wine-white-penfolds-yattarna-2016, ENT-wine-real-penfolds-grange, ENT-wine-real-penfolds-bin-389]
 related_typed: {ENT-wine-red-penfolds-grange-2015: same_brand, ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine-real-penfolds-grange: same_region, ENT-wine-real-penfolds-bin-389: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 34278}
-  parker: {score: 89, year: 2020}
-  wine_spectator: {score: 91, year: 2022}
-  james_suckling: {score: 91, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 2897}
-awards:
-  - {name: IWSC Gold, year: 2019, org: IWSC}
-source_url: https://en.wikipedia.org/wiki/grange
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -77,22 +66,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 34278 |
-| Robert Parker (WA) | 89 | 2020 |
-| Wine Spectator | 91 | 2022 |
-| James Suckling | 91 | 2021 |
-| CellarTracker | 4.8 | 2897 |
-
-### 获奖记录
-
-- **2019** IWSC Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,23 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, yellow tail crafted by the Casella Family]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
 related_typed: {ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 37176}
-  parker: {score: 89, year: 2021}
-  wine_spectator: {score: 90, year: 2021}
-  james_suckling: {score: 89, year: 2023}
-  cellar_tracker: {score: 4.8, votes: 725}
-awards:
-  - {name: Concours Mondial Silver, year: 2020, org: Concours Mondial}
-source_url: https://world.openfoodfacts.org/product/shiraz
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -78,22 +67,6 @@ OpenFoodFacts 真实产品数据：Yellow Tail Shiraz（yellow tail crafted by t
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 37176 |
-| Robert Parker (WA) | 89 | 2021 |
-| Wine Spectator | 90 | 2021 |
-| James Suckling | 89 | 2023 |
-| CellarTracker | 4.8 | 725 |
-
-### 获奖记录
-
-- **2020** Concours Mondial Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 卡瓦, Juvé y Camps, 珍藏]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-freixenet-cordon-negro-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine_sparkling-off-049-mateus-ros-original]
 related_typed: {ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-freixenet-cordon-negro-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine_sparkling-off-049-mateus-ros-original: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 7150}
-  wine_spectator: {score: 90, year: 2022}
-awards:
-  - {name: IWSC Gold, year: 2023, org: IWSC}
-  - {name: Decanter Silver, year: 2019, org: Decanter}
 ---
 
 # 尤维康普珍藏 2017
@@ -73,20 +67,6 @@ Juvé y Camps 家族珍藏卡瓦，传统法手工转瓶。
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 7150 |
-| Wine Spectator | 90 | 2022 |
-
-### 获奖记录
-
-- **2023** IWSC Gold
-- **2019** Decanter Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

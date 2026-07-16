@@ -5,17 +5,12 @@ category: ENT
 subcategory: rice_wine
 tags: [米酒, 桂花, 花香, 传统, 创新]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rice-wine-tian-jiuniang, ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng]
 related_typed: {ENT-rice-wine-tian-jiuniang: same_region, ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 34455}
-  csl: {score: 90, year: 2023}
-awards:
-  - {name: 全国酒类鉴评 银奖, year: 2020, org: 全国酒类鉴评}
 ---
 
 # 桂花米酒
@@ -69,19 +64,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 34455 |
-| 中国酒类鉴评 | 90 | 2023 |
-
-### 获奖记录
-
-- **2020** 全国酒类鉴评 银奖
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

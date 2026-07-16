@@ -5,19 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 单一麦芽, 高地, 雪莉桶]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-glenmorangie-original, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-clynelish-14, ENT-brand-jack-daniels-no7]
 related_typed: {ENT-whisky-glenmorangie-original: same_brand, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-clynelish-14: same_region, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 13886}
-  whisky_fun: {score: 91, year: 2022}
-  whisky_bible: {score: 90, year: 2022}
-awards:
-  - {name: WWA Best in Class, year: 2020, org: WWA}
-  - {name: ISC Silver, year: 2022, org: ISC}
 ---
 
 # 格兰杰 激稀塔 12 年
@@ -74,21 +67,6 @@ awards:
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 13886 |
-| Whisky Fun | 91 | 2022 |
-| Whisky Bible | 90 | 2022 |
-
-### 获奖记录
-
-- **2020** WWA Best in Class
-- **2022** ISC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

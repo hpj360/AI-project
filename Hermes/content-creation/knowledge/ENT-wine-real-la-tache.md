@@ -5,23 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 勃艮第, 沃恩-罗曼尼, 特级园, DRC, 黑皮诺]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-brand-romanee-conti, ENT-wine-real-romanee-conti, ENT-wine-real-richebourg, ENT-wine-real-romanee-saint-vivant, ENT-brand-margaux]
 related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-real-romanee-saint-vivant: same_region, ENT-brand-margaux: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 42140}
-  parker: {score: 90, year: 2021}
-  wine_spectator: {score: 89, year: 2021}
-  james_suckling: {score: 88, year: 2021}
-  cellar_tracker: {score: 4.8, votes: 697}
-awards:
-  - {name: Concours Mondial Gold, year: 2019, org: Concours Mondial}
-source_url: https://www.wine-searcher.com/find/tache
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -78,22 +67,6 @@ DRC旗下独占特级园，勃艮第最顶级的黑皮诺之一。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 42140 |
-| Robert Parker (WA) | 90 | 2021 |
-| Wine Spectator | 89 | 2021 |
-| James Suckling | 88 | 2021 |
-| CellarTracker | 4.8 | 697 |
-
-### 获奖记录
-
-- **2019** Concours Mondial Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

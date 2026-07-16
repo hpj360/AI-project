@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 圣埃美隆, 一级A]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-red-cheval-blanc-2015, ENT-wine-red-ausone-2015, ENT-wine-red-angelus-2015, ENT-wine-red-peby-faugeres-2015, ENT-wine-red-figeac-2015]
 related_typed: {ENT-wine-red-cheval-blanc-2015: same_region, ENT-wine-red-ausone-2015: same_region, ENT-wine-red-angelus-2015: same_region, ENT-wine-red-peby-faugeres-2015: same_region, ENT-wine-red-figeac-2015: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.1, votes: 25599}
-  parker: {score: 80, year: 2022}
-  wine_spectator: {score: 82, year: 2023}
-  james_suckling: {score: 80, year: 2023}
-  cellar_tracker: {score: 3.8, votes: 3624}
 ---
 
 # 帕维城堡 2015
@@ -73,18 +67,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.1 | 25599 |
-| Robert Parker (WA) | 80 | 2022 |
-| Wine Spectator | 82 | 2023 |
-| James Suckling | 80 | 2023 |
-| CellarTracker | 3.8 | 3624 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

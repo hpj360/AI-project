@@ -5,15 +5,12 @@ category: ENT
 subcategory: fruit_wine
 tags: [果酒, 猕猴桃, 中国]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-fruit-wine-sangshen-jiu, ENT-mead-chinese-traditional, ENT-fruit-wine-cherry-wine, ENT-baike-fruit_wine-zhuyeqing-jiu, ENT-baike-fruit_wine-jinjiu]
 related_typed: {ENT-fruit-wine-sangshen-jiu: same_brand, ENT-mead-chinese-traditional: same_brand, ENT-fruit-wine-cherry-wine: same_brand, ENT-baike-fruit_wine-zhuyeqing-jiu: cross_region, ENT-baike-fruit_wine-jinjiu: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 41604}
-  wine_enthusiast: {score: 86, year: 2020}
 ---
 
 # 猕猴桃酒
@@ -69,15 +66,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 41604 |
-| Wine Enthusiast | 86 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

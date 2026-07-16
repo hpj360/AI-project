@@ -5,17 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-white-meursault-genevrieres-roulot-2015, ENT-wine-white-meursault-perrieres-coche-dury-2015, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc]
 related_typed: {ENT-wine-white-meursault-genevrieres-roulot-2015: same_brand, ENT-wine-white-meursault-perrieres-coche-dury-2015: same_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: cross_region, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 45422}
-  parker: {score: 85, year: 2021}
-  wine_spectator: {score: 86, year: 2022}
-  cellar_tracker: {score: 4.5, votes: 4385}
 ---
 
 # 默尔索夏姆 2016
@@ -72,17 +67,6 @@ Roulot 在 Charmes 的一级园，风格清透优雅。
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 45422 |
-| Robert Parker (WA) | 85 | 2021 |
-| Wine Spectator | 86 | 2022 |
-| CellarTracker | 4.5 | 4385 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

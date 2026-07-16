@@ -5,16 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, Tiki, 黑朗姆, 查特酒, 现代]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-kamikaze, ENT-cocktail-melon-ball, ENT-cocktail-smoke-signal, ENT-cocktail-brown-derby, ENT-cocktail-westside]
 related_typed: {ENT-cocktail-kamikaze: same_region, ENT-cocktail-melon-ball: same_region, ENT-cocktail-smoke-signal: same_region, ENT-cocktail-brown-derby: same_region, ENT-cocktail-westside: same_region}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.5, votes: 21468}
-  diffords: {score: 4.14, year: 2022}
-  iba: {score: 4.2, year: 2023}
 ---
 
 # 试飞员（现代版）
@@ -95,16 +91,6 @@ ratings:
 | 苦 | 3 | ███░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.5 | 21468 |
-| Difford's Guide | 4.14 | 2022 |
-| IBA 推荐 | 4.2 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

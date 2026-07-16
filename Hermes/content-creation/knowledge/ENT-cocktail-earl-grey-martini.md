@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 亚洲, 茶, 伯爵茶, 金酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper, ENT-cocktail-gimlet]
 related_typed: {ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region, ENT-cocktail-gimlet: same_region}
 data_confidence: simulated
 data_source: 伦敦配方
-version: 1
-ratings:
-  vivino: {score: 4.1, votes: 30065}
-  diffords: {score: 4.06, year: 2023}
-  iba: {score: 3.8, year: 2022}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -95,16 +89,6 @@ version: 1
 | 苦 | 2 | ██░░░ |
 | 烈 | 4 | ████░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.1 | 30065 |
-| Difford's Guide | 4.06 | 2023 |
-| IBA 推荐 | 3.8 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

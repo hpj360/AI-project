@@ -5,20 +5,14 @@ category: ENT
 subcategory: yellow_wine
 tags: [百度百科, yellow_wine, 塔牌绍兴酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-baike-yellow_wine-danyang-huangjiu, ENT-baike-yellow_wine-jiaxing-huangjiu, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-baike-yellow_wine-guyue-longshan]
 related_typed: {ENT-baike-yellow_wine-danyang-huangjiu: cross_region, ENT-baike-yellow_wine-jiaxing-huangjiu: cross_region, ENT-yellow-wine-guyue-longshan-10y: cross_region, ENT-yellow-wine-guyue-longshan-20y: cross_region, ENT-baike-yellow_wine-guyue-longshan: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E5%A1%94%E7%89%8C%E7%BB%8D%E5%85%B4%E9%85%92
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 47438}
-  csl: {score: 87, year: 2020}
-awards:
-  - {name: 布鲁塞尔大奖赛 金奖, year: 2021, org: 布鲁塞尔大奖赛}
-  - {name: CMB Gold, year: 2022, org: CMB}
 ---
 
 # 塔牌绍兴酒
@@ -52,20 +46,6 @@ awards:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 47438 |
-| 中国酒类鉴评 | 87 | 2020 |
-
-### 获奖记录
-
-- **2021** 布鲁塞尔大奖赛 金奖
-- **2022** CMB Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

@@ -5,19 +5,12 @@ category: ENT
 subcategory: wine_white
 tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-white-meursault-genevrieres-roulot-2015, ENT-wine-white-meursault-charmes-roulot-2016, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
 related_typed: {ENT-wine-white-meursault-genevrieres-roulot-2015: same_region, ENT-wine-white-meursault-charmes-roulot-2016: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 575}
-  parker: {score: 87, year: 2021}
-  wine_spectator: {score: 87, year: 2023}
-  cellar_tracker: {score: 4.8, votes: 4863}
-awards:
-  - {name: IWSC Silver, year: 2019, org: IWSC}
 ---
 
 # 默尔索佩里耶 2015
@@ -74,21 +67,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 575 |
-| Robert Parker (WA) | 87 | 2021 |
-| Wine Spectator | 87 | 2023 |
-| CellarTracker | 4.8 | 4863 |
-
-### 获奖记录
-
-- **2019** IWSC Silver
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

@@ -5,16 +5,12 @@ category: ENT
 subcategory: fake
 tags: [假酒鉴别, 甲醇中毒, 食品安全, 应急处理]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ANTI-fake-maotai, ANTI-fake-wuliangye, ANTI-fake-lafite, ANTI-fake-maotai-packaging, ANTI-fake-hongxing]
 related_typed: {ANTI-fake-maotai: same_subcat, ANTI-fake-wuliangye: same_subcat, ANTI-fake-lafite: same_subcat, ANTI-fake-maotai-packaging: same_subcat, ANTI-fake-hongxing: same_subcat}
 data_confidence: official
 data_source: 国家卫生健康委员会、中国疾病预防控制中心
-version: 1
-ratings:
-  vivino: {score: 3.9, votes: 40325}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -38,28 +34,6 @@ version: 1
 - **外文名**：Methanol Poisoning Prevention
 - **分类**：假酒鉴别
 - **产地**：
-- **酒精度**：未知
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
-
-## 风味轮廓
-
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 3 | ███░░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 40325 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

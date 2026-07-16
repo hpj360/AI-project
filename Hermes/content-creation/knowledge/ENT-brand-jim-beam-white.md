@@ -5,23 +5,12 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 美国, 肯塔基, 波本]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-whisky-makers-mark-bourbon, ENT-whisky-makers-mark-46, ENT-whisky-four-roses-small-batch, ENT-whisky-four-roses-single-barrel, ENT-whisky-jim-bean-white]
 related_typed: {ENT-whisky-makers-mark-bourbon: same_region, ENT-whisky-makers-mark-46: same_region, ENT-whisky-four-roses-small-batch: same_region, ENT-whisky-four-roses-single-barrel: same_region, ENT-whisky-jim-bean-white: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 1606}
-  whisky_fun: {score: 89, year: 2021}
-  whisky_bible: {score: 89, year: 2023}
-awards:
-  - {name: WWA Gold, year: 2021, org: WWA}
-  - {name: Malt Maniacs Silver, year: 2019, org: Malt Maniacs}
-  - {name: ISC Trophy, year: 2019, org: ISC}
-source_url: https://en.wikipedia.org/wiki/white
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -77,22 +66,6 @@ version: 1
 | 烈 | 5 | █████ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 1606 |
-| Whisky Fun | 89 | 2021 |
-| Whisky Bible | 89 | 2023 |
-
-### 获奖记录
-
-- **2021** WWA Gold
-- **2019** Malt Maniacs Silver
-- **2019** ISC Trophy
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

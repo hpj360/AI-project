@@ -5,21 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 西班牙, 普里奥拉, 歌海娜, 佳丽酿, DOQ]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 6390}
-  parker: {score: 85, year: 2020}
-  wine_spectator: {score: 84, year: 2021}
-  james_suckling: {score: 85, year: 2022}
-  cellar_tracker: {score: 4.5, votes: 4627}
-source_url: https://www.wine-searcher.com/find/priorat
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -76,18 +67,6 @@ version: 1
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 6390 |
-| Robert Parker (WA) | 85 | 2020 |
-| Wine Spectator | 84 | 2021 |
-| James Suckling | 85 | 2022 |
-| CellarTracker | 4.5 | 4627 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

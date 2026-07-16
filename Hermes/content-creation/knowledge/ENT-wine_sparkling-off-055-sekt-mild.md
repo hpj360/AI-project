@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Rotkäppchen]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-053-sekt, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 related_typed: {ENT-wine_sparkling-off-051-sekt-halbtrocken: same_brand, ENT-wine_sparkling-off-053-sekt: same_brand, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.3, votes: 13984}
-  wine_spectator: {score: 80, year: 2022}
-source_url: https://world.openfoodfacts.org/product/mild
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Sekt mild（Rotkäppchen）
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 13984 |
-| Wine Spectator | 80 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

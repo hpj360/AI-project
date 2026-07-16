@@ -5,18 +5,12 @@ category: ENT
 subcategory: liqueur
 tags: [OpenFoodFacts, liqueur, 利口酒, Griottines]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-liqueur-off-203-baileys-original-irish-cream, ENT-liqueur-off-204-aperol, ENT-liqueur-off-205-baileys, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon, ENT-liqueur-off-207-campari]
 related_typed: {ENT-liqueur-off-203-baileys-original-irish-cream: cross_region, ENT-liqueur-off-204-aperol: cross_region, ENT-liqueur-off-205-baileys: cross_region, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon: cross_region, ENT-liqueur-off-207-campari: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
-version: 1
-ratings:
-  vivino: {score: 4.1, votes: 7685}
-  wine_enthusiast: {score: 82, year: 2023}
-source_url: https://world.openfoodfacts.org/product/fougerolles
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ OpenFoodFacts 真实产品数据：Griottines De Fougerolles（Griottines），�
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.1 | 7685 |
-| Wine Enthusiast | 82 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

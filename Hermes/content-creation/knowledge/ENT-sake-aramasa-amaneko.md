@@ -5,15 +5,12 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米酒, 新政, 秋田, 亜麻猫]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-sake-arabashiri-no6, ENT-sake-takashimizu, ENT-sake-off-098-sake, ENT-sake-off-099-sake-mei-kwei-lu, ENT-sake-off-100-mirin-sweet-cooking-rice-wine]
 related_typed: {ENT-sake-arabashiri-no6: same_brand, ENT-sake-takashimizu: same_region, ENT-sake-off-098-sake: cross_region, ENT-sake-off-099-sake-mei-kwei-lu: same_subcat, ENT-sake-off-100-mirin-sweet-cooking-rice-wine: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.6, votes: 19073}
-  sake_revue: {score: 84, year: 2021}
 ---
 
 # 新政 亜麻猫
@@ -69,15 +66,6 @@ ratings:
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.6 | 19073 |
-| Sake Revue | 84 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

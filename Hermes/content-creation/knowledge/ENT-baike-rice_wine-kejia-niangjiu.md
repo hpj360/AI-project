@@ -5,19 +5,14 @@ category: ENT
 subcategory: rice_wine
 tags: [百度百科, rice_wine, 客家娘酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-baike-rice_wine-riben-qingjiu]
 related_typed: {ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-baike-rice_wine-riben-qingjiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E5%AE%A2%E5%AE%B6%E5%A8%98%E9%85%92
 version: 1
-ratings:
-  vivino: {score: 4.8, votes: 47588}
-  csl: {score: 88, year: 2022}
-awards:
-  - {name: 全国酒类鉴评 金奖, year: 2022, org: 全国酒类鉴评}
 ---
 
 # 客家娘酒
@@ -55,19 +50,6 @@ awards:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 47588 |
-| 中国酒类鉴评 | 88 | 2022 |
-
-### 获奖记录
-
-- **2022** 全国酒类鉴评 金奖
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

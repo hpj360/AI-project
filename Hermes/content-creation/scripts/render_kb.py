@@ -72,18 +72,37 @@ def get_brand_tier(entry: dict) -> str:
     return "entry"
 
 
+# 非酒类子类白名单：这些子类不应渲染酒精度/价格/风味轮廓等酒类专属字段
+_NON_ALCOHOL_SUBCATS = frozenset({
+    "process", "region", "pairing", "glassware", "tasting_sop", "sop", "dec",
+    "anti", "guide", "other_spirit", "law", "fake", "collect", "grape",
+    "aging", "buying", "scene", "trend",
+})
+
+
 def generate_ratings(entry: dict) -> tuple[dict, list]:
-    """根据品牌档次和子类生成评分奖项。"""
+    """根据品牌档次和子类生成评分奖项。
+
+    防幻觉策略：
+    1. 非酒类子类 → 不生成评分/获奖
+    2. simulated数据 → 不生成评分/获奖（评分必须来自真实数据源）
+    3. 仅 official/verified 数据可携带评分获奖（且来自原始数据，非此函数生成）
+    """
     subcat = entry.get("subcategory", "")
+    confidence = entry.get("data_confidence", "simulated")
     tier = get_brand_tier(entry)
     slug = entry.get("id", "")
 
     seed = int(hashlib.md5(slug.encode()).hexdigest(), 16) % (2**32)
     rng = random.Random(seed)
 
-    # 不评分的类别（仅保留流程类、装饰类、指导性知识）
-    if subcat in ("process", "region", "pairing", "glassware",
-                  "tasting_sop", "sop", "dec", "anti", "guide", "other_spirit"):
+    # 不评分的类别（非酒类子类）
+    if subcat in _NON_ALCOHOL_SUBCATS:
+        return {}, []
+
+    # 防幻觉：simulated 数据不生成评分和获奖
+    # 评分/获奖必须来自真实数据源（official/verified），不能由 AI 编造
+    if confidence == "simulated":
         return {}, []
 
     if tier == "high":
@@ -630,6 +649,7 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
     normalized_subcat = _normalize_subcategory(entry)
     if normalized_subcat and normalized_subcat != entry.get("subcategory", ""):
         entry = {**entry, "subcategory": normalized_subcat}
+    subcat = entry.get("subcategory", "")
 
     # 数据置信度判定（P2: 数据可信度保障）
     data_confidence, data_source = _determine_data_confidence(entry)
@@ -711,11 +731,13 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
     body.append(f"- **产地**：{region_str}")
     if entry.get("producer"):
         body.append(f"- **生产商**：{entry['producer']}")
-    body.append(f"- **酒精度**：{entry.get('abv', '未知')}")
-    if entry.get("volume"):
-        body.append(f"- **容量**：{entry['volume']}")
-    body.append(f"- **参考价格（RMB）**：{price_str}")
-    body.append(f"- **价格档位**：{entry.get('price_tier', 'daily')}")
+    # 防幻觉：非酒类子类不渲染酒精度/价格/价格档位
+    if subcat not in _NON_ALCOHOL_SUBCATS:
+        body.append(f"- **酒精度**：{entry.get('abv', '未知')}")
+        if entry.get("volume"):
+            body.append(f"- **容量**：{entry['volume']}")
+        body.append(f"- **参考价格（RMB）**：{price_str}")
+        body.append(f"- **价格档位**：{entry.get('price_tier', 'daily')}")
     body.append("")
 
     # 鸡尾酒扩展：创制信息
@@ -820,9 +842,9 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
         body.append(f"- **技法**：{tech_cn_map.get(tech, tech)}")
         body.append("")
 
-    # 风味描述
+    # 风味描述（防幻觉：非酒类子类跳过）
     has_flavor = any(entry.get(k) for k in ["appearance", "nose", "palate", "finish", "flavor_tags"])
-    if has_flavor:
+    if has_flavor and subcat not in _NON_ALCOHOL_SUBCATS:
         body += ["## 风味描述", ""]
         if entry.get("appearance"):
             body.append(f"- **颜色**：{entry['appearance']}")
@@ -835,7 +857,7 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
         if entry.get("flavor_tags"):
             body.append(f"- **风味标签**：{', '.join(entry['flavor_tags'])}")
         body.append("")
-    elif "off-" in entry.get("id", ""):
+    elif "off-" in entry.get("id", "") and subcat not in _NON_ALCOHOL_SUBCATS:
         # OpenFoodFacts 真实数据：基于子类模板生成风味描述
         flavor_tpl = _get_subcat_flavor_template(entry.get("subcategory", ""), entry.get("title", ""))
         if flavor_tpl:
@@ -849,13 +871,15 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
             body.append("")
 
     # 风味轮廓雷达（优先用 entry 自带，否则用子类模板兜底，确保 100% 覆盖）
-    flavor_profile = _get_flavor_profile(entry)
-    if flavor_profile:
-        body += ["## 风味轮廓", ""]
-        body.extend(render_flavor_profile(flavor_profile))
-        if not entry.get("flavor_profile"):
-            body.append("> 注：风味轮廓为子类默认值，具体品牌可能有差异。")
-        body.append("")
+    # 防幻觉：非酒类子类不渲染风味轮廓
+    if subcat not in _NON_ALCOHOL_SUBCATS:
+        flavor_profile = _get_flavor_profile(entry)
+        if flavor_profile:
+            body += ["## 风味轮廓", ""]
+            body.extend(render_flavor_profile(flavor_profile))
+            if not entry.get("flavor_profile"):
+                body.append("> 注：风味轮廓为子类默认值，具体品牌可能有差异。")
+            body.append("")
 
     # 评分奖项
     if ratings or awards:

@@ -5,21 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 禁酒令, 金酒, 查特酒, 均衡]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-bull-shot, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-martini]
 related_typed: {ENT-cocktail-bull-shot: same_region, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail, ENT-gin-tanqueray-london-dry: base_to_cocktail, ENT-cocktail-sake-martini: same_subcat}
 data_confidence: simulated
 data_source: 禁酒令时代配方
-version: 1
-ratings:
-  vivino: {score: 4.8, votes: 41876}
-  diffords: {score: 4.44, year: 2023}
-  iba: {score: 5.0, year: 2023}
-awards:
-  - {name: Tales of the Cocktail Best Cocktail, year: 2020, org: Tales of the Cocktail}
-  - {name: IBA World Competition Gold, year: 2019, org: IBA World Competition}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -99,21 +90,6 @@ version: 1
 | 苦 | 3 | ███░░ |
 | 烈 | 3 | ███░░ |
 | 香 | 5 | █████ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 41876 |
-| Difford's Guide | 4.44 | 2023 |
-| IBA 推荐 | 5.0 | 2023 |
-
-### 获奖记录
-
-- **2020** Tales of the Cocktail Best Cocktail
-- **2019** IBA World Competition Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

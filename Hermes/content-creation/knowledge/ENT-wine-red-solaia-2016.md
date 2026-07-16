@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 意大利, 超级托斯卡纳]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-tignanello, ENT-wine-red-tignanello-2017, ENT-wine-red-flaccianello-2017, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
 related_typed: {ENT-wine-real-tignanello: same_brand, ENT-wine-red-tignanello-2017: same_brand, ENT-wine-red-flaccianello-2017: same_region, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
 data_confidence: simulated
 version: 1
-ratings:
-  vivino: {score: 4.7, votes: 25816}
-  parker: {score: 86, year: 2020}
-  wine_spectator: {score: 83, year: 2020}
-  james_suckling: {score: 85, year: 2022}
-  cellar_tracker: {score: 4.4, votes: 851}
 ---
 
 # 索拉雅 2016
@@ -73,18 +67,6 @@ Antinori 家族旗舰，与 Tignanello 同园出产，赤霞珠主导。
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.7 | 25816 |
-| Robert Parker (WA) | 86 | 2020 |
-| Wine Spectator | 83 | 2020 |
-| James Suckling | 85 | 2022 |
-| CellarTracker | 4.4 | 851 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

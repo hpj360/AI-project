@@ -5,18 +5,12 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, 霞多丽, 黑皮诺, 皮诺莫尼耶]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-wine-real-dom-perignon, ENT-wine-real-moet-chandon, ENT-wine-real-veuve-clicquot, ENT-wine-real-krug, ENT-wine-real-bollinger]
 related_typed: {ENT-wine-real-dom-perignon: same_region, ENT-wine-real-moet-chandon: same_region, ENT-wine-real-veuve-clicquot: same_region, ENT-wine-real-krug: same_region, ENT-wine-real-bollinger: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
-version: 1
-ratings:
-  vivino: {score: 4.6, votes: 49485}
-  wine_spectator: {score: 83, year: 2021}
-source_url: https://www.wine-searcher.com/find/roger
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -73,15 +67,6 @@ version: 1
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.6 | 49485 |
-| Wine Spectator | 83 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 

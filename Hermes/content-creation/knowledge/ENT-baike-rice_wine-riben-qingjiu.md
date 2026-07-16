@@ -5,17 +5,14 @@ category: ENT
 subcategory: rice_wine
 tags: [百度百科, rice_wine, 日本清酒]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-rice-wine-kejia-mijiu, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-jiujiang-shuangzheng, ENT-baike-rice_wine-kejia-niangjiu]
 related_typed: {ENT-rice-wine-kejia-mijiu: cross_region, ENT-rice-wine-guilin-sanhua: cross_region, ENT-rice-wine-guangdong-mijiu: cross_region, ENT-rice-wine-jiujiang-shuangzheng: cross_region, ENT-baike-rice_wine-kejia-niangjiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E6%97%A5%E6%9C%AC%E6%B8%85%E9%85%92
 version: 1
-ratings:
-  vivino: {score: 4.3, votes: 38607}
-  csl: {score: 81, year: 2023}
 ---
 
 # 日本清酒
@@ -53,15 +50,6 @@ ratings:
 | 烈 | 2 | ██░░░ |
 | 香 | 3 | ███░░ |
 > 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 38607 |
-| 中国酒类鉴评 | 81 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 合规信息
 

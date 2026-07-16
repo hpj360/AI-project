@@ -5,18 +5,12 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 古典, 金酒, 芬内特]
 status: active
-created: 2026-07-11
-updated: 2026-07-11
+created: 2026-07-16
+updated: 2026-07-16
 related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper, ENT-cocktail-gimlet]
 related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region, ENT-cocktail-gimlet: same_region}
 data_confidence: official
 data_source: IBA 官方配方
-version: 1
-ratings:
-  vivino: {score: 4.3, votes: 40477}
-  diffords: {score: 4.1, year: 2021}
-  iba: {score: 4.0, year: 2020}
-crawl_date: 2024-07-07
 version: 1
 ---
 
@@ -96,16 +90,6 @@ version: 1
 | 苦 | 4 | ████░ |
 | 烈 | 3 | ███░░ |
 | 香 | 4 | ████░ |
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.3 | 40477 |
-| Difford's Guide | 4.1 | 2021 |
-| IBA 推荐 | 4.0 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
 
 ## 饮用指南
 
