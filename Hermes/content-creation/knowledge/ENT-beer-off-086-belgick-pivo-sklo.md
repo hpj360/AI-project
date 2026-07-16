@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Brouwerij Bosteels]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-budweiser, ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing]
-related_typed: {ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat}
+related: [ENT-beer-hoegaarden, ENT-beer-delirium-tremens, ENT-beer-rochefort-6, ENT-beer-rochefort-8, ENT-beer-rochefort-10]
+related_typed: {ENT-beer-hoegaarden: same_subcat, ENT-beer-delirium-tremens: same_subcat, ENT-beer-rochefort-6: same_subcat, ENT-beer-rochefort-8: same_subcat, ENT-beer-rochefort-10: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

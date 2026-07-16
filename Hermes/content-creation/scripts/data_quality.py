@@ -187,7 +187,7 @@ CORRECTED_ABV_RANGES = {
     'wine_dessert': (5, 22), # 甜酒（Eszencia 5%，加强甜酒22%）
     'beer': (2, 12),         # 啤酒（修正：精酿可达12%）
     'sake': (5, 20),         # 清酒（修正：起泡清酒5%）
-    'cocktail': (5, 40),     # 鸡尾酒（修正：纯饮型可达40%）
+    'cocktail': (3, 45),     # 鸡尾酒（修正：低度果味型3%，纯烈酒型如Death in the Afternoon 41%）
     'liqueur': (11, 40),     # 力娇酒
     'mead': (5, 20),         # 蜂蜜酒（修正：低度罐装6%，加强型如Viking Blod 19%）
     'fruit_wine': (3, 40),   # 果酒（低度发酵型3%，蒸馏型可达40%）

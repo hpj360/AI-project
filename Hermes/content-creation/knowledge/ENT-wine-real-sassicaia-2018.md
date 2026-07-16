@@ -7,8 +7,8 @@ tags: [葡萄酒, 红葡萄酒, 意大利, 超级托斯卡纳, Sassicaia, 赤霞
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir]
-related_typed: {ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat}
+related: [ENT-wine-red-sassicaia-2021, ENT-wine-red-masseto-2021, ENT-wine-red-ornellaia-2021, ENT-brand-penfolds-grange, ENT-brand-opus-one]
+related_typed: {ENT-wine-red-sassicaia-2021: same_region, ENT-wine-red-masseto-2021: same_region, ENT-wine-red-ornellaia-2021: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

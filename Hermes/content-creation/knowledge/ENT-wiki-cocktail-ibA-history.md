@@ -7,8 +7,8 @@ tags: [IBA, 国际调酒师协会, 调酒历史, 专业组织]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-bacardi-cocktail, ENT-cocktail-casablanca, ENT-cocktail-clover-club, ENT-cocktail-bellini, ENT-cocktail-mojito]
-related_typed: {ENT-cocktail-bacardi-cocktail: same_subcat, ENT-cocktail-casablanca: same_subcat, ENT-cocktail-clover-club: same_subcat, ENT-cocktail-bellini: same_subcat, ENT-cocktail-mojito: same_subcat}
+related: [ENT-cocktail-old-fashioned-traditional, ENT-cocktail-gin-sour, ENT-cocktail-whiskey-smash, ENT-cocktail-gin-smash, ENT-cocktail-brandy-cobbler]
+related_typed: {ENT-cocktail-old-fashioned-traditional: same_subcat, ENT-cocktail-gin-sour: same_subcat, ENT-cocktail-whiskey-smash: same_subcat, ENT-cocktail-gin-smash: same_subcat, ENT-cocktail-brandy-cobbler: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1

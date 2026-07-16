@@ -1,6 +1,6 @@
 # 知识库全局索引
 
-> content-creation 酒类知识库 | 共 2031 条目 | 由 render_kb.py 维护
+> content-creation 酒类知识库 | 共 2439 条目 | 由 render_kb.py 维护
 
 ## 白酒（117）
 
@@ -122,7 +122,7 @@
 - [洋河梦之蓝](./ENT-baike-baijiu-yanghe-mengzhilan.md) | 百度百科 | baijiu
 - [天之蓝](./ENT-baike-baijiu-yanghe-tianzhilan.md) | 百度百科 | baijiu
 
-## 威士忌（140）
+## 威士忌（146）
 
 - [芝华士 12 年](./ENT-brand-chivas-regal-12.md) | 威士忌 | 苏格兰
 - [皇冠威士忌](./ENT-brand-crown-royal.md) | 威士忌 | 加拿大
@@ -255,6 +255,12 @@
 - [保罗约翰 经典](./ENT-whisky-paul-john-brilliance.md) | 威士忌 | 印度
 - [红胸 12 年](./ENT-whisky-redbreast-12.md) | 威士忌 | 爱尔兰
 - [红胸 15 年](./ENT-whisky-redbreast-15.md) | 威士忌 | 爱尔兰
+- [调配型苏格兰威士忌 Blended Scotch Whisky](./ENT-whisky-swa-blended.md) | 威士忌 | 苏格兰
+- [调配谷物苏格兰威士忌 Blended Grain Scotch Whisky](./ENT-whisky-swa-blended-grain.md) | 威士忌 | 苏格兰
+- [调配麦芽苏格兰威士忌 Blended Malt Scotch Whisky](./ENT-whisky-swa-blended-malt.md) | 威士忌 | 苏格兰
+- [苏格兰威士忌2024年出口数据 Scotch Whisky Exports 2024](./ENT-whisky-swa-export-2024.md) | 威士忌 | 苏格兰
+- [单一谷物苏格兰威士忌 Single Grain Scotch Whisky](./ENT-whisky-swa-single-grain.md) | 威士忌 | 苏格兰
+- [单一麦芽苏格兰威士忌 Single Malt Scotch Whisky](./ENT-whisky-swa-single-malt.md) | 威士忌 | 苏格兰
 - [竹鹤 17 年](./ENT-whisky-taketsuru-17.md) | 威士忌 | 日本
 - [竹鹤 21 年](./ENT-whisky-taketsuru-21.md) | 威士忌 | 日本
 - [泰斯卡 10 年](./ENT-whisky-talisker-10.md) | 威士忌 | 苏格兰
@@ -605,7 +611,7 @@
 - [皮斯科](./ENT-wiki-spirit-pisco.md) | 烈酒 | Pisco
 - [韩国烧酒](./ENT-wiki-spirit-soju.md) | 烈酒 | 烧酒
 
-## 红葡萄酒（205）
+## 红葡萄酒（218）
 
 - [奥比昂城堡](./ENT-brand-haut-brion.md) | 红酒 | 波尔多
 - [拉菲古堡](./ENT-brand-lafite-rothschild.md) | 红酒 | 波尔多
@@ -695,10 +701,12 @@
 - [卡尔明 2017](./ENT-wine-red-carmin-de-peumo-2017.md) | 红酒 | 智利
 - [皇家庄园 2017](./ENT-wine-red-casa-real-2017.md) | 红酒 | 智利
 - [凯慕斯 2016](./ENT-wine-red-caymus-2016.md) | 红酒 | 纳帕谷
+- [Caymus赤霞珠 2021](./ENT-wine-red-caymus-2021.md) | 葡萄酒 | 红葡萄酒
 - [香贝丹 2015](./ENT-wine-red-chambertin-rousseau-2015.md) | 红酒 | 勃艮第
 - [张裕解百纳 2017](./ENT-wine-red-changyu-cabernet-2017.md) | 红酒 | 中国
 - [教皇新堡博卡斯特 2016](./ENT-wine-red-chateauneuf-beaucastel-2016.md) | 红酒 | 罗讷河谷
 - [夏芙埃米塔日 2015](./ENT-wine-red-chave-hermitage-2015.md) | 红酒 | 罗讷河谷
+- [Jean-Louis Chave Hermitage 2019](./ENT-wine-red-chave-hermitage-2019.md) | 葡萄酒 | 红葡萄酒
 - [Château Cheval Blanc](./ENT-wine-red-cheval-blanc.md) | 红酒 | wine_red
 - [白马城堡 2015](./ENT-wine-red-cheval-blanc-2015.md) | 红酒 | 波尔多
 - [武乔 2016](./ENT-wine-red-clos-de-tart-2016.md) | 红酒 | 勃艮第
@@ -710,6 +718,7 @@
 - [科比埃城堡 2016](./ENT-wine-red-cos-destournel-2016.md) | 红酒 | 波尔多
 - [罗第吉佳尔 2015](./ENT-wine-red-cote-rotie-guigal-2015.md) | 红酒 | 罗讷河谷
 - [多明纳斯 2015](./ENT-wine-red-dominus-2015.md) | 红酒 | 纳帕谷
+- [Dominus Christian Moueix 2019](./ENT-wine-red-dominus-2019.md) | 葡萄酒 | 红葡萄酒
 - [唐马西米亚诺 2017](./ENT-wine-red-don-maximiano-2017.md) | 红酒 | 智利
 - [唐美佳 2017](./ENT-wine-red-don-melchor-2017.md) | 红酒 | 智利
 - [杜克豪城堡 2016](./ENT-wine-red-ducru-beaucaillou-2016.md) | 红酒 | 波尔多
@@ -722,6 +731,7 @@
 - [大伊瑟索 2015](./ENT-wine-red-grands-echezeaux-2015.md) | 红酒 | 勃艮第
 - [长城干红 2017](./ENT-wine-red-great-wall-dry-red-2017.md) | 红酒 | 中国
 - [哈兰酒庄 2015](./ENT-wine-red-harlan-estate-2015.md) | 红酒 | 纳帕谷
+- [哈兰酒庄 2018](./ENT-wine-red-harlan-estate-2018.md) | 葡萄酒 | 红葡萄酒
 - [Château Haut-Brion](./ENT-wine-red-haut-brion.md) | 红酒 | wine_red
 - [红颜容城堡 2016](./ENT-wine-red-haut-brion-2016.md) | 红酒 | 波尔多
 - [海兹玛莎园 2014](./ENT-wine-red-heitz-cellar-martha-2014.md) | 红酒 | 纳帕谷
@@ -748,13 +758,16 @@
 - [Château Margaux](./ENT-wine-red-margaux.md) | 红酒 | wine_red
 - [玛歌城堡 2015](./ENT-wine-red-margaux-2015.md) | 红酒 | 波尔多
 - [马赛多 2016](./ENT-wine-red-masseto-2016.md) | 红酒 | 意大利
+- [马赛托 2021](./ENT-wine-red-masseto-2021.md) | 葡萄酒 | 红葡萄酒
 - [魔爵红 2017](./ENT-wine-red-montes-alpha-m-2017.md) | 红酒 | 智利
 - [Château Montrose](./ENT-wine-red-montrose.md) | 红酒 | wine_red
 - [木桐城堡 2016](./ENT-wine-red-mouton-2016.md) | 红酒 | 波尔多
 - [Château Mouton Rothschild](./ENT-wine-red-mouton-rothschild.md) | 红酒 | wine_red
 - [蜜思妮 2015](./ENT-wine-red-musigny-vogue-2015.md) | 红酒 | 勃艮第
 - [作品一号 2016](./ENT-wine-red-opus-one-2016.md) | 红酒 | 纳帕谷
+- [作品一号 2019](./ENT-wine-red-opus-one-2019.md) | 葡萄酒 | 红葡萄酒
 - [奥纳亚 2016](./ENT-wine-red-ornellaia-2016.md) | 红酒 | 意大利
+- [奥纳亚 2021](./ENT-wine-red-ornellaia-2021.md) | 葡萄酒 | 红葡萄酒
 - [宝玛城堡 2015](./ENT-wine-red-palmer-2015.md) | 红酒 | 波尔多
 - [帕维城堡 2015](./ENT-wine-red-pavie-2015.md) | 红酒 | 波尔多
 - [柏菲酒庄 2015](./ENT-wine-red-peby-faugeres-2015.md) | 红酒 | 波尔多
@@ -769,19 +782,25 @@
 - [平古斯 2015](./ENT-wine-red-pingus-2015.md) | 红酒 | 西班牙
 - [Château Pontet-Canet](./ENT-wine-red-pontet-canet.md) | 红酒 | wine_red
 - [庞特卡奈城堡 2016](./ENT-wine-red-pontet-canet-2016.md) | 红酒 | 波尔多
+- [庞特卡奈 2019](./ENT-wine-red-pontet-canet-2019.md) | 葡萄酒 | 红葡萄酒
 - [鲁臣世家城堡 2016](./ENT-wine-red-rauzan-segla-2016.md) | 红酒 | 波尔多
 - [里奇堡 2015](./ENT-wine-red-richebourg-2015.md) | 红酒 | 勃艮第
 - [山脊蒙特贝罗 2015](./ENT-wine-red-ridge-monte-bello-2015.md) | 红酒 | 加州
+- [Ridge Monte Bello 2019](./ENT-wine-red-ridge-monte-bello-2019.md) | 葡萄酒 | 红葡萄酒
 - [罗伯特蒙大维珍藏 2016](./ENT-wine-red-robert-mondavi-reserve-2016.md) | 红酒 | 纳帕谷
 - [罗曼尼康帝 2015](./ENT-wine-red-romanee-conti-2015.md) | 红酒 | 勃艮第
 - [萨弗雷迪 2017](./ENT-wine-red-saffredi-2017.md) | 红酒 | 意大利
 - [西施佳雅 2016](./ENT-wine-red-sassicaia-2016.md) | 红酒 | 意大利
+- [西施佳雅 2021](./ENT-wine-red-sassicaia-2021.md) | 葡萄酒 | 红葡萄酒
 - [啸鹰 2015](./ENT-wine-red-screaming-eagle-2015.md) | 红酒 | 纳帕谷
+- [啸鹰赤霞珠 2019](./ENT-wine-red-screaming-eagle-2019.md) | 葡萄酒 | 红葡萄酒
 - [桑雅 2017](./ENT-wine-red-sena-2017.md) | 红酒 | 智利
 - [银色打伍 2014](./ENT-wine-red-silver-oak-2014.md) | 红酒 | 加州
 - [索拉雅 2016](./ENT-wine-red-solaia-2016.md) | 红酒 | 意大利
+- [索拉雅 2021](./ENT-wine-red-solaia-2021.md) | 葡萄酒 | 红葡萄酒
 - [鹿跃阿耳忒弥斯 2016](./ENT-wine-red-stags-leap-artemis-2016.md) | 红酒 | 纳帕谷
 - [天娜 2017](./ENT-wine-red-tignanello-2017.md) | 红酒 | 意大利
+- [天娜 2021](./ENT-wine-red-tignanello-2021.md) | 葡萄酒 | 红葡萄酒
 - [特罗庞蒙多城堡 2015](./ENT-wine-red-troplong-mondot-2015.md) | 红酒 | 波尔多
 - [卓龙城堡 2015](./ENT-wine-red-trotanoy-2015.md) | 红酒 | 波尔多
 - [维加西西里亚尤尼科 2010](./ENT-wine-red-vega-sicilia-unico-2010.md) | 红酒 | 西班牙
@@ -1274,7 +1293,7 @@
 - [韩国清米酒](./ENT-rice-wine-yakju.md) | 米酒 | 韩国
 - [扎泉酒](./ENT-rice-wine-zhaquan.md) | 米酒 | 扎泉
 
-## 啤酒（98）
+## 啤酒（157）
 
 - [哈尔滨啤酒](./ENT-baike-beer-haerbin-pijiu.md) | 百度百科 | beer
 - [金威啤酒](./ENT-baike-beer-jinwei-pijiu.md) | 百度百科 | beer
@@ -1286,6 +1305,65 @@
 - [珠江啤酒](./ENT-baike-beer-zhujiang-pijiu.md) | 百度百科 | beer
 - [拳击猫啤酒](./ENT-beer-boxing-cat.md) | 啤酒 | 中国
 - [酿酒狗朋克 IPA](./ENT-beer-brewdog-punk-ipa.md) | 啤酒 | 英国
+- [16 Stone Brewpub 啤酒厂](./ENT-beer-brewery-16-stone-brewpub.md) | 啤酒 | 啤酒厂
+- [5 Stones Artisan Brewery 啤酒厂](./ENT-beer-brewery-5-stones-artisan-brewery.md) | 啤酒 | 啤酒厂
+- [Abbaye Chimay 啤酒厂](./ENT-beer-brewery-abbaye-chimay.md) | 啤酒 | 啤酒厂
+- [Allagash Brewing Co 啤酒厂](./ENT-beer-brewery-allagash-brewing-co.md) | 啤酒 | 啤酒厂
+- [Augustiner 啤酒厂](./ENT-beer-brewery-augustiner.md) | 啤酒 | 啤酒厂
+- [Bastone Brewery 啤酒厂](./ENT-beer-brewery-bastone-brewery.md) | 啤酒 | 啤酒厂
+- [Beamish and Crawford (Heineken) 啤酒厂](./ENT-beer-brewery-beamish-and-crawford-heineken.md) | 啤酒 | 啤酒厂
+- [Bell's Brewery, Inc 啤酒厂](./ENT-beer-brewery-bell-s-brewery-inc.md) | 啤酒 | 啤酒厂
+- [Bell's Eccentric Cafe 啤酒厂](./ENT-beer-brewery-bell-s-eccentric-cafe.md) | 啤酒 | 啤酒厂
+- [Bella Casa Di Vino 啤酒厂](./ENT-beer-brewery-bella-casa-di-vino.md) | 啤酒 | 啤酒厂
+- [Belle Isle Restaurant and Brewing Co 啤酒厂](./ENT-beer-brewery-belle-isle-restaurant-and-brewing-co.md) | 啤酒 | 啤酒厂
+- [Belle-Vue 啤酒厂](./ENT-beer-brewery-belle-vue.md) | 啤酒 | 啤酒厂
+- [Blackstone Brewing Co 啤酒厂](./ENT-beer-brewery-blackstone-brewing-co.md) | 啤酒 | 啤酒厂
+- [Bluestone Brewing Company 啤酒厂](./ENT-beer-brewery-bluestone-brewing-company.md) | 啤酒 | 啤酒厂
+- [Brauerei Forst 啤酒厂](./ENT-beer-brewery-brauerei-forst.md) | 啤酒 | 啤酒厂
+- [Brooklyn Brewery 啤酒厂](./ENT-beer-brewery-brooklyn-brewery.md) | 啤酒 | 啤酒厂
+- [BVBA De Hopduvel 啤酒厂](./ENT-beer-brewery-bvba-de-hopduvel.md) | 啤酒 | 啤酒厂
+- [Chimay 啤酒厂](./ENT-beer-brewery-chimay.md) | 啤酒 | 啤酒厂
+- [Dogfish Head Brewings & Eats 啤酒厂](./ENT-beer-brewery-dogfish-head-brewings-eats.md) | 啤酒 | 啤酒厂
+- [Dogfish Head Craft Brewery 啤酒厂](./ENT-beer-brewery-dogfish-head-craft-brewery.md) | 啤酒 | 啤酒厂
+- [Dorster Kesselbräu 啤酒厂](./ENT-beer-brewery-dorster-kesselbr-u.md) | 啤酒 | 啤酒厂
+- [Duvel Moortgat 啤酒厂](./ENT-beer-brewery-duvel-moortgat.md) | 啤酒 | 啤酒厂
+- [Duvel Moortgat Brewery 啤酒厂](./ENT-beer-brewery-duvel-moortgat-brewery.md) | 啤酒 | 啤酒厂
+- [Forstquell 啤酒厂](./ENT-beer-brewery-forstquell.md) | 啤酒 | 啤酒厂
+- [Foster's Pint & Plate 啤酒厂](./ENT-beer-brewery-foster-s-pint-plate.md) | 啤酒 | 啤酒厂
+- [Founders Brewing Co 啤酒厂](./ENT-beer-brewery-founders-brewing-co.md) | 啤酒 | 啤酒厂
+- [Founders Brewing Co 啤酒厂](./ENT-beer-brewery-founders-brewing-co.md) | 啤酒 | 啤酒厂
+- [Founders Brewing Production Facility 啤酒厂](./ENT-beer-brewery-founders-brewing-production-facility.md) | 啤酒 | 啤酒厂
+- [Gösser Brauerei (Heineken) 啤酒厂](./ENT-beer-brewery-g-sser-brauerei-heineken.md) | 啤酒 | 啤酒厂
+- [Great Divide Brewery & Roadhouse - Castle Rock 啤酒厂](./ENT-beer-brewery-great-divide-brewery-roadhouse-castle-rock.md) | 啤酒 | 啤酒厂
+- [Great Divide Brewery & Roadhouse - Lone Tree 啤酒厂](./ENT-beer-brewery-great-divide-brewery-roadhouse-lone-tree.md) | 啤酒 | 啤酒厂
+- [Great Divide Brewing Co 啤酒厂](./ENT-beer-brewery-great-divide-brewing-co.md) | 啤酒 | 啤酒厂
+- [Great Divide Brewing Co - RiNo Barrel Bar 啤酒厂](./ENT-beer-brewery-great-divide-brewing-co-rino-barrel-bar.md) | 啤酒 | 啤酒厂
+- [Guinness Brewing (Diageo) 啤酒厂](./ENT-beer-brewery-guinness-brewing-diageo.md) | 啤酒 | 啤酒厂
+- [Guinness Open Gate Brewery and Barrel House 啤酒厂](./ENT-beer-brewery-guinness-open-gate-brewery-and-barrel-house.md) | 啤酒 | 啤酒厂
+- [Gut Forsting 啤酒厂](./ENT-beer-brewery-gut-forsting.md) | 啤酒 | 啤酒厂
+- [Heineken 啤酒厂](./ENT-beer-brewery-heineken.md) | 啤酒 | 啤酒厂
+- [Hoegaarden 啤酒厂](./ENT-beer-brewery-hoegaarden.md) | 啤酒 | 啤酒厂
+- [Lagunitas Brewing Co 啤酒厂](./ENT-beer-brewery-lagunitas-brewing-co.md) | 啤酒 | 啤酒厂
+- [Lagunitas Brewing Co 啤酒厂](./ENT-beer-brewery-lagunitas-brewing-co.md) | 啤酒 | 啤酒厂
+- [MillerCoors Brewing Co - Albany 啤酒厂](./ENT-beer-brewery-millercoors-brewing-co-albany.md) | 啤酒 | 啤酒厂
+- [MillerCoors Brewing Co - Fort Worth 啤酒厂](./ENT-beer-brewery-millercoors-brewing-co-fort-worth.md) | 啤酒 | 啤酒厂
+- [MillerCoors Brewing Co - Golden 啤酒厂](./ENT-beer-brewery-millercoors-brewing-co-golden.md) | 啤酒 | 啤酒厂
+- [MillerCoors Brewing Co - Irwindale 啤酒厂](./ENT-beer-brewery-millercoors-brewing-co-irwindale.md) | 啤酒 | 啤酒厂
+- [MillerCoors Brewing Co - Milwaukee 啤酒厂](./ENT-beer-brewery-millercoors-brewing-co-milwaukee.md) | 啤酒 | 啤酒厂
+- [Paulaner 啤酒厂](./ENT-beer-brewery-paulaner.md) | 啤酒 | 啤酒厂
+- [Paulaner 啤酒厂](./ENT-beer-brewery-paulaner.md) | 啤酒 | 啤酒厂
+- [Paulaner Bräuhaus 啤酒厂](./ENT-beer-brewery-paulaner-br-uhaus.md) | 啤酒 | 啤酒厂
+- [Paulaner Nockherberg 啤酒厂](./ENT-beer-brewery-paulaner-nockherberg.md) | 啤酒 | 啤酒厂
+- [Sierra Nevada Brewing Co 啤酒厂](./ENT-beer-brewery-sierra-nevada-brewing-co.md) | 啤酒 | 啤酒厂
+- [Sierra Nevada Brewing Co 啤酒厂](./ENT-beer-brewery-sierra-nevada-brewing-co.md) | 啤酒 | 啤酒厂
+- [Stella Artois Brewery 啤酒厂](./ENT-beer-brewery-stella-artois-brewery.md) | 啤酒 | 啤酒厂
+- [Stellar Brewery 啤酒厂](./ENT-beer-brewery-stellar-brewery.md) | 啤酒 | 啤酒厂
+- [Trappisten van Westmalle 啤酒厂](./ENT-beer-brewery-trappisten-van-westmalle.md) | 啤酒 | 啤酒厂
+- [Victory Brewing Co 啤酒厂](./ENT-beer-brewery-victory-brewing-co.md) | 啤酒 | 啤酒厂
+- [Victory Brewing Co 啤酒厂](./ENT-beer-brewery-victory-brewing-co.md) | 啤酒 | 啤酒厂
+- [Victory Brewing Co 啤酒厂](./ENT-beer-brewery-victory-brewing-co.md) | 啤酒 | 啤酒厂
+- [Westmalle Brewery 啤酒厂](./ENT-beer-brewery-westmalle-brewery.md) | 啤酒 | 啤酒厂
+- [Westmalle Trappist 啤酒厂](./ENT-beer-brewery-westmalle-trappist.md) | 啤酒 | 啤酒厂
 - [布鲁克林啤酒](./ENT-beer-brooklyn.md) | 啤酒 | 美国
 - [百威冰啤](./ENT-beer-bud-ice.md) | 啤酒 | 美国
 - [百威啤酒](./ENT-beer-budweiser.md) | 啤酒 | 美国
@@ -1461,7 +1539,7 @@
 - [Wild Blossom Hive2o Variety 4 Pack](./ENT-mead-wild-blossom-hive2o.md) | 蜂蜜酒 | mead
 - [云南野蜂蜜酒](./ENT-mead-yunnan-wild-honey.md) | 蜂蜜酒 | 中国
 
-## 鸡尾酒（336）
+## 鸡尾酒（660）
 
 - [航空邮件](./ENT-cocktail-airmail.md) | 鸡尾酒 | 现代经典
 - [亚历山大](./ENT-cocktail-alexander.md) | 鸡尾酒 | 短饮
@@ -1671,6 +1749,330 @@
 - [南区](./ENT-cocktail-southside.md) | 鸡尾酒 | 禁酒令
 - [毒刺](./ENT-cocktail-stinger.md) | 鸡尾酒 | 短饮
 - [苦难混蛋](./ENT-cocktail-suffering-bastard.md) | 鸡尾酒 | Tiki
+- [A. J.](./ENT-cocktail-tcdb-a-j.md) | 鸡尾酒 | 配方
+- [A1](./ENT-cocktail-tcdb-a1.md) | 鸡尾酒 | 配方
+- [ABC](./ENT-cocktail-tcdb-abc.md) | 鸡尾酒 | 配方
+- [Abilene](./ENT-cocktail-tcdb-abilene.md) | 鸡尾酒 | 配方
+- [Acapulco](./ENT-cocktail-tcdb-acapulco.md) | 鸡尾酒 | 配方
+- [Ace](./ENT-cocktail-tcdb-ace.md) | 鸡尾酒 | 配方
+- [ACID](./ENT-cocktail-tcdb-acid.md) | 鸡尾酒 | 配方
+- [Adam](./ENT-cocktail-tcdb-adam.md) | 鸡尾酒 | 配方
+- [Addington](./ENT-cocktail-tcdb-addington.md) | 鸡尾酒 | 配方
+- [Addison](./ENT-cocktail-tcdb-addison.md) | 鸡尾酒 | 配方
+- [Affair](./ENT-cocktail-tcdb-affair.md) | 鸡尾酒 | 配方
+- [Affinity](./ENT-cocktail-tcdb-affinity.md) | 鸡尾酒 | 配方
+- [Algonquin](./ENT-cocktail-tcdb-algonquin.md) | 鸡尾酒 | 配方
+- [Allegheny](./ENT-cocktail-tcdb-allegheny.md) | 鸡尾酒 | 配方
+- [Almeria](./ENT-cocktail-tcdb-almeria.md) | 鸡尾酒 | 配方
+- [Applecar](./ENT-cocktail-tcdb-applecar.md) | 鸡尾酒 | 配方
+- [Artillery](./ENT-cocktail-tcdb-artillery.md) | 鸡尾酒 | 配方
+- [AT&T](./ENT-cocktail-tcdb-att.md) | 鸡尾酒 | 配方
+- [Avalanche](./ENT-cocktail-tcdb-avalanche.md) | 鸡尾酒 | 配方
+- [Avalon](./ENT-cocktail-tcdb-avalon.md) | 鸡尾酒 | 配方
+- [B-53](./ENT-cocktail-tcdb-b-53.md) | 鸡尾酒 | 配方
+- [Baby Eskimo](./ENT-cocktail-tcdb-baby-eskimo.md) | 鸡尾酒 | 配方
+- [Bahama Mama](./ENT-cocktail-tcdb-bahama-mama.md) | 鸡尾酒 | 配方
+- [Balmoral](./ENT-cocktail-tcdb-balmoral.md) | 鸡尾酒 | 配方
+- [Bible Belt](./ENT-cocktail-tcdb-bible-belt.md) | 鸡尾酒 | 配方
+- [Big Red](./ENT-cocktail-tcdb-big-red.md) | 鸡尾酒 | 配方
+- [Bijou](./ENT-cocktail-tcdb-bijou.md) | 鸡尾酒 | 配方
+- [Blackthorn](./ENT-cocktail-tcdb-blackthorn.md) | 鸡尾酒 | 配方
+- [Bluebird](./ENT-cocktail-tcdb-bluebird.md) | 鸡尾酒 | 配方
+- [Bob Marley](./ENT-cocktail-tcdb-bob-marley.md) | 鸡尾酒 | 配方
+- [Boomerang](./ENT-cocktail-tcdb-boomerang.md) | 鸡尾酒 | 配方
+- [Boston Sour](./ENT-cocktail-tcdb-boston-sour.md) | 鸡尾酒 | 配方
+- [Boxcar](./ENT-cocktail-tcdb-boxcar.md) | 鸡尾酒 | 配方
+- [Brain Fart](./ENT-cocktail-tcdb-brain-fart.md) | 鸡尾酒 | 配方
+- [Brigadier](./ENT-cocktail-tcdb-brigadier.md) | 鸡尾酒 | 配方
+- [Broadside](./ENT-cocktail-tcdb-broadside.md) | 鸡尾酒 | 配方
+- [Brooklyn](./ENT-cocktail-tcdb-brooklyn.md) | 鸡尾酒 | 配方
+- [Bubble Gum](./ENT-cocktail-tcdb-bubble-gum.md) | 鸡尾酒 | 配方
+- [Buccaneer](./ENT-cocktail-tcdb-buccaneer.md) | 鸡尾酒 | 配方
+- [Bumble Bee](./ENT-cocktail-tcdb-bumble-bee.md) | 鸡尾酒 | 配方
+- [Cafe Savoy](./ENT-cocktail-tcdb-cafe-savoy.md) | 鸡尾酒 | 配方
+- [Caipirissima](./ENT-cocktail-tcdb-caipirissima.md) | 鸡尾酒 | 配方
+- [Campari Beer](./ENT-cocktail-tcdb-campari-beer.md) | 鸡尾酒 | 配方
+- [Casa Blanca](./ENT-cocktail-tcdb-casa-blanca.md) | 鸡尾酒 | 配方
+- [Casino Royale](./ENT-cocktail-tcdb-casino-royale.md) | 鸡尾酒 | 配方
+- [Cherry Rum](./ENT-cocktail-tcdb-cherry-rum.md) | 鸡尾酒 | 配方
+- [Chicago Fizz](./ENT-cocktail-tcdb-chicago-fizz.md) | 鸡尾酒 | 配方
+- [Chocolate Milk](./ENT-cocktail-tcdb-chocolate-milk.md) | 鸡尾酒 | 配方
+- [Citrus Coke](./ENT-cocktail-tcdb-citrus-coke.md) | 鸡尾酒 | 配方
+- [City Slicker](./ENT-cocktail-tcdb-city-slicker.md) | 鸡尾酒 | 配方
+- [Clove Cocktail](./ENT-cocktail-tcdb-clove-cocktail.md) | 鸡尾酒 | 配方
+- [Coffee Liqueur](./ENT-cocktail-tcdb-coffee-liqueur.md) | 鸡尾酒 | 配方
+- [Coffee-Vodka](./ENT-cocktail-tcdb-coffee-vodka.md) | 鸡尾酒 | 配方
+- [Corn n Oil](./ENT-cocktail-tcdb-corn-n-oil.md) | 鸡尾酒 | 配方
+- [Corpse Reviver](./ENT-cocktail-tcdb-corpse-reviver.md) | 鸡尾酒 | 配方
+- [Cream Soda](./ENT-cocktail-tcdb-cream-soda.md) | 鸡尾酒 | 配方
+- [Cuba Libra](./ENT-cocktail-tcdb-cuba-libra.md) | 鸡尾酒 | 配方
+- [Damned if you do](./ENT-cocktail-tcdb-damned-if-you-do.md) | 鸡尾酒 | 配方
+- [Danbooka](./ENT-cocktail-tcdb-danbooka.md) | 鸡尾酒 | 配方
+- [Dark Caipirinha](./ENT-cocktail-tcdb-dark-caipirinha.md) | 鸡尾酒 | 配方
+- [Darkwood Sling](./ENT-cocktail-tcdb-darkwood-sling.md) | 鸡尾酒 | 配方
+- [Death in the Afternoon](./ENT-cocktail-tcdb-death-in-the-afternoon.md) | 鸡尾酒 | 配方
+- [Diesel](./ENT-cocktail-tcdb-diesel.md) | 鸡尾酒 | 配方
+- [Dirty Nipple](./ENT-cocktail-tcdb-dirty-nipple.md) | 鸡尾酒 | 配方
+- [Downshift](./ENT-cocktail-tcdb-downshift.md) | 鸡尾酒 | 配方
+- [Dragonfly](./ENT-cocktail-tcdb-dragonfly.md) | 鸡尾酒 | 配方
+- [Dry Rob Roy](./ENT-cocktail-tcdb-dry-rob-roy.md) | 鸡尾酒 | 配方
+- [Dubonnet Cocktail](./ENT-cocktail-tcdb-dubonnet-cocktail.md) | 鸡尾酒 | 配方
+- [Duchamp's Punch](./ENT-cocktail-tcdb-duchamps-punch.md) | 鸡尾酒 | 配方
+- [Egg-Nog - Classic Cooked](./ENT-cocktail-tcdb-egg-nog---classic-cooked.md) | 鸡尾酒 | 配方
+- [Egg Nog - Healthy](./ENT-cocktail-tcdb-egg-nog---healthy.md) | 鸡尾酒 | 配方
+- [Egg Nog #4](./ENT-cocktail-tcdb-egg-nog-4.md) | 鸡尾酒 | 配方
+- [Elderflower Caipirinha](./ENT-cocktail-tcdb-elderflower-caipirinha.md) | 鸡尾酒 | 配方
+- [Empellón Cocina's Fat-Washed Mezcal](./ENT-cocktail-tcdb-empelln-cocinas-fat-washed-mezcal.md) | 鸡尾酒 | 配方
+- [English Highball](./ENT-cocktail-tcdb-english-highball.md) | 鸡尾酒 | 配方
+- [English Rose Cocktail](./ENT-cocktail-tcdb-english-rose-cocktail.md) | 鸡尾酒 | 配方
+- [Espresso Rumtini](./ENT-cocktail-tcdb-espresso-rumtini.md) | 鸡尾酒 | 配方
+- [Fahrenheit 5000](./ENT-cocktail-tcdb-fahrenheit-5000.md) | 鸡尾酒 | 配方
+- [Figgy Thyme](./ENT-cocktail-tcdb-figgy-thyme.md) | 鸡尾酒 | 配方
+- [Flaming Dr. Pepper](./ENT-cocktail-tcdb-flaming-dr-pepper.md) | 鸡尾酒 | 配方
+- [Flaming Lamborghini](./ENT-cocktail-tcdb-flaming-lamborghini.md) | 鸡尾酒 | 配方
+- [Flander's Flake-Out](./ENT-cocktail-tcdb-flanders-flake-out.md) | 鸡尾酒 | 配方
+- [Flying Dutchman](./ENT-cocktail-tcdb-flying-dutchman.md) | 鸡尾酒 | 配方
+- [Flying Scotchman](./ENT-cocktail-tcdb-flying-scotchman.md) | 鸡尾酒 | 配方
+- [Foxy Lady](./ENT-cocktail-tcdb-foxy-lady.md) | 鸡尾酒 | 配方
+- [Freddy Kruger](./ENT-cocktail-tcdb-freddy-kruger.md) | 鸡尾酒 | 配方
+- [French Negroni](./ENT-cocktail-tcdb-french-negroni.md) | 鸡尾酒 | 配方
+- [Frisco Sour](./ENT-cocktail-tcdb-frisco-sour.md) | 鸡尾酒 | 配方
+- [Frosé](./ENT-cocktail-tcdb-fros.md) | 鸡尾酒 | 配方
+- [Frozen Daiquiri](./ENT-cocktail-tcdb-frozen-daiquiri.md) | 鸡尾酒 | 配方
+- [Frozen Mint Daiquiri](./ENT-cocktail-tcdb-frozen-mint-daiquiri.md) | 鸡尾酒 | 配方
+- [Frozen Pineapple Daiquiri](./ENT-cocktail-tcdb-frozen-pineapple-daiquiri.md) | 鸡尾酒 | 配方
+- [Funk and Soul](./ENT-cocktail-tcdb-funk-and-soul.md) | 鸡尾酒 | 配方
+- [Fuzzy Asshole](./ENT-cocktail-tcdb-fuzzy-asshole.md) | 鸡尾酒 | 配方
+- [Gagliardo](./ENT-cocktail-tcdb-gagliardo.md) | 鸡尾酒 | 配方
+- [GG](./ENT-cocktail-tcdb-gg.md) | 鸡尾酒 | 配方
+- [Gimlet](./ENT-cocktail-tcdb-gimlet.md) | 鸡尾酒 | 配方
+- [Gin and Soda](./ENT-cocktail-tcdb-gin-and-soda.md) | 鸡尾酒 | 配方
+- [Gin Cooler](./ENT-cocktail-tcdb-gin-cooler.md) | 鸡尾酒 | 配方
+- [Gin Daisy](./ENT-cocktail-tcdb-gin-daisy.md) | 鸡尾酒 | 配方
+- [Gin Lemon](./ENT-cocktail-tcdb-gin-lemon.md) | 鸡尾酒 | 配方
+- [Gin Rickey](./ENT-cocktail-tcdb-gin-rickey.md) | 鸡尾酒 | 配方
+- [Gin Sling](./ENT-cocktail-tcdb-gin-sling.md) | 鸡尾酒 | 配方
+- [Gin Smash](./ENT-cocktail-tcdb-gin-smash.md) | 鸡尾酒 | 配方
+- [Gin Sour](./ENT-cocktail-tcdb-gin-sour.md) | 鸡尾酒 | 配方
+- [Gin Squirt](./ENT-cocktail-tcdb-gin-squirt.md) | 鸡尾酒 | 配方
+- [Gin Swizzle](./ENT-cocktail-tcdb-gin-swizzle.md) | 鸡尾酒 | 配方
+- [Gin Toddy](./ENT-cocktail-tcdb-gin-toddy.md) | 鸡尾酒 | 配方
+- [Gin Tonic](./ENT-cocktail-tcdb-gin-tonic.md) | 鸡尾酒 | 配方
+- [Gluehwein](./ENT-cocktail-tcdb-gluehwein.md) | 鸡尾酒 | 配方
+- [Godchild](./ENT-cocktail-tcdb-godchild.md) | 鸡尾酒 | 配方
+- [Godmother](./ENT-cocktail-tcdb-godmother.md) | 鸡尾酒 | 配方
+- [Grand Blue](./ENT-cocktail-tcdb-grand-blue.md) | 鸡尾酒 | 配方
+- [Grass Skirt](./ENT-cocktail-tcdb-grass-skirt.md) | 鸡尾酒 | 配方
+- [Greyhound](./ENT-cocktail-tcdb-greyhound.md) | 鸡尾酒 | 配方
+- [Grim Reaper](./ENT-cocktail-tcdb-grim-reaper.md) | 鸡尾酒 | 配方
+- [Halloween Punch](./ENT-cocktail-tcdb-halloween-punch.md) | 鸡尾酒 | 配方
+- [Happy Skipper](./ENT-cocktail-tcdb-happy-skipper.md) | 鸡尾酒 | 配方
+- [Havana Cocktail](./ENT-cocktail-tcdb-havana-cocktail.md) | 鸡尾酒 | 配方
+- [Hawaiian Cocktail](./ENT-cocktail-tcdb-hawaiian-cocktail.md) | 鸡尾酒 | 配方
+- [H.D.](./ENT-cocktail-tcdb-hd.md) | 鸡尾酒 | 配方
+- [Herbal flame](./ENT-cocktail-tcdb-herbal-flame.md) | 鸡尾酒 | 配方
+- [Highland Fling Cocktail](./ENT-cocktail-tcdb-highland-fling-cocktail.md) | 鸡尾酒 | 配方
+- [Homemade Kahlua](./ENT-cocktail-tcdb-homemade-kahlua.md) | 鸡尾酒 | 配方
+- [Honey Bee](./ENT-cocktail-tcdb-honey-bee.md) | 鸡尾酒 | 配方
+- [Hot Creamy Bush](./ENT-cocktail-tcdb-hot-creamy-bush.md) | 鸡尾酒 | 配方
+- [Hot Toddy](./ENT-cocktail-tcdb-hot-toddy.md) | 鸡尾酒 | 配方
+- [Hunter's Moon](./ENT-cocktail-tcdb-hunters-moon.md) | 鸡尾酒 | 配方
+- [Ice Pick](./ENT-cocktail-tcdb-ice-pick.md) | 鸡尾酒 | 配方
+- [Iced Coffee Fillip](./ENT-cocktail-tcdb-iced-coffee-fillip.md) | 鸡尾酒 | 配方
+- [Imperial Cocktail](./ENT-cocktail-tcdb-imperial-cocktail.md) | 鸡尾酒 | 配方
+- [Imperial Fizz](./ENT-cocktail-tcdb-imperial-fizz.md) | 鸡尾酒 | 配方
+- [Irish Cream](./ENT-cocktail-tcdb-irish-cream.md) | 鸡尾酒 | 配方
+- [Irish Curdling Cow](./ENT-cocktail-tcdb-irish-curdling-cow.md) | 鸡尾酒 | 配方
+- [Irish Russian](./ENT-cocktail-tcdb-irish-russian.md) | 鸡尾酒 | 配方
+- [Irish Spring](./ENT-cocktail-tcdb-irish-spring.md) | 鸡尾酒 | 配方
+- [Jack Rose Cocktail](./ENT-cocktail-tcdb-jack-rose-cocktail.md) | 鸡尾酒 | 配方
+- [Jackhammer](./ENT-cocktail-tcdb-jackhammer.md) | 鸡尾酒 | 配方
+- [Jack's Vanilla Coke](./ENT-cocktail-tcdb-jacks-vanilla-coke.md) | 鸡尾酒 | 配方
+- [Jam Donut](./ENT-cocktail-tcdb-jam-donut.md) | 鸡尾酒 | 配方
+- [Jamaica Kiss](./ENT-cocktail-tcdb-jamaica-kiss.md) | 鸡尾酒 | 配方
+- [Jamaican Coffee](./ENT-cocktail-tcdb-jamaican-coffee.md) | 鸡尾酒 | 配方
+- [Japanese Fizz](./ENT-cocktail-tcdb-japanese-fizz.md) | 鸡尾酒 | 配方
+- [Jello shots](./ENT-cocktail-tcdb-jello-shots.md) | 鸡尾酒 | 配方
+- [Jelly Bean](./ENT-cocktail-tcdb-jelly-bean.md) | 鸡尾酒 | 配方
+- [Jewel Of The Nile](./ENT-cocktail-tcdb-jewel-of-the-nile.md) | 鸡尾酒 | 配方
+- [Jitterbug](./ENT-cocktail-tcdb-jitterbug.md) | 鸡尾酒 | 配方
+- [John Collins](./ENT-cocktail-tcdb-john-collins.md) | 鸡尾酒 | 配方
+- [Karsk](./ENT-cocktail-tcdb-karsk.md) | 鸡尾酒 | 配方
+- [Kentucky B And B](./ENT-cocktail-tcdb-kentucky-b-and-b.md) | 鸡尾酒 | 配方
+- [Kentucky Colonel](./ENT-cocktail-tcdb-kentucky-colonel.md) | 鸡尾酒 | 配方
+- [Kioki Coffee](./ENT-cocktail-tcdb-kioki-coffee.md) | 鸡尾酒 | 配方
+- [Kir](./ENT-cocktail-tcdb-kir.md) | 鸡尾酒 | 配方
+- [Kir Royale](./ENT-cocktail-tcdb-kir-royale.md) | 鸡尾酒 | 配方
+- [Kiss me Quick](./ENT-cocktail-tcdb-kiss-me-quick.md) | 鸡尾酒 | 配方
+- [Kiwi Lemon](./ENT-cocktail-tcdb-kiwi-lemon.md) | 鸡尾酒 | 配方
+- [Kiwi Martini](./ENT-cocktail-tcdb-kiwi-martini.md) | 鸡尾酒 | 配方
+- [Kool-Aid Shot](./ENT-cocktail-tcdb-kool-aid-shot.md) | 鸡尾酒 | 配方
+- [Kool-Aid Slammer](./ENT-cocktail-tcdb-kool-aid-slammer.md) | 鸡尾酒 | 配方
+- [Kool First Aid](./ENT-cocktail-tcdb-kool-first-aid.md) | 鸡尾酒 | 配方
+- [Kurant Tea](./ENT-cocktail-tcdb-kurant-tea.md) | 鸡尾酒 | 配方
+- [Lady Love Fizz](./ENT-cocktail-tcdb-lady-love-fizz.md) | 鸡尾酒 | 配方
+- [Lazy Coconut Paloma](./ENT-cocktail-tcdb-lazy-coconut-paloma.md) | 鸡尾酒 | 配方
+- [Lemon Drop](./ENT-cocktail-tcdb-lemon-drop.md) | 鸡尾酒 | 配方
+- [Lemon Elderflower Spritzer](./ENT-cocktail-tcdb-lemon-elderflower-spritzer.md) | 鸡尾酒 | 配方
+- [Lemon Shot](./ENT-cocktail-tcdb-lemon-shot.md) | 鸡尾酒 | 配方
+- [Limona Corona](./ENT-cocktail-tcdb-limona-corona.md) | 鸡尾酒 | 配方
+- [Loch Lomond](./ENT-cocktail-tcdb-loch-lomond.md) | 鸡尾酒 | 配方
+- [London Town](./ENT-cocktail-tcdb-london-town.md) | 鸡尾酒 | 配方
+- [Lone Tree Cocktail](./ENT-cocktail-tcdb-lone-tree-cocktail.md) | 鸡尾酒 | 配方
+- [Lone Tree Cooler](./ENT-cocktail-tcdb-lone-tree-cooler.md) | 鸡尾酒 | 配方
+- [Long Island Tea](./ENT-cocktail-tcdb-long-island-tea.md) | 鸡尾酒 | 配方
+- [Long vodka](./ENT-cocktail-tcdb-long-vodka.md) | 鸡尾酒 | 配方
+- [Lord And Lady](./ENT-cocktail-tcdb-lord-and-lady.md) | 鸡尾酒 | 配方
+- [Lunch Box](./ENT-cocktail-tcdb-lunch-box.md) | 鸡尾酒 | 配方
+- [Mango Mojito](./ENT-cocktail-tcdb-mango-mojito.md) | 鸡尾酒 | 配方
+- [Martinez 2](./ENT-cocktail-tcdb-martinez-2.md) | 鸡尾酒 | 配方
+- [Mauresque](./ENT-cocktail-tcdb-mauresque.md) | 鸡尾酒 | 配方
+- [Miami Vice](./ENT-cocktail-tcdb-miami-vice.md) | 鸡尾酒 | 配方
+- [Michelada](./ENT-cocktail-tcdb-michelada.md) | 鸡尾酒 | 配方
+- [Midnight Mint](./ENT-cocktail-tcdb-midnight-mint.md) | 鸡尾酒 | 配方
+- [Mint Julep](./ENT-cocktail-tcdb-mint-julep.md) | 鸡尾酒 | 配方
+- [Mocha-Berry](./ENT-cocktail-tcdb-mocha-berry.md) | 鸡尾酒 | 配方
+- [Mojito Extra](./ENT-cocktail-tcdb-mojito-extra.md) | 鸡尾酒 | 配方
+- [Monkey Wrench](./ENT-cocktail-tcdb-monkey-wrench.md) | 鸡尾酒 | 配方
+- [Moranguito](./ENT-cocktail-tcdb-moranguito.md) | 鸡尾酒 | 配方
+- [Mudslinger](./ENT-cocktail-tcdb-mudslinger.md) | 鸡尾酒 | 配方
+- [Mulled Wine](./ENT-cocktail-tcdb-mulled-wine.md) | 鸡尾酒 | 配方
+- [Munich Mule](./ENT-cocktail-tcdb-munich-mule.md) | 鸡尾酒 | 配方
+- [National Aquarium](./ENT-cocktail-tcdb-national-aquarium.md) | 鸡尾酒 | 配方
+- [New York Lemonade](./ENT-cocktail-tcdb-new-york-lemonade.md) | 鸡尾酒 | 配方
+- [New York Sour](./ENT-cocktail-tcdb-new-york-sour.md) | 鸡尾酒 | 配方
+- [Nutty Irishman](./ENT-cocktail-tcdb-nutty-irishman.md) | 鸡尾酒 | 配方
+- [Oatmeal Cookie](./ENT-cocktail-tcdb-oatmeal-cookie.md) | 鸡尾酒 | 配方
+- [Old Cuban](./ENT-cocktail-tcdb-old-cuban.md) | 鸡尾酒 | 配方
+- [Old Pal](./ENT-cocktail-tcdb-old-pal.md) | 鸡尾酒 | 配方
+- [Orange Crush](./ENT-cocktail-tcdb-orange-crush.md) | 鸡尾酒 | 配方
+- [Orange Oasis](./ENT-cocktail-tcdb-orange-oasis.md) | 鸡尾酒 | 配方
+- [Orange Push-up](./ENT-cocktail-tcdb-orange-push-up.md) | 鸡尾酒 | 配方
+- [Orange Rosemary Collins](./ENT-cocktail-tcdb-orange-rosemary-collins.md) | 鸡尾酒 | 配方
+- [Orange Whip](./ENT-cocktail-tcdb-orange-whip.md) | 鸡尾酒 | 配方
+- [Oreo Mudslide](./ENT-cocktail-tcdb-oreo-mudslide.md) | 鸡尾酒 | 配方
+- [Orgasm](./ENT-cocktail-tcdb-orgasm.md) | 鸡尾酒 | 配方
+- [Owen's Grandmother's Revenge](./ENT-cocktail-tcdb-owens-grandmothers-revenge.md) | 鸡尾酒 | 配方
+- [Paloma](./ENT-cocktail-tcdb-paloma.md) | 鸡尾酒 | 配方
+- [Passion Fruit Martini](./ENT-cocktail-tcdb-passion-fruit-martini.md) | 鸡尾酒 | 配方
+- [Pegu Club](./ENT-cocktail-tcdb-pegu-club.md) | 鸡尾酒 | 配方
+- [Penicillin](./ENT-cocktail-tcdb-penicillin.md) | 鸡尾酒 | 配方
+- [Pineapple Paloma](./ENT-cocktail-tcdb-pineapple-paloma.md) | 鸡尾酒 | 配方
+- [Pink Gin](./ENT-cocktail-tcdb-pink-gin.md) | 鸡尾酒 | 配方
+- [Pink Lady](./ENT-cocktail-tcdb-pink-lady.md) | 鸡尾酒 | 配方
+- [Pink Moon](./ENT-cocktail-tcdb-pink-moon.md) | 鸡尾酒 | 配方
+- [Pink Panty Pulldowns](./ENT-cocktail-tcdb-pink-panty-pulldowns.md) | 鸡尾酒 | 配方
+- [Pink Penocha](./ENT-cocktail-tcdb-pink-penocha.md) | 鸡尾酒 | 配方
+- [Planter’s Punch](./ENT-cocktail-tcdb-planters-punch.md) | 鸡尾酒 | 配方
+- [Popped cherry](./ENT-cocktail-tcdb-popped-cherry.md) | 鸡尾酒 | 配方
+- [Poppy Cocktail](./ENT-cocktail-tcdb-poppy-cocktail.md) | 鸡尾酒 | 配方
+- [Pornstar Martini](./ENT-cocktail-tcdb-pornstar-martini.md) | 鸡尾酒 | 配方
+- [Port And Starboard](./ENT-cocktail-tcdb-port-and-starboard.md) | 鸡尾酒 | 配方
+- [Port Wine Cocktail](./ENT-cocktail-tcdb-port-wine-cocktail.md) | 鸡尾酒 | 配方
+- [Port Wine Flip](./ENT-cocktail-tcdb-port-wine-flip.md) | 鸡尾酒 | 配方
+- [Pure Passion](./ENT-cocktail-tcdb-pure-passion.md) | 鸡尾酒 | 配方
+- [Quaker's Cocktail](./ENT-cocktail-tcdb-quakers-cocktail.md) | 鸡尾酒 | 配方
+- [Quarter Deck Cocktail](./ENT-cocktail-tcdb-quarter-deck-cocktail.md) | 鸡尾酒 | 配方
+- [Queen Bee](./ENT-cocktail-tcdb-queen-bee.md) | 鸡尾酒 | 配方
+- [Queen Charlotte](./ENT-cocktail-tcdb-queen-charlotte.md) | 鸡尾酒 | 配方
+- [Queen Elizabeth](./ENT-cocktail-tcdb-queen-elizabeth.md) | 鸡尾酒 | 配方
+- [Quentin](./ENT-cocktail-tcdb-quentin.md) | 鸡尾酒 | 配方
+- [Quick F**K](./ENT-cocktail-tcdb-quick-fk.md) | 鸡尾酒 | 配方
+- [Quick-sand](./ENT-cocktail-tcdb-quick-sand.md) | 鸡尾酒 | 配方
+- [Radioactive Long Island Iced Tea](./ENT-cocktail-tcdb-radioactive-long-island-iced-tea.md) | 鸡尾酒 | 配方
+- [Radler](./ENT-cocktail-tcdb-radler.md) | 鸡尾酒 | 配方
+- [Ramos Gin Fizz](./ENT-cocktail-tcdb-ramos-gin-fizz.md) | 鸡尾酒 | 配方
+- [Raspberry Cooler](./ENT-cocktail-tcdb-raspberry-cooler.md) | 鸡尾酒 | 配方
+- [Raspberry Julep](./ENT-cocktail-tcdb-raspberry-julep.md) | 鸡尾酒 | 配方
+- [Red Snapper](./ENT-cocktail-tcdb-red-snapper.md) | 鸡尾酒 | 配方
+- [Rosemary Blue](./ENT-cocktail-tcdb-rosemary-blue.md) | 鸡尾酒 | 配方
+- [Royal Bitch](./ENT-cocktail-tcdb-royal-bitch.md) | 鸡尾酒 | 配方
+- [Royal Fizz](./ENT-cocktail-tcdb-royal-fizz.md) | 鸡尾酒 | 配方
+- [Royal Flush](./ENT-cocktail-tcdb-royal-flush.md) | 鸡尾酒 | 配方
+- [Royal Gin Fizz](./ENT-cocktail-tcdb-royal-gin-fizz.md) | 鸡尾酒 | 配方
+- [Ruby Tuesday](./ENT-cocktail-tcdb-ruby-tuesday.md) | 鸡尾酒 | 配方
+- [Rum Cobbler](./ENT-cocktail-tcdb-rum-cobbler.md) | 鸡尾酒 | 配方
+- [Rum Cooler](./ENT-cocktail-tcdb-rum-cooler.md) | 鸡尾酒 | 配方
+- [Rum Milk Punch](./ENT-cocktail-tcdb-rum-milk-punch.md) | 鸡尾酒 | 配方
+- [Rum Old-fashioned](./ENT-cocktail-tcdb-rum-old-fashioned.md) | 鸡尾酒 | 配方
+- [Rum Punch](./ENT-cocktail-tcdb-rum-punch.md) | 鸡尾酒 | 配方
+- [Rum Runner](./ENT-cocktail-tcdb-rum-runner.md) | 鸡尾酒 | 配方
+- [Rum Screwdriver](./ENT-cocktail-tcdb-rum-screwdriver.md) | 鸡尾酒 | 配方
+- [Rum Sour](./ENT-cocktail-tcdb-rum-sour.md) | 鸡尾酒 | 配方
+- [Rum Toddy](./ENT-cocktail-tcdb-rum-toddy.md) | 鸡尾酒 | 配方
+- [Salty Dog](./ENT-cocktail-tcdb-salty-dog.md) | 鸡尾酒 | 配方
+- [San Francisco](./ENT-cocktail-tcdb-san-francisco.md) | 鸡尾酒 | 配方
+- [Sangria](./ENT-cocktail-tcdb-sangria.md) | 鸡尾酒 | 配方
+- [Scooter](./ENT-cocktail-tcdb-scooter.md) | 鸡尾酒 | 配方
+- [Scotch Sour](./ENT-cocktail-tcdb-scotch-sour.md) | 鸡尾酒 | 配方
+- [Shark Attack](./ENT-cocktail-tcdb-shark-attack.md) | 鸡尾酒 | 配方
+- [Sherry Eggnog](./ENT-cocktail-tcdb-sherry-eggnog.md) | 鸡尾酒 | 配方
+- [Sherry Flip](./ENT-cocktail-tcdb-sherry-flip.md) | 鸡尾酒 | 配方
+- [Shot-gun](./ENT-cocktail-tcdb-shot-gun.md) | 鸡尾酒 | 配方
+- [Smut](./ENT-cocktail-tcdb-smut.md) | 鸡尾酒 | 配方
+- [Snowball](./ENT-cocktail-tcdb-snowball.md) | 鸡尾酒 | 配方
+- [Snowday](./ENT-cocktail-tcdb-snowday.md) | 鸡尾酒 | 配方
+- [Sol Y Sombra](./ENT-cocktail-tcdb-sol-y-sombra.md) | 鸡尾酒 | 配方
+- [Space Odyssey](./ENT-cocktail-tcdb-space-odyssey.md) | 鸡尾酒 | 配方
+- [Spice 75](./ENT-cocktail-tcdb-spice-75.md) | 鸡尾酒 | 配方
+- [Stone Sour](./ENT-cocktail-tcdb-stone-sour.md) | 鸡尾酒 | 配方
+- [Sweet Sangria](./ENT-cocktail-tcdb-sweet-sangria.md) | 鸡尾酒 | 配方
+- [Sweet Tooth](./ENT-cocktail-tcdb-sweet-tooth.md) | 鸡尾酒 | 配方
+- [Talos Coffee](./ENT-cocktail-tcdb-talos-coffee.md) | 鸡尾酒 | 配方
+- [Tennesee Mud](./ENT-cocktail-tcdb-tennesee-mud.md) | 鸡尾酒 | 配方
+- [Tequila Fizz](./ENT-cocktail-tcdb-tequila-fizz.md) | 鸡尾酒 | 配方
+- [Tequila Slammer](./ENT-cocktail-tcdb-tequila-slammer.md) | 鸡尾酒 | 配方
+- [Tequila Sour](./ENT-cocktail-tcdb-tequila-sour.md) | 鸡尾酒 | 配方
+- [Tequila Surprise](./ENT-cocktail-tcdb-tequila-surprise.md) | 鸡尾酒 | 配方
+- [Texas Rattlesnake](./ENT-cocktail-tcdb-texas-rattlesnake.md) | 鸡尾酒 | 配方
+- [Texas Sling](./ENT-cocktail-tcdb-texas-sling.md) | 鸡尾酒 | 配方
+- [The Galah](./ENT-cocktail-tcdb-the-galah.md) | 鸡尾酒 | 配方
+- [The Jimmy Conway](./ENT-cocktail-tcdb-the-jimmy-conway.md) | 鸡尾酒 | 配方
+- [The Last Word](./ENT-cocktail-tcdb-the-last-word.md) | 鸡尾酒 | 配方
+- [The Laverstoke](./ENT-cocktail-tcdb-the-laverstoke.md) | 鸡尾酒 | 配方
+- [The Philosopher](./ENT-cocktail-tcdb-the-philosopher.md) | 鸡尾酒 | 配方
+- [Thriller](./ENT-cocktail-tcdb-thriller.md) | 鸡尾酒 | 配方
+- [Tia-Maria](./ENT-cocktail-tcdb-tia-maria.md) | 鸡尾酒 | 配方
+- [Tipperary](./ENT-cocktail-tcdb-tipperary.md) | 鸡尾酒 | 配方
+- [Tom Collins](./ENT-cocktail-tcdb-tom-collins.md) | 鸡尾酒 | 配方
+- [Turf Cocktail](./ENT-cocktail-tcdb-turf-cocktail.md) | 鸡尾酒 | 配方
+- [Turkeyball](./ENT-cocktail-tcdb-turkeyball.md) | 鸡尾酒 | 配方
+- [Valencia Cocktail](./ENT-cocktail-tcdb-valencia-cocktail.md) | 鸡尾酒 | 配方
+- [Van Vleet](./ENT-cocktail-tcdb-van-vleet.md) | 鸡尾酒 | 配方
+- [Vermouth Cassis](./ENT-cocktail-tcdb-vermouth-cassis.md) | 鸡尾酒 | 配方
+- [Vesuvio](./ENT-cocktail-tcdb-vesuvio.md) | 鸡尾酒 | 配方
+- [Veteran](./ENT-cocktail-tcdb-veteran.md) | 鸡尾酒 | 配方
+- [Victor](./ENT-cocktail-tcdb-victor.md) | 鸡尾酒 | 配方
+- [Victory Collins](./ENT-cocktail-tcdb-victory-collins.md) | 鸡尾酒 | 配方
+- [Vodka And Tonic](./ENT-cocktail-tcdb-vodka-and-tonic.md) | 鸡尾酒 | 配方
+- [Vodka Fizz](./ENT-cocktail-tcdb-vodka-fizz.md) | 鸡尾酒 | 配方
+- [Vodka Lemon](./ENT-cocktail-tcdb-vodka-lemon.md) | 鸡尾酒 | 配方
+- [Vodka Martini](./ENT-cocktail-tcdb-vodka-martini.md) | 鸡尾酒 | 配方
+- [Vodka Russian](./ENT-cocktail-tcdb-vodka-russian.md) | 鸡尾酒 | 配方
+- [Vodka Slime](./ENT-cocktail-tcdb-vodka-slime.md) | 鸡尾酒 | 配方
+- [Vodka Tonic](./ENT-cocktail-tcdb-vodka-tonic.md) | 鸡尾酒 | 配方
+- [Waikiki Beachcomber](./ENT-cocktail-tcdb-waikiki-beachcomber.md) | 鸡尾酒 | 配方
+- [Whisky Mac](./ENT-cocktail-tcdb-whisky-mac.md) | 鸡尾酒 | 配方
+- [White Russian](./ENT-cocktail-tcdb-white-russian.md) | 鸡尾酒 | 配方
+- [White Wine Sangria](./ENT-cocktail-tcdb-white-wine-sangria.md) | 鸡尾酒 | 配方
+- [Whitecap Margarita](./ENT-cocktail-tcdb-whitecap-margarita.md) | 鸡尾酒 | 配方
+- [Wine Cooler](./ENT-cocktail-tcdb-wine-cooler.md) | 鸡尾酒 | 配方
+- [Wine Punch](./ENT-cocktail-tcdb-wine-punch.md) | 鸡尾酒 | 配方
+- [Winter Paloma](./ENT-cocktail-tcdb-winter-paloma.md) | 鸡尾酒 | 配方
+- [Winter Rita](./ENT-cocktail-tcdb-winter-rita.md) | 鸡尾酒 | 配方
+- [Zambeer](./ENT-cocktail-tcdb-zambeer.md) | 鸡尾酒 | 配方
+- [Zenmeister](./ENT-cocktail-tcdb-zenmeister.md) | 鸡尾酒 | 配方
+- [Ziemes Martini Apfelsaft](./ENT-cocktail-tcdb-ziemes-martini-apfelsaft.md) | 鸡尾酒 | 配方
+- [Zima Blaster](./ENT-cocktail-tcdb-zima-blaster.md) | 鸡尾酒 | 配方
+- [Zimadori Zinger](./ENT-cocktail-tcdb-zimadori-zinger.md) | 鸡尾酒 | 配方
+- [Zinger](./ENT-cocktail-tcdb-zinger.md) | 鸡尾酒 | 配方
+- [Zipperhead](./ENT-cocktail-tcdb-zipperhead.md) | 鸡尾酒 | 配方
+- [Zippy's Revenge](./ENT-cocktail-tcdb-zippys-revenge.md) | 鸡尾酒 | 配方
+- [Zizi Coin-coin](./ENT-cocktail-tcdb-zizi-coin-coin.md) | 鸡尾酒 | 配方
+- [Zoksel](./ENT-cocktail-tcdb-zoksel.md) | 鸡尾酒 | 配方
+- [Zombie](./ENT-cocktail-tcdb-zombie.md) | 鸡尾酒 | 配方
+- [Zorbatini](./ENT-cocktail-tcdb-zorbatini.md) | 鸡尾酒 | 配方
+- [Zorro](./ENT-cocktail-tcdb-zorro.md) | 鸡尾酒 | 配方
 - [圣殿苏打](./ENT-cocktail-temple-soda.md) | 鸡尾酒 | 无酒精
 - [龙舌兰日出](./ENT-cocktail-tequila-sunrise.md) | 鸡尾酒 | IBA
 - [试飞员](./ENT-cocktail-test-pilot.md) | 鸡尾酒 | Tiki
@@ -1961,8 +2363,9 @@
 - [维欧尼](./GRAPE-viognier.md) | 葡萄品种 | 白品种
 - [增芳德](./GRAPE-zinfandel.md) | 葡萄品种 | 红品种
 
-## 法律法规（15）
+## 法律法规（21）
 
+- [2026年白酒消费税征管新规（60%孰高计税）](./LAW-baijiu-tax-2026-consumption.md) | 法规 | 税收政策
 - [中国白酒GB/T国家标准](./LAW-cn-baijiu-gbt.md) | 法律法规 | 白酒
 - [中国饮酒年龄规定](./LAW-cn-drinking-age.md) | 法律法规 | 饮酒年龄
 - [中国酒类进口税率](./LAW-cn-import-tax.md) | 法律法规 | 进口税
@@ -1970,6 +2373,11 @@
 - [欧盟有机葡萄酒认证标准](./LAW-eu-organic-wine.md) | 法律法规 | 欧盟
 - [欧盟烈酒法规](./LAW-eu-spirit-regulation.md) | 法律法规 | 欧盟
 - [欧盟葡萄酒法规](./LAW-eu-wine-regulation.md) | 法律法规 | 欧盟
+- [GB/T 10781.12-2026 董香型白酒新国标](./LAW-gbt-10781-12-dongxiang-2026.md) | 法规 | 国家标准
+- [GB/T 10781.15-2025 小曲固态法白酒新国标](./LAW-gbt-10781-15-xiaoqu-2025.md) | 法规 | 国家标准
+- [GB/T 10781.3-2025 米香型白酒新国标](./LAW-gbt-10781-3-mixiang-2025.md) | 法规 | 国家标准
+- [GB/T 10781.4-2025 酱香型白酒新国标](./LAW-gbt-10781-4-jiangxiang-2025.md) | 法规 | 国家标准
+- [GB/T 48009-2026 白酒质量通则（白酒基本法）](./LAW-gbt-48009-2026-baijiu-general.md) | 法规 | 国家标准
 - [酒类广告限制](./LAW-int-advertising.md) | 法律法规 | 广告
 - [海关携酒入境限额](./LAW-int-customs.md) | 法律法规 | 海关
 - [各国酒驾标准](./LAW-int-driving-limit.md) | 法律法规 | 酒驾

@@ -7,8 +7,8 @@ tags: [红酒, 美国, 纳帕谷, 赤霞珠, 亚历山大谷]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-silver-oak-2014, ENT-wine-real-opus-one, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
-related_typed: {ENT-wine-red-silver-oak-2014: same_brand, ENT-wine-real-opus-one: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
+related: [ENT-wine-red-silver-oak-2014, ENT-wine-real-opus-one, ENT-wine-red-opus-one-2019, ENT-wine-red-harlan-estate-2018, ENT-wine-red-caymus-2021]
+related_typed: {ENT-wine-red-silver-oak-2014: same_brand, ENT-wine-real-opus-one: same_region, ENT-wine-red-opus-one-2019: same_region, ENT-wine-red-harlan-estate-2018: same_region, ENT-wine-red-caymus-2021: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, beer, 啤酒, Jenlain]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona, ENT-beer-tsingtao-pure-draft]
-related_typed: {ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat}
+related: [ENT-beer-delirium-tremens, ENT-beer-rochefort-6, ENT-beer-rochefort-8, ENT-beer-rochefort-10, ENT-beer-chimay-blue]
+related_typed: {ENT-beer-delirium-tremens: same_subcat, ENT-beer-rochefort-6: same_subcat, ENT-beer-rochefort-8: same_subcat, ENT-beer-rochefort-10: same_subcat, ENT-beer-chimay-blue: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

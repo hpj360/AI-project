@@ -7,8 +7,8 @@ tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-johnnie-walker-black, ENT-whisky-chivas-regal-12, ENT-whisky-chivas-regal-18, ENT-whisky-chivas-regal-25, ENT-whisky-ballantines-12]
-related_typed: {ENT-brand-johnnie-walker-black: same_region, ENT-whisky-chivas-regal-12: same_region, ENT-whisky-chivas-regal-18: same_region, ENT-whisky-chivas-regal-25: same_region, ENT-whisky-ballantines-12: same_region}
+related: [ENT-brand-johnnie-walker-black, ENT-whisky-swa-single-malt, ENT-whisky-swa-blended, ENT-whisky-swa-single-grain, ENT-whisky-swa-blended-grain]
+related_typed: {ENT-brand-johnnie-walker-black: same_region, ENT-whisky-swa-single-malt: same_region, ENT-whisky-swa-blended: same_region, ENT-whisky-swa-single-grain: same_region, ENT-whisky-swa-blended-grain: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

@@ -7,8 +7,8 @@ tags: [红酒, 澳洲, 设拉子, 玛格丽特河]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-white-leeuwin-art-series-chardonnay-2017, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru]
-related_typed: {ENT-wine-white-leeuwin-art-series-chardonnay-2017: same_brand, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat}
+related: [ENT-wine-white-leeuwin-art-series-chardonnay-2017, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo, ENT-wine_red-off-008-vino-tinto-rioja-crianza, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto]
+related_typed: {ENT-wine-white-leeuwin-art-series-chardonnay-2017: same_brand, ENT-wine_red-off-007-campo-viejo-rioja-tempranillo: same_subcat, ENT-wine_red-off-008-vino-tinto-rioja-crianza: same_subcat, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat}
 data_confidence: simulated
 version: 1
 ---

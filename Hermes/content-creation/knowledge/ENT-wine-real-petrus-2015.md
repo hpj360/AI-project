@@ -7,8 +7,8 @@ tags: [葡萄酒, 红葡萄酒, 波尔多, 波美侯, 柏图斯, 右岸之王]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-petrus-2015, ENT-wine-red-trotanoy-2015, ENT-wine-real-petrus, ENT-wine-real-le-pin-2015, ENT-brand-penfolds-grange]
-related_typed: {ENT-wine-red-petrus-2015: same_brand, ENT-wine-red-trotanoy-2015: same_brand, ENT-wine-real-petrus: same_region, ENT-wine-real-le-pin-2015: same_region, ENT-brand-penfolds-grange: same_subcat}
+related: [ENT-wine-red-petrus-2015, ENT-wine-red-trotanoy-2015, ENT-wine-real-petrus, ENT-wine-real-le-pin-2015, ENT-brand-romanee-conti]
+related_typed: {ENT-wine-red-petrus-2015: same_brand, ENT-wine-red-trotanoy-2015: same_brand, ENT-wine-real-petrus: same_region, ENT-wine-real-le-pin-2015: same_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

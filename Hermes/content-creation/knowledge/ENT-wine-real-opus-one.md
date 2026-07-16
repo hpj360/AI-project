@@ -7,8 +7,8 @@ tags: [红酒, 美国, 纳帕谷, 赤霞珠, 波尔多混酿]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-silver-oak, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-real-silver-oak: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+related: [ENT-wine-real-silver-oak, ENT-wine-red-opus-one-2019, ENT-wine-red-harlan-estate-2018, ENT-wine-red-caymus-2021, ENT-brand-romanee-conti]
+related_typed: {ENT-wine-real-silver-oak: same_region, ENT-wine-red-opus-one-2019: same_region, ENT-wine-red-harlan-estate-2018: same_region, ENT-wine-red-caymus-2021: same_region, ENT-brand-romanee-conti: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

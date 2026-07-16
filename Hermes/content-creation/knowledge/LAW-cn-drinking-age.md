@@ -7,8 +7,8 @@ tags: [法律法规, 饮酒年龄, 未成年人保护, 中国]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [LAW-cn-baijiu-gbt, LAW-cn-import-tax, LAW-us-ttb, LAW-us-drinking-age, LAW-eu-spirit-regulation]
-related_typed: {LAW-cn-baijiu-gbt: same_subcat, LAW-cn-import-tax: same_subcat, LAW-us-ttb: same_subcat, LAW-us-drinking-age: same_subcat, LAW-eu-spirit-regulation: same_subcat}
+related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
+related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: 中华人民共和国未成年人保护法
 version: 1

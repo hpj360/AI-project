@@ -7,8 +7,8 @@ tags: [红酒, 纳帕谷, 美国, 膜拜酒]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-screaming-eagle, ENT-wine-real-screaming-eagle-2018, ENT-wine-red-opus-one-2016, ENT-wine-red-harlan-estate-2015, ENT-wine-red-robert-mondavi-reserve-2016]
-related_typed: {ENT-wine-real-screaming-eagle: same_brand, ENT-wine-real-screaming-eagle-2018: same_brand, ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-harlan-estate-2015: same_region, ENT-wine-red-robert-mondavi-reserve-2016: same_region}
+related: [ENT-wine-real-screaming-eagle, ENT-wine-real-screaming-eagle-2018, ENT-wine-red-screaming-eagle-2019, ENT-wine-red-opus-one-2016, ENT-wine-red-harlan-estate-2015]
+related_typed: {ENT-wine-real-screaming-eagle: same_brand, ENT-wine-real-screaming-eagle-2018: same_brand, ENT-wine-red-screaming-eagle-2019: same_brand, ENT-wine-red-opus-one-2016: same_region, ENT-wine-red-harlan-estate-2015: same_region}
 data_confidence: simulated
 version: 1
 ---
