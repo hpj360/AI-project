@@ -7,8 +7,8 @@ tags: [白兰地, 干邑, 法国, 御鹿, 限量]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brandy-hine-xo, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis]
-related_typed: {ENT-brandy-hine-xo: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region, ENT-brandy-hennessy-xo: same_region, ENT-brandy-hennessy-paradis: same_region}
+related: [ENT-brandy-hine-xo, ENT-brandy-real-hine-rare-vsop, ENT-brandy-real-hine-triomphe, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
+related_typed: {ENT-brandy-hine-xo: same_brand, ENT-brandy-real-hine-rare-vsop: same_brand, ENT-brandy-real-hine-triomphe: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
 data_confidence: simulated
 version: 1
 ---

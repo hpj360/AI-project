@@ -7,8 +7,8 @@ tags: [红酒, wine_red, 法国, 波尔多, Saint-Émilion, Premier Grand Cru Cl
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
-related_typed: {ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
+related: [ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-helanshan-putaojiu]
+related_typed: {ENT-baike-wine-zhangyu-jiebaina: cross_region, ENT-baike-wine-changcheng-putaojiu: cross_region, ENT-baike-wine-wangchao-putaojiu: cross_region, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-helanshan-putaojiu: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

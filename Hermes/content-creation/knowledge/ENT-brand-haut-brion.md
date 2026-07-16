@@ -7,8 +7,8 @@ tags: [红酒, 波尔多, 一级庄, 赤霞珠]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-haut-brion, ENT-wine-real-haut-brion, ENT-wine-red-haut-brion-2016, ENT-brand-lafite-rothschild, ENT-brand-latour]
-related_typed: {ENT-wine-red-haut-brion: same_brand, ENT-wine-real-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: same_subcat}
+related: [ENT-wine-red-haut-brion, ENT-wine-real-haut-brion, ENT-wine-red-haut-brion-2016, ENT-baike-wine-zhangyu-putaojiu, ENT-baike-wine-zhangyu-jiebaina]
+related_typed: {ENT-wine-red-haut-brion: same_brand, ENT-wine-real-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-baike-wine-zhangyu-putaojiu: cross_region, ENT-baike-wine-zhangyu-jiebaina: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

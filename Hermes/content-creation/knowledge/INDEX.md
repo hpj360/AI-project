@@ -1,6 +1,6 @@
 # 知识库全局索引
 
-> content-creation 酒类知识库 | 共 2439 条目 | 由 render_kb.py 维护
+> content-creation 酒类知识库 | 共 2512 条目 | 由 render_kb.py 维护
 
 ## 白酒（117）
 
@@ -122,8 +122,9 @@
 - [洋河梦之蓝](./ENT-baike-baijiu-yanghe-mengzhilan.md) | 百度百科 | baijiu
 - [天之蓝](./ENT-baike-baijiu-yanghe-tianzhilan.md) | 百度百科 | baijiu
 
-## 威士忌（146）
+## 威士忌（147）
 
+- [芝华士18年](./ENT-baike-spirits_intl-chivas-18.md) | 百度百科 | spirits_intl
 - [芝华士 12 年](./ENT-brand-chivas-regal-12.md) | 威士忌 | 苏格兰
 - [皇冠威士忌](./ENT-brand-crown-royal.md) | 威士忌 | 加拿大
 - [格兰菲迪 12 年](./ENT-brand-glenfiddich-12.md) | 威士忌 | 苏格兰
@@ -271,8 +272,9 @@
 - [余市 10 年](./ENT-whisky-yoichi-10.md) | 威士忌 | 日本
 - [余市 15 年](./ENT-whisky-yoichi-15.md) | 威士忌 | 日本
 
-## 白兰地（55）
+## 白兰地（70）
 
+- [蓝带马爹利](./ENT-baike-spirits_intl-martell-cordon-bleu.md) | 百度百科 | spirits_intl
 - [阿斯巴赫 3 年](./ENT-brand-asbach.md) | 白兰地 | 德国
 - [拿破仑 VSOP](./ENT-brand-courvoisier-vsop.md) | 白兰地 | 干邑
 - [轩尼诗 VSOP](./ENT-brand-hennessy-vsop.md) | 白兰地 | 干邑
@@ -322,6 +324,20 @@
 - [Cognac V.S.O.P.](./ENT-brandy-off-241-cognac-v-s-o-p.md) | OpenFoodFacts | brandy
 - [皮埃尔费朗 庄园珍藏](./ENT-brandy-pierre-ferrand-reserve.md) | 白兰地 | 干邑
 - [Pisco Portón](./ENT-brandy-pisco-porton.md) | 白兰地 | 秘鲁
+- [百事吉 VS](./ENT-brandy-real-bisquit-vs.md) | 白兰地 | 干邑
+- [百事吉 VSOP](./ENT-brandy-real-bisquit-vsop.md) | 白兰地 | 干邑
+- [卡慕 Ile de Ré Fine Island](./ENT-brandy-real-camus-ile-de-re-fine-island.md) | 白兰地 | 干邑
+- [拿破仑 Napoleon](./ENT-brandy-real-courvoisier-napoleon.md) | 白兰地 | 干邑
+- [拿破仑 VS](./ENT-brandy-real-courvoisier-vs.md) | 白兰地 | 干邑
+- [法拉宾 VS](./ENT-brandy-real-frapin-vs.md) | 白兰地 | 干邑
+- [轩尼诗 Master Blender's Selection](./ENT-brandy-real-hennessy-master-blender.md) | 白兰地 | 干邑
+- [御鹿 Rare VSOP](./ENT-brandy-real-hine-rare-vsop.md) | 白兰地 | 干邑
+- [御鹿 Triomphe](./ENT-brandy-real-hine-triomphe.md) | 白兰地 | 干邑
+- [马爹利 VS](./ENT-brandy-real-martell-vs.md) | 白兰地 | 干邑
+- [缪克 VS](./ENT-brandy-real-meukow-vs.md) | 白兰地 | 干邑
+- [缪克 XO](./ENT-brandy-real-meukow-xo.md) | 白兰地 | 干邑
+- [Paul Giraud VSOP](./ENT-brandy-real-paul-giraud-vsop.md) | 白兰地 | 干邑
+- [人头马 1738 Accord Royal](./ENT-brandy-real-remy-martin-1738.md) | 白兰地 | 干邑
 - [人头马 CLUB](./ENT-brandy-remy-martin-club.md) | 白兰地 | 干邑
 - [人头马 VSOP](./ENT-brandy-remy-martin-vsop.md) | 白兰地 | 干邑
 - [人头马 XO](./ENT-brandy-remy-martin-xo.md) | 白兰地 | 干邑
@@ -461,7 +477,7 @@
 - [扎波罗热 Zaporozhye](./ENT-vodka-zaporozhye.md) | 伏特加 | 乌克兰
 - [野牛草 Zubrowka](./ENT-vodka-zubrowka.md) | 伏特加 | 波兰
 
-## 朗姆酒（51）
+## 朗姆酒（63）
 
 - [百加得白朗姆](./ENT-brand-bacardi-carta-blanca.md) | 朗姆酒 | 古巴
 - [摩根船长原味香料朗姆](./ENT-brand-captain-morgan-original.md) | 朗姆酒 | 波多黎各
@@ -508,6 +524,18 @@
 - [Rhum ambré agricole](./ENT-rum-off-180-rhum-ambr-agricole.md) | OpenFoodFacts | rum
 - [Bacardi Razz](./ENT-rum-off-181-bacardi-razz.md) | OpenFoodFacts | rum
 - [Damoiseau](./ENT-rum-off-182-damoiseau.md) | OpenFoodFacts | rum
+- [百加得 Gold](./ENT-rum-real-bacardi-gold.md) | 朗姆酒 | 百加得
+- [百加得 Gran Reserva Diez](./ENT-rum-real-bacardi-gran-reserva-diez.md) | 朗姆酒 | 百加得
+- [Brugal 1888](./ENT-rum-real-brugal-1888.md) | 朗姆酒 | Brugal
+- [Bumbu](./ENT-rum-real-bumbu.md) | 朗姆酒 | Bumbu
+- [El Dorado 21](./ENT-rum-real-el-dorado-21.md) | 朗姆酒 | El Dorado
+- [Flor de Caña 18](./ENT-rum-real-flor-de-cana-18.md) | 朗姆酒 | Flor de Caña
+- [Flor de Caña 25](./ENT-rum-real-flor-de-cana-25.md) | 朗姆酒 | Flor de Caña
+- [Malibu 椰子朗姆酒](./ENT-rum-real-malibu-original.md) | 朗姆酒 | Malibu
+- [Mount Gay Black Barrel](./ENT-rum-real-mount-gay-black-barrel.md) | 朗姆酒 | Mount Gay
+- [Mount Gay XO](./ENT-rum-real-mount-gay-xo.md) | 朗姆酒 | Mount Gay
+- [Plantation XO 20周年纪念](./ENT-rum-real-plantation-xo-20th.md) | 朗姆酒 | Plantation
+- [Ron del Barrilito 3 Stars](./ENT-rum-real-ron-del-barrilito-3-stars.md) | 朗姆酒 | Ron del Barrilito
 - [罗恩卡特 Ron Cartavio](./ENT-rum-ron-cartavio.md) | 朗姆酒 | 秘鲁
 - [朗匿可 Ronrico](./ENT-rum-ronrico.md) | 朗姆酒 | 波多黎各
 - [塞瓦亚 Selvarey](./ENT-rum-selvarey.md) | 朗姆酒 | 巴拿马
@@ -515,7 +543,7 @@
 - [萨凯帕 23](./ENT-rum-zacapa-23.md) | 朗姆酒 | 危地马拉
 - [萨凯帕 Centenario 25](./ENT-rum-zacapa-centenario-25.md) | 朗姆酒 | 危地马拉
 
-## 龙舌兰（50）
+## 龙舌兰（64）
 
 - [唐胡里奥 Blanco](./ENT-brand-don-julio-blanco.md) | 龙舌兰 | 墨西哥
 - [银快 Blanco](./ENT-brand-herradura-blanco.md) | 龙舌兰 | 墨西哥
@@ -565,6 +593,20 @@
 - [欧雷 Orendain Blanco](./ENT-tequila-orendain-blanco.md) | 龙舌兰 | 墨西哥
 - [帕德龙 Padrino Añejo](./ENT-tequila-padrino-anejo.md) | 龙舌兰 | 墨西哥
 - [白金武士 Patrón Silver](./ENT-tequila-patron-silver.md) | 龙舌兰 | 墨西哥
+- [1800 Añejo](./ENT-tequila-real-1800-anejo.md) | 龙舌兰酒 | 1800
+- [Casamigos Añejo](./ENT-tequila-real-casamigos-anejo.md) | 龙舌兰酒 | Casamigos
+- [Casamigos Reposado](./ENT-tequila-real-casamigos-reposado.md) | 龙舌兰酒 | Casamigos
+- [Clase Azul Reposado](./ENT-tequila-real-clase-azul-reposado.md) | 龙舌兰酒 | Clase Azul
+- [唐胡里奥 1942](./ENT-tequila-real-don-julio-1942.md) | 龙舌兰酒 | 唐胡里奥
+- [唐胡里奥 Añejo](./ENT-tequila-real-don-julio-anejo.md) | 龙舌兰酒 | 唐胡里奥
+- [El Jimador Blanco](./ENT-tequila-real-el-jimador-blanco.md) | 龙舌兰酒 | El Jimador
+- [El Jimador Reposado](./ENT-tequila-real-el-jimador-reposado.md) | 龙舌兰酒 | El Jimador
+- [Gran Centenario Leyenda](./ENT-tequila-real-gran-centenario-leyenda.md) | 龙舌兰酒 | Gran Centenario
+- [Herradura Añejo](./ENT-tequila-real-herradura-anejo.md) | 龙舌兰酒 | Herradura
+- [Herradura Silver](./ENT-tequila-real-herradura-silver.md) | 龙舌兰酒 | Herradura
+- [José Cuervo Reserva de la Familia](./ENT-tequila-real-jose-cuervo-reserva-de-la-familia.md) | 龙舌兰酒 | José Cuervo
+- [Patrón Añejo](./ENT-tequila-real-patron-anejo.md) | 龙舌兰酒 | Patrón
+- [Patrón Reposado](./ENT-tequila-real-patron-reposado.md) | 龙舌兰酒 | Patrón
 - [索萨 Sauza Blanco](./ENT-tequila-sauza-blanco.md) | 龙舌兰 | 墨西哥
 - [桑札 Siete Sentidos Blanco](./ENT-tequila-siete-sentidos-blanco.md) | 龙舌兰 | 墨西哥
 
@@ -611,8 +653,16 @@
 - [皮斯科](./ENT-wiki-spirit-pisco.md) | 烈酒 | Pisco
 - [韩国烧酒](./ENT-wiki-spirit-soju.md) | 烈酒 | 烧酒
 
-## 红葡萄酒（218）
+## 红葡萄酒（226）
 
+- [长城葡萄酒](./ENT-baike-wine-changcheng-putaojiu.md) | 百度百科 | wine
+- [贺兰山东麓葡萄酒](./ENT-baike-wine-helanshan-putaojiu.md) | 百度百科 | wine
+- [龙徽葡萄酒](./ENT-baike-wine-longhui-putaojiu.md) | 百度百科 | wine
+- [通化葡萄酒](./ENT-baike-wine-tonghua-putaojiu.md) | 百度百科 | wine
+- [王朝葡萄酒](./ENT-baike-wine-wangchao-putaojiu.md) | 百度百科 | wine
+- [威龙葡萄酒](./ENT-baike-wine-weilong-putaojiu.md) | 百度百科 | wine
+- [张裕解百纳](./ENT-baike-wine-zhangyu-jiebaina.md) | 百度百科 | wine
+- [张裕葡萄酒](./ENT-baike-wine-zhangyu-putaojiu.md) | 百度百科 | wine
 - [奥比昂城堡](./ENT-brand-haut-brion.md) | 红酒 | 波尔多
 - [拉菲古堡](./ENT-brand-lafite-rothschild.md) | 红酒 | 波尔多
 - [拉图城堡](./ENT-brand-latour.md) | 红酒 | 波尔多
@@ -832,7 +882,7 @@
 - [Barefoot Merlot, California](./ENT-wine_red-off-023-barefoot-merlot-california.md) | OpenFoodFacts | wine_red
 - [Syrah](./ENT-wine_red-off-024-syrah.md) | OpenFoodFacts | wine_red
 
-## 白葡萄酒（87）
+## 白葡萄酒（100）
 
 - [京东湾](./ENT-wine-real-cloudy-bay.md) | 白酒 | 新西兰
 - [科什-杜里 科尔登-查理曼特级园 2017](./ENT-wine-real-corton-charlemagne-coche-dury.md) | 葡萄酒 | 白葡萄酒
@@ -888,6 +938,19 @@
 - [普朗珍藏 2016](./ENT-wine-white-prum-wehlener-kabinett-2016.md) | 白酒 | 德国
 - [普里尼康贝特 2016](./ENT-wine-white-puligny-combettes-leflaive-2016.md) | 白酒 | 勃艮第
 - [普里尼蜜瑟尔 2015](./ENT-wine-white-puligny-pucelles-leflaive-2015.md) | 白酒 | 勃艮第
+- [Casas del Bosque 长相思 2022](./ENT-wine-white-real-casas-del-bosque-sauvignon-blanc-2022.md) | 白葡萄酒 | 智利
+- [云雾之湾长相思 2022](./ENT-wine-white-real-cloudy-bay-sauvignon-blanc-2022.md) | 白葡萄酒 | 新西兰
+- [Dog Point Section 94 长相思 2022](./ENT-wine-white-real-dog-point-section-94-sauvignon-blanc-2022.md) | 白葡萄酒 | 新西兰
+- [Dr. Loosen Kabinett 雷司令 2022](./ENT-wine-white-real-dr-loosen-riesling-kabinett-2022.md) | 白葡萄酒 | 德国
+- [F.X. Pichler Grüner Veltliner Smaragd 2022](./ENT-wine-white-real-fx-pichler-gruner-veltliner-smaragd-2022.md) | 白葡萄酒 | 奥地利
+- [Greywacke 长相思 2022](./ENT-wine-white-real-greywacke-sauvignon-blanc-2022.md) | 白葡萄酒 | 新西兰
+- [Jacob's Creek 霞多丽 2022](./ENT-wine-white-real-jacobs-creek-chardonnay-2022.md) | 白葡萄酒 | 澳大利亚
+- [Ken Forrester 白诗南 2022](./ENT-wine-white-real-ken-forrester-chenin-blanc-2022.md) | 白葡萄酒 | 南非
+- [Kim Crawford 长相思 2022](./ENT-wine-white-real-kim-crawford-sauvignon-blanc-2022.md) | 白葡萄酒 | 新西兰
+- [Laberinto Riesling 2022](./ENT-wine-white-real-laberinto-riesling-2022.md) | 白葡萄酒 | 智利
+- [Oyster Bay 长相思 2022](./ENT-wine-white-real-oyster-bay-sauvignon-blanc-2022.md) | 白葡萄酒 | 新西兰
+- [Villa Maria Private Bin 长相思 2022](./ENT-wine-white-real-villa-maria-private-bin-sauvignon-blanc-2022.md) | 白葡萄酒 | 新西兰
+- [Villa Maria Reserve 霞多丽 2022](./ENT-wine-white-real-villa-maria-reserve-chardonnay-2022.md) | 白葡萄酒 | 新西兰
 - [罗伯特威尔 2015](./ENT-wine-white-robert-weil-grafenberg-2015.md) | 白酒 | 德国
 - [萨迪家族老藤白 2017](./ENT-wine-white-sadie-family-old-vine-2017.md) | 白酒 | 南非
 - [圣玛格丽特灰皮诺 2019](./ENT-wine-white-santa-margherita-pinot-grigio-2019.md) | 白酒 | 意大利
@@ -922,7 +985,7 @@
 - [Vino Bianco Coop](./ENT-wine_white-off-045-vino-bianco-coop.md) | OpenFoodFacts | wine_white
 - [Graves AOC Rouge](./ENT-wine_white-off-046-graves-aoc-rouge.md) | OpenFoodFacts | wine_white
 
-## 起泡酒（80）
+## 起泡酒（92）
 
 - [唐培里侬香槟](./ENT-brand-dom-perignon.md) | 起泡酒 | 香槟
 - [酩悦帝国香槟](./ENT-brand-moet-chandon-imperial.md) | 起泡酒 | 香槟
@@ -970,6 +1033,18 @@
 - [菲丽宝娜歌斯园 2012](./ENT-wine-sparkling-philipponnat-clos-des-goisses-2012.md) | 起泡酒 | 香槟
 - [宝禄爵丘吉尔 2013](./ENT-wine-sparkling-pol-roger-winston-churchill-2013.md) | 起泡酒 | 香槟
 - [拉文托斯 2015](./ENT-wine-sparkling-raventos-i-blanc-manuel-nv.md) | 起泡酒 | 卡瓦
+- [Billecart-Salmon Brut Rosé NV](./ENT-wine-sparkling-real-billecart-salmon-brut-rose-nv.md) | 起泡酒 | 香槟
+- [Bollinger La Grande Année 2014 (Verified)](./ENT-wine-sparkling-real-bollinger-la-grande-annee-2014-verified.md) | 起泡酒 | 香槟
+- [Charles Heidsieck Blanc des Millénaires 2012](./ENT-wine-sparkling-real-charles-heidsieck-blanc-des-millenaires-2012.md) | 起泡酒 | 香槟
+- [Drappier Carte d'Or NV](./ENT-wine-sparkling-real-drappier-carte-d-or-nv.md) | 起泡酒 | 香槟
+- [Egly-Ouriet Grand Cru Tradition NV](./ENT-wine-sparkling-real-egly-ouriet-grand-cru-tradition-nv.md) | 起泡酒 | 香槟
+- [Krug Grande Cuvée 171ème](./ENT-wine-sparkling-real-krug-grande-cuvee-171.md) | 起泡酒 | 香槟
+- [Moët & Chandon Grand Vintage 2015](./ENT-wine-sparkling-real-moet-grand-vintage-2015.md) | 起泡酒 | 香槟
+- [Pierre Péters Cuvée de Réserve NV](./ENT-wine-sparkling-real-pierre-peters-cuvee-de-reserve-nv.md) | 起泡酒 | 香槟
+- [Pol Roger Brut Réserve NV](./ENT-wine-sparkling-real-pol-roger-brut-reserve-nv.md) | 起泡酒 | 香槟
+- [Salon Le Mesnil Blanc de Blancs 2008 (Verified)](./ENT-wine-sparkling-real-salon-le-mesnil-2008-verified.md) | 起泡酒 | 香槟
+- [Taittinger Comtes de Champagne Blanc de Blancs 2013 (Verified)](./ENT-wine-sparkling-real-taittinger-comtes-de-champagne-blanc-de-blancs-2013-verified.md) | 起泡酒 | 香槟
+- [Veuve Clicquot Yellow Label Brut NV](./ENT-wine-sparkling-real-veuve-clicquot-yellow-label-nv.md) | 起泡酒 | 香槟
 - [雷卡雷多摩塔园 2010](./ENT-wine-sparkling-recaredo-turo-den-mota-2010.md) | 起泡酒 | 卡瓦
 - [布尔议院塞克特 2016](./ENT-wine-sparkling-reichsrat-von-buhl-2016.md) | 起泡酒 | 塞克特
 - [罗德雷庄园四重奏](./ENT-wine-sparkling-roederer-estate-quartet-nv.md) | 起泡酒 | 新世界
@@ -1114,7 +1189,7 @@
 - [托卡伊阿苏6篓](./ENT-wine-real-tokaji-aszu-6-puttonyos.md) | 葡萄酒 | 甜白葡萄酒
 - [滴金酒庄 2017](./ENT-wine-real-yquem-2017.md) | 葡萄酒 | 甜白葡萄酒
 
-## 清酒（85）
+## 清酒（93）
 
 - [白鹤](./ENT-baike-sake-hakutsuru.md) | 百度百科 | sake
 - [十四代](./ENT-baike-sake-juyondai.md) | 百度百科 | sake
@@ -1186,15 +1261,23 @@
 - [Midai Sake De Cuisine 300Ml](./ENT-sake-off-118-midai-sake-de-cuisine-300ml.md) | OpenFoodFacts | sake
 - [大关](./ENT-sake-ozeki.md) | 清酒 | 日本
 - [播州一献](./ENT-sake-real-arabashiri.md) | 清酒 | 纯米酒
+- [新政 No.6 Yotsugumo 四ッ雲](./ENT-sake-real-arabashiri-no6-yotsugumo.md) | 清酒 | 日本
 - [炭屋金](./ENT-sake-real-born-gold.md) | 清酒 | 纯米大吟酿
 - [獭祭纯米大吟酿23](./ENT-sake-real-dassai-23.md) | 清酒 | 纯米大吟酿
+- [獭祭 Beyond](./ENT-sake-real-dassai-beyond.md) | 清酒 | 日本
 - [八海山特別纯米](./ENT-sake-real-hakkaisan-tokubetsu-junmai.md) | 清酒 | 特别纯米
 - [十四代](./ENT-sake-real-juyondai.md) | 清酒 | 纯米大吟酿
+- [十四代 龙泉](./ENT-sake-real-juyondai-ryusen.md) | 清酒 | 日本
 - [风之森](./ENT-sake-real-kaze-no-mori.md) | 清酒 | 无滤过生原酒
+- [风之森 Alpha 3](./ENT-sake-real-kaze-no-mori-alpha-3.md) | 清酒 | 日本
+- [黑龙 石田屋](./ENT-sake-real-kokuryu-ishidaya.md) | 清酒 | 日本
 - [久保田千寿](./ENT-sake-real-kubota-senjuu.md) | 清酒 | 纯米大吟酿
+- [锅岛 纯米大吟醸](./ENT-sake-real-nabeshima-junmai-daiginjo.md) | 清酒 | 日本
 - [南部美人](./ENT-sake-real-nanbu-bijin.md) | 清酒 | 纯米大吟酿
 - [奥播磨浊酒](./ENT-sake-real-okuharima-nigori.md) | 清酒 | 浊酒
+- [田中六五](./ENT-sake-real-tanaka-rokugo-65.md) | 清酒 | 日本
 - [龟之井](./ENT-sake-real-tatenokawa-mountain.md) | 清酒 | 纯米大吟酿
+- [龍の曙 纯米大吟醸](./ENT-sake-real-tatsunoshiri-junmai-daiginjo.md) | 清酒 | 日本
 - [清泉](./ENT-sake-seisen.md) | 清酒 | 日本
 - [写乐](./ENT-sake-sharaku.md) | 清酒 | 日本
 - [写乐 纯米吟醸](./ENT-sake-sharaku-junmai-ginjo.md) | 清酒 | 日本
@@ -2503,11 +2586,6 @@
 - [婚宴用酒推荐清单](./SCENE-wedding.md) | 场景 | 婚宴
 - [冬季暖身用酒](./SCENE-winter-warm.md) | 场景 | 冬季
 
-## spirits_intl（2）
-
-- [芝华士18年](./ENT-baike-spirits_intl-chivas-18.md) | 百度百科 | spirits_intl
-- [蓝带马爹利](./ENT-baike-spirits_intl-martell-cordon-bleu.md) | 百度百科 | spirits_intl
-
 ## 行业趋势（30）
 
 - [AI品控应用](./TREND-ai-quality.md) | 行业趋势 | AI
@@ -2540,17 +2618,6 @@
 - [网红酒款分析](./TREND-viral-wine.md) | 行业趋势 | 网红酒
 - [节水酿造实践](./TREND-water-conservation.md) | 行业趋势 | 节水
 - [葡萄酒订阅服务](./TREND-wine-subscription.md) | 行业趋势 | 订阅服务
-
-## wine（8）
-
-- [长城葡萄酒](./ENT-baike-wine-changcheng-putaojiu.md) | 百度百科 | wine
-- [贺兰山东麓葡萄酒](./ENT-baike-wine-helanshan-putaojiu.md) | 百度百科 | wine
-- [龙徽葡萄酒](./ENT-baike-wine-longhui-putaojiu.md) | 百度百科 | wine
-- [通化葡萄酒](./ENT-baike-wine-tonghua-putaojiu.md) | 百度百科 | wine
-- [王朝葡萄酒](./ENT-baike-wine-wangchao-putaojiu.md) | 百度百科 | wine
-- [威龙葡萄酒](./ENT-baike-wine-weilong-putaojiu.md) | 百度百科 | wine
-- [张裕解百纳](./ENT-baike-wine-zhangyu-jiebaina.md) | 百度百科 | wine
-- [张裕葡萄酒](./ENT-baike-wine-zhangyu-putaojiu.md) | 百度百科 | wine
 
 ---
 

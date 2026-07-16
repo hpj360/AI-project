@@ -7,8 +7,8 @@ tags: [红酒, 波尔多, 佩萨克-雷奥良]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-haut-brion, ENT-wine-real-haut-brion, ENT-wine-red-haut-brion-2016, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-red-haut-brion: same_brand, ENT-wine-real-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+related: [ENT-brand-haut-brion, ENT-wine-red-haut-brion, ENT-wine-real-haut-brion, ENT-wine-red-haut-brion-2016, ENT-baike-wine-tonghua-putaojiu]
+related_typed: {ENT-brand-haut-brion: same_brand, ENT-wine-red-haut-brion: same_brand, ENT-wine-real-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_region, ENT-baike-wine-tonghua-putaojiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

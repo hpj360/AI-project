@@ -7,8 +7,8 @@ tags: [白兰地, 秘鲁, pisco]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
-related_typed: {ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
+related: [ENT-baike-spirits_intl-martell-cordon-bleu, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis]
+related_typed: {ENT-baike-spirits_intl-martell-cordon-bleu: cross_region, ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: same_subcat}
 data_confidence: simulated
 version: 1
 ---

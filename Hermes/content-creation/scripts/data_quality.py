@@ -33,7 +33,7 @@ BRAND_ABV_REFERENCE = {
     "macallan": {"expected_abv": [40, 43, 46, 58], "tolerance": 3},
     "glenfiddich": {"expected_abv": [40, 43], "tolerance": 2},
     "johnnie": {"expected_abv": [40, 42, 43], "tolerance": 2},
-    "hennessy": {"expected_abv": [40], "tolerance": 2},
+    "hennessy": {"expected_abv": [40, 43], "tolerance": 2},  # 43%: Master Blender's Selection
     "bacardi": {"expected_abv": [37.5, 40], "tolerance": 2},
     "茅台": {"expected_abv": [53, 43, 38], "tolerance": 2},
     "五粮液": {"expected_abv": [52, 45, 39], "tolerance": 2},
@@ -177,7 +177,7 @@ CORRECTED_ABV_RANGES = {
     'brandy': (35, 50),      # 白兰地
     'gin': (29, 55),         # 金酒（黑刺莓低，Nolet's高）
     'vodka': (35, 50),       # 伏特加
-    'rum': (35, 50),         # 朗姆酒
+    'rum': (21, 50),         # 朗姆酒（修正：Malibu等风味朗姆21%，标准朗姆35-50%）
     'tequila': (35, 50),     # 龙舌兰
     'wine_red': (11, 16),    # 红葡萄酒（温暖产区可达16%）
     'wine_white': (7, 15),   # 白葡萄酒（德国Kabinett 8.5%，TBA 7%）

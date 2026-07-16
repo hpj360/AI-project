@@ -7,8 +7,8 @@ tags: [鸡尾酒, 配方, 烈酒shot, Shot]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-mary-pickford, ENT-cocktail-el-presidente, ENT-cocktail-zombie, ENT-cocktail-painkiller, ENT-cocktail-navy-grog]
-related_typed: {ENT-cocktail-mary-pickford: same_subcat, ENT-cocktail-el-presidente: same_subcat, ENT-cocktail-zombie: same_subcat, ENT-cocktail-painkiller: same_subcat, ENT-cocktail-navy-grog: same_subcat}
+related: [ENT-cocktail-last-word, ENT-cocktail-mary-pickford, ENT-cocktail-el-presidente, ENT-cocktail-zombie, ENT-cocktail-painkiller]
+related_typed: {ENT-cocktail-last-word: same_subcat, ENT-cocktail-mary-pickford: same_subcat, ENT-cocktail-el-presidente: same_subcat, ENT-cocktail-zombie: same_subcat, ENT-cocktail-painkiller: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

@@ -7,8 +7,8 @@ tags: [葡萄酒, 红葡萄酒, 勃艮第, Chambertin, 特级园, 黑皮诺, Gev
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-chambertin-rousseau-2015, ENT-wine-real-chambertin, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-red-chambertin-rousseau-2015: same_brand, ENT-wine-real-chambertin: same_region, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
+related: [ENT-wine-red-chambertin-rousseau-2015, ENT-wine-real-chambertin, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu]
+related_typed: {ENT-wine-red-chambertin-rousseau-2015: same_brand, ENT-wine-real-chambertin: same_region, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

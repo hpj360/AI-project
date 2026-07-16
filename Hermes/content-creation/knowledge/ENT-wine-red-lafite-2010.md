@@ -7,8 +7,8 @@ tags: [红酒, 波尔多, 一级庄, 赤霞珠]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-lafite-2018, ENT-wine-red-levangile-2015, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016]
-related_typed: {ENT-wine-real-lafite-2018: same_brand, ENT-wine-red-levangile-2015: same_brand, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region}
+related: [ENT-brand-lafite-rothschild, ENT-wine-real-lafite-2018, ENT-wine-red-levangile-2015, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016]
+related_typed: {ENT-brand-lafite-rothschild: same_brand, ENT-wine-real-lafite-2018: same_brand, ENT-wine-red-levangile-2015: same_brand, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region}
 data_confidence: simulated
 version: 1
 ---

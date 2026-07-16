@@ -7,8 +7,8 @@ tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-echezeaux-jayer-1999]
-related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-red-grands-echezeaux-2015: same_region, ENT-wine-red-echezeaux-jayer-1999: same_region}
+related: [ENT-brand-romanee-conti, ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-echezeaux-jayer-1999]
+related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-red-grands-echezeaux-2015: same_region, ENT-wine-red-echezeaux-jayer-1999: same_region}
 data_confidence: simulated
 version: 1
 ---

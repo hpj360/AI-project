@@ -7,8 +7,8 @@ tags: [红酒, 勃艮第, 特级园, 独占园]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-clos-des-lambrays-2015, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-clos-des-lambrays-2015: same_region, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+related: [ENT-wine-red-clos-des-lambrays-2015, ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu, ENT-brand-margaux, ENT-brand-mouton-rothschild]
+related_typed: {ENT-wine-red-clos-des-lambrays-2015: same_region, ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-margaux: same_subcat, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: simulated
 version: 1
 ---

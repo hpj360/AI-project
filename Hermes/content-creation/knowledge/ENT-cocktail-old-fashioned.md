@@ -7,8 +7,8 @@ tags: [鸡尾酒, 古典, 威士忌, 禁酒令前]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
-related_typed: {ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
+related: [ENT-baike-spirits_intl-chivas-18, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
+related_typed: {ENT-baike-spirits_intl-chivas-18: base_to_cocktail, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
 version: 1

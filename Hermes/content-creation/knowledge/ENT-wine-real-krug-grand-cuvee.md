@@ -7,8 +7,8 @@ tags: [葡萄酒, 香槟, 法国, Krug, Grande Cuvée, LVMH, 陈年香槟]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-krug, ENT-wine-real-dom-perignon, ENT-wine-real-moet-chandon, ENT-wine-real-veuve-clicquot, ENT-wine-real-bollinger]
-related_typed: {ENT-wine-real-krug: same_brand, ENT-wine-real-dom-perignon: same_region, ENT-wine-real-moet-chandon: same_region, ENT-wine-real-veuve-clicquot: same_region, ENT-wine-real-bollinger: same_region}
+related: [ENT-wine-real-krug, ENT-wine-sparkling-real-krug-grande-cuvee-171, ENT-wine-real-dom-perignon, ENT-wine-real-moet-chandon, ENT-wine-real-veuve-clicquot]
+related_typed: {ENT-wine-real-krug: same_brand, ENT-wine-sparkling-real-krug-grande-cuvee-171: same_brand, ENT-wine-real-dom-perignon: same_region, ENT-wine-real-moet-chandon: same_region, ENT-wine-real-veuve-clicquot: same_region}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

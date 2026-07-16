@@ -7,8 +7,8 @@ tags: [朗姆酒, 波多黎各, 香料朗姆]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40]
-related_typed: {ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: cross_region, ENT-rum-off-163-rhum-negrita: cross_region, ENT-rum-off-164-bumbu-original-rum-40: same_subcat}
+related: [ENT-rum-real-bacardi-gran-reserva-diez, ENT-rum-real-bacardi-gold, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold]
+related_typed: {ENT-rum-real-bacardi-gran-reserva-diez: same_region, ENT-rum-real-bacardi-gold: same_region, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

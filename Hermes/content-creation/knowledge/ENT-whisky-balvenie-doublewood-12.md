@@ -7,8 +7,8 @@ tags: [威士忌, whisky, 苏格兰, Speyside, Balvenie, 双桶, 12年]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-18, ENT-whisky-glenlivet-18, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12]
-related_typed: {ENT-whisky-glenfiddich-12: same_region, ENT-whisky-glenfiddich-18: same_region, ENT-whisky-glenlivet-18: same_region, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat}
+related: [ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-18, ENT-whisky-glenlivet-18, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white]
+related_typed: {ENT-whisky-glenfiddich-12: same_region, ENT-whisky-glenfiddich-18: same_region, ENT-whisky-glenlivet-18: same_region, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

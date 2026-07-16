@@ -7,8 +7,8 @@ tags: [百度百科, spirits_intl, 蓝带马爹利]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baike-spirits_intl-chivas-18]
-related_typed: {ENT-baike-spirits_intl-chivas-18: same_subcat}
+related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
+related_typed: {ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E8%93%9D%E5%B8%A6%E9%A9%AC%E7%88%B9%E5%88%A9

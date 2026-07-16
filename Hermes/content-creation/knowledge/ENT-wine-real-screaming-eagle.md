@@ -7,8 +7,8 @@ tags: [红酒, 美国, 纳帕谷, 赤霞珠, 膜拜酒]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-screaming-eagle-2018, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-screaming-eagle-2019, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
-related_typed: {ENT-wine-real-screaming-eagle-2018: same_brand, ENT-wine-red-screaming-eagle-2015: same_brand, ENT-wine-red-screaming-eagle-2019: same_brand, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
+related: [ENT-wine-real-screaming-eagle-2018, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-screaming-eagle-2019, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu]
+related_typed: {ENT-wine-real-screaming-eagle-2018: same_brand, ENT-wine-red-screaming-eagle-2015: same_brand, ENT-wine-red-screaming-eagle-2019: same_brand, ENT-baike-wine-wangchao-putaojiu: cross_region, ENT-baike-wine-weilong-putaojiu: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

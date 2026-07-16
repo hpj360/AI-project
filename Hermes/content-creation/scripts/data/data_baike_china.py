@@ -1322,7 +1322,7 @@ ENTRIES = [
     {
         "id": "ENT-baike-wine-zhangyu-putaojiu",
         "category": "ENT",
-        "subcategory": "wine",
+        "subcategory": "wine_red",
         "title": "张裕葡萄酒",
         "title_en": "",
         "name_cn": "张裕葡萄酒",
@@ -1363,7 +1363,7 @@ ENTRIES = [
     {
         "id": "ENT-baike-wine-zhangyu-jiebaina",
         "category": "ENT",
-        "subcategory": "wine",
+        "subcategory": "wine_red",
         "title": "张裕解百纳",
         "title_en": "",
         "name_cn": "张裕解百纳",
@@ -1404,7 +1404,7 @@ ENTRIES = [
     {
         "id": "ENT-baike-wine-changcheng-putaojiu",
         "category": "ENT",
-        "subcategory": "wine",
+        "subcategory": "wine_red",
         "title": "长城葡萄酒",
         "title_en": "",
         "name_cn": "长城葡萄酒",
@@ -1445,7 +1445,7 @@ ENTRIES = [
     {
         "id": "ENT-baike-wine-wangchao-putaojiu",
         "category": "ENT",
-        "subcategory": "wine",
+        "subcategory": "wine_red",
         "title": "王朝葡萄酒",
         "title_en": "",
         "name_cn": "王朝葡萄酒",
@@ -1486,7 +1486,7 @@ ENTRIES = [
     {
         "id": "ENT-baike-wine-weilong-putaojiu",
         "category": "ENT",
-        "subcategory": "wine",
+        "subcategory": "wine_red",
         "title": "威龙葡萄酒",
         "title_en": "",
         "name_cn": "威龙葡萄酒",
@@ -1527,7 +1527,7 @@ ENTRIES = [
     {
         "id": "ENT-baike-wine-helanshan-putaojiu",
         "category": "ENT",
-        "subcategory": "wine",
+        "subcategory": "wine_red",
         "title": "贺兰山东麓葡萄酒",
         "title_en": "",
         "name_cn": "贺兰山东麓葡萄酒",
@@ -1568,7 +1568,7 @@ ENTRIES = [
     {
         "id": "ENT-baike-wine-tonghua-putaojiu",
         "category": "ENT",
-        "subcategory": "wine",
+        "subcategory": "wine_red",
         "title": "通化葡萄酒",
         "title_en": "",
         "name_cn": "通化葡萄酒",
@@ -1609,7 +1609,7 @@ ENTRIES = [
     {
         "id": "ENT-baike-wine-longhui-putaojiu",
         "category": "ENT",
-        "subcategory": "wine",
+        "subcategory": "wine_red",
         "title": "龙徽葡萄酒",
         "title_en": "",
         "name_cn": "龙徽葡萄酒",
@@ -2060,7 +2060,7 @@ ENTRIES = [
     {
         "id": "ENT-baike-spirits_intl-chivas-18",
         "category": "ENT",
-        "subcategory": "spirits_intl",
+        "subcategory": "whisky",
         "title": "芝华士18年",
         "title_en": "",
         "name_cn": "芝华士18年",
@@ -2101,7 +2101,7 @@ ENTRIES = [
     {
         "id": "ENT-baike-spirits_intl-martell-cordon-bleu",
         "category": "ENT",
-        "subcategory": "spirits_intl",
+        "subcategory": "brandy",
         "title": "蓝带马爹利",
         "title_en": "",
         "name_cn": "蓝带马爹利",

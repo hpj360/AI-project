@@ -7,8 +7,8 @@ tags: [葡萄酒, 红葡萄酒, 美国, 圣克鲁兹山, Ridge, Monte Bello]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-ridge-monte-bello-2015, ENT-wine_red-off-009-mouton-cadet, ENT-wine_red-off-010-vino-tinto, ENT-wine_red-off-011-st-emilion-grand-cru, ENT-wine_red-off-012-red-wine]
-related_typed: {ENT-wine-red-ridge-monte-bello-2015: same_brand, ENT-wine_red-off-009-mouton-cadet: same_subcat, ENT-wine_red-off-010-vino-tinto: same_subcat, ENT-wine_red-off-011-st-emilion-grand-cru: same_subcat, ENT-wine_red-off-012-red-wine: same_subcat}
+related: [ENT-wine-red-ridge-monte-bello-2015, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon]
+related_typed: {ENT-wine-red-ridge-monte-bello-2015: same_brand, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat, ENT-wine_red-off-004-pinot-noir: same_subcat, ENT-wine_red-off-005-cabernet-sauvignon: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / wine-searcher.com
 version: 1

@@ -7,8 +7,8 @@ tags: [鸡尾酒, 配方, 鸡尾酒, Cocktail]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-screwdriver, ENT-cocktail-harvey-wallbanger, ENT-cocktail-greyhound, ENT-cocktail-salty-dog, ENT-cocktail-old-fashioned]
-related_typed: {ENT-cocktail-screwdriver: same_subcat, ENT-cocktail-harvey-wallbanger: same_subcat, ENT-cocktail-greyhound: same_subcat, ENT-cocktail-salty-dog: same_subcat, ENT-cocktail-old-fashioned: same_subcat}
+related: [ENT-cocktail-gimlet, ENT-cocktail-screwdriver, ENT-cocktail-harvey-wallbanger, ENT-cocktail-greyhound, ENT-cocktail-salty-dog]
+related_typed: {ENT-cocktail-gimlet: same_subcat, ENT-cocktail-screwdriver: same_subcat, ENT-cocktail-harvey-wallbanger: same_subcat, ENT-cocktail-greyhound: same_subcat, ENT-cocktail-salty-dog: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

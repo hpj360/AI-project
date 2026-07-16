@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, rum, 朗姆酒, Bacardi]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold]
-related_typed: {ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat}
+related: [ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-rum-real-bacardi-gran-reserva-diez, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23]
+related_typed: {ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-rum-real-bacardi-gran-reserva-diez: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, brandy, 白兰地, Courvoisier]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees, ENT-brandy-martell-vsop, ENT-brandy-martell-xo]
-related_typed: {ENT-brandy-courvoisier-vsop: same_brand, ENT-brandy-courvoisier-xo: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brandy-martell-vsop: same_subcat, ENT-brandy-martell-xo: same_subcat}
+related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu]
+related_typed: {ENT-brandy-courvoisier-vsop: same_brand, ENT-brandy-courvoisier-xo: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brandy-martell-xo: same_subcat, ENT-brandy-martell-cordon-bleu: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

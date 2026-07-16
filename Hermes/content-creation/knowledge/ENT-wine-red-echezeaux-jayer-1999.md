@@ -7,8 +7,8 @@ tags: [红酒, 勃艮第, 特级园, 传奇]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-echezeaux-drc-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013, ENT-wine_red-off-003-adama]
-related_typed: {ENT-wine-red-grands-echezeaux-2015: same_region, ENT-wine-red-echezeaux-drc-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat, ENT-wine_red-off-003-adama: same_subcat}
+related: [ENT-wine-red-grands-echezeaux-2015, ENT-wine-red-echezeaux-drc-2015, ENT-baike-wine-longhui-putaojiu, ENT-brand-margaux, ENT-brand-mouton-rothschild]
+related_typed: {ENT-wine-red-grands-echezeaux-2015: same_region, ENT-wine-red-echezeaux-drc-2015: same_region, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-margaux: same_subcat, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: simulated
 version: 1
 ---

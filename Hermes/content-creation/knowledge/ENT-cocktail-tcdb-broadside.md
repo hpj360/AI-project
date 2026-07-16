@@ -7,8 +7,8 @@ tags: [鸡尾酒, 配方, 鸡尾酒, Cocktail]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-bellini, ENT-cocktail-kamikaze, ENT-cocktail-long-island-iced-tea, ENT-cocktail-mai-tai, ENT-cocktail-pina-colada]
-related_typed: {ENT-cocktail-bellini: same_subcat, ENT-cocktail-kamikaze: same_subcat, ENT-cocktail-long-island-iced-tea: same_subcat, ENT-cocktail-mai-tai: same_subcat, ENT-cocktail-pina-colada: same_subcat}
+related: [ENT-cocktail-clover-club, ENT-cocktail-bellini, ENT-cocktail-kamikaze, ENT-cocktail-long-island-iced-tea, ENT-cocktail-mai-tai]
+related_typed: {ENT-cocktail-clover-club: same_subcat, ENT-cocktail-bellini: same_subcat, ENT-cocktail-kamikaze: same_subcat, ENT-cocktail-long-island-iced-tea: same_subcat, ENT-cocktail-mai-tai: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

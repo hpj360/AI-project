@@ -7,8 +7,8 @@ tags: [葡萄酒, 红葡萄酒, 波尔多, 玛歌, 一级庄]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-margaux, ENT-wine-real-palmer, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
-related_typed: {ENT-wine-real-margaux: same_region, ENT-wine-real-palmer: same_region, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
+related: [ENT-wine-real-margaux, ENT-wine-real-palmer, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-helanshan-putaojiu]
+related_typed: {ENT-wine-real-margaux: same_region, ENT-wine-real-palmer: same_region, ENT-baike-wine-wangchao-putaojiu: cross_region, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-helanshan-putaojiu: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

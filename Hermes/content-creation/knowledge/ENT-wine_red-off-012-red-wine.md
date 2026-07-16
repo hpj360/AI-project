@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, wine_red, 红葡萄酒, Félix Solís]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild, ENT-brand-haut-brion]
-related_typed: {ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: cross_region, ENT-brand-haut-brion: same_subcat}
+related: [ENT-baike-wine-helanshan-putaojiu, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-baike-wine-zhangyu-putaojiu]
+related_typed: {ENT-baike-wine-helanshan-putaojiu: cross_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-baike-wine-zhangyu-putaojiu: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

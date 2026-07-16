@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, whisky, 威士忌, Jack Daniel's]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-old-no7, ENT-whisky-jack-daniels-single-barrel, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10]
-related_typed: {ENT-whisky-off-261-tennessee-whiskey: same_brand, ENT-whisky-jack-daniels-old-no7: same_brand, ENT-whisky-jack-daniels-single-barrel: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: same_subcat}
+related: [ENT-whisky-off-261-tennessee-whiskey, ENT-whisky-jack-daniels-old-no7, ENT-whisky-jack-daniels-single-barrel, ENT-brand-glenlivet-12, ENT-brand-lagavulin-16]
+related_typed: {ENT-whisky-off-261-tennessee-whiskey: same_brand, ENT-whisky-jack-daniels-old-no7: same_brand, ENT-whisky-jack-daniels-single-barrel: same_brand, ENT-brand-glenlivet-12: cross_region, ENT-brand-lagavulin-16: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

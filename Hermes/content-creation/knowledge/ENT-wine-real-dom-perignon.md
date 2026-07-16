@@ -7,8 +7,8 @@ tags: [起泡酒, 香槟, LVMH, 霞多丽, 黑皮诺]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-moet-chandon, ENT-wine-real-dom-perignon-2012, ENT-wine-real-veuve-clicquot, ENT-wine-real-krug, ENT-wine-real-bollinger]
-related_typed: {ENT-wine-real-moet-chandon: same_brand, ENT-wine-real-dom-perignon-2012: same_brand, ENT-wine-real-veuve-clicquot: same_region, ENT-wine-real-krug: same_region, ENT-wine-real-bollinger: same_region}
+related: [ENT-wine-real-moet-chandon, ENT-wine-real-dom-perignon-2012, ENT-wine-sparkling-real-moet-grand-vintage-2015, ENT-wine-real-veuve-clicquot, ENT-wine-real-krug]
+related_typed: {ENT-wine-real-moet-chandon: same_brand, ENT-wine-real-dom-perignon-2012: same_brand, ENT-wine-sparkling-real-moet-grand-vintage-2015: same_brand, ENT-wine-real-veuve-clicquot: same_region, ENT-wine-real-krug: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

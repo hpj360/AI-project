@@ -7,8 +7,8 @@ tags: [朗姆酒, 古巴, 哈瓦那俱乐部, 陈年]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-rum-off-174-rhum-cubain, ENT-rum-havana-club-3, ENT-rum-havana-club-7, ENT-rum-caribbean-ron-del-caribe, ENT-rum-off-162-captain-morgan-spiced-gold]
-related_typed: {ENT-rum-off-174-rhum-cubain: same_brand, ENT-rum-havana-club-3: same_brand, ENT-rum-havana-club-7: same_brand, ENT-rum-caribbean-ron-del-caribe: same_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat}
+related: [ENT-rum-off-174-rhum-cubain, ENT-rum-havana-club-3, ENT-rum-havana-club-7, ENT-rum-caribbean-ron-del-caribe, ENT-brand-ron-zacapa-23]
+related_typed: {ENT-rum-off-174-rhum-cubain: same_brand, ENT-rum-havana-club-3: same_brand, ENT-rum-havana-club-7: same_brand, ENT-rum-caribbean-ron-del-caribe: same_region, ENT-brand-ron-zacapa-23: same_subcat}
 data_confidence: simulated
 version: 1
 ---

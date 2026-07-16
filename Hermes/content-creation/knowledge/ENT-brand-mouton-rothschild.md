@@ -7,8 +7,8 @@ tags: [红酒, 波尔多, 一级庄, 赤霞珠, 木桐]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-haut-brion, ENT-brand-romanee-conti]
-related_typed: {ENT-brand-lafite-rothschild: same_region, ENT-brand-latour: same_region, ENT-brand-margaux: cross_region, ENT-brand-haut-brion: cross_region, ENT-brand-romanee-conti: same_subcat}
+related: [ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-baike-wine-zhangyu-putaojiu, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu]
+related_typed: {ENT-brand-lafite-rothschild: same_region, ENT-brand-latour: same_region, ENT-baike-wine-zhangyu-putaojiu: cross_region, ENT-baike-wine-zhangyu-jiebaina: cross_region, ENT-baike-wine-changcheng-putaojiu: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

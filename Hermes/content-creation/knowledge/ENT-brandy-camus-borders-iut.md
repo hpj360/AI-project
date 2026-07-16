@@ -7,8 +7,8 @@ tags: [白兰地, 干邑, 法国, 卡慕]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brandy-camus-vsop, ENT-brandy-camus-xo, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo]
-related_typed: {ENT-brandy-camus-vsop: same_brand, ENT-brandy-camus-xo: same_brand, ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: same_subcat}
+related: [ENT-brandy-camus-vsop, ENT-brandy-camus-xo, ENT-brandy-real-camus-ile-de-re-fine-island, ENT-baike-spirits_intl-martell-cordon-bleu, ENT-brandy-hennessy-vs]
+related_typed: {ENT-brandy-camus-vsop: same_brand, ENT-brandy-camus-xo: same_brand, ENT-brandy-real-camus-ile-de-re-fine-island: same_brand, ENT-baike-spirits_intl-martell-cordon-bleu: cross_region, ENT-brandy-hennessy-vs: same_subcat}
 data_confidence: simulated
 version: 1
 ---

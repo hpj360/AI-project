@@ -7,8 +7,8 @@ tags: [龙舌兰, 墨西哥, 银快, Blanco]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-brand-sauza-blanco, ENT-tequila-off-183-tequila-gold]
-related_typed: {ENT-brand-jose-cuervo-especial: cross_region, ENT-brand-patron-silver: cross_region, ENT-brand-don-julio-blanco: cross_region, ENT-brand-sauza-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat}
+related: [ENT-tequila-real-herradura-silver, ENT-tequila-real-herradura-anejo, ENT-tequila-real-el-jimador-blanco, ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver]
+related_typed: {ENT-tequila-real-herradura-silver: same_brand, ENT-tequila-real-herradura-anejo: same_brand, ENT-tequila-real-el-jimador-blanco: same_brand, ENT-brand-jose-cuervo-especial: cross_region, ENT-brand-patron-silver: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

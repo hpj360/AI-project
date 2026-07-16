@@ -7,8 +7,8 @@ tags: [鸡尾酒, 高球, 威士忌, 苏打水, 日本]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita, ENT-brand-macallan-12]
-related_typed: {ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region, ENT-brand-macallan-12: base_to_cocktail}
+related: [ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-yuzu-margarita, ENT-baike-spirits_intl-chivas-18]
+related_typed: {ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region, ENT-cocktail-yuzu-margarita: same_region, ENT-baike-spirits_intl-chivas-18: base_to_cocktail}
 data_confidence: official
 data_source: IBA 官方配方
 version: 1

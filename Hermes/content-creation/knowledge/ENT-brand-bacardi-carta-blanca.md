@@ -7,8 +7,8 @@ tags: [朗姆酒, 古巴, 波多黎各, 白朗姆]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-rum-off-181-bacardi-razz, ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23]
-related_typed: {ENT-rum-off-181-bacardi-razz: same_brand, ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: same_subcat}
+related: [ENT-rum-off-181-bacardi-razz, ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-rum-real-bacardi-gran-reserva-diez, ENT-rum-real-bacardi-gold]
+related_typed: {ENT-rum-off-181-bacardi-razz: same_brand, ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-rum-real-bacardi-gran-reserva-diez: same_region, ENT-rum-real-bacardi-gold: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

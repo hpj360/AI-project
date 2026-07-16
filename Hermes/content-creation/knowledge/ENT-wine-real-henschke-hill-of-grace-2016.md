@@ -7,8 +7,8 @@ tags: [葡萄酒, 红葡萄酒, 澳大利亚, Henschke, 恩典山, 西拉, 老�
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-henschke-hill-of-grace, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
-related_typed: {ENT-wine-real-henschke-hill-of-grace: same_brand, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
+related: [ENT-wine-real-henschke-hill-of-grace, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu, ENT-brand-lafite-rothschild]
+related_typed: {ENT-wine-real-henschke-hill-of-grace: same_brand, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-lafite-rothschild: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, wine_red, 红葡萄酒, Don Simón]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine_white-off-029-vino-blanco-chardonay, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
-related_typed: {ENT-wine_white-off-029-vino-blanco-chardonay: same_brand, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-brand-mouton-rothschild: same_subcat}
+related: [ENT-wine_white-off-029-vino-blanco-chardonay, ENT-baike-wine-helanshan-putaojiu, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-baike-wine-zhangyu-putaojiu]
+related_typed: {ENT-wine_white-off-029-vino-blanco-chardonay: same_brand, ENT-baike-wine-helanshan-putaojiu: cross_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-baike-wine-zhangyu-putaojiu: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

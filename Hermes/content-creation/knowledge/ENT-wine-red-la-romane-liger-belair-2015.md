@@ -7,8 +7,8 @@ tags: [红酒, 勃艮第, 特级园, 独占园]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
-related_typed: {ENT-wine-red-romanee-conti-2015: same_region, ENT-wine-red-la-tache-2015: same_region, ENT-wine-red-richebourg-2015: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
+related: [ENT-wine-red-romanee-conti-2015, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015, ENT-baike-wine-longhui-putaojiu, ENT-brand-margaux]
+related_typed: {ENT-wine-red-romanee-conti-2015: same_region, ENT-wine-red-la-tache-2015: same_region, ENT-wine-red-richebourg-2015: same_region, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-margaux: same_subcat}
 data_confidence: simulated
 version: 1
 ---

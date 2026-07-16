@@ -7,8 +7,8 @@ tags: [白兰地, 西班牙, Torres]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu]
-related_typed: {ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: cross_region, ENT-brandy-martell-vsop: same_subcat, ENT-brandy-martell-xo: same_subcat, ENT-brandy-martell-cordon-bleu: same_subcat}
+related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop, ENT-brandy-martell-xo]
+related_typed: {ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat, ENT-brandy-martell-vsop: same_subcat, ENT-brandy-martell-xo: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

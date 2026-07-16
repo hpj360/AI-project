@@ -7,8 +7,8 @@ tags: [百度百科, spirits_intl, 芝华士18年]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-baike-spirits_intl-martell-cordon-bleu]
-related_typed: {ENT-baike-spirits_intl-martell-cordon-bleu: same_subcat}
+related: [ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10]
+related_typed: {ENT-brand-macallan-12: cross_region, ENT-brand-glenfiddich-12: cross_region, ENT-brand-glenlivet-12: cross_region, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E8%8A%9D%E5%8D%8E%E5%A3%AB18%E5%B9%B4

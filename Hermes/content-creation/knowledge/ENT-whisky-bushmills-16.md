@@ -7,8 +7,8 @@ tags: [威士忌, 爱尔兰, 单一麦芽, 三桶]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-whisky-bushmills-original, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal, ENT-brand-glenmorangie-original]
-related_typed: {ENT-whisky-bushmills-original: same_brand, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat, ENT-brand-glenmorangie-original: same_subcat}
+related: [ENT-whisky-bushmills-original, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson]
+related_typed: {ENT-whisky-bushmills-original: same_brand, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, liqueur, 利口酒, Pernod Ricard]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-liqueur-off-203-baileys-original-irish-cream, ENT-liqueur-off-204-aperol, ENT-liqueur-off-205-baileys, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon, ENT-liqueur-off-207-campari]
-related_typed: {ENT-liqueur-off-203-baileys-original-irish-cream: cross_region, ENT-liqueur-off-204-aperol: cross_region, ENT-liqueur-off-205-baileys: cross_region, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon: cross_region, ENT-liqueur-off-207-campari: same_subcat}
+related: [ENT-rum-real-malibu-original, ENT-liqueur-off-203-baileys-original-irish-cream, ENT-liqueur-off-204-aperol, ENT-liqueur-off-205-baileys, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon]
+related_typed: {ENT-rum-real-malibu-original: same_brand, ENT-liqueur-off-203-baileys-original-irish-cream: cross_region, ENT-liqueur-off-204-aperol: cross_region, ENT-liqueur-off-205-baileys: cross_region, ENT-liqueur-off-206-cr-me-de-cassis-de-dijon: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

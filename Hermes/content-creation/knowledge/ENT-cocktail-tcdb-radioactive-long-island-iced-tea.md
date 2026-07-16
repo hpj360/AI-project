@@ -7,8 +7,8 @@ tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-painkiller, ENT-cocktail-fog-cutter, ENT-cocktail-hurricane, ENT-cocktail-scorpion, ENT-cocktail-test-pilot]
-related_typed: {ENT-cocktail-painkiller: same_subcat, ENT-cocktail-fog-cutter: same_subcat, ENT-cocktail-hurricane: same_subcat, ENT-cocktail-scorpion: same_subcat, ENT-cocktail-test-pilot: same_subcat}
+related: [ENT-cocktail-painkiller, ENT-cocktail-navy-grog, ENT-cocktail-fog-cutter, ENT-cocktail-hurricane, ENT-cocktail-scorpion]
+related_typed: {ENT-cocktail-painkiller: same_subcat, ENT-cocktail-navy-grog: same_subcat, ENT-cocktail-fog-cutter: same_subcat, ENT-cocktail-hurricane: same_subcat, ENT-cocktail-scorpion: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

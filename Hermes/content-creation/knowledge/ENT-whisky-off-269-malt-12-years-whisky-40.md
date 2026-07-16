@@ -7,8 +7,8 @@ tags: [OpenFoodFacts, whisky, 威士忌, Cardhu]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-whisky-cardhu-12, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white]
-related_typed: {ENT-whisky-cardhu-12: same_brand, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat}
+related: [ENT-whisky-cardhu-12, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7]
+related_typed: {ENT-whisky-cardhu-12: same_brand, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat, ENT-brand-chivas-regal-12: same_subcat, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

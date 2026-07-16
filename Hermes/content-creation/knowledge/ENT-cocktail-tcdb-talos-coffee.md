@@ -7,8 +7,8 @@ tags: [鸡尾酒, 配方, 咖啡/茶饮, Coffee / Tea]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-three-dots-and-a-dash, ENT-cocktail-cobras-fang, ENT-cocktail-nui-nui, ENT-cocktail-qb-cooler, ENT-cocktail-pisco-sour]
-related_typed: {ENT-cocktail-three-dots-and-a-dash: same_subcat, ENT-cocktail-cobras-fang: same_subcat, ENT-cocktail-nui-nui: same_subcat, ENT-cocktail-qb-cooler: same_subcat, ENT-cocktail-pisco-sour: same_subcat}
+related: [ENT-cocktail-test-pilot, ENT-cocktail-three-dots-and-a-dash, ENT-cocktail-cobras-fang, ENT-cocktail-nui-nui, ENT-cocktail-qb-cooler]
+related_typed: {ENT-cocktail-test-pilot: same_subcat, ENT-cocktail-three-dots-and-a-dash: same_subcat, ENT-cocktail-cobras-fang: same_subcat, ENT-cocktail-nui-nui: same_subcat, ENT-cocktail-qb-cooler: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

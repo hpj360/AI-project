@@ -7,8 +7,8 @@ tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-martinez, ENT-cocktail-mint-julep, ENT-cocktail-brandy-fix, ENT-cocktail-port-sangaree, ENT-cocktail-hot-toddy]
-related_typed: {ENT-cocktail-martinez: same_subcat, ENT-cocktail-mint-julep: same_subcat, ENT-cocktail-brandy-fix: same_subcat, ENT-cocktail-port-sangaree: same_subcat, ENT-cocktail-hot-toddy: same_subcat}
+related: [ENT-cocktail-old-fashioned, ENT-cocktail-martinez, ENT-cocktail-mint-julep, ENT-cocktail-brandy-fix, ENT-cocktail-port-sangaree]
+related_typed: {ENT-cocktail-old-fashioned: same_subcat, ENT-cocktail-martinez: same_subcat, ENT-cocktail-mint-julep: same_subcat, ENT-cocktail-brandy-fix: same_subcat, ENT-cocktail-port-sangaree: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

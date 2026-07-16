@@ -7,8 +7,8 @@ tags: [鸡尾酒, 短饮, 苏格兰, 杜林标, IBA]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-cocktail-scotch-soda, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-brand-glenlivet-12, ENT-cocktail-tokyo-tea]
-related_typed: {ENT-cocktail-scotch-soda: same_region, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-brand-glenlivet-12: base_to_cocktail, ENT-cocktail-tokyo-tea: same_subcat}
+related: [ENT-cocktail-scotch-soda, ENT-baike-spirits_intl-chivas-18, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-cocktail-tokyo-tea]
+related_typed: {ENT-cocktail-scotch-soda: same_region, ENT-baike-spirits_intl-chivas-18: base_to_cocktail, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-cocktail-tokyo-tea: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
 version: 1
