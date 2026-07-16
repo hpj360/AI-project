@@ -7,8 +7,8 @@ tags: [甜酒, 卢瓦尔, Quarts de Chaume, 白诗南]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-dessert-bonnezeaux-chateau-de-fesles-2017, ENT-wine-real-yquem-2017, ENT-wine-real-tokaji-aszu-6-puttonyos, ENT-wine-real-sauternes-climens-2017, ENT-wine-dessert-yquem-2015]
-related_typed: {ENT-wine-dessert-bonnezeaux-chateau-de-fesles-2017: same_region, ENT-wine-real-yquem-2017: cross_region, ENT-wine-real-tokaji-aszu-6-puttonyos: cross_region, ENT-wine-real-sauternes-climens-2017: cross_region, ENT-wine-dessert-yquem-2015: same_subcat}
+related: [ENT-wine-dessert-bonnezeaux-chateau-de-fesles-2017, ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-royal-tokaji-gold-label]
+related_typed: {ENT-wine-dessert-bonnezeaux-chateau-de-fesles-2017: same_region, ENT-dessert-yquem-2018: cross_region, ENT-dessert-yquem-2022: cross_region, ENT-dessert-suduiraut-2023: cross_region, ENT-dessert-royal-tokaji-gold-label: same_subcat}
 data_confidence: simulated
 version: 1
 ---

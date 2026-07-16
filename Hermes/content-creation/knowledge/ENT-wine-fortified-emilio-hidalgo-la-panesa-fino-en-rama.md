@@ -7,8 +7,8 @@ tags: [加强酒, 雪莉, Fino, En Rama]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016]
-related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: cross_region, ENT-wine-fortified-grahams-vintage-port-2017: cross_region, ENT-wine-fortified-dows-vintage-port-2016: cross_region, ENT-wine-fortified-fonseca-vintage-port-2017: cross_region, ENT-wine-fortified-taylors-vintage-port-2016: same_subcat}
+related: [ENT-sherry-emilio-hidalgo-la-panesa, ENT-port-taylor-fladgate-vintage-2024, ENT-port-dows-vintage-2016, ENT-port-grahams-ruby-2019, ENT-port-grahams-20year-tawny]
+related_typed: {ENT-sherry-emilio-hidalgo-la-panesa: same_brand, ENT-port-taylor-fladgate-vintage-2024: cross_region, ENT-port-dows-vintage-2016: cross_region, ENT-port-grahams-ruby-2019: cross_region, ENT-port-grahams-20year-tawny: same_subcat}
 data_confidence: simulated
 version: 1
 ---

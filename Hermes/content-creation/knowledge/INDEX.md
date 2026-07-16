@@ -1,6 +1,6 @@
 # 知识库全局索引
 
-> content-creation 酒类知识库 | 共 1796 条目 | 由 render_kb.py 维护
+> content-creation 酒类知识库 | 共 1854 条目 | 由 render_kb.py 维护
 
 ## 白酒（107）
 
@@ -942,8 +942,25 @@
 - [Crémant D´Alsace, Schaumwein Brut](./ENT-wine_sparkling-off-069-cr-mant-d-alsace-schaumwein-brut.md) | OpenFoodFacts | wine_sparkling
 - [Freixenet Prosecco](./ENT-wine_sparkling-off-070-freixenet-prosecco.md) | OpenFoodFacts | wine_sparkling
 
-## 加强酒（28）
+## 加强酒（45）
 
+- [Kopke Colheita White Port 2005](./ENT-dessert-kopke-colheita-white-2005.md) | 甜酒 | dessert
+- [Dow's Vintage Port 2016](./ENT-port-dows-vintage-2016.md) | 波特 | Port
+- [Graham's 20-Year-Old Tawny Port](./ENT-port-grahams-20year-tawny.md) | 波特 | Port
+- [Graham's 红宝石波特酒](./ENT-port-grahams-ruby-2019.md) | 波特 | Port
+- [Quinta do Noval Nacional Port 2020](./ENT-port-quinta-noval-nacional-2020.md) | 波特 | Port
+- [Taylor Fladgate Vintage Port 2024](./ENT-port-taylor-fladgate-vintage-2024.md) | 波特 | Port
+- [Taylor's 40-Year-Old Tawny Port](./ENT-port-taylors-40year-tawny.md) | 波特 | Port
+- [Taylor's Quinta de Vargellas Port](./ENT-port-taylors-quinta-vargellas.md) | 波特 | Port
+- [Warre's Quinta da Cavadinha Port](./ENT-port-warres-quinta-cavadinha.md) | 波特 | Port
+- [Emilio Hidalgo La Panesa Especial Fino Sherry](./ENT-sherry-emilio-hidalgo-la-panesa.md) | 雪莉 | Sherry
+- [Gonzalez Byass Nectar Pedro Ximénez Dulce Sherry](./ENT-sherry-gonzalez-byass-nectar-px.md) | 雪莉 | Sherry
+- [Gonzalez Byass Tio Pepe Fino Sherry](./ENT-sherry-gonzalez-byass-tio-pepe-fino.md) | 雪莉 | Sherry
+- [Lustau Solera Reserva Puerto Fino Sherry](./ENT-sherry-lustau-puerto-fino.md) | 雪莉 | Sherry
+- [Lustau Solera Reserva Pedro Ximénez San Emilio Sherry](./ENT-sherry-lustau-px-san-emilio.md) | 雪莉 | Sherry
+- [Bodegas Tradición VORS 30 Years Old Oloroso Sherry](./ENT-sherry-tradicion-vors-oloroso.md) | 雪莉 | Sherry
+- [Bodegas Tradición VORS 30 Years Old Palo Cortado Sherry](./ENT-sherry-tradicion-vors-palo-cortado.md) | 雪莉 | Sherry
+- [A.R. Valdespino Inocente Single Vineyard Fino Sherry](./ENT-sherry-valdespino-inocente-fino.md) | 雪莉 | Sherry
 - [布兰迪年份布尔 1996](./ENT-wine-fortified-blandys-vintage-bual-1996.md) | 加强酒 | 马德拉
 - [卡帕诺古老配方味美思](./ENT-wine-fortified-carpano-antica-formula.md) | 加强酒 | 味美思
 - [考克本年份波特 2015](./ENT-wine-fortified-cockburns-vintage-port-2015.md) | 加强酒 | 波特
@@ -973,26 +990,43 @@
 - [葛拉姆年份波特 2017](./ENT-wine-real-port-vintage-grahams-2017.md) | 葡萄酒 | 加强酒
 - [提奥佩佩菲诺雪莉](./ENT-wine-real-sherry-tio-pepe.md) | 葡萄酒 | 加强酒
 
-## 桃红葡萄酒（15）
+## 桃红葡萄酒（25）
 
 - [亨利布鲁瓦桑塞尔桃红 2019](./ENT-wine-rose-bourgeois-sancerre-rose-2019.md) | 桃红 | 卢瓦尔
 - [查尔斯梅尔顿维吉尼亚桃红 2019](./ENT-wine-rose-charles-melton-rose-virginia-2019.md) | 桃红 | 澳洲
 - [米努缇 M 桃红 2020](./ENT-wine-rose-chateau-minuty-m-2020.md) | 桃红 | 普罗旺斯
 - [唐佩里耶邦多桃红 2019](./ENT-wine-rose-domaine-tempier-bandol-2019.md) | 桃红 | 邦多
+- [Domaine Tempier Bandol Rosé 2025](./ENT-wine-rose-domaine-tempier-bandol-2025.md) | 桃红 | rosé
+- [Domaines Ott By Ott Rosé](./ENT-wine-rose-domaines-ott-by-ott.md) | 桃红 | rosé
 - [奥特庄园密合园桃红 2019](./ENT-wine-rose-domaines-ott-clos-mireille-2019.md) | 桃红 | 普罗旺斯
 - [法兰克费伦桃红 2019](./ENT-wine-rose-frank-phelan-2019.md) | 桃红 | 波尔多
+- [Château Galoupet G de Galoupet Rosé 2024](./ENT-wine-rose-galoupet-g-2024.md) | 桃红 | rosé
 - [加鲁斯桃红 2018](./ENT-wine-rose-garrus-2018.md) | 桃红 | 普罗旺斯
+- [Gérard Bertrand Côte des Roses Rosé](./ENT-wine-rose-gerard-bertrand-cote-des-roses.md) | 桃红 | rosé
 - [瑞加度尼亚桃红 2009](./ENT-wine-rose-lopez-de-heredia-vina-tondonia-rosado-2009.md) | 桃红 | 里奥哈
+- [Love by Léoube Rosé 2024](./ENT-wine-rose-love-by-leoube-2024.md) | 桃红 | rosé
 - [塞塞雷斯侯爵桃红 2020](./ENT-wine-rose-marques-de-caceres-rosado-2020.md) | 桃红 | 里奥哈
+- [Château Minuty M Rosé 2025](./ENT-wine-rose-minuty-m-2025.md) | 桃红 | rosé
 - [米拉瓦尔桃红 2019](./ENT-wine-rose-miraval-2019.md) | 桃红 | 普罗旺斯
+- [Château Miraval Côtes de Provence Rosé 2020](./ENT-wine-rose-miraval-2020.md) | 桃红 | rosé
 - [蒙特斯小天使桃红 2020](./ENT-wine-rose-montes-cherub-2020.md) | 桃红 | 智利
 - [姆加桃红 2020](./ENT-wine-rose-muga-rosado-2020.md) | 桃红 | 里奥哈
+- [Château Puech-Haut Theyron Rosé 2024](./ENT-wine-rose-puech-haut-theyron-2024.md) | 桃红 | rosé
+- [Château Sainte Marguerite Fantastique Rosé 2024](./ENT-wine-rose-sainte-marguerite-fantastique-2024.md) | 桃红 | rosé
 - [特林克维德尔塔维尔 2019](./ENT-wine-rose-tavel-trinquevedel-2019.md) | 桃红 | 塔维尔
 - [天使密语桃红 2020](./ENT-wine-rose-whispering-angel-2020.md) | 桃红 | 普罗旺斯
+- [Whispering Angel Rosé 2024](./ENT-wine-rose-whispering-angel-2024.md) | 桃红 | rosé
 - [哨兵桃红 2020](./ENT-wine-rose-whistler-rose-2020.md) | 桃红 | 澳洲
 
-## 甜酒（23）
+## 甜酒（30）
 
+- [Château Rieussec Premier Cru Classé Sauternes](./ENT-dessert-rieussec-premier-cru.md) | 甜酒 | dessert
+- [Royal Tokaji 2016 Essencia Furmint](./ENT-dessert-royal-tokaji-essencia-2016.md) | 甜酒 | dessert
+- [Royal Tokaji Gold Label Tokaji Aszú 6 Puttonyos](./ENT-dessert-royal-tokaji-gold-label.md) | 甜酒 | dessert
+- [Château Suduiraut 2023](./ENT-dessert-suduiraut-2023.md) | 甜酒 | dessert
+- [Klein Constantia Vin de Constance](./ENT-dessert-vin-de-constance.md) | 甜酒 | dessert
+- [Château d'Yquem 2018](./ENT-dessert-yquem-2018.md) | 甜酒 | dessert
+- [Château d'Yquem 2022](./ENT-dessert-yquem-2022.md) | 甜酒 | dessert
 - [波内索费斯酒庄 2017](./ENT-wine-dessert-bonnezeaux-chateau-de-fesles-2017.md) | 甜酒 | 卢瓦尔
 - [克里蒙 2015](./ENT-wine-dessert-climens-2015.md) | 甜酒 | 巴萨克
 - [古岱 2015](./ENT-wine-dessert-coutet-2015.md) | 甜酒 | 巴萨克
@@ -1095,7 +1129,7 @@
 - [天狗舞](./ENT-sake-tengumai.md) | 清酒 | 日本
 - [东条纪尾井町](./ENT-sake-tojo-kioicho.md) | 清酒 | 日本
 
-## 黄酒（37）
+## 黄酒（45）
 
 - [丹阳黄酒](./ENT-baike-yellow_wine-danyang-huangjiu.md) | 百度百科 | yellow_wine
 - [浙江古越龙山绍兴酒股份有限公司](./ENT-baike-yellow_wine-guyue-longshan.md) | 百度百科 | yellow_wine
@@ -1104,6 +1138,14 @@
 - [即墨老酒](./ENT-baike-yellow_wine-jimo-laojiu.md) | 百度百科 | yellow_wine
 - [沙洲优黄](./ENT-baike-yellow_wine-shazhou-youhuang.md) | 百度百科 | yellow_wine
 - [塔牌绍兴酒](./ENT-baike-yellow_wine-tapai-huangjiu.md) | 百度百科 | yellow_wine
+- [钓鱼台花雕酒 二十年陈](./ENT-yellow-diaoyutai-20year.md) | 黄酒 | 花雕
+- [古越龙山 十年陈酿花雕](./ENT-yellow-guyuelongshan-10year.md) | 黄酒 | 花雕
+- [古越龙山 三年陈花雕加饭](./ENT-yellow-guyuelongshan-3year.md) | 黄酒 | 花雕
+- [古越龙山 金五年花雕](./ENT-yellow-guyuelongshan-5year.md) | 黄酒 | 花雕
+- [古越龙山 八年花雕王](./ENT-yellow-guyuelongshan-8year-king.md) | 黄酒 | 花雕
+- [古越龙山 陈年花雕加饭](./ENT-yellow-guyuelongshan-aged.md) | 黄酒 | 花雕
+- [绍兴花雕酒 十年陈（出口装）](./ENT-yellow-huadiao-10year-export.md) | 黄酒 | 花雕
+- [塔牌 黄酒二十年陈酿绍兴酒](./ENT-yellow-tapai-20year.md) | 黄酒 | 花雕
 - [丹阳黄酒](./ENT-yellow-wine-danyang-huangjiu.md) | 黄酒 | 丹阳
 - [福建老酒](./ENT-yellow-wine-fujian-laojiu.md) | 黄酒 | 福建
 - [古越龙山 10年陈酿](./ENT-yellow-wine-guyue-longshan-10y.md) | 黄酒 | 绍兴
@@ -1251,12 +1293,20 @@
 - [喜力啤酒](./ENT-brand-heineken.md) | 啤酒 | 荷兰
 - [时代啤酒](./ENT-brand-stella-artois.md) | 啤酒 | 比利时
 
-## 果酒（40）
+## 果酒（48）
 
 - [桂花酿](./ENT-baike-fruit_wine-guihua-jiu.md) | 百度百科 | fruit_wine
 - [中国劲酒](./ENT-baike-fruit_wine-jinjiu.md) | 百度百科 | fruit_wine
 - [五加皮酒](./ENT-baike-fruit_wine-wujiapi-jiu.md) | 百度百科 | fruit_wine
 - [竹叶青酒](./ENT-baike-fruit_wine-zhuyeqing-jiu.md) | 百度百科 | fruit_wine
+- [THE CHOYA AGED 3 YEARS EXTRA FRUIT](./ENT-fruit-choya-aged-3-years-extra-fruit.md) | 梅酒 | umeshu
+- [CHOYA Classic Umeshu](./ENT-fruit-choya-classic-umeshu.md) | 梅酒 | umeshu
+- [CHOYA Extra Years Umeshu](./ENT-fruit-choya-extra-years.md) | 梅酒 | umeshu
+- [CHOYA Gold Edition Umeshu](./ENT-fruit-choya-gold-edition.md) | 梅酒 | umeshu
+- [Manzairaku Kaga Umeshu](./ENT-fruit-manzairaku-kaga.md) | 梅酒 | umeshu
+- [SUNTORY 山崎桶陈梅酒 RICH AMBER](./ENT-fruit-suntory-rich-amber.md) | 梅酒 | umeshu
+- [SUNTORY 山崎桶陈梅酒 RICH AMBER SAKURA BARREL BLEND](./ENT-fruit-suntory-sakura-barrel.md) | 梅酒 | umeshu
+- [SUNTORY 山崎桶陈梅酒 SUPERIOR](./ENT-fruit-suntory-superior.md) | 梅酒 | umeshu
 - [杏子酒](./ENT-fruit-wine-apricot.md) | 果酒 | 杏子
 - [黑樱桃酒](./ENT-fruit-wine-black-cherry.md) | 果酒 | 黑樱桃
 - [黑加仑酒](./ENT-fruit-wine-blackcurrant.md) | 果酒 | 黑加仑
@@ -1294,18 +1344,22 @@
 - [蜂蜜酒](./ENT-mead-chinese-traditional.md) | 蜂蜜酒 | 中国
 - [波兰蜂蜜酒](./ENT-mead-polish-mead.md) | 蜂蜜酒 | 波兰
 
-## 蜂蜜酒（24）
+## 蜂蜜酒（32）
 
 - [黑莓蜂蜜酒](./ENT-mead-blackberry.md) | 蜂蜜酒 | 英国
 - [蓝莓蜂蜜酒](./ENT-mead-blueberry.md) | 蜂蜜酒 | 美国
 - [麦芽蜂蜜酒](./ENT-mead-braggot.md) | 蜂蜜酒 | 英国
+- [Brimming Horn Wandering Woden](./ENT-mead-brimming-horn-woden.md) | 蜂蜜酒 | mead
 - [香槟法蜂蜜酒](./ENT-mead-champagne-method.md) | 蜂蜜酒 | 法国
 - [长白山蜂蜜酒](./ENT-mead-changbaishan-honey.md) | 蜂蜜酒 | 中国
 - [樱桃蜂蜜酒](./ENT-mead-cherry.md) | 蜂蜜酒 | 法国
 - [肉桂蜂蜜酒](./ENT-mead-cinnamon.md) | 蜂蜜酒 | 美国
 - [丁香蜂蜜酒](./ENT-mead-clove.md) | 蜂蜜酒 | 美国
 - [苹果蜂蜜酒](./ENT-mead-cyser.md) | 蜂蜜酒 | 英国
+- [Dansk Mjød Viking Blod](./ENT-mead-dansk-viking-blod.md) | 蜂蜜酒 | mead
 - [姜蜂蜜酒](./ENT-mead-ginger.md) | 蜂蜜酒 | 英国
+- [Heidrun California Orange Blossom](./ENT-mead-heidrun-orange-blossom.md) | 蜂蜜酒 | mead
+- [Hidden Legend Dark Mead](./ENT-mead-hidden-legend-dark.md) | 蜂蜜酒 | mead
 - [黄山蜂蜜酒](./ENT-mead-huangshan-honey.md) | 蜂蜜酒 | 中国
 - [意大利起泡蜂蜜酒](./ENT-mead-italian-sparkling.md) | 蜂蜜酒 | 意大利
 - [水果蜂蜜酒](./ENT-mead-melomel.md) | 蜂蜜酒 | 英国
@@ -1314,11 +1368,15 @@
 - [葡萄蜂蜜酒](./ENT-mead-pyment.md) | 蜂蜜酒 | 法国
 - [秦岭蜂蜜酒](./ENT-mead-qinling-honey.md) | 蜂蜜酒 | 中国
 - [神农蜂蜜酒](./ENT-mead-shennong-honey.md) | 蜂蜜酒 | 中国
+- [Sky River Dry Mead](./ENT-mead-sky-river-dry.md) | 蜂蜜酒 | mead
+- [Sky River Sweet Mead](./ENT-mead-sky-river-sweet.md) | 蜂蜜酒 | mead
 - [起泡蜂蜜酒](./ENT-mead-sparkling.md) | 蜂蜜酒 | 美国
 - [草莓蜂蜜酒](./ENT-mead-strawberry.md) | 蜂蜜酒 | 美国
+- [Superstition Flora Mead 2026](./ENT-mead-superstition-flora.md) | 蜂蜜酒 | mead
 - [埃塞俄比亚蜂蜜酒](./ENT-mead-tej.md) | 蜂蜜酒 | 埃塞俄比亚
 - [传统蜂蜜酒](./ENT-mead-traditional.md) | 蜂蜜酒 | 英国
 - [香草蜂蜜酒](./ENT-mead-vanilla.md) | 蜂蜜酒 | 法国
+- [Wild Blossom Hive2o Variety 4 Pack](./ENT-mead-wild-blossom-hive2o.md) | 蜂蜜酒 | mead
 - [云南野蜂蜜酒](./ENT-mead-yunnan-wild-honey.md) | 蜂蜜酒 | 中国
 
 ## 鸡尾酒（328）

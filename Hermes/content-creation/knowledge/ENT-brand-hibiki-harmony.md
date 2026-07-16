@@ -7,8 +7,8 @@ tags: [威士忌, 日本, 调和威士忌]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-yamazaki-12, ENT-brand-hakushu, ENT-whisky-hibiki-21, ENT-whisky-hibiki-17, ENT-whisky-taketsuru-17]
-related_typed: {ENT-brand-yamazaki-12: same_brand, ENT-brand-hakushu: same_brand, ENT-whisky-hibiki-21: same_region, ENT-whisky-hibiki-17: same_region, ENT-whisky-taketsuru-17: same_region}
+related: [ENT-brand-yamazaki-12, ENT-brand-hakushu, ENT-fruit-suntory-rich-amber, ENT-whisky-hibiki-21, ENT-whisky-hibiki-17]
+related_typed: {ENT-brand-yamazaki-12: same_brand, ENT-brand-hakushu: same_brand, ENT-fruit-suntory-rich-amber: same_brand, ENT-whisky-hibiki-21: same_region, ENT-whisky-hibiki-17: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

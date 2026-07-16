@@ -7,8 +7,8 @@ tags: [葡萄酒, 甜白葡萄酒, 匈牙利, Tokaji, 贵腐, Aszú, 6篓]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-real-yquem-2017, ENT-wine-real-sauternes-climens-2017, ENT-wine-dessert-yquem-2015, ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-climens-2015]
-related_typed: {ENT-wine-real-yquem-2017: cross_region, ENT-wine-real-sauternes-climens-2017: cross_region, ENT-wine-dessert-yquem-2015: cross_region, ENT-wine-dessert-suduiraut-2015: cross_region, ENT-wine-dessert-climens-2015: same_subcat}
+related: [ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-royal-tokaji-gold-label, ENT-dessert-royal-tokaji-essencia-2016]
+related_typed: {ENT-dessert-yquem-2018: cross_region, ENT-dessert-yquem-2022: cross_region, ENT-dessert-suduiraut-2023: cross_region, ENT-dessert-royal-tokaji-gold-label: cross_region, ENT-dessert-royal-tokaji-essencia-2016: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

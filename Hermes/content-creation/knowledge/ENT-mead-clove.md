@@ -7,8 +7,8 @@ tags: [蜂蜜酒, 美国, 丁香, 香料]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-mead-strawberry, ENT-mead-blueberry, ENT-mead-peach, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
-related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
+related: [ENT-mead-strawberry, ENT-mead-blueberry, ENT-mead-peach, ENT-mead-sky-river-sweet, ENT-mead-sky-river-dry]
+related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-sky-river-sweet: same_region, ENT-mead-sky-river-dry: same_region}
 data_confidence: simulated
 version: 1
 ---

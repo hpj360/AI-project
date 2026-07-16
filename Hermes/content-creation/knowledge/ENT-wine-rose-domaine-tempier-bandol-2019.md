@@ -7,8 +7,8 @@ tags: [桃红, 邦多, Mourvèdre, Tempier]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-miraval-2019, ENT-wine-rose-chateau-minuty-m-2020]
-related_typed: {ENT-wine-rose-whispering-angel-2020: cross_region, ENT-wine-rose-garrus-2018: cross_region, ENT-wine-rose-domaines-ott-clos-mireille-2019: cross_region, ENT-wine-rose-miraval-2019: cross_region, ENT-wine-rose-chateau-minuty-m-2020: same_subcat}
+related: [ENT-wine-rose-domaine-tempier-bandol-2025, ENT-wine-rose-whispering-angel-2024, ENT-wine-rose-miraval-2020, ENT-wine-rose-minuty-m-2025, ENT-wine-rose-domaines-ott-by-ott]
+related_typed: {ENT-wine-rose-domaine-tempier-bandol-2025: same_brand, ENT-wine-rose-whispering-angel-2024: cross_region, ENT-wine-rose-miraval-2020: cross_region, ENT-wine-rose-minuty-m-2025: cross_region, ENT-wine-rose-domaines-ott-by-ott: same_subcat}
 data_confidence: simulated
 version: 1
 ---

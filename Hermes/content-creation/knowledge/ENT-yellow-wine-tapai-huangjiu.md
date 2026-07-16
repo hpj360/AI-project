@@ -9,8 +9,8 @@ created: 2026-07-16
 updated: 2026-07-16
 data_confidence: simulated
 version: 1
-related: [ENT-yellow-wine-tapai, ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y]
-related_typed: {ENT-yellow-wine-tapai: same_brand, ENT-yellow-wine-guyue-longshan-10y: same_region, ENT-yellow-wine-guyue-longshan-20y: same_region, ENT-yellow-wine-guyue-longshan-30y: same_region, ENT-yellow-wine-guyue-longshan-50y: same_region}
+related: [ENT-yellow-wine-tapai, ENT-yellow-guyuelongshan-10year, ENT-yellow-guyuelongshan-8year-king, ENT-yellow-guyuelongshan-5year, ENT-yellow-guyuelongshan-3year]
+related_typed: {ENT-yellow-wine-tapai: same_brand, ENT-yellow-guyuelongshan-10year: same_region, ENT-yellow-guyuelongshan-8year-king: same_region, ENT-yellow-guyuelongshan-5year: same_region, ENT-yellow-guyuelongshan-3year: same_region}
 ---
 
 # 塔牌黄酒

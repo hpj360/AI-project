@@ -7,8 +7,8 @@ tags: [黄酒, 绍兴, 咸亨]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-wine-guyue-longshan-huadiao]
-related_typed: {ENT-yellow-wine-guyue-longshan-10y: same_region, ENT-yellow-wine-guyue-longshan-20y: same_region, ENT-yellow-wine-guyue-longshan-30y: same_region, ENT-yellow-wine-guyue-longshan-50y: same_region, ENT-yellow-wine-guyue-longshan-huadiao: same_region}
+related: [ENT-yellow-guyuelongshan-10year, ENT-yellow-guyuelongshan-8year-king, ENT-yellow-guyuelongshan-5year, ENT-yellow-guyuelongshan-3year, ENT-yellow-guyuelongshan-aged]
+related_typed: {ENT-yellow-guyuelongshan-10year: same_region, ENT-yellow-guyuelongshan-8year-king: same_region, ENT-yellow-guyuelongshan-5year: same_region, ENT-yellow-guyuelongshan-3year: same_region, ENT-yellow-guyuelongshan-aged: same_region}
 data_confidence: simulated
 version: 1
 ---

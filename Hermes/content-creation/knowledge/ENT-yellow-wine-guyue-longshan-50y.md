@@ -7,8 +7,8 @@ tags: [黄酒, 绍兴, 古越龙山, 陈酿, 收藏]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-huadiao, ENT-yellow-wine-guyue-longshan-chundiao]
-related_typed: {ENT-yellow-wine-guyue-longshan-10y: same_brand, ENT-yellow-wine-guyue-longshan-20y: same_brand, ENT-yellow-wine-guyue-longshan-30y: same_brand, ENT-yellow-wine-guyue-longshan-huadiao: same_region, ENT-yellow-wine-guyue-longshan-chundiao: same_region}
+related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-20y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-guyuelongshan-10year, ENT-yellow-guyuelongshan-8year-king]
+related_typed: {ENT-yellow-wine-guyue-longshan-10y: same_brand, ENT-yellow-wine-guyue-longshan-20y: same_brand, ENT-yellow-wine-guyue-longshan-30y: same_brand, ENT-yellow-guyuelongshan-10year: same_region, ENT-yellow-guyuelongshan-8year-king: same_region}
 data_confidence: simulated
 version: 1
 ---

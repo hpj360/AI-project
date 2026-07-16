@@ -7,8 +7,8 @@ tags: [威士忌, 日本, 单一麦芽]
 status: active
 created: 2026-07-16
 updated: 2026-07-16
-related: [ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black]
-related_typed: {ENT-brand-hibiki-harmony: same_brand, ENT-brand-hakushu: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat}
+related: [ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-fruit-suntory-rich-amber, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10]
+related_typed: {ENT-brand-hibiki-harmony: same_brand, ENT-brand-hakushu: same_brand, ENT-fruit-suntory-rich-amber: same_brand, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1
