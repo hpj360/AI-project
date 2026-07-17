@@ -1,0 +1,48 @@
+# José Cuervo Reserva de la Familia
+
+**José Cuervo Reserva de la Familia Extra Añejo**
+
+## 概述
+
+José Cuervo Reserva de la Familia Extra Añejo 家族珍藏，陈酿至少3年，Wine-Searcher 95/100，价格 $181。
+
+## 基础信息
+
+- **中文名**：José Cuervo 家族珍藏
+- **外文名**：José Cuervo Reserva de la Familia
+- **分类**：龙舌兰
+- **产地**：墨西哥 / 墨西哥/Jalisco/Tequila
+- **生产商**：José Cuervo (Proximo Spirits)
+- **酒精度**：40%
+- **参考价格（RMB）**：¥150-350
+- **价格档位**：daily
+
+## 风味轮廓
+
+| 维度 | 评分 (1-5) | 轮廓 |
+|------|-----------|------|
+| 甜 | 2 | ██░░░ |
+| 酸 | 2 | ██░░░ |
+| 苦 | 3 | ███░░ |
+| 烈 | 5 | █████ |
+| 香 | 4 | ████░ |
+> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+
+## 评分奖项
+
+| 评分机构 | 评分 | 年份/票数 |
+|---------|------|----------|
+| Vivino 用户 | 4.8 | 26652 |
+| Wine Enthusiast | 87 | 2021 |
+
+### 获奖记录
+
+- **2019** San Francisco Silver
+
+> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+
+## 参考资料
+
+- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
+- 数据来源：Wine-Searcher / Flaviar
+- 数据置信度：verified

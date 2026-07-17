@@ -8,8 +8,9 @@
    - 打包为 ZIP 文件，直接拖入 IMA 客户端即可导入
 
 2. API 模式（需配置 ClientID + APIKey）：
-   - 通过 IMA OpenAPI 自动上传到指定知识库
-   - 三步流程：create_media → COS PUT → add_knowledge
+   - 通过 IMA OpenAPI 以笔记方式自动上传到指定知识库
+   - 两步流程：notes/import_doc（创建笔记）→ wiki/add_knowledge（加入知识库）
+   - 使用笔记方式（media_type=11），无需 COS 签名，稳定高效
 
 IMA 支持的文件格式：.pdf/.doc/.docx/.txt/.wps/.pptx/.xlsx/.md/.json/jpg/jpeg/png
 单个文件限制：150MB，普通用户知识库容量 36GB
@@ -35,6 +36,7 @@ import json
 import os
 import re
 import sys
+import time
 import zipfile
 import hashlib
 from pathlib import Path
@@ -86,7 +88,8 @@ SUBCAT_DIR_MAP = {
     "anti": "36_健康提示",
 }
 
-IMA_API_BASE = "https://ima.qq.com/openapi/wiki/v1"
+IMA_WIKI_API_BASE = "https://ima.qq.com/openapi/wiki/v1"
+IMA_NOTE_API_BASE = "https://ima.qq.com/openapi/note/v1"
 
 
 def clean_markdown_for_ima(md_content: str) -> str:
@@ -278,20 +281,69 @@ def package_for_ima(
     return zip_path
 
 
-def ima_api_request(endpoint: str, data: dict, client_id: str, api_key: str) -> dict:
-    """调用 IMA OpenAPI。"""
-    url = f"{IMA_API_BASE}/{endpoint}"
-    body = json.dumps(data).encode("utf-8")
-    req = Request(url, data=body, method="POST")
-    req.add_header("Content-Type", "application/json")
-    req.add_header("ima-openapi-clientid", client_id)
-    req.add_header("ima-openapi-apikey", api_key)
+def ima_api_request(endpoint: str, data: dict, client_id: str, api_key: str, base: str = IMA_WIKI_API_BASE, max_retries: int = 5) -> dict:
+    """调用 IMA OpenAPI，支持频率限制自动重试退避。"""
+    url = f"{base}/{endpoint}"
+    body = json.dumps(data, ensure_ascii=False).encode("utf-8")
+    last_err = None
+    for attempt in range(max_retries):
+        req = Request(url, data=body, method="POST")
+        req.add_header("Content-Type", "application/json; charset=utf-8")
+        req.add_header("ima-openapi-clientid", client_id)
+        req.add_header("ima-openapi-apikey", api_key)
+        try:
+            with urlopen(req, timeout=30) as resp:
+                result = json.loads(resp.read().decode("utf-8"))
+                if result.get("code") == 200001:
+                    wait = 2 ** attempt + 1
+                    print(f"频率限制，等待{wait}s...", end=" ", flush=True)
+                    time.sleep(wait)
+                    continue
+                return result
+        except HTTPError as e:
+            error_body = e.read().decode("utf-8", errors="replace")
+            try:
+                err_json = json.loads(error_body)
+                if err_json.get("code") == 200001:
+                    wait = 2 ** attempt + 1
+                    print(f"频率限制(403)，等待{wait}s...", end=" ", flush=True)
+                    time.sleep(wait)
+                    continue
+            except json.JSONDecodeError:
+                pass
+            if attempt < max_retries - 1:
+                wait = 2 ** attempt
+                time.sleep(wait)
+                last_err = RuntimeError(f"IMA API 错误 {e.code}: {error_body}")
+                continue
+            raise RuntimeError(f"IMA API 错误 {e.code}: {error_body}") from e
+    if last_err:
+        raise last_err
+    return {"code": -1, "msg": "max retries exceeded"}
+
+
+def extract_title_from_md(cleaned_content: str, fallback: str) -> str:
+    """从 Markdown 内容中提取 H1 标题，没有则用 fallback。"""
+    for line in cleaned_content.split("\n"):
+        line = line.strip()
+        if line.startswith("# ") and not line.startswith("## "):
+            return line[2:].strip()
+    return fallback
+
+
+def create_ima_folder(client_id: str, api_key: str, kb_id: str, folder_name: str, parent_id: str = "") -> str:
+    """在 IMA 知识库中创建文件夹，返回 folder_id。已存在则直接返回。"""
     try:
-        with urlopen(req, timeout=30) as resp:
-            return json.loads(resp.read().decode("utf-8"))
-    except HTTPError as e:
-        error_body = e.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"IMA API 错误 {e.code}: {error_body}") from e
+        resp = ima_api_request("create_folder", {
+            "knowledge_base_id": kb_id,
+            "name": folder_name,
+            "parent_folder_id": parent_id,
+        }, client_id, api_key)
+        if resp.get("code") == 0:
+            return resp.get("data", {}).get("folder_id", "")
+    except Exception:
+        pass
+    return ""
 
 
 def upload_to_ima(
@@ -303,24 +355,31 @@ def upload_to_ima(
     confidence_filter: set[str] | None = None,
     folder_id: str = "",
     dry_run: bool = False,
+    delay: float = 0.15,
 ) -> dict:
-    """通过 IMA OpenAPI 上传 Markdown 文件到知识库。
+    """通过 IMA OpenAPI 以笔记方式上传到知识库。
 
-    三步流程：
-    1. create_media: 创建媒体，获取 COS 上传凭证
-    2. PUT to COS: 上传文件到腾讯云 COS
-    3. add_knowledge: 将媒体添加到知识库
+    两步流程（每篇笔记）：
+    1. notes/import_doc: 创建 Markdown 笔记（content_format=1）
+    2. wiki/add_knowledge: 将笔记关联到知识库（media_type=11）
+
+    按子类自动创建文件夹分类。
     """
-    # 验证凭证
     print("验证 IMA API 凭证...")
     try:
         kb_list = ima_api_request("get_addable_knowledge_base_list", {
             "cursor": "", "limit": 50
         }, client_id, api_key)
         if kb_list.get("code") != 0:
-            print(f"凭证验证失败: {kb_list}")
+            print(f"凭证验证失败: {kb_list.get('msg', kb_list)}")
             return {"success": 0, "failed": 0, "errors": [str(kb_list)]}
-        print(f"✓ API 连接成功，可访问 {len(kb_list.get('data', {}).get('list', []))} 个知识库")
+        kbs = kb_list.get("data", {}).get("addable_knowledge_base_list", [])
+        target_kb_name = ""
+        for kb in kbs:
+            if kb.get("id") == kb_id:
+                target_kb_name = kb.get("name", "")
+                break
+        print(f"✓ API 连接成功，目标知识库: {target_kb_name}")
     except Exception as e:
         print(f"✗ API 连接失败: {e}")
         return {"success": 0, "failed": 0, "errors": [str(e)]}
@@ -329,97 +388,111 @@ def upload_to_ima(
         print("\n[DRY RUN] 仅验证连接，实际上传跳过")
         return {"success": 0, "failed": 0, "errors": []}
 
-    # 上传文件
     md_files = sorted(kb_dir.glob("*.md"))
-    success = 0
-    failed = 0
-    errors = []
 
-    for i, md_path in enumerate(md_files, 1):
+    to_upload = []
+    for md_path in md_files:
         content = md_path.read_text(encoding="utf-8")
         meta = parse_markdown_meta(content)
-
         subcat = meta.get("subcategory", "unknown")
         confidence = meta.get("data_confidence", "simulated")
-        title = meta.get("title", md_path.stem)
-
         if subcat_filter and subcat not in subcat_filter:
             continue
         if confidence_filter and confidence not in confidence_filter:
             continue
-
         cleaned = clean_markdown_for_ima(content)
-        file_name = md_path.name
-        file_bytes = cleaned.encode("utf-8")
-        file_size = len(file_bytes)
+        title = extract_title_from_md(cleaned, meta.get("title", md_path.stem))
+        dir_name = SUBCAT_DIR_MAP.get(subcat, f"99_{subcat}")
+        to_upload.append((md_path.name, title, cleaned, dir_name))
 
-        print(f"[{i}/{len(md_files)}] 上传 {file_name} ({title}) ...", end=" ", flush=True)
+    total = len(to_upload)
+    print(f"待上传条目: {total}")
+    if total == 0:
+        return {"success": 0, "failed": 0, "errors": []}
+
+    folder_cache: dict[str, str] = {}
+
+    success = 0
+    failed = 0
+    errors = []
+    subcat_stats: dict[str, int] = defaultdict(int)
+    t0 = time.time()
+
+    for i, (file_name, title, cleaned, dir_name) in enumerate(to_upload, 1):
+        target_folder_id = folder_id
+        if not folder_id and dir_name not in folder_cache:
+            fid = create_ima_folder(client_id, api_key, kb_id, dir_name, "")
+            folder_cache[dir_name] = fid
+        if not folder_id:
+            target_folder_id = folder_cache.get(dir_name, "")
+
+        pct = i / total * 100
+        elapsed = time.time() - t0
+        rate = i / elapsed if elapsed > 0 else 0
+        eta = (total - i) / rate if rate > 0 else 0
+        print(f"[{i}/{total} {pct:.0f}% ETA:{eta:.0f}s] {title[:40]}...", end=" ", flush=True)
 
         try:
-            # Step 1: create_media
-            create_resp = ima_api_request("create_media", {
-                "file_name": file_name,
-                "file_size": file_size,
-                "knowledge_base_id": kb_id,
-            }, client_id, api_key)
+            r1 = ima_api_request("import_doc", {
+                "content_format": 1,
+                "content": cleaned,
+                "title": title,
+            }, client_id, api_key, base=IMA_NOTE_API_BASE)
 
-            if create_resp.get("code") != 0:
-                print(f"失败: create_media 返回 {create_resp.get('msg', 'unknown error')}")
+            if r1.get("code") != 0:
+                msg = r1.get("msg", "unknown")
+                print(f"失败(import_doc): {msg}")
                 failed += 1
-                errors.append(f"{file_name}: create_media failed - {create_resp}")
+                errors.append(f"{file_name}: import_doc - {msg}")
                 continue
 
-            media_data = create_resp.get("data", {})
-            cos_url = media_data.get("url", "")
-            media_id = media_data.get("media_id", "")
-            cos_headers = media_data.get("headers", {})
-
-            if not cos_url or not media_id:
-                print(f"失败: COS 凭证不完整")
+            note_id = r1.get("data", {}).get("note_id", "")
+            if not note_id:
+                print(f"失败: 未返回 note_id")
                 failed += 1
-                errors.append(f"{file_name}: incomplete COS credentials")
+                errors.append(f"{file_name}: no note_id returned")
                 continue
 
-            # Step 2: PUT to COS
-            cos_req = Request(cos_url, data=file_bytes, method="PUT")
-            for k, v in cos_headers.items():
-                cos_req.add_header(k, v)
-            cos_req.add_header("Content-Type", "text/markdown; charset=utf-8")
-            with urlopen(cos_req, timeout=60) as cos_resp:
-                if cos_resp.status not in (200, 204):
-                    print(f"失败: COS 上传返回 {cos_resp.status}")
-                    failed += 1
-                    errors.append(f"{file_name}: COS upload failed - {cos_resp.status}")
-                    continue
-
-            # Step 3: add_knowledge
-            add_resp = ima_api_request("add_knowledge", {
+            r2 = ima_api_request("add_knowledge", {
+                "media_type": 11,
+                "title": title,
                 "knowledge_base_id": kb_id,
-                "media_id": media_id,
-                "folder_id": folder_id,
+                "folder_id": target_folder_id,
+                "note_info": {
+                    "content_id": note_id,
+                },
             }, client_id, api_key)
 
-            if add_resp.get("code") != 0:
-                print(f"失败: add_knowledge 返回 {add_resp.get('msg', 'unknown error')}")
+            if r2.get("code") != 0:
+                msg = r2.get("msg", "unknown")
+                print(f"失败(add_knowledge): {msg}")
                 failed += 1
-                errors.append(f"{file_name}: add_knowledge failed - {add_resp}")
+                errors.append(f"{file_name}: add_knowledge - {msg}")
                 continue
 
             print("✓")
             success += 1
+            subcat_stats[dir_name] += 1
 
         except Exception as e:
             print(f"失败: {e}")
             failed += 1
             errors.append(f"{file_name}: {e}")
 
+        if delay > 0 and i < total:
+            time.sleep(delay)
+
     print(f"\n{'='*60}")
-    print(f"IMA API 上传完成")
+    print(f"IMA API 上传完成（笔记方式）")
     print(f"{'='*60}")
     print(f"成功: {success}")
     print(f"失败: {failed}")
+    print(f"耗时: {time.time()-t0:.1f}s")
+    print(f"文件夹分布:")
+    for d, c in sorted(subcat_stats.items(), key=lambda x: -x[1]):
+        print(f"  {d}: {c} 条")
     if errors:
-        print(f"错误详情:")
+        print(f"\n错误详情 (前20条):")
         for err in errors[:20]:
             print(f"  - {err}")
 
@@ -436,6 +509,7 @@ def main():
     parser.add_argument("--kb-dir", type=str, default=str(KB_DIR), help="知识库 Markdown 目录")
     parser.add_argument("--output-dir", type=str, default=str(OUTPUT_DIR), help="输出目录")
     parser.add_argument("--zip-name", type=str, default="hermes_kb_for_ima.zip", help="ZIP 文件名")
+    parser.add_argument("--delay", type=float, default=0.1, help="API 请求间隔秒数（默认0.1）")
     args = parser.parse_args()
 
     kb_dir = Path(args.kb_dir)
@@ -479,6 +553,7 @@ def main():
             subcat_filter=subcat_filter,
             confidence_filter=confidence_filter,
             dry_run=args.dry_run,
+            delay=args.delay,
         )
 
 
