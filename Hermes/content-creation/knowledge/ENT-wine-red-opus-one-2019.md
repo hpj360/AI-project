@@ -7,8 +7,6 @@ tags: [葡萄酒, 红葡萄酒, 美国, 纳帕谷, 作品一号, 赤霞珠]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-opus-one, ENT-wine-real-silver-oak, ENT-wine-red-harlan-estate-2018, ENT-wine-red-caymus-2021, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-real-opus-one: same_region, ENT-wine-real-silver-oak: same_region, ENT-wine-red-harlan-estate-2018: same_region, ENT-wine-red-caymus-2021: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / wine-searcher.com
 version: 1

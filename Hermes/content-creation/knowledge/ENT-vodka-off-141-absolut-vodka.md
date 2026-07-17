@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, vodka, 伏特加, Absolut]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-vodka-off-160-absolut, ENT-vodka-absolut, ENT-vodka-absolut-original, ENT-brand-belvedere, ENT-brand-stolichnaya]
-related_typed: {ENT-vodka-off-160-absolut: same_brand, ENT-vodka-absolut: same_brand, ENT-vodka-absolut-original: same_brand, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

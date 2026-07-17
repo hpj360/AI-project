@@ -7,8 +7,6 @@ tags: [白酒, 百度百科, 浓香型, 江苏, 双沟大曲]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baijiu-shuanggou-daqu, ENT-baike-baijiu-ext-jinshiyuan, ENT-baijiu-yanghe-mengzhilan-m9, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
-related_typed: {ENT-baijiu-shuanggou-daqu: same_brand, ENT-baike-baijiu-ext-jinshiyuan: same_region, ENT-baijiu-yanghe-mengzhilan-m9: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/双沟大曲

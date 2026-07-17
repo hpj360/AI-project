@@ -7,8 +7,6 @@ tags: [威士忌, 日本, 调和麦芽]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-yoichi-10, ENT-whisky-yoichi-15, ENT-whisky-taketsuru-21, ENT-brand-hibiki-harmony, ENT-whisky-hibiki-21]
-related_typed: {ENT-whisky-yoichi-10: same_brand, ENT-whisky-yoichi-15: same_brand, ENT-whisky-taketsuru-21: same_brand, ENT-brand-hibiki-harmony: same_region, ENT-whisky-hibiki-21: same_region}
 data_confidence: simulated
 version: 1
 ---

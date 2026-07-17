@@ -7,8 +7,6 @@ tags: [红酒, 法国, 勃艮第, 香波-慕西尼, 特级园, 黑皮诺]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-chambertin, ENT-wine-real-musigny-comte-vogues, ENT-baike-wine-zhangyu-jiebaina]
-related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-chambertin: same_brand, ENT-wine-real-musigny-comte-vogues: same_region, ENT-baike-wine-zhangyu-jiebaina: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

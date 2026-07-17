@@ -7,8 +7,6 @@ tags: [酿造工艺, 蒸馏, 壶式蒸馏, 威士忌, 干邑]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [PROC-fermentation-basics, PROC-fermentation-wild-vs-commercial, PROC-distillation-column-still, PROC-aging-oak-types, PROC-aging-oxidation]
-related_typed: {PROC-fermentation-basics: same_subcat, PROC-fermentation-wild-vs-commercial: same_subcat, PROC-distillation-column-still: same_subcat, PROC-aging-oak-types: same_subcat, PROC-aging-oxidation: same_subcat}
 data_confidence: official
 data_source: WSET/IBC
 version: 1
@@ -22,26 +20,104 @@ version: 1
 
 传统批次蒸馏工艺，壶式蒸馏器是麦芽威士忌与干邑的灵魂，二次蒸馏造就纯净烈酒。
 
-## 图片参考
+## 壶式蒸馏器结构
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Pot%20Still%20Distillation%20process%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Pot%20Still%20Distillation%20process)
-- [Google 图片](https://www.google.com/search?q=Pot%20Still%20Distillation%20process%20bottle&tbm=isch)
+### 主要部件
+1. **壶身 Pot**：铜制圆形容器
+2. **天鹅颈 Swan Neck**：上升管
+3. **林恩臂 Lyne Arm**：水平或下倾管道
+4. **冷凝器 Condenser**：盘管或管壳式
+5. **加热方式**：直火或蒸汽盘管
 
-## 基础信息
+### 铜的作用
+- 催化去除硫化物（H2S、硫醇）
+- 影响风味纯净度
+- 铜磨损需定期更换
+- 不同部位铜作用差异
 
-- **中文名**：壶式蒸馏原理
-- **外文名**：Pot Still Distillation
-- **分类**：酿造工艺
-- **产地**：
+## 蒸馏原理
 
-## 合规信息
+### 物理基础
+- 不同物质沸点不同
+- 酒精沸点78.3°C，水100°C
+- 加热后酒精优先汽化
+- 蒸汽冷凝回液体，浓度提高
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 一次蒸馏
+- 酒液（wash，8-10% ABV）
+- 加热至沸腾
+- 蒸汽冷凝为"低酒"low wines
+- 浓度约20-25% ABV
+
+### 二次蒸馏
+- 低酒再入壶
+- 分三段收集：
+
+| 馏分 | 占比 | 浓度 | 处理 |
+|------|------|------|------|
+| 前馏 Heads | 1-3% | 70-80% | 弃去或回蒸 |
+| 心馏 Heart | 70-80% | 60-70% | 收集 |
+| 尾馏 Tails | 10-20% | <60% | 回蒸下一批 |
+
+## 关键工艺参数
+
+### 加热方式
+- 直火：直接加热壶底
+  - 风味更厚重
+  - 易焦糊
+  - 现代少用
+- 蒸汽盘管：间接加热
+  - 温度均匀
+  - 主流方式
+
+### 切割点（Cut Points）
+- 决定风格关键
+- 前馏/心馏切割：去除甲醇、醛类
+- 心馏/尾馏切割：去除杂醇、重质物质
+- 酿酒师经验决定
+
+### 蒸馏速度
+- 慢蒸：更多铜接触，更纯净
+- 快蒸：保留更多风味物质
+
+## 林恩臂角度
+- **上扬**：轻质风格，回流少
+- **水平**：平衡
+- **下倾**：重质风格，回流多
+
+## 应用领域
+
+### 麦芽威士忌
+- 苏格兰单一麦芽标配
+- 必须壶式蒸馏二次
+- 铜壶传统形象
+
+### 干邑 Cognac
+- 白玉霓葡萄为原料
+- 二次壶式蒸馏
+- Charentais铜壶
+
+### 其他
+- 爱尔兰纯壶式威士忌
+- 某些朗姆酒
+- 某些金酒
+- 传统白兰地
+
+## 优势与劣势
+
+### 优势
+- 风味丰富、有个性
+- 反映原料与工艺
+- 小批量生产灵活
+
+### 劣势
+- 批次间差异
+- 效率低
+- 能耗高
+- 设备投资大
+- 产能有限
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/IBC
 - 数据置信度：official

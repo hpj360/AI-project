@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, whisky, 威士忌, Johnnie walker]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-265-black-label, ENT-whisky-off-270-red-label, ENT-brand-glenlivet-12, ENT-brand-lagavulin-16]
-related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-off-270-red-label: same_brand, ENT-brand-glenlivet-12: cross_region, ENT-brand-lagavulin-16: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

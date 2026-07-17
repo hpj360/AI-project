@@ -7,8 +7,6 @@ tags: [红酒, 法国, 波尔多, 圣埃美隆, 一级B等]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-cheval-blanc, ENT-wine-real-ausone, ENT-wine-real-angelus, ENT-wine-real-cheval-blanc-2015, ENT-wine-real-ausone-2015]
-related_typed: {ENT-wine-real-cheval-blanc: same_region, ENT-wine-real-ausone: same_region, ENT-wine-real-angelus: same_region, ENT-wine-real-cheval-blanc-2015: same_region, ENT-wine-real-ausone-2015: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

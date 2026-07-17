@@ -7,8 +7,6 @@ tags: [蜂蜜酒, 美国, 蓝莓, 水果]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-mead-strawberry, ENT-mead-peach, ENT-mead-cinnamon, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
-related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-cinnamon: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 梅斯卡尔, 查特酒, 马拉斯加, 青柠]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-newark, ENT-cocktail-coconut-miso-sour, ENT-cocktail-amazake-highball, ENT-cocktail-last-word, ENT-cocktail-bull-shot]
-related_typed: {ENT-cocktail-newark: same_brand, ENT-cocktail-coconut-miso-sour: same_brand, ENT-cocktail-amazake-highball: same_brand, ENT-cocktail-last-word: same_region, ENT-cocktail-bull-shot: same_region}
 data_confidence: verified
 data_source: Tales of the Cocktail Spirited Awards / Contemporary Classics
 version: 1

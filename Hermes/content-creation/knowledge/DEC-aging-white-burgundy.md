@@ -7,8 +7,6 @@ tags: [陈年潜力, 勃艮第, 霞多丽]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-aging-red-bordeaux, DEC-aging-red-burgundy, DEC-aging-barolo, DEC-aging-champagne, DEC-aging-port]
-related_typed: {DEC-aging-red-bordeaux: same_subcat, DEC-aging-red-burgundy: same_subcat, DEC-aging-barolo: same_subcat, DEC-aging-champagne: same_subcat, DEC-aging-port: same_subcat}
 data_confidence: official
 data_source: WSET/BIVB
 version: 1
@@ -22,26 +20,159 @@ version: 1
 
 顶级勃艮第霞多丽是世界最伟大的陈年白葡萄酒，特级园可陈15-30年，发展出蜂蜜坚果复杂香气。
 
-## 图片参考
+## 陈年潜力要素
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Burgundy%20White%20Wine%20Aging%20aging%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Burgundy%20White%20Wine%20Aging%20aging)
-- [Google 图片](https://www.google.com/search?q=Burgundy%20White%20Wine%20Aging%20aging%20bottle&tbm=isch)
+### 1. 高酸度
+- 大陆性气候保留高酸
+- 霞多丽自然酸度好
+- 防腐与陈年基础
 
-## 基础信息
+### 2. 风土结构
+- 石灰岩土壤贡献矿物感
+- 不同特级园陈年差异大
+- 海拔与朝向影响
 
-- **中文名**：勃艮第白酒陈年
-- **外文名**：Burgundy White Wine Aging
-- **分类**：陈年潜力
-- **产地**：
+### 3. 酿造工艺
+- **野生酵母**部分酒庄
+- **橡木桶发酵与陈年**
+- **酒泥陈年**（Bâtonnage）
+- **MLF**（多数）
 
-## 合规信息
+### 4. 平衡酒精度
+- 12.5-13.5%理想
+- 过高易显酒精感
+- 与酸度平衡关键
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+## 等级与陈年潜力
+
+| 等级 | 陈年潜力 | 适饮窗口 |
+|------|----------|----------|
+| 特级园 Grand Cru | 15-30年 | 8-25年 |
+| 一级园 Premier Cru | 8-20年 | 5-15年 |
+| 村庄级 Village | 4-10年 | 2-7年 |
+| 大区级 Régional | 2-4年 | 1-3年 |
+
+## 著名特级园陈年
+
+### 伯恩丘顶级白
+- **Montrachet**：20-30年+，传奇
+- **Chevalier-Montrachet**：15-25年，优雅
+- **Bâtard-Montrachet**：15-25年，丰腴
+- **Criots-Bâtard-Montrachet**：12-20年
+- **Bienvenues-Bâtard-Montrachet**：15-20年
+
+### 夜丘白
+- **Musigny Blanc**：15-25年，稀有
+- **Corton-Charlemagne**：12-25年
+
+### 夏布利特级园
+- **Les Clos**：15-25年，矿物极强
+- **Vaudésir、Valmur、Blanchot**：10-20年
+
+## 陈年风味演变
+
+### 颜色变化
+- 年轻：浅金黄
+- 5年：金黄
+- 10年：深金黄
+- 20年：琥珀色调
+
+### 香气演变
+
+#### 年轻（一类）
+- 柠檬、青苹果
+- 白桃、梨
+- 白花
+- 矿物（火石、白垩）
+
+#### 橡木影响（早期）
+- 香草、烤面包
+- 黄油、奶油（MLF）
+- 椰子（美国橡木）
+
+#### 陈年发展
+- **蜂蜜**
+- **坚果**（杏仁、榛子、核桃）
+- **干果**（杏干、无花果）
+- **蜂蜡**
+- **姜饼、香料**
+- **白松露**（深度陈年）
+
+#### 深度陈年
+- **糖渍水果**
+- **焦糖**
+- **咖喱**（部分）
+- **蘑菇**
+
+### 口感
+- 酒体更厚重
+- 矿物感增强
+- 油脂感发展
+- 余味悠长
+
+## 适饮窗口
+
+### 装瓶后阶段
+1. **封闭期**：6个月-2年
+2. **开放期**：3-8年
+3. **巅峰期**：特级园8-20年
+4. **衰退期**：取决于储存与质量
+
+### 关键年份
+- **2014、2017、2018、2019**
+- **2002、2005、2008、2010**
+- **1989、1990、1996**
+
+## 储存要求（更严苛）
+- **温度**：10-13°C恒定（比红酒更冷）
+- **湿度**：75-85%
+- **避光**：白葡萄酒对光更敏感
+- **平放**
+- **静置**
+- 储存不当易过早氧化
+
+## 过早氧化问题 Premox
+
+### 现象
+- 5-10年内出现氧化特征
+- 颜色过早变深
+- 失去果香，呈坚果、雪利化
+- 影响2000年代早期酒款
+
+### 原因
+- **降低SO2用量**
+- **软木塞质量**
+- **气候变暖**
+- **过早装瓶**
+- **MLF过度**
+
+### 影响
+- 顶级勃艮第白酒声誉受损
+- 投资风险增加
+- 酒庄调整工艺
+
+## 酿造风格影响陈年
+
+### 传统派
+- 重酒泥陈年
+- 重橡木桶
+- 高新桶比例
+- 陈年潜力强
+
+### 现代派
+- 减少橡木
+- 增加不锈钢罐
+- 早装瓶
+- 适饮期早
+
+## 适饮建议
+- 特级园：等待6-10年起步
+- 一级园：4-7年
+- 村庄级：2-4年
+- 大区级：1-2年
+- 醒酒：可适度（30分钟-1小时）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/BIVB
 - 数据置信度：official

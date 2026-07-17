@@ -7,8 +7,6 @@ tags: [鸡尾酒, 无酒精, Lyre's, 尼格罗尼, 现代]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail, ENT-cocktail-baijiu-sour]
-related_typed: {ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat, ENT-cocktail-baijiu-sour: same_subcat}
 data_confidence: simulated
 version: 1
 ---

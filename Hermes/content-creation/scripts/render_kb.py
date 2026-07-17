@@ -17,6 +17,7 @@ import importlib.util
 import sys
 import random
 import hashlib
+import re
 from pathlib import Path
 from datetime import datetime
 from collections import Counter
@@ -697,14 +698,46 @@ def render_entry(entry: dict, ratings: dict, awards: list) -> str:
             fm.append(f"  - {{{', '.join(parts)}}}")
     fm.append("---")
 
-    # SOP/DEC/ANTI 指导性知识特殊渲染：直接使用预写正文（subcategory=guide + content_body）
-    if entry.get("subcategory") == "guide" and entry.get("content_body"):
+    # 指导性知识特殊渲染：直接使用预写正文（多类内容型子分类 + content_body）
+    # 这些子类在数据源中已经写好完整内容，通用模板会把它们压缩成"一句话概述+表格"
+    # 检测规则：subcategory 属于"内容型"且有 content_body 字段
+    CONTENT_SUBCATS = (
+        "guide", "fake", "aging", "trend",      # 已知内容型
+        "buying", "scene", "pairing", "collect",  # 购买/场景/搭配/收藏指南
+        "law", "glassware", "process", "region",  # 法规/酒具/工艺/产区
+        "grape", "other_spirit",                 # 葡萄品种/其他烈酒
+        "sop_guide",                              # SOP 类
+    )
+    if entry.get("subcategory") in CONTENT_SUBCATS and entry.get("content_body"):
         body = [f"# {title}", ""]
         if title_en:
             body += [f"**{title_en}**", ""]
         if entry.get("summary"):
             body += ["## 概述", "", entry["summary"], ""]
         body.append(entry["content_body"])
+        body += ["", "## 参考资料", "",
+                 f"- 数据来源：{data_source or '行业最佳实践'}",
+                 f"- 数据置信度：{data_confidence}",
+                 ""]
+        return "\n".join(fm) + "\n\n" + "\n".join(body)
+
+    # TCDB 等鸡尾酒数据源：保留预渲染 content_body 中的"## 配方"等结构化内容
+    # 鸡尾酒有结构化 recipe 字段时不处理，否则用 content_body 补充
+    has_structured_recipe = entry.get("subcategory") == "cocktail" and entry.get("recipe")
+    if (entry.get("subcategory") == "cocktail"
+            and not has_structured_recipe
+            and entry.get("content_body")):
+        body = [f"# {title}", ""]
+        if title_en:
+            body += [f"**{title_en}**", ""]
+        body += ["## 概述", "", entry.get("summary", ""), ""]
+        # 清理 content_body：去除重复的"## 概述"和"## 数据来源"等
+        cb = entry["content_body"]
+        # 去除首个"## 概述"段（避免与上面的 summary 重复）
+        cb = re.sub(r"##\s*概述\s*\n.*?(?=\n##\s|\Z)", "", cb, count=1, flags=re.DOTALL)
+        # 去除"## 数据来源"段（统一用末尾的"参考资料"）
+        cb = re.sub(r"##\s*数据来源\s*\n.*?(?=\n##\s|\Z)", "", cb, flags=re.DOTALL)
+        body.append(cb.strip())
         body += ["", "## 参考资料", "",
                  f"- 数据来源：{data_source or '行业最佳实践'}",
                  f"- 数据置信度：{data_confidence}",

@@ -7,8 +7,6 @@ tags: [假酒鉴别, 拉菲, 葡萄酒, 红酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ANTI-fake-maotai, ANTI-fake-wuliangye, ANTI-fake-maotai-packaging, ANTI-fake-hongxing, ANTI-fake-fenjiu]
-related_typed: {ANTI-fake-maotai: same_subcat, ANTI-fake-wuliangye: same_subcat, ANTI-fake-maotai-packaging: same_subcat, ANTI-fake-hongxing: same_subcat, ANTI-fake-fenjiu: same_subcat}
 data_confidence: official
 data_source: Domaines Barons de Rothschild (Lafite) 官方指南
 version: 1
@@ -22,26 +20,58 @@ version: 1
 
 拉菲酒标印刷工艺、软木塞印记、瓶底凹槽及酒帽特征识别方法。
 
-## 图片参考
+## 酒标识别要点
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Lafite%20Label%20Identification%20Guide%20fake%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Lafite%20Label%20Identification%20Guide%20fake)
-- [Google 图片](https://www.google.com/search?q=Lafite%20Label%20Identification%20Guide%20fake%20bottle&tbm=isch)
+### 1. 酒标印刷工艺
 
-## 基础信息
+- **凹版印刷**：真品酒标采用凹版印刷，图案有凹凸触感
+- **金色油墨**：酒标上的金色部分为真金油墨，光泽柔和
+- **字体清晰**：Lafite Rothschild字样锐利，无毛边
+- **家族五箭标志**：罗斯柴尔德家族五箭标志清晰可辨
 
-- **中文名**：拉菲酒标识别
-- **外文名**：Lafite Label Identification
-- **分类**：假酒鉴别
-- **产地**：
+### 2. 软木塞印记
 
-## 合规信息
+- 软木塞顶部印有"Lafite Rothschild"字样
+- 侧面印有年份与酒庄标识
+- 印记清晰深锐，无模糊感
+- 软木塞材质致密，无破损
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 瓶底凹槽
+
+- 拉菲瓶底凹槽较深
+- 瓶底刻有酒庄代号与年份编码
+- 玻璃通透，无气泡瑕疵
+- 瓶身重量适中，手感扎实
+
+### 4. 酒帽特征
+
+- 酒帽材质为铅锡合金或热缩膜
+- 酒帽顶部印有酒庄标志
+- 侧面有年份与产区信息
+- 开孔处整齐规整
+
+### 5. 背标信息
+
+- 背标含进口商信息、酒精度、净含量
+- 中文背标为国内进口强制要求
+- 条形码与产品信息一致
+- 背标印刷清晰，无错别字
+
+### 常见造假特征
+
+1. 酒标色彩过艳或过暗
+2. 金色部分为普通印刷，无金属光泽
+3. 软木塞印记模糊或缺失
+4. 瓶底编码与年份不符
+5. 背标信息不完整或有拼写错误
+
+### 鉴别建议
+
+- 拉菲正牌酒年产量有限，价格异常低必有蹊跷
+- 通过波尔多酒商或官方授权渠道购买
+- 保留购买凭证与酒标照片以便追溯
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Domaines Barons de Rothschild (Lafite) 官方指南
 - 数据置信度：official

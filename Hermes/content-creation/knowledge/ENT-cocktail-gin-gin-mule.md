@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 金酒, 姜, 薄荷]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-earl-grey-marteani, ENT-cocktail-pegu-club-cocktail, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler]
-related_typed: {ENT-cocktail-earl-grey-marteani: same_brand, ENT-cocktail-pegu-club-cocktail: same_brand, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region}
 data_confidence: simulated
 data_source: Pegu Club 配方
 version: 1

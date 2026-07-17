@@ -7,8 +7,6 @@ tags: [酒具器皿, 酒杯, 波尔多, 红酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-glassware-red-burgundy, SOP-glassware-white, SOP-glassware-sparkling, SOP-glassware-spirits, SOP-glassware-sake]
-related_typed: {SOP-glassware-red-burgundy: same_subcat, SOP-glassware-white: same_subcat, SOP-glassware-sparkling: same_subcat, SOP-glassware-spirits: same_subcat, SOP-glassware-sake: same_subcat}
 data_confidence: official
 data_source: RIEDEL官方杯型指南/WSET标准
 version: 1
@@ -22,26 +20,39 @@ version: 1
 
 波尔多杯的设计原理、适用品种及正确使用方法。
 
-## 图片参考
+## 杯型设计
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bordeaux%20Glass%20Selection%20glassware%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Bordeaux%20Glass%20Selection%20glassware)
-- [Google 图片](https://www.google.com/search?q=Bordeaux%20Glass%20Selection%20glassware%20bottle&tbm=isch)
+### 设计原理
 
-## 基础信息
+- **高杯身**：25-30cm，让酒液有足够空间舒展
+- **宽腹收口**：杯腹宽大增加氧化面积，收口聚拢香气
+- **大容量**：600-750ml，倒酒不超过1/3
+- **杯肚比例**：略高于宽，适合单宁重的酒款
 
-- **中文名**：波尔多杯
-- **外文名**：Bordeaux Glass
-- **分类**：酒具器皿
-- **产地**：
+### 适用品种
 
-## 合规信息
+- 赤霞珠（Cabernet Sauvignon）
+- 美乐（Merlot）
+- 西拉（Syrah/Shiraz）
+- 波尔多混酿
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 使用方法
+
+1. **持杯**：握杯柄或杯底，避免手温影响酒温
+2. **倒酒**：倒入杯腹最宽处，约1/3容量
+3. **摇杯**：顺时针轻摇，释放香气
+4. **品鉴**：先闻香，再小口品尝
+
+### 品牌推荐
+
+| 品牌 | 系列 | 价格区间（RMB） |
+|------|------|----------------|
+| RIEDEL | Veritas | 200-400/支 |
+| RIEDEL | Sommeliers | 500-1000/支 |
+| Spiegelau | Vino Grande | 100-200/支 |
+| Schott Zwiesel | Pure | 80-150/支 |
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：RIEDEL官方杯型指南/WSET标准
 - 数据置信度：official

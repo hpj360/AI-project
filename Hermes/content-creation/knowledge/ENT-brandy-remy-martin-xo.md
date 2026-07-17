@@ -7,8 +7,6 @@ tags: [白兰地, 干邑, 法国, 人头马]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-club, ENT-brandy-louis-xiii, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
-related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-club: same_brand, ENT-brandy-louis-xiii: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
 data_confidence: simulated
 version: 1
 ---

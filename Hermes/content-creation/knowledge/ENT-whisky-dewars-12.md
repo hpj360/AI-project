@@ -7,8 +7,6 @@ tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-dewars-18, ENT-whisky-swa-single-malt, ENT-whisky-swa-blended, ENT-whisky-swa-single-grain, ENT-whisky-swa-blended-grain]
-related_typed: {ENT-whisky-dewars-18: same_brand, ENT-whisky-swa-single-malt: same_region, ENT-whisky-swa-blended: same_region, ENT-whisky-swa-single-grain: same_region, ENT-whisky-swa-blended-grain: same_region}
 data_confidence: simulated
 version: 1
 ---

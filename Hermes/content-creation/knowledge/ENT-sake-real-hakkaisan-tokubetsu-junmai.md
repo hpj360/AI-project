@@ -7,8 +7,6 @@ tags: [清酒, 特别纯米, 日本, 八海山]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-sake-juyondai, ENT-baike-sake-hakutsuru, ENT-sake-real-dassai-23, ENT-sake-real-kubota-senjuu, ENT-sake-real-juyondai]
-related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-baike-sake-hakutsuru: cross_region, ENT-sake-real-dassai-23: cross_region, ENT-sake-real-kubota-senjuu: cross_region, ENT-sake-real-juyondai: same_subcat}
 data_confidence: verified
 data_source: 品牌官方/Wikipedia
 version: 1

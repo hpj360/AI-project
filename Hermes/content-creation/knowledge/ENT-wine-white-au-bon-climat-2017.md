@@ -7,8 +7,6 @@ tags: [白酒, 新世界, 霞多丽, 加州]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine_white-off-032-blanc, ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-035-vin-blanc-classic, ENT-wine_white-off-036-vin-d-espagne-blanc]
-related_typed: {ENT-wine_white-off-032-blanc: same_subcat, ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-035-vin-blanc-classic: same_subcat, ENT-wine_white-off-036-vin-d-espagne-blanc: same_subcat}
 data_confidence: simulated
 version: 1
 ---

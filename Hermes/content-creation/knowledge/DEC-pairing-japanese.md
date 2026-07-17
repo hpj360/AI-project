@@ -7,8 +7,6 @@ tags: [日料, 刺身, 寿司, 天妇罗, 烧鸟, 清酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing
 version: 1
@@ -22,26 +20,54 @@ version: 1
 
 按日料类型（刺身/寿司/天妇罗/烧鸟）搭配清酒、干白与气泡酒。
 
-## 图片参考
+## 日料配酒分类指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Japanese%20Cuisine%20and%20Wine%20Pairing%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Japanese%20Cuisine%20and%20Wine%20Pairing%20pairing)
-- [Google 图片](https://www.google.com/search?q=Japanese%20Cuisine%20and%20Wine%20Pairing%20pairing%20bottle&tbm=isch)
+### 1. 刺身
 
-## 基础信息
+| 鱼种 | 推荐酒款 | 备注 |
+|------|----------|------|
+| 金枪鱼大腹 | 纯米大吟酿、黑皮诺 | 脂肪丰富 |
+| 三文鱼 | 吟酿、霞多丽（未过桶） | 酒体中等 |
+| 鲷鱼 | 灰皮诺、长相思 | 清淡干白 |
+| 鰤鱼 | 纯米酒、过桶霞多丽 | 醇厚搭配 |
 
-- **中文名**：日料配酒指南
-- **外文名**：Japanese Food Wine Pairing
-- **分类**：餐酒搭配
-- **产地**：
+### 2. 寿司
 
-## 合规信息
+- 醋饭的酸度需匹配高酸度酒
+- 江户前寿司：纯米酒、吟酿清酒
+- 卷物：干型起泡、Cava
+- 炙烤寿司：黑皮诺、Pinotage
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 天妇罗
+
+- 海老天妇罗：干型雪利 Fino、香槟
+- 蔬菜天妇罗：灰皮诺、长相思
+- 穴子天妇罗：纯米酒、霞多丽
+- 关键：气泡感切割油炸
+
+### 4. 烧鸟（ yakitori ）
+
+| 部位 | 推荐酒款 | 备注 |
+|------|----------|------|
+| 葱香鸡腿 | 纯米酒、黑皮诺 | 经典搭配 |
+| 盐烤鸡皮 | 香槟、Cava | 解腻 |
+| 鸡胗/鸡心 | 西拉、马尔贝克 | 浓味配 |
+| 酱烤鸡肉丸 | 半干白诗南、桃红 | 甜咸平衡 |
+
+### 5. 其他日料
+
+- 拉面：啤酒、冰镇干型起泡
+- 寿喜烧：纯米酒、黑皮诺
+- 大阪烧：啤酒、桃红起泡
+- 怀石料理：纯米大吟酿（全程搭配）
+
+### 配酒原则
+
+- 清酒是日料首选，遵循"同风土"原则
+- 西式酒款选高酸干白，避开重单宁
+- 酱油味重时可选略甜的酒平衡
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Food & Wine Pairing
 - 数据置信度：official

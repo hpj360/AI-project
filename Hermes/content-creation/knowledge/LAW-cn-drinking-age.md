@@ -7,8 +7,6 @@ tags: [法律法规, 饮酒年龄, 未成年人保护, 中国]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: 中华人民共和国未成年人保护法
 version: 1
@@ -22,26 +20,35 @@ version: 1
 
 依据《未成年人保护法》（2020修订）第58条，禁止向未成年人销售酒类，经营者需设置不向未成年人售酒标志。
 
-## 图片参考
+## 法律依据
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=China%20Legal%20Drinking%20Age%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/China%20Legal%20Drinking%20Age%20law)
-- [Google 图片](https://www.google.com/search?q=China%20Legal%20Drinking%20Age%20law%20bottle&tbm=isch)
+### 《中华人民共和国未成年人保护法》（2020年修订）
 
-## 基础信息
+**第五十八条**：营业性歌舞娱乐场所、酒吧、互联网上网服务营业场所等不适宜未成年人活动场所的经营者，不得允许未成年人进入；经营者应当在显著位置设置未成年人禁入、限入标志。
 
-- **中文名**：中国未成年人禁酒规定
-- **外文名**：China Minor Alcohol Prohibition
-- **分类**：法律法规
-- **产地**：
+**禁止向未成年人销售烟、酒、彩票**。经营者应当在显著位置设置不向未成年人销售烟、酒或者彩票的标志；对难以判明是否是未成年人的，应当要求其出示身份证件。
 
-## 合规信息
+### 法律责任
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+- 向未成年人销售酒类的，由市场监督管理部门没收违法所得，并处**违法所得一倍以上十倍以下**罚款
+- 情节严重的，可吊销营业执照
+- 拒不改正的，可处以5万元以上50万元以下罚款
+
+### 相关法规
+
+| 法规名称 | 相关条款 | 要点 |
+|----------|----------|------|
+| 未成年人保护法 | 第58条 | 禁止向未成年人售酒 |
+| 酒类流通管理办法 | 第19条 | 售酒场所须设警示标志 |
+| 预包装饮料酒标签通则 | GB 7718 | 须标注"过量饮酒有害健康" |
+
+### 行业执行标准
+
+- **法定饮酒年龄**：中国法律未明确规定"饮酒年龄"，但禁止向未成年人（不满18周岁）销售酒类
+- **核验义务**：对难以判明年龄者，经营者应要求出示身份证件
+- **警示标语**：建议在销售场所显著位置张贴"不向未成年人售酒"标识
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：中华人民共和国未成年人保护法
 - 数据置信度：official

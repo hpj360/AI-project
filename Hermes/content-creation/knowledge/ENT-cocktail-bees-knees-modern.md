@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 金酒, 蜂蜜, 柠檬, 禁酒令]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
-related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
 data_confidence: simulated
 data_source: Harry's Bar 配方
 version: 1

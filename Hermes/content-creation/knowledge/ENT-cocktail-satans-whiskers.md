@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 金酒, 橙味力乔, 橙汁]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-hanky-panky-savoy, ENT-cocktail-corpse-reviver-no2, ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini]
-related_typed: {ENT-cocktail-hanky-panky-savoy: same_brand, ENT-cocktail-corpse-reviver-no2: same_brand, ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region}
 data_confidence: simulated
 data_source: Savoy 配方
 version: 1

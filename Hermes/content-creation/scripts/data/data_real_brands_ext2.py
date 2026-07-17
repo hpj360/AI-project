@@ -231,32 +231,6 @@ Manhattan 是美国经典鸡尾酒，属 IBA The Unforgettables 系列。
 - IBA Official / cocktailsandshots.com""",
     },
     {
-        "id": "ENT-cocktail-iba-whiskey-sour",
-        "category": "ENT",
-        "subcategory": "cocktail",
-        "title": "Whiskey Sour 威士忌酸",
-        "title_en": "Whiskey Sour",
-        "name_cn": "威士忌酸",
-        "name_en": "Whiskey Sour",
-        "tags": ["鸡尾酒", "cocktail", "IBA", "Unforgettables", "威士忌", "酸"],
-        "source": "IBA Official / cocktailsandshots.com",
-        "data_confidence": "verified",
-        "abv": "22%",
-        "country": "美国",
-        "summary": "Whiskey Sour 是 IBA The Unforgettables 系列鸡尾酒，威士忌 + 柠檬汁 + 糖 + 蛋清可选。",
-        "content_body": """## 概述
-
-Whiskey Sour 属 IBA The Unforgettables 系列，是经典酸酒代表。
-
-## IBA 官方配方
-
-- 威士忌、柠檬汁、糖浆（可选蛋清泡沫）
-
-## 数据源
-
-- IBA Official / cocktailsandshots.com""",
-    },
-    {
         "id": "ENT-cocktail-iba-americano",
         "category": "ENT",
         "subcategory": "cocktail",

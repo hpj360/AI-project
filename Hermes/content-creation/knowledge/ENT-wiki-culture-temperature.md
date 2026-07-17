@@ -7,8 +7,6 @@ tags: [侍酒, 温度, 科学, 酒类, 品鉴]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-champagne-service, SOP-wine-decanting, SOP-cocktail-shaking, SOP-cocktail-stirring, SOP-cocktail-muddling]
-related_typed: {SOP-champagne-service: same_subcat, SOP-wine-decanting: same_subcat, SOP-cocktail-shaking: same_subcat, SOP-cocktail-stirring: same_subcat, SOP-cocktail-muddling: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1

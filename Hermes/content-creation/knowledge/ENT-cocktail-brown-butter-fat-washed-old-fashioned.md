@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 脂肪洗油, 波本, 焦化黄油, 古典]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-newark, ENT-cocktail-mezcal-final-word, ENT-cocktail-coconut-miso-sour, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
-related_typed: {ENT-cocktail-newark: same_brand, ENT-cocktail-mezcal-final-word: same_brand, ENT-cocktail-coconut-miso-sour: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
 data_confidence: verified
 data_source: 2026 脂肪洗油技法 / 通用配方
 version: 1

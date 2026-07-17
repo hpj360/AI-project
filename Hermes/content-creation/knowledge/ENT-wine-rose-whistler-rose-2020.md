@@ -7,8 +7,6 @@ tags: [桃红, 澳洲, Barossa, Whistler]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-rose-charles-melton-rose-virginia-2019, ENT-wine-rose-whispering-angel-2024, ENT-wine-rose-domaine-tempier-bandol-2025, ENT-wine-rose-miraval-2020, ENT-wine-rose-minuty-m-2025]
-related_typed: {ENT-wine-rose-charles-melton-rose-virginia-2019: same_region, ENT-wine-rose-whispering-angel-2024: cross_region, ENT-wine-rose-domaine-tempier-bandol-2025: cross_region, ENT-wine-rose-miraval-2020: cross_region, ENT-wine-rose-minuty-m-2025: same_subcat}
 data_confidence: simulated
 version: 1
 ---

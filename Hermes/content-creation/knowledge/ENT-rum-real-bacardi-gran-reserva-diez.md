@@ -7,8 +7,6 @@ tags: [朗姆酒, 百加得, 古巴/波多黎各, 陈年, Double Gold]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rum-off-181-bacardi-razz, ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-rum-real-bacardi-gold, ENT-rum-off-165-rhum-ambr]
-related_typed: {ENT-rum-off-181-bacardi-razz: same_brand, ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-rum-real-bacardi-gold: same_region, ENT-rum-off-165-rhum-ambr: same_subcat}
 data_confidence: verified
 data_source: SFWSC 2026 / Master of Malt
 version: 1

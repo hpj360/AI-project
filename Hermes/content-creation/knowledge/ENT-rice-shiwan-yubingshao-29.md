@@ -7,8 +7,6 @@ tags: [米酒, rice_wine, 中国, 广东, 石湾, 玉冰烧, 豉香型, 29度]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rice-jiujiang-shuangzheng-29-5, ENT-rice-hongli-40, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-guangdong-lao-mijiu, ENT-baike-rice_wine-kejia-niangjiu]
-related_typed: {ENT-rice-jiujiang-shuangzheng-29-5: same_region, ENT-rice-hongli-40: same_region, ENT-rice-wine-guangdong-mijiu: same_region, ENT-rice-wine-guangdong-lao-mijiu: same_region, ENT-baike-rice_wine-kejia-niangjiu: same_subcat}
 data_confidence: verified
 data_source: 京东
 version: 1

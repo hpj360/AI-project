@@ -7,8 +7,6 @@ tags: [法规, 国家标准, 白酒, 董香型, 2026, GB/T 10781.12]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-baijiu-tax-2026-consumption]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-baijiu-tax-2026-consumption: same_subcat}
 data_confidence: official
 data_source: 国家市场监督管理总局/全国白酒标准化技术委员会
 version: 1
@@ -22,26 +20,78 @@ version: 1
 
 董香型白酒国标，规定董香型白酒的原料、工艺、感官特征和理化指标，附录含香气特征剖面图。
 
-## 图片参考
+## 标准信息
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=GB/T%2010781.12-2026%20Dongxiangxing%20Baijiu%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/GB/T%2010781.12-2026%20Dongxiangxing%20Baijiu%20law)
-- [Google 图片](https://www.google.com/search?q=GB/T%2010781.12-2026%20Dongxiangxing%20Baijiu%20law%20bottle&tbm=isch)
+| 项目 | 内容 |
+|------|------|
+| 标准号 | GB/T 10781.12-2026 |
+| 标准名称 | 白酒质量要求 第12部分：董香型白酒 |
+| 英文名称 | Quality requirements for baijiu — Part 12: Dongxiangxing baijiu |
+| 标准类型 | 推荐性国家标准（GB/T） |
+| ICS号 | 67.160.10 |
+| 中标分类号 | X61 |
 
-## 基础信息
+## GB/T 10781 体系全貌
 
-- **中文名**：GB/T 10781.12-2026 董香型白酒新国标
-- **外文名**：GB/T 10781.12-2026 Dongxiangxing Baijiu
-- **分类**：法律法规
-- **产地**：
+GB/T 10781《白酒质量要求》旨在规范包括十二大香型在内的固态法白酒、液态法白酒以及固液法白酒等3种不同工艺类型：
 
-## 合规信息
+| 部分 | 香型 |
+|------|------|
+| 第1部分 | 浓香型白酒 |
+| 第2部分 | 清香型白酒 |
+| 第3部分 | 米香型白酒 |
+| 第4部分 | 酱香型白酒 |
+| 第5部分 | 豉香型白酒 |
+| 第6部分 | 凤香型白酒 |
+| 第7部分 | 特香型白酒 |
+| 第8部分 | 浓酱兼香型白酒 |
+| 第9部分 | 芝麻香型白酒 |
+| 第10部分 | 老白干香型白酒 |
+| 第11部分 | 馥郁香型白酒 |
+| 第12部分 | 董香型白酒 |
+| 第13部分 | 液态法白酒 |
+| 第14部分 | 固液法白酒 |
+| 第15部分 | 小曲固态法白酒 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+## 董香型核心特征
+
+### 1. 工艺特点
+
+- **百草入曲**：制曲时加入130余种中草药
+- **双醅串蒸**：香醅与酒醅串蒸
+- **双曲并用**：大曲+小曲
+
+### 2. 感官特征
+
+- **香气**：药香舒适、醇香典雅
+- **口感**：醇和甘爽、微带药香
+- **回味**：悠长
+
+### 3. 理化指标
+
+- 酯类和有机酸是重要呈香呈味物质
+- 遵循酸酯转化规律：一年内与一年后产品提出不同理化指标要求
+
+## 附录内容
+
+- **附录A**：主要生产工艺流程和工艺要点
+- **附录B**：香气特征剖面示意图（参考GB/T 39625-2020感官剖面建立原则）
+
+## 起草单位
+
+贵州董酒股份有限公司、中国食品发酵工业研究院有限公司、贵州省产品质量检验检测院、中国酒业协会、江南大学等。
+
+## 代表品牌
+
+- **董酒**：贵州董酒股份有限公司（唯一代表品牌）
+
+## 数据来源
+
+- **来源**：国家市场监督管理总局、全国白酒标准化技术委员会
+- **归口单位**：全国白酒标准化技术委员会（SAC/TC 358）
+
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：国家市场监督管理总局/全国白酒标准化技术委员会
 - 数据置信度：official

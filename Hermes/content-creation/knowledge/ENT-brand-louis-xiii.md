@@ -7,8 +7,6 @@ tags: [白兰地, 干邑, 法国, 路易十三, 收藏级]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brandy-remy-martin-vsop, ENT-brandy-remy-martin-xo, ENT-brandy-remy-martin-club, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis]
-related_typed: {ENT-brandy-remy-martin-vsop: same_brand, ENT-brandy-remy-martin-xo: same_brand, ENT-brandy-remy-martin-club: same_brand, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

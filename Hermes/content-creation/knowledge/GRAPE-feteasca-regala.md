@@ -7,8 +7,6 @@ tags: [葡萄品种, 白品种, 贵人香, 罗马尼亚, 东欧]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [GRAPE-cabernet-sauvignon, GRAPE-merlot, GRAPE-pinot-noir, GRAPE-syrah, GRAPE-grenache]
-related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat}
 data_confidence: official
 data_source: Wine Grapes (Jancis Robinson)/WSET
 version: 1
@@ -22,26 +20,55 @@ version: 1
 
 东欧特色白葡萄品种，罗马尼亚广泛种植，以花香果香和清新酸度著称。
 
-## 图片参考
+## 品种概况
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Feteasc%C4%83%20Regal%C4%83%20grape%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Feteasc%C4%83%20Regal%C4%83%20grape)
-- [Google 图片](https://www.google.com/search?q=Feteasc%C4%83%20Regal%C4%83%20grape%20bottle&tbm=isch)
+### 基本信息
 
-## 基础信息
+- **原产地**：罗马尼亚（特兰西瓦尼亚地区，1930年代自然杂交）
+- **亲本**：Fetească Albă × Grasă de Cotnari（推测）
+- **果串**：中等大小，圆柱形，紧凑
+- **果粒**：中等，皮薄，黄绿色
+- **成熟期**：中熟
 
-- **中文名**：贵人香
-- **外文名**：Fetească Regală
-- **分类**：葡萄品种
-- **产地**：
+### 风味特征
 
-## 合规信息
+#### 罗马尼亚（典型风格）
+- **香气**：青苹果、柑橘、白花、蜂蜜、杏子
+- **酸度**：中高
+- **酒体**：中等
+- **风格**：清新优雅
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 摩尔多瓦/匈牙利
+- **香气**：白桃、梨、茉莉、矿物
+- **酸度**：中等
+- **酒体**：中等
+- **风格**：平衡
+
+### 主要产区
+
+| 产区 | 风格特征 | 代表酒庄 |
+|------|----------|----------|
+| 罗马尼亚特兰西瓦尼亚 | 原产地，清新风格 | Jidvei、Davino、Budureasca |
+| 罗马尼亚蒙特尼亚 | 平衡丰富 | SERVE、Halewood |
+| 罗马尼亚摩尔达维亚 | 传统风格 | Cotnari、Craiului |
+| 摩尔多瓦 | 邻国种植 | Château Vartely、Cricova |
+| 匈牙利/保加利亚 | 少量种植 | 各酒庄 |
+
+### 混酿搭配
+
+- 通常为单品种酿造
+- 可与其他白品种混酿
+- 起泡酒原料（传统法）
+- 偶尔用于甜型晚收
+
+### 陈年潜力
+
+- 顶级干白：3-5年
+- 普通餐酒：1-2年（建议早饮）
+- 甜型晚收：5-8年
+- 强调新鲜风格，不宜久存
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Grapes (Jancis Robinson)/WSET
 - 数据置信度：official

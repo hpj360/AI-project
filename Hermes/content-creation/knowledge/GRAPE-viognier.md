@@ -7,8 +7,6 @@ tags: [葡萄品种, 白品种, 维欧尼, 北罗纳, Condrieu]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [GRAPE-cabernet-sauvignon, GRAPE-merlot, GRAPE-pinot-noir, GRAPE-syrah, GRAPE-grenache]
-related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat}
 data_confidence: official
 data_source: Wine Grapes (Jancis Robinson)/WSET
 version: 1
@@ -22,26 +20,54 @@ version: 1
 
 北罗纳河谷的芳香白葡萄品种，以杏子花香和低酸著称，Condrieu的旗舰品种。
 
-## 图片参考
+## 品种概况
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Viognier%20grape%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Viognier%20grape)
-- [Google 图片](https://www.google.com/search?q=Viognier%20grape%20bottle&tbm=isch)
+### 基本信息
 
-## 基础信息
+- **原产地**：法国北罗纳河谷
+- **亲本**：古老品种，可能与白诗南有亲缘关系
+- **果串**：小，圆柱形，紧凑
+- **果粒**：小，皮厚，黄绿色
+- **成熟期**：中熟
 
-- **中文名**：维欧尼
-- **外文名**：Viognier
-- **分类**：葡萄品种
-- **产地**：
+### 风味特征
 
-## 合规信息
+#### 孔德里约（北罗纳经典）
+- **香气**：杏子、白桃、紫罗兰、金银花、蜂蜜、麝香
+- **酸度**：低
+- **酒体**：饱满
+- **酒精**：高（13.5-15%）
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 新世界（加州/澳洲）
+- **香气**：杏子、梨、姜、茉莉、香料
+- **酸度**：低中
+- **酒体**：饱满
+- **橡木**：常经橡木桶
+
+### 主要产区
+
+| 产区 | 风格特征 | 代表酒庄 |
+|------|----------|----------|
+| 孔德里约 | 浓郁芳香，花香四溢 | Georges Vernay、Yves Cuilleron、Guigal |
+| 罗纳丘（混酿） | 与玛珊/胡珊混酿 | Beaucastel、Chapoutier |
+| 加州中央海岸 | 饱满丰富，新世界风格 | Alban、Tablas Creek、Qupé |
+| 澳洲伊甸谷/阿德莱德山 | 优雅芳香 | Henschke、Yalumba |
+| 华盛顿州 | 平衡丰富 | Dunham、Syncline |
+
+### 混酿搭配
+
+- **罗纳河谷白混酿**：维欧尼+玛珊+胡珊
+- **与红品种混酿**：少量加入西拉（如Côte-Rôtie，<5%）
+- **新世界**：常单品种装瓶
+
+### 陈年潜力
+
+- 孔德里约顶级：5-8年（不宜久存）
+- 加州顶级：3-5年
+- 普通餐酒：1-3年（建议早饮）
+- 与西拉混酿的红酒：10-15年
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Grapes (Jancis Robinson)/WSET
 - 数据置信度：official

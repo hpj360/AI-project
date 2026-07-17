@@ -6,39 +6,26 @@
 
 Old Pal是一款鸡尾酒，使用3种配料调制，盛于Nick and Nora Glass。
 
-## 基础信息
+## 基本信息
 
-- **中文名**：Old Pal
-- **外文名**：Old Pal
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：30.8%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+- **酒精度**：约 30.8% ABV（估算）
+- **分类**：Cocktail
+- **含酒精**：Alcoholic
+- **推荐杯具**：Nick and Nora Glass（Nick and Nora Glass）
 
-## 风味轮廓
+## 配方
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+| 配料 | 用量 |
+|------|------|
+| Rye whiskey | 2 oz |
+| Campari | 1 oz |
+| Dry Vermouth | 1 oz |
 
-## 评分奖项
+## 调制方法
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 40523 |
-| Difford's Guide | 4.28 | 2023 |
-| IBA 推荐 | 4.9 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

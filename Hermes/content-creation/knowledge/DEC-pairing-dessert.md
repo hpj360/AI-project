@@ -7,8 +7,6 @@ tags: [甜点, 巧克力, 水果甜点, 奶酪蛋糕, 甜酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing
 version: 1
@@ -22,26 +20,51 @@ version: 1
 
 按甜点类型（巧克力/水果/奶酪蛋糕）搭配甜酒、加强酒与冰酒。
 
-## 图片参考
+## 甜点配酒分类指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Dessert%20and%20Wine%20Pairing%20Guide%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Dessert%20and%20Wine%20Pairing%20Guide%20pairing)
-- [Google 图片](https://www.google.com/search?q=Dessert%20and%20Wine%20Pairing%20Guide%20pairing%20bottle&tbm=isch)
+### 1. 水果类甜点
 
-## 基础信息
+| 甜点 | 推荐酒款 | 搭配理由 |
+|------|----------|----------|
+| 苹果挞 | 晚收雷司令、Cidre | 苹果呼应 |
+| 柠檬挞 | Moscato d'Asti、托卡伊 | 酸甜平衡 |
+| 草莓奶油蛋糕 | 桃红起泡、Asti | 浆果香 |
+| 焦糖布丁 Crème Brûlée | Sauternes、托卡伊 | 焦糖香 |
 
-- **中文名**：甜点配酒指南
-- **外文名**：Dessert Wine Pairing
-- **分类**：餐酒搭配
-- **产地**：
+### 2. 奶酪蛋糕
 
-## 合规信息
+- 原味奶酪蛋糕：晚收雷司令、Auslese
+- 蓝莓奶酪蛋糕：Recioto、桃红起泡
+- 提拉米苏：Vin Santo、Recioto della Valpolicella
+- 巴斯克奶酪蛋糕：Sauternes、Monbazillac
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 坚果类甜点
+
+- 核桃派：Oloroso 雪利、Tawny Port
+- 杏仁饼干 Cantucci：Vin Santo（经典配）
+- 开心果蛋糕：Recioto di Soave、Malvasia
+- 焦糖核桃挞：Pedro Ximénez、Tawny Port
+
+### 4. 巧克力甜点（详见巧克力专条）
+
+- 黑巧慕斯：Banyuls、Maury
+- 巧克力熔岩蛋糕：Ruby Port、Pedro Ximénez
+- 白巧克力慕斯：冰酒、Moscato d'Asti
+
+### 5. 亚洲甜点
+
+- 杨枝甘露：半甜雷司令、Moscato
+- 红豆沙：冰酒、贵腐甜白
+- 椰汁西米露：Asti、半甜起泡
+- 芒果糯米饭：迟摘琼瑶浆
+
+### 配酒原则
+
+- 酒的甜度≥甜点的甜度
+- 以甜制甜，避免干酒配甜点
+- 水果甜点选果香型甜酒
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Food & Wine Pairing
 - 数据置信度：official

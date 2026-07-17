@@ -7,8 +7,6 @@ tags: [购买, 渠道, 电商, 商超, 进口商]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-100, DEC-buy-by-budget-300, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium]
-related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-300: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,65 @@ version: 1
 
 对比线上线下购酒渠道：电商、商超、进口商、酒窖、拍卖行。
 
-## 图片参考
+## 购酒渠道对比指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Buying%20Channels%20Comparison%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Buying%20Channels%20Comparison%20buying)
-- [Google 图片](https://www.google.com/search?q=Wine%20Buying%20Channels%20Comparison%20buying%20bottle&tbm=isch)
+### 渠道一览表
 
-## 基础信息
+| 渠道 | 价格区间 | 品种丰富度 | 真伪保障 | 适用场景 |
+|------|----------|------------|----------|----------|
+| 综合电商 | 50-2000元 | 高 | 中 | 日常囤货 |
+| 垂直电商 | 100-5000元 | 中高 | 高 | 中端精品 |
+| 商超 | 80-500元 | 低 | 高 | 即买即饮 |
+| 进口商直营 | 200-10000元 | 中 | 极高 | 中高端 |
+| 葡萄酒专卖 | 200-5000元 | 中高 | 高 | 体验购买 |
+| 海外直采 | 500-50000元 | 高 | 中 | 高端收藏 |
+| 拍卖行 | 5000元以上 | 低 | 中 | 顶级收藏 |
 
-- **中文名**：购酒渠道对比
-- **外文名**：Wine Channel Comparison
-- **分类**：购买指南
-- **产地**：
+### 渠道详解
 
-## 合规信息
+#### 1. 综合电商（天猫、京东）
+- 优势：价格透明、促销频繁、物流快
+- 劣势：假冒风险、需认准旗舰店
+- 适合：100-500元日常酒
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 2. 垂直电商（也买酒、酒仙网）
+- 优势：专业选品、品鉴笔记
+- 劣势：价格略高
+- 适合：300-2000元中端酒
+
+#### 3. 商超（Ole'、CityShop）
+- 优势：现货即买、可见包装
+- 劣势：价格偏高、品种少
+- 适合：应急购买
+
+#### 4. 进口商直营（富隆、ASC、桃乐丝）
+- 优势：100% 正品、完整溯源
+- 劣势：起订量、价格不灵活
+- 适合：500-5000元中高端
+
+#### 5. 葡萄酒专卖店
+- 优势：专业侍酒师服务、可品鉴
+- 劣势：覆盖少、价格高
+- 适合：体验式购买
+
+#### 6. 海外直采
+- 优势：品种丰富、价格优势
+- 劣势：运输风险、关税
+- 适合：高端收藏
+
+#### 7. 拍卖行（苏富比、佳士得）
+- 优势：稀有老酒、专业鉴定
+- 劣势：佣金高、门槛高
+- 适合：万元级收藏
+
+### 选择建议
+
+- 日常酒：综合电商大促
+- 中端精品：垂直电商或专卖
+- 高端宴请：进口商直营
+- 顶级收藏：拍卖行或海外直采
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

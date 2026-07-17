@@ -7,8 +7,6 @@ tags: [威士忌, 苏格兰, 谷物, 调配, 法规定义, SWA]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-swa-single-malt, ENT-whisky-swa-blended, ENT-whisky-swa-single-grain, ENT-whisky-swa-blended-malt, ENT-whisky-swa-export-2024]
-related_typed: {ENT-whisky-swa-single-malt: same_region, ENT-whisky-swa-blended: same_region, ENT-whisky-swa-single-grain: same_region, ENT-whisky-swa-blended-malt: same_region, ENT-whisky-swa-export-2024: same_region}
 data_confidence: official
 data_source: Scotch Whisky Association / scotch-whisky.org.uk
 version: 1

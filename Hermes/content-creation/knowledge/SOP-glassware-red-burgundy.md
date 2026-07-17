@@ -7,8 +7,6 @@ tags: [酒具器皿, 酒杯, 勃艮第, 黑皮诺, 红酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-glassware-red-bordeaux, SOP-glassware-white, SOP-glassware-sparkling, SOP-glassware-spirits, SOP-glassware-sake]
-related_typed: {SOP-glassware-red-bordeaux: same_subcat, SOP-glassware-white: same_subcat, SOP-glassware-sparkling: same_subcat, SOP-glassware-spirits: same_subcat, SOP-glassware-sake: same_subcat}
 data_confidence: official
 data_source: RIEDEL官方杯型指南/WSET标准
 version: 1
@@ -22,26 +20,50 @@ version: 1
 
 勃艮第杯的大肚收口设计原理、黑皮诺适配及使用规范。
 
-## 图片参考
+## 杯型设计
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Burgundy%20Glass%20Selection%20glassware%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Burgundy%20Glass%20Selection%20glassware)
-- [Google 图片](https://www.google.com/search?q=Burgundy%20Glass%20Selection%20glassware%20bottle&tbm=isch)
+### 设计原理
 
-## 基础信息
+- **超大杯肚**：球形或近球形，最大化香气挥发面积
+- **明显收口**：窄于杯腹，聚拢细腻花香与果香
+- **杯口外翻**：引导酒液流向舌尖，突出果味与酸度
+- **容量较大**：700-1050ml，酒液仅需杯肚1/4至1/3
 
-- **中文名**：勃艮第杯
-- **外文名**：Burgundy Glass
-- **分类**：酒具器皿
-- **产地**：
+### 适用品种
 
-## 合规信息
+- 黑皮诺（Pinot Noir）
+- 内比奥罗（Nebbiolo）
+- 巴罗洛（Barolo）
+- 巴巴莱斯科（Barbaresco）
+- 勃艮第特级园红酒
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 使用方法
+
+1. **持杯**：握杯柄，避免体温影响酒温（勃艮第适饮14-16℃）
+2. **倒酒**：仅倒至杯肚最宽处以下，留充足空间聚香
+3. **摇杯**：轻柔小幅摇动，避免破坏细腻香气
+4. **闻香**：将鼻尖探入杯口，分层感受一级/二级/三级香气
+
+### 与波尔多杯对比
+
+| 维度 | 勃艮第杯 | 波尔多杯 |
+|------|---------|---------|
+| 杯肚形状 | 球形圆肚 | 高瘦椭圆 |
+| 杯口 | 外翻收口 | 内收直口 |
+| 适配酒款 | 香气细腻型 | 单宁厚重型 |
+| 容量 | 700-1050ml | 600-750ml |
+| 倒酒量 | 1/4-1/3 | 1/3 |
+
+### 品牌推荐
+
+| 品牌 | 系列 | 推荐型号 |
+|------|------|---------|
+| RIEDEL | Sommeliers | Burgundy Grand Cru |
+| RIEDEL | Veritas | Old World Pinot Noir |
+| Spiegelau | Authentis | Burgundy |
+| Zalto | Denk'Art | Burgundy
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：RIEDEL官方杯型指南/WSET标准
 - 数据置信度：official

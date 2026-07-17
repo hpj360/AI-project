@@ -7,8 +7,6 @@ tags: [白兰地, 干邑, 法国, 百事吉, VSOP]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brandy-real-bisquit-vs, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop]
-related_typed: {ENT-brandy-real-bisquit-vs: same_brand, ENT-brandy-hennessy-xo: same_region, ENT-brandy-hennessy-paradis: same_region, ENT-brandy-hennessy-richard: same_region, ENT-brandy-martell-vsop: same_region}
 data_confidence: verified
 data_source: Wine-Searcher / Flaviar
 version: 1

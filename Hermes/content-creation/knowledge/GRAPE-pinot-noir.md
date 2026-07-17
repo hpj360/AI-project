@@ -7,8 +7,6 @@ tags: [葡萄品种, 红品种, 黑皮诺, 勃艮第]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [GRAPE-cabernet-sauvignon, GRAPE-merlot, GRAPE-syrah, GRAPE-grenache, GRAPE-malbec]
-related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-merlot: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat, GRAPE-malbec: same_subcat}
 data_confidence: official
 data_source: Wine Grapes (Jancis Robinson)/WSET
 version: 1
@@ -22,26 +20,53 @@ version: 1
 
 娇贵的红葡萄品种，原产勃艮第，被誉为红葡萄之王，喜冷凉气候。
 
-## 图片参考
+## 品种概况
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Pinot%20Noir%20grape%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Pinot%20Noir%20grape)
-- [Google 图片](https://www.google.com/search?q=Pinot%20Noir%20grape%20bottle&tbm=isch)
+### 基本信息
 
-## 基础信息
+- **原产地**：法国勃艮第
+- **亲本**：古老品种，可能为黑皮诺 × Gouais Blanc杂交祖先
+- **果串**：小，圆柱形，紧密
+- **果粒**：小，皮薄，色浅
+- **成熟期**：早熟品种
 
-- **中文名**：黑皮诺
-- **外文名**：Pinot Noir
-- **分类**：葡萄品种
-- **产地**：
+### 风味特征
 
-## 合规信息
+#### 勃艮第（金丘）
+- **香气**：红色樱桃、覆盆子、紫罗兰、林地、蘑菇（陈年）
+- **单宁**：低至中等
+- **酸度**：高
+- **酒体**：轻至中等
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 新世界（俄勒冈/新西兰/加州）
+- **香气**：红樱桃、草莓、香料的橡木
+- **单宁**：低
+- **酸度**：中高
+- **酒体**：中等
+
+### 主要产区
+
+| 产区 | 风格特征 | 代表酒庄 |
+|------|----------|----------|
+| 勃艮第夜丘 | 复杂优雅，陈年潜力强 | 罗曼尼康帝、乐华 |
+| 勃艮第博讷丘 | 圆润柔和，果味突出 | 飞马、路易亚都 |
+| 俄勒冈威拉米特 | 平衡优雅，类似勃艮第 | Domaine Drouhin、Beaux Frères |
+| 新西兰中奥塔哥 | 果味奔放，集中度高 | 飞马湾、Felton Road |
+| 加州俄罗斯河谷 | 饱满丰富，香气浓郁 | Kistler、Williams Selyem |
+
+### 混酿搭配
+
+- 几乎都为单品种酿造
+- 香槟产区用作香槟混酿的主要红品种
+- 偶尔与佳美混酿（勃艮第Passe-tout-grains）
+
+### 陈年潜力
+
+- 勃艮第特级园：15-30年+
+- 勃艮第一级园：8-15年
+- 新世界黑皮诺：3-8年
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Grapes (Jancis Robinson)/WSET
 - 数据置信度：official

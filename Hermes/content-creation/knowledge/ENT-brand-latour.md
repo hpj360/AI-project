@@ -7,8 +7,6 @@ tags: [红酒, 波尔多, 一级庄, 赤霞珠]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-latour, ENT-wine-real-clos-de-tart, ENT-wine-red-latour-2010, ENT-brand-lafite-rothschild, ENT-brand-mouton-rothschild]
-related_typed: {ENT-wine-real-latour: same_brand, ENT-wine-real-clos-de-tart: same_brand, ENT-wine-red-latour-2010: same_brand, ENT-brand-lafite-rothschild: same_region, ENT-brand-mouton-rothschild: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

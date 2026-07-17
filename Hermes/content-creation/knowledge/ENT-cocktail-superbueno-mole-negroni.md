@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 尼格罗尼, 梅斯卡尔, 摩尔酱, 巧克力]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-mushroom-margarita, ENT-cocktail-mango-martini-superbueno, ENT-cocktail-cosmopolitan, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
-related_typed: {ENT-cocktail-mushroom-margarita: same_brand, ENT-cocktail-mango-martini-superbueno: same_brand, ENT-cocktail-cosmopolitan: same_region, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
 data_confidence: verified
 data_source: World's 50 Best Bars 2025 / Superbueno NYC
 version: 1

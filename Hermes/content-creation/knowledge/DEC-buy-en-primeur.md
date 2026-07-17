@@ -7,8 +7,6 @@ tags: [购买, 期酒, En Primeur, 波尔多, 投资]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-100, DEC-buy-by-budget-300, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium]
-related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-300: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,86 @@ version: 1
 
 期酒购买策略：未装瓶提前预订，价格优惠，需选好年份与酒庄。
 
-## 图片参考
+## 期酒购买指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=En%20Primeur%20Wine%20Buying%20Guide%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/En%20Primeur%20Wine%20Buying%20Guide%20buying)
-- [Google 图片](https://www.google.com/search?q=En%20Primeur%20Wine%20Buying%20Guide%20buying%20bottle&tbm=isch)
+### 什么是期酒 En Primeur
 
-## 基础信息
+- 葡萄酒尚未装瓶时提前销售
+- 通常在采摘次年春季发布
+- 价格通常比装瓶后低 15-30%
+- 主要适用波尔多列级庄
 
-- **中文名**：期酒购买指南
-- **外文名**：En Primeur Buying
-- **分类**：购买指南
-- **产地**：
+### 期酒流程
 
-## 合规信息
+| 阶段 | 时间 | 内容 |
+|------|------|------|
+| 采摘 | 当年 9-10 月 | 葡萄收获 |
+| 期酒品鉴 | 次年 4 月 | 酒评家品鉴打分 |
+| 期酒报价 | 次年 5-6 月 | 酒庄发布价格 |
+| 装瓶交付 | 两年后 | 实物交付 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 适合期酒的酒款
+
+- 波尔多一级庄、二级庄
+- 右岸顶级：Pétrus、Cheval Blanc、Ausone
+- 苏玳：Château d'Yquem
+- 部分勃艮第与罗讷名庄
+
+### 购买渠道
+
+#### 国内进口商
+- 富隆、ASC、桃乐丝、美夏
+- 提供期酒预订服务
+- 优点：国内交付、避免运输
+- 缺点：价格略高
+
+#### 海外酒商
+- 英国 Berry Bros、Farr Vintners
+- 法国酒庄直采
+- 优点：价格优势、品种多
+- 缺点：运输与关税
+
+### 期酒优势
+
+- 价格通常低于现货 15-30%
+- 保证货源真实
+- 可选特定酒庄与年份
+- 投资增值潜力
+
+### 期酒风险
+
+| 风险 | 说明 |
+|------|------|
+| 价格波动 | 装瓶后可能跌价 |
+| 酒庄倒闭 | 极少但存在 |
+| 运输风险 | 海运温度控制 |
+| 汇率风险 | 海外购买受汇率影响 |
+
+### 选择建议
+
+#### 必买期酒
+- 伟大年份（如 2016、2019）
+- 一级庄、超二级庄
+- 投资级酒款
+
+#### 谨慎购买
+- 普通年份
+- 中级庄
+- 即饮型酒款
+
+#### 不建议期酒
+- 新世界酒款（年份差异小）
+- 中端以下酒款
+- 短期饮用酒
+
+### 注意事项
+
+- 选择信誉良好的进口商
+- 关注酒评家评分
+- 保留购买凭证
+- 关注装瓶交付时间
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 真空低温, 金酒, 豆蔻, 浸渍]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-newark, ENT-cocktail-mezcal-final-word, ENT-cocktail-coconut-miso-sour, ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky]
-related_typed: {ENT-cocktail-newark: same_brand, ENT-cocktail-mezcal-final-word: same_brand, ENT-cocktail-coconut-miso-sour: same_brand, ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region}
 data_confidence: verified
 data_source: 2026 真空低温浸渍技法 / 通用配方
 version: 1

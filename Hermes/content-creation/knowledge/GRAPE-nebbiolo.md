@@ -7,8 +7,6 @@ tags: [葡萄品种, 红品种, 内比奥罗, 巴罗洛, 巴巴莱斯科]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [GRAPE-cabernet-sauvignon, GRAPE-merlot, GRAPE-pinot-noir, GRAPE-syrah, GRAPE-grenache]
-related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat}
 data_confidence: official
 data_source: Wine Grapes (Jancis Robinson)/WSET
 version: 1
@@ -22,26 +20,54 @@ version: 1
 
 意大利皮埃蒙特的贵族品种，巴罗洛和巴巴莱斯科的主角，以高单宁高酸著称。
 
-## 图片参考
+## 品种概况
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Nebbiolo%20grape%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Nebbiolo%20grape)
-- [Google 图片](https://www.google.com/search?q=Nebbiolo%20grape%20bottle&tbm=isch)
+### 基本信息
 
-## 基础信息
+- **原产地**：意大利皮埃蒙特
+- **亲本**：古老品种，亲本未完全确定
+- **果串**：中等大小，圆柱形，紧凑
+- **果粒**：中等，皮厚，色浅（表面有雾状蜡质，"Nebbia"意为雾）
+- **成熟期**：极晚熟
 
-- **中文名**：内比奥罗
-- **外文名**：Nebbiolo
-- **分类**：葡萄品种
-- **产地**：
+### 风味特征
 
-## 合规信息
+#### 巴罗洛（结构型）
+- **香气**：红色樱桃、玫瑰花瓣、焦油、松露、皮革
+- **单宁**：极高
+- **酸度**：高
+- **酒体**：饱满，骨架感强
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 巴巴莱斯科（优雅型）
+- **香气**：红樱桃、紫罗兰、茴香、白胡椒
+- **单宁**：高
+- **酸度**：高
+- **酒体**：中等至饱满
+
+### 主要产区
+
+| 产区 | 风格特征 | 代表酒庄 |
+|------|----------|----------|
+| 巴罗洛 | 强劲复杂，陈年潜力强 | Giacomo Conterno、Gaja、Bruno Giacosa |
+| 巴巴莱斯科 | 优雅细腻，成熟较快 | Gaja、Produttori del Barbaresco |
+| 朗格 | 较早饮风格 | Vietti、Pio Cesare |
+| 加蒂纳拉/盖梅 | 北皮埃蒙特风格 | Travaglini、Antoniolo |
+| 加州/澳洲 | 新世界尝试少 | Palmina、DaVero |
+
+### 混酿搭配
+
+- 几乎都为单品种酿造（法律要求95%-100%）
+- 朗格Nebbiolo d'Alba可少量混酿
+- 偶尔与 Vespolina、Bonarda 混酿（北皮埃蒙特）
+
+### 陈年潜力
+
+- 巴罗洛顶级：20-40年+
+- 巴巴莱斯科顶级：15-25年+
+- 朗格普通级别：5-10年
+- 必须陈年才能软化单宁
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Grapes (Jancis Robinson)/WSET
 - 数据置信度：official

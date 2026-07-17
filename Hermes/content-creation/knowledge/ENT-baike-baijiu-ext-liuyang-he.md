@@ -7,8 +7,6 @@ tags: [白酒, 百度百科, 酱香型, 湖南, 浏阳河]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-baijiu-ext-jiugui-jiu, ENT-baike-baijiu-ext-wuling-jiu, ENT-baike-baijiu-ext-deshan-daqu, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
-related_typed: {ENT-baike-baijiu-ext-jiugui-jiu: same_region, ENT-baike-baijiu-ext-wuling-jiu: same_region, ENT-baike-baijiu-ext-deshan-daqu: same_region, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/浏阳河酒

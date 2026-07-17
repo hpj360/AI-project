@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 亚历山大, 金酒, 花生, 无花果, 可可]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-wasabi-highball, ENT-cocktail-singapore-sling, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito]
-related_typed: {ENT-cocktail-wasabi-highball: same_brand, ENT-cocktail-singapore-sling: same_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat}
 data_confidence: verified
 data_source: World's 50 Best Bars 2025 / Jigger & Pony
 version: 1

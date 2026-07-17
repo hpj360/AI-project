@@ -7,8 +7,6 @@ tags: [红酒, 西班牙, Ribera del Duero, 丹魄]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-vega-sicilia-unico-2010, ENT-wine-red-pingus-2015, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
-related_typed: {ENT-wine-red-vega-sicilia-unico-2010: same_region, ENT-wine-red-pingus-2015: same_region, ENT-brand-haut-brion: same_subcat, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated
 version: 1
 ---

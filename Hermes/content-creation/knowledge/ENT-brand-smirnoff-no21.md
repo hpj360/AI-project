@@ -7,8 +7,6 @@ tags: [伏特加, 俄罗斯, 英国, 原味]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-vodka-smirnoff-no-21, ENT-vodka-smirnoff-blue, ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia]
-related_typed: {ENT-vodka-smirnoff-no-21: same_region, ENT-vodka-smirnoff-blue: same_region, ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

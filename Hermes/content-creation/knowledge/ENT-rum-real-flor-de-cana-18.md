@@ -7,8 +7,6 @@ tags: [朗姆酒, Flor de Caña, 尼加拉瓜, 陈年18年, 可持续]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rum-real-flor-de-cana-25, ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara, ENT-rum-off-169-caribbean-rum-with-coconut-flavour]
-related_typed: {ENT-rum-real-flor-de-cana-25: same_brand, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / Flaviar
 version: 1

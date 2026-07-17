@@ -7,8 +7,6 @@ tags: [海鲜, 白鱼, 贝类, 甲壳类, 深海鱼, 白葡萄酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing
 version: 1
@@ -22,26 +20,40 @@ version: 1
 
 按海鲜类型（白鱼/贝类/甲壳/深海鱼）分别给出配酒建议，主打白葡萄酒与起泡酒。
 
-## 图片参考
+## 海鲜配酒分类指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Seafood%20and%20Wine%20Pairing%20Guide%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Seafood%20and%20Wine%20Pairing%20Guide%20pairing)
-- [Google 图片](https://www.google.com/search?q=Seafood%20and%20Wine%20Pairing%20Guide%20pairing%20bottle&tbm=isch)
+### 1. 白肉鱼（鲈鱼/鳕鱼/比目鱼）
 
-## 基础信息
+| 烹饪方式 | 推荐酒款 | 理由 |
+|----------|----------|------|
+| 清蒸 | 长相思、灰皮诺 | 高酸衬托鲜味 |
+| 香煎 | 霞多丽（未过桶） | 酒体中等不抢味 |
+| 油炸 | 香槟、Cava | 气泡切割油腻 |
 
-- **中文名**：海鲜配酒指南
-- **外文名**：Seafood Wine Pairing
-- **分类**：餐酒搭配
-- **产地**：
+### 2. 贝类（生蚝/扇贝/青口）
 
-## 合规信息
+- 生蚝：夏布利（Chablis）、密斯卡岱（Muscadet）
+- 扇贝：过桶霞多丽、白皮诺
+- 青口：白诗南、干型雪利 Fino
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 甲壳类（龙虾/螃蟹/虾）
+
+- 龙虾：勃艮第霞多丽、香槟（白中白）
+- 螃蟹：灰皮诺、维欧尼
+- 虾类：干型桃红、长相思
+
+### 4. 深海鱼（三文鱼/金枪鱼/剑鱼）
+
+- 三文鱼：黑皮诺、过桶霞多丽
+- 金枪鱼：中酒体红酒（黑皮诺/品丽珠）
+- 剑鱼：西拉、品丽珠
+
+### 禁忌
+
+- 高单宁红酒与鱼类结合产生铁锈腥味
+- 重油酱汁海鲜避免过酸干白
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Food & Wine Pairing
 - 数据置信度：official

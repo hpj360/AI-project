@@ -6,39 +6,26 @@
 
 Foxy Lady是一款经典饮品，使用3种配料调制，盛于鸡尾酒杯。
 
-## 基础信息
+## 基本信息
 
-- **中文名**：Foxy Lady
-- **外文名**：Foxy Lady
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：9.3%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+- **酒精度**：约 9.3% ABV（估算）
+- **分类**：Ordinary Drink
+- **含酒精**：Alcoholic
+- **推荐杯具**：鸡尾酒杯（Cocktail glass）
 
-## 风味轮廓
+## 配方
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+| 配料 | 用量 |
+|------|------|
+| Amaretto | 1/2 oz |
+| Creme de Cacao | 1/2 oz |
+| Light cream | 2 oz |
 
-## 评分奖项
+## 调制方法
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.5 | 46995 |
-| Difford's Guide | 4.14 | 2022 |
-| IBA 推荐 | 4.2 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

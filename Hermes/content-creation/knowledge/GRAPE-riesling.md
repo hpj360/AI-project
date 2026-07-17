@@ -7,8 +7,6 @@ tags: [葡萄品种, 白品种, 雷司令, 德国, 高酸]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [GRAPE-cabernet-sauvignon, GRAPE-merlot, GRAPE-pinot-noir, GRAPE-syrah, GRAPE-grenache]
-related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat}
 data_confidence: official
 data_source: Wine Grapes (Jancis Robinson)/WSET
 version: 1
@@ -22,26 +20,61 @@ version: 1
 
 德国之王白葡萄品种，从干型到甜型风格多变，以高酸度和陈年潜力著称。
 
-## 图片参考
+## 品种概况
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Riesling%20grape%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Riesling%20grape)
-- [Google 图片](https://www.google.com/search?q=Riesling%20grape%20bottle&tbm=isch)
+### 基本信息
 
-## 基础信息
+- **原产地**：德国莱茵高
+- **亲本**：Heunisch (Gouais Blanc) × 杂交品种（亲本之一为Traminer相关）
+- **果串**：小，圆柱形，松散
+- **果粒**：小，皮薄，黄绿色带斑点
+- **成熟期**：晚熟
 
-- **中文名**：雷司令
-- **外文名**：Riesling
-- **分类**：葡萄品种
-- **产地**：
+### 风味特征
 
-## 合规信息
+#### 德国（干型到甜型）
+- **香气**：青苹果、青柠、白桃、茉莉花、矿物、汽油（陈年）
+- **酸度**：极高
+- **酒体**：轻至中等
+- **甜度**：从干型到Trockenbeerenauslese
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 阿尔萨斯（干型为主）
+- **香气**：柑橘、白桃、杏、燧石
+- **酸度**：高
+- **酒体**：中等至饱满
+- **甜度**：多为干型，少量Vendange Tardive
+
+#### 澳大利亚（克莱尔谷/伊甸谷）
+- **香气**：青柠、烤面包、花香、汽油
+- **酸度**：高
+- **酒体**：中等
+- **甜度**：多为干型
+
+### 主要产区
+
+| 产区 | 风格特征 | 代表酒庄 |
+|------|----------|----------|
+| 德国摩泽尔 | 轻盈优雅，矿物感强 | Egon Müller、Dr. Loosen |
+| 德国莱茵高 | 饱满丰富，陈年强 | Schloss Johannisberg、Robert Weil |
+| 德国普法尔茨 | 多样风格 | Dr. Bürklin-Wolf、Bassermann-Jordan |
+| 阿尔萨斯 | 干型饱满，结构感 | Trimbach、Hugel |
+| 澳洲克莱尔谷 | 干型优雅，石灰岩矿物 | Grosset、Jim Barry |
+
+### 混酿搭配
+
+- 几乎都为单品种酿造
+- 德国 occasionally 与少量其他品种混酿
+- 起泡酒（Sekt）：可作原料
+
+### 陈年潜力
+
+- 德国TBA/BA：50年+
+- 德国Beerenauslese：30-50年
+- 德国Auslese/Spätlese：15-30年
+- 阿尔萨斯Grand Cru：10-20年
+- 干型雷司令：5-10年
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Grapes (Jancis Robinson)/WSET
 - 数据置信度：official

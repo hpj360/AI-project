@@ -7,8 +7,6 @@ tags: [红肉, 牛排, 羊排, 猪肉, 野味, 红葡萄酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing
 version: 1
@@ -22,26 +20,42 @@ version: 1
 
 按红肉类型（牛排/羊排/猪肉/野味）搭配红酒，强调单宁与蛋白质的结合。
 
-## 图片参考
+## 红肉配酒分类指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Red%20Meat%20and%20Wine%20Pairing%20Guide%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Red%20Meat%20and%20Wine%20Pairing%20Guide%20pairing)
-- [Google 图片](https://www.google.com/search?q=Red%20Meat%20and%20Wine%20Pairing%20Guide%20pairing%20bottle&tbm=isch)
+### 1. 牛排
 
-## 基础信息
+| 部位/熟度 | 推荐酒款 | 经典搭配 |
+|----------|----------|----------|
+| 菲力（瘦嫩） | 梅洛、黑皮诺 | 单宁柔和 |
+| 肋眼（油花足） | 赤霞珠、马尔贝克 | 高单宁解腻 |
+| T骨（厚实） | 波尔多混酿、西拉 | 酒体厚重 |
+| 全熟 | 巴罗洛、布鲁奈罗 | 单宁强劲 |
 
-- **中文名**：红肉配酒指南
-- **外文名**：Red Meat Wine Pairing
-- **分类**：餐酒搭配
-- **产地**：
+### 2. 羊排
 
-## 合规信息
+- 迷迭香烤羊排：赤霞珠、西拉
+- 红酒炖羊肉：教皇新堡（Châteauneuf-du-Pape）
+- 中东香料羊排：歌海娜、慕合怀特
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 猪肉
+
+- 烤猪排：黑皮诺、品丽珠
+- 红烧肉：仙粉黛、阿玛罗尼
+- 糖醋排骨：半干雷司令、桃红起泡
+
+### 4. 野味（鹿肉/野猪/兔肉）
+
+- 鹿肉：勃艮第特级园黑皮诺
+- 野猪：北罗讷西拉、巴罗洛
+- 兔肉：品丽珠、仙粉黛
+
+### 配酒原则
+
+- 单宁与蛋白质结合使肉质更嫩
+- 酱汁浓郁度决定酒体轻重
+- 野味宜选陈年红酒，复杂度匹配
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Food & Wine Pairing
 - 数据置信度：official

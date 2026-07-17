@@ -7,8 +7,6 @@ tags: [行业趋势, 有机认证, 可持续, 葡萄酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [TREND-low-alcohol-rise, TREND-dealcoholization-tech, TREND-non-alcoholic-beer, TREND-non-alcoholic-wine, TREND-low-abv-cocktail]
-related_typed: {TREND-low-alcohol-rise: same_subcat, TREND-dealcoholization-tech: same_subcat, TREND-non-alcoholic-beer: same_subcat, TREND-non-alcoholic-wine: same_subcat, TREND-low-abv-cocktail: same_subcat}
 data_confidence: verified
 data_source: Wine Intelligence
 version: 1
@@ -22,26 +20,51 @@ version: 1
 
 欧盟、美国USDA等有机认证标准对比，有机葡萄酒市场稳步增长。
 
-## 图片参考
+## 有机葡萄酒认证
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Organic%20Wine%20Certification%20trend%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Organic%20Wine%20Certification%20trend)
-- [Google 图片](https://www.google.com/search?q=Organic%20Wine%20Certification%20trend%20bottle&tbm=isch)
+### 主要认证标准对比
 
-## 基础信息
+| 标准 | 地区 | 葡萄种植 | 酿造添加 | 亚硫酸盐 | 转换期 |
+|------|------|----------|----------|----------|--------|
+| 欧盟有机 | 欧盟 | 禁合成农药 | 限制添加 | ≤100mg/L | 3年 |
+| USDA Organic | 美国 | 禁合成农药 | 禁亚硫酸盐 | 0 | 3年 |
+| NOP | 美国 | 禁合成 | "Made with" | ≤100mg/L | 3年 |
+| Demeter | 全球 | 生物动力法 | 严格限制 | ≤90mg/L | 3年 |
+| Ecocert | 法国 | 有机种植 | 限制 | ≤100mg/L | 3年 |
+| 中国有机 | 中国 | 禁合成农药 | 限制 | ≤100mg/L | 2-3年 |
 
-- **中文名**：有机葡萄酒
-- **外文名**：Organic Wine
-- **分类**：行业趋势
-- **产地**：
+### 认证要求要点
 
-## 合规信息
+1. **种植阶段**：
+   - 禁止合成农药、除草剂
+   - 禁止化肥，使用有机肥
+   - 葡萄园生物多样性
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+2. **酿造阶段**：
+   - 限制添加物
+   - 使用有机酵母
+   - 限制加工助剂
+
+3. **亚硫酸盐限制**：
+   - 红酒≤100mg/L
+   - 白酒≤150mg/L
+   - 甜酒≤220mg/L
+
+### 市场规模
+
+- 全球有机葡萄酒约5亿升
+- 法国、西班牙、意大利为主产国
+- 增长率约8-10%
+- 北欧国家消费占比高
+
+### 消费者认知
+
+- 健康认知度：65%
+- 口感认知偏差：认为"更酸"
+- 价格接受度：溢价10-20%
+- 复购率：高于普通酒
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Intelligence
 - 数据置信度：verified

@@ -7,8 +7,6 @@ tags: [假酒鉴别, 线上购酒, 防骗, 电商]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ANTI-fake-maotai, ANTI-fake-wuliangye, ANTI-fake-lafite, ANTI-fake-maotai-packaging, ANTI-fake-hongxing]
-related_typed: {ANTI-fake-maotai: same_subcat, ANTI-fake-wuliangye: same_subcat, ANTI-fake-lafite: same_subcat, ANTI-fake-maotai-packaging: same_subcat, ANTI-fake-hongxing: same_subcat}
 data_confidence: official
 data_source: 中国消费者协会、国家市场监督管理总局
 version: 1
@@ -22,26 +20,121 @@ version: 1
 
 线上购酒时的渠道甄别、价格异常识别及商家资质核验方法。
 
-## 图片参考
+## 线上购酒防骗体系
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Online%20Liquor%20Purchase%20Anti-Scam%20Guide%20fake%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Online%20Liquor%20Purchase%20Anti-Scam%20Guide%20fake)
-- [Google 图片](https://www.google.com/search?q=Online%20Liquor%20Purchase%20Anti-Scam%20Guide%20fake%20bottle&tbm=isch)
+### 1. 渠道甄别
 
-## 基础信息
+#### 正规渠道
 
-- **中文名**：线上购酒防骗
-- **外文名**：Online Purchase Anti-Scam
-- **分类**：假酒鉴别
-- **产地**：
+- **品牌官方旗舰店**：天猫、京东等平台的品牌官方店
+- **授权经销商**：品牌授权的线上经销商
+- **大型电商自营**：京东自营、天猫超市等
+- **品牌官网**：品牌官方网上商城
+- **官方APP**：品牌官方移动应用
 
-## 合规信息
+#### 高风险渠道
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+- 不明链接或二维码
+- 社交媒体私信交易
+- 二手平台低价酒
+- 无资质的小型网店
+- 海淘代购（无中文背标）
+
+### 2. 价格异常识别
+
+#### 价格规律
+
+- 名酒有稳定的市场价
+- 官方渠道价格透明
+- 促销折扣通常在合理范围
+
+#### 异常信号
+
+- 价格低于市场价30%以上
+- 限量款或老年份酒低价出售
+- "清仓"、"尾货"等借口低价
+- 多件购买有额外大幅折扣
+- 要求私下转账或绕开平台交易
+
+### 3. 商家资质核验
+
+#### 必查信息
+
+- **营业执照**：查看商家营业执照
+- **食品经营许可证**：必须持有酒类销售许可
+- **品牌授权书**：授权经销商应公示授权书
+- **入驻资质**：电商平台入驻审核信息
+
+#### 核验方法
+
+- 在电商平台查看商家资质
+- 在国家企业信用信息公示系统查询
+- 向品牌官方核实授权经销商
+- 查看商家评价与售后记录
+
+### 4. 商品信息核验
+
+#### 必看信息
+
+- 商品名称、规格、酒精度
+- 生产日期与保质期
+- 生产厂家与产地
+- 防伪标识说明
+- 中文背标信息
+
+#### 异常信号
+
+- 商品信息不完整
+- 图片模糊或盗用官方图
+- 无防伪标识说明
+- 产地或厂家信息不明
+
+### 5. 交易安全保障
+
+#### 支付方式
+
+- 使用平台担保交易
+- 不私下转账
+- 保留支付凭证
+
+#### 售后保障
+
+- 确认七天无理由退货
+- 保留聊天记录与订单信息
+- 收货时验货再签收
+- 发现问题及时申请售后
+
+### 6. 收货验货
+
+#### 外包装检查
+
+- 外箱完整，无破损
+- 编码与商品信息一致
+- 防伪标识完好
+
+#### 酒品验证
+
+- 核对酒标信息
+- 扫码验证防伪
+- 检查瓶盖封口
+- 拍照留存
+
+### 7. 维权途径
+
+- 与商家协商
+- 向电商平台投诉
+- 拨打12315投诉
+- 向市场监管部门举报
+- 必要时通过法律途径维权
+
+### 防骗口诀
+
+- 正规渠道买，价格别贪低
+- 资质要核验，信息要核对
+- 担保交易好，私下别转账
+- 收货先验货，问题及时维
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：中国消费者协会、国家市场监督管理总局
 - 数据置信度：official

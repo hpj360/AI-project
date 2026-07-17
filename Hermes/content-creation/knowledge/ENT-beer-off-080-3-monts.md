@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, beer, 啤酒, 3 Monts]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-off-074-la-goudale-blonde-1l, ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-beer-goose-island-ipa, ENT-beer-brewdog-punk-ipa, ENT-beer-hoegaarden]
-related_typed: {ENT-beer-off-074-la-goudale-blonde-1l: same_region, ENT-beer-off-091-blonde-non-filtr-champ-libre: same_region, ENT-beer-goose-island-ipa: same_subcat, ENT-beer-brewdog-punk-ipa: same_subcat, ENT-beer-hoegaarden: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

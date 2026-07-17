@@ -7,8 +7,6 @@ tags: [购买, 运输, 储存, 酒窖, 恒温]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-100, DEC-buy-by-budget-300, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium]
-related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-300: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,95 @@ version: 1
 
 购后运输与储存要点：避免温度波动、平放储存、专业酒窖管理。
 
-## 图片参考
+## 购后运输与储存指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Transport%20and%20Storage%20After%20Purchase%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Transport%20and%20Storage%20After%20Purchase%20buying)
-- [Google 图片](https://www.google.com/search?q=Wine%20Transport%20and%20Storage%20After%20Purchase%20buying%20bottle&tbm=isch)
+### 运输要点
 
-## 基础信息
+#### 国内运输
 
-- **中文名**：购后运输与储存
-- **外文名**：Wine Transport & Storage
-- **分类**：购买指南
-- **产地**：
+| 运输方式 | 适用 | 注意事项 |
+|----------|------|----------|
+| 快递 | 1-6瓶 | 选恒温快递、避夏季 |
+| 物流 | 整箱 | 木箱加固、防震 |
+| 自提 | 1-12瓶 | 避免后备箱高温 |
+| 海运 | 大批量 | 恒温集装箱 |
 
-## 合规信息
+#### 运输禁忌
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+- 夏季高温（>25℃）避免运输
+- 冬季严寒（<0℃）避免冻结
+- 长时间阳光直射
+- 剧烈震动
+
+#### 收货后处理
+
+- 静置 1-2 周再饮用
+- 让酒恢复稳定
+- 检查酒塞、液面状态
+- 异常及时联系卖家
+
+### 储存条件
+
+#### 理想储存环境
+
+| 条件 | 标准 | 说明 |
+|------|------|------|
+| 温度 | 12-15℃ | 恒定不波动 |
+| 湿度 | 65-75% | 保持酒塞湿润 |
+| 光照 | 避光 | 紫外线破坏酒质 |
+| 震动 | 避震 | 加速老化 |
+| 通风 | 良好 | 避免异味 |
+| 摆放 | 平放 | 酒塞接触酒液 |
+
+#### 储存方式对比
+
+| 方式 | 适用 | 成本 | 效果 |
+|------|------|------|------|
+| 专业酒窖 | 长期收藏 | 高 | 最佳 |
+| 恒温酒柜 | 中短期 | 中 | 良好 |
+| 阴凉地下室 | 短期 | 低 | 一般 |
+| 室内柜子 | 即饮 | 无 | 较差 |
+| 厨房 | 不推荐 | - | 破坏 |
+
+### 短期储存（1-3 个月）
+
+- 阴凉避光处
+- 远离热源（暖气、灶台）
+- 平放或立放均可
+- 适合即饮型酒款
+
+### 中期储存（6 个月-2 年）
+
+- 恒温酒柜（12-18℃）
+- 平放保存
+- 适合中端陈年酒
+
+### 长期储存（3 年以上）
+
+- 专业酒窖或恒温柜
+- 严格 12-15℃
+- 湿度 70% 左右
+- 完整记录购入信息
+
+### 储存记录建议
+
+| 信息 | 用途 |
+|------|------|
+| 酒款名称 | 识别 |
+| 购入日期 | 溯源 |
+| 购入价格 | 估值 |
+| 储存位置 | 管理 |
+| 适饮窗口 | 饮用决策 |
+| 酒评家评分 | 价值参考 |
+
+### 异常处理
+
+- 酒塞凸起：可能受热，尽快饮用
+- 液面下降：可能渗漏，检查酒塞
+- 酒液浑浊：可能变质，谨慎饮用
+- 异味（湿纸板）：可能 TCA 污染
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

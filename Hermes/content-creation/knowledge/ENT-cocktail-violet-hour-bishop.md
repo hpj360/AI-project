@@ -7,8 +7,6 @@ tags: [鸡尾酒, 酒吧签名, 波本, 红酒, 现代]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-salty-dog, ENT-baike-spirits_intl-chivas-18, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-cocktail-samurai]
-related_typed: {ENT-cocktail-salty-dog: same_region, ENT-baike-spirits_intl-chivas-18: base_to_cocktail, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-cocktail-samurai: same_subcat}
 data_confidence: simulated
 version: 1
 ---

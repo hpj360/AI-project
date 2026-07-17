@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 金酒, 苦精, 缅甸]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-earl-grey-marteani, ENT-cocktail-gin-gin-mule, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail]
-related_typed: {ENT-cocktail-earl-grey-marteani: same_brand, ENT-cocktail-gin-gin-mule: same_brand, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat}
 data_confidence: simulated
 data_source: Savoy 配方
 version: 1

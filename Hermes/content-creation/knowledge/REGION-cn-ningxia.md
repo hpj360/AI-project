@@ -7,8 +7,6 @@ tags: [产区风土, 中国, 宁夏, 赤霞珠, 贺兰山]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official
 data_source: 宁夏贺兰山东麓葡萄产业园区管委会
 version: 1
@@ -22,26 +20,75 @@ version: 1
 
 中国最具国际声誉的葡萄酒产区，「中国波尔多」，赤霞珠为主导的精品产区。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ningxia%20Helan%20Mountain%20East%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Ningxia%20Helan%20Mountain%20East%20region)
-- [Google 图片](https://www.google.com/search?q=Ningxia%20Helan%20Mountain%20East%20region%20bottle&tbm=isch)
+### 位置
+- 中国宁夏回族自治区北部
+- 贺兰山东麓冲积平原
+- 北纬37°43'-39°23'，黄金酿酒带
+- 黄河灌区
 
-## 基础信息
+### 气候
+- 大陆性干旱气候
+- 年日照3000+小时
+- 昼夜温差大（10-15°C）
+- 年降雨200mm，干燥少病
+- 冬季严寒，需埋藤越冬（关键挑战）
 
-- **中文名**：宁夏贺兰山东麓
-- **外文名**：Ningxia Helan Mountain East
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 砾石沙壤土为主
+- 含丰富矿物质
+- 透气性好，排水佳
+- 不同子产区土壤差异：砂砾、风沙土、灰钙土
 
-## 合规信息
+## 产区划分
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 子产区（六大）
+1. **石嘴山产区**：最北，温暖
+2. **贺兰产区**：北部，砾石
+3. **西夏王陵产区**：中部核心
+4. **永宁产区**：南部
+5. **青铜峡产区**：东南
+6. **红寺堡产区**：最南，高海拔
+
+### 列级酒庄体系
+- 2013年实行酒庄酒分级
+- 五级：一至五级（类似波尔多1855）
+- 中国首个列级酒庄体系
+
+## 主要品种
+
+### 红品种
+- **赤霞珠**：绝对主力，60%+
+  - 颜色深，单宁成熟
+  - 黑加仑、薄荷、辛香
+- **美乐**：调配辅助
+- **品丽珠**：辅助
+- **马瑟兰（Marselan）**：中国特色杂交，表现优异
+- **西拉**：少量
+
+### 白品种
+- **霞多丽**：主力白
+- **长相思**：少量
+- **雷司令**：少量
+
+## 发展历程
+- 1984年西夏王酒厂建立
+- 2003年确立"葡萄酒产业"
+- 2011年《Decanter》大赛首获国际金奖
+- 2020年列级酒庄体系成熟
+- 2020年获得"葡萄酒之都"称号
+
+## 代表酒庄
+- **加贝兰（Vice Versa / Helanqingxue）**- 2011 DWWA金奖
+- **留世（Legacy Peak）**
+- **迦南美地（Sino-Canada）**
+- **银色高地（Silver Heights）**- Emma Gao
+- **西夏王（Summer Palace）**
+- **贺东庄园（Chandon China）**
+- **张裕摩塞尔十五世（Changyu Moser）**
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：宁夏贺兰山东麓葡萄产业园区管委会
 - 数据置信度：official

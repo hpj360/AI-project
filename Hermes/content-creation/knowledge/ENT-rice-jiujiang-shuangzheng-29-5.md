@@ -7,8 +7,6 @@ tags: [米酒, rice_wine, 中国, 广东, 九江双蒸, 豉香型, 29.5度]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rice-shiwan-yubingshao-29, ENT-rice-hongli-40, ENT-rice-wine-guangdong-mijiu, ENT-rice-wine-guangdong-lao-mijiu, ENT-baike-rice_wine-kejia-niangjiu]
-related_typed: {ENT-rice-shiwan-yubingshao-29: same_region, ENT-rice-hongli-40: same_region, ENT-rice-wine-guangdong-mijiu: same_region, ENT-rice-wine-guangdong-lao-mijiu: same_region, ENT-baike-rice_wine-kejia-niangjiu: same_subcat}
 data_confidence: verified
 data_source: 京东 / 淘宝
 version: 1

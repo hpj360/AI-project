@@ -7,8 +7,6 @@ tags: [鸡尾酒, Tiki, 金酒, 樱桃白兰地, 菠萝]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-peanut-alexander, ENT-cocktail-wasabi-highball, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball]
-related_typed: {ENT-cocktail-peanut-alexander: same_region, ENT-cocktail-wasabi-highball: same_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [起泡酒, 香槟, Charles Heidsieck, Blanc de Blancs, 白中白, 年份]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-sparkling-real-moet-grand-vintage-2015, ENT-wine-sparkling-real-veuve-clicquot-yellow-label-nv, ENT-wine-sparkling-real-krug-grande-cuvee-171, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken]
-related_typed: {ENT-wine-sparkling-real-moet-grand-vintage-2015: same_region, ENT-wine-sparkling-real-veuve-clicquot-yellow-label-nv: same_region, ENT-wine-sparkling-real-krug-grande-cuvee-171: same_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / James Suckling
 version: 1

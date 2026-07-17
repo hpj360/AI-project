@@ -7,8 +7,6 @@ tags: [黄酒, 无锡, 锡山]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang, ENT-baike-yellow_wine-danyang-huangjiu]
-related_typed: {ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: cross_region, ENT-baike-yellow_wine-danyang-huangjiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

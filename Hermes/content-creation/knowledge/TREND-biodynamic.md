@@ -7,8 +7,6 @@ tags: [行业趋势, 生物动力法, 德米特, 可持续]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [TREND-low-alcohol-rise, TREND-dealcoholization-tech, TREND-non-alcoholic-beer, TREND-non-alcoholic-wine, TREND-low-abv-cocktail]
-related_typed: {TREND-low-alcohol-rise: same_subcat, TREND-dealcoholization-tech: same_subcat, TREND-non-alcoholic-beer: same_subcat, TREND-non-alcoholic-wine: same_subcat, TREND-low-abv-cocktail: same_subcat}
 data_confidence: verified
 data_source: Wine Intelligence
 version: 1
@@ -22,26 +20,59 @@ version: 1
 
 生物动力法以德米特认证为标志，结合日历种植与宇宙节律，高端酒庄广泛采用。
 
-## 图片参考
+## 生物动力法
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Biodynamic%20Winemaking%20trend%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Biodynamic%20Winemaking%20trend)
-- [Google 图片](https://www.google.com/search?q=Biodynamic%20Winemaking%20trend%20bottle&tbm=isch)
+### 核心理念
 
-## 基础信息
+- 创始人：鲁道夫·斯坦纳（1924）
+- 哲学：农场作为有机整体
+- 宇宙节律：月相、星象影响种植
+- 制剂：特殊堆肥增强土壤活力
 
-- **中文名**：生物动力法
-- **外文名**：Biodynamic
-- **分类**：行业趋势
-- **产地**：
+### 德米特认证
 
-## 合规信息
+| 项目 | 要求 | 转换期 | 检查频率 |
+|------|------|--------|----------|
+| Demeter International | 最严格生物动力认证 | 3年 | 年度 |
+| Biodyvin | 法国生物动力认证 | 3年 | 年度 |
+| Resonance | 美国认证 | 3年 | 年度 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 生物动力制剂
+
+| 制剂 | 材料 | 用途 | 施用时机 |
+|------|------|------|----------|
+| 500 | 牛角牛粪 | 促根系、土壤活力 | 秋季 |
+| 501 | 牛角石英 | 促光合、抗病 | 春季 |
+| 502 | 蓍草花 | 促堆肥发酵 | 堆肥 |
+| 503 | 洋甘菊花 | 促植物健康 | 堆肥 |
+| 504 | 荨麻 | 促土壤氮循环 | 堆肥 |
+| 505 | 橡树皮 | 防病害 | 堆肥 |
+| 506 | 蒲公英 | 促硅吸收 | 堆肥 |
+| 507 | 缬草花 | 防霜冻 | 喷洒 |
+
+### 种植日历
+
+- **根日**：适合种植、修剪
+- **叶日**：适合浇水、施氮
+- **花日**：避免扰动植物
+- **果日**：适合收获、酿造
+
+### 代表酒庄
+
+- Domaine Leflaive（勃艮第）
+- Domaine Leroy（勃艮第）
+- Chapoutier（罗讷河谷）
+- Frog's Leap（纳帕）
+- 中法庄园（中国）
+
+### 市场评价
+
+- 高端酒庄广泛采用
+- 评分普遍高于平均
+- 价格溢价显著
+- 消费者认同度上升
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Intelligence
 - 数据置信度：verified

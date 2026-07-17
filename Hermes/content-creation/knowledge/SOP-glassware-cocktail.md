@@ -7,8 +7,6 @@ tags: [酒具器皿, 鸡尾酒, 马天尼杯, 古典杯]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-glassware-red-bordeaux, SOP-glassware-red-burgundy, SOP-glassware-white, SOP-glassware-sparkling, SOP-glassware-spirits]
-related_typed: {SOP-glassware-red-bordeaux: same_subcat, SOP-glassware-red-burgundy: same_subcat, SOP-glassware-white: same_subcat, SOP-glassware-sparkling: same_subcat, SOP-glassware-spirits: same_subcat}
 data_confidence: official
 data_source: IBA国际调酒师协会标准
 version: 1
@@ -22,26 +20,59 @@ version: 1
 
 马天尼杯、古典杯、高球杯、飓风杯等鸡尾酒杯型选择与适配。
 
-## 图片参考
+## 主流杯型
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cocktail%20Glass%20Guide%20glassware%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Cocktail%20Glass%20Guide%20glassware)
-- [Google 图片](https://www.google.com/search?q=Cocktail%20Glass%20Guide%20glassware%20bottle&tbm=isch)
+### 短饮杯型
 
-## 基础信息
+| 杯型 | 容量 | 经典酒款 | 特点 |
+|------|------|---------|------|
+| 马天尼杯（Martini） | 90-180ml | 干马天尼、曼哈顿 | 浅口倒锥形、优雅 |
+| 古典杯（Old Fashioned/Rocks） | 180-300ml | 古典、威士忌加冰 | 短宽直筒、加冰用 |
+| 飞碟杯（Coupe） | 120-180ml | 侧车、戴琦瑞 | 复古、马天尼替代 |
+| 雪莉杯（Pony） | 60-90ml | 短饮纯饮 | 小巧精致 |
 
-- **中文名**：鸡尾酒杯
-- **外文名**：Cocktail Glasses
-- **分类**：酒具器皿
-- **产地**：
+### 长饮杯型
 
-## 合规信息
+| 杯型 | 容量 | 经典酒款 | 特点 |
+|------|------|---------|------|
+| 高球杯（Highball） | 240-350ml | 莫吉托、金汤力 | 直筒高身、加冰加水 |
+| 柯林斯杯（Collins） | 300-410ml | 汤姆柯林斯 | 比高球杯更高 |
+| 飓风杯（Hurricane） | 400-600ml | 飓风鸡尾酒 | 曲线造型、热带风 |
+| 库勒杯（Cooler） | 240-350ml | 库勒系列 | 高球杯变体 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 特色杯型
+
+- **玛格丽特杯**：杯口蘸盐、双层玻璃
+- **飓风杯**：灯笼造型、热带风格
+- **爱尔兰咖啡杯**：带把手、耐热玻璃
+- **子弹杯（Shot）**：30-60ml、纯烈酒
+- **白兰地杯**：球形大腹、温酒用
+
+## 容量与冰块
+
+1. **冰块量**：占杯体2/3，避免稀释过快
+2. **倒酒量**：短饮距杯口1cm，长饮留出搅拌空间
+3. **杯口装饰**：盐边、糖边、果片需提前处理
+
+## 杯口处理技法
+
+| 处理类型 | 适用酒款 | 操作方法 |
+|---------|---------|---------|
+| 盐边 | 玛格丽特 | 杯口蘸柠檬汁后蘸盐 |
+| 糖边 | 侧车 | 杯口蘸果汁后蘸糖 |
+| 辣椒盐 | 龙舌兰系列 | 蘸辣椒盐混合物 |
+| 可可粉 | 巧克力风味 | 干蘸 |
+
+## 品牌推荐
+
+| 品牌 | 类型 | 价格区间（RMB） |
+|------|------|----------------|
+| RIEDEL | 鸡尾酒系列 | 150-400 |
+| Libbey | 全系列 | 30-100 |
+| Schott Zwiesel | 玻璃杯 | 80-200 |
+| Bormioli Rocco | 古典杯 | 50-150 |
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：IBA国际调酒师协会标准
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [蜂蜜酒, 法国, 香草, 香料]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-mead-pyment, ENT-mead-champagne-method, ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey]
-related_typed: {ENT-mead-pyment: same_brand, ENT-mead-champagne-method: same_brand, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: same_subcat}
 data_confidence: simulated
 version: 1
 ---

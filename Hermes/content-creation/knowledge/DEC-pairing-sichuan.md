@@ -7,8 +7,6 @@ tags: [川菜, 麻辣, 鱼香, 怪味, 花椒, 甜白]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing
 version: 1
@@ -22,26 +20,43 @@ version: 1
 
 针对川菜三大味型（麻辣/鱼香/怪味）的精准配酒建议。
 
-## 图片参考
+## 川菜味型配酒指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sichuan%20Cuisine%20and%20Wine%20Pairing%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Sichuan%20Cuisine%20and%20Wine%20Pairing%20pairing)
-- [Google 图片](https://www.google.com/search?q=Sichuan%20Cuisine%20and%20Wine%20Pairing%20pairing%20bottle&tbm=isch)
+### 1. 麻辣味型
 
-## 基础信息
+| 经典菜 | 推荐酒款 | 搭配理由 |
+|--------|----------|----------|
+| 麻婆豆腐 | 半甜雷司令 | 甜度中和辣 |
+| 水煮牛肉 | Moscato d'Asti | 低酒精解辣 |
+| 夫妻肺片 | 琼瑶浆 Gewürztraminer | 荔枝香呼应花椒 |
+| 火锅底料 | 桃红起泡、Prosecco | 气泡清口 |
 
-- **中文名**：川菜配酒指南
-- **外文名**：Sichuan Food Wine Pairing
-- **分类**：餐酒搭配
-- **产地**：
+### 2. 鱼香味型
 
-## 合规信息
+- 鱼香肉丝：半干白诗南、Viognier
+- 鱼香茄子：长相思、Pinot Grigio
+- 鱼香脆皮鱼：干型桃红、灰皮诺
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 怪味味型
+
+- 怪味鸡：琼瑶浆、半甜雷司令
+- 怪味花生：阿斯蒂 Moscato d'Asti
+- 怪味胡豆：冰酒、贵腐甜白
+
+### 4. 其他经典川菜
+
+- 回锅肉：黑皮诺、半干白诗南
+- 宫保鸡丁：Prosecco、半干起泡
+- 樟茶鸭：黑皮诺、Pinotage
+- 开水白菜：霞多丽（未过桶）、灰皮诺
+
+### 配酒要点
+
+- 花椒的"麻"需要甜度+果香缓解
+- 高油豆瓣酱需高酸度切脂
+- 川菜复杂度高，避免复杂型陈年酒
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Food & Wine Pairing
 - 数据置信度：official

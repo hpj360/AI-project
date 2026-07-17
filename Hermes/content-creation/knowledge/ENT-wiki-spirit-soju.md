@@ -7,8 +7,6 @@ tags: [烈酒, 烧酒, 韩国, 蒸馏酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wiki-spirit-absinthe, ENT-wiki-spirit-baijiu-intro, ENT-wiki-spirit-arak, ENT-wiki-spirit-grappa, ENT-wiki-spirit-eau-de-vie]
-related_typed: {ENT-wiki-spirit-absinthe: same_subcat, ENT-wiki-spirit-baijiu-intro: same_subcat, ENT-wiki-spirit-arak: same_subcat, ENT-wiki-spirit-grappa: same_subcat, ENT-wiki-spirit-eau-de-vie: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1
@@ -22,26 +20,45 @@ version: 1
 
 韩国烧酒是韩国国民主流烈酒，传统上由大米蒸馏，现代多用多种淀粉原料。
 
-## 图片参考
+## 概述
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Soju%20other_spirit%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Soju%20other_spirit)
-- [Google 图片](https://www.google.com/search?q=Soju%20other_spirit%20bottle&tbm=isch)
+烧酒（Soju，소주）是韩国最具代表性的透明清澈蒸馏酒，是韩国消费量最大的酒精饮料。传统烧酒酒精度在40-50%之间，现代稀释型烧酒通常在16.7%-25%之间，口感清爽顺滑。
 
-## 基础信息
+## 历史背景
 
-- **中文名**：韩国烧酒
-- **外文名**：Soju
-- **分类**：其他烈酒
-- **产地**：韩国
+- **起源**：约13世纪蒙古入侵高丽时期传入蒸馏技术
+- **发展**：朝鲜王朝时期烧酒在民间普及，各地出现家酿传统
+- **现代化**：1965年韩国政府因粮食短缺禁止粮食蒸馏，催生稀释式烧酒
+- **全球化**：21世纪起 Jinro（真露）成为全球销量最高的烈酒品牌之一
 
-## 合规信息
+## 酿造工艺
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 原料
+- **传统**：大米、大麦
+- **现代**：甘薯、木薯、玉米等多种淀粉原料
+- **发酵剂**：酒曲（nuruk，누곡）
+
+### 工艺
+1. 淀粉原料糖化发酵
+2. 蒸馏得到原酒
+3. 现代稀释法：高纯度酒精加水稀释
+4. 添加甜味剂（如果糖）调节口感
+
+## 风味特征
+
+- **颜色**：无色透明
+- **香气**：清淡，略带酒精气息
+- **口感**：传统烧酒较烈且具谷物香；现代稀释烧酒顺滑带微甜
+- **余味**：干净，回味短
+
+## 饮用文化
+
+- 通常冰镇后用小杯饮用
+- 韩国饮酒礼仪：长辈先饮，晚辈需侧身饮酒
+- 常搭配韩国烤肉、海鲜等
+- 现代出现水果味烧酒（柚子、草莓、葡萄等）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wikipedia
 - 数据置信度：verified

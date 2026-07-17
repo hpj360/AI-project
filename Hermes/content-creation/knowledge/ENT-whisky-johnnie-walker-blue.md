@@ -7,8 +7,6 @@ tags: [威士忌, whisky, 苏格兰, Johnnie Walker, 调和, Blue Label, 高端]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-265-black-label, ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-266-clan-campbell]
-related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_brand, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-off-245-monkey-shoulder: same_region, ENT-whisky-off-266-clan-campbell: same_region}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

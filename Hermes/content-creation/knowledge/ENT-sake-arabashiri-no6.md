@@ -7,8 +7,6 @@ tags: [清酒, 日本, 纯米酒, 新政, 秋田]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-sake-aramasa-amaneko, ENT-sake-real-arabashiri-no6-yotsugumo, ENT-sake-takashimizu, ENT-sake-real-juyondai, ENT-sake-real-arabashiri]
-related_typed: {ENT-sake-aramasa-amaneko: same_brand, ENT-sake-real-arabashiri-no6-yotsugumo: same_brand, ENT-sake-takashimizu: same_region, ENT-sake-real-juyondai: same_subcat, ENT-sake-real-arabashiri: same_subcat}
 data_confidence: simulated
 version: 1
 ---

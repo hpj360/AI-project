@@ -7,8 +7,6 @@ tags: [侍酒, 温度, 清酒, sake, 日本酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
 version: 1
@@ -22,26 +20,99 @@ version: 1
 
 清酒侍酒温度：从 5℃ 冰镇到 50℃ 加热的温度区间与适用类型。
 
-## 图片参考
+## 清酒侍酒温度指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sake%20Service%20Temperature%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Sake%20Service%20Temperature%20pairing)
-- [Google 图片](https://www.google.com/search?q=Sake%20Service%20Temperature%20pairing%20bottle&tbm=isch)
+### 侍酒温度原则
 
-## 基础信息
+- 清酒侍酒温度范围最广：5-55℃
+- 不同类型与等级有最佳温度
+- 同一清酒不同温度呈现不同风味
+- 日本有专门的温度术语
 
-- **中文名**：清酒侍酒温度
-- **外文名**：Sake Temperature
-- **分类**：餐酒搭配
-- **产地**：
+### 清酒温度术语
 
-## 合规信息
+| 日语术语 | 温度 | 中文 |
+|----------|------|------|
+| 雪冷え | 5℃ | 雪冷 |
+| 花冷え | 10℃ | 花冷 |
+| 涼冷え | 15℃ | 凉冷 |
+| 冷や | 5-15℃ | 冷酒 |
+| 常温 | 20℃ | 室温 |
+| 日の燗 | 30℃ | 日燗 |
+| 人肌燗 | 35℃ | 肌肤燗 |
+| ぬる燗 | 40℃ | 温燗 |
+| 上燗 | 45℃ | 上燗 |
+| 熱燗 | 50℃ | 热燗 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 按清酒类型推荐温度
+
+#### 冷酒（5-15℃）
+
+| 清酒类型 | 推荐温度 | 说明 |
+|----------|----------|------|
+| 純米大吟醸 | 5-10℃ | 果香细腻 |
+| 大吟醸 | 5-10℃ | 花果香 |
+| 純米吟醸 | 5-10℃ | 香气优雅 |
+| 吟醸 | 5-10℃ | 香气突出 |
+| 生酒 | 5-10℃ | 清新生酒 |
+| 発泡清酒 | 5-8℃ | 气泡细腻 |
+
+#### 常温（15-20℃）
+
+- 純米酒（轻年）：15-18℃
+- 本醸造：15-18℃
+- 普通酒：18-20℃
+
+#### 燗酒（30-55℃）
+
+| 清酒类型 | 推荐温度 | 说明 |
+|----------|----------|------|
+| 純米酒（陈年） | 40-45℃ | 醇厚圆润 |
+| 本醸造 | 40-45℃ | 标准燗酒 |
+| 生酛・山廃 | 40-45℃ | 传统工艺 |
+| 古酒 | 40-45℃ | 陈年风味 |
+| 普通酒 | 45-50℃ | 热燗 |
+
+### 温度对风味的影响
+
+| 温度 | 影响 |
+|------|------|
+| 低温（5-10℃） | 香气封闭、口感清爽 |
+| 常温（15-20℃） | 香气平衡、风味完整 |
+| 温燗（40℃） | 香气饱满、口感圆润 |
+| 热燗（50℃） | 香气强烈、酒精感突出 |
+
+### 温度调整方法
+
+#### 降温
+- 冰箱冷藏 1-2 小时
+- 冰桶冰水浸 15 分钟
+- 避免冰冻
+
+#### 加热（燗酒）
+- 隔水加热：40-50℃ 热水浸 3-5 分钟
+- 微波炉（不推荐）：易过热
+- 燗酒专用器皿
+- 加热后立即饮用，避免过热
+
+### 酒杯选择
+
+| 酒杯 | 适用 | 说明 |
+|------|------|------|
+| 猪口 O-choko | 常温、燗酒 | 传统小杯 |
+| きき猪口 Kiki-choko | 品鉴 | 蛇目杯 |
+| グラス Glass | 冷酒 | 葡萄酒杯 |
+| ちろり Tokkuri | 燗酒 | 加热壶 |
+| 木枡 Masu | 仪式 | 杉木方盒 |
+
+### 实用建议
+
+- 高级吟醸系冷饮最佳
+- 純米酒适合燗酒，展现醇厚
+- 同一清酒可试不同温度
+- 夏季冷饮，冬季燗酒
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Court of Master Sommeliers
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Jaillance]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition, ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge, ENT-wine_sparkling-off-067-canard-duch-ne]
-related_typed: {ENT-wine_sparkling-off-054-clairette-die-jaillance-tradition: same_brand, ENT-wine_sparkling-off-063-clairette-de-die-doux: same_brand, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_region, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge: same_region, ENT-wine_sparkling-off-067-canard-duch-ne: same_region}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

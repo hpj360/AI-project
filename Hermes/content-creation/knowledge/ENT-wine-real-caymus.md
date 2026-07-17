@@ -7,8 +7,6 @@ tags: [红酒, 美国, 纳帕谷, 赤霞珠, Wagner]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-caymus-2021, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-helanshan-putaojiu, ENT-baike-wine-tonghua-putaojiu]
-related_typed: {ENT-wine-red-caymus-2021: same_brand, ENT-baike-wine-wangchao-putaojiu: cross_region, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-helanshan-putaojiu: same_subcat, ENT-baike-wine-tonghua-putaojiu: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

@@ -7,8 +7,6 @@ tags: [法律法规, 欧盟, 烈酒, GI, 地理标志, Regulation 110/2008]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: Regulation (EC) No 110/2008 of the European Parliament
 version: 1
@@ -22,26 +20,58 @@ version: 1
 
 欧盟烈酒法规EC 110/2008定义烈酒类别、生产工艺要求，并通过GI（地理标志）保护传统产区产品。
 
-## 图片参考
+## 法规概述
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=EU%20Spirit%20Drinks%20Regulation%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/EU%20Spirit%20Drinks%20Regulation%20law)
-- [Google 图片](https://www.google.com/search?q=EU%20Spirit%20Drinks%20Regulation%20law%20bottle&tbm=isch)
+**Regulation (EC) No 110/2008** 于2008年1月15日通过，取代了原1576/89号法规，是欧盟烈酒饮料的核心法律框架。
 
-## 基础信息
+### 法规核心内容
 
-- **中文名**：欧盟烈酒法规EC 110/2008
-- **外文名**：EU Regulation EC No 110/2008 on Spirit Drinks
-- **分类**：法律法规
-- **产地**：
+#### 1. 烈酒定义
 
-## 合规信息
+- 最低酒精度**15% vol**
+- 通过直接蒸馏、浸渍或混合工艺制成
+- 食用酒精需符合欧盟标准
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 2. 烈酒类别定义
+
+| 类别 | 关键要求 |
+|------|----------|
+| Whisky / Whiskey | 谷物发酵，橡木桶陈酿≥3年，ABV≥40% |
+| Cognac | 法国Cognac产区，特定葡萄品种 |
+| Grappa | 意大利产，葡萄渣蒸馏 |
+| Brandy de Jerez | 西班牙Jerez产区，橡木桶陈酿 |
+| Ouzo | 希腊产，茴香风味，不甜 |
+| Pastis | 法国，茴香+甘草，含糖 |
+| Aquavit / Akvavit | 北欧，香菜/茴香风味 |
+| Rum | 甘蔗制品发酵蒸馏 |
+| Vodka | 中性酒精，最低40% vol |
+
+### GI（地理标志）保护
+
+#### 保护级别
+
+| 级别 | 说明 | 示例 |
+|------|------|------|
+| PGI (Protected Geographical Indication) | 至少一个生产阶段在指定地区 | German Rum |
+| PDO (Protected Designation of Origin) | 全部生产环节在指定地区 | Cognac、Grappa di Barolo |
+
+#### 著名GI烈酒
+
+- **Cognac**（法国）：仅限Cognac产区六大子产区
+- **Armagnac**（法国）：仅限Armagnac三区
+- **Calvados**（法国）：诺曼底苹果白兰地
+- **Grappa**（意大利）：仅限意大利境内生产
+- **Pisco**（秘鲁/智利）：受双边协议保护
+- **Slivovitz**（东欧）：李子白兰地
+- **Baijiu**（中国）：2024年部分中国白酒已申请GI保护
+
+#### 保护机制
+
+- 仿冒GI名称违法
+- 即使标注"style"、"type"、"imitation"等也不允许
+- 第三国GI可通过双边协议获得保护
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Regulation (EC) No 110/2008 of the European Parliament
 - 数据置信度：official

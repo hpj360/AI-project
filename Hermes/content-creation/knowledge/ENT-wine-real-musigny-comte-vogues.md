@@ -7,8 +7,6 @@ tags: [葡萄酒, 红葡萄酒, 勃艮第, Musigny, 特级园, 黑皮诺, 武乔
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-musigny-vogue-2015, ENT-wine-red-bonnes-mares-vogue-2015, ENT-wine-real-musigny, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-tonghua-putaojiu]
-related_typed: {ENT-wine-red-musigny-vogue-2015: same_brand, ENT-wine-red-bonnes-mares-vogue-2015: same_brand, ENT-wine-real-musigny: same_region, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-tonghua-putaojiu: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

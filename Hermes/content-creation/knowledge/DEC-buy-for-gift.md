@@ -7,8 +7,6 @@ tags: [购买, 送礼, 礼品, 面子酒, 包装]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-100, DEC-buy-by-budget-300, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium]
-related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-300: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,60 @@ version: 1
 
 送礼选酒策略：兼顾收礼人身份、品牌认知度与礼盒包装。
 
-## 图片参考
+## 送礼选酒策略
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Buying%20for%20Gifts%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Buying%20for%20Gifts%20buying)
-- [Google 图片](https://www.google.com/search?q=Wine%20Buying%20for%20Gifts%20buying%20bottle&tbm=isch)
+### 选购原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 收礼人身份 | 长辈、客户、朋友差异 |
+| 品牌认知度 | 知名品牌易识别 |
+| 包装精美 | 木盒、皮盒、礼盒 |
+| 附赠品鉴卡 | 体现专业与用心 |
 
-- **中文名**：送礼选酒指南
-- **外文名**：Wine Gift Selection
-- **分类**：购买指南
-- **产地**：
+### 按收礼人推荐
 
-## 合规信息
+#### 送长辈
+- 红葡萄酒为主（养生认知）
+- 推荐：波尔多列级庄、勃艮第村庄级
+- 预算：500-2000元
+- 注意：避免过高度数
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 送客户/领导
+- 知名品牌+礼盒包装
+- 推荐：拉菲、玛歌、木桐（正牌或副牌）
+- 预算：1000-5000元
+- 附：专业酒杯或开瓶器
+
+#### 送朋友
+- 性价比+小众精品
+- 推荐：新世界精品、小众产区
+- 预算：200-800元
+- 附：手写品鉴笔记
+
+#### 送女性
+- 甜酒、起泡酒、桃红
+- 推荐：Moscato d'Asti、Prosecco、贵腐甜白
+- 预算：200-1000元
+- 包装：粉色、金色礼盒
+
+### 礼盒搭配建议
+
+| 礼盒类型 | 内容 | 适用 |
+|----------|------|------|
+| 单瓶木盒 | 1 瓶名庄 | 高端礼品 |
+| 双瓶皮盒 | 1红1白 | 中端礼品 |
+| 三瓶礼盒 | 红白起泡 | 朋友馈赠 |
+| 酒杯套装 | 酒+专业杯 | 进阶礼品 |
+
+### 注意事项
+
+- 避开假冒"假洋品牌"
+- 留意保质期与陈年潜力
+- 附品鉴卡更显用心
+- 节日提前 2 周购买
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

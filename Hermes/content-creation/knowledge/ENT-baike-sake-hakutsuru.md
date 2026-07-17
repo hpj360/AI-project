@@ -7,8 +7,6 @@ tags: [百度百科, sake, 白鹤]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-sake-juyondai, ENT-sake-real-dassai-23, ENT-sake-real-kubota-senjuu, ENT-sake-real-hakkaisan-tokubetsu-junmai, ENT-sake-real-juyondai]
-related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-real-dassai-23: cross_region, ENT-sake-real-kubota-senjuu: cross_region, ENT-sake-real-hakkaisan-tokubetsu-junmai: cross_region, ENT-sake-real-juyondai: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E7%99%BD%E9%B9%A4

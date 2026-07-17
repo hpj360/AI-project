@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 菲士, 伏特加, Calpico, 蓝香蕉]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
-related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: verified
 data_source: World's 50 Best Bars 2025 / June's Wine Bar Vancouver
 version: 1

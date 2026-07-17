@@ -7,8 +7,6 @@ tags: [白兰地, 干邑, 法国, 拿破仑]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-xo, ENT-brandy-courvoisier-champs-elysees, ENT-brand-hennessy-vsop, ENT-brand-remy-martin-vsop]
-related_typed: {ENT-brandy-courvoisier-vsop: same_brand, ENT-brandy-courvoisier-xo: same_brand, ENT-brandy-courvoisier-champs-elysees: same_brand, ENT-brand-hennessy-vsop: same_region, ENT-brand-remy-martin-vsop: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

@@ -7,8 +7,6 @@ tags: [黄酒, 绍兴, 会稽山]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-yellow-wine-kuaijishan-huangjiu, ENT-yellow-guyuelongshan-10year, ENT-yellow-guyuelongshan-8year-king, ENT-yellow-guyuelongshan-5year, ENT-yellow-guyuelongshan-3year]
-related_typed: {ENT-yellow-wine-kuaijishan-huangjiu: same_brand, ENT-yellow-guyuelongshan-10year: same_region, ENT-yellow-guyuelongshan-8year-king: same_region, ENT-yellow-guyuelongshan-5year: same_region, ENT-yellow-guyuelongshan-3year: same_region}
 data_confidence: simulated
 version: 1
 ---

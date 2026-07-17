@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 现代经典, 金酒, 烧酎, 马天尼]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
-related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
 data_confidence: verified
 data_source: World's 50 Best Bars 2025 / Schmuck NYC
 version: 1

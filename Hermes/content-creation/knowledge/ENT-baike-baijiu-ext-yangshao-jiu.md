@@ -7,8 +7,6 @@ tags: [白酒, 百度百科, 浓香型, 河南, 仰韶酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-baijiu-ext-songhe-liangye, ENT-baike-baijiu-ext-baofeng-jiu, ENT-baike-baijiu-ext-shedian-laojiu, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
-related_typed: {ENT-baike-baijiu-ext-songhe-liangye: same_region, ENT-baike-baijiu-ext-baofeng-jiu: same_region, ENT-baike-baijiu-ext-shedian-laojiu: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/仰韶酒

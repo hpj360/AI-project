@@ -7,8 +7,6 @@ tags: [桃红, rosé, 法国, 普罗旺斯, Château de Selle]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-galoupet-g-2024, ENT-wine-rose-sainte-marguerite-fantastique-2024, ENT-wine-rose-love-by-leoube-2024, ENT-wine-rose-whispering-angel-2024]
-related_typed: {ENT-wine-rose-domaines-ott-clos-mireille-2019: same_brand, ENT-wine-rose-galoupet-g-2024: same_region, ENT-wine-rose-sainte-marguerite-fantastique-2024: same_region, ENT-wine-rose-love-by-leoube-2024: same_region, ENT-wine-rose-whispering-angel-2024: same_subcat}
 data_confidence: verified
 data_source: VinePair
 version: 1

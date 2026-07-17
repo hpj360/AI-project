@@ -7,8 +7,6 @@ tags: [红酒, wine_red, 法国, 波尔多, Pessac-Léognan, Graves, 1855一级�
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-haut-brion, ENT-wine-real-haut-brion, ENT-wine-red-haut-brion-2016, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu]
-related_typed: {ENT-brand-haut-brion: same_brand, ENT-wine-real-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-baike-wine-zhangyu-jiebaina: cross_region, ENT-baike-wine-changcheng-putaojiu: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

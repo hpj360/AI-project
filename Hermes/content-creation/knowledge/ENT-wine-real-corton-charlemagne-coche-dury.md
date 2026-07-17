@@ -7,8 +7,6 @@ tags: [葡萄酒, 白葡萄酒, 勃艮第, Corton-Charlemagne, 特级园, 霞多
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-white-meursault-perrieres-coche-dury-2015, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019]
-related_typed: {ENT-wine-white-meursault-perrieres-coche-dury-2015: same_brand, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: cross_region, ENT-wine_white-off-028-villa-maria-sauvignon-blanc-2019: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

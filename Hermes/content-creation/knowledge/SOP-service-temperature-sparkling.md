@@ -7,8 +7,6 @@ tags: [侍酒, 温度, 起泡酒, 香槟, 饮用温度]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
 version: 1
@@ -22,26 +20,92 @@ version: 1
 
 起泡酒侍酒温度：保持气泡细腻、香气清新的最佳温度区间。
 
-## 图片参考
+## 起泡酒侍酒温度指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sparkling%20Wine%20Service%20Temperature%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Sparkling%20Wine%20Service%20Temperature%20pairing)
-- [Google 图片](https://www.google.com/search?q=Sparkling%20Wine%20Service%20Temperature%20pairing%20bottle&tbm=isch)
+### 侍酒温度原则
 
-## 基础信息
+- 起泡酒需充分冰镇
+- 低温保持气泡细腻
+- 低温减少开瓶喷洒风险
+- 过冷则香气封闭
 
-- **中文名**：起泡酒侍酒温度
-- **外文名**：Sparkling Wine Temperature
-- **分类**：餐酒搭配
-- **产地**：
+### 起泡酒侍酒温度分类
 
-## 合规信息
+| 酒款类型 | 侍酒温度 | 适用 |
+|----------|----------|------|
+| 非年份起泡 | 6-8℃ | NV Champagne、Cava、Prosecco |
+| 年份起泡 | 8-10℃ | Vintage Champagne、Franciacorta |
+| 甜起泡 | 5-7℃ | Moscato d'Asti、Asti |
+| 桃红起泡 | 7-9℃ | Rosé Champagne、Rosé Prosecco |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 按酒款详细温度
+
+#### 香槟 Champagne
+- 非年份 NV：6-8℃
+- 年份 Vintage：8-10℃
+- 顶级特酿 Cuvée de Prestige：10-12℃
+- 桃红香槟：7-9℃
+
+#### 其他起泡酒
+- 西班牙 Cava：6-8℃
+- 意大利 Prosecco：6-8℃
+- 意大利 Franciacorta：8-10℃
+- 德国 Sekt：6-8℃
+- 国产起泡：6-8℃
+
+#### 甜型起泡
+- Moscato d'Asti：5-7℃
+- Asti Spumante：5-7℃
+- Demi-Sec 香槟：6-8℃
+- Brachetto d'Acqui：6-8℃
+
+### 温度调整方法
+
+#### 标准冰镇
+- 冰桶冰水浸 30 分钟
+- 冰箱冷藏 3-4 小时
+- 葡萄酒专用冰柜
+
+#### 快速降温
+- 冰水 + 盐（10分钟降至 8℃）
+- 持续冰桶伺候
+
+#### 避免过冷
+- 不要冰冻（<0℃ 破坏酒质）
+- 低于 4℃ 香气严重封闭
+- 0℃ 以下酒瓶可能爆裂
+
+### 温度对风味的影响
+
+| 温度 | 影响 |
+|------|------|
+| 过高（>12℃） | 气泡粗大、酒精感突出 |
+| 适中（6-10℃） | 气泡细腻、香气清新 |
+| 过低（<4℃） | 香气封闭、风味寡淡 |
+
+### 起泡酒开瓶安全
+
+#### 标准开瓶流程
+1. 拆开金属笼罩，保留纽扣
+2. 一手握住瓶塞，一手转动瓶身
+3. 缓慢旋转，让瓶塞缓慢脱出
+4. 倾斜 45 度，避免喷洒
+5. 听到"嘶"声而非"啵"声
+
+#### 安全要点
+- 不要摇晃酒瓶
+- 瓶口不要朝向人
+- 开瓶时用毛巾覆盖瓶塞
+- 冰镇充分可减少压力
+
+### 实用建议
+
+- 起泡酒全程冰桶伺候
+- 中国夏季建议稍低 1-2℃
+- 甜型起泡可稍低，增加清爽感
+- 顶级香槟可稍高，释放复杂香气
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Court of Master Sommeliers
 - 数据置信度：official

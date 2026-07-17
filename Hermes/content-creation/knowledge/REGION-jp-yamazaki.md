@@ -7,8 +7,6 @@ tags: [产区风土, 日本, 山崎, 白州, 威士忌]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-alsace, REGION-france-provence, REGION-france-languedoc, REGION-italy-tuscany, REGION-italy-piedmont]
-related_typed: {REGION-france-alsace: same_subcat, REGION-france-provence: same_subcat, REGION-france-languedoc: same_subcat, REGION-italy-tuscany: same_subcat, REGION-italy-piedmont: same_subcat}
 data_confidence: official
 data_source: 三得利官方资料
 version: 1
@@ -22,26 +20,89 @@ version: 1
 
 日本威士忌两大旗舰蒸馏所，山崎的柔和细腻与白州的森林清新并称双璧。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Yamazaki%20%26%20Hakushu%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Yamazaki%20%26%20Hakushu%20region)
-- [Google 图片](https://www.google.com/search?q=Yamazaki%20%26%20Hakushu%20region%20bottle&tbm=isch)
+### 山崎蒸馏所 Yamazaki Distillery
+- 京都府大山崎町
+- 桂川、宇治川、木津川三川汇流
+- 海拔约50米
+- 湿润温和气候
+- 雾气丰富，适合陈年
 
-## 基础信息
+### 白州蒸馏所 Hakushu Distillery
+- 山梨县北杜市
+- 甲斐驹岳山麓
+- 海拔约700米
+- 日本最高的威士忌蒸馏所
+- 森林环绕，凉爽清新
 
-- **中文名**：山崎/白州
-- **外文名**：Yamazaki & Hakushu
-- **分类**：产区风土
-- **产地**：
+## 山崎蒸馏所
 
-## 合规信息
+### 历史
+- 1923年鸟井信治郎创立
+- 日本第一座麦芽威士忌蒸馏所
+- 首任酿酒师：竹鹤政孝（后创立Nikka）
+- 1984年山崎单一麦芽威士忌上市
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 设备特点
+- 不同形状铜壶蒸馏器（直颈、灯笼颈等）
+- 木桶发酵槽（日本罕见）
+- 多样原酒风格
+- 不同橡木桶组合
+
+### 风格
+- 柔和细腻
+- 花果香明显
+- 水楢桶（Mizunara）使用
+- 复杂平衡
+
+## 白州蒸馏所
+
+### 历史
+- 1973年三得利建立
+- 山崎50年后第二蒸馏所
+- 海拔700米森林环境
+
+### 设备特点
+- 直火加热蒸馏器
+- 不同蒸馏器组合
+- 木桶发酵
+- 森林微气候
+
+### 风格
+- 清新薄荷、森林气息
+- 轻盈优雅
+- 高酸度
+- "森林蒸馏所"
+
+## 日本威士忌特色
+- **水楢橡木 Mizunara Oak**
+  - 日本国产橡木
+  - 香气：檀香、寺庙香
+  - 透气性高，难加工
+  - 长期陈年开发独特香气
+- **柔和水质**：花岗岩过滤
+- **精确工艺**：日本匠人精神
+- **多样木桶**：波本、雪利、水楢
+
+## 主要产品
+- 山崎12年、18年、25年
+- 白州12年、18年、25年
+- 响 Hibiki（调和）：山崎+白州+知多
+- 限量单桶
+
+## 国际荣誉
+- 2003年山崎12年获ISC金奖
+- 2015年山崎Sherry Cask 2013获WWA世界最佳
+- 日威价格全球飙升
+
+## 代表产品
+- 山崎18年、25年
+- 白州18年、25年
+- 响21年、30年
+- 限量单桶Release
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：三得利官方资料
 - 数据置信度：official

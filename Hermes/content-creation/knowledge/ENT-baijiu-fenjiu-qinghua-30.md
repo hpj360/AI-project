@@ -7,8 +7,6 @@ tags: [白酒, baijiu, 中国, 山西, 汾酒, 清香型, 53度]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baijiu-fenjiu-laobaifen-10, ENT-baijiu-fenjiu-huangai-bofen, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
-related_typed: {ENT-baijiu-fenjiu-laobaifen-10: same_brand, ENT-baijiu-fenjiu-huangai-bofen: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: verified
 data_source: 新浪财经 / 京东
 version: 1

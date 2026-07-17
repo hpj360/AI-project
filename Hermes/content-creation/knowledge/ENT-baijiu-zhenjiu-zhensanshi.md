@@ -7,8 +7,6 @@ tags: [白酒, 酱香, 贵州, 珍酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baijiu-dongjiu-guomi-dongjiu, ENT-baijiu-dongjiu-hongbiao-dongjiu, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
-related_typed: {ENT-baijiu-dongjiu-guomi-dongjiu: same_region, ENT-baijiu-dongjiu-hongbiao-dongjiu: same_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [威士忌, 苏格兰, 单一麦芽, 高地, 雪莉桶]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-glenmorangie-original, ENT-whisky-dalmore-12, ENT-whisky-dalmore-15, ENT-whisky-clynelish-14, ENT-brand-jack-daniels-no7]
-related_typed: {ENT-whisky-glenmorangie-original: same_brand, ENT-whisky-dalmore-12: same_region, ENT-whisky-dalmore-15: same_region, ENT-whisky-clynelish-14: same_region, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [百度百科, rice_wine, 客家娘酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rice-guilin-san-hua-52, ENT-rice-guilin-san-hua-dongzang-10, ENT-rice-jiujiang-shuangzheng-29-5, ENT-rice-shiwan-yubingshao-29, ENT-baike-rice_wine-riben-qingjiu]
-related_typed: {ENT-rice-guilin-san-hua-52: cross_region, ENT-rice-guilin-san-hua-dongzang-10: cross_region, ENT-rice-jiujiang-shuangzheng-29-5: cross_region, ENT-rice-shiwan-yubingshao-29: cross_region, ENT-baike-rice_wine-riben-qingjiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E5%AE%A2%E5%AE%B6%E5%A8%98%E9%85%92

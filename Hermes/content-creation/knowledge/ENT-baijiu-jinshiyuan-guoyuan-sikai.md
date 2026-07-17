@@ -7,8 +7,6 @@ tags: [白酒, 浓香, 江苏, 今世缘]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-baijiu-ext-jinshiyuan, ENT-baijiu-moutai-yingbin, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
-related_typed: {ENT-baike-baijiu-ext-jinshiyuan: same_brand, ENT-baijiu-moutai-yingbin: cross_region, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 data_confidence: simulated
 version: 1
 ---

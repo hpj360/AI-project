@@ -7,8 +7,6 @@ tags: [白酒, 百度百科, 豉香型, 广东, 玉冰烧]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-baijiu-ext-jiujiang-shuangzheng, ENT-baijiu-luzhou-touqu, ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-fenjiu-laobaifen-10]
-related_typed: {ENT-baike-baijiu-ext-jiujiang-shuangzheng: same_region, ENT-baijiu-luzhou-touqu: same_subcat, ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat, ENT-baijiu-fenjiu-laobaifen-10: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/玉冰烧

@@ -7,8 +7,6 @@ tags: [法律法规, 进口税, 关税, 消费税, 增值税, 中国]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: 中华人民共和国海关总署、国家税务总局
 version: 1
@@ -22,26 +20,50 @@ version: 1
 
 中国酒类进口综合税率包含关税14%、增值税13%、消费税（按酒类不同），构成进口成本主要部分。
 
-## 图片参考
+## 进口税率结构
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=China%20Alcohol%20Import%20Tax%20Rates%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/China%20Alcohol%20Import%20Tax%20Rates%20law)
-- [Google 图片](https://www.google.com/search?q=China%20Alcohol%20Import%20Tax%20Rates%20law%20bottle&tbm=isch)
+### 综合税率组成
 
-## 基础信息
+进口酒类进入中国市场需缴纳三类税：
 
-- **中文名**：中国酒类进口关税与消费税
-- **外文名**：China Alcohol Import Tariff and Consumption Tax
-- **分类**：法律法规
-- **产地**：
+| 税种 | 税率 | 计税基础 |
+|------|------|----------|
+| 关税 | 14%（最惠国） | CIF完税价格 |
+| 增值税 | 13% | （关税完税价格+关税+消费税） |
+| 消费税 | 按酒类不同 | 从价+从量复合计征 |
 
-## 合规信息
+### 各酒类消费税细则
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+依据《财政部 国家税务总局关于进口环节消费税有关问题的通知》：
+
+| 酒类 | 消费税税率 | 备注 |
+|------|------------|------|
+| 葡萄酒（HS 22042100） | 10%从价 | 进口瓶装葡萄酒 |
+| 散装葡萄酒（HS 22042900） | 10%从价 | 散装进口 |
+| 啤酒（HS 22030000） | 250元/吨（≤10°P） | 从量计征 |
+| 啤酒（>10°P） | 220元/吨 | 从量计征 |
+| 烈酒/白酒（HS 2208） | 20%从价+0.912元/升 | 复合计征 |
+| 黄酒（HS 22060010） | 240元/吨 | 从量计征 |
+
+### 综合税率示例
+
+以进口一瓶CIF价100元人民币的葡萄酒为例：
+
+```
+关税 = 100 × 14% = 14.00元
+消费税 = (100 + 14) / (1 - 10%) × 10% = 12.67元
+增值税 = (100 + 14 + 12.67) × 13% = 16.46元
+总税负 = 43.13元（综合税率约43.1%）
+```
+
+### 自贸协定优惠
+
+- **新西兰**：根据中新自贸协定，原产新西兰的葡萄酒关税已降为零
+- **智利**：中智自贸协定下葡萄酒关税已降为零
+- **澳大利亚**：原产澳大利亚葡萄酒曾享受零关税，2021年起临时反倾销措施加征关税
+- **东盟**：部分成员国原产酒类享受关税优惠
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：中华人民共和国海关总署、国家税务总局
 - 数据置信度：official

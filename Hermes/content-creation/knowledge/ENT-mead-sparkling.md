@@ -7,8 +7,6 @@ tags: [蜂蜜酒, 美国, 气泡, sparkling]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-mead-strawberry, ENT-mead-blueberry, ENT-mead-peach, ENT-mead-heidrun-orange-blossom, ENT-mead-shennong-honey]
-related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-heidrun-orange-blossom: same_region, ENT-mead-shennong-honey: same_subcat}
 data_confidence: simulated
 version: 1
 ---

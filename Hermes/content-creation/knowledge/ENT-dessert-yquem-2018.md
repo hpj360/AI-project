@@ -7,8 +7,6 @@ tags: [甜酒, dessert, 法国, 波尔多, 苏玳, Sauternes, 贵腐, Premier Cr
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-rieussec-premier-cru, ENT-wine-real-yquem-2017, ENT-dessert-royal-tokaji-gold-label]
-related_typed: {ENT-dessert-yquem-2022: same_brand, ENT-dessert-suduiraut-2023: same_region, ENT-dessert-rieussec-premier-cru: same_region, ENT-wine-real-yquem-2017: same_region, ENT-dessert-royal-tokaji-gold-label: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

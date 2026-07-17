@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, gin, 金酒, Hendrick's]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-gin-hendricks, ENT-gin-hendricks-lunar, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24]
-related_typed: {ENT-gin-hendricks: same_brand, ENT-gin-hendricks-lunar: same_brand, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

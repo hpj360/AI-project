@@ -7,8 +7,6 @@ tags: [米酒, rice_wine, 中国, 广西, 桂林, 三花酒, 米香型, 52度, �
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rice-guilin-san-hua-dongzang-10, ENT-rice-wine-guilin-sanhua, ENT-rice-wine-guilin-sanhua-mijiu, ENT-rice-lijiang-san-hua-52, ENT-rice-lijiang-san-hua-28]
-related_typed: {ENT-rice-guilin-san-hua-dongzang-10: same_brand, ENT-rice-wine-guilin-sanhua: same_brand, ENT-rice-wine-guilin-sanhua-mijiu: same_brand, ENT-rice-lijiang-san-hua-52: same_region, ENT-rice-lijiang-san-hua-28: same_region}
 data_confidence: verified
 data_source: smzdm / 京东 / 桂林三花官网
 version: 1

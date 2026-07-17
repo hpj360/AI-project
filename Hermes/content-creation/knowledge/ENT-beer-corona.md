@@ -7,8 +7,6 @@ tags: [啤酒, 墨西哥, 科罗娜, 工业拉格]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-real-corona-extra, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu, ENT-baike-beer-haerbin-pijiu]
-related_typed: {ENT-beer-real-corona-extra: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: cross_region, ENT-baike-beer-haerbin-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

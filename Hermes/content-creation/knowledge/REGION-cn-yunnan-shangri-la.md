@@ -7,8 +7,6 @@ tags: [产区风土, 中国, 云南, 香格里拉, 高海拔, 敖云]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official
 data_source: 迪庆州葡萄产业发展办公室
 version: 1
@@ -22,26 +20,92 @@ version: 1
 
 世界海拔最高的精品葡萄酒产区之一，敖云（Ao Yun）为代表的梅里雪山传奇。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Yunnan%20Shangri-La%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Yunnan%20Shangri-La%20region)
-- [Google 图片](https://www.google.com/search?q=Yunnan%20Shangri-La%20region%20bottle&tbm=isch)
+### 位置
+- 云南省西北部迪庆藏族自治州
+- 横断山脉梅里雪山区域
+- 澜沧江、金沙江上游河谷
+- 北纬28°，"三江并流"世界遗产地
 
-## 基础信息
+### 气候
+- 高海拔低纬度独特气候
+- 海拔1800-2800米
+- 立体气候，垂直差异大
+- 干湿季分明
+- 日照强烈，紫外线高
+- 昼夜温差极大
 
-- **中文名**：云南香格里拉
-- **外文名**：Yunnan Shangri-La
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 河谷冲积土、沙壤土
+- 含丰富矿物质
+- 不同海拔、坡向差异显著
+- 澜沧江峡谷砾石冲积
 
-## 合规信息
+## 子产区特点
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 阿东村（Adong）
+- 海拔2200米
+- 敖云酒庄主葡萄园之一
+- 西向坡，光照充足
+
+### 斯农村（Sinong）
+- 海拔2000-2200米
+- 澜沧江河谷
+- 沙质冲积土
+
+### 西当村（Xitang）
+- 海拔1900米
+- 较温暖
+- 早熟
+
+### 朔日村（Shuori）
+- 海拔2400米
+- 高凉爽
+- 晚熟
+
+## 主要品种
+
+### 红品种
+- **赤霞珠**：主力，敖云核心
+- **品丽珠**：调配
+- **美乐**：辅助
+- **西拉**：少量
+
+### 白品种
+- **霞多丽**：少量试验
+
+## 高海拔特色
+- 海拔2200米，世界最高葡萄酒产区之一
+- 强紫外线促进花青素合成
+- 昼夜温差延缓成熟，保留酸度
+- 风味物质积累丰富
+- 病害压力小，有机潜力大
+
+## 敖云（Ao Yun）项目
+- LVMH集团投资
+- 2008年启动
+- 首席酿酒师：Tony Jordan博士
+- 2013年首发年份
+- "云之上"寓意
+- 多村葡萄园调配
+- 国际市场售价逾300美元
+
+## 历史与挑战
+- 2000年前零星种植
+- 2008年LVMH勘察启动
+- 高海拔运输、管理困难
+- 偏远地区基础设施薄弱
+- 小农种植，需精细管理
+- 冬季无需埋藤（高海拔但干冷抗寒）
+
+## 代表酒庄
+- **敖云酒庄（Ao Yun）**- LVMH旗舰中国项目
+- **香格里拉酒业**- 本土企业
+- **太阳魂酒庄**- 梅里雪山
+- **扎西酒庄**- 藏式风情
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：迪庆州葡萄产业发展办公室
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [酿造工艺, 起泡酒, 传统法, Charmat法, 二氧化碳注入]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [PROC-fermentation-basics, PROC-fermentation-wild-vs-commercial, PROC-distillation-pot-still, PROC-distillation-column-still, PROC-aging-oak-types]
-related_typed: {PROC-fermentation-basics: same_subcat, PROC-fermentation-wild-vs-commercial: same_subcat, PROC-distillation-pot-still: same_subcat, PROC-distillation-column-still: same_subcat, PROC-aging-oak-types: same_subcat}
 data_confidence: official
 data_source: WSET/CIVC
 version: 1
@@ -22,26 +20,164 @@ version: 1
 
 起泡酒四大工艺：传统法、Charmat法、转移法、二氧化碳注入，造就香槟到普罗塞克的不同风格。
 
-## 图片参考
+## 四大起泡工艺
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sparkling%20Wine%20Methods%20Comparison%20process%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Sparkling%20Wine%20Methods%20Comparison%20process)
-- [Google 图片](https://www.google.com/search?q=Sparkling%20Wine%20Methods%20Comparison%20process%20bottle&tbm=isch)
+### 1. 传统法 Traditional Method
+（Méthode Traditionnelle / Méthode Classique）
 
-## 基础信息
+#### 工艺流程
+1. **基酒酿造**：静止白/红酒
+2. **装瓶+糖+酵母**：liqueur de tirage
+3. **瓶内二次发酵**：糖发酵产CO2
+4. **酒泥陈年**：瓶内接触死酵母
+   - 香槟法定≥12个月
+   - 年份香槟≥36个月
+5. **转瓶 Riddling**：酒泥集中瓶口
+6. **除渣 Disgorgement**：冷冻瓶口开盖
+7. **补液 Dosage**：糖酒混合液调整甜度
+8. **封塞 Corking**
 
-- **中文名**：起泡工艺对比
-- **外文名**：Sparkling Wine Methods Comparison
-- **分类**：酿造工艺
-- **产地**：
+#### 优势
+- 风味复杂
+- 酵母自溶贡献（面包、饼干、烤坚果）
+- 气泡细腻持久
+- 陈年潜力强
 
-## 合规信息
+#### 劣势
+- 工艺复杂
+- 时间长
+- 成本高
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 代表
+- 香槟 Champagne
+- 西班牙 Cava
+- 法兰恰柯塔 Franciacorta
+- 南非传统法
+- 加州传统法
+
+### 2. Charmat法（Tank Method / Cuve Close）
+（意大利法 / 罐内发酵法）
+
+#### 工艺流程
+1. **基酒酿造**
+2. **转入压力罐**
+3. **加糖+酵母**
+4. **罐内二次发酵**
+5. **冷却、过滤**
+6. **加 liqueur d'expédition**
+7. **加压装瓶**
+
+#### 优势
+- 保留品种果香
+- 成本低
+- 周期短
+- 适合芳香品种
+
+#### 劣势
+- 风味简单
+- 缺乏酵母自溶复杂度（除非延长接触）
+- 气泡相对粗
+
+#### 代表
+- Prosecco（Glera）
+- Asti Spumante（Moscato）
+- Sekt（德国大部分）
+- Lambrusco
+
+### 3. 转移法 Transfer Method
+
+#### 工艺流程
+1. 传统法瓶内二次发酵
+2. **不转瓶、不除渣**
+3. 倒入压力罐
+4. 过滤酒泥
+5. 补液
+6. 加压装瓶
+
+#### 优势
+- 节省转瓶除渣成本
+- 保留酵母自溶复杂度
+- 一致性好
+
+#### 劣势
+- 介于传统法与Charmat之间
+- 复杂度略低于传统法
+
+#### 代表
+- 澳大利亚起泡酒
+- 部分大容量香槟
+- 较少小瓶装（<375ml或>1.5L）
+
+### 4. 二氧化碳注入法 Carbonation
+
+#### 工艺流程
+1. 静止酒
+2. **直接注入CO2**
+3. 加压装瓶
+
+#### 优势
+- 成本极低
+- 速度极快
+
+#### 劣势
+- 气泡大、不持久
+- 无酵母复杂度
+- 风味单一
+
+#### 代表
+- 最便宜的起泡酒
+- 部分果味起泡
+
+## 各工艺气泡对比
+
+| 工艺 | 气泡大小 | 持久性 | 压力 |
+|------|----------|--------|------|
+| 传统法 | 极细 | 长 | 5-6 atm |
+| Charmat | 中等 | 中 | 4-5 atm |
+| 转移法 | 细 | 长 | 5-6 atm |
+| 注入法 | 粗 | 短 | 3-4 atm |
+
+## 甜度分类（适用于所有起泡酒）
+
+| 等级 | 残糖 g/L | 描述 |
+|------|----------|------|
+| Brut Nature | 0-3 | 极干 |
+| Extra Brut | 0-6 | 极干 |
+| Brut | 0-12 | 干 |
+| Extra Dry | 12-17 | 微甜 |
+| Dry/Sec | 17-32 | 微甜 |
+| Demi-Sec | 32-50 | 甜 |
+| Doux | 50+ | 甜 |
+
+## 酵母自溶（传统法独有）
+
+### 过程
+- 二次发酵后酵母死亡
+- 细胞壁分解释放物质
+- 持续6个月-数年
+
+### 贡献
+- **多糖**：酒体圆润
+- **氨基酸**：鲜味、复杂度
+- **酯类**：面包、饼干、烤坚果
+- **蛋白质**：气泡稳定
+
+## 经济学比较
+
+| 工艺 | 时间 | 成本 | 价格 |
+|------|------|------|------|
+| 传统法 | 12-36个月+ | 高 | 高 |
+| 转移法 | 6-12个月 | 中 | 中 |
+| Charmat | 1-3个月 | 低 | 低-中 |
+| 注入法 | 1周 | 极低 | 低 |
+
+## 选择逻辑
+- **强调风土与陈年**：传统法
+- **强调品种果香**：Charmat法
+- **大规模经济**：转移法或Charmat
+- **低端量产**：注入法
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/CIVC
 - 数据置信度：official

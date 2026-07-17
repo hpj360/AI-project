@@ -7,8 +7,6 @@ tags: [鸡尾酒, 茱莉普, 波本, 薄荷, 美国南方]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-whiskey-smash, ENT-cocktail-sous-vide-vanilla-bourbon, ENT-cocktail-kentucky-buck, ENT-baike-spirits_intl-chivas-18, ENT-brand-macallan-12]
-related_typed: {ENT-cocktail-whiskey-smash: same_region, ENT-cocktail-sous-vide-vanilla-bourbon: same_region, ENT-cocktail-kentucky-buck: same_region, ENT-baike-spirits_intl-chivas-18: base_to_cocktail, ENT-brand-macallan-12: base_to_cocktail}
 data_confidence: simulated
 data_source: 传统配方
 version: 1

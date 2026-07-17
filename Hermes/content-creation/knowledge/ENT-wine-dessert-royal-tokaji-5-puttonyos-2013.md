@@ -7,8 +7,6 @@ tags: [甜酒, 托卡伊, 5 Puttonyos, 皇家托卡伊]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-dessert-royal-tokaji-eszencia-2008, ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-royal-tokaji-gold-label]
-related_typed: {ENT-wine-dessert-royal-tokaji-eszencia-2008: same_brand, ENT-dessert-yquem-2018: cross_region, ENT-dessert-yquem-2022: cross_region, ENT-dessert-suduiraut-2023: cross_region, ENT-dessert-royal-tokaji-gold-label: same_subcat}
 data_confidence: simulated
 version: 1
 ---

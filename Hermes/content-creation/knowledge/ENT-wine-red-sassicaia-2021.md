@@ -7,8 +7,6 @@ tags: [葡萄酒, 红葡萄酒, 意大利, 超级托斯卡纳, 西施佳雅, Bol
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-sassicaia, ENT-wine-red-sassicaia-2016, ENT-wine-real-sassicaia-2018, ENT-wine-red-masseto-2021, ENT-wine-red-ornellaia-2021]
-related_typed: {ENT-wine-real-sassicaia: same_brand, ENT-wine-red-sassicaia-2016: same_brand, ENT-wine-real-sassicaia-2018: same_region, ENT-wine-red-masseto-2021: same_region, ENT-wine-red-ornellaia-2021: same_region}
 data_confidence: verified
 data_source: Wine-Searcher / wine-searcher.com
 version: 1

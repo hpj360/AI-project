@@ -7,8 +7,6 @@ tags: [酒具器皿, 醒酒器, 红酒, 醒酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-glassware-red-bordeaux, SOP-glassware-red-burgundy, SOP-glassware-white, SOP-glassware-sparkling, SOP-glassware-spirits]
-related_typed: {SOP-glassware-red-bordeaux: same_subcat, SOP-glassware-red-burgundy: same_subcat, SOP-glassware-white: same_subcat, SOP-glassware-sparkling: same_subcat, SOP-glassware-spirits: same_subcat}
 data_confidence: official
 data_source: RIEDEL官方指南/WSET标准
 version: 1
@@ -22,26 +20,66 @@ version: 1
 
 鸭形、U型、蛇形等醒酒器类型及醒酒时长选择指南。
 
-## 图片参考
+## 主流醒酒器类型
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Decanter%20Types%20and%20Selection%20glassware%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Decanter%20Types%20and%20Selection%20glassware)
-- [Google 图片](https://www.google.com/search?q=Decanter%20Types%20and%20Selection%20glassware%20bottle&tbm=isch)
+### 按形状分类
 
-## 基础信息
+| 类型 | 形状特点 | 优势 | 适用场景 |
+|------|---------|------|---------|
+| 鸭形（Duck） | 扁平、宽腹长颈 | 接触空气面大 | 年轻红酒快速醒酒 |
+| U型/船形 | 双侧弯曲、宽底 | 优雅、易清洁 | 通用醒酒 |
+| 蛇形（Serpentine） | 蜿蜒曲线、长颈 | 增加酒液流程 | 老酒温和醒酒 |
+| 标准圆腹 | 球形大腹、短颈 | 经典实用 | 日常醒酒 |
+| 摇摆型 | 底部可摇摆 | 加速醒酒 | 快速醒酒 |
+| 无铅水晶方瓶 | 方形宽底 | 美观、稳固 | 陈年红酒 |
 
-- **中文名**：醒酒器
-- **外文名**：Decanter
-- **分类**：酒具器皿
-- **产地**：
+### 按容量分类
 
-## 合规信息
+- **750ml标准**：单瓶红酒
+- **1500ml大容量**：1.5L大瓶装
+- **2000ml以上**：醒酒空间大，加速氧化
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+## 醒酒时长指南
+
+### 按酒款类型
+
+| 酒款类型 | 醒酒时长 | 醒酒器选择 |
+|---------|---------|-----------|
+| 年轻波尔多（<5年） | 2-4小时 | 鸭形/摇摆型 |
+| 陈年波尔多（10-20年） | 30-60分钟 | U型/标准圆腹 |
+| 老酒（20年以上） | 0-30分钟 | 蛇形（温和）|
+| 年轻勃艮第 | 1-2小时 | 标准圆腹 |
+| 老勃艮第 | 0-30分钟 | 蛇形/直接杯中 |
+| 巴罗洛/巴巴莱斯科 | 3-6小时 | 鸭形 |
+| 西拉 | 1-2小时 | U型 |
+| 赤霞珠（年轻） | 2-3小时 | 鸭形 |
+
+### 老酒特殊处理
+
+1. **直立静置**：开瓶前24-48小时直立
+2. **光源检查**：醒酒时点蜡烛或强光源
+3. **缓慢倾倒**：观察酒渣位置
+4. **及时停顿**：酒渣接近瓶肩立即停止
+
+## 选择要点
+
+1. **材质**：无铅水晶玻璃，透明度高
+2. **容量**：建议750ml-1500ml
+3. **口径**：宽口便于醒酒，窄口便于老酒
+4. **清洁**：选择易清洁的简约造型
+5. **预算**：入门100-300元，进阶500-2000元
+
+## 品牌推荐
+
+| 品牌 | 系列 | 价格区间（RMB） |
+|------|------|----------------|
+| RIEDEL | Ultra/O/Beaujolais | 500-2000 |
+| Schott Zwiesel | 玻璃醒酒器 | 200-600 |
+| Spiegelau | Lifestyle | 300-800 |
+| Rosle | 不锈钢 | 500-1000 |
+| 国产品牌 | 通用 | 100-500 |
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：RIEDEL官方指南/WSET标准
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [梅酒, umeshu, 果酒, 日本, SUNTORY, 山崎, 桶陈]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-fruit-wine-suntory-umeshu, ENT-baike-fruit_wine-guihua-jiu]
-related_typed: {ENT-brand-yamazaki-12: same_brand, ENT-brand-hibiki-harmony: same_brand, ENT-brand-hakushu: same_brand, ENT-fruit-wine-suntory-umeshu: cross_region, ENT-baike-fruit_wine-guihua-jiu: same_subcat}
 data_confidence: verified
 data_source: Suntory 官网 / Wine-Searcher
 version: 1

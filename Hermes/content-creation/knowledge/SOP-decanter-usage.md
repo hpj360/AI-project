@@ -7,8 +7,6 @@ tags: [酒具器皿, 醒酒, 操作规范, 侍酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-glassware-red-bordeaux, SOP-glassware-red-burgundy, SOP-glassware-white, SOP-glassware-sparkling, SOP-glassware-spirits]
-related_typed: {SOP-glassware-red-bordeaux: same_subcat, SOP-glassware-red-burgundy: same_subcat, SOP-glassware-white: same_subcat, SOP-glassware-sparkling: same_subcat, SOP-glassware-spirits: same_subcat}
 data_confidence: official
 data_source: WSET侍酒标准/ISG国际侍酒师协会
 version: 1
@@ -22,26 +20,81 @@ version: 1
 
 从开瓶到侍酒的醒酒全流程规范，老酒与年轻酒的差异化处理。
 
-## 图片参考
+## 醒酒全流程
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Decanting%20Procedure%20glassware%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Decanting%20Procedure%20glassware)
-- [Google 图片](https://www.google.com/search?q=Decanting%20Procedure%20glassware%20bottle&tbm=isch)
+### 第一步：准备
 
-## 基础信息
+1. **酒瓶直立**：开瓶前24-48小时静置，沉淀沉底
+2. **醒酒器清洁**：无香精清洗，无水滴残留
+3. **光源准备**：蜡烛或强光手电筒
+4. **温度控制**：侍酒温度提前2小时调整
 
-- **中文名**：醒酒操作
-- **外文名**：Decanting Procedure
-- **分类**：酒具器皿
-- **产地**：
+### 第二步：开瓶
 
-## 合规信息
+1. **割帽**：沿瓶唇下方切割锡纸
+2. **螺旋插入**：海马刀螺旋45°插入，距软木塞底1cm
+3. **缓慢拔塞**：分两段杠杆拔出
+4. **瓶口擦拭**：用干净布擦净瓶口内外
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 第三步：醒酒
+
+1. **点燃光源**：放在瓶肩下方
+2. **缓慢倾倒**：瓶身倾斜约45°
+3. **观察酒液**：透过光源观察酒渣位置
+4. **持续倒酒**：保持缓慢稳定流速
+5. **停止时机**：酒渣到达瓶肩立即停止
+6. **瓶底余酒**：约50ml带渣酒液弃用
+
+### 第四步：侍酒
+
+1. **醒酒器放置**：桌上醒酒，标注时间
+2. **侍酒温度**：红酒16-18℃，白酒10-13℃
+3. **倒酒规范**：先倒1/3杯，等客人确认
+4. **续杯**：及时补酒，避免空杯
+
+## 年轻酒 vs 老酒
+
+| 维度 | 年轻酒 | 老酒 |
+|------|--------|------|
+| 目的 | 柔化单宁、释放香气 | 分离沉淀、温和氧化 |
+| 时长 | 1-6小时 | 0-30分钟 |
+| 醒酒器 | 鸭形/宽腹 | 蛇形/标准圆腹 |
+| 倾倒速度 | 较快可溅起 | 极缓慢、避免扰动 |
+| 光源检查 | 不必要 | 必须 |
+| 风险 | 不足：单宁粗糙 | 过度：香气流失 |
+
+## 特殊情况处理
+
+### 断塞处理
+
+1. **重新螺旋**：海马刀重新插入断塞
+2. **老酒开瓶器**：使用Ah-So夹住残塞
+3. **过滤**：用细纱布或咖啡滤纸过滤
+
+### 软木塞粉碎
+
+1. **过滤酒液**：用不锈钢滤网
+2. **更换醒酒器**：避免污染
+3. **及时饮用**：不宜长时间存放
+
+### 假酒风险
+
+1. **观察酒液**：颜色、澄清度异常
+2. **闻香确认**：有无异味、霉味
+3. **小口品尝**：确认无异常后醒酒
+
+## 侍酒温度对照
+
+| 酒款 | 侍酒温度 | 醒酒时长 |
+|------|---------|---------|
+| 波尔多年轻 | 16-18℃ | 2-4h |
+| 波尔多陈年 | 16-18℃ | 30-60min |
+| 勃艮第年轻 | 14-16℃ | 1-2h |
+| 勃艮第陈年 | 14-16℃ | 0-30min |
+| 罗纳河北部 | 16-18℃ | 1-3h |
+| 意大利巴罗洛 | 16-18℃ | 3-6h |
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET侍酒标准/ISG国际侍酒师协会
 - 数据置信度：official

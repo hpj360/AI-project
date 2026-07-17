@@ -7,8 +7,6 @@ tags: [假酒鉴别, 汾酒, 防伪, 白酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ANTI-fake-maotai, ANTI-fake-wuliangye, ANTI-fake-lafite, ANTI-fake-maotai-packaging, ANTI-fake-hongxing]
-related_typed: {ANTI-fake-maotai: same_subcat, ANTI-fake-wuliangye: same_subcat, ANTI-fake-lafite: same_subcat, ANTI-fake-maotai-packaging: same_subcat, ANTI-fake-hongxing: same_subcat}
 data_confidence: official
 data_source: 山西杏花村汾酒集团官方防伪指南
 version: 1
@@ -22,26 +20,65 @@ version: 1
 
 汾酒的激光防伪标与瓶盖二维码识别方法。
 
-## 图片参考
+## 防伪鉴别体系
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Fenjiu%20Anti-Counterfeit%20Guide%20fake%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Fenjiu%20Anti-Counterfeit%20Guide%20fake)
-- [Google 图片](https://www.google.com/search?q=Fenjiu%20Anti-Counterfeit%20Guide%20fake%20bottle&tbm=isch)
+### 1. 激光防伪标
 
-## 基础信息
+- **全息图层**：标签上有激光全息防伪图层
+- **变换图案**：变换角度可见"汾酒"字样与杏花图案
+- **微缩文字**：放大可见"FENJIU"微缩字
+- **动态效果**：倾斜标签可见动态光纹
 
-- **中文名**：汾酒防伪鉴别
-- **外文名**：Fenjiu Anti-Counterfeit
-- **分类**：假酒鉴别
-- **产地**：
+### 2. 瓶盖二维码
 
-## 合规信息
+- 瓶盖顶部贴有防伪二维码
+- 使用微信或汾酒官方APP扫码验证
+- 扫码显示生产批次、出厂日期、流通信息
+- 每个二维码仅可有效验证一次
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 瓶盖工艺
+
+- 瓶盖采用一次性断盖设计
+- 开启后断环与盖体分离
+- 盖身有"汾酒"凸字，触摸有立体感
+- 盖顶有防伪芯片或激光标
+
+### 4. 标签识别
+
+- 标签印刷精美，色彩饱满
+- "青花汾酒"或"老白汾"字样为专用字体
+- 标签上有杏花村图案，细节清晰
+- 背标有生产日期与批次喷码
+
+### 5. 瓶身特征
+
+- 青花汾酒采用青花瓷瓶，纹饰精美
+- 老白汾采用透明玻璃瓶
+- 瓶底有厂家代号与模具编号
+- 瓶身与标签贴合平整
+
+### 6. 酒液特征
+
+- 酒液清澈透明，无悬浮物
+- 香气清香纯正，有乙酸乙酯香
+- 入口绵甜爽净，回味悠长
+- 假酒常有刺鼻酒精味或异味
+
+### 常见造假特征
+
+1. 激光防伪标无动态效果或图案模糊
+2. 二维码扫描无响应或跳转异常
+3. 瓶盖断环可复原或无断环设计
+4. 标签字体模糊，色彩失真
+5. 青花瓷瓶纹饰粗糙
+
+### 鉴别建议
+
+- 选择汾酒官方旗舰店或授权经销商
+- 价格明显低于市场价需警惕
+- 注意核对二维码验证结果与瓶身信息
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：山西杏花村汾酒集团官方防伪指南
 - 数据置信度：official

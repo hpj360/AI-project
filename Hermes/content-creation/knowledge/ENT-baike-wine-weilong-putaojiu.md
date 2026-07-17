@@ -7,8 +7,6 @@ tags: [百度百科, wine, 威龙葡萄酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-wine-helanshan-putaojiu, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-baike-wine-zhangyu-putaojiu]
-related_typed: {ENT-baike-wine-helanshan-putaojiu: cross_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-baike-wine-zhangyu-putaojiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E5%A8%81%E9%BE%99%E8%91%A1%E8%90%84%E9%85%92

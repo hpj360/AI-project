@@ -7,8 +7,6 @@ tags: [场景, 商务宴请, 宴请, 面子酒, 礼品]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SCENE-spring-festival, SCENE-mid-autumn, SCENE-wedding, SCENE-birthday, SCENE-date-night]
-related_typed: {SCENE-spring-festival: same_subcat, SCENE-mid-autumn: same_subcat, SCENE-wedding: same_subcat, SCENE-birthday: same_subcat, SCENE-date-night: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,106 @@ version: 1
 
 商务宴请用酒推荐：兼顾品牌认知度、品质稳定与预算合理。
 
-## 图片参考
+## 商务宴请用酒推荐
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Business%20Dinner%20Wine%20scene%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Business%20Dinner%20Wine%20scene)
-- [Google 图片](https://www.google.com/search?q=Business%20Dinner%20Wine%20scene%20bottle&tbm=isch)
+### 商务宴请用酒原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 品牌认知度 | 客户知道、听说过 |
+| 品质稳定 | 大年份、知名酒庄 |
+| 红白搭配 | 红白比例约 7:3 |
+| 预算合理 | 按人头 1 瓶估算 |
 
-- **中文名**：商务宴请用酒
-- **外文名**：Business Dinner Wine
-- **分类**：场景推荐
-- **产地**：
+### 按宴请对象推荐
 
-## 合规信息
+#### 接待外宾
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 阶段 | 推荐酒款 | 价格区间 |
+|------|----------|----------|
+| 开场 | 香槟、起泡酒 | 800-2000元 |
+| 前菜 | 干白（霞多丽、长相思） | 500-1500元 |
+| 主菜 | 红酒（波尔多、勃艮第） | 1000-3000元 |
+| 甜品 | 甜酒（苏玳、冰酒） | 500-1500元 |
+
+#### 中式宴请
+
+| 阶段 | 推荐酒款 | 价格区间 |
+|------|----------|----------|
+| 开场 | 香槟、Cava | 500-1500元 |
+| 海鲜 | 干白（夏布利、霞多丽） | 500-1500元 |
+| 主菜 | 红酒（波尔多、勃艮第） | 800-3000元 |
+| 收尾 | 甜酒或加强酒 | 300-1000元 |
+
+#### 签约庆功
+
+- 香槟开场（必备）
+- 主菜搭配红酒
+- 庆功用年份香槟
+- 预算：1500-5000元/瓶
+
+### 按预算推荐
+
+#### 500-1000元/瓶
+- 波尔多列级庄副牌（Lafite 副牌、Mouton 副牌）
+- 勃艮第村庄级或一级园
+- 新世界精品：Penfolds Bin 407、Jordan
+- 香槟入门（Moët、Veuve Clicquot）
+
+#### 1000-3000元/瓶
+- 波尔多二级庄（Léoville、Pichon）
+- 勃艮第一级园（Gevrey-Chambertin）
+- 知名香槟：Vintage、Salon
+- 顶级新世界（Penfolds Grange 旧年份）
+
+#### 3000元以上/瓶
+- 波尔多一级庄正牌
+- 勃艮第特级园
+- 知名意大利超级托斯卡纳
+- 顶级年份香槟（Krug、Salon）
+
+### 按菜系推荐
+
+#### 中式宴请
+- 海鲜为主：干白（霞多丽、长相思）
+- 红肉为主：波尔多、勃艮第
+- 麻辣川菜：半甜雷司令、琼瑶浆
+- 粤菜清淡：干白、桃红
+
+#### 西式宴请
+- 法餐：勃艮第、波尔多（同源原则）
+- 意餐：Chianti、Brunello
+- 美式：纳帕赤霞珠、马尔贝克
+
+### 商务宴请服务要点
+
+#### 提前准备
+- 确认客人偏好（红/白/起泡）
+- 确认预算与人数
+- 提前 1 周采购
+- 检查酒款状态
+
+#### 侍酒服务
+- 专业侍酒师或服务员
+- 标准开瓶、试饮流程
+- 合适温度服务
+- 餐中续酒
+
+#### 配套准备
+- 专业酒杯（红白酒杯）
+- 冰桶（白酒、起泡）
+- 醒酒器（老酒或重酒）
+- 备用酒款
+
+### 商务宴请注意事项
+
+- 避开过于小众的酒庄
+- 红白起泡比例合理
+- 注意酒精度与餐酒搭配
+- 提前醒酒，备好侍酒工具
+- 准备非酒精饮品（开车者）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [白酒, 百度百科, 特香型, 江西, 四特酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baijiu-site-jiu-shiwunian, ENT-baijiu-site-jiu-hongyun, ENT-baike-baijiu-ext-linchuan-gongjiu, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
-related_typed: {ENT-baijiu-site-jiu-shiwunian: same_brand, ENT-baijiu-site-jiu-hongyun: same_brand, ENT-baike-baijiu-ext-linchuan-gongjiu: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/四特酒

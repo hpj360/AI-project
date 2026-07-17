@@ -7,8 +7,6 @@ tags: [购买, 预算, 300元, 中端, 性价比]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-100, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium, DEC-buy-for-business]
-related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat, DEC-buy-for-business: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,45 @@ version: 1
 
 100-300元价位的选酒策略：可触达村庄级、新世界精品酒庄。
 
-## 图片参考
+## 100-300元选酒策略
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Buying%20Guide%20100-300%20RMB%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Buying%20Guide%20100-300%20RMB%20buying)
-- [Google 图片](https://www.google.com/search?q=Wine%20Buying%20Guide%20100-300%20RMB%20buying%20bottle&tbm=isch)
+### 选购原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 触达村庄级 | 勃艮第村庄级、波尔多产区级 |
+| 新世界精品 | 智利、阿根廷、澳洲精品酒庄 |
+| 关注年份 | 入门级陈年酒款 |
+| 性价比产区 | 西班牙、葡萄牙、南非 |
 
-- **中文名**：百至三百元选酒指南
-- **外文名**：Mid-Range Wine 100-300 RMB
-- **分类**：购买指南
-- **产地**：
+### 推荐产区与酒款
 
-## 合规信息
+#### 红葡萄酒
+- 勃艮第：Mâcon-Villages、Bourgogne Rouge 优质村庄
+- 波尔多：Médoc Cru Bourgeois（中级庄）
+- 罗讷河谷：Côtes du Rhône Villages、教皇新堡入门
+- 西班牙：Rioja Reserva、Ribera del Duero Crianza
+- 意大利：Chianti Classico、Valpolicella Ripasso
+- 智利：Montes Alpha、Concha y Toro Don Melchor 入门
+- 阿根廷：Catena Zapata、Trapiche Broquel
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 白葡萄酒
+- 勃艮第：Mâcon-Villages、Puilly-Fuissé 入门
+- 卢瓦尔：Sancerre、Pouilly-Fumé
+- 阿尔萨斯：Riesling、Pinot Gris
+- 新西兰：Cloudy Bay、Villa Maria Reserve
+
+#### 起泡酒
+- Cava Reserva、高端 Prosecco
+- 国产精品起泡
+
+### 推荐场景
+
+- 日常聚餐：性价比突出
+- 商务便餐：体面不浮夸
+- 自饮收藏：可陈放 3-5 年
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

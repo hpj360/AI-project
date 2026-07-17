@@ -7,8 +7,6 @@ tags: [场景, 婚宴, 婚礼, 用酒清单, 喜庆]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SCENE-spring-festival, SCENE-mid-autumn, SCENE-business-dinner, SCENE-birthday, SCENE-date-night]
-related_typed: {SCENE-spring-festival: same_subcat, SCENE-mid-autumn: same_subcat, SCENE-business-dinner: same_subcat, SCENE-birthday: same_subcat, SCENE-date-night: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,103 @@ version: 1
 
 婚宴用酒完整清单：仪式酒、宴席酒、敬酒酒的全套推荐。
 
-## 图片参考
+## 婚宴用酒推荐清单
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wedding%20Banquet%20Wine%20Recommendations%20scene%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wedding%20Banquet%20Wine%20Recommendations%20scene)
-- [Google 图片](https://www.google.com/search?q=Wedding%20Banquet%20Wine%20Recommendations%20scene%20bottle&tbm=isch)
+### 婚宴用酒原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 喜庆包装 | 红色、金色酒标 |
+| 大众化口感 | 适合多种口味偏好 |
+| 红白搭配 | 红白起泡约 6:2:2 |
+| 预算可控 | 按桌数估算 |
 
-- **中文名**：婚宴用酒推荐清单
-- **外文名**：Wedding Wine List
-- **分类**：场景推荐
-- **产地**：
+### 婚宴用酒清单
 
-## 合规信息
+#### 1. 仪式香槟（开场）
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 推荐酒款 | 价格区间 | 备注 |
+|----------|----------|------|
+| Moët & Chandon | 600-900元 | 经典选择 |
+| Veuve Clicquot | 700-1000元 | 黄色酒标 |
+| Cava Gran Reserva | 200-400元 | 性价比 |
+| Prosecco 高端 | 150-300元 | 经济选择 |
+
+#### 2. 宴席红酒
+
+##### 经济选择（200-400元）
+- 智利赤霞珠（Concha y Toro、Montes）
+- 阿根廷马尔贝克（Trapiche、Norton）
+- 西班牙 Rioja Reserva
+- 国产精品（贺兰山、张裕）
+
+##### 中端选择（400-800元）
+- 波尔多产区级或中级庄
+- 勃艮第村庄级
+- 新世界精品（Penfolds Bin 389）
+- 意大利 Chianti Classico
+
+##### 高端选择（800元以上）
+- 波尔多列级庄副牌
+- 勃艮第一级园
+- 知名香槟
+
+#### 3. 宴席白酒
+
+| 推荐酒款 | 价格区间 |
+|----------|----------|
+| 新西兰长相思（Oyster Bay） | 150-300元 |
+| 智利霞多丽（Cono Sur） | 100-250元 |
+| 法国密斯卡岱 | 150-300元 |
+| 阿尔萨斯干白 | 300-500元 |
+
+#### 4. 敬酒用酒
+
+- 香槟：仪式感强
+- 起泡酒：经济选择
+- 红酒：传统选择
+- 注意：低度数更易入口
+
+### 按桌数估算
+
+| 桌数 | 红酒 | 白酒 | 起泡 | 总瓶数 |
+|------|------|------|------|--------|
+| 10桌 | 50瓶 | 15瓶 | 10瓶 | 75瓶 |
+| 20桌 | 100瓶 | 30瓶 | 20瓶 | 150瓶 |
+| 30桌 | 150瓶 | 45瓶 | 30瓶 | 225瓶 |
+| 50桌 | 250瓶 | 75瓶 | 50瓶 | 375瓶 |
+
+### 按预算推荐
+
+#### 经济方案（200-400元/瓶）
+- 红酒：智利、阿根廷、西班牙
+- 白酒：新西兰、智利
+- 起泡：Cava、Prosecco
+- 总成本：1.5-3万（20桌）
+
+#### 中端方案（400-800元/瓶）
+- 红酒：波尔多、勃艮第村庄
+- 白酒：勃艮第、阿尔萨斯
+- 起泡：香槟入门
+- 总成本：3-6万（20桌）
+
+#### 高端方案（800元以上/瓶）
+- 红酒：波尔多列级庄
+- 白酒：勃艮第一级园
+- 起泡：年份香槟
+- 总成本：6万+（20桌）
+
+### 婚宴用酒注意事项
+
+- 提前 1-2 月预订
+- 选批量稳定的酒款
+- 备用酒按总量 10%
+- 注意酒精度（13%以下更受欢迎）
+- 提供非酒精饮品（开车、孕妇）
+- 准备冰桶（白葡萄酒、起泡酒）
+- 安排专人侍酒服务
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [假酒鉴别, 甲醇中毒, 食品安全, 应急处理]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ANTI-fake-maotai, ANTI-fake-wuliangye, ANTI-fake-lafite, ANTI-fake-maotai-packaging, ANTI-fake-hongxing]
-related_typed: {ANTI-fake-maotai: same_subcat, ANTI-fake-wuliangye: same_subcat, ANTI-fake-lafite: same_subcat, ANTI-fake-maotai-packaging: same_subcat, ANTI-fake-hongxing: same_subcat}
 data_confidence: official
 data_source: 国家卫生健康委员会、中国疾病预防控制中心
 version: 1
@@ -22,26 +20,98 @@ version: 1
 
 工业酒精勾兑假酒的危害、甲醇中毒症状及应急处理方法。
 
-## 图片参考
+## 甲醇中毒概述
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Methanol%20Poisoning%20Identification%20and%20Prevention%20fake%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Methanol%20Poisoning%20Identification%20and%20Prevention%20fake)
-- [Google 图片](https://www.google.com/search?q=Methanol%20Poisoning%20Identification%20and%20Prevention%20fake%20bottle&tbm=isch)
+### 1. 工业酒精勾兑危害
 
-## 基础信息
+- **工业酒精**：含甲醇，有毒，不可食用
+- **勾兑假酒**：不法分子用工业酒精勾兑假酒
+- **甲醇毒性**：摄入4-10克即可中毒，30克可致死
+- **代谢产物**：甲醇在体内代谢为甲酸，损害视神经
+- **法律后果**：勾兑假酒属刑事犯罪
 
-- **中文名**：甲醇中毒识别与预防
-- **外文名**：Methanol Poisoning Prevention
-- **分类**：假酒鉴别
-- **产地**：
+### 2. 中毒症状
 
-## 合规信息
+#### 早期症状（摄入后8-36小时）
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+- 头晕、头痛
+- 恶心、呕吐
+- 腹痛、腹泻
+- 视力模糊
+
+#### 中期症状
+
+- 视力急剧下降
+- 畏光、流泪
+- 心率加快
+- 呼吸困难
+
+#### 严重症状
+
+- 双目失明
+- 意识模糊
+- 昏迷
+- 呼吸衰竭
+- 危及生命
+
+### 3. 应急处理
+
+#### 立即措施
+
+1. **停止饮用**：立即停止饮用可疑酒品
+2. **催吐**：意识清醒者可催吐
+3. **就医**：立即拨打120或前往医院
+4. **保留样本**：保留剩余酒品供检测
+
+#### 医院治疗
+
+- **洗胃**：清除胃内残留甲醇
+- **透析**：血液透析加速甲醇排出
+- **乙醇治疗**：静脉注射乙醇竞争代谢酶
+- **叶酸治疗**：促进甲酸代谢
+- **对症支持**：维持生命体征
+
+### 4. 预防措施
+
+#### 购买环节
+
+- 通过正规渠道购买酒类
+- 选择知名品牌与授权经销商
+- 注意核对防伪标识
+- 价格异常低需警惕
+
+#### 饮用环节
+
+- 不饮用来源不明的酒
+- 不饮用散装酒或自酿酒（无质检）
+- 注意酒品口感与香气异常
+- 适量饮酒，不酗酒
+
+#### 高危场景
+
+- 农村集市、小作坊
+- 网络低价酒
+- 无证经营的酒吧、餐馆
+- 朋友自带的"特产酒"
+
+### 5. 识别可疑酒品
+
+- **气味异常**：有刺鼻化学味
+- **口感异常**：有金属味或苦涩感
+- **饮后反应**：多人同时出现不适
+- **包装异常**：无防伪标识或标识伪造
+
+### 紧急联系方式
+
+- 急救电话：120
+- 中毒咨询：当地中毒控制中心
+- 投诉举报：12315
+
+### 重要提示
+
+甲醇中毒后果严重，发现可疑酒品应立即停止饮用并就医，同时向监管部门举报，避免更多人受害。
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：国家卫生健康委员会、中国疾病预防控制中心
 - 数据置信度：official

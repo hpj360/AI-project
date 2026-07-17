@@ -7,8 +7,6 @@ tags: [侍酒, 家庭, 家宴, 侍酒, 简化]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
 version: 1
@@ -22,26 +20,105 @@ version: 1
 
 家庭侍酒简化版指南：在家宴场景下的实用侍酒流程。
 
-## 图片参考
+## 家庭侍酒指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Home%20Wine%20Service%20Guide%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Home%20Wine%20Service%20Guide%20pairing)
-- [Google 图片](https://www.google.com/search?q=Home%20Wine%20Service%20Guide%20pairing%20bottle&tbm=isch)
+### 家庭侍酒原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 简化流程 | 不必完全遵循餐厅规范 |
+| 重点把握 | 温度、酒杯、开瓶 |
+| 实用为主 | 工具可简化 |
+| 享受为主 | 重在分享 |
 
-- **中文名**：家庭侍酒指南
-- **外文名**：Home Wine Service
-- **分类**：餐酒搭配
-- **产地**：
+### 必备工具
 
-## 合规信息
+| 工具 | 必备 | 说明 |
+|------|------|------|
+| 海马刀 | 必备 | 通用开瓶器 |
+| 酒杯 | 必备 | 通用 ISO 杯即可 |
+| 冰桶 | 可选 | 白酒冰镇 |
+| 醒酒器 | 可选 | 老酒或重酒 |
+| 餐巾 | 必备 | 擦拭瓶口 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 家庭酒杯选择
+
+#### 简化方案
+- 通用 ISO 杯：适用于所有酒款
+- 红白酒杯二选一
+
+#### 进阶方案
+| 酒杯类型 | 适用 | 备注 |
+|----------|------|------|
+| 波尔多杯 | 赤霞珠、梅洛 | 大杯 |
+| 勃艮第杯 | 黑皮诺、霞多丽 | 圆肚 |
+| 白酒杯 | 干白 | 小杯 |
+| 香槟杯 | 起泡酒 | 郁金香或笛型 |
+| 甜酒杯 | 甜酒 | 小杯 |
+
+### 家庭侍酒流程
+
+#### 1. 准备
+- 提前 30 分钟至 1 小时取出酒
+- 调整至合适温度
+- 准备酒杯与开瓶器
+
+#### 2. 温度调整
+
+| 酒款 | 家庭调整方法 |
+|------|--------------|
+| 红酒 | 中国夏季可冰箱 30 分钟 |
+| 白酒 | 冰箱冷藏 2-3 小时 |
+| 起泡酒 | 冰箱冷藏 3-4 小时 |
+| 甜酒 | 冰箱冷藏 2 小时 |
+
+#### 3. 开瓶
+- 标准海马刀开瓶
+- 老酒用 Ah-So 开瓶器
+- 螺旋盖直接拧开
+
+#### 4. 醒酒（按需）
+- 老酒（10年+）：换瓶去渣
+- 年轻轻酒体：直接饮用
+- 年轻重酒体：醒酒 30-60 分钟
+
+#### 5. 倒酒
+- 标准份量：酒杯 1/3
+- 一瓶约 5-6 杯
+- 顺序：女士优先、长辈优先
+
+#### 6. 餐中服务
+- 续酒时询问
+- 保持白酒冰镇
+- 红酒可常温
+
+### 家庭宴请菜单配酒示例
+
+#### 中式家宴
+| 菜品 | 酒款 | 温度 |
+|------|------|------|
+| 凉菜 | 起泡酒 | 6-8℃ |
+| 海鲜 | 干白 | 8-10℃ |
+| 红肉 | 红酒 | 16-18℃ |
+| 甜点 | 甜酒 | 8-10℃ |
+
+#### 西式家宴
+| 菜品 | 酒款 | 温度 |
+|------|------|------|
+| 沙拉 | 干白 | 8-10℃ |
+| 主菜（肉） | 红酒 | 16-18℃ |
+| 奶酪 | 红酒或甜酒 | - |
+| 甜点 | 甜酒 | 8-10℃ |
+
+### 家庭侍酒小贴士
+
+- 提前规划酒单
+- 餐酒搭配为主，不必拘泥
+- 适量饮酒，享受分享
+- 剩酒可冷藏保存 2-3 天
+- 多样化酒款，照顾不同口味
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Court of Master Sommeliers
 - 数据置信度：official

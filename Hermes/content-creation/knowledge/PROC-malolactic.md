@@ -7,8 +7,6 @@ tags: [酿造工艺, 苹果酸-乳酸发酵, MLF, 乳酸菌]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [PROC-fermentation-basics, PROC-fermentation-wild-vs-commercial, PROC-distillation-pot-still, PROC-distillation-column-still, PROC-aging-oak-types]
-related_typed: {PROC-fermentation-basics: same_subcat, PROC-fermentation-wild-vs-commercial: same_subcat, PROC-distillation-pot-still: same_subcat, PROC-distillation-column-still: same_subcat, PROC-aging-oak-types: same_subcat}
 data_confidence: official
 data_source: WSET/Lallemand
 version: 1
@@ -22,26 +20,142 @@ version: 1
 
 苹果酸-乳酸发酵（MLF）将尖锐的苹果酸转化为柔和的乳酸，赋予葡萄酒奶油、黄油风味。
 
-## 图片参考
+## MLF原理
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Malolactic%20Fermentation%20process%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Malolactic%20Fermentation%20process)
-- [Google 图片](https://www.google.com/search?q=Malolactic%20Fermentation%20process%20bottle&tbm=isch)
+### 反应方程式
+```
+L-苹果酸 → L-乳酸 + CO2
+(二元酸)   (一元酸)
+```
+- 由乳酸菌（LAB）驱动
+- 主要菌种：Oenococcus oeni
+- 也有Lactobacillus、Pediococcus
 
-## 基础信息
+### 化学变化
+- 苹果酸（二元酸）→ 乳酸（一元酸）
+- 总酸度降低1-3 g/L
+- pH升高0.1-0.3
+- 释放CO2
 
-- **中文名**：苹果酸-乳酸发酵
-- **外文名**：Malolactic Fermentation
-- **分类**：酿造工艺
-- **产地**：
+## MLF的作用
 
-## 合规信息
+### 1. 降酸
+- 苹果酸更尖锐
+- 乳酸更柔和
+- 适合高酸冷凉产区
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 2. 风味修饰
+- **双乙酰 Diacetyl**：黄油、奶油香气
+- **乙偶姻 Acetoin**：黄油余味
+- 乳酸乙酯：果香增强
+
+### 3. 微生物稳定
+- 消耗苹果酸（细菌营养源）
+- 减少瓶内污染风险
+- 适合陈年
+
+### 4. 口感变化
+- 酒体更圆润
+- 单宁感柔化
+- 余味更复杂
+
+## 触发条件
+
+### 乳酸菌来源
+- **自然存在**：葡萄皮、酒窖环境
+- **接种**：商业Oenococcus oeni制剂
+
+### 适当时机
+- **酒精发酵后**：主流做法
+- **与酒精发酵并行**：风险高
+- **延迟启动**：升温、接种
+
+### 环境要求
+- 温度18-22°C最佳
+- pH>3.2
+- 酒精度<15%
+- SO2低（游离<10mg/L）
+- 营养充足
+
+## 应用领域
+
+### 红葡萄酒
+- **几乎全部经过MLF**
+- 柔化单宁与酸度
+- 增加复杂度
+- 增强稳定性
+- 标准工艺
+
+### 白葡萄酒
+
+#### 经过MLF
+- **勃艮第霞多丽**：经典黄油风格
+- **维欧尼**：圆润丰腴
+- **美国纳帕霞多丽**：浓郁奶油
+- 增加酒体与复杂度
+
+#### 不经过MLF
+- **长相思**：保留清爽酸度
+- **雷司令**：保留纯净果香
+- **阿尔萨斯白**：部分保留酸度
+- 强调清新矿物
+
+### 起泡酒
+- **香槟**：基酒多经过MLF
+- **传统法**：部分酒庄阻止MLF
+- 现代风格：高酸清爽
+
+## 阻止MLF
+
+### 目的
+- 保留苹果酸清新酸度
+- 防止 unwanted MLF
+- 保持风格稳定
+
+### 方法
+- **低温**：<15°C抑制乳酸菌
+- **SO2添加**：游离SO2>20mg/L
+- **过滤**：除去乳酸菌
+- **溶菌酶 Lysozyme**：分解乳酸菌细胞壁
+- **酸度调整**：降低pH
+
+## MLF风险
+
+### 1. 风味失控
+- 双乙酰过高：过度黄油味
+- 乙酸乙酯：指甲油味
+- 杂菌污染
+
+### 2. 历史病害
+- **乳酸病害**：糖被乳酸菌发酵
+- **甘露醇病**：甘露醇产生，甜腻
+- **鼠臭病**：鼠臭味
+
+### 3. pH升高
+- 微生物风险增加
+- 颜色稳定性下降
+- 抗氧化保护降低
+
+## 监测与控制
+
+### 监测方法
+- **纸色谱法**：传统定性
+- **酶法分析**：定量苹果酸
+- **HPLC**：精确分析
+
+### 控制要点
+- 接种优质商业菌
+- 温度维持18-22°C
+- SO2管理
+- pH监测
+
+## 完成MLF
+- 苹果酸<0.1 g/L
+- 立即添加SO2
+- 调整游离SO2至目标值
+- 防止 further 不期望发酵
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/Lallemand
 - 数据置信度：official

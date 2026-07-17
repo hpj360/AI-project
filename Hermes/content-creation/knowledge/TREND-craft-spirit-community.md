@@ -7,8 +7,6 @@ tags: [行业趋势, 精酿, 烈酒, 社区]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [TREND-low-alcohol-rise, TREND-dealcoholization-tech, TREND-non-alcoholic-beer, TREND-non-alcoholic-wine, TREND-low-abv-cocktail]
-related_typed: {TREND-low-alcohol-rise: same_subcat, TREND-dealcoholization-tech: same_subcat, TREND-non-alcoholic-beer: same_subcat, TREND-non-alcoholic-wine: same_subcat, TREND-low-abv-cocktail: same_subcat}
 data_confidence: verified
 data_source: 行业公开报告
 version: 1
@@ -22,26 +20,80 @@ version: 1
 
 小批量、手工、故事性精酿烈酒形成社区文化，吸引品质追求型消费者。
 
-## 图片参考
+## 精酿烈酒社区
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Craft%20Spirit%20Community%20trend%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Craft%20Spirit%20Community%20trend)
-- [Google 图片](https://www.google.com/search?q=Craft%20Spirit%20Community%20trend%20bottle&tbm=isch)
+### 核心理念
 
-## 基础信息
+- **小批量**：产量有限、品质可控
+- **手工酿造**：传统工艺、个性表达
+- **故事性**：创始人、原料、工艺故事
+- **社区文化**：爱好者、品鉴会、教育
 
-- **中文名**：精酿烈酒
-- **外文名**：Craft Spirit
-- **分类**：行业趋势
-- **产地**：
+### 品类分布
 
-## 合规信息
+| 品类 | 代表 | 特点 | 价格带 |
+|------|------|------|--------|
+| 精酿金酒 | 小批量蒸馏 | 多样植物香料 | 200-800 |
+| 精酿威士忌 | 单桶/小批次 | 桶型多样 | 500-3000 |
+| 精酿朗姆 | 单一产区 | 甘蔗品种特色 | 200-1000 |
+| 精酿白兰地 | 单一果园 | 水果特性 | 300-2000 |
+| 中国精酿白酒 | 小作坊 | 古法酿造 | 300-1500 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 社区形态
+
+1. **线下品鉴会**：
+   - 品牌主办
+   - 专业酒吧
+   - 私人聚会
+   - 行业展览
+
+2. **线上社区**：
+   - 微信群
+   - 豆瓣小组
+   - Reddit板块
+   - 专业论坛
+
+3. **教育体系**：
+   - 品鉴课程
+   - 酿造工作坊
+   - 产区探访
+   - 认证体系
+
+### 代表品牌
+
+| 品牌 | 产地 | 品类 | 故事点 | 社区策略 |
+|------|------|------|--------|----------|
+| Monkey 47 | 德国 | 金酒 | 47种植物 | 限量收藏 |
+| Sipsmith | 英国 | 金酒 | 复兴手工蒸馏 | 品鉴教育 |
+| Westland | 美国 | 威士忌 | 美国单麦 | 会员俱乐部 |
+| Kilchoman | 苏格兰 | 威士忌 | 农场蒸馏 | 单桶选购 |
+| 余丰烧坊 | 中国 | 白酒 | 古法传承 | 文化体验 |
+
+### 会员俱乐部模式
+
+- 限量优先购买
+- 单桶选购权益
+- 产区探访邀请
+- 创始人交流
+- 收藏价值保障
+
+### 消费者画像
+
+- 年龄：30-50岁为主
+- 收入：中高以上
+- 教育：本科以上居多
+- 价值观：品质、个性、故事
+- 消费：单瓶500-3000元
+
+### 发展挑战
+
+- 产量有限难规模化
+- 品质稳定性挑战
+- 渠道建设成本高
+- 品牌教育周期长
+- 政策监管严格
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：行业公开报告
 - 数据置信度：verified

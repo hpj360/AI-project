@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 脂肪洗油, 朗姆, 椰子油, 潘趣]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-newark, ENT-cocktail-mezcal-final-word, ENT-cocktail-coconut-miso-sour, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
-related_typed: {ENT-cocktail-newark: same_brand, ENT-cocktail-mezcal-final-word: same_brand, ENT-cocktail-coconut-miso-sour: same_brand, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: verified
 data_source: 2026 脂肪洗油技法 / 通用配方
 version: 1

@@ -7,8 +7,6 @@ tags: [梅酒, umeshu, 果酒, 日本, CHOYA, 青梅]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-fruit-choya-extra-years, ENT-fruit-choya-aged-3-years-extra-fruit, ENT-fruit-choya-gold-edition, ENT-fruit-wine-choya-umeshu, ENT-baike-fruit_wine-wujiapi-jiu]
-related_typed: {ENT-fruit-choya-extra-years: same_brand, ENT-fruit-choya-aged-3-years-extra-fruit: same_brand, ENT-fruit-choya-gold-edition: same_brand, ENT-fruit-wine-choya-umeshu: cross_region, ENT-baike-fruit_wine-wujiapi-jiu: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / choya.co.jp
 version: 1

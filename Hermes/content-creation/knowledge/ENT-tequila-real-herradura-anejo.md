@@ -7,8 +7,6 @@ tags: [龙舌兰酒, Herradura, 墨西哥, Añejo, 陈年]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-herradura-blanco, ENT-tequila-real-herradura-silver, ENT-tequila-real-el-jimador-blanco, ENT-tequila-real-el-jimador-reposado, ENT-brand-sauza-blanco]
-related_typed: {ENT-brand-herradura-blanco: same_brand, ENT-tequila-real-herradura-silver: same_brand, ENT-tequila-real-el-jimador-blanco: same_brand, ENT-tequila-real-el-jimador-reposado: same_region, ENT-brand-sauza-blanco: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / Flaviar
 version: 1

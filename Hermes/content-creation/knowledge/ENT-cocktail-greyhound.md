@@ -7,8 +7,6 @@ tags: [鸡尾酒, IBA, 新时代, 伏特加, 葡萄柚]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-sex-on-the-beach, ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-martini]
-related_typed: {ENT-cocktail-sex-on-the-beach: same_region, ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-martini: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
 version: 1

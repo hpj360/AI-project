@@ -7,8 +7,6 @@ tags: [白酒, 浓香, 四川, 泸州老窖]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu, ENT-baijiu-luzhoulaojiao-guojiao-1573, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
-related_typed: {ENT-baijiu-luzhou-guojiao-1573: same_brand, ENT-baijiu-luzhou-touqu: same_brand, ENT-baijiu-luzhoulaojiao-guojiao-1573: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [鸡尾酒, 禁酒令, 金酒, 力乔酒, 复苏]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-earl-grey-martini, ENT-cocktail-hanky-panky, ENT-cocktail-espresso-martini, ENT-cocktail-bramble, ENT-cocktail-vesper]
-related_typed: {ENT-cocktail-earl-grey-martini: same_region, ENT-cocktail-hanky-panky: same_region, ENT-cocktail-espresso-martini: same_region, ENT-cocktail-bramble: same_region, ENT-cocktail-vesper: same_region}
 data_confidence: simulated
 data_source: Savoy Cocktail Book 1930
 version: 1

@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, beer, 啤酒, Leffe]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr, ENT-beer-bud-ice, ENT-beer-goose-island-ipa, ENT-beer-brewdog-punk-ipa, ENT-beer-hoegaarden]
-related_typed: {ENT-beer-off-077-grimbergen-25-cl-grimbergen-double-ambr-e-6-5-degr: same_region, ENT-beer-bud-ice: same_subcat, ENT-beer-goose-island-ipa: same_subcat, ENT-beer-brewdog-punk-ipa: same_subcat, ENT-beer-hoegaarden: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

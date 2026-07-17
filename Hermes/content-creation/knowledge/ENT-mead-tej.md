@@ -7,8 +7,6 @@ tags: [蜂蜜酒, 埃塞俄比亚, 传统, tej]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey, ENT-mead-yunnan-wild-honey, ENT-mead-huangshan-honey]
-related_typed: {ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: cross_region, ENT-mead-yunnan-wild-honey: cross_region, ENT-mead-huangshan-honey: same_subcat}
 data_confidence: simulated
 version: 1
 ---

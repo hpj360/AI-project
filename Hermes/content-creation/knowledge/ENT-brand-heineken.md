@@ -7,8 +7,6 @@ tags: [啤酒, 荷兰, 拉格, 国际啤酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-heineken, ENT-beer-real-heineken-lager, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao]
-related_typed: {ENT-beer-heineken: same_brand, ENT-beer-real-heineken-lager: same_brand, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

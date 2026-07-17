@@ -7,8 +7,6 @@ tags: [葡萄酒, 红葡萄酒, 意大利, 超级托斯卡纳, 奥纳亚, Bolghe
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-masseto-2021, ENT-wine-real-sassicaia-2018, ENT-wine-red-sassicaia-2021, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
-related_typed: {ENT-wine-red-masseto-2021: same_brand, ENT-wine-real-sassicaia-2018: same_region, ENT-wine-red-sassicaia-2021: same_region, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / wine-searcher.com
 version: 1

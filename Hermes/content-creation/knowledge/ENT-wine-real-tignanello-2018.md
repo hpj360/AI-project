@@ -7,8 +7,6 @@ tags: [葡萄酒, 红葡萄酒, 意大利, 超级托斯卡纳, Tignanello, Antin
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-tignanello, ENT-wine-red-solaia-2016, ENT-wine-red-tignanello-2017, ENT-wine-red-tignanello-2021, ENT-wine-red-solaia-2021]
-related_typed: {ENT-wine-real-tignanello: same_brand, ENT-wine-red-solaia-2016: same_brand, ENT-wine-red-tignanello-2017: same_brand, ENT-wine-red-tignanello-2021: same_region, ENT-wine-red-solaia-2021: same_region}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

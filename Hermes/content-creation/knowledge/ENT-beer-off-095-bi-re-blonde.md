@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, beer, 啤酒, Jenlain]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-delirium-tremens, ENT-beer-rochefort-6, ENT-beer-rochefort-8, ENT-beer-rochefort-10, ENT-beer-chimay-blue]
-related_typed: {ENT-beer-delirium-tremens: same_subcat, ENT-beer-rochefort-6: same_subcat, ENT-beer-rochefort-8: same_subcat, ENT-beer-rochefort-10: same_subcat, ENT-beer-chimay-blue: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

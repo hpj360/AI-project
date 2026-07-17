@@ -7,8 +7,6 @@ tags: [奶酪, 软质, 硬质, 蓝纹, 新鲜, 芝士]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing
 version: 1
@@ -22,26 +20,42 @@ version: 1
 
 按奶酪类型（软质/硬质/蓝纹/新鲜）搭配酒款，遵循产地相近原则。
 
-## 图片参考
+## 奶酪配酒分类指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cheese%20and%20Wine%20Pairing%20Guide%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Cheese%20and%20Wine%20Pairing%20Guide%20pairing)
-- [Google 图片](https://www.google.com/search?q=Cheese%20and%20Wine%20Pairing%20Guide%20pairing%20bottle&tbm=isch)
+### 1. 软质奶酪（布里/卡蒙贝尔）
 
-## 基础信息
+| 奶酪类型 | 推荐酒款 | 搭配逻辑 |
+|----------|----------|----------|
+| 布里 Brie | 霞多丽、香槟 | 酸度切脂 |
+| 卡蒙贝尔 Camembert | 苹果酒Cidre、灰皮诺 | 同乡风味 |
+| 塔雷吉欧 Taleggio | 皱叶巴巴莱斯科 | 意式组合 |
 
-- **中文名**：奶酪配酒指南
-- **外文名**：Cheese Wine Pairing
-- **分类**：餐酒搭配
-- **产地**：
+### 2. 硬质奶酪（帕玛森/切达/孔泰）
 
-## 合规信息
+- 帕玛森 Parmigiano：基安蒂 Chianti、Brunello
+- 切达 Cheddar：赤霞珠、马尔贝克
+- 孔泰 Comté：黄葡萄酒 Vin Jaune
+- 格吕耶尔 Gruyère：黑皮诺、Savagnin
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 蓝纹奶酪（洛克福/斯蒂尔顿/戈贡佐拉）
+
+- 洛克福 Roquefort：苏玳 Sauternes（经典配）
+- 斯蒂尔顿 Stilton：波特酒 Port
+- 戈贡佐拉 Gorgonzola：Recioto、Amarone
+
+### 4. 新鲜奶酪（莫扎瑞拉/瑞可塔/山羊奶酪）
+
+- 莫扎瑞拉：Verdicchio、灰皮诺
+- 山羊奶酪 Chèvre：桑塞尔 Sancerre、普伊-富美
+- 瑞可塔 Ricotta：桃红起泡、Frascati
+
+### 经典原则
+
+- "土地上长的，配土地上酿的"：同产区搭配最稳
+- 蓝纹+贵腐是经典咸甜组合
+- 高盐奶酪使酒显得更柔顺
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Food & Wine Pairing
 - 数据置信度：official

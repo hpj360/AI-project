@@ -7,8 +7,6 @@ tags: [红酒, 意大利, 布鲁内罗, 桑娇维塞]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-mouton-rothschild, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange, ENT-brand-opus-one]
-related_typed: {ENT-brand-mouton-rothschild: same_subcat, ENT-brand-haut-brion: same_subcat, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat}
 data_confidence: simulated
 version: 1
 ---

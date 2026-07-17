@@ -7,8 +7,6 @@ tags: [侍酒, 酒杯, 酒具, 清洁, 选择]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
 version: 1
@@ -22,26 +20,121 @@ version: 1
 
 酒杯准备规范：酒杯类型选择、清洁、擦拭与摆放。
 
-## 图片参考
+## 酒杯准备规范
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Glassware%20Preparation%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Glassware%20Preparation%20pairing)
-- [Google 图片](https://www.google.com/search?q=Glassware%20Preparation%20pairing%20bottle&tbm=isch)
+### 酒杯类型选择
 
-## 基础信息
+#### 通用酒杯
+- ISO 国际标准杯
+- 适用于所有酒款品鉴
+- 容量 210ml 左右
 
-- **中文名**：酒杯准备
-- **外文名**：Glass Preparation
-- **分类**：餐酒搭配
-- **产地**：
+#### 按酒款分类
 
-## 合规信息
+| 酒杯类型 | 适用酒款 | 特征 |
+|----------|----------|------|
+| 波尔多杯 | 赤霞珠、梅洛、马尔贝克 | 高杯、大杯肚 |
+| 勃艮第杯 | 黑皮诺、霞多丽 | 圆肚、收口 |
+| 通用红酒杯 | 中端红酒 | 标准杯型 |
+| 白酒杯 | 干白葡萄酒 | 较小、U 型 |
+| 香槟笛型 | 起泡酒 | 细长 |
+| 郁金香杯 | 顶级香槟 | 郁金香型 |
+| 甜酒杯 | 甜酒、贵腐 | 小型 |
+| ISO 杯 | 通用品鉴 | 标准 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 酒杯清洁
+
+#### 标准清洁流程
+
+1. **温水冲洗**
+   - 温水（30-40℃）冲洗
+   - 不要用热水（>50℃）
+   - 不要使用洗洁精（残留影响香气）
+
+2. **专用清洁**
+   - 葡萄酒杯专用清洁剂
+   - 或小苏打水冲洗
+
+3. **刷洗**
+   - 软毛刷刷洗杯肚
+   - 避免刮花水晶
+   - 注意杯底与杯口
+
+4. **冲洗**
+   - 清水充分冲洗
+   - 确保无残留
+
+### 酒杯擦拭
+
+#### 擦拭工具
+- 无绒棉布（专用酒杯布）
+- 微纤维布
+- 避免纸巾（残留纸屑）
+
+#### 擦拭方法
+
+| 步骤 | 操作 |
+|------|------|
+| 1 | 一手握杯底，一手握杯杆 |
+| 2 | 布伸入杯内 |
+| 3 | 旋转擦拭杯内壁 |
+| 4 | 擦拭杯外壁 |
+| 5 | 擦拭杯底与杯杆 |
+| 6 | 检查无水痕、无绒毛 |
+
+#### 注意事项
+- 不要握杯肚（留下指纹、温度）
+- 不要用力扭杯杆（易断）
+- 擦拭后无异味
+
+### 酒杯摆放
+
+#### 餐桌摆放
+
+| 位置 | 标准 |
+|------|------|
+| 主餐刀右上方 | 红酒杯 |
+| 红酒杯右上方 | 白酒杯 |
+| 白酒杯右上方 | 起泡酒杯 |
+| 顺序 | 从右到左，从大到小 |
+
+#### 摆放要点
+- 杯口距餐刀 1-2cm
+- 杯子排列呈 45 度
+- 杯口不重叠
+- 晶莹透亮无水痕
+
+### 酒杯检查
+
+#### 服务前检查
+- 无破损、裂纹
+- 无水痕、指纹
+- 无异味
+- 杯型与酒款匹配
+
+#### 服务中检查
+- 续酒前擦拭杯口
+- 注意杯口唇印
+- 异味及时更换
+
+### 不同场景酒杯准备
+
+#### 正式宴请
+- 每款酒配专用杯
+- 提前 30 分钟准备
+- 完整清洁擦拭
+
+#### 家宴
+- 通用 ISO 杯即可
+- 简化清洁流程
+- 不必每款换杯
+
+#### 品鉴会
+- 标准 ISO 杯
+- 每款酒一杯
+- 盲品用黑色酒杯
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Court of Master Sommeliers
 - 数据置信度：official

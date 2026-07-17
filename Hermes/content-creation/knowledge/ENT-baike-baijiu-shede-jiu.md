@@ -7,8 +7,6 @@ tags: [百度百科, baijiu, 舍得]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baijiu-shede-pinwei-shede, ENT-baijiu-shede-zhihui-shede, ENT-baijiu-tuopai-tequ, ENT-baijiu-luzhou-touqu, ENT-baijiu-jiannanchun-shuijingjian]
-related_typed: {ENT-baijiu-shede-pinwei-shede: same_brand, ENT-baijiu-shede-zhihui-shede: same_brand, ENT-baijiu-tuopai-tequ: same_brand, ENT-baijiu-luzhou-touqu: same_subcat, ENT-baijiu-jiannanchun-shuijingjian: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E8%88%8D%E5%BE%97

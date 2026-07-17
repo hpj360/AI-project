@@ -7,8 +7,6 @@ tags: [龙舌兰, 墨西哥, Camarena, Reposado]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-tequila-olmeca-altos-plata, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
-related_typed: {ENT-tequila-olmeca-altos-plata: same_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
 data_confidence: simulated
 version: 1
 ---

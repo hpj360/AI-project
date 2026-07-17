@@ -7,8 +7,6 @@ tags: [酿造工艺, 酒泥陈年, sur lie, 香槟, 慕斯卡德]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [PROC-fermentation-basics, PROC-fermentation-wild-vs-commercial, PROC-distillation-pot-still, PROC-distillation-column-still, PROC-aging-oak-types]
-related_typed: {PROC-fermentation-basics: same_subcat, PROC-fermentation-wild-vs-commercial: same_subcat, PROC-distillation-pot-still: same_subcat, PROC-distillation-column-still: same_subcat, PROC-aging-oak-types: same_subcat}
 data_confidence: official
 data_source: WSET/CIVC
 version: 1
@@ -22,26 +20,182 @@ version: 1
 
 酒泥陈年让酒液与死亡酵母接触，释放多糖与氨基酸，造就香槟的饼干香与慕斯卡德的饱满感。
 
-## 图片参考
+## 酒泥陈年定义
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Aging%20on%20Lees%20%28Sur%20Lie%29%20process%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Aging%20on%20Lees%20%28Sur%20Lie%29%20process)
-- [Google 图片](https://www.google.com/search?q=Aging%20on%20Lees%20%28Sur%20Lie%29%20process%20bottle&tbm=isch)
+### 什么是酒泥
+- **酒泥 Lees**：发酵后死亡的酵母细胞
+- **粗酒泥 Gross Lees**：大颗粒，发酵后立即沉淀
+- **细酒泥 Fine Lees**：小颗粒，缓慢沉淀
+- 主要成分：酵母细胞、酒石酸、蛋白质
 
-## 基础信息
+### 工艺定义
+- 发酵后**不分离酒泥**
+- 酒液与酒泥共同陈年
+- 数月到数年
+- 定期搅桶（Bâtonnage）可选
 
-- **中文名**：酒泥陈年工艺
-- **外文名**：Aging on Lees (Sur Lie)
-- **分类**：酿造工艺
-- **产地**：
+## 酵母自溶 Autolysis
 
-## 合规信息
+### 过程
+1. 酵母死亡后细胞壁破裂
+2. 释放细胞内物质
+3. 酶分解细胞壁多糖-蛋白质复合物
+4. 持续6个月至数年
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 释放物质
+
+#### 多糖
+- 甘露蛋白 Mannoproteins
+- 提升酒体圆润感
+- 降低涩感
+- 稳定蛋白质
+
+#### 氨基酸
+- 提供鲜味 umami
+- 增加复杂度
+- 前体物质转化为风味化合物
+
+#### 脂质
+- 影响口感
+- 香气前体
+
+#### 酯类与醛类
+- **双乙酰 Diacetyl**：黄油、奶油
+- **乙偶姻**：黄油余味
+- 乳酸乙酯：果香增强
+
+## 风味贡献
+
+### 主要香气
+- **面包、面团**
+- **饼干、烤面包**
+- **坚果、杏仁**
+- **蜂蜜、蜂蜡**
+- **奶油、黄油**
+- **鲜味、肉汤**
+
+### 口感影响
+- **酒体更厚重**
+- **口感更圆润**
+- **单宁柔化**
+- **酸度柔和**
+- **余味更复杂**
+
+## 主要应用
+
+### 1. 香槟（传统法起泡酒）
+- **法定最低**：12个月酒泥陈年
+- **年份香槟**：36个月+
+- **顶级特酿**：5-10年+
+- 酵母自溶是香槟复杂度核心
+
+### 2. 慕斯卡德 Muscadet
+- **Sur Lie**：法定工艺
+- 与粗酒泥接触到春天
+- 不分离直到装瓶
+- 带来矿物、面包香、微气泡
+- 1977年获AOC Sur Lie标识
+
+### 3. 勃艮第白葡萄酒
+- 传统酿造核心
+- 霞多丽与酒泥陈年
+- 搅桶 Bâtonnage 增加萃取
+- 6-18个月
+- 增加复杂度与圆润感
+
+### 4. 汝拉黄酒 Vin Jaune
+- **voile酵母膜**覆盖
+- 6年+酒泥陈年
+- 极致氧化风格
+- 类似雪利flor但不同
+
+### 5. 其他
+- **加利西亚 Txakoli**
+- **部分索诺玛霞多丽**
+- **部分起泡酒**
+- **橙酒**：常带酒泥陈年
+
+## 搅桶 Bâtonnage
+
+### 目的
+- 重新悬浮酒泥
+- 增加酒液-酒泥接触
+- 均匀萃取
+- 防止还原
+
+### 方法
+- **传统**：长棒插入桶搅动
+- **现代**：旋转桶架
+- 频率：每周至每月
+- 时长：整个陈年期
+
+### 利弊
+#### 优势
+- 增加萃取
+- 防止H2S产生
+- 风味更丰富
+
+#### 劣势
+- 过度则过于厚重
+- 增加氧化风险
+- 丧失清新果香
+- 现代派减少搅桶
+
+## 风险与挑战
+
+### 1. 还原味
+- 酒泥消耗氧气
+- H2S、硫醇产生
+- 解决：搅桶、racking
+
+### 2. 挥发酸升高
+- 醋酸菌活动
+- 监测VA
+
+### 3. 异味
+- **鼠臭味 mousiness**
+- **硫化物**
+- 监测风味
+
+### 4. 微生物风险
+- MLF不受控
+- 杂菌污染
+- SO2管理关键
+
+## 酒泥陈年 vs 不接触酒泥
+
+| 维度 | 酒泥陈年 | 不接触 |
+|------|----------|--------|
+| 风格 | 复杂、厚重 | 清新、轻盈 |
+| 香气 | 面包、坚果 | 果香、花香 |
+| 酒体 | 圆润 | 清瘦 |
+| 陈年 | 长期 | 短期 |
+| 风险 | 还原味 | 氧化 |
+| 适合 | 霞多丽、香槟 | 长相思、雷司令 |
+
+## 时间长度
+
+### 短期（3-6个月）
+- 增加复杂度
+- 保留果香
+- 大多数白葡萄酒
+
+### 中期（6-18个月）
+- 明显酵母自溶
+- 勃艮第白酒典型
+
+### 长期（18个月-10年+）
+- 深度复杂
+- 强烈面包、饼干香
+- 年份香槟、特酿
+
+## 经济学
+- 占用设备与空间
+- 资金周转慢
+- 高端市场才能支撑
+- 增加附加值
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/CIVC
 - 数据置信度：official

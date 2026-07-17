@@ -7,8 +7,6 @@ tags: [鸡尾酒, 配方, 自制利口酒, Homemade Liqueur]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-mai-tai, ENT-cocktail-pina-colada, ENT-cocktail-sea-breeze, ENT-cocktail-sex-on-the-beach, ENT-cocktail-tequila-sunrise]
-related_typed: {ENT-cocktail-mai-tai: same_subcat, ENT-cocktail-pina-colada: same_subcat, ENT-cocktail-sea-breeze: same_subcat, ENT-cocktail-sex-on-the-beach: same_subcat, ENT-cocktail-tequila-sunrise: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1
@@ -29,55 +27,29 @@ awards:
 
 Coffee-Vodka是一款自制利口酒，使用6种配料调制，盛于柯林斯杯。
 
-## 图片参考
+## 基本信息
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Coffee-Vodka%20cocktail%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Coffee-Vodka%20cocktail)
-- [Google 图片](https://www.google.com/search?q=Coffee-Vodka%20cocktail%20bottle&tbm=isch)
+- **酒精度**：约 9.9% ABV（估算）
+- **分类**：Homemade Liqueur
+- **含酒精**：Alcoholic
+- **推荐杯具**：柯林斯杯（Collins Glass）
 
-## 基础信息
+## 配方
 
-- **中文名**：Coffee-Vodka
-- **外文名**：Coffee-Vodka
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：9.9%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+| 配料 | 用量 |
+|------|------|
+| Water | 2 cups |
+| Sugar | 2 cups white |
+| Coffee | 1/2 cup instant |
+| Vanilla | 1/2 |
+| Vodka | 1 1/2 cup |
+| Caramel coloring | 适量 |
 
-## 风味轮廓
+## 调制方法
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 25516 |
-| Difford's Guide | 4.49 | 2022 |
-| IBA 推荐 | 5.0 | 2023 |
-
-### 获奖记录
-
-- **2023** IBA World Competition Gold
-- **2023** Tales of the Cocktail Best Cocktail
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
-
-## 合规信息
-
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+Boil water and sugar until dissolved. Turn off heat. Slowly add dry instant coffee and continue stirring. Add a chopped vanilla bean to the vodka, then combine the cooled sugar syrup and coffee solution with the vodka. Cover tightly and shake vigorously each day for 3 weeks. Strain and filter. Its also best to let the sugar mixture cool completely so the vodka won't evaporate when its added. If you like a smoother feel to the liqueur you can add about 1 teaspoon of glycerine to the finished product.
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

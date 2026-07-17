@@ -7,8 +7,6 @@ tags: [红酒, 法国, 波尔多, 波亚克, 一级庄]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-mouton-2016, ENT-wine-red-mouton-2016, ENT-wine-real-lafite-rothschild, ENT-wine-real-latour, ENT-wine-real-pichon-longueville-baron]
-related_typed: {ENT-wine-real-mouton-2016: same_brand, ENT-wine-red-mouton-2016: same_brand, ENT-wine-real-lafite-rothschild: same_region, ENT-wine-real-latour: same_region, ENT-wine-real-pichon-longueville-baron: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

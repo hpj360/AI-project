@@ -7,8 +7,6 @@ tags: [白兰地, 意大利, grappa, 葡萄渣]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-spirits_intl-martell-cordon-bleu, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis]
-related_typed: {ENT-baike-spirits_intl-martell-cordon-bleu: cross_region, ENT-brandy-hennessy-vs: cross_region, ENT-brandy-hennessy-vsop: cross_region, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: same_subcat}
 data_confidence: simulated
 version: 1
 ---

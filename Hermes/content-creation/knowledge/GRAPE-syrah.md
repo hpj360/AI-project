@@ -7,8 +7,6 @@ tags: [葡萄品种, 红品种, 西拉, Shiraz, 罗纳河谷]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [GRAPE-cabernet-sauvignon, GRAPE-merlot, GRAPE-pinot-noir, GRAPE-grenache, GRAPE-malbec]
-related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-grenache: same_subcat, GRAPE-malbec: same_subcat}
 data_confidence: official
 data_source: Wine Grapes (Jancis Robinson)/WSET
 version: 1
@@ -22,26 +20,54 @@ version: 1
 
 法国称Syrah、澳洲称Shiraz的红葡萄品种，以胡椒香料风味和深色著称。
 
-## 图片参考
+## 品种概况
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Syrah%20grape%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Syrah%20grape)
-- [Google 图片](https://www.google.com/search?q=Syrah%20grape%20bottle&tbm=isch)
+### 基本信息
 
-## 基础信息
+- **原产地**：法国北罗纳河谷（争议：可能源自罗纳或西西里）
+- **亲本**：Dureza × Mondeuse Blanche（DNA验证，2001年）
+- **果串**：中等大小，圆柱形，紧凑
+- **果粒**：小，皮厚，色深
+- **成熟期**：中晚熟
 
-- **中文名**：西拉
-- **外文名**：Syrah / Shiraz
-- **分类**：葡萄品种
-- **产地**：
+### 风味特征
 
-## 合规信息
+#### 北罗纳河谷（冷凉风格）
+- **香气**：黑莓、紫罗兰、黑胡椒、培根脂、橄榄
+- **单宁**：高
+- **酸度**：中高
+- **酒体**：饱满
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 澳大利亚（温暖风格 Shiraz）
+- **香气**：黑莓酱、李子、黑巧克力、甘草、桉树
+- **单宁**：中等
+- **酸度**：中低
+- **酒体**：饱满，浓郁
+
+### 主要产区
+
+| 产区 | 风格特征 | 代表酒庄 |
+|------|----------|----------|
+| 北罗纳罗第丘 | 胡椒脂香，优雅深邃 | 吉佳乐、Chapoutier |
+| 北罗纳埃米塔日 | 浓郁复杂，陈年强 | Jaboulet、Chave |
+| 巴罗萨谷 | 浓郁奔放，高酒精 | 奔富葛兰许、Henschke |
+| 猎人谷 | 中等酒体，陈年优雅 | Tyrrell's、Brokenwood |
+| 华盛顿州 | 平衡丰富，结构紧实 | Cayuse、Charles Smith |
+
+### 混酿搭配
+
+- **罗纳河谷GSM混酿**：歌海娜+西拉+慕合怀特
+- **澳洲风格**：西拉+赤霞珠
+- **南非风格**：常与歌海娜、慕合怀特混酿
+
+### 陈年潜力
+
+- 罗第丘顶级：10-20年+
+- 埃米塔日顶级：20-40年
+- 巴罗萨顶级Shiraz：15-25年
+- 普通餐酒：3-5年
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Grapes (Jancis Robinson)/WSET
 - 数据置信度：official

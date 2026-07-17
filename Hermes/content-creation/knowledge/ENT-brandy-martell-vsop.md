@@ -7,8 +7,6 @@ tags: [白兰地, 干邑, 法国, 马爹利]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu, ENT-brandy-martell-noblige, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
-related_typed: {ENT-brandy-martell-xo: same_brand, ENT-brandy-martell-cordon-bleu: same_brand, ENT-brandy-martell-noblige: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
 data_confidence: simulated
 version: 1
 ---

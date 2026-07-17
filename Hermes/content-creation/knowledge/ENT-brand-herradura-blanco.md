@@ -7,8 +7,6 @@ tags: [龙舌兰, 墨西哥, 银快, Blanco]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-tequila-real-herradura-silver, ENT-tequila-real-herradura-anejo, ENT-tequila-real-el-jimador-blanco, ENT-brand-sauza-blanco, ENT-tequila-off-183-tequila-gold]
-related_typed: {ENT-tequila-real-herradura-silver: same_brand, ENT-tequila-real-herradura-anejo: same_brand, ENT-tequila-real-el-jimador-blanco: same_brand, ENT-brand-sauza-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

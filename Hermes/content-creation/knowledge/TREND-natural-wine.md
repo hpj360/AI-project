@@ -7,8 +7,6 @@ tags: [行业趋势, 自然酒, 低干预, 无添加]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [TREND-low-alcohol-rise, TREND-dealcoholization-tech, TREND-non-alcoholic-beer, TREND-non-alcoholic-wine, TREND-low-abv-cocktail]
-related_typed: {TREND-low-alcohol-rise: same_subcat, TREND-dealcoholization-tech: same_subcat, TREND-non-alcoholic-beer: same_subcat, TREND-non-alcoholic-wine: same_subcat, TREND-low-abv-cocktail: same_subcat}
 data_confidence: verified
 data_source: Wine Intelligence
 version: 1
@@ -22,26 +20,61 @@ version: 1
 
 自然酒以无添加、低干预酿造为核心理念，形成全球性亚文化运动。
 
-## 图片参考
+## 自然酒运动
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Natural%20Wine%20Movement%20trend%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Natural%20Wine%20Movement%20trend)
-- [Google 图片](https://www.google.com/search?q=Natural%20Wine%20Movement%20trend%20bottle&tbm=isch)
+### 核心理念
 
-## 基础信息
+- **无添加**：不添加酵母、糖、酸、单宁
+- **低干预**：手工采摘、野生酵母发酵
+- **无澄清过滤**：保留原始风味
+- **低亚硫酸盐**：仅装瓶前少量添加或不加
 
-- **中文名**：自然酒
-- **外文名**：Natural Wine
-- **分类**：行业趋势
-- **产地**：
+### 与传统葡萄酒对比
 
-## 合规信息
+| 维度 | 传统葡萄酒 | 自然酒 |
+|------|------------|--------|
+| 酵母 | 商业选育 | 野生自然 |
+| 澄清 | 膨润土、蛋白 | 无 |
+| 过滤 | 冷稳定过滤 | 无或粗滤 |
+| 亚硫酸盐 | 50-150mg/L | <30mg/L |
+| 添加糖 | 允许调整 | 禁止 |
+| 口感 | 标准化 | 多样化 |
+| 稳定性 | 高 | 较低 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 主要产区与酒庄
+
+| 产区 | 代表酒庄 | 风格特点 |
+|------|----------|----------|
+| 法国博若莱 | Lapierre、Foillard | 佳美轻盈 |
+| 法国卢瓦尔 | Hurluberlu、Clos Roche Blanche | 白诗南多元 |
+| 法国汝拉 | Overnoy、Tissot | 黄酒特色 |
+| 意大利皮埃蒙特 | Bodda、Vajra | 内比奥罗 |
+| 格鲁吉亚 | 多家 | 古法陶罐 |
+| 澳大利亚 | Konpira Maru、Lucy M | 新世界风格 |
+
+### 自然酒吧文化
+
+- 巴黎、纽约、东京为三大中心
+- 上海、北京快速发展
+- 自然酒吧：Bonjour Vin、Wine Universe
+- 强调"小众、个性、故事"
+
+### 争议与挑战
+
+1. **稳定性问题**：易变质、运输风险
+2. **批次差异**：每批口感不同
+3. **认证缺失**：无统一标准
+4. **价格虚高**：溢价与文化溢价
+5. **消费者教育**：口感非传统
+
+### 市场规模
+
+- 占葡萄酒总量<2%
+- 增长率约15-20%
+- 主要消费群体：年轻都市
+- 影响力远超规模
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Intelligence
 - 数据置信度：verified

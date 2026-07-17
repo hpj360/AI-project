@@ -7,8 +7,6 @@ tags: [鸡尾酒, Tiki, 提基, 波利尼西亚, 1930s]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-gin-sour, ENT-cocktail-whiskey-smash, ENT-cocktail-gin-smash, ENT-cocktail-brandy-cobbler, ENT-cocktail-philadelphia-fish-house-punch]
-related_typed: {ENT-cocktail-gin-sour: same_subcat, ENT-cocktail-whiskey-smash: same_subcat, ENT-cocktail-gin-smash: same_subcat, ENT-cocktail-brandy-cobbler: same_subcat, ENT-cocktail-philadelphia-fish-house-punch: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1
@@ -26,50 +24,76 @@ ratings:
 
 Tiki文化是1930-1960年代美国流行的波利尼西亚主题调酒文化，由Don the Beachcomber和Trader Vic创立。
 
-## 图片参考
+## 历史背景
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Tiki%20Culture%20cocktail%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Tiki%20Culture%20cocktail)
-- [Google 图片](https://www.google.com/search?q=Tiki%20Culture%20cocktail%20bottle&tbm=isch)
+### 起源
+- **1934年**：Donn Beach（Ernest Gantt）在好莱坞开设"Don the Beachcomber"
+- **1936年**：Victor Bergeron在奥克兰将Hinky Dink's改为Trader Vic's
+- **影响源**：1920s南海冒险文学、电影、航海文化
 
-## 基础信息
+### 黄金时代（1940s-1960s）
+- 二战后太平洋文化热度攀升
+- 1948年Trader Vic's在旧金山开设分店
+- 1950s Tiki文化达到顶峰
+- 1960s 开始衰退
 
-- **中文名**：提基文化
-- **外文名**：Tiki Culture
-- **分类**：鸡尾酒
-- **产地**：美国
-- **酒精度**：N/A
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+### 复兴（1990s-至今）
+- 1990s起 Jeff "Beachbum" Berry 等研究者发掘原始配方
+- 2000s起 Tiki专门酒吧在全球复兴
+- 经典Tiki配方重新受到尊重
 
-## 风味轮廓
+## 核心人物
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+### Don the Beachcomber (Donn Beach)
+- 真名Ernest Raymond Beaumont Gantt
+- 创立Tiki餐厅模式
+- 配方严密保密，调酒师签保密协议
+- 经典作品：Zombie, Mai Tai（争议）
 
-## 评分奖项
+### Trader Vic (Victor Bergeron)
+- 真名Victor Jules Bergeron Jr.
+- 1944年声称发明Mai Tai
+- 将Tiki文化推向全球
+- 推出商业化餐饮帝国
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 42600 |
-| Difford's Guide | 4.39 | 2022 |
-| IBA 推荐 | 5.0 | 2023 |
+## 风味特征
 
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+### 原料特点
+- 多种朗姆酒混合（牙买加、波多黎各、Guyana等）
+- 复杂糖浆：Falernum, Orgeat, Cinnamon Syrup
+- 大量新鲜果汁：菠萝、橙、柠檬、青柠
+- 苦味利口酒：Pernod, Angostura
 
-## 合规信息
+### 鸡尾酒特点
+- 复杂多层次风味
+- 装饰华丽（花朵、纸伞、火焰）
+- 通常酒精含量高
+- 容器多样（Tiki mug, skull mug等）
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+## 经典Tiki鸡尾酒
+
+1. **Mai Tai**：朗姆酒 + Orange Curaçao + Orgeat + 青柠
+2. **Zombie**：3种朗姆酒 + 多种果汁 + Pernod
+3. **Navy Grog**：3种朗姆酒 + 蜂蜜糖浆 + 西柚
+4. **Painkiller**：Pusser's朗姆酒 + 菠萝 + 椰浆 + 橙汁
+5. **Hurricane**：朗姆酒 + 西柚 + 百香果
+
+## 装饰文化
+
+- Tiki Mug（提基木雕杯）
+- 火焰效果
+- 鲜花、纸伞
+- 木雕Tiki神像
+- 波利尼西亚风格的酒吧装修
+
+## 现代Tiki复兴
+
+- 纽约Painkiller、Latitude
+- 伦敦Honi Honi、Tayēr + Elementary
+- 东京 Bali Hai
+- 全球Tiki专门酒吧数量持续增长
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wikipedia
 - 数据置信度：verified

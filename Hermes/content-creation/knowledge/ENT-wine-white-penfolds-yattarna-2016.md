@@ -7,8 +7,6 @@ tags: [白酒, 新世界, 霞多丽, 奔富]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-penfolds-grange-2015, ENT-wine-red-penfolds-bin-707-2016, ENT-wine_white-off-029-vino-blanco-chardonay, ENT-wine_white-off-030-el-coto-blanc, ENT-wine_white-off-032-blanc]
-related_typed: {ENT-wine-red-penfolds-grange-2015: same_brand, ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine_white-off-029-vino-blanco-chardonay: cross_region, ENT-wine_white-off-030-el-coto-blanc: same_subcat, ENT-wine_white-off-032-blanc: same_subcat}
 data_confidence: simulated
 version: 1
 ---

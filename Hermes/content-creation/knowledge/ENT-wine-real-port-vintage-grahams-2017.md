@@ -7,8 +7,6 @@ tags: [葡萄酒, 加强酒, 葡萄牙, 波特酒, Graham, Douro, 年份波特]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-fortified-grahams-vintage-port-2017, ENT-wine-fortified-dows-vintage-port-2016, ENT-wine-fortified-fonseca-vintage-port-2017, ENT-wine-fortified-taylors-vintage-port-2016, ENT-wine-fortified-warres-vintage-port-2016]
-related_typed: {ENT-wine-fortified-grahams-vintage-port-2017: same_region, ENT-wine-fortified-dows-vintage-port-2016: same_region, ENT-wine-fortified-fonseca-vintage-port-2017: same_region, ENT-wine-fortified-taylors-vintage-port-2016: same_region, ENT-wine-fortified-warres-vintage-port-2016: same_region}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

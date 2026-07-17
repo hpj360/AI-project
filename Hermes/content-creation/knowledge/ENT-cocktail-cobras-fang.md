@@ -7,8 +7,6 @@ tags: [鸡尾酒, Tiki, 朗姆, 多香果, 法属马提尼克]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-three-dots-and-a-dash, ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-saketini]
-related_typed: {ENT-cocktail-three-dots-and-a-dash: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
 data_confidence: simulated
 data_source: Don the Beachcomber 配方
 version: 1

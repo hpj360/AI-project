@@ -7,8 +7,6 @@ tags: [清酒, 纯米大吟酿, 日本, 獭祭]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-sake-dassai-23, ENT-sake-dassai-39, ENT-sake-dassai-45, ENT-sake-dassai-50, ENT-sake-dassai-39-nigori]
-related_typed: {ENT-sake-dassai-23: same_region, ENT-sake-dassai-39: same_region, ENT-sake-dassai-45: same_region, ENT-sake-dassai-50: same_region, ENT-sake-dassai-39-nigori: same_region}
 data_confidence: verified
 data_source: 品牌官方/Wikipedia
 version: 1

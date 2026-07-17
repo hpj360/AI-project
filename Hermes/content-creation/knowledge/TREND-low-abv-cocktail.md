@@ -7,8 +7,6 @@ tags: [行业趋势, 低度化, 鸡尾酒, 调酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [TREND-low-alcohol-rise, TREND-dealcoholization-tech, TREND-non-alcoholic-beer, TREND-non-alcoholic-wine, TREND-hard-seltzer]
-related_typed: {TREND-low-alcohol-rise: same_subcat, TREND-dealcoholization-tech: same_subcat, TREND-non-alcoholic-beer: same_subcat, TREND-non-alcoholic-wine: same_subcat, TREND-hard-seltzer: same_subcat}
 data_confidence: verified
 data_source: 行业公开报告
 version: 1
@@ -22,26 +20,47 @@ version: 1
 
 低度化调酒成为全球酒吧新趋势，酒精度8-15%的鸡尾酒需求上升。
 
-## 图片参考
+## 低度鸡尾酒流行
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Low-ABV%20Cocktail%20Trend%20trend%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Low-ABV%20Cocktail%20Trend%20trend)
-- [Google 图片](https://www.google.com/search?q=Low-ABV%20Cocktail%20Trend%20trend%20bottle&tbm=isch)
+### 趋势概述
 
-## 基础信息
+- **定义**：酒精度低于15%的鸡尾酒
+- **驱动**：健康意识+社交需求
+- **增长**：菜单占比从5%升至20%
+- **场景**：下午时段、工作日、女性市场
 
-- **中文名**：低度鸡尾酒
-- **外文名**：Low-ABV Cocktail
-- **分类**：行业趋势
-- **产地**：
+### 经典低度鸡尾酒
 
-## 合规信息
+| 名称 | 基酒 | 酒精度 | 风格 | 起源 |
+|------|------|--------|------|------|
+| Spritz | Aperol/Prosecco | 8-11% | 开胃 | 意大利 |
+| Shandy | 啤酒+柠檬水 | 3-5% | 清爽 | 英国 |
+| Mimosa | 香槟+橙汁 | 6-8% | 早午 | 巴黎 |
+| Bellini | 香槟+桃汁 | 6-8% | 果香 | 威尼斯 |
+| Spritzers | 葡萄酒+苏打 | 6-9% | 通用 | 欧洲 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 调制要点
+
+1. **基酒选择**：低度酒（苦艾酒、利口酒）
+2. **稀释比例**：增加果汁、苏打比例
+3. **风味平衡**：苦味、酸味、甜味协调
+4. **视觉呈现**：色彩、装饰、器皿
+
+### 市场机会
+
+- 餐厅下午茶套餐
+- 女性专属酒单
+- 办公室周边酒吧
+- 季节性限定款
+
+### 发展预测
+
+- 即饮（RTD）低度鸡尾酒罐装化
+- 健康配料添加（adaptogens）
+- 本土化创新（茶+酒组合）
+- 低糖低卡版本
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：行业公开报告
 - 数据置信度：verified

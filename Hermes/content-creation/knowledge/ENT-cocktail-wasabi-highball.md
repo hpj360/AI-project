@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 高球, 日本威士忌, 芥末, 杏子]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-peanut-alexander, ENT-cocktail-singapore-sling, ENT-baike-spirits_intl-chivas-18, ENT-brand-macallan-12, ENT-brand-glenfiddich-12]
-related_typed: {ENT-cocktail-peanut-alexander: same_brand, ENT-cocktail-singapore-sling: same_region, ENT-baike-spirits_intl-chivas-18: base_to_cocktail, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail}
 data_confidence: verified
 data_source: World's 50 Best Bars 2025 / Jigger & Pony
 version: 1

@@ -7,8 +7,6 @@ tags: [金酒, gin, 苏格兰, Tanqueray, London Dry]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-off-120-tanqueray-london-dry-gin, ENT-gin-gordons-london-dry, ENT-gin-gordons-elderflower]
-related_typed: {ENT-gin-tanqueray-no-ten: same_brand, ENT-gin-tanqueray-rangpur: same_brand, ENT-gin-off-120-tanqueray-london-dry-gin: same_brand, ENT-gin-gordons-london-dry: same_region, ENT-gin-gordons-elderflower: same_region}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

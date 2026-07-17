@@ -7,8 +7,6 @@ tags: [产区风土, 日本, 北海道, 清酒, 葡萄酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-alsace, REGION-france-provence, REGION-france-languedoc, REGION-italy-tuscany, REGION-italy-piedmont]
-related_typed: {REGION-france-alsace: same_subcat, REGION-france-provence: same_subcat, REGION-france-languedoc: same_subcat, REGION-italy-tuscany: same_subcat, REGION-italy-piedmont: same_subcat}
 data_confidence: official
 data_source: 北海道葡萄酒协会
 version: 1
@@ -22,26 +20,97 @@ version: 1
 
 日本最北端的葡萄酒与清酒产区，极寒气候与纯净水源造就清新精致风格。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hokkaido%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Hokkaido%20region)
-- [Google 图片](https://www.google.com/search?q=Hokkaido%20region%20bottle&tbm=isch)
+### 位置
+- 日本最北端岛屿
+- 北纬41-45°
+- 与欧洲北部产区纬度相近
 
-## 基础信息
+### 气候
+- 寒带-亚寒带湿润大陆性气候
+- 冬季严寒漫长（-10°C至-20°C）
+- 夏季凉爽短促
+- 年日照1800-2000小时
+- 昼夜温差大
+- 干燥少湿，病害少
 
-- **中文名**：北海道
-- **外文名**：Hokkaido
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 火山灰土（黒ポク土）
+- 冲积壤土
+- 含丰富矿物质
+- 排水良好
 
-## 合规信息
+## 子产区与特色
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 余市町（Yoichi）
+- 日本葡萄酒先驱
+- 北纬43°
+- 海洋影响
+- 北海道葡萄酒株式会社本部
+
+### 富良野（Furano）
+- 内陆盆地
+- 昼夜温差极大
+- 多品种试验
+
+### 十胜（Tokachi）
+- 大平原
+- 冷凉气候
+- 抗寒品种
+
+### 池田町（Ikeda）
+- 北海道葡萄酒起源地
+- 1876年尝试酿酒
+- 北海道葡萄酒（株）发源地
+
+## 主要品种
+
+### 葡萄品种
+- **山葡萄 Vitis coignetiae**（Yamabudo）：本地野生
+- **北海道Zweigelt**：抗寒红
+- **清见（Kiyomi）**：本地杂交
+- **Kerner**：德国抗寒白
+- **Müller-Thurgau**：白
+- **雷司令**：少量
+- **山幸（Yamatosaku）**：北海道育成
+- **清舞（Kiyomai）**：北海道育成抗寒
+
+### 清酒米
+- **山田锦、五百万石**：从外地调入
+- **吟風 Ginpusaku**：北海道育成酒米
+- 火山灰土培育酒米
+
+## 北海道清酒特色
+- 极寒气候保留酸度
+- 纯净雪融水酿造
+- 清新淡丽风格
+- "吟酿王国"地位
+- 高端纯米大吟酿聚集
+
+## 北海道葡萄酒特色
+- 抗寒品种与本地杂交
+- 山葡萄独特风味
+- 凉爽气候酸度好
+- 白葡萄酒清新
+- 红葡萄酒轻盈
+
+## 历史与发展
+- 1876年北海道开拓使尝试酿酒
+- 1900年代初期酒米种植
+- 1970年代现代葡萄酒业起步
+- 2000年代精品酒庄兴起
+- 国际比赛获奖增多
+
+## 代表酒庄与酒造
+- **北海道葡萄酒（株）**- 余市
+- **十胜葡萄酒（株）**
+- **富良野葡萄酒（株）**
+- **国稀酒造（Kunimare）**- 清酒
+- **男山（Otokoyama）**- 旭川，清酒
+- **上川大雪（Kamikawa Taisetsu）**- 清酒
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：北海道葡萄酒协会
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [烈酒, 白酒, 中国, 蒸馏酒, 世界六大蒸馏酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wiki-spirit-absinthe, ENT-wiki-spirit-soju, ENT-wiki-spirit-arak, ENT-wiki-spirit-grappa, ENT-wiki-spirit-eau-de-vie]
-related_typed: {ENT-wiki-spirit-absinthe: same_subcat, ENT-wiki-spirit-soju: same_subcat, ENT-wiki-spirit-arak: same_subcat, ENT-wiki-spirit-grappa: same_subcat, ENT-wiki-spirit-eau-de-vie: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1
@@ -22,26 +20,46 @@ version: 1
 
 中国白酒是世界六大蒸馏酒之一，以酒曲发酵固态蒸馏工艺著称，产量与消费量均居全球前列。
 
-## 图片参考
+## 概述
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Baijiu%20other_spirit%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Baijiu%20other_spirit)
-- [Google 图片](https://www.google.com/search?q=Baijiu%20other_spirit%20bottle&tbm=isch)
+白酒（Baijiu）是中国传统的蒸馏酒，与威士忌、白兰地、伏特加、朗姆酒、金酒并称为世界六大蒸馏酒。以富含淀粉的谷物为原料，采用独特的酒曲固态发酵工艺，酒精度通常在35%-68%之间。白酒是中国产量最大、消费量最高的烈酒品类。
 
-## 基础信息
+## 历史背景
 
-- **中文名**：中国白酒
-- **外文名**：Baijiu
-- **分类**：其他烈酒
-- **产地**：中国
+- **起源**：蒸馏技术在元代（13世纪）传入中国
+- **发展**：明清时期白酒逐渐取代黄酒成为主流蒸馏酒
+- **现代**：1952年第一届全国评酒会确立"八大名酒"
+- **全球化**：21世纪茅台、五粮液等品牌进入国际市场
 
-## 合规信息
+## 香型分类
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+白酒按风味特征分为多种香型：
+1. **酱香型**：茅台、郎酒，酱香突出、幽雅细腻
+2. **浓香型**：五粮液、泸州老窖，窖香浓郁、绵甜甘冽
+3. **清香型**：汾酒、二锅头，清香纯正、余味爽净
+4. **米香型**：桂林三花酒，蜜香清雅、入口柔绵
+5. **兼香型**：白云边、口子窖，多种香型融合
+6. **凤香型**：西凤酒，醇香秀雅、甘润挺爽
+
+## 酿造工艺
+
+### 原料
+- 高粱、小麦、玉米、大米、糯米等谷物
+- 大曲、小曲、麸曲作为糖化发酵剂
+
+### 工艺特点
+1. 固态发酵（区别于西方液态发酵）
+2. 甑桶蒸馏
+3. 陶坛陈酿
+4. 勾调工艺
+
+## 文化地位
+
+- 中国国宴用酒
+- 传统宴席、节日、商务场合核心饮品
+- 2018年中国白酒产量约870万千升
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wikipedia
 - 数据置信度：verified

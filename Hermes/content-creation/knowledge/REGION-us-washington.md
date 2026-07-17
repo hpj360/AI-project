@@ -7,8 +7,6 @@ tags: [产区风土, 美国, 华盛顿, 赤霞珠, 干燥气候]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official
 data_source: WSET/Washington State Wine Commission
 version: 1
@@ -22,26 +20,70 @@ version: 1
 
 美国第二大葡萄酒产区，干燥大陆性气候与灌溉系统造就饱满赤霞珠。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Washington%20State%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Washington%20State%20region)
-- [Google 图片](https://www.google.com/search?q=Washington%20State%20region%20bottle&tbm=isch)
+### 位置
+- 美国西北部，与俄勒冈相邻
+- 主要葡萄园在喀斯喀特山脉东侧（东部干旱区）
+- 哥伦比亚河流域为核心
 
-## 基础信息
+### 气候
+- 干燥大陆性气候（山脉背风坡）
+- 年降雨少（200-250mm）
+- 夏季温暖，日照长（北纬46°）
+- 昼夜温差大，酸度保留
+- 冬季严寒，偶有冻害风险
 
-- **中文名**：华盛顿州
-- **外文名**：Washington State
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 冰川洪水Misson Beds形成的多样化土壤
+- 砂质壤土、玄武岩、黄土
+- 排水良好，矿物丰富
+- 多数土壤无根瘤蚜，部分自根葡萄
 
-## 合规信息
+## 主要AVA
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| AVA | 主要品种 | 特点 |
+|------|----------|------|
+| Columbia Valley | 赤霞珠为主 | 大区AVA，占99%产量 |
+| Yakima Valley | 赤霞珠、美乐 | 历史最久 |
+| Red Mountain | 赤霞珠 | 强劲浓郁，顶级 |
+| Walla Walla Valley | 赤霞珠、西拉 | 跨州AVA |
+| Horse Heaven Hills | 赤霞珠 | 凉爽坡向 |
+| Wahluke Slope | 赤霞珠 | 最温暖，成熟稳定 |
+| Snipes Mountain | 多品种 | 古老土壤 |
+| Ancient Lakes | 霞多丽、雷司令 | 凉爽，白为主 |
+| Columbia Gorge | 多品种 | 太平洋影响 |
+
+## 主要品种
+
+### 红品种
+- **赤霞珠**：旗舰，深色饱满
+  - 黑加仑、薄荷、辛香
+  - 单宁柔和，酸度均衡
+- **美乐**：华盛顿传统强项
+- **西拉**：新兴，Rhône风格
+- **品丽珠、马尔贝克**：辅助
+
+### 白品种
+- **霞多丽**：主力白
+- **雷司令**：优质干型
+- **长相思、白皮诺**
+
+## 酿造特点
+- 干燥气候减少病害
+- 灌溉可控，控制产量与成熟
+- 多数酒庄位于西雅图附近，葡萄来自东部
+- 现代设备与精品酿造结合
+
+## 代表酒庄
+- **奎塞达（Quilceda Creek Vintners）**- 100分常客
+- **莱昂内提（Leonetti Cellar）**- 华盛顿最早精品酒庄
+- **哥伦比亚峰（Columbia Crest）**- 大规模高质量
+- **伍德沃德峡谷（Woodward Canyon）**- 早期先驱
+- **德卢莱（Domaine Drouhin的姐妹）**
+- **查尔斯·史密斯（Charles Smith Wines）**
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/Washington State Wine Commission
 - 数据置信度：official

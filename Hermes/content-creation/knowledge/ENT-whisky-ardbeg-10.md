@@ -7,8 +7,6 @@ tags: [威士忌, 苏格兰, 单一麦芽, 艾雷岛, 烟熏]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-ardbeg-uigeadail, ENT-whisky-lagavulin-16, ENT-whisky-lagavulin-8, ENT-whisky-bowmore-12, ENT-whisky-bowmore-15]
-related_typed: {ENT-whisky-ardbeg-uigeadail: same_brand, ENT-whisky-lagavulin-16: same_region, ENT-whisky-lagavulin-8: same_region, ENT-whisky-bowmore-12: same_region, ENT-whisky-bowmore-15: same_region}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [鸡尾酒, 亚洲, 柚子, 龙舌兰, 日本]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
-related_typed: {ENT-cocktail-sake-bomb: same_region, ENT-cocktail-sake-martini: same_region, ENT-cocktail-saketini: same_region, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region}
 data_confidence: simulated
 data_source: 日本配方
 version: 1

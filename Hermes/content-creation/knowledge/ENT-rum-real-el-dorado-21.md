@@ -7,8 +7,6 @@ tags: [朗姆酒, El Dorado, 圭亚那, 陈年21年, Demerara]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rum-off-166-rhum-blanc-traditionnel, ENT-rum-off-167-spiced-rum, ENT-rum-off-168-masskara, ENT-rum-off-169-caribbean-rum-with-coconut-flavour, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour]
-related_typed: {ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat, ENT-rum-off-167-spiced-rum: same_subcat, ENT-rum-off-168-masskara: same_subcat, ENT-rum-off-169-caribbean-rum-with-coconut-flavour: same_subcat, ENT-rum-off-170-malibu-caribbean-rum-with-coconut-flavour: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / Flaviar
 version: 1

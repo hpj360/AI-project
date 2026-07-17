@@ -7,8 +7,6 @@ tags: [啤酒, 中国, 青岛, 工业拉格]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-tsingtao-pure-draft, ENT-beer-real-tsingtao, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
-related_typed: {ENT-beer-tsingtao-pure-draft: same_brand, ENT-beer-real-tsingtao: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 波本, 黑胡桃, 古典]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
-related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
 data_confidence: simulated
 version: 1
 ---

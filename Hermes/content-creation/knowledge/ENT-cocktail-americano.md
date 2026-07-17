@@ -7,8 +7,6 @@ tags: [鸡尾酒, IBA, 低度, 意大利, 苦味]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-cynar-sour, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini, ENT-cocktail-saketini, ENT-cocktail-tokyo-tea]
-related_typed: {ENT-cocktail-cynar-sour: same_region, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
 version: 1

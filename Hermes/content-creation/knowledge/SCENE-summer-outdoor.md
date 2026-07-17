@@ -7,8 +7,6 @@ tags: [场景, 夏季, 户外, 清爽, 起泡酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SCENE-spring-festival, SCENE-mid-autumn, SCENE-wedding, SCENE-business-dinner, SCENE-birthday]
-related_typed: {SCENE-spring-festival: same_subcat, SCENE-mid-autumn: same_subcat, SCENE-wedding: same_subcat, SCENE-business-dinner: same_subcat, SCENE-birthday: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,117 @@ version: 1
 
 夏季户外用酒推荐：清爽解暑、便携易饮的酒款选择。
 
-## 图片参考
+## 夏季户外用酒推荐
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Summer%20Outdoor%20Wine%20scene%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Summer%20Outdoor%20Wine%20scene)
-- [Google 图片](https://www.google.com/search?q=Summer%20Outdoor%20Wine%20scene%20bottle&tbm=isch)
+### 夏季户外用酒原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 清爽解暑 | 高酸度、低酒精 |
+| 便携易饮 | 易开瓶、不易碎 |
+| 冰镇享用 | 准备冰桶或冰袋 |
+| 避免重酒 | 重红酒不适夏季 |
 
-- **中文名**：夏季户外用酒
-- **外文名**：Summer Outdoor Wine
-- **分类**：场景推荐
-- **产地**：
+### 按场景推荐
 
-## 合规信息
+#### 1. 户外野餐
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 酒款类型 | 推荐酒款 | 价格区间 |
+|----------|----------|----------|
+| 起泡酒 | Prosecco、Cava | 150-500元 |
+| 桃红 | 桃红葡萄酒 | 150-500元 |
+| 干白 | 长相思、灰皮诺 | 150-500元 |
+| 轻红酒 | 黑皮诺、Gamay | 200-600元 |
+
+##### 推荐酒款
+- Prosecco（Martini、Gancia）
+- 桃红（Provence、西班牙）
+- 新西兰长相思（Oyster Bay）
+- 博若莱红酒（Gamay）
+
+#### 2. 海边度假
+- 起泡酒：Prosecco、Cava
+- 干白：长相思、阿尔巴利诺
+- 桃红：清爽浪漫
+- 啤酒：经典搭配
+- 价格：150-500元
+
+#### 3. 露台烧烤
+- 啤酒：经典烧烤搭配
+- 桃红：清爽解腻
+- 干红：西拉、马尔贝克（中酒体）
+- 起泡：Cava、Prosecco
+- 价格：150-600元
+
+#### 4. 户外音乐节
+- 啤酒：便携易饮
+- 起泡酒：Prosecco（罐装）
+- 桃红：清爽氛围
+- 价格：100-300元
+
+### 按酒款类型推荐
+
+#### 起泡酒（夏季首选）
+- Prosecco：清爽果香
+- Cava：传统方法
+- Asti：甜润低酒精
+- 桃红起泡：浪漫色彩
+
+#### 干白葡萄酒
+- 长相思：清爽高酸
+- 灰皮诺：轻盈易饮
+- 阿尔巴利诺：海风矿物
+- Verdejo：西班牙清爽
+
+#### 桃红葡萄酒
+- Provence 桃红：经典优雅
+- 西班牙桃红：性价比
+- 意大利桃红：果香突出
+- 桃红起泡：浪漫氛围
+
+#### 轻酒体红酒
+- 黑皮诺：轻盈优雅
+- Gamay（博若莱）：清爽果香
+- 品丽珠：草本清香
+- Pinotage：独特风味
+
+### 按预算推荐
+
+#### 经济方案（100-300元/瓶）
+- 起泡：Prosecco、Cava
+- 干白：智利、西班牙
+- 桃红：西班牙、国产
+- 轻红酒：博若莱
+
+#### 中端方案（300-800元/瓶）
+- 起泡：香槟入门、高端 Cava
+- 干白：新西兰、勃艮第
+- 桃红：Provence
+- 轻红酒：勃艮第黑皮诺
+
+#### 高端方案（800元以上/瓶）
+- 起泡：年份香槟
+- 干白：勃艮第一级园
+- 桃红：顶级 Provence
+- 轻红酒：勃艮第特级园
+
+### 夏季户外用酒注意事项
+
+- 充分冰镇（白酒、起泡、桃红）
+- 准备冰桶或冰袋
+- 避免阳光直射酒瓶
+- 选择螺旋盖酒款（便携）
+- 注意酒精度（13%以下）
+- 准备充足水分
+
+### 夏季户外用酒禁忌
+
+- 避免重酒体红酒（>14%）
+- 避免过高度数
+- 避免玻璃瓶过重
+- 避免需长时间醒酒的酒
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

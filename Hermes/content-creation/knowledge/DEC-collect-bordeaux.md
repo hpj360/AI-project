@@ -7,8 +7,6 @@ tags: [收藏投资, 波尔多, 期酒, En Primeur]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-collect-basics, DEC-collect-vintage-chart, DEC-collect-livex, DEC-collect-auction, DEC-collect-whisky]
-related_typed: {DEC-collect-basics: same_subcat, DEC-collect-vintage-chart: same_subcat, DEC-collect-livex: same_subcat, DEC-collect-auction: same_subcat, DEC-collect-whisky: same_subcat}
 data_confidence: verified
 data_source:  Bordeaux Wine Council/Liv-ex
 version: 1
@@ -22,26 +20,82 @@ version: 1
 
 波尔多期酒（En Primeur）运作机制、参与流程及期酒与现货投资对比分析。
 
-## 图片参考
+## 期酒制度概述
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bordeaux%20En%20Primeur%20System%20collect%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Bordeaux%20En%20Primeur%20System%20collect)
-- [Google 图片](https://www.google.com/search?q=Bordeaux%20En%20Primeur%20System%20collect%20bottle&tbm=isch)
+### 什么是 En Primeur
+- 期酒是葡萄酒在装瓶前（采后第二年春季）以"期货"形式销售
+- 酒庄提前回笼资金，买家以低于现货价购入
+- 起源于17世纪英国商人预付波尔多酒款的做法
+- 现已成为全球葡萄酒投资的核心机制
 
-## 基础信息
+## 运作时间表
 
-- **中文名**：波尔多期酒制度
-- **外文名**：Bordeaux En Primeur System
-- **分类**：收藏投资
-- **产地**：
+| 时间 | 事件 |
+|------|------|
+| 9-10月 | 葡萄采收 |
+| 次年3-4月 | 酒评家品鉴期（Robert Parker、Jancis Robinson等） |
+| 次年4-5月 | 酒庄陆续发布期酒价格（release price） |
+| 次年5-7月 | 期酒销售窗口 |
+| 采收后2年 | 装瓶交付（如2022年份于2024年春交付） |
 
-## 合规信息
+## 参与流程
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 1. 选择酒商
+- **英国酒商**：Berry Bros、Farr Vintners（传统期酒中心）
+- **美国酒商**：K&L、Total Wine（部分需配额）
+- **香港/大陆**：Berry Bros HK、富隆、ASC（溢价较高）
+- **要求**：建立客户关系、历史购买记录
+
+### 2. 下单
+- 酒庄发布价格后2-7天内决策
+- 通常按箱（12瓶×750ml）购买
+- 支付：下单后7-30天付款（不含税运）
+
+### 3. 交付
+- 采收后约24个月装瓶
+- 通过酒商→进口商→零售商链条交付
+- 跨境购买需缴纳当地税费
+
+## 期酒 vs 现货对比
+
+| 维度 | 期酒 | 现货 |
+|------|------|------|
+| 价格 | 较低（出厂价） | 较高（含陈年溢价） |
+| 资金占用 | 2年（无实物） | 即时获得 |
+| 风险 | 价格下跌、酒庄违约 | 真伪、储存历史 |
+| 流动性 | 装瓶前难以转售 | 即时可在二级市场交易 |
+| 选择性 | 限当年份 | 全年份可选 |
+| 投资回报 | 高（早期介入） | 较低（已含溢价） |
+
+## 历史期酒投资回报
+
+### 经典成功案例
+
+| 年份 | 一级庄期酒价（英镑/箱） | 5年后市价 | 回报率 |
+|------|----------------------|----------|--------|
+| 2005 | 4000 | 8500 | +112% |
+| 2009 | 10000 | 13000 | +30% |
+| 2010 | 12000 | 13500 | +12% |
+| 2016 | 4500 | 6500 | +44% |
+
+### 失败案例
+
+| 年份 | 一级庄期酒价 | 5年后市价 | 回报率 |
+|------|------------|----------|--------|
+| 2011 | 12000 | 8500 | -29% |
+| 2012 | 8000 | 7500 | -6% |
+| 2017 | 6500 | 6800 | +5%（低于资金成本） |
+
+## 投资建议
+
+1. **优选年份**：仅5星级年份建议期酒介入
+2. **重点酒庄**：一级庄、超二级庄、右岸顶级
+3. **价格参考**：Liv-ex发布前一年同期价格对比
+4. **避免追高**：发行价高于上一年现货价则谨慎
+5. **资金规划**：预留2年等待期，不占用应急资金
+6. **分散酒庄**：避免单一酒庄押注（配3-5家以上）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源： Bordeaux Wine Council/Liv-ex
 - 数据置信度：verified

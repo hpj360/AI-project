@@ -7,8 +7,6 @@ tags: [黄酒, 即墨, 山东, 黍米]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-yellow-wine-jimo-laoliu-huangjiu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang]
-related_typed: {ENT-yellow-wine-jimo-laoliu-huangjiu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: same_subcat}
 data_confidence: simulated
 version: 1
 ---

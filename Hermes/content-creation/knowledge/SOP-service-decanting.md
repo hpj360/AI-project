@@ -7,8 +7,6 @@ tags: [侍酒, 醒酒, decanting, 老酒, 操作规范]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white, SOP-service-temperature-sparkling]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat, SOP-service-temperature-sparkling: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
 version: 1
@@ -22,26 +20,94 @@ version: 1
 
 醒酒操作规范：老酒换瓶去渣、新酒醒酒氧化的判断与流程。
 
-## 图片参考
+## 醒酒操作全流程
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Decanting%20Service%20SOP%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Decanting%20Service%20SOP%20pairing)
-- [Google 图片](https://www.google.com/search?q=Decanting%20Service%20SOP%20pairing%20bottle&tbm=isch)
+### 醒酒的两大目的
 
-## 基础信息
+| 目的 | 适用酒款 | 操作 |
+|------|----------|------|
+| 去除沉淀 | 老酒（10年+） | 换瓶 |
+| 氧化柔化 | 年轻重酒 | 醒酒 |
 
-- **中文名**：醒酒操作全流程
-- **外文名**：Decanting Procedure
-- **分类**：餐酒搭配
-- **产地**：
+### 判断是否需要醒酒
 
-## 合规信息
+#### 必须醒酒
+- 10 年以上波尔多、勃艮第红酒
+- 含沉淀的老酒
+- 单宁强劲的年轻红酒（Barolo、Brunello）
+- 高端年份波特
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 建议醒酒
+- 年轻赤霞珠、西拉
+- 优质新世界红酒
+- 部分白葡萄酒（过桶霞多丽）
+
+#### 不需醒酒
+- 即饮型轻酒体红酒（黑皮诺入门）
+- 大部分白葡萄酒
+- 起泡酒、甜酒（除老酒外）
+- 桃红葡萄酒
+
+### 醒酒时间参考
+
+| 酒款类型 | 醒酒时间 |
+|----------|----------|
+| 年轻波尔多 | 1-2 小时 |
+| 老酒波尔多 | 0.5-1 小时 |
+| 年轻勃艮第 | 30-60 分钟 |
+| 老酒勃艮第 | 15-30 分钟 |
+| Barolo/Brunello | 2-4 小时 |
+| 年轻西拉 | 1-2 小时 |
+| 年份波特 | 2-4 小时 |
+
+### 老酒换瓶流程
+
+#### 1. 准备
+- 提前 24 小时直立静置，让沉淀下沉
+- 准备醒酒器、蜡烛或光源
+- 餐巾、备用瓶塞
+
+#### 2. 开瓶
+- 使用 Ah-So 老酒开瓶器
+- 缓慢拔出脆弱的软木塞
+- 避免震动
+
+#### 3. 换瓶
+- 点燃蜡烛置于醒酒器旁
+- 一手持瓶，瓶口对准光源
+- 缓慢倾倒，观察酒液
+- 见到沉淀接近瓶颈时停止
+- 瓶底剩余 50-100ml 含沉淀酒液弃用
+
+#### 4. 服务
+- 老酒换瓶后立即服务
+- 不需长时间氧化
+- 保持醒酒器倾斜，减少氧化面积
+
+### 年轻酒醒酒流程
+
+#### 1. 选择醒酒器
+- 宽腹醒酒器：增大氧化面积
+- 适合年轻重酒
+
+#### 2. 倒酒
+- 快速倒入醒酒器
+- 让酒液充分接触空气
+- 可适度摇晃加速氧化
+
+#### 3. 醒酒时间
+- 按酒款类型设定时间
+- 期间可品鉴变化
+- 达到最佳风味后服务
+
+### 醒酒器清洁
+
+- 用后立即清水冲洗
+- 避免使用洗洁精（残留影响酒香）
+- 专用醒酒器清洁珠
+- 倒置晾干，避免异味
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Court of Master Sommeliers
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [葡萄酒, 红葡萄酒, 美国, 纳帕谷, Caymus, 赤霞珠, 高性价�
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-caymus, ENT-wine-real-opus-one, ENT-wine-real-silver-oak, ENT-wine-red-opus-one-2019, ENT-wine-red-harlan-estate-2018]
-related_typed: {ENT-wine-real-caymus: same_brand, ENT-wine-real-opus-one: same_region, ENT-wine-real-silver-oak: same_region, ENT-wine-red-opus-one-2019: same_region, ENT-wine-red-harlan-estate-2018: same_region}
 data_confidence: verified
 data_source: Wine-Searcher / wine-searcher.com
 version: 1

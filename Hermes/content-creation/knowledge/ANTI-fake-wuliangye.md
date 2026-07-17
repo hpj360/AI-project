@@ -7,8 +7,6 @@ tags: [假酒鉴别, 五粮液, 防伪, 白酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ANTI-fake-maotai, ANTI-fake-lafite, ANTI-fake-maotai-packaging, ANTI-fake-hongxing, ANTI-fake-fenjiu]
-related_typed: {ANTI-fake-maotai: same_subcat, ANTI-fake-lafite: same_subcat, ANTI-fake-maotai-packaging: same_subcat, ANTI-fake-hongxing: same_subcat, ANTI-fake-fenjiu: same_subcat}
 data_confidence: official
 data_source: 五粮液集团官方防伪指南
 version: 1
@@ -22,26 +20,57 @@ version: 1
 
 五粮液的二维码追溯系统、防伪标签及瓶盖工艺识别方法。
 
-## 图片参考
+## 防伪体系
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wuliangye%20Anti-Counterfeit%20Guide%20fake%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wuliangye%20Anti-Counterfeit%20Guide%20fake)
-- [Google 图片](https://www.google.com/search?q=Wuliangye%20Anti-Counterfeit%20Guide%20fake%20bottle&tbm=isch)
+### 1. 二维码追溯系统
 
-## 基础信息
+- 瓶盖顶部贴有专属二维码
+- 使用微信或五粮液官方APP扫码
+- 扫码显示生产批次、出厂日期、流通信息
+- 每个二维码仅可有效验证一次
 
-- **中文名**：五粮液防伪鉴别
-- **外文名**：Wuliangye Anti-Counterfeit
-- **分类**：假酒鉴别
-- **产地**：
+### 2. 防伪标签识别
 
-## 合规信息
+- **光变油墨**：标签上的"五粮液"字样随角度变色
+- **微缩文字**：放大可见"WULIANGYE"微缩字
+- **激光全息**：标签有激光全息防伪图层
+- **刮擦式验证码**：刮开涂层获取验证码
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 瓶盖工艺
+
+- 瓶盖采用一次性断盖设计
+- 开启后断环与盖体分离，无法复原
+- 盖身有"五粮液"凸字，触摸有立体感
+- 盖顶有防伪芯片或二维码
+
+### 4. 瓶身与标签
+
+- 瓶身玻璃通透，无气泡杂质
+- 标签印刷精美，色彩饱满
+- "五粮液"三字为金色，立体感强
+- 标签背面有隐形荧光编码
+
+### 5. 外包装盒
+
+- 包装盒纸质挺括，印刷清晰
+- 盒身有激光防伪标
+- 内附合格证与产品说明
+- 盒底有生产编号与瓶身一致
+
+### 常见造假特征
+
+1. 二维码扫描无响应或跳转异常页面
+2. 防伪标签色彩暗淡，无光变效果
+3. 瓶盖断环可复原或无断环设计
+4. 标签字体模糊，金色彩印不均
+
+### 鉴别建议
+
+- 优先选择五粮液官方旗舰店或授权经销商
+- 价格明显低于市场价需警惕
+- 扫码验证时注意页面是否为官方域名
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：五粮液集团官方防伪指南
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [葡萄酒, 红葡萄酒, 波尔多, 侯伯王, 一级庄, 佩萨克-雷�
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-haut-brion, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-helanshan-putaojiu, ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu]
-related_typed: {ENT-wine-real-haut-brion: same_region, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-helanshan-putaojiu: same_subcat, ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

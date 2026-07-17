@@ -7,8 +7,6 @@ tags: [行业趋势, 数字酒窖, APP, 收藏]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [TREND-low-alcohol-rise, TREND-dealcoholization-tech, TREND-non-alcoholic-beer, TREND-non-alcoholic-wine, TREND-low-abv-cocktail]
-related_typed: {TREND-low-alcohol-rise: same_subcat, TREND-dealcoholization-tech: same_subcat, TREND-non-alcoholic-beer: same_subcat, TREND-non-alcoholic-wine: same_subcat, TREND-low-abv-cocktail: same_subcat}
 data_confidence: verified
 data_source: 行业公开报告
 version: 1
@@ -22,26 +20,72 @@ version: 1
 
 APP与云端服务管理私人收藏，提供估值、推荐、交易等综合服务。
 
-## 图片参考
+## 数字酒窖管理
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Digital%20Cellar%20Management%20trend%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Digital%20Cellar%20Management%20trend)
-- [Google 图片](https://www.google.com/search?q=Digital%20Cellar%20Management%20trend%20bottle&tbm=isch)
+### 核心功能
 
-## 基础信息
+| 功能 | 描述 | 价值 |
+|------|------|------|
+| 库存管理 | 记录酒款信息 | 便捷查询 |
+| 估值服务 | 实时市场估价 | 资产管理 |
+| 适饮期提醒 | 最佳饮用时间 | 品质保障 |
+| 配餐推荐 | 食物搭配建议 | 提升体验 |
+| 交易撮合 | 买卖对接 | 流动性 |
+| 社交分享 | 收藏展示 | 社交属性 |
 
-- **中文名**：数字酒窖
-- **外文名**：Digital Cellar
-- **分类**：行业趋势
-- **产地**：
+### 主要APP
 
-## 合规信息
+| 应用 | 用户数 | 估值 | 特色 | 地区 |
+|------|--------|------|------|------|
+| Vivino | 6000万+ | 扫描评分 | 社区 | 全球 |
+| CellarTracker | 50万+ | 免费 | 数据全 | 全球 |
+| Wine-Searcher | 数百万 | 价格查询 | 价格准 | 全球 |
+| K&L | 数十万 | 零售+管理 | 购买 | 美国 |
+| 醉品茅台 | 数百万 | 中国白酒 | 国酒 | 中国 |
+| 红酒世界 | 数十万 | 中文 | 本地化 | 中国 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 智能化功能
+
+1. **图像识别**：
+   - 拍照自动识别酒款
+   - 批量扫描录入
+   - 标签信息提取
+
+2. **AI推荐**：
+   - 基于口味偏好
+   - 价格区间匹配
+   - 适饮期排序
+   - 相似酒款推荐
+
+3. **云端同步**：
+   - 多设备同步
+   - 数据备份
+   - 离线可用
+   - 家庭共享
+
+### 估值服务
+
+- **数据源**：全球零售商报价
+- **更新频率**：实时/每日
+- **估值维度**：当前市场价、历史走势、收藏价值
+- **影响因素**：年份、状况、稀缺性、评分
+
+### 适饮期管理
+
+- 基于品种、产区、年份
+- 动态调整建议
+- 提醒功能
+- 饮用记录
+
+### 发展趋势
+
+- 与电商打通购买
+- 社交化品鉴记录
+- 区块链资产确权
+- 虚拟酒窖VR展示
+- 智能硬件集成（温控、识别）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：行业公开报告
 - 数据置信度：verified

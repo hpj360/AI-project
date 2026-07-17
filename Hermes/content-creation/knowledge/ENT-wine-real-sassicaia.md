@@ -7,8 +7,6 @@ tags: [红酒, 意大利, 超级托斯卡纳, 博格利, 赤霞珠]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-sassicaia-2016, ENT-wine-red-sassicaia-2021, ENT-baike-wine-changcheng-putaojiu, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu]
-related_typed: {ENT-wine-red-sassicaia-2016: same_brand, ENT-wine-red-sassicaia-2021: same_brand, ENT-baike-wine-changcheng-putaojiu: cross_region, ENT-baike-wine-wangchao-putaojiu: cross_region, ENT-baike-wine-weilong-putaojiu: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

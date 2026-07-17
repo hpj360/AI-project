@@ -7,8 +7,6 @@ tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-bacardi-cocktail, ENT-cocktail-casablanca, ENT-cocktail-clover-club, ENT-cocktail-bellini, ENT-cocktail-mojito]
-related_typed: {ENT-cocktail-bacardi-cocktail: same_subcat, ENT-cocktail-casablanca: same_subcat, ENT-cocktail-clover-club: same_subcat, ENT-cocktail-bellini: same_subcat, ENT-cocktail-mojito: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1
@@ -26,50 +24,28 @@ ratings:
 
 Avalon是一款经典饮品，使用5种配料调制，盛于高球杯。
 
-## 图片参考
+## 基本信息
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Avalon%20cocktail%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Avalon%20cocktail)
-- [Google 图片](https://www.google.com/search?q=Avalon%20cocktail%20bottle&tbm=isch)
+- **酒精度**：约 10.0% ABV（估算）
+- **分类**：Ordinary Drink
+- **含酒精**：Alcoholic
+- **推荐杯具**：高球杯（Highball glass）
 
-## 基础信息
+## 配方
 
-- **中文名**：Avalon
-- **外文名**：Avalon
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：10.0%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+| 配料 | 用量 |
+|------|------|
+| Vodka | 3 parts |
+| Pisang Ambon | 1 part |
+| Apple juice | 6 parts |
+| Lemon juice | 1 1/2 part |
+| Lemonade | 适量 |
 
-## 风味轮廓
+## 调制方法
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.0 | 218 |
-| Difford's Guide | 4.03 | 2022 |
-| IBA 推荐 | 3.7 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
-
-## 合规信息
-
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

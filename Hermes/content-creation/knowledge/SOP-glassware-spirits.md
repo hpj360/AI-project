@@ -7,8 +7,6 @@ tags: [酒具器皿, 酒杯, 烈酒, 威士忌, 白兰地]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-glassware-red-bordeaux, SOP-glassware-red-burgundy, SOP-glassware-white, SOP-glassware-sparkling, SOP-glassware-sake]
-related_typed: {SOP-glassware-red-bordeaux: same_subcat, SOP-glassware-red-burgundy: same_subcat, SOP-glassware-white: same_subcat, SOP-glassware-sparkling: same_subcat, SOP-glassware-sake: same_subcat}
 data_confidence: official
 data_source: ISO标准/WSET标准
 version: 1
@@ -22,26 +20,54 @@ version: 1
 
 ISO杯、格兰凯恩杯、白兰地杯等烈酒品鉴杯型的对比与选择。
 
-## 图片参考
+## 主流品鉴杯型
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Spirits%20Tasting%20Glass%20Comparison%20glassware%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Spirits%20Tasting%20Glass%20Comparison%20glassware)
-- [Google 图片](https://www.google.com/search?q=Spirits%20Tasting%20Glass%20Comparison%20glassware%20bottle&tbm=isch)
+### ISO标准品鉴杯
 
-## 基础信息
+- **容量**：210ml（含液量30-50ml）
+- **形状**：椭圆杯腹、窄长收口
+- **优势**：国际盲品统一标准，公平对比
+- **适用**：所有烈酒专业品鉴、考试评分
 
-- **中文名**：烈酒品鉴杯
-- **外文名**：Spirits Tasting Glass
-- **分类**：酒具器皿
-- **产地**：
+### 格兰凯恩杯（Glencairn）
 
-## 合规信息
+- **容量**：约175ml
+- **形状**：水晶玻璃、宽腹收口、厚实杯底
+- **优势**：苏格兰威士忌协会推荐，聚香效果卓越
+- **适用**：单一麦芽威士忌、调和威士忌品鉴
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 白兰地杯（Snifter）
+
+- **容量**：240-450ml
+- **形状**：大球形杯腹、短杯柄、窄口
+- **优势**：手掌温酒释放香气，杯口聚拢复杂酒香
+- **适用**：干邑、雅文邑、陈年白兰地
+
+### 杜卡斯特杯（Copita/Nosing）
+
+- **容量**：约150-200ml
+- **形状**：郁金香形、细长杯柄
+- **优势**：聚香极强，便于摇晃
+- **适用**：威士忌专业闻香、雪莉酒品鉴
+
+## 杯型对比表
+
+| 维度 | ISO杯 | 格兰凯恩 | 白兰地杯 | 杜卡斯特 |
+|------|-------|---------|---------|---------|
+| 容量 | 210ml | 175ml | 240-450ml | 150-200ml |
+| 聚香 | 中 | 强 | 强 | 极强 |
+| 温酒 | 否 | 否 | 是 | 否 |
+| 适用 | 通用 | 威士忌 | 白兰地 | 闻香 |
+| 价格 | 30-80 | 80-150 | 100-300 | 80-200 |
+
+## 使用规范
+
+1. **倒酒量**：杯腹最宽处以下，约15-30ml
+2. **闻香距离**：鼻尖距杯口2-3cm
+3. **温酒**：白兰地可用掌心温酒，威士忌忌加热
+4. **加水**：品鉴威士忌可滴入纯净水稀释至20%ABV
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：ISO标准/WSET标准
 - 数据置信度：official

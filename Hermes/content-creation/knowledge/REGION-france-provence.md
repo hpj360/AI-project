@@ -7,8 +7,6 @@ tags: [产区风土, 法国, 普罗旺斯, 桃红, 歌海娜]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official
 data_source: WSET/CIVP
 version: 1
@@ -22,26 +20,59 @@ version: 1
 
 世界桃红之乡，桃红产量占88%，地中海阳光与古老葡萄园的代名词。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Provence%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Provence%20region)
-- [Google 图片](https://www.google.com/search?q=Provence%20region%20bottle&tbm=isch)
+### 位置
+- 法国东南部地中海沿岸
+- 从罗纳河口到尼斯
+- 法国最古老的葡萄酒产区（2600年前希腊人引入）
 
-## 基础信息
+### 气候
+- 典型地中海气候
+- 夏季炎热干燥，日照充足（年2750小时）
+- 米斯特拉尔北风清洁葡萄园，减少病害
+- 海风调节温度
 
-- **中文名**：普罗旺斯
-- **外文名**：Provence
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 多样：石灰岩、片岩、砂岩、砾石、黏土
+- 海岸带以石英岩和片岩为主
+- 内陆以黏土和石灰岩为主
 
-## 合规信息
+## 主要子产区
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 产区 | 类型 | 特点 |
+|------|------|------|
+| 普罗旺斯丘 Côteaux d'Aix-en-Provence | 红桃白 | 最大子产区 |
+| 瓦尔丘 Côteaux Varois en Provence | 红桃白 | 内陆中心 |
+| 邦多勒 Bandol | 红为主 | 慕合怀特主栽 |
+| 卡西斯 Cassis | 白为主 | 玛珊混酿 |
+| 帕莱特 Palette | 红桃白 | 法国最小AOC |
+
+## 主要品种
+
+### 红葡萄品种
+- **歌海娜**（Grenache）：桃红主力，果香饱满
+- **神索**（Cinsault）：桃红主力，轻盈果香
+- **慕合怀特**（Mourvèdre）：邦多勒主栽，结构强
+- **堤布宏**（Tibouren）：本地品种，桃红精致
+- 西拉、赤霞珠（辅助）
+
+### 白葡萄品种
+- 玛珊、胡珊、克莱雷特、布布兰克
+
+## 桃红酿造特点
+- 直接压榨法为主（saignée比例少）
+- 浅三文鱼色至淡粉色
+- 强调清新果香（柑橘、桃、红色莓果）
+- 干型，酸度活泼
+
+## 代表酒庄
+- 悦钟（Château d'Esclans）- Whispering Angel、Garrus
+- 米拉维尔（Miraval）- Pitt-Jolie合作
+- 坦木索（Tempier）- 邦多勒标杆
+- 多玛士（Domaines Ott）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/CIVP
 - 数据置信度：official

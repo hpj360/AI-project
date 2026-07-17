@@ -7,8 +7,6 @@ tags: [汤品, 浓汤, 清汤, 炖汤, 白葡萄酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-temperature-sparkling, SOP-service-temperature-spirits, SOP-service-temperature-sake, SOP-service-order, SOP-service-restaurant]
-related_typed: {SOP-service-temperature-sparkling: same_subcat, SOP-service-temperature-spirits: same_subcat, SOP-service-temperature-sake: same_subcat, SOP-service-order: same_subcat, SOP-service-restaurant: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing
 version: 1
@@ -22,26 +20,53 @@ version: 1
 
 按汤品类型（浓汤/清汤/炖汤）搭配干白、雪利与中酒体红酒。
 
-## 图片参考
+## 汤品配酒分类指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Soup%20and%20Wine%20Pairing%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Soup%20and%20Wine%20Pairing%20pairing)
-- [Google 图片](https://www.google.com/search?q=Soup%20and%20Wine%20Pairing%20pairing%20bottle&tbm=isch)
+### 1. 浓汤（奶油/浓稠）
 
-## 基础信息
+| 汤品 | 推荐酒款 | 搭配理由 |
+|------|----------|----------|
+| 奶油蘑菇汤 | 霞多丽（过桶）、Viognier | 奶油质感 |
+| 南瓜浓汤 | 霞多丽、琼瑶浆 | 香甜呼应 |
+| 玉米浓汤 | 霞多丽、白诗南 | 圆润酒体 |
+| 番茄浓汤 | 桃红、Sangiovese | 高酸平衡 |
+| 海鲜周打汤 | 夏布利、密斯卡岱 | 海鲜搭配 |
 
-- **中文名**：汤品配酒
-- **外文名**：Soup Wine Pairing
-- **分类**：餐酒搭配
-- **产地**：
+### 2. 清汤
 
-## 合规信息
+- 法式清汤 Consommé：干型雪利 Fino、干型马德拉
+- 中式清汤（鸡汤）：霞多丽（未过桶）、灰皮诺
+- 日式出汁 Dashi：纯米酒、吟酿
+- 越式河粉汤：长相思、干型雷司令
+- 泰式冬阴功：长相思、干型雷司令
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 炖汤/煲汤
+
+| 汤品 | 推荐酒款 | 备注 |
+|------|----------|------|
+| 老火靓汤 | 干型雪利 Fino | 提鲜 |
+| 佛跳墙 | 勃艮第霞多丽、波尔多干白 | 复杂搭配 |
+| 人参鸡汤 | 琼瑶浆、Viognier | 香料呼应 |
+| 当归鸭汤 | 黑皮诺、Pinotage | 中酒体 |
+| 牛肉炖汤 | 西拉、马尔贝克 | 重酒体 |
+
+### 4. 甜汤
+
+- 红豆沙：冰酒、贵腐甜白
+- 绿豆汤：半甜雷司令、Moscato
+- 银耳莲子羹：迟摘雷司令、Asti
+- 芝麻糊：Tawny Port、Pedro Ximénez
+- 燕窝：冰酒、贵腐甜白
+
+### 配酒原则
+
+- 浓汤需圆润酒体搭配
+- 清汤选高酸干型酒提鲜
+- 炖汤依主料决定（荤重素轻）
+- 甜汤需甜度匹配的甜酒
+- 汤品温度影响酒款选择，热汤宜冰镇酒
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Food & Wine Pairing
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [产区风土, 中国, 河北, 昌黎, 赤霞珠, 花岗岩]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official
 data_source: 昌黎葡萄酒产区管理委员会
 version: 1
@@ -22,26 +20,80 @@ version: 1
 
 中国干红葡萄酒之乡，长城葡萄酒发源地，赤霞珠与花岗岩土壤的经典组合。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hebei%20Changli%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Hebei%20Changli%20region)
-- [Google 图片](https://www.google.com/search?q=Hebei%20Changli%20region%20bottle&tbm=isch)
+### 位置
+- 河北省秦皇岛市昌黎县
+- 燕山山脉南麓，渤海北岸
+- 北纬39°41'
+- 距北京约300公里
 
-## 基础信息
+### 气候
+- 暖温带半湿润大陆性季风气候
+- 海洋与山地双重影响
+- 四季分明
+- 年日照2800小时
+- 昼夜温差较大
+- 冬季需埋藤越冬
 
-- **中文名**：河北昌黎
-- **外文名**：Hebei Changli
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- **花岗岩风化土**：核心特色
+  - 含石英、长石矿物
+  - 排水极佳
+  - 赋予矿物感与结构
+- 砾质沙壤土
+- 部分含砾石
+- 微酸性，适合赤霞珠
 
-## 合规信息
+## 主要子产区
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 子产区 | 位置 | 主要品种 | 特点 |
+|--------|------|----------|------|
+| 昌黎县城北 | 燕山南坡 | 赤霞珠 | 花岗岩核心 |
+| 凤凰山 | 山地丘陵 | 赤霞珠 | 优质坡地 |
+| 十里铺 | 平原 | 赤霞珠 | 大规模 |
+| 卢龙 | 昌黎邻县 | 赤霞珠 | 扩展区 |
+- "中国干红葡萄酒城"地理标志产区
+
+## 主要品种
+
+### 红品种
+- **赤霞珠**：绝对主力，70%+
+  - 颜色深，单宁成熟
+  - 黑加仑、青椒、矿物
+- **品丽珠**：辅助
+- **美乐**：调配
+- **西拉**：少量
+- **马瑟兰**：新兴
+
+### 白品种
+- **霞多丽**：少量
+- **贵人香**：传统
+
+## 历史与发展
+- 1979年长城葡萄酒（沙城）建立，昌黎为重要基地
+- 1980年代大规模发展赤霞珠
+- 1990年代成为"中国干红城"
+- 2010年昌黎假酒事件重创
+- 之后严格整顿，品质重建
+- 中粮长城、华夏长城等大企业基地
+
+## 酿造特点
+- 花岗岩土壤赋予矿物感
+- 海洋影响保留酸度
+- 赤霞珠风格：颜色深，单宁紧实
+- 多为企业化大规模生产
+- 精品酒庄逐渐兴起
+
+## 代表酒庄
+- **华夏长城**- 中粮旗下，最大基地
+- **朗格斯酒庄**- 奥地利Gernot Langes-Swarovski投资
+- **施华洛世奇酒庄**
+- **茅台葡萄酒庄**- 茅台集团
+- **丘山论酒庄**- 精品
+- **杰斯塔酒庄**
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：昌黎葡萄酒产区管理委员会
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [红酒, 意大利, 超级托斯卡纳, 托斯卡纳, 桑娇维塞]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-tignanello-2018, ENT-wine-red-solaia-2016, ENT-wine-red-tignanello-2017, ENT-baike-wine-changcheng-putaojiu, ENT-baike-wine-wangchao-putaojiu]
-related_typed: {ENT-wine-real-tignanello-2018: same_brand, ENT-wine-red-solaia-2016: same_brand, ENT-wine-red-tignanello-2017: same_brand, ENT-baike-wine-changcheng-putaojiu: cross_region, ENT-baike-wine-wangchao-putaojiu: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

@@ -7,8 +7,6 @@ tags: [白葡萄酒, 智利, 长相思, Casablanca, Casas del Bosque]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine_white-off-033-cuv-e-hortense, ENT-wine_white-off-034-vin-blanc, ENT-wine_white-off-036-vin-d-espagne-blanc, ENT-wine_white-off-037-bree-chardonnay-weisswein, ENT-wine_white-off-038-el-pesca-to]
-related_typed: {ENT-wine_white-off-033-cuv-e-hortense: same_subcat, ENT-wine_white-off-034-vin-blanc: same_subcat, ENT-wine_white-off-036-vin-d-espagne-blanc: same_subcat, ENT-wine_white-off-037-bree-chardonnay-weisswein: same_subcat, ENT-wine_white-off-038-el-pesca-to: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / Decanter
 version: 1

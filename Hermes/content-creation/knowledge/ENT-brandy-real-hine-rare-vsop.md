@@ -7,8 +7,6 @@ tags: [白兰地, 干邑, 法国, 御鹿, VSOP]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brandy-hine-xo, ENT-brandy-hine-talent-de-thomas, ENT-brandy-real-hine-triomphe, ENT-baike-spirits_intl-martell-cordon-bleu, ENT-brandy-hennessy-xo]
-related_typed: {ENT-brandy-hine-xo: same_brand, ENT-brandy-hine-talent-de-thomas: same_brand, ENT-brandy-real-hine-triomphe: same_brand, ENT-baike-spirits_intl-martell-cordon-bleu: cross_region, ENT-brandy-hennessy-xo: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / Flaviar
 version: 1

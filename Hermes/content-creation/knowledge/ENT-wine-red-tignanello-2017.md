@@ -7,8 +7,6 @@ tags: [红酒, 意大利, 超级托斯卡纳, 桑娇维塞]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-tignanello, ENT-wine-real-tignanello-2018, ENT-wine-red-solaia-2016, ENT-wine-red-flaccianello-2017, ENT-brand-haut-brion]
-related_typed: {ENT-wine-real-tignanello: same_brand, ENT-wine-real-tignanello-2018: same_brand, ENT-wine-red-solaia-2016: same_brand, ENT-wine-red-flaccianello-2017: same_region, ENT-brand-haut-brion: same_subcat}
 data_confidence: simulated
 version: 1
 ---

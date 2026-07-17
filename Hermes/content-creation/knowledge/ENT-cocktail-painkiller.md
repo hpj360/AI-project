@@ -7,8 +7,6 @@ tags: [鸡尾酒, Tiki, 朗姆, 椰子, 英属维京群岛]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-sake-martini, ENT-cocktail-saketini]
-related_typed: {ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-sake-martini: cross_region, ENT-cocktail-saketini: same_subcat}
 data_confidence: simulated
 data_source: Soggy Dollar Bar 配方
 version: 1

@@ -7,8 +7,6 @@ tags: [场景, 中秋, 月饼, 团圆, 赏月]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SCENE-spring-festival, SCENE-wedding, SCENE-business-dinner, SCENE-birthday, SCENE-date-night]
-related_typed: {SCENE-spring-festival: same_subcat, SCENE-wedding: same_subcat, SCENE-business-dinner: same_subcat, SCENE-birthday: same_subcat, SCENE-date-night: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,99 @@ version: 1
 
 中秋用酒推荐：月饼配酒、赏月饮品、团圆家宴的酒款选择。
 
-## 图片参考
+## 中秋用酒推荐
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mid-Autumn%20Festival%20Wine%20Recommendations%20scene%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Mid-Autumn%20Festival%20Wine%20Recommendations%20scene)
-- [Google 图片](https://www.google.com/search?q=Mid-Autumn%20Festival%20Wine%20Recommendations%20scene%20bottle&tbm=isch)
+### 中秋用酒原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 月饼配酒 | 甜度需匹配 |
+| 赏月氛围 | 浪漫、优雅 |
+| 团圆家宴 | 大众化口感 |
+| 秋季时令 | 适合陈年红酒 |
 
-- **中文名**：中秋用酒推荐
-- **外文名**：Mid-Autumn Wine
-- **分类**：场景推荐
-- **产地**：
+### 月饼配酒推荐
 
-## 合规信息
+#### 广式月饼
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 月饼口味 | 推荐酒款 | 搭配理由 |
+|----------|----------|----------|
+| 莲蓉蛋黄 | 苏玳 Sauternes | 甜度匹配 |
+| 五仁 | Tawny Port | 坚果香呼应 |
+| 豆沙 | 冰酒、贵腐 | 甜上加甜 |
+| 椰蓉 | Moscato d'Asti | 果香清爽 |
+| 冰皮月饼 | 半甜雷司令 | 清爽搭配 |
+
+#### 苏式月饼
+- 鲜肉月饼：黑皮诺、品丽珠
+- 豆沙月饼：半甜雷司令
+- 枣泥月饼：迟摘雷司令
+
+#### 其他月饼
+- 京式月饼：桃红、半干起泡
+- 滇式月饼（云腿）：西拉、马尔贝克
+- 冰淇淋月饼：Asti、半甜起泡
+
+### 团圆家宴配酒
+
+#### 前菜（凉菜）
+- 起泡酒：香槟、Prosecco
+- 干白：长相思、灰皮诺
+- 价格：200-500元
+
+#### 主菜（海鲜、禽类）
+- 干白：霞多丽、Viognier
+- 红酒：黑皮诺、梅洛
+- 价格：300-1000元
+
+#### 主菜（红肉）
+- 红酒：赤霞珠、西拉
+- 红酒：波尔多、勃艮第
+- 价格：500-2000元
+
+#### 甜品（月饼、水果）
+- 甜酒：苏玳、冰酒
+- 甜起泡：Moscato d'Asti
+- 价格：200-800元
+
+### 赏月场景推荐
+
+#### 户外赏月
+- 起泡酒：香槟、Cava
+- 甜酒：贵腐、冰酒
+- 桃红：清爽浪漫
+- 价格：300-1000元
+
+#### 室内赏月
+- 红酒：勃艮第黑皮诺
+- 白酒：过桶霞多丽
+- 价格：500-1500元
+
+### 按预算推荐
+
+#### 经济实惠（200-500元/瓶）
+- 智利赤霞珠、阿根廷马尔贝克
+- 西班牙 Cava、意大利 Prosecco
+- 半甜雷司令、Moscato d'Asti
+
+#### 中端选择（500-1500元/瓶）
+- 波尔多产区级或中级庄
+- 勃艮第村庄级
+- 苏玳入门、年份香槟
+
+#### 高端选择（1500元以上/瓶）
+- 波尔多列级庄
+- 苏玳顶级（Château Suduiraut）
+- 顶级年份香槟
+
+### 中秋用酒注意事项
+
+- 月饼甜度高，需甜度匹配的酒
+- 提前 2 周购买（避免缺货）
+- 注意酒精度（家宴老少咸宜）
+- 准备茶水作为非酒精选择
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

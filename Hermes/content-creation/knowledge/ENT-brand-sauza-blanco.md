@@ -7,8 +7,6 @@ tags: [龙舌兰, 墨西哥, 绍扎, Blanco]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40, ENT-tequila-off-186-tequila]
-related_typed: {ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: cross_region, ENT-tequila-off-184-sierra-tequila-silver: cross_region, ENT-tequila-off-185-silver-tequila-40: cross_region, ENT-tequila-off-186-tequila: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

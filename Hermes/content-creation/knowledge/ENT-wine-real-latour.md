@@ -7,8 +7,6 @@ tags: [红酒, 法国, 波尔多, 波亚克, 一级庄]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-latour, ENT-wine-real-clos-de-tart, ENT-wine-red-latour-2010, ENT-wine-real-lafite-rothschild, ENT-wine-real-mouton-rothschild]
-related_typed: {ENT-brand-latour: same_brand, ENT-wine-real-clos-de-tart: same_brand, ENT-wine-red-latour-2010: same_brand, ENT-wine-real-lafite-rothschild: same_region, ENT-wine-real-mouton-rothschild: same_region}
 data_confidence: official
 data_source: 品牌官方/Wikipedia/Wine-Searcher
 version: 1

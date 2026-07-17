@@ -6,39 +6,29 @@
 
 Planter’s Punch是一款鸡尾酒，使用6种配料调制，盛于高球杯。
 
-## 基础信息
+## 基本信息
 
-- **中文名**：Planter’s Punch
-- **外文名**：Planter’s Punch
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：11.3%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+- **酒精度**：约 11.3% ABV（估算）
+- **分类**：Cocktail
+- **含酒精**：Alcoholic
+- **推荐杯具**：高球杯（Highball glass）
 
-## 风味轮廓
+## 配方
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+| 配料 | 用量 |
+|------|------|
+| Dark Rum | 4.5 cL |
+| Orange Juice | 3 cl |
+| Pineapple Juice | 3.5 cl |
+| Grenadine | 1 cl |
+| Sugar Syrup | 1 cl |
+| Angostura Bitters | 4 drops |
 
-## 评分奖项
+## 调制方法
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.8 | 45687 |
-| Difford's Guide | 4.0 | 2021 |
-| IBA 推荐 | 3.5 | 2023 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+Squeeze an orange and strain the juice. Put all the ingredients in a shaker filled with ice and shake for at least 12 seconds. Strain into a highball glass and decorate with a pineapple wedge or fruit of your choice.
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

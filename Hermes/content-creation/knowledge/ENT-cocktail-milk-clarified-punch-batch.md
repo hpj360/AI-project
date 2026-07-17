@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 澄清牛奶潘趣, 潘趣, batch, 波本]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-newark, ENT-cocktail-mezcal-final-word, ENT-cocktail-coconut-miso-sour, ENT-cocktail-sazerac, ENT-cocktail-brandy-crusta]
-related_typed: {ENT-cocktail-newark: same_brand, ENT-cocktail-mezcal-final-word: same_brand, ENT-cocktail-coconut-miso-sour: same_brand, ENT-cocktail-sazerac: same_region, ENT-cocktail-brandy-crusta: same_region}
 data_confidence: verified
 data_source: 2026 澄清牛奶潘趣技法复兴 / Benjamin Franklin 1763 配方致敬
 version: 1

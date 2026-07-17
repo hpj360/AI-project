@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, tequila, 龙舌兰, Sierra]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-tequila-off-191-tequila-blanco, ENT-tequila-off-194-sierra-tequila-blanco, ENT-tequila-off-200-t-quila-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco]
-related_typed: {ENT-tequila-off-191-tequila-blanco: same_brand, ENT-tequila-off-194-sierra-tequila-blanco: same_brand, ENT-tequila-off-200-t-quila-blanco: same_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

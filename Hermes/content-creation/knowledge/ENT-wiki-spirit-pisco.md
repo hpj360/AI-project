@@ -7,8 +7,6 @@ tags: [烈酒, Pisco, 秘鲁, 智利, 葡萄蒸馏酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wiki-spirit-absinthe, ENT-wiki-spirit-soju, ENT-wiki-spirit-baijiu-intro, ENT-wiki-spirit-arak, ENT-wiki-spirit-grappa]
-related_typed: {ENT-wiki-spirit-absinthe: same_subcat, ENT-wiki-spirit-soju: same_subcat, ENT-wiki-spirit-baijiu-intro: same_subcat, ENT-wiki-spirit-arak: same_subcat, ENT-wiki-spirit-grappa: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1
@@ -22,26 +20,49 @@ version: 1
 
 Pisco是秘鲁与智利争议的葡萄蒸馏酒，是著名鸡尾酒Pisco Sour的基酒。
 
-## 图片参考
+## 概述
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Pisco%20other_spirit%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Pisco%20other_spirit)
-- [Google 图片](https://www.google.com/search?q=Pisco%20other_spirit%20bottle&tbm=isch)
+Pisco（皮斯科）是南美洲西海岸的葡萄白兰地，由新鲜葡萄汁发酵后蒸馏而成。秘鲁与智利均宣称Pisco为本国原产，两国在制作工艺和法规上有所不同。Pisco Sour是Pisco最著名的鸡尾酒应用。
 
-## 基础信息
+## 历史背景
 
-- **中文名**：皮斯科
-- **外文名**：Pisco
-- **分类**：其他烈酒
-- **产地**：秘鲁/智利
+- **起源**：16世纪西班牙殖民者将葡萄种植和蒸馏技术带入南美
+- **发展**：秘鲁伊卡省皮斯科港附近成为早期生产中心
+- **争议**：19世纪末秘鲁与智利就Pisco原产地产生持续争议
+- **现代**：两国分别建立Pisco原产地保护体系
 
-## 合规信息
+## 酿造工艺
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 秘鲁Pisco
+- **原料**：8种法定葡萄品种（Quebranta、Italia等）
+- **工艺**：葡萄汁发酵后壶式蒸馏一次
+- **特点**：不陈年或不稀释，从蒸馏到装瓶不接触木材
+- **分类**：Puro（单品种）、Aromático（芳香品种）、Mosto Verde（未完全发酵）、Acholado（混酿）
+
+### 智利Pisco
+- **原料**：主要为Muscat葡萄
+- **工艺**：可多次蒸馏，陈年于木桶
+- **分类**：按酒精度分为Pisco Corriente（30-35%）、Pisco Especial（35-40%）、Pisco Reservado（40-43%）、Gran Pisco（43%+）
+
+## 风味特征
+
+### 秘鲁Pisco
+- **颜色**：无色透明
+- **香气**：葡萄花香，泥土气息
+- **口感**：果味浓郁，结构复杂
+
+### 智利Pisco
+- **颜色**：无色至琥珀色（依陈年）
+- **香气**：葡萄、橡木、香草
+- **口感**：柔顺，带甜感
+
+## 经典应用
+
+- **Pisco Sour**：Pisco + 柠檬汁 + 糖浆 + 蛋清 + 安高天娜苦精
+- 秘鲁每年2月第一个周六为"Pisco Sour Day"
+- 智利每年7月4日为"Día Nacional del Pisco" 
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wikipedia
 - 数据置信度：verified

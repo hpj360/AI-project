@@ -7,8 +7,6 @@ tags: [鸡尾酒, 历史, 调酒文化]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-gin-sour, ENT-cocktail-whiskey-smash, ENT-cocktail-gin-smash, ENT-cocktail-brandy-cobbler, ENT-cocktail-philadelphia-fish-house-punch]
-related_typed: {ENT-cocktail-gin-sour: same_subcat, ENT-cocktail-whiskey-smash: same_subcat, ENT-cocktail-gin-smash: same_subcat, ENT-cocktail-brandy-cobbler: same_subcat, ENT-cocktail-philadelphia-fish-house-punch: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1
@@ -26,50 +24,61 @@ ratings:
 
 鸡尾酒历史可追溯至19世纪初，从简单的混合饮品发展为现代精酿调酒文化。
 
-## 图片参考
+## 起源与早期（1800-1860）
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=History%20of%20Cocktails%20cocktail%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/History%20of%20Cocktails%20cocktail)
-- [Google 图片](https://www.google.com/search?q=History%20of%20Cocktails%20cocktail%20bottle&tbm=isch)
+### 术语起源
+- **1803年**：美国New Hampshire报纸The Farmer's Cabinet首次出现"cocktail"一词
+- **1806年**：The Balance and Columbian Repository定义鸡尾酒为"含糖、水、苦精的刺激性烈酒"
 
-## 基础信息
+### 早期发展
+- 19世纪初：混合饮品文化在美国兴起
+- 1862年：Jerry Thomas出版《The Bartender's Guide》，奠定调酒基础
+- Jerry Thomas被誉为"调酒之父"
 
-- **中文名**：鸡尾酒历史
-- **外文名**：History of Cocktails
-- **分类**：鸡尾酒
-- **产地**：全球
-- **酒精度**：N/A
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+## 黄金时代（1860-1920）
 
-## 风味轮廓
+### 经典调酒兴起
+- **老式鸡尾酒（Old Fashioned）**：1880年代
+- **曼哈顿（Manhattan）**：1870年代
+- **马天尼（Martini）**：1880-1890年代
+- **戴克利（Daiquiri）**：1890年代
+- **萨泽拉克（Sazerac）**：1850年代新奥尔良
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+### 调酒师地位
+- 19世纪末调酒师地位崇高
+- 调酒师被视为专业职业
+- 出现"美国调酒师"概念
 
-## 评分奖项
+## 禁酒令时期（1920-1933）
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 2906 |
-| Difford's Guide | 4.29 | 2020 |
-| IBA 推荐 | 5.0 | 2022 |
+- 美国禁酒令（1920-1933）催生地下酒吧
+- 调酒师移居欧洲（特别是巴黎、伦敦）
+- 法国、英国、古巴调酒文化兴起
+- 古巴成为美国人饮酒的避风港
+- 经典鸡尾酒：Mojito, Cuba Libre, Sidecar
 
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+## 战后与Tiki文化（1933-1970）
 
-## 合规信息
+- 1934年禁酒令废除
+- Don the Beachcomber和Trader Vic开创Tiki文化
+- 1950-1960年代鸡尾酒文化空前繁荣
+- 同时出现"鸡尾酒派对"现象
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+## 黑暗时代（1970-1990）
+
+- 工业化生产替代新鲜原料
+- 罐装果汁、糖浆取代手工制作
+- 经典配方被简化或遗忘
+- 彩虹鸡尾酒、奶油鸡尾酒流行
+
+## 精酿调酒复兴（2000至今）
+
+- 2000年代初：纽约Milk & Honey、伦敦Apothecary等开启
+- 经典配方复兴
+- 新鲜原料、手工冰块回归
+- 2010s起：分子调酒、可持续调酒等新趋势
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wikipedia
 - 数据置信度：verified

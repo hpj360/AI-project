@@ -7,8 +7,6 @@ tags: [产区风土, 法国, 罗纳河谷, 西拉, 歌海娜]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-loire, REGION-france-alsace]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-loire: same_subcat, REGION-france-alsace: same_subcat}
 data_confidence: official
 data_source: WSET/InterRhône
 version: 1
@@ -22,26 +20,52 @@ version: 1
 
 南北风格迥异的法国第二大AOC产区，北罗纳西拉独秀，南罗纳歌海娜混酿称王。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Rh%C3%B4ne%20Valley%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Rh%C3%B4ne%20Valley%20region)
-- [Google 图片](https://www.google.com/search?q=Rh%C3%B4ne%20Valley%20region%20bottle&tbm=isch)
+### 位置
+- 法国东南部，沿罗纳河从里昂到阿维尼翁
+- 以蒙特利马为界分南北两段
 
-## 基础信息
+### 气候
+- **北罗纳**：大陆性气候，凉爽，受密斯特拉风影响
+- **南罗纳**：地中海气候，温暖干燥，阳光充足
+- 密斯特拉风（Mistral）干冷北风，防病关键
 
-- **中文名**：罗纳河谷
-- **外文名**：Rhône Valley
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- **北罗纳**：花岗岩、片岩（陡坡梯田）
+- **南罗纳**：鹅卵石（galets roulées）、沙土、黏土
+- 鹅卵石白天储热夜间释放，促进成熟
 
-## 合规信息
+## 主要子产区
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 北罗纳（北纬45°）
+
+| 产区 | 主要品种 | 特点 |
+|------|----------|------|
+| 罗第丘 Côte-Rôtie | 西拉（+5%维欧尼） | 优雅细腻，带花香 |
+| 埃米塔日 Hermitage | 西拉 | 强劲深厚，陈年潜力大 |
+| 孔得里约 Condrieu | 维欧尼 | 芳香白葡萄酒 |
+| 格里叶堡 Château-Grillet | 维欧尼 | 法国最小AOC之一 |
+
+### 南罗纳
+
+| 产区 | 主要品种 | 特点 |
+|------|----------|------|
+| 教皇新堡 Châteauneuf-du-Pape | 歌海娜混酿（13种） | 醇厚复杂，砾石土壤 |
+| 塔维尔 Tavel | 歌海娜 | 法国桃红之王 |
+| 利哈克 Lirac | 歌海娜混酿 | 性价比之选 |
+| 吉贡达斯 Gigondas | 歌海娜混酿 | 接近教皇新堡风格 |
+
+## 等级体系
+- 罗纳河谷丘（Côtes du Rhône）：大区级
+- 罗纳河谷村庄级（Côtes du Rhône Villages）：95个村
+- 特级村庄（Cru）：17个独立AOC
+
+## 代表酒庄
+- 北罗纳：吉佳乐（Guigal）、嘉伯乐（Jaboulet）、沙普蒂埃（Chapoutier）
+- 南罗纳：哈雅斯（Rayas）、博卡斯特尔（Beaucastel）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/InterRhône
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [红酒, wine_red, 法国, 波尔多, Margaux, 1855一级庄, First Growth
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-wine-zhangyu-putaojiu, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu]
-related_typed: {ENT-baike-wine-zhangyu-putaojiu: cross_region, ENT-baike-wine-zhangyu-jiebaina: cross_region, ENT-baike-wine-changcheng-putaojiu: cross_region, ENT-baike-wine-wangchao-putaojiu: cross_region, ENT-baike-wine-weilong-putaojiu: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

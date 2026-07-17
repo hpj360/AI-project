@@ -7,8 +7,6 @@ tags: [法律法规, 欧盟, 有机, 葡萄酒, 认证, Organic]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: Regulation (EU) 2018/848, Regulation (EU) 203/2012
 version: 1
@@ -22,26 +20,76 @@ version: 1
 
 欧盟有机葡萄酒认证依据EU 2018/848和203/2012法规，规范葡萄种植与酿造全流程，明确亚硫酸盐限值。
 
-## 图片参考
+## 法规体系
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=EU%20Organic%20Wine%20Certification%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/EU%20Organic%20Wine%20Certification%20law)
-- [Google 图片](https://www.google.com/search?q=EU%20Organic%20Wine%20Certification%20law%20bottle&tbm=isch)
+### 主要法规
 
-## 基础信息
+| 法规 | 名称 | 重点 |
+|------|------|------|
+| Regulation (EU) 2018/848 | 有机生产与标签法规 | 总体框架（2022年起取代834/2007） |
+| Regulation (EU) 203/2012 | 有机葡萄酒酿造细则 | 酿造工艺允许/禁用物质 |
+| Regulation (EC) 889/2008 | 有机生产详细规则 | 葡萄种植 |
 
-- **中文名**：欧盟有机葡萄酒认证
-- **外文名**：EU Organic Wine Certification Standard
-- **分类**：法律法规
-- **产地**：
+### 葡萄种植要求
 
-## 合规信息
+#### 禁止事项
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+- **合成化肥**：禁止使用任何化学合成肥料
+- **除草剂**：禁止草甘膦等化学除草剂
+- **杀虫剂**：禁止化学合成杀虫剂
+- **转基因**：禁止使用GMO
+
+#### 允许事项
+
+- 铜制剂（防治霜霉病）：每年≤6 kg/公顷（5年平均≤4 kg）
+- 矿物油、植物提取液
+- 堆肥、绿肥
+- 生物防治（如苏云金芽孢杆菌）
+
+#### 转换期
+
+- 多年生作物（葡萄）：转换期**3年**
+- 转换期内产出不得标注"organic"
+- 转换完成后可获认证
+
+### 酿造工艺要求
+
+#### 允许的酿造辅料
+
+| 类别 | 允许物质 | 限制 |
+|------|----------|------|
+| 澄清剂 | 蛋清、皂土、明胶（有机） | - |
+| 酵母 | 有机酿酒酵母 | 优先使用 |
+| 调酸 | 酒石酸 | 受限使用 |
+| 防腐 | 二氧化硫（亚硫酸盐） | 限值见下表 |
+
+#### 禁止的工艺
+
+- **反渗透浓缩**
+- **电渗析脱盐**
+- **添加浓缩葡萄汁**（Must MVR）
+- **部分脱醇**
+- **离子交换树脂处理**
+
+### 亚硫酸盐（SO₂）限值
+
+依据EU 203/2012，有机葡萄酒SO₂限值比普通葡萄酒严格：
+
+| 葡萄酒类型 | 普通葡萄酒 | 有机葡萄酒 |
+|------------|------------|------------|
+| 红葡萄酒（含糖≤2g/L） | 150 mg/L | 100 mg/L |
+| 红葡萄酒（含糖>2g/L） | 200 mg/L | 120 mg/L |
+| 白/桃红（含糖≤2g/L） | 200 mg/L | 150 mg/L |
+| 白/桃红（含糖>2g/L） | 250 mg/L | 170 mg/L |
+| 甜葡萄酒 | 300-400 mg/L | 减50-80 mg/L |
+
+### 认证机构与流程
+
+- 由欧盟授权的认证机构审核（如Ecocert、Bio Suisse、Soil Association）
+- 每年至少一次现场检查
+- 完整溯源记录：从葡萄园到装瓶
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Regulation (EU) 2018/848, Regulation (EU) 203/2012
 - 数据置信度：official

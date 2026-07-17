@@ -7,8 +7,6 @@ tags: [蜂蜜酒, 英国, 苹果, mead]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-mead-traditional, ENT-mead-melomel, ENT-mead-ginger, ENT-mead-shennong-honey, ENT-mead-qinling-honey]
-related_typed: {ENT-mead-traditional: same_region, ENT-mead-melomel: same_region, ENT-mead-ginger: same_region, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: same_subcat}
 data_confidence: simulated
 version: 1
 ---

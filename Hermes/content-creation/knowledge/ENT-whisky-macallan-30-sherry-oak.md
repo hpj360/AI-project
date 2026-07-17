@@ -7,8 +7,6 @@ tags: [威士忌, whisky, 苏格兰, Macallan, 雪莉桶, 30年, 高端, 收藏]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-macallan-sherry-oak-12, ENT-whisky-macallan-double-cask-12, ENT-whisky-macallan-12-sherry-oak, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white]
-related_typed: {ENT-whisky-macallan-sherry-oak-12: same_brand, ENT-whisky-macallan-double-cask-12: same_brand, ENT-whisky-macallan-12-sherry-oak: same_brand, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

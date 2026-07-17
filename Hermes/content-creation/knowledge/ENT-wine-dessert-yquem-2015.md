@@ -7,8 +7,6 @@ tags: [甜酒, 苏玳, Yquem, 贵腐, Premier Cru Supérieur]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-dessert-suduiraut-2015, ENT-wine-dessert-guiraud-2015, ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023]
-related_typed: {ENT-wine-dessert-suduiraut-2015: same_region, ENT-wine-dessert-guiraud-2015: same_region, ENT-dessert-yquem-2018: cross_region, ENT-dessert-yquem-2022: cross_region, ENT-dessert-suduiraut-2023: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [火锅, 麻辣锅, 清汤锅, 潮汕牛肉锅, 气泡酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing
 version: 1
@@ -22,26 +20,53 @@ version: 1
 
 按火锅类型（麻辣/清汤/潮汕牛肉锅）搭配气泡酒、甜白与中酒体红酒。
 
-## 图片参考
+## 火锅配酒分类指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Hotpot%20and%20Wine%20Pairing%20Guide%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Hotpot%20and%20Wine%20Pairing%20Guide%20pairing)
-- [Google 图片](https://www.google.com/search?q=Hotpot%20and%20Wine%20Pairing%20Guide%20pairing%20bottle&tbm=isch)
+### 1. 麻辣火锅（重庆/四川）
 
-## 基础信息
+| 搭配方式 | 推荐酒款 | 搭配理由 |
+|----------|----------|----------|
+| 主搭配 | 半甜雷司令、琼瑶浆 | 甜度解辣 |
+| 气泡解辣 | Moscato d'Asti、Prosecco | 低酒精+气泡 |
+| 油碟解腻 | 阿斯蒂 Asti、半干起泡 | 果香清口 |
+| 冰镇选择 | 干型起泡、Cava | 冰镇清爽 |
 
-- **中文名**：火锅配酒指南
-- **外文名**：Hotpot Wine Pairing
-- **分类**：餐酒搭配
-- **产地**：
+#### 禁忌
 
-## 合规信息
+- 高酒精重酒=灼烧感放大
+- 高单宁红酒+麻辣=苦涩难咽
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 2. 清汤锅（菌汤/番茄/养生）
+
+- 菌汤锅：黑皮诺、霞多丽（未过桶）
+- 番茄锅：桑娇维塞、Sangiovese
+- 椰子鸡锅：霞多丽、Viognier
+- 药膳锅：干型雪利 Fino、灰皮诺
+
+### 3. 潮汕牛肉锅
+
+| 牛肉部位 | 推荐酒款 | 备注 |
+|----------|----------|------|
+| 吊龙（里脊） | 黑皮诺、梅洛 | 中酒体 |
+| 雪花/脖仁 | 赤霞珠、西拉 | 重酒体 |
+| 五花腱 | 巴罗洛、Brunello | 单宁强劲 |
+| 匙皮/匙柄 | 霞多丽、Viognier | 干白搭配 |
+
+### 4. 其他火锅
+
+- 老北京铜锅涮羊肉：西拉、马尔贝克
+- 云南菌子火锅：黑皮诺、过桶霞多丽
+- 贵州酸汤鱼：长相思、干型雷司令
+- 海鲜锅：密斯卡岱、夏布利
+
+### 配酒原则
+
+- 麻辣锅必须低酒精+甜度
+- 潮汕牛肉锅按部位选酒，类似牛排
+- 清汤锅依汤底口味决定
+- 冰镇酒款是火锅良伴
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Food & Wine Pairing
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [起泡酒, 新世界, Schramsberg, 加州, 白中白]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-sparkling-domaine-chandon-brut-nv, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt]
-related_typed: {ENT-wine-sparkling-domaine-chandon-brut-nv: same_region, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -6,39 +6,27 @@
 
 Vodka Lemon是一款鸡尾酒，使用4种配料调制，盛于高球杯。
 
-## 基础信息
+## 基本信息
 
-- **中文名**：Vodka Lemon
-- **外文名**：Vodka Lemon
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：11.2%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+- **酒精度**：约 11.2% ABV（估算）
+- **分类**：Cocktail
+- **含酒精**：Alcoholic
+- **推荐杯具**：高球杯（Highball glass）
 
-## 风味轮廓
+## 配方
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+| 配料 | 用量 |
+|------|------|
+| Vodka | 5 cl |
+| Lemon Juice | 7 cl |
+| Lemon Peel | 1 Slice |
+| Ice | cubes |
 
-## 评分奖项
+## 调制方法
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 35116 |
-| Difford's Guide | 4.37 | 2023 |
-| IBA 推荐 | 5.0 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+The vodka lemon is prepared directly in a highball glass or in a large tumbler: put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon. Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

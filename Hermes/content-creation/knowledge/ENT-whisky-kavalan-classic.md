@@ -7,8 +7,6 @@ tags: [威士忌, 台湾, 单一麦芽]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-kavalan-solist-vinho, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal]
-related_typed: {ENT-whisky-kavalan-solist-vinho: same_brand, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat}
 data_confidence: simulated
 version: 1
 ---

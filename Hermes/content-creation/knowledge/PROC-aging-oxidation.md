@@ -7,8 +7,6 @@ tags: [酿造工艺, 氧化, 还原, 陈年]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [PROC-fermentation-basics, PROC-fermentation-wild-vs-commercial, PROC-distillation-pot-still, PROC-distillation-column-still, PROC-aging-oak-types]
-related_typed: {PROC-fermentation-basics: same_subcat, PROC-fermentation-wild-vs-commercial: same_subcat, PROC-distillation-pot-still: same_subcat, PROC-distillation-column-still: same_subcat, PROC-aging-oak-types: same_subcat}
 data_confidence: official
 data_source: WSET/Jancis Robinson
 version: 1
@@ -22,26 +20,131 @@ version: 1
 
 氧化陈年塑造马德拉、雪利、茶色波特，还原陈年保留新鲜果香，是酿酒哲学的两极。
 
-## 图片参考
+## 氧化陈年 Oxidative Aging
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Oxidative%20vs%20Reductive%20Aging%20process%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Oxidative%20vs%20Reductive%20Aging%20process)
-- [Google 图片](https://www.google.com/search?q=Oxidative%20vs%20Reductive%20Aging%20process%20bottle&tbm=isch)
+### 定义
+- **有意让酒接触氧气**
+- 氧化反应主导
+- 风味逐渐转向坚果、干果
+- 颜色变深变棕
 
-## 基础信息
+### 适用容器
+- **大橡木桶**（老桶，孔隙大）
+- **玻璃罐/橡木桶不密封**
+- **半满容器**（留下空间）
+- **多级Solera系统**
 
-- **中文名**：氧化陈年vs还原陈年
-- **外文名**：Oxidative vs Reductive Aging
-- **分类**：酿造工艺
-- **产地**：
+### 风味特征
 
-## 合规信息
+#### 香气
+- 坚果（杏仁、榛子、核桃）
+- 干果（葡萄干、无花果、杏干）
+- 焦糖、太妃糖
+- 咖啡、巧克力
+- 蜂蜜
+- 皮革、蘑菇
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 口感
+- 酒体更厚重
+- 单宁柔和
+- 酸度降低
+- 余味悠长
+
+### 颜色变化
+- 白葡萄酒：金黄→琥珀→棕色
+- 红葡萄酒：宝石→石榴→砖红→棕色
+
+### 代表酒款
+
+#### 主动氧化型
+- **马德拉 Madeira**：estufagem加热氧化
+- **茶色波特 Tawny Port**：木桶氧化陈年
+- **Oloroso雪利**：好氧酵母环境
+- **Amontillado雪利**：先 flor 后氧化
+- **汝拉黄酒 Vin Jaune**：6年木桶不添桶
+- **传统里奥哈**：长期美国橡木桶
+- **圣托里尼 Vinsanto**：长时间氧化
+
+#### 微氧化（适度）
+- **勃艮第红酒传统派**
+- **巴罗洛传统派**：大橡木桶长陈年
+- **波尔多列级庄**：橡木桶缓慢微氧化
+
+## 还原陈年 Reductive Aging
+
+### 定义
+- **隔绝氧气，保持还原环境**
+- 还原反应主导
+- 保留新鲜果香
+- 颜色保持深浓
+
+### 适用容器
+- **不锈钢罐**：完全密封
+- **橡木桶满桶密封**
+- **惰性气体覆盖**（氮气、氩气）
+- **小容器，少接触空气**
+
+### 风味特征
+
+#### 香气
+- 新鲜水果（柑橘、莓果、热带果）
+- 花香
+- 矿物（燧石、火石）
+- 还原味（火柴、火药、洋葱）
+
+#### 口感
+- 清新活泼
+- 酸度鲜明
+- 单宁紧致
+- 果味纯净
+
+### 代表酒款
+- **新西兰长相思**：不锈钢罐还原
+- **夏布利**：不锈钢罐矿物
+- **阿尔萨斯雷司令**：大罐还原
+- **现代勃艮第白酒**：新橡木桶满桶
+- **新世界赤霞珠**：浓郁果味主导
+
+## 还原风险
+
+### 还原味缺陷
+- **H2S硫化氢**：臭鸡蛋
+- **硫醇 Merceptans**：洋葱、橡胶
+- **二硫化物**：芦笋、煮白菜
+
+### 对策
+- 适度接触氧气（racking、微氧化）
+- 铜处理（硫酸铜）
+- 通风醒酒
+- 时间陈放
+
+## 氧化风险
+
+### 氧化缺陷
+- **乙醛**：烂苹果、坚果
+- **乙醛味**：雪利化
+- **颜色变棕**
+- **果味丧失**
+
+### 对策
+- 严格密封
+- SO2保护
+- 满桶储存
+- 惰性气体
+- 低温储存
+
+## 哲学对比
+
+| 维度 | 氧化陈年 | 还原陈年 |
+|------|----------|----------|
+| 风格 | 复杂陈旧 | 清新果香 |
+| 颜色 | 深棕 | 鲜亮 |
+| 风险 | 过度氧化 | 还原味 |
+| 适合 | 加强酒、传统陈年 | 新鲜型白、新世界 |
+| 时间 | 通常较长 | 可长可短 |
+| 消费者 | 小众偏好 | 主流偏好 |
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/Jancis Robinson
 - 数据置信度：official

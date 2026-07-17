@@ -7,8 +7,6 @@ tags: [葡萄品种, 白品种, 甲州, 日本, 本土品种]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [GRAPE-cabernet-sauvignon, GRAPE-merlot, GRAPE-pinot-noir, GRAPE-syrah, GRAPE-grenache]
-related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat}
 data_confidence: official
 data_source: Wine Grapes (Jancis Robinson)/WSET
 version: 1
@@ -22,26 +20,62 @@ version: 1
 
 日本本土特色白葡萄品种，淡红皮白汁，以清新优雅和日本料理搭配著称。
 
-## 图片参考
+## 品种概况
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Koshu%20grape%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Koshu%20grape)
-- [Google 图片](https://www.google.com/search?q=Koshu%20grape%20bottle&tbm=isch)
+### 基本信息
 
-## 基础信息
+- **原产地**：日本（通过丝绸之路传入，DNA显示欧洲种Vitis vinifera杂交后代）
+- **亲本**：Vitis vinifera × Vitis thunbergii等亚洲种（多次回交）
+- **果串**：中等大小，圆柱形，较松散
+- **果粒**：中等，皮淡粉色，果肉白汁
+- **成熟期**：中晚熟
 
-- **中文名**：甲州
-- **外文名**：Koshu
-- **分类**：葡萄品种
-- **产地**：
+### 历史背景
 
-## 合规信息
+- 1000多年前经丝绸之路传入日本
+- 长期作为鲜食葡萄
+- 19世纪末开始用于酿酒
+- 2010年获得OIV国际认可
+- 现为日本葡萄酒的旗舰品种
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 风味特征
+
+#### 山梨县（典型风格）
+- **香气**：柑橘、白桃、柚子皮、白花、矿物
+- **酸度**：中高
+- **酒体**：轻至中等
+- **风格**：清新优雅
+
+#### 不同酿造方式
+- **不锈钢罐**：清新果味，矿物感
+- **橡木桶**：增加复杂度，烟熏香
+- **橘酒（浸皮）**：单宁结构，茶香
+
+### 主要产区
+
+| 产区 | 风格特征 | 代表酒庄 |
+|------|----------|----------|
+| 山梨县 | 主产区，清新风格 | Suntory、Mercian、Grace |
+| 长野 | 高海拔，酸度优雅 | Cave d'Iwate、Ikeda |
+| 山形 | 冷凉产区 | Takahata、Ohsawa |
+| 北海道 | 试种阶段 | 各酒庄尝试 |
+| 中国/韩国 | 少量试种 | 实验阶段 |
+
+### 混酿搭配
+
+- 通常为单品种酿造
+- 可与Chardonnay等白品种混酿
+- 日本料理的天然搭配
+- 偶尔用于起泡酒
+
+### 陈年潜力
+
+- 顶级甲州：3-5年
+- 普通餐酒：1-2年（建议早饮）
+- 不适合长期陈年
+- 强调新鲜果味
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Grapes (Jancis Robinson)/WSET
 - 数据置信度：official

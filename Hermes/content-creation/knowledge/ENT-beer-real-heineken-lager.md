@@ -7,8 +7,6 @@ tags: [啤酒, 拉格, 荷兰, 喜力]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-heineken, ENT-brand-heineken, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu]
-related_typed: {ENT-beer-heineken: same_brand, ENT-brand-heineken: same_brand, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat}
 data_confidence: verified
 data_source: 品牌官方/RateBeer
 version: 1

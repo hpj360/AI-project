@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 梅斯卡尔, 黄查特酒, Aperol, 青柠]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-oaxaca-old-fashioned, ENT-cocktail-naked-famous, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins]
-related_typed: {ENT-cocktail-oaxaca-old-fashioned: same_brand, ENT-cocktail-naked-famous: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region}
 data_confidence: verified
 data_source: Tales of the Cocktail Spirited Awards / Contemporary Classics
 version: 1

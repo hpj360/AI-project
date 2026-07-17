@@ -7,8 +7,6 @@ tags: [陈年潜力, 苏玳, 贵腐甜酒, 赛美蓉]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-aging-red-bordeaux, DEC-aging-red-burgundy, DEC-aging-white-burgundy, DEC-aging-barolo, DEC-aging-champagne]
-related_typed: {DEC-aging-red-bordeaux: same_subcat, DEC-aging-red-burgundy: same_subcat, DEC-aging-white-burgundy: same_subcat, DEC-aging-barolo: same_subcat, DEC-aging-champagne: same_subcat}
 data_confidence: official
 data_source: WSET/Conseil des Vins de Sauternes
 version: 1
@@ -22,26 +20,155 @@ version: 1
 
 苏玳贵腐甜酒是世界上最长寿的白葡萄酒之一，可陈50-100年+，糖分与酸度共同防腐。
 
-## 图片参考
+## 陈年潜力要素
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Sauternes%20Aging%20aging%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Sauternes%20Aging%20aging)
-- [Google 图片](https://www.google.com/search?q=Sauternes%20Aging%20aging%20bottle&tbm=isch)
+### 1. 高糖分
+- 残糖120-150g/L
+- 糖分防腐
+- 缓慢陈年
 
-## 基础信息
+### 2. 高酸度
+- 苏玳气候保留酸度
+- 赛美蓉天然酸度低，但贵腐浓缩
+- 酸度平衡甜度，支撑陈年
 
-- **中文名**：苏玳贵腐陈年
-- **外文名**：Sauternes Aging
-- **分类**：陈年潜力
-- **产地**：
+### 3. 贵腐菌贡献
+- Botrytis cinerea贵腐菌
+- 浓缩糖分、酸度、风味物质
+- 产生独特抗氧化物质
+- 防腐能力极强
 
-## 合规信息
+### 4. 优质橡木桶陈年
+- 18-36个月橡木桶
+- 新桶比例30-100%
+- 缓慢微氧化
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+## 等级与陈年潜力
+
+| 等级 | 陈年潜力 | 适饮窗口 |
+|------|----------|----------|
+| 顶级列级庄（Yquem等） | 50-100年+ | 30-80年 |
+| 一级庄 | 30-50年 | 20-40年 |
+| 二级庄 | 20-40年 | 15-30年 |
+| 普通苏玳 | 10-20年 | 5-15年 |
+
+## 顶级酒庄
+
+### Château d'Yquem（滴金）
+- **唯一Premier Cru Supérieur**
+- **陈年潜力：50-100年+**
+- 1855年分级唯一超一级
+- 赛美蓉80% + 长相思20%
+- 多次采摘，逐粒精选
+- 3-4年橡木桶陈年
+- 不平凡年份不生产（如1992、2012）
+- 1784年酒至今仍可饮用
+
+### 其他一级庄
+- **Climens**：Barsac产区，优雅
+- **Coutet**：Barsac，强劲
+- **Sigalas-Rabaud**：细腻
+- **Suduiraut**：丰腴
+
+### 二级庄
+- **Doisy-Daëne、Doisy-Védrines**
+- **Rieussec**（拉菲罗斯柴尔德）
+- **Guiraud**
+
+## 陈年风味演变
+
+### 颜色变化
+- 年轻：浅金黄、绿色调
+- 5年：金黄
+- 10年：深金黄
+- 20年：琥珀
+- 30年+：深琥珀、棕色
+
+### 香气演变
+
+#### 年轻（一类）
+- 杏、桃、菠萝
+- 蜂蜜、百花蜜
+- 柑橘、橙花
+- 香草、椰子（橡木）
+- 贵腐特征（蘑菇、橙皮）
+
+#### 陈年发展
+- **蜂蜜**（深度）
+- **坚果**（杏仁、榛子、核桃）
+- **干果**（杏干、无花果、葡萄干）
+- **焦糖、太妃糖**
+- **蜂蜡**
+- **香料**（姜、肉桂、肉豆蔻）
+- **糖渍柑橘**
+
+#### 深度陈年
+- **咖喱**
+- **蘑菇**
+- **干花**
+- **林地**
+- **咖啡、巧克力**
+- **焦糖布丁**
+
+### 口感
+- 甜度逐渐降低（感官）
+- 酸度逐渐柔化但仍鲜活
+- 酒体更厚重
+- 油脂感增强
+- 余味悠长
+
+## 适饮窗口
+
+### 装瓶后阶段
+1. **封闭期**：1-5年
+2. **缓慢开放**：5-15年
+3. **巅峰期**：15-50年（顶级）
+4. **衰退期**：50-100年后
+
+### 关键年份
+- **2015、2017、2019**
+- **2001、2005、2009**
+- **1989、1990**
+- **1967、1975、1983**
+- **1921、1929、1945、1959**
+
+## 储存条件
+- **温度**：10-13°C恒定
+- **湿度**：70-85%
+- **避光**（贵腐酒对光极敏感）
+- **平放**
+- **静置**
+
+## 与其他甜酒对比
+
+| 类型 | 陈年潜力 | 防腐要素 |
+|------|----------|----------|
+| 苏玳贵腐 | 50-100年+ | 糖+酸+贵腐 |
+| Tokaji Aszú | 50-100年+ | 糖+酸+贵腐 |
+- 冰酒：30-50年（糖+酸）
+- Trockenbeerenauslese：50-100年+（贵腐极浓）
+- 晚收甜酒：10-30年
+
+## 适饮建议
+- 普通苏玳：等待5-10年起步
+- 一级庄：15-20年
+- Yquem：20-30年+
+- 老苏玳：醒酒1-2小时
+
+## 开瓶后保存
+- **冷藏**：4-7°C
+- **真空塞**：减少氧化
+- **可保存1-3周**
+- 高糖高酸防腐能力强
+
+## 配餐
+- **鹅肝**（经典）
+- **蓝纹奶酪**（Roquefort）
+- **水果甜点**
+- **辛辣菜肴**（咖喱）
+- **单独作为甜点**
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/Conseil des Vins de Sauternes
 - 数据置信度：official

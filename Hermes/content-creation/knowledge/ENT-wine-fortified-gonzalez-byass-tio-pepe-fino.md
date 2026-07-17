@@ -7,8 +7,6 @@ tags: [加强酒, 雪莉, Fino, González Byass]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-sherry-tio-pepe, ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-wine-fortified-valdespino-tio-diego-amontillado, ENT-port-taylor-fladgate-vintage-2024]
-related_typed: {ENT-wine-real-sherry-tio-pepe: same_brand, ENT-wine-fortified-lustau-palo-cortado-vors: same_region, ENT-wine-fortified-williams-humbert-dry-oloroso: same_region, ENT-wine-fortified-valdespino-tio-diego-amontillado: same_region, ENT-port-taylor-fladgate-vintage-2024: same_subcat}
 data_confidence: simulated
 version: 1
 ---

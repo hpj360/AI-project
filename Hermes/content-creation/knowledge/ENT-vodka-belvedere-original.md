@@ -7,8 +7,6 @@ tags: [伏特加, 波兰, 雪树]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-vodka-off-161-organic-vodka, ENT-vodka-belvedere-intense, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice]
-related_typed: {ENT-vodka-off-161-organic-vodka: same_brand, ENT-vodka-belvedere-intense: same_brand, ENT-vodka-off-142-poliakov: same_subcat, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [购买, 收藏, 投资, 陈年, 顶级名庄]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-100, DEC-buy-by-budget-300, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium]
-related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-300: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,62 @@ version: 1
 
 收藏选酒策略：选顶级名庄、伟大年份、专业仓储与溯源。
 
-## 图片参考
+## 收藏目的选酒策略
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Buying%20for%20Collection%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Buying%20for%20Collection%20buying)
-- [Google 图片](https://www.google.com/search?q=Wine%20Buying%20for%20Collection%20buying%20bottle&tbm=isch)
+### 选购原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 顶级名庄 | 一级庄、DRC、Pétrus 等 |
+| 伟大年份 | 1982、2000、2005、2009、2010、2015、2016 |
+| 完整溯源 | 进口商、酒窖记录、二级市场 |
+| 专业仓储 | 恒温 12-15℃、湿度 70% |
 
-- **中文名**：收藏目的选酒
-- **外文名**：Wine Collection Buying
-- **分类**：购买指南
-- **产地**：
+### 收藏级酒款特征
 
-## 合规信息
+- WS/WA 评分 95+
+- 全球产量稀少
+- 陈年潜力 20-50 年
+- 二级市场流通性好
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 按预算推荐
+
+#### 万元级收藏
+- 波尔多一级庄正牌（新年份）
+- 勃艮第 DRC、Leroy
+- 右岸 Pétrus、Le Pin
+- 美国 Screaming Eagle
+
+#### 十万级收藏
+- 1982 年拉菲、Mouton
+- DRC Romanée-Conti 老年份
+- Pétrus 传奇年份
+- Yquem 大年份
+
+### 收藏渠道
+
+| 渠道 | 适用 | 风险 |
+|------|------|------|
+| 期酒 En Primeur | 列级庄新年份 | 酒庄信誉 |
+| 正规进口商 | 国内现货 | 较低 |
+| 海外拍卖行 | 老年份、稀有酒 | 溯源验证 |
+| 海外酒窖直采 | 海外存货 | 运输风险 |
+
+### 储存与保险
+
+- 专业酒窖或恒温柜
+- 完整记录：购买凭证、酒窖温度
+- 购买葡萄酒保险
+- 定期检查液面、酒塞状态
+
+### 投资建议
+
+- 长期持有 5-15 年
+- 关注市场流通性
+- 分散产区与年份
+- 警惕假酒风险
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

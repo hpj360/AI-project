@@ -7,8 +7,6 @@ tags: [红酒, 波尔多, 圣埃斯泰夫]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu, ENT-brand-latour, ENT-brand-margaux, ENT-brand-mouton-rothschild]
-related_typed: {ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-latour: same_subcat, ENT-brand-margaux: same_subcat, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: simulated
 version: 1
 ---

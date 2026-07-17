@@ -1,6 +1,6 @@
 # 知识库全局索引
 
-> content-creation 酒类知识库 | 共 2542 条目 | 由 render_kb.py 维护
+> content-creation 酒类知识库 | 共 2541 条目 | 由 render_kb.py 维护
 
 ## 白酒（117）
 
@@ -1622,7 +1622,7 @@
 - [Wild Blossom Hive2o Variety 4 Pack](./ENT-mead-wild-blossom-hive2o.md) | 蜂蜜酒 | mead
 - [云南野蜂蜜酒](./ENT-mead-yunnan-wild-honey.md) | 蜂蜜酒 | 中国
 
-## 鸡尾酒（690）
+## 鸡尾酒（689）
 
 - [逆谷物](./ENT-cocktail-against-the-grain.md) | 鸡尾酒 | 创新
 - [航空邮件](./ENT-cocktail-airmail.md) | 鸡尾酒 | 现代经典
@@ -1745,7 +1745,6 @@
 - [Margarita 玛格丽特](./ENT-cocktail-iba-margarita.md) | 鸡尾酒 | cocktail
 - [Negroni 尼格罗尼](./ENT-cocktail-iba-negroni.md) | 鸡尾酒 | cocktail
 - [Old Fashioned 古典鸡尾酒](./ENT-cocktail-iba-old-fashioned.md) | 鸡尾酒 | cocktail
-- [Whiskey Sour 威士忌酸](./ENT-cocktail-iba-whiskey-sour.md) | 鸡尾酒 | cocktail
 - [改良金酒鸡尾酒](./ENT-cocktail-improved-gin-cocktail.md) | 鸡尾酒 | 古典
 - [改良威士忌鸡尾酒](./ENT-cocktail-improved-whiskey-cocktail.md) | 鸡尾酒 | 酒吧签名
 - [岩石中](./ENT-cocktail-in-the-rocks.md) | 鸡尾酒 | 酒吧签名

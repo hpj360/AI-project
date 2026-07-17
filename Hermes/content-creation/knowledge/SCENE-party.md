@@ -7,8 +7,6 @@ tags: [场景, 派对, 聚会, 多人, 气氛]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SCENE-spring-festival, SCENE-mid-autumn, SCENE-wedding, SCENE-business-dinner, SCENE-birthday]
-related_typed: {SCENE-spring-festival: same_subcat, SCENE-mid-autumn: same_subcat, SCENE-wedding: same_subcat, SCENE-business-dinner: same_subcat, SCENE-birthday: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,117 @@ version: 1
 
 派对聚会用酒推荐：多人聚会、气氛活跃的酒款选择。
 
-## 图片参考
+## 派对聚会用酒推荐
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Party%20Wine%20Recommendations%20scene%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Party%20Wine%20Recommendations%20scene)
-- [Google 图片](https://www.google.com/search?q=Party%20Wine%20Recommendations%20scene%20bottle&tbm=isch)
+### 派对用酒原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 多样化 | 红白起泡齐全 |
+| 性价比 | 批量购买 |
+| 易入口 | 大众化口感 |
+| 气氛优先 | 起泡酒为主角 |
 
-- **中文名**：派对聚会用酒
-- **外文名**：Party Wine
-- **分类**：场景推荐
-- **产地**：
+### 按派对类型推荐
 
-## 合规信息
+#### 1. 朋友聚会（6-12人）
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 酒款类型 | 推荐酒款 | 数量 |
+|----------|----------|------|
+| 起泡酒 | Prosecco、Cava | 3-5瓶 |
+| 红葡萄酒 | 智利、阿根廷 | 4-6瓶 |
+| 白葡萄酒 | 新西兰、智利 | 2-3瓶 |
+| 甜酒 | Moscato d'Asti | 1-2瓶 |
+
+##### 推荐酒款
+- 起泡：Prosecco（Martini、Gancia）
+- 红酒：智利赤霞珠（Concha y Toro）
+- 白酒：新西兰长相思（Oyster Bay）
+- 甜酒：Moscato d'Asti（轻甜低酒精）
+
+#### 2. 大型派对（20人+）
+
+| 酒款类型 | 推荐酒款 | 数量 |
+|----------|----------|------|
+| 起泡酒 | Cava、Prosecco | 8-12瓶 |
+| 红葡萄酒 | 西班牙、智利 | 10-15瓶 |
+| 白葡萄酒 | 智利、西班牙 | 5-8瓶 |
+| 啤酒 | 多种品牌 | 24+瓶 |
+
+##### 经济选择
+- 红酒：Campo Viejo、Concha y Toro
+- 白酒：Verdejo、Cono Sur
+- 起泡：Cava、Prosecco
+
+#### 3. 主题派对
+
+##### 红酒主题派对
+- 横向品鉴：同年份、同产区、不同酒庄
+- 5-6款酒，每人 50ml/款
+- 准备品鉴卡
+
+##### 起泡酒派对
+- 香槟、Cava、Prosecco 对比
+- 搭配小食、tapas
+- 3-4款起泡酒
+
+##### 国家主题派对
+- 法国之夜：勃艮第、波尔多
+- 意大利之夜：Chianti、Prosecco
+- 西班牙之夜：Rioja、Cava
+
+### 派对小食配酒
+
+| 小食 | 推荐酒款 |
+|------|----------|
+| 奶酪拼盘 | 红酒、干白 |
+| 火腿切片 | 雪利、干红 |
+| 披萨 | 雪利、干红 |
+| 炸鸡 | 香槟、起泡 |
+| 沙拉 | 干白、桃红 |
+| 甜点 | 甜酒、起泡甜 |
+
+### 按预算推荐
+
+#### 经济方案（100-300元/瓶）
+- 起泡：Prosecco、Cava
+- 红酒：智利、阿根廷、西班牙
+- 白酒：智利、西班牙
+- 总成本：1000-3000元（10人）
+
+#### 中端方案（300-800元/瓶）
+- 起泡：香槟入门、高端 Cava
+- 红酒：波尔多产区级、Rioja Reserva
+- 白酒：新西兰、勃艮第
+- 总成本：3000-8000元（10人）
+
+#### 高端方案（800元以上/瓶）
+- 起泡：年份香槟
+- 红酒：波尔多列级庄
+- 白酒：勃艮第一级园
+- 总成本：8000元+（10人）
+
+### 派对鸡尾酒推荐
+
+#### Sangria 桑格利亚
+- 红酒 + 水果 + 果汁 + 苏打水
+- 适合大派对
+- 经济实惠
+
+#### 香槟鸡尾酒
+- 香槟 + 糖块 + 苦精
+- 经典优雅
+- 适合精致派对
+
+### 派对用酒注意事项
+
+- 提前冰镇（起泡、白酒）
+- 准备充足酒杯
+- 提供非酒精饮品
+- 注意客人酒量
+- 安排代驾或住宿
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

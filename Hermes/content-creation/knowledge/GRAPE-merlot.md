@@ -7,8 +7,6 @@ tags: [葡萄品种, 红品种, 美乐, 波尔多]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [GRAPE-cabernet-sauvignon, GRAPE-pinot-noir, GRAPE-syrah, GRAPE-grenache, GRAPE-malbec]
-related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat, GRAPE-malbec: same_subcat}
 data_confidence: official
 data_source: Wine Grapes (Jancis Robinson)/WSET
 version: 1
@@ -22,26 +20,53 @@ version: 1
 
 早熟的红葡萄品种，原产波尔多右岸，以圆润柔和、李子风味著称。
 
-## 图片参考
+## 品种概况
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Merlot%20grape%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Merlot%20grape)
-- [Google 图片](https://www.google.com/search?q=Merlot%20grape%20bottle&tbm=isch)
+### 基本信息
 
-## 基础信息
+- **原产地**：法国波尔多
+- **亲本**：品丽珠 × Madeleine Noire des Charentes（2009年确认）
+- **果串**：中等大小，圆柱形，较松散
+- **果粒**：中等，皮中等厚度，蓝黑色
+- **成熟期**：早熟品种（比赤霞珠早1-2周）
 
-- **中文名**：美乐
-- **外文名**：Merlot
-- **分类**：葡萄品种
-- **产地**：
+### 风味特征
 
-## 合规信息
+#### 冷凉产区（波尔多右岸/智利冷凉区）
+- **香气**：红色李子、黑樱桃、紫罗兰、雪松
+- **单宁**：中等
+- **酸度**：中等
+- **酒体**：中等至饱满
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 温暖产区（加州/澳大利亚）
+- **香气**：黑莓、李子酱、巧克力、香草
+- **单宁**：柔和
+- **酸度**：中低
+- **酒体**：饱满，圆润
+
+### 主要产区
+
+| 产区 | 风格特征 | 代表酒庄 |
+|------|----------|----------|
+| 波美侯 | 丝滑细腻，陈年潜力强 | 柏图斯、里鹏 |
+| 圣埃美隆 | 结构与优雅并存 | 白马、欧颂 |
+| 纳帕谷 | 果味奔放，酒体饱满 | 鹿跃、Duckhorn |
+| 智利中央山谷 | 性价比高，果味纯净 | Concha y Toro、Errázuriz |
+| 华盛顿州 | 结构紧实，平衡度高 | L'Ecole 41、Chateau Ste. Michelle |
+
+### 混酿搭配
+
+- **波尔多右岸混酿**：美乐为主+品丽珠+赤霞珠
+- **超级托斯卡纳**：可作主力，搭配桑娇维塞
+- **新世界单品种**：常单独装瓶，体现圆润风格
+
+### 陈年潜力
+
+- 波美侯顶级酒庄：15-25年+
+- 圣埃美隆列级庄：10-20年
+- 新世界单品种：3-8年
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Grapes (Jancis Robinson)/WSET
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [收藏投资, 葡萄酒, 入门, 储存]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-collect-vintage-chart, DEC-collect-livex, DEC-collect-auction, DEC-collect-whisky, DEC-collect-baijiu]
-related_typed: {DEC-collect-vintage-chart: same_subcat, DEC-collect-livex: same_subcat, DEC-collect-auction: same_subcat, DEC-collect-whisky: same_subcat, DEC-collect-baijiu: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/Liv-ex
 version: 1
@@ -22,26 +20,45 @@ version: 1
 
 葡萄酒收藏的基础知识，包括收藏动机、预算规划、储存条件和保险。
 
-## 图片参考
+## 收藏动机
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Collecting%20Basics%20collect%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Collecting%20Basics%20collect)
-- [Google 图片](https://www.google.com/search?q=Wine%20Collecting%20Basics%20collect%20bottle&tbm=isch)
+### 为什么收藏葡萄酒
 
-## 基础信息
+1. **投资增值**：顶级酒庄年份酒长期增值率优于传统资产
+2. **饮用享受**：陈年后的风味变化是独特体验
+3. **社交资本**：藏品展示品鉴圈层地位
+4. **文化传承**：家族酒窖代代相传
 
-- **中文名**：葡萄酒收藏入门
-- **外文名**：Wine Collecting Basics
-- **分类**：收藏投资
-- **产地**：
+### 预算规划
 
-## 合规信息
+| 层级 | 预算（年） | 推荐方向 |
+|------|-----------|----------|
+| 入门 | 5-10万 | 波尔多列级庄、勃艮第村庄级 |
+| 进阶 | 10-50万 | 勃艮第一级园、罗纳河谷顶级 |
+| 高级 | 50万+ | DRC、DRC特级园、拉菲/柏图斯 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 储存条件
+
+- **温度**：12-15°C恒定（波动≤±1°C）
+- **湿度**：65-75%（防软木塞干缩）
+- **避光**：紫外线破坏酒质，需暗存
+- **防震**：震动加速化学反应，影响陈年
+- **通风**：避免异味渗入
+
+### 保险
+
+- 专业酒窖保险（保费约藏品价值0.5-1%/年）
+- 家庭财产险附加条款（限额较低）
+- 拍卖行暂存保险（拍卖期间覆盖）
+
+### 入门建议
+
+- 从饮用型收藏起步，逐步过渡到投资型
+- 优先选择有二级市场的酒款（波尔多列级庄、勃艮第特级园）
+- 保留原箱、原木箱、发票、证书，影响转售价值
+- 单瓶价格低于3000元的酒款投资属性较弱，建议以饮用为主
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine-Searcher/Liv-ex
 - 数据置信度：verified

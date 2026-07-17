@@ -7,8 +7,6 @@ tags: [朗姆酒, 波多黎各, 百加得, 白朗姆]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rum-off-181-bacardi-razz, ENT-rum-bacardi-8, ENT-rum-real-bacardi-gran-reserva-diez, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23]
-related_typed: {ENT-rum-off-181-bacardi-razz: same_brand, ENT-rum-bacardi-8: same_brand, ENT-rum-real-bacardi-gran-reserva-diez: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: same_subcat}
 data_confidence: simulated
 version: 1
 ---

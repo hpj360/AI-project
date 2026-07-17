@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 发酵, 甘酒, 威士忌, 高球]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-newark, ENT-cocktail-mezcal-final-word, ENT-cocktail-coconut-miso-sour, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
-related_typed: {ENT-cocktail-newark: same_brand, ENT-cocktail-mezcal-final-word: same_brand, ENT-cocktail-coconut-miso-sour: same_brand, ENT-cocktail-tokyo-tea: same_region, ENT-cocktail-samurai: same_region}
 data_confidence: verified
 data_source: 2026 发酵调酒趋势 / 日本
 version: 1

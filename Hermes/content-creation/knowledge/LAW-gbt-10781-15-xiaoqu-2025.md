@@ -7,8 +7,6 @@ tags: [法规, 国家标准, 白酒, 小曲固态法, 2025, GB/T 10781.15]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-12-dongxiang-2026, LAW-baijiu-tax-2026-consumption]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat, LAW-baijiu-tax-2026-consumption: same_subcat}
 data_confidence: official
 data_source: 国家市场监督管理总局/全国白酒标准化技术委员会
 version: 1
@@ -22,26 +20,58 @@ version: 1
 
 2026年7月1日实施，替代GB/T 26761-2011，新增小曲香术语定义，低度酒范围收紧至25-40%vol。
 
-## 图片参考
+## 标准信息
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=GB/T%2010781.15-2025%20Xiaoqu%20Solid-State%20Baijiu%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/GB/T%2010781.15-2025%20Xiaoqu%20Solid-State%20Baijiu%20law)
-- [Google 图片](https://www.google.com/search?q=GB/T%2010781.15-2025%20Xiaoqu%20Solid-State%20Baijiu%20law%20bottle&tbm=isch)
+| 项目 | 内容 |
+|------|------|
+| 标准号 | GB/T 10781.15-2025 |
+| 标准名称 | 白酒质量要求 第15部分：小曲固态法白酒 |
+| 实施日期 | 2026-07-01 |
+| 替代标准 | GB/T 26761-2011（已实施14年） |
+| 标准类型 | 推荐性国家标准（GB/T） |
 
-## 基础信息
+## 核心变化
 
-- **中文名**：GB/T 10781.15-2025 小曲固态法白酒新国标
-- **外文名**：GB/T 10781.15-2025 Xiaoqu Solid-State Baijiu
-- **分类**：法律法规
-- **产地**：
+### 1. 纳入10781统一体系
 
-## 合规信息
+- 新标成为GB/T 10781体系的第15个组成部分
+- 完成小曲白酒向10781体系的统一归口
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 2. 新增「小曲香」术语
+
+首次在标准中定义「小曲香」术语：
+
+- 指小曲固态发酵白酒特有的香气特征
+- 区别于大曲酱香、浓香等
+
+### 3. 感官特征细化
+
+| 等级 | 感官要求 |
+|------|---------|
+| 优级 | 香气纯正、小曲香突出、口味醇和 |
+| 一级 | 香气纯正、小曲香明显、口味醇和 |
+
+### 4. 酒精度范围调整
+
+| 版本 | 低度酒范围 |
+|------|-----------|
+| 旧版（GB/T 26761-2011） | 18%vol - 40%vol |
+| 新版（GB/T 10781.15-2025） | 25%vol - 40%vol |
+
+低度酒下限从18%vol收紧至25%vol，淘汰超低度小曲白酒。
+
+## 代表产区与品牌
+
+- **川法小曲**：江津白酒、渝北老窖
+- **贵州小曲**：董酒（兼香）
+- **云南小曲**：玉林泉、杨林肥酒
+
+## 数据来源
+
+- **来源**：国家市场监督管理总局、全国白酒标准化技术委员会
+
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：国家市场监督管理总局/全国白酒标准化技术委员会
 - 数据置信度：official

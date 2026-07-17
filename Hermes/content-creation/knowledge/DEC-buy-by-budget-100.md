@@ -7,8 +7,6 @@ tags: [购买, 预算, 百元, 口粮酒, 性价比]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-300, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium, DEC-buy-for-business]
-related_typed: {DEC-buy-by-budget-300: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat, DEC-buy-for-business: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,44 @@ version: 1
 
 100元以内的选酒策略：选新世界、避开陈年、关注大产区入门款。
 
-## 图片参考
+## 100元以内选酒策略
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Buying%20Guide%20Under%20100%20RMB%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Buying%20Guide%20Under%20100%20RMB%20buying)
-- [Google 图片](https://www.google.com/search?q=Wine%20Buying%20Guide%20Under%20100%20RMB%20buying%20bottle&tbm=isch)
+### 选购原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 选新世界 | 智利、阿根廷、南非、澳大利亚性价比高 |
+| 避开陈年 | 选年轻酒款，避免陈年风险 |
+| 大产区入门 | 大区级 AOC、IGT 等基础款 |
+| 关注促销 | 商超促销、电商大促囤货 |
 
-- **中文名**：百元以内选酒指南
-- **外文名**：Budget Wine Under 100 RMB
-- **分类**：购买指南
-- **产地**：
+### 推荐产区与酒款
 
-## 合规信息
+#### 红葡萄酒
+- 智利：赤霞珠、佳美娜（Concha y Toro、Montes 入门）
+- 阿根廷：马尔贝克（Trapiche、Norton）
+- 南非：皮诺塔吉、品乐（Two Oceans、Nederburg）
+- 西班牙：丹魄 Tempranillo（Campo Viejo、Cune Joven）
+- 法国：波尔多大区 AOC、朗格多克
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 白葡萄酒
+- 新西兰：长相思（入门级 Oyster Bay 促销时可见）
+- 智利：霞多丽（Cono Sur、Vina Maipo）
+- 西班牙：阿尔巴利诺、Verdejo
+- 法国：密斯卡岱、卢瓦尔干白
+
+#### 起泡酒
+- 西班牙 Cava（Codorníu、Freixenet）
+- 意大利 Prosecco（Martini、Gancia）
+- 国产起泡：宁夏、山东产区
+
+### 避坑提示
+
+- 警惕"假进口"贴牌酒
+- 避免玻璃瓶过重、瓶塞华丽的"包装酒"
+- 100元价位避免追求波尔多列级庄
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

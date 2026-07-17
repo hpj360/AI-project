@@ -7,8 +7,6 @@ tags: [北方菜, 烤鸭, 涮羊肉, 鲁菜, 京菜, 红酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing
 version: 1
@@ -22,26 +20,48 @@ version: 1
 
 针对北方菜（烤鸭/涮羊肉/鲁菜）的重口味特点，推荐中重酒体红酒。
 
-## 图片参考
+## 北方菜配酒分类指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Northern%20Chinese%20Cuisine%20and%20Wine%20Pairing%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Northern%20Chinese%20Cuisine%20and%20Wine%20Pairing%20pairing)
-- [Google 图片](https://www.google.com/search?q=Northern%20Chinese%20Cuisine%20and%20Wine%20Pairing%20pairing%20bottle&tbm=isch)
+### 1. 北京烤鸭
 
-## 基础信息
+| 食用方式 | 推荐酒款 | 搭配理由 |
+|----------|----------|----------|
+| 蘸甜面酱 | 黑皮诺（勃艮第） | 经典配 |
+| 卷葱黄瓜 | 梅洛、品丽珠 | 中酒体 |
+| 鸭架汤 | 干型雪利 Fino | 提鲜 |
+| 全聚德烤鸭 | 俄勒冈黑皮诺 | 果香呼应 |
 
-- **中文名**：北方菜配酒指南
-- **外文名**：Northern Chinese Food Wine Pairing
-- **分类**：餐酒搭配
-- **产地**：
+### 2. 涮羊肉
 
-## 合规信息
+- 清汤涮羊肉：西拉、马尔贝克
+- 麻酱蘸料：赤霞珠、波尔多混酿
+- 孜然羊肉：歌海娜、西拉
+- 红焖羊肉：巴罗洛、Brunello
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 鲁菜
+
+| 经典菜 | 推荐酒款 | 备注 |
+|--------|----------|------|
+| 糖醋鲤鱼 | 半干雷司令、桃红 | 甜酸平衡 |
+| 九转大肠 | 阿玛罗尼、仙粉黛 | 浓味配浓酒 |
+| 葱烧海参 | 勃艮第霞多丽、Viognier | 海鲜质感 |
+| 油爆双脆 | 香槟、Cava | 气泡解腻 |
+
+### 4. 京菜与东北菜
+
+- 京酱肉丝：黑皮诺、品丽珠
+- 酱爆鸡丁：半干白诗南
+- 锅包肉：半甜雷司令、Moscato
+- 小鸡炖蘑菇：黑皮诺、Pinotage
+- 东北乱炖：西拉、马尔贝克
+
+### 配酒原则
+
+- 北方菜口味偏重，需中重酒体红酒
+- 葱蒜味浓，可选辛香型西拉
+- 糖醋类菜需甜度匹配的酒
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Food & Wine Pairing
 - 数据置信度：official

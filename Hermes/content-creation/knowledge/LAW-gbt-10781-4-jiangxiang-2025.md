@@ -7,8 +7,6 @@ tags: [法规, 国家标准, 白酒, 酱香型, 2025, GB/T 10781.4]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026, LAW-baijiu-tax-2026-consumption]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat, LAW-baijiu-tax-2026-consumption: same_subcat}
 data_confidence: official
 data_source: 国家市场监督管理总局/全国白酒标准化技术委员会
 version: 1
@@ -22,26 +20,56 @@ version: 1
 
 2025年6月1日实施的酱香型白酒新国标，替代GB/T 26760，要求大曲酱酒必须使用红缨子糯高粱与高温大曲。
 
-## 图片参考
+## 标准信息
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=GB/T%2010781.4-2025%20Jiangxiangxing%20Baijiu%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/GB/T%2010781.4-2025%20Jiangxiangxing%20Baijiu%20law)
-- [Google 图片](https://www.google.com/search?q=GB/T%2010781.4-2025%20Jiangxiangxing%20Baijiu%20law%20bottle&tbm=isch)
+| 项目 | 内容 |
+|------|------|
+| 标准号 | GB/T 10781.4（2025版） |
+| 标准名称 | 白酒质量要求 第4部分：酱香型白酒 |
+| 实施日期 | 2025-06-01 |
+| 替代标准 | GB/T 26760（已实施十余年） |
+| 标准类型 | 推荐性国家标准（GB/T） |
 
-## 基础信息
+## 核心变化
 
-- **中文名**：GB/T 10781.4-2025 酱香型白酒新国标
-- **外文名**：GB/T 10781.4-2025 Jiangxiangxing Baijiu
-- **分类**：法律法规
-- **产地**：
+### 1. 工艺区分明确
 
-## 合规信息
+新标对**大曲酱酒**与**碎沙、翻沙**等工艺做出明确区分：
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+- **大曲酱香型白酒**：必须使用红缨子糯高粱与高温大曲
+- **碎沙工艺**：原料粉碎后发酵，周期短
+- **翻沙工艺**：酒糟二次利用
+
+### 2. 12987工艺系统阐述
+
+首次在附录中系统阐述**12987工艺**的核心地位：
+
+- **2次投料**：下沙、糙沙
+- **9次蒸煮**：高温蒸煮糊化
+- **8次发酵**：条石窖池高温发酵
+- **7次取酒**：分级摘酒
+
+### 3. 原料要求
+
+| 原料 | 大曲酱酒要求 |
+|------|-------------|
+| 高粱 | 红缨子糯高粱（茅台镇特产） |
+| 大曲 | 高温大曲（制曲温度60-65°C） |
+| 水 | 赤水河水系 |
+
+## 影响分析
+
+- 茅台、郎酒、习酒、国台等大曲酱酒品牌受益于标准明确
+- 碎沙、翻沙工艺产品不得标注「大曲酱香」
+- 消费者可据此辨别酱香型白酒的工艺等级
+
+## 数据来源
+
+- **来源**：国家市场监督管理总局、全国白酒标准化技术委员会（SAC/TC 358）
+- **归口单位**：全国白酒标准化技术委员会
+
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：国家市场监督管理总局/全国白酒标准化技术委员会
 - 数据置信度：official

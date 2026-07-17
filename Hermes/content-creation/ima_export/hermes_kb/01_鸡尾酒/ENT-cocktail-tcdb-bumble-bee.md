@@ -6,39 +6,26 @@
 
 Bumble Bee是一款烈酒shot，使用3种配料调制，盛于烈酒杯。
 
-## 基础信息
+## 基本信息
 
-- **中文名**：Bumble Bee
-- **外文名**：Bumble Bee
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：12.3%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+- **酒精度**：约 12.3% ABV（估算）
+- **分类**：Shot
+- **含酒精**：Alcoholic
+- **推荐杯具**：烈酒杯（Shot glass）
 
-## 风味轮廓
+## 配方
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+| 配料 | 用量 |
+|------|------|
+| Baileys irish cream | 1/3 oz |
+| Kahlua | 1/3 oz |
+| Sambuca | 1/3 oz |
 
-## 评分奖项
+## 调制方法
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.1 | 15435 |
-| Difford's Guide | 4.05 | 2023 |
-| IBA 推荐 | 3.8 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

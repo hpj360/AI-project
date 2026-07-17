@@ -7,8 +7,6 @@ tags: [产区风土, 法国, 波尔多, 赤霞珠, 美乐]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire, REGION-france-alsace]
-related_typed: {REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat, REGION-france-alsace: same_subcat}
 data_confidence: official
 data_source: WSET/Wine Searcher
 version: 1
@@ -22,26 +20,48 @@ version: 1
 
 世界最著名的葡萄酒产区，以赤霞珠和美乐混酿闻名，分左岸右岸两大风格。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Bordeaux%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Bordeaux%20region)
-- [Google 图片](https://www.google.com/search?q=Bordeaux%20region%20bottle&tbm=isch)
+### 位置
+- 法国西南部，靠近大西洋
+- 吉伦特河口将产区分为左岸和右岸
 
-## 基础信息
+### 气候
+- 海洋性气候
+- 冬季温和，夏季温暖
+- 降雨分布均匀，收获季有风险
 
-- **中文名**：波尔多
-- **外文名**：Bordeaux
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- **左岸**：砾石土壤（排水好，储热，适合赤霞珠）
+- **右岸**：黏土和石灰岩（保水，适合美乐和品丽珠）
+- **两海之间**：冲积土（白葡萄品种）
 
-## 合规信息
+## 法定等级
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 1855年梅多克分级
+- 一级庄（5家）：拉菲、拉图、玛歌、侯伯王、木桐
+- 二至五级庄（共61家）
+
+### 圣埃美隆分级
+- 一级A等（2家）：白马、欧颂
+- 一级B等（11家）
+
+## 主要子产区
+
+| 子产区 | 位置 | 主要品种 | 风格 |
+|--------|------|----------|------|
+| 梅多克 | 左岸 | 赤霞珠为主 | 骨架感强，陈年潜力大 |
+| 波美侯 | 右岸 | 美乐为主 | 圆润丰腴，产量稀少 |
+| 圣埃美隆 | 右岸 | 美乐+品丽珠 | 优雅细腻 |
+| 玛歌 | 左岸 | 赤霞珠 | 芳香优雅 |
+| 波亚克 | 左岸 | 赤霞珠 | 强劲有力 |
+| 苏玳 | 两海之间 | 赛美蓉 | 贵腐甜酒 |
+
+## 代表酒庄
+- 左岸：拉菲、拉图、玛歌、木桐、侯伯王
+- 右岸：柏图斯、白马、欧颂、里鹏
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/Wine Searcher
 - 数据置信度：official

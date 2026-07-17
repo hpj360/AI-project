@@ -7,8 +7,6 @@ tags: [行业趋势, B Corp, 社会责任, 可持续]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [TREND-low-alcohol-rise, TREND-dealcoholization-tech, TREND-non-alcoholic-beer, TREND-non-alcoholic-wine, TREND-low-abv-cocktail]
-related_typed: {TREND-low-alcohol-rise: same_subcat, TREND-dealcoholization-tech: same_subcat, TREND-non-alcoholic-beer: same_subcat, TREND-non-alcoholic-wine: same_subcat, TREND-low-abv-cocktail: same_subcat}
 data_confidence: verified
 data_source: 行业公开报告
 version: 1
@@ -22,26 +20,60 @@ version: 1
 
 B Corp认证融合社会责任与环保，成为酒庄可持续发展的综合评价体系。
 
-## 图片参考
+## B Corp认证
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=B%20Corp%20Certified%20Wineries%20trend%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/B%20Corp%20Certified%20Wineries%20trend)
-- [Google 图片](https://www.google.com/search?q=B%20Corp%20Certified%20Wineries%20trend%20bottle&tbm=isch)
+### 认证概述
 
-## 基础信息
+- **全称**：B Corporation（公益企业）
+- **机构**：B Lab（美国非营利组织）
+- **评估维度**：治理、员工、社区、环境、客户
+- **认证周期**：6-12个月
+- **复评周期**：每3年
 
-- **中文名**：B Corp认证
-- **外文名**：B Corp Certification
-- **分类**：行业趋势
-- **产地**：
+### 评估维度
 
-## 合规信息
+| 维度 | 权重 | 评估内容 | 酒庄关注点 |
+|------|------|----------|-----------|
+| 治理 | 15-20% | 透明度、使命 | 公司章程 |
+| 员工 | 20-25% | 薪酬、福利、培训 | 公平就业 |
+| 社区 | 15-20% | 社区贡献、供应链 | 本地采购 |
+| 环境 | 20-25% | 碳、水、废弃物 | 种植酿造 |
+| 客户 | 5-15% | 产品社会影响 | 健康安全 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 认证酒庄代表
+
+| 酒庄 | 产地 | 认证年份 | 亮点 |
+|------|------|----------|------|
+| Bonterra | 美国加州 | 2016 | 有机先驱 |
+| King Estate | 美国俄勒冈 | 2020 | 大型有机 |
+| Fetzer | 美国加州 | 2015 | 行业标杆 |
+| Champagne Drappier | 法国 | 2021 | 香槟区 |
+| Azeiten | 葡萄牙 | 2019 | 老藤保护 |
+| Jackson Family | 美国 | 多品牌 | 集团化 |
+
+### 认证价值
+
+1. **品牌信任**：综合可持续认证
+2. **消费者认同**：年轻群体偏好
+3. **员工吸引**：人才招聘优势
+4. **投资加分**：ESG投资偏好
+5. **政策红利**：部分市场优惠
+
+### 认证挑战
+
+- 评估严格，通过率<40%
+- 需要法律架构调整
+- 持续改进要求高
+- 认证成本数万美元
+
+### 中国实践
+
+- 茅台启动ESG披露
+- 张裕发布可持续报告
+- 长城推进绿色工厂
+- 尚无B Corp认证酒庄
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：行业公开报告
 - 数据置信度：verified

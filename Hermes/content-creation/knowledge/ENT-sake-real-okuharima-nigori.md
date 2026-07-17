@@ -7,8 +7,6 @@ tags: [清酒, 浊酒, 日本, 奥播磨]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-sake-real-arabashiri, ENT-baike-sake-juyondai, ENT-baike-sake-hakutsuru, ENT-sake-real-dassai-23, ENT-sake-real-kubota-senjuu]
-related_typed: {ENT-sake-real-arabashiri: same_brand, ENT-baike-sake-juyondai: cross_region, ENT-baike-sake-hakutsuru: cross_region, ENT-sake-real-dassai-23: cross_region, ENT-sake-real-kubota-senjuu: same_subcat}
 data_confidence: verified
 data_source: 品牌官方/Wikipedia
 version: 1

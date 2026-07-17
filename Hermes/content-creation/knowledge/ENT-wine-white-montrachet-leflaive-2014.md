@@ -7,8 +7,6 @@ tags: [白酒, 勃艮第, 特级园, 霞多丽]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-montrachet-leflaive, ENT-wine-white-chevalier-montrachet-leflaive-2015, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine-white-montrachet-drc-2014, ENT-wine-white-puligny-pucelles-leflaive-2015]
-related_typed: {ENT-wine-real-montrachet-leflaive: same_brand, ENT-wine-white-chevalier-montrachet-leflaive-2015: same_brand, ENT-wine-white-batard-montrachet-leflaive-2015: same_brand, ENT-wine-white-montrachet-drc-2014: same_region, ENT-wine-white-puligny-pucelles-leflaive-2015: same_region}
 data_confidence: simulated
 version: 1
 ---

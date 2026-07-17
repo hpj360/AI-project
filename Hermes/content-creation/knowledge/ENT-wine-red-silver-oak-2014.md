@@ -7,8 +7,6 @@ tags: [红酒, 加州, 美国, 赤霞珠]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-silver-oak, ENT-brand-mouton-rothschild, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
-related_typed: {ENT-wine-real-silver-oak: same_brand, ENT-brand-mouton-rothschild: same_subcat, ENT-brand-haut-brion: same_subcat, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated
 version: 1
 ---

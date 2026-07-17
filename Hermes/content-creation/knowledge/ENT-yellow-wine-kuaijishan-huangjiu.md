@@ -9,8 +9,7 @@ created: 2026-07-17
 updated: 2026-07-17
 data_confidence: simulated
 version: 1
-related: [ENT-yellow-wine-kuaijishan, ENT-yellow-guyuelongshan-10year, ENT-yellow-guyuelongshan-8year-king, ENT-yellow-guyuelongshan-5year, ENT-yellow-guyuelongshan-3year]
-related_typed: {ENT-yellow-wine-kuaijishan: same_brand, ENT-yellow-guyuelongshan-10year: same_region, ENT-yellow-guyuelongshan-8year-king: same_region, ENT-yellow-guyuelongshan-5year: same_region, ENT-yellow-guyuelongshan-3year: same_region}
+related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-tapai-huangjiu]
 ---
 
 # 会稽山黄酒

@@ -7,8 +7,6 @@ tags: [鸡尾酒, 分子, 洗油, 波本, 培根]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash]
-related_typed: {ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region}
 data_confidence: simulated
 data_source: Freeman 配方
 version: 1

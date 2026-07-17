@@ -7,8 +7,6 @@ tags: [白兰地, 干邑, 法国, 缪克, XO, 豹头瓶]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brandy-real-meukow-vs, ENT-baike-spirits_intl-martell-cordon-bleu, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard]
-related_typed: {ENT-brandy-real-meukow-vs: same_brand, ENT-baike-spirits_intl-martell-cordon-bleu: cross_region, ENT-brandy-hennessy-xo: cross_region, ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / Flaviar
 version: 1

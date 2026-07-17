@@ -7,8 +7,6 @@ tags: [鸡尾酒, 禁酒令, 1920s, 美国, 地下酒吧]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-gin-sour, ENT-cocktail-whiskey-smash, ENT-cocktail-gin-smash, ENT-cocktail-brandy-cobbler, ENT-cocktail-philadelphia-fish-house-punch]
-related_typed: {ENT-cocktail-gin-sour: same_subcat, ENT-cocktail-whiskey-smash: same_subcat, ENT-cocktail-gin-smash: same_subcat, ENT-cocktail-brandy-cobbler: same_subcat, ENT-cocktail-philadelphia-fish-house-punch: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1
@@ -26,50 +24,71 @@ ratings:
 
 1920-1933年美国禁酒令期间，劣质私酒催生了对混合饮品的强烈需求，调酒文化向欧洲和古巴扩散。
 
-## 图片参考
+## 历史背景
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Prohibition-era%20Cocktails%20cocktail%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Prohibition-era%20Cocktails%20cocktail)
-- [Google 图片](https://www.google.com/search?q=Prohibition-era%20Cocktails%20cocktail%20bottle&tbm=isch)
+- **1919年**：美国通过第18修正案
+- **1920年1月**：禁酒令正式实施
+- **1933年12月**：第21修正案废除禁酒令
+- **背景**：进步主义、宗教运动、妇女运动共同推动
 
-## 基础信息
+## 禁酒令对鸡尾酒的影响
 
-- **中文名**：禁酒令时代鸡尾酒
-- **外文名**：Prohibition-era Cocktails
-- **分类**：鸡尾酒
-- **产地**：美国/欧洲/古巴
-- **酒精度**：N/A
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+### 1. 劣质酒掩盖需求
+- 私酿酒（bathtub gin、moonshine）口感粗糙
+- 需要大量糖浆、果汁、苦精掩盖
+- 催生甜味重、风味强的鸡尾酒
 
-## 风味轮廓
+### 2. 地下酒吧文化
+- Speakeasy（隐秘酒吧）兴起
+- 密码进入、暗门设计
+- 女性首次公开进入酒吧饮酒
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+### 3. 调酒师外流
+- 大量美国调酒师移居欧洲
+- 巴黎、伦敦成为新调酒中心
+- 哈瓦那成为美国人饮酒目的地
 
-## 评分奖项
+## 经典禁酒令时期鸡尾酒
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 3.9 | 38860 |
-| Difford's Guide | 4.01 | 2023 |
-| IBA 推荐 | 3.6 | 2022 |
+### 1. Sidecar（边车）
+- 干邑白兰地 + 橙味利口酒 + 柠檬汁
+- 据说源于巴黎丽兹酒店
 
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+### 2. Bee's Knees
+- 金酒 + 蜂蜜 + 柠檬汁（蜂蜜掩盖劣质金酒）
 
-## 合规信息
+### 3. Mary Pickford
+- 朗姆酒 + 菠萝汁 + 石榴糖浆 + 樱桃利口酒
+- 古巴哈瓦那创作
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 4. French 75
+- 金酒 + 柠檬汁 + 糖 + 香槟
+- 一战时期巴黎创作
+
+### 5. Last Word
+- 等份金酒、樱桃利口酒、查特酒、柠檬汁
+- 底特律Athletic Club创作
+
+### 6. Southside
+- 金酒 + 柠檬汁 + 薄荷 + 糖
+
+## 文化影响
+
+### 海外调酒文化兴盛
+- 古巴哈瓦那：Mojito, Daiquiri, Cuba Libre
+- 巴黎：Sidecar, French 75
+- 伦敦：Dry Martini演进
+
+### 性别与文化
+- 女性公开饮酒成为常态
+- "Flapper"形象与鸡尾酒文化紧密关联
+
+### 禁酒令废除后
+- 1933年禁酒令废除
+- 美国调酒业开始重建
+- 但欧洲和古巴的调酒文化已扎根
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wikipedia
 - 数据置信度：verified

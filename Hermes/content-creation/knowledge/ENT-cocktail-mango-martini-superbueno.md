@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 马天尼, 龙舌兰, 芒果, 辣椒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-superbueno-mole-negroni, ENT-cocktail-mushroom-margarita, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins]
-related_typed: {ENT-cocktail-superbueno-mole-negroni: same_brand, ENT-cocktail-mushroom-margarita: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region}
 data_confidence: verified
 data_source: World's 50 Best Bars 2025 / Superbueno NYC
 version: 1

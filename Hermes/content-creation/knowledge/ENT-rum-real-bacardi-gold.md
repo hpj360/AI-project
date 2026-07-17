@@ -7,8 +7,6 @@ tags: [朗姆酒, 百加得, 波多黎各, 金朗姆]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rum-off-181-bacardi-razz, ENT-rum-bacardi-carta-blanca, ENT-rum-bacardi-8, ENT-rum-real-bacardi-gran-reserva-diez, ENT-rum-off-165-rhum-ambr]
-related_typed: {ENT-rum-off-181-bacardi-razz: same_brand, ENT-rum-bacardi-carta-blanca: same_brand, ENT-rum-bacardi-8: same_brand, ENT-rum-real-bacardi-gran-reserva-diez: same_region, ENT-rum-off-165-rhum-ambr: same_subcat}
 data_confidence: verified
 data_source: SFWSC 2026 / Flaviar
 version: 1

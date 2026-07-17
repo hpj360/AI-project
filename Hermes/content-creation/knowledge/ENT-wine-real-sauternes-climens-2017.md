@@ -7,8 +7,6 @@ tags: [葡萄酒, 甜白葡萄酒, 法国, 波尔多, Barsac, 克里蒙, 贵腐,
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-royal-tokaji-gold-label, ENT-dessert-royal-tokaji-essencia-2016]
-related_typed: {ENT-dessert-yquem-2018: cross_region, ENT-dessert-yquem-2022: cross_region, ENT-dessert-suduiraut-2023: cross_region, ENT-dessert-royal-tokaji-gold-label: cross_region, ENT-dessert-royal-tokaji-essencia-2016: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

@@ -7,8 +7,6 @@ tags: [龙舌兰酒, El Jimador, 墨西哥, Reposado]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-tequila-real-herradura-silver, ENT-tequila-real-herradura-anejo, ENT-tequila-real-el-jimador-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
-related_typed: {ENT-tequila-real-herradura-silver: same_brand, ENT-tequila-real-herradura-anejo: same_brand, ENT-tequila-real-el-jimador-blanco: same_brand, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / Good Housekeeping
 version: 1

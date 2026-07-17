@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 朗姆, 金酒, 白兰地, Tiki]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-martinez, ENT-cocktail-saturn, ENT-cocktail-jasmine, ENT-cocktail-tommys-margarita, ENT-cocktail-chartreuse-swizzle]
-related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-saturn: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-chartreuse-swizzle: same_region}
 data_confidence: simulated
 data_source: Trader Vic 配方
 version: 1

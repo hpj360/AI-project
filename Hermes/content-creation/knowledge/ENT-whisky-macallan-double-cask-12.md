@@ -7,8 +7,6 @@ tags: [威士忌, whisky, 苏格兰, Speyside, Macallan, 双桶, 12年]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-macallan-sherry-oak-12, ENT-whisky-macallan-30-sherry-oak, ENT-whisky-macallan-12-sherry-oak, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7]
-related_typed: {ENT-whisky-macallan-sherry-oak-12: same_brand, ENT-whisky-macallan-30-sherry-oak: same_brand, ENT-whisky-macallan-12-sherry-oak: same_brand, ENT-brand-chivas-regal-12: same_subcat, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

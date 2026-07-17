@@ -7,8 +7,6 @@ tags: [啤酒, 中国, 燕京, 工业拉格]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-snow, ENT-beer-jing-a, ENT-beer-great-leap, ENT-beer-slowboat, ENT-beer-nbpt]
-related_typed: {ENT-beer-snow: same_region, ENT-beer-jing-a: same_region, ENT-beer-great-leap: same_region, ENT-beer-slowboat: same_region, ENT-beer-nbpt: same_region}
 data_confidence: simulated
 version: 1
 ---

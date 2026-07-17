@@ -7,8 +7,6 @@ tags: [产区风土, 智利, 迈坡, 赤霞珠, 安第斯山]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official
 data_source: WSET/Wines of Chile
 version: 1
@@ -22,26 +20,89 @@ version: 1
 
 智利最古老的葡萄酒产区，「智利的波尔多」，赤霞珠与安第斯山融雪水的经典组合。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Maipo%20Valley%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Maipo%20Valley%20region)
-- [Google 图片](https://www.google.com/search?q=Maipo%20Valley%20region%20bottle&tbm=isch)
+### 位置
+- 智利中部，围绕圣地亚哥
+- 迈坡河流域
+- 安第斯山脉西麓
+- 南纬33°
 
-## 基础信息
+### 气候
+- 地中海气候
+- 夏季干燥温暖
+- 冬季温和湿润
+- 安第斯山冷风夜间下沉
+- 昼夜温差大
+- 干燥少病
 
-- **中文名**：迈坡
-- **外文名**：Maipo Valley
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 安第斯山冲积土
+- 砾石、沙壤土
+- 排水良好
+- 含丰富矿物质
+- 不同子区域土壤差异
 
-## 合规信息
+## 子产区
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### Alto Maipo（上迈坡）
+- 安第斯山脚
+- 海拔600-800米
+- 砾石土壤
+- 顶级赤霞珠
+- 冷凉气流
+
+### Central Maipo（中迈坡）
+- 平原
+- 冲积壤土
+- 历史产区
+
+### Pacific Maipo（太平洋迈坡）
+- 西部近海
+- 受海洋影响
+- 较凉爽
+
+## 主要品种
+
+### 红品种
+- **赤霞珠 Cabernet Sauvignon**：旗舰
+  - 安第斯山风格
+  - 黑加仑、薄荷、桉树
+  - 单宁紧实，结构强
+- **佳美娜 Carménère**：智利特色
+  - 波尔多原品种，智利幸存
+  - 胡椒、红色浆果
+  - 晚熟，需温暖长季
+- **美乐**：辅助
+- **西拉**：新兴
+- **马尔贝克**：少量
+
+### 白品种
+- **霞多丽**：少量
+- **长相思**：凉爽区
+
+## 智利特色
+- **天然隔离**：北部沙漠、西海岸海洋、东安第斯、南巴塔哥尼亚
+- 无根瘤蚜，自根葡萄
+- 干燥气候，有机潜力大
+- 安第斯山融雪灌溉
+
+## 历史与发展
+- 1548年西班牙传教士引入
+- 19世纪欧洲移民带来波尔多品种
+- Don Silvestre Ochagavía（1851）引入法国品种
+- 19世纪后期Concha y Toro等大酒厂建立
+- 1980-90年代出口爆发
+
+## 代表酒庄
+- **干露酒庄（Concha y Toro）**- 智利最大，Don Melchor
+- **桑塔丽塔（Santa Rita）**- Casa Real
+- **圣佩德罗（San Pedro）**
+- **塔拉巴（Santa Carolina）**
+- **阿尔瓦维（Almaviva）**- 木桐与干露合作
+- **佩拉尔（Pérez Cruz）**
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/Wines of Chile
 - 数据置信度：official

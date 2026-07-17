@@ -7,8 +7,6 @@ tags: [购买, 婚宴, 婚礼, 用酒, 喜庆]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-100, DEC-buy-by-budget-300, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium]
-related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-300: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,52 @@ version: 1
 
 婚宴用酒策略：兼顾喜庆、口感大众化、预算可控。
 
-## 图片参考
+## 婚宴用酒选择策略
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Buying%20for%20Wedding%20Banquets%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Buying%20for%20Wedding%20Banquets%20buying)
-- [Google 图片](https://www.google.com/search?q=Wine%20Buying%20for%20Wedding%20Banquets%20buying%20bottle&tbm=isch)
+### 选购原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 大众化口感 | 适合多种口味偏好 |
+| 喜庆包装 | 红色、金色酒标 |
+| 预算可控 | 按桌数估算 |
+| 红白比例 | 红白起泡约 6:2:2 |
 
-- **中文名**：婚宴用酒选择
-- **外文名**：Wedding Wine Selection
-- **分类**：购买指南
-- **产地**：
+### 按预算推荐
 
-## 合规信息
+#### 100-300元/瓶
+- 红葡萄酒：智利赤霞珠、阿根廷马尔贝克
+- 白葡萄酒：新西兰长相思、智利霞多丽
+- 起泡酒：Cava、Prosecco、Asti
+- 国产：长城、张裕婚宴定制款
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 300-600元/瓶
+- 红葡萄酒：波尔多产区级、Rioja Reserva
+- 白葡萄酒：勃艮第 Mâcon、阿尔萨斯
+- 起泡酒：香槟入门、高端 Cava
+
+#### 600元以上/瓶
+- 波尔多中级庄、列级庄副牌
+- 勃艮第村庄级
+- 年份香槟
+
+### 按桌数估算
+
+| 桌数 | 红酒 | 白酒 | 起泡 |
+|------|------|------|------|
+| 10桌 | 50瓶 | 15瓶 | 10瓶 |
+| 20桌 | 100瓶 | 30瓶 | 20瓶 |
+| 30桌 | 150瓶 | 45瓶 | 30瓶 |
+
+### 注意事项
+
+- 提前 1-2 月预订
+- 选批量稳定的酒款
+- 备用酒按总量 10%
+- 注意酒精度（13%以下更受欢迎）
+- 提供非酒精饮品选择
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

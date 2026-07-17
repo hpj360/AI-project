@@ -7,8 +7,6 @@ tags: [粤菜, 清蒸, 烧腊, 点心, 广式, 白葡萄酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: WSET Food & Wine Pairing
 version: 1
@@ -22,26 +20,48 @@ version: 1
 
 针对粤菜三大类（清蒸/烧腊/点心）的配酒建议，主打干白与中酒体红酒。
 
-## 图片参考
+## 粤菜配酒分类指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Cantonese%20Cuisine%20and%20Wine%20Pairing%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Cantonese%20Cuisine%20and%20Wine%20Pairing%20pairing)
-- [Google 图片](https://www.google.com/search?q=Cantonese%20Cuisine%20and%20Wine%20Pairing%20pairing%20bottle&tbm=isch)
+### 1. 清蒸类
 
-## 基础信息
+| 经典菜 | 推荐酒款 | 搭配理由 |
+|--------|----------|----------|
+| 清蒸石斑 | 夏布利 Chablis | 矿物感衬鲜 |
+| 清蒸鲈鱼 | 灰皮诺、长相思 | 高酸提鲜 |
+| 白灼虾 |密斯卡岱 Muscadet | 同海风土 |
+| 清蒸蟹 | 霞多丽（未过桶） | 酒体适中 |
 
-- **中文名**：粤菜配酒指南
-- **外文名**：Cantonese Food Wine Pairing
-- **分类**：餐酒搭配
-- **产地**：
+### 2. 烧腊类
 
-## 合规信息
+- 烧鹅：黑皮诺、品丽珠
+- 烧鸭：黑皮诺（勃艮第）
+- 蜜汁叉烧：半干雷司令、桃红
+- 脆皮烧肉：香槟、Cava（气泡解腻）
+- 油鸡：霞多丽、Viognier
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 3. 点心类
+
+| 点心 | 推荐酒款 | 备注 |
+|------|----------|------|
+| 虾饺 | 长相思、灰皮诺 | 海鲜搭配 |
+| 烧卖 | 黑皮诺、桃红 | 中酒体 |
+| 叉烧包 | 半干雷司令 | 甜咸平衡 |
+| 萝卜糕 | 香槟、Prosecco | 油炸解腻 |
+| 肠粉 | 霞多丽、白皮诺 | 米浆质感 |
+
+### 4. 老火汤与甜品
+
+- 老火靓汤：干型雪利 Fino、Manzanilla
+- 双皮奶：阿斯蒂 Moscato d'Asti
+- 杨枝甘露：半甜雷司令
+
+### 配酒原则
+
+- 粤菜重食材本味，酒款以清爽型为主
+- 烧腊有烟熏与甜度，需中酒体平衡
+- 点心多样化，可选桃红作为"百搭"酒
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Food & Wine Pairing
 - 数据置信度：official

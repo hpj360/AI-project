@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 发酵, 味噌, 单一麦芽, 烧酎]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-sakura-heights, ENT-cocktail-la-tomatina-clemente, ENT-cocktail-three-boxes, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
-related_typed: {ENT-cocktail-sakura-heights: same_brand, ENT-cocktail-la-tomatina-clemente: same_brand, ENT-cocktail-three-boxes: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
 data_confidence: verified
 data_source: 2026 发酵分子鸡尾酒趋势 / Clemente NYC
 version: 1

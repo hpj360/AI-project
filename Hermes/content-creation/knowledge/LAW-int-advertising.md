@@ -7,8 +7,6 @@ tags: [法律法规, 广告, 限制, 中国广告法, Loi Évin]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: 中华人民共和国广告法；各国广告监管机构
 version: 1
@@ -22,26 +20,103 @@ version: 1
 
 酒类广告在各国均受严格限制，中国《广告法》第23条明确禁止诱导饮酒、暗示消除紧张、宣称功效等情形。
 
-## 图片参考
+## 中国《广告法》相关规定
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Alcohol%20Advertising%20Restrictions%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Alcohol%20Advertising%20Restrictions%20law)
-- [Google 图片](https://www.google.com/search?q=Alcohol%20Advertising%20Restrictions%20law%20bottle&tbm=isch)
+### 第二十三条（酒类广告准则）
 
-## 基础信息
+酒类广告不得含有下列内容：
 
-- **中文名**：酒类广告限制法规
-- **外文名**：Alcohol Advertising Regulations Worldwide
-- **分类**：法律法规
-- **产地**：
+1. **诱导、怂恿饮酒或者宣传无节制饮酒**
+2. **出现饮酒的动作**
+3. **明示或者暗示饮酒有消除紧张和焦虑、增加体力等功效**
+4. **表现驾驶车、船、飞机等活动**
+5. **针对未成年人的酒类广告**
 
-## 合规信息
+### 发布媒介限制
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+依据《广告法》及相关规定，酒类广告禁止在以下媒介发布：
+
+| 媒介 | 限制 |
+|------|------|
+| 电视 | 禁止在黄金时段（19:00-22:00）播出烈酒广告 |
+| 广播 | 同上 |
+| 户外广告 | 部分城市全面禁止 |
+| 学校周边 | 禁止设置酒类广告 |
+| 互联网 | 需有年龄验证机制 |
+
+### 处罚规定
+
+- 违反第23条的，由市场监督管理部门责令停止发布广告
+- 处广告费用**一倍以上三倍以下**罚款
+- 广告费用无法计算或明显偏低的，处**10万元以上20万元以下**罚款
+- 情节严重的，可吊销营业执照
+
+## 各国酒类广告限制
+
+### 欧盟与欧洲
+
+#### 法国《洛伊·埃文法》（Loi Évin, 1991）
+
+世界上最严格的酒类广告法之一：
+
+- **禁止**在电视、电影院做酒类广告
+- **禁止**在体育赛事赞助中出现酒类品牌
+- **仅允许**在专业媒体和特定时段的平面媒体做广告
+- 必须包含健康警示语
+- 2015年部分放宽（允许描述产品感官特征）
+
+#### 英国ASA / BCAP
+
+- 不得针对18岁以下人群
+- 不得将饮酒与性、成功、勇气联系
+- 不得鼓励过量饮酒
+- 不得暗示饮酒提升身体能力
+
+#### 挪威
+
+- 1975年起全面禁止酒类广告
+- 包括葡萄酒、啤酒、烈酒
+- 社交媒体亦受限制
+
+### 美洲
+
+#### 美国
+
+- 联邦无统一禁令，由行业自律（DISCUS等）
+- 不得针对<21岁人群
+- 广播自律守则要求
+- 部分城市限制户外广告
+
+#### 加拿大
+
+- 各省规定不同
+- CRTC守则统一规范
+- 不得鼓励过量饮酒
+
+### 亚洲
+
+#### 印度
+
+- 多数邦禁止酒类广告
+- 利用"surrogate advertising"（替代广告）：以同品牌非酒类产品名义广告
+
+#### 泰国
+
+- 禁止酒类广告
+- 包括电视、印刷、户外
+
+#### 马来西亚
+
+- 禁止烈酒广告
+- 啤酒广告限制时段
+
+### 国际趋势
+
+- **数字营销监管**：Facebook、Instagram等平台需年龄限制
+- **赞助限制**：体育赛事赞助成为焦点
+- **健康警示**：要求标注健康风险
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：中华人民共和国广告法；各国广告监管机构
 - 数据置信度：official

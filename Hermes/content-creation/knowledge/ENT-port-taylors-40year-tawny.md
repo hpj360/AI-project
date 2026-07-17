@@ -7,8 +7,6 @@ tags: [波特, Port, 葡萄牙, Tawny, 茶色, 40年, 稀有]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-port-taylors-quinta-vargellas, ENT-port-grahams-ruby-2019, ENT-port-grahams-20year-tawny, ENT-port-warres-quinta-cavadinha, ENT-port-quinta-noval-nacional-2020]
-related_typed: {ENT-port-taylors-quinta-vargellas: same_brand, ENT-port-grahams-ruby-2019: same_region, ENT-port-grahams-20year-tawny: same_region, ENT-port-warres-quinta-cavadinha: same_region, ENT-port-quinta-noval-nacional-2020: same_region}
 data_confidence: verified
 data_source: Waitrose Cellar
 version: 1

@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, wine_red, 红葡萄酒, Adama]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-wine-helanshan-putaojiu, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-brand-margaux, ENT-baike-wine-zhangyu-putaojiu]
-related_typed: {ENT-baike-wine-helanshan-putaojiu: cross_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-brand-margaux: cross_region, ENT-baike-wine-zhangyu-putaojiu: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

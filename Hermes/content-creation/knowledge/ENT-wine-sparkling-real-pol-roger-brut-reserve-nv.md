@@ -7,8 +7,6 @@ tags: [起泡酒, 香槟, Pol Roger, 珍藏, NV, 丘吉尔]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-sparkling-pol-roger-winston-churchill-2013, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt]
-related_typed: {ENT-wine-sparkling-pol-roger-winston-churchill-2013: same_brand, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / Decanter
 version: 1

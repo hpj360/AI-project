@@ -7,8 +7,6 @@ tags: [啤酒, 比利时, 智美, 修道院啤酒, 金啤]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-chimay-blue, ENT-beer-chimay-red, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
-related_typed: {ENT-beer-chimay-blue: same_brand, ENT-beer-chimay-red: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

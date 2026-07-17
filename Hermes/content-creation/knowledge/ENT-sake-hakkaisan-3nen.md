@@ -7,8 +7,6 @@ tags: [清酒, 日本, 纯米酒, 八海山, 熟成]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-sake-hakkaisan-honjozo, ENT-sake-hakkaisan-ginjo, ENT-sake-hakkaisan-junmai-daiginjo, ENT-sake-hakkaisan-genshu, ENT-sake-josen-mizunogotoshi]
-related_typed: {ENT-sake-hakkaisan-honjozo: same_brand, ENT-sake-hakkaisan-ginjo: same_brand, ENT-sake-hakkaisan-junmai-daiginjo: same_brand, ENT-sake-hakkaisan-genshu: same_region, ENT-sake-josen-mizunogotoshi: same_region}
 data_confidence: simulated
 version: 1
 ---

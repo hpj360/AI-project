@@ -7,8 +7,6 @@ tags: [产区风土, 法国, 阿尔萨斯, 雷司令, 琼瑶浆, 灰皮诺]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official
 data_source: WSET/CIVA
 version: 1
@@ -22,26 +20,56 @@ version: 1
 
 法国白葡萄酒之乡，以芳香品种著称，雷司令、琼瑶浆、灰皮诺三足鼎立。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Alsace%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Alsace%20region)
-- [Google 图片](https://www.google.com/search?q=Alsace%20region%20bottle&tbm=isch)
+### 位置
+- 法国东北部，与德国隔莱茵河相望
+- 沿孚日山脉东麓南北延伸约170公里
 
-## 基础信息
+### 气候
+- 半大陆性气候
+- 孚日山脉形成雨影效应，年降雨量低（500mm）
+- 日照充足，秋季长，葡萄成熟充分
+- 干燥少病，适合晚收
 
-- **中文名**：阿尔萨斯
-- **外文名**：Alsace
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 法国土壤最多样产区之一
+- 花岗岩、片岩、石灰岩、黏土、砂岩、火山岩
+- 不同土壤赋予不同品种典型性
 
-## 合规信息
+## 等级体系
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### AOC等级
+- **阿尔萨斯AOC**（74%）：单一品种或调配
+- **阿尔萨克特级园**（Alsace Grand Cru）：51个特级园（4%）
+- **晚收甜酒VT**（Vendanges Tardives）
+- **贵腐粒选SGN**（Sélection de Grains Nobles）
+
+### "贵族品种"（Noble Varieties）
+仅这4种可进入特级园：
+- 雷司令（Riesling）
+- 琼瑶浆（Gewürztraminer）
+- 灰皮诺（Pinot Gris）
+- 麝香（Muscat）
+
+## 主要品种
+
+| 品种 | 占比 | 风格 |
+|------|------|------|
+| 雷司令 | 21% | 干型为主，矿物酸度高 |
+| 琼瑶浆 | 18% | 荔枝玫瑰花香，酒体丰满 |
+| 灰皮诺 | 15% | 圆润丰腴，香辛味 |
+| 白皮诺 | 21% | 中性，清新 |
+| 西尔瓦纳 | - | 早熟芳香 |
+| 黑皮诺 | 9% | 唯一红品种 |
+
+## 代表酒庄
+- 婷芭克世家（Trimbach）- Clos Sainte Hune
+- 雨果酒庄（Hugel）
+- 温巴赫酒庄（Weinbach）
+- 兹恩-洪布尔格（Zind-Humbrecht）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/CIVA
 - 数据置信度：official

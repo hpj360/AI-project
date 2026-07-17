@@ -7,8 +7,6 @@ tags: [烈酒, 亚力酒, 中东, 茴香, 蒸馏酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wiki-spirit-absinthe, ENT-wiki-spirit-soju, ENT-wiki-spirit-baijiu-intro, ENT-wiki-spirit-grappa, ENT-wiki-spirit-eau-de-vie]
-related_typed: {ENT-wiki-spirit-absinthe: same_subcat, ENT-wiki-spirit-soju: same_subcat, ENT-wiki-spirit-baijiu-intro: same_subcat, ENT-wiki-spirit-grappa: same_subcat, ENT-wiki-spirit-eau-de-vie: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1
@@ -22,26 +20,44 @@ version: 1
 
 亚力酒是中东地区传统蒸馏酒，以茴香调味，清澈透明，加水后呈乳白色。
 
-## 图片参考
+## 概述
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Arak%20other_spirit%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Arak%20other_spirit)
-- [Google 图片](https://www.google.com/search?q=Arak%20other_spirit%20bottle&tbm=isch)
+亚力酒（Arak，عرق）是中东地区（特别是黎凡特地区）传统的清澈蒸馏酒，以茴香（anise）为主要调味料。饮用时加水稀释后会呈现乳白色（ouzo效应），是黎巴嫩、叙利亚、约旦、伊拉克等地的国饮。
 
-## 基础信息
+## 历史背景
 
-- **中文名**：亚力酒
-- **外文名**：Arak
-- **分类**：其他烈酒
-- **产地**：中东（黎巴嫩/叙利亚/约旦/伊拉克）
+- **起源**：确切起源有争议，普遍认为起源于12-13世纪的中东
+- **传播**：通过贸易路线传入地中海地区，影响了希腊ouzo、土耳其raki、法国pastis的开发
+- **现代**：黎巴嫩是当今亚力酒最知名的生产国
 
-## 合规信息
+## 酿造工艺
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 原料
+- **基酒**：葡萄汁或葡萄醪（有时用无花果、枣、李子）
+- **调味**：茴香籽（aniseed）
+- **辅助**：茴芹、小豆蔻等香料
+
+### 工艺
+1. 葡萄汁发酵成葡萄酒
+2. 三次蒸馏（最后一次加入茴香籽）
+3. 蒸馏后熟成陶罐中
+4. 通常陈放至少一年
+
+## 风味特征
+
+- **颜色**：清澈透明，加水后变乳白
+- **香气**：茴香主导，带葡萄果香
+- **口感**：茴香味浓，烈而柔顺
+- **余味**：茴香回甘悠长
+
+## 饮用方式
+
+- 传统杯中加冰，再加水（1:2比例）
+- 配中东开胃菜（meze）
+- 常搭配烤肉、橄榄、奶酪
+- 在社交场合缓慢品饮
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wikipedia
 - 数据置信度：verified

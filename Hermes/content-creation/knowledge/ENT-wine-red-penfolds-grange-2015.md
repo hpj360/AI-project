@@ -7,8 +7,6 @@ tags: [红酒, 澳洲, 设拉子, 南澳]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-penfolds-bin-707-2016, ENT-wine-white-penfolds-yattarna-2016, ENT-wine-red-wolf-blass-black-label-2014, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
-related_typed: {ENT-wine-red-penfolds-bin-707-2016: same_brand, ENT-wine-white-penfolds-yattarna-2016: same_brand, ENT-wine-red-wolf-blass-black-label-2014: same_region, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: simulated
 version: 1
 ---

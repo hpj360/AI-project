@@ -7,8 +7,6 @@ tags: [侍酒, 品鉴会, flight, 组织, SOP]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
 version: 1
@@ -22,26 +20,154 @@ version: 1
 
 品鉴会组织全流程：从酒款选择、酒杯准备到品鉴顺序与服务规范。
 
-## 图片参考
+## 品鉴会组织规范
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Tasting%20Event%20Organization%20SOP%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Tasting%20Event%20Organization%20SOP%20pairing)
-- [Google 图片](https://www.google.com/search?q=Wine%20Tasting%20Event%20Organization%20SOP%20pairing%20bottle&tbm=isch)
+### 品鉴会类型
 
-## 基础信息
+| 类型 | 特征 | 参与人数 |
+|------|------|----------|
+| 横向品鉴 | 同年份、同产区、不同酒庄 | 6-12 人 |
+| 纵向品鉴 | 同酒庄、不同年份 | 6-10 人 |
+| 主题品鉴 | 同品种、不同产区 | 8-15 人 |
+| 盲品 | 不知酒款信息 | 6-12 人 |
+| 大师班 | 专家讲解 | 20-50 人 |
 
-- **中文名**：品鉴会组织规范
-- **外文名**：Tasting Event Organization
-- **分类**：餐酒搭配
-- **产地**：
+### 品鉴会准备
 
-## 合规信息
+#### 1. 主题设定
+- 确定品鉴主题（产区/品种/年份）
+- 选择 5-8 款酒（不超过 10 款）
+- 准备背景资料
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 2. 酒款采购
+
+| 酒款类型 | 份量 |
+|----------|------|
+| 标准品鉴 | 每款 50-75ml/人 |
+| 深度品鉴 | 每款 75-100ml/人 |
+| 一瓶酒可服务 | 8-12 人 |
+
+#### 3. 场地准备
+- 良好自然光或白炽灯
+- 无异味环境
+- 充足桌面空间
+- 吐酒桶（专业品鉴）
+
+#### 4. 酒杯准备
+- 每人每款一杯（理想）
+- 或每人 2 杯轮换
+- ISO 标准杯
+- 提前清洁擦拭
+
+### 品鉴会服务流程
+
+#### 1. 酒款准备
+
+| 步骤 | 操作 |
+|------|------|
+| 1 | 提前调整温度 |
+| 2 | 老酒提前换瓶去渣 |
+| 3 | 准备酒款资料卡 |
+| 4 | 标注编号（1, 2, 3...） |
+
+#### 2. 倒酒
+
+- 每款标准 50ml
+- 按顺序逐一倒入
+- 酒杯旁放置编号卡
+
+#### 3. 品鉴顺序
+
+**核心原则**
+- 从轻到重
+- 从干到甜
+- 从年轻到老
+- 从便宜到贵
+
+**标准顺序**
+1. 起泡酒
+2. 干白（轻 → 重）
+3. 桃红
+4. 红酒（轻 → 重）
+5. 甜酒
+6. 加强酒
+
+### 品鉴流程
+
+#### 1. 视觉
+- 观察颜色深浅
+- 观察澄清度
+- 观察挂杯
+
+#### 2. 嗅觉
+- 第一闻：轻摇前
+- 第二闻：摇杯后
+- 识别香气类型
+
+#### 3. 味觉
+- 入口：甜度、酸度
+- 中段：酒体、单宁
+- 余味：长度、复杂度
+
+#### 4. 评价
+- 整体质量
+- 适饮窗口
+- 性价比
+
+### 盲品规范
+
+#### 盲品准备
+- 用锡纸包裹酒瓶
+- 或使用黑色酒杯
+- 不提供任何酒款信息
+
+#### 盲品流程
+1. 品鉴者观察、闻、尝
+2. 推测品种、产区、年份
+3. 记录推测与依据
+4. 公布答案
+5. 讨论
+
+### 品鉴会服务要点
+
+#### 主持人
+- 专业葡萄酒知识
+- 引导品鉴流程
+- 介绍酒款背景
+- 解答问题
+
+#### 服务人员
+- 标准倒酒份量
+- 及时更换酒杯
+- 提供水和面包
+- 准备吐酒桶
+
+#### 配套食物
+- 白面包（清口）
+- 矿泉水
+- 部分奶酪（按需）
+- 避免重味食物
+
+### 品鉴会禁忌
+
+- 喷浓烈香水（干扰品鉴）
+- 吸烟（影响味觉）
+- 严重感冒参加
+- 强行饮酒（建议吐酒）
+
+### 品鉴记录卡
+
+| 项目 | 内容 |
+|------|------|
+| 酒款编号 | 1, 2, 3... |
+| 视觉 | 颜色、澄清度 |
+| 嗅觉 | 香气类型、强度 |
+| 味觉 | 甜酸苦咸、酒体 |
+| 余味 | 长度、复杂度 |
+| 整体评价 | 评分（1-20 或 1-100） |
+| 推测 | 品种、产区、年份（盲品） |
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Court of Master Sommeliers
 - 数据置信度：official

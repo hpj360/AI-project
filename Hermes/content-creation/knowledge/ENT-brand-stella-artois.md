@@ -7,8 +7,6 @@ tags: [啤酒, 比利时, 拉格, 皮尔森]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser]
-related_typed: {ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat, ENT-beer-snow: same_subcat, ENT-beer-budweiser: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

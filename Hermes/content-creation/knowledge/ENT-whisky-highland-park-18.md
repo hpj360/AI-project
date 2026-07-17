@@ -7,8 +7,6 @@ tags: [威士忌, 苏格兰, 单一麦芽, 岛屿区]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-highland-park-12, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony]
-related_typed: {ENT-whisky-highland-park-12: same_brand, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat}
 data_confidence: simulated
 version: 1
 ---

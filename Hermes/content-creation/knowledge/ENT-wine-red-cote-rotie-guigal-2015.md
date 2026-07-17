@@ -7,8 +7,6 @@ tags: [红酒, 罗讷河谷, 北罗讷, 西拉]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine-red-gerin-cote-rotie-2015, ENT-baike-wine-longhui-putaojiu, ENT-brand-margaux, ENT-brand-mouton-rothschild]
-related_typed: {ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_brand, ENT-wine-red-gerin-cote-rotie-2015: same_region, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-margaux: same_subcat, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [法律法规, 白酒, 国标, GB/T, 中国]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: 国家标准全文公开系统
 version: 1
@@ -22,26 +20,36 @@ version: 1
 
 中国白酒的国家标准体系，涵盖浓香型、清香型、酱香型等各香型的技术要求。
 
-## 图片参考
+## 标准体系
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=China%20Baijiu%20GB/T%20Standards%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/China%20Baijiu%20GB/T%20Standards%20law)
-- [Google 图片](https://www.google.com/search?q=China%20Baijiu%20GB/T%20Standards%20law%20bottle&tbm=isch)
+### 主要标准
 
-## 基础信息
+| 标准编号 | 标准名称 | 适用范围 |
+|----------|----------|----------|
+| GB/T 10781.1 | 浓香型白酒 | 以粮谷为原料，经固态发酵 |
+| GB/T 10781.2 | 清香型白酒 | 以粮谷为原料，经固态发酵 |
+| GB/T 10781.3 | 米香型白酒 | 以大米为原料，经半固态发酵 |
+| GB/T 26760 | 酱香型白酒 | 以高粱为原料，经固态发酵 |
+| GB/T 20823 | 特香型白酒 | 以大米为原料，特香型工艺 |
+| GB/T 20824 | 芝麻香型白酒 | 以高粱为原料，芝麻香型工艺 |
+| GB/T 20825 | 老白干香型白酒 | 以高粱为原料，老白干工艺 |
+| GB/T 23547 | 浓酱兼香型白酒 | 兼具浓香和酱香特征 |
+| GB/T 26761 | 小曲固态法白酒 | 以小曲为糖化发酵剂 |
 
-- **中文名**：中国白酒GB/T标准
-- **外文名**：China Baijiu GB/T Standards
-- **分类**：法律法规
-- **产地**：
+### 技术要求
 
-## 合规信息
+- **酒精度**：各香型最低酒精度要求不同（通常≥40%vol，低度酒可至18%vol）
+- **总酸总酯**：各香型有明确的理化指标区间
+- **固形物**：固态法白酒≤0.8g/L
+- **食品安全**：需符合GB 2757《蒸馏酒及其配制酒》标准
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 标签要求
+
+- 必须标注：酒精度、净含量、生产日期、配料表、生产商信息
+- 香型标注需与实际工艺一致
+- 年份酒标注需有据可查
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：国家标准全文公开系统
 - 数据置信度：official

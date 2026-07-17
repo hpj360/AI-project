@@ -7,8 +7,6 @@ tags: [梅酒, umeshu, 果酒, 日本, 万岁乐, 加贺]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-fruit-wine-suntory-umeshu, ENT-fruit-wine-umenoyado-umeshu, ENT-fruit-wine-nakatani-umeshu, ENT-fruit-wine-tsurume-umeshu, ENT-fruit-wine-chiyomusubi-umeshu]
-related_typed: {ENT-fruit-wine-suntory-umeshu: cross_region, ENT-fruit-wine-umenoyado-umeshu: cross_region, ENT-fruit-wine-nakatani-umeshu: cross_region, ENT-fruit-wine-tsurume-umeshu: cross_region, ENT-fruit-wine-chiyomusubi-umeshu: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

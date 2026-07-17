@@ -7,8 +7,6 @@ tags: [法律法规, 欧盟, 葡萄酒, CMO, AOP, IGP, Regulation 1308/2013]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: Regulation (EU) No 1308/2013 (Common Market Organisation)
 version: 1
@@ -22,26 +20,65 @@ version: 1
 
 欧盟CMO法规1308/2013建立葡萄酒共同市场组织，规定AOP/IGP分级、葡萄品种、产量与标签规范。
 
-## 图片参考
+## 法规背景
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=EU%20Wine%20Regulation%20CMO%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/EU%20Wine%20Regulation%20CMO%20law)
-- [Google 图片](https://www.google.com/search?q=EU%20Wine%20Regulation%20CMO%20law%20bottle&tbm=isch)
+**Regulation (EU) No 1308/2013** 是欧盟共同市场组织（CMO）核心法规，涵盖葡萄酒市场的所有方面：生产、标签、贸易、补贴。
 
-## 基础信息
+### 葡萄酒分级体系
 
-- **中文名**：欧盟葡萄酒共同市场组织法规
-- **外文名**：EU CMO Regulation 1308/2013 for Wine
-- **分类**：法律法规
-- **产地**：
+| 旧称 | 新称 | 中文 | 要求 |
+|------|------|------|------|
+| AOC (法国) / DOC (意) | PDO (Protected Designation of Origin) | 原产地保护 | 最严格 |
+| VDQS / IGP | PGI (Protected Geographical Indication) | 地理标志保护 | 较宽松 |
+| VdT / VdT | Varietal Wine / Table Wine | 品种酒/餐酒 | 最宽松 |
 
-## 合规信息
+#### PDO要求
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+- 全部葡萄来自指定产区
+- 葡萄品种限产区名录
+- 种植密度、产量限上限
+- 酿造工艺须符合传统方法
+- 须通过感官与化学分析
+
+#### PGI要求
+
+- 至少85%葡萄来自指定产区
+- 品种可较灵活
+- 工艺要求相对宽松
+
+### 标签强制信息
+
+#### 必标项
+
+- 产品类别（Wine / Sparkling / Liqueur等）
+- 原产地（成员国或更细产区）
+- 酒精度（% vol）
+- 净含量
+- 装瓶商信息
+- 含亚硫酸盐声明（≥10mg/L）
+- 过敏原声明
+- 营养声明（2023年新规要求）
+
+#### 可选信息
+
+- 葡萄品种（限名录）
+- 年份（≥85%）
+- 传统术语（如Réserve、Cru）
+
+### 重要补充法规
+
+- **Delegated Regulation 2019/934**：酿酒工艺详细规定
+- **Implementing Regulation 2019/935**：分析方法
+- **Delegated Regulation 2018/273**：种植授权与登记
+- **Regulation 2019/787**：葡萄酒中葡萄品种授权
+
+### 产量与补贴
+
+- 欧盟每年公布葡萄酒产量配额
+- 危机蒸馏补贴机制（Crisis distillation）
+- 第三国出口推广补贴
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Regulation (EU) No 1308/2013 (Common Market Organisation)
 - 数据置信度：official

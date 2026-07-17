@@ -7,8 +7,6 @@ tags: [清酒, 日本, 纯米大吟醸, 久保田]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-sake-kubota-senju, ENT-sake-kubota-manju, ENT-sake-kubota-suiju, ENT-sake-kubota-hachiban, ENT-sake-kubota-kuradashi-genshu]
-related_typed: {ENT-sake-kubota-senju: same_brand, ENT-sake-kubota-manju: same_brand, ENT-sake-kubota-suiju: same_brand, ENT-sake-kubota-hachiban: same_region, ENT-sake-kubota-kuradashi-genshu: same_region}
 data_confidence: simulated
 version: 1
 ---

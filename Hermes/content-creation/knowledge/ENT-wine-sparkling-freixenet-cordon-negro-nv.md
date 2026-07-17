@@ -7,8 +7,6 @@ tags: [起泡酒, 卡瓦, Freixenet, 无年份]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine_sparkling-off-070-freixenet-prosecco, ENT-wine-sparkling-codorniu-gran-reserva-nv, ENT-wine-sparkling-raventos-i-blanc-manuel-nv, ENT-wine-sparkling-recaredo-turo-den-mota-2010, ENT-wine-sparkling-juve-y-camps-reserva-2017]
-related_typed: {ENT-wine_sparkling-off-070-freixenet-prosecco: same_brand, ENT-wine-sparkling-codorniu-gran-reserva-nv: same_region, ENT-wine-sparkling-raventos-i-blanc-manuel-nv: same_region, ENT-wine-sparkling-recaredo-turo-den-mota-2010: same_region, ENT-wine-sparkling-juve-y-camps-reserva-2017: same_region}
 data_confidence: simulated
 version: 1
 ---

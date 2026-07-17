@@ -7,8 +7,6 @@ tags: [产区风土, 法国, 香槟, 起泡酒, 传统法]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-rhone, REGION-france-loire, REGION-france-alsace]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat, REGION-france-alsace: same_subcat}
 data_confidence: official
 data_source: WSET/CIVC
 version: 1
@@ -22,26 +20,54 @@ version: 1
 
 世界最著名的起泡酒产区，白垩土壤与传统法酿造造就独一无二的香槟。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Champagne%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Champagne%20region)
-- [Google 图片](https://www.google.com/search?q=Champagne%20region%20bottle&tbm=isch)
+### 位置
+- 法国最北的葡萄产区，距巴黎约150公里
+- 五大子产区：兰斯山、马恩河谷、白丘、奥布、塞扎纳丘
 
-## 基础信息
+### 气候
+- 凉爽的大陆性气候，处于葡萄种植北界
+- 年均温10.8℃，极端冬季霜冻风险
+- 降雨适中，成熟期长，保留高酸
 
-- **中文名**：香槟
-- **外文名**：Champagne
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 白垩岩（Chalk）为主，形成于中生代
+- 含箭石和海胆化石
+- 排水极佳，保水同时反射光照
+- 为葡萄提供矿物感和天然高酸
 
-## 合规信息
+## 法定等级
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 葡萄村等级（Échelle des Crus）
+- **特级村 Grand Cru**：17个村，100%评分
+- **一级村 Premier Cru**：44个村，90-99%评分
+- 其他村庄：80-89%
+
+## 主要葡萄品种
+
+| 品种 | 占比 | 特点 |
+|------|------|------|
+| 霞多丽 | 30% | 白丘主栽，骨架酸度 |
+| 黑皮诺 | 38% | 兰斯山主栽，结构果味 |
+| 莫尼耶 | 32% | 马恩河谷，芳香柔和 |
+
+## 香槟风格
+
+- **无年份NV**：基酒调配，风格稳定
+- **年份香槟**：优秀年份单独酿造
+- **白中白**：100%霞多丽
+- **黑中白**：100%红葡萄品种
+- **桃红**：调配法或放血法
+
+## 代表酒庄
+- 唐·培里侬（Dom Pérignon）
+- 库克（Krug）
+- 沙龙（Salon）
+- 水晶路易王妃（Louis Roederer Cristal）
+- 堡林爵（Bollinger）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/CIVC
 - 数据置信度：official

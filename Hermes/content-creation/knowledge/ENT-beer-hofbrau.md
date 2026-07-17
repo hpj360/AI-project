@@ -7,8 +7,6 @@ tags: [啤酒, 德国, HB, 皇家啤酒, 慕尼黑清啤]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-paulaner, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe]
-related_typed: {ENT-beer-paulaner: same_region, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat}
 data_confidence: simulated
 version: 1
 ---

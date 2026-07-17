@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, whisky, 威士忌, Glenllivet]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-245-monkey-shoulder, ENT-whisky-off-266-clan-campbell, ENT-whisky-off-267-blended-scotch-whisky, ENT-whisky-off-270-red-label]
-related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_region, ENT-whisky-off-245-monkey-shoulder: same_region, ENT-whisky-off-266-clan-campbell: same_region, ENT-whisky-off-267-blended-scotch-whisky: same_region, ENT-whisky-off-270-red-label: same_region}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

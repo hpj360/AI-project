@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, rum, 朗姆酒, BUMBU]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-165-rhum-ambr]
-related_typed: {ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

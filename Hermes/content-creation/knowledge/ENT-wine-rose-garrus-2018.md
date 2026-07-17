@@ -7,8 +7,6 @@ tags: [桃红, 普罗旺斯, Grenache, 橡木桶]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-rose-whispering-angel-2024, ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-domaines-ott-clos-mireille-2019, ENT-wine-rose-domaine-tempier-bandol-2025, ENT-wine-rose-miraval-2020]
-related_typed: {ENT-wine-rose-whispering-angel-2024: same_brand, ENT-wine-rose-whispering-angel-2020: same_brand, ENT-wine-rose-domaines-ott-clos-mireille-2019: same_region, ENT-wine-rose-domaine-tempier-bandol-2025: cross_region, ENT-wine-rose-miraval-2020: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Margarita, 摇�
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-don-julio-blanco, ENT-cocktail-jasmine-tea-cocktail, ENT-cocktail-yuzu-margarita]
-related_typed: {ENT-brand-jose-cuervo-especial: base_to_cocktail, ENT-brand-patron-silver: base_to_cocktail, ENT-brand-don-julio-blanco: base_to_cocktail, ENT-cocktail-jasmine-tea-cocktail: same_subcat, ENT-cocktail-yuzu-margarita: same_subcat}
 data_confidence: official
 data_source: IBA Official
 version: 1

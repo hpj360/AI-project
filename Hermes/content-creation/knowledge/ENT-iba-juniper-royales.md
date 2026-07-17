@@ -7,8 +7,6 @@ tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, Juniper Royales, 摇和]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-daiquiri, ENT-cocktail-sazerac, ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady]
-related_typed: {ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sazerac: same_subcat, ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat}
 data_confidence: official
 data_source: IBA Official
 version: 1

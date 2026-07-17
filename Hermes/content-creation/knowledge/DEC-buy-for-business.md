@@ -7,8 +7,6 @@ tags: [购买, 商务宴请, 礼品, 面子酒, 宴请]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-100, DEC-buy-by-budget-300, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium]
-related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-300: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,51 @@ version: 1
 
 商务宴请选酒策略：兼顾品牌认知度、品质稳定与预算合理。
 
-## 图片参考
+## 商务宴请选酒策略
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Buying%20for%20Business%20Banquets%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Buying%20for%20Business%20Banquets%20buying)
-- [Google 图片](https://www.google.com/search?q=Wine%20Buying%20for%20Business%20Banquets%20buying%20bottle&tbm=isch)
+### 选购原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 品牌认知度 | 客户知道、听说过 |
+| 品质稳定 | 大年份、知名酒庄 |
+| 红白搭配 | 红白比例约 7:3 |
+| 预算合理 | 按人头 1 瓶估算 |
 
-- **中文名**：商务宴请选酒
-- **外文名**：Business Banquet Wine Selection
-- **分类**：购买指南
-- **产地**：
+### 按预算推荐
 
-## 合规信息
+#### 500-1000元/瓶
+- 波尔多列级庄副牌（Lafite 副牌、Mouton 副牌）
+- 勃艮第村庄级或一级园
+- 新世界精品：Penfolds Bin 407、Jordan
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 1000-3000元/瓶
+- 波尔多二级庄（Léoville、Pichon）
+- 勃艮第一级园（Gevrey-Chambertin）
+- 知名香槟：Vintage、Salon
+
+#### 3000元以上/瓶
+- 波尔多一级庄正牌
+- 勃艮第特级园
+- 知名意大利超级托斯卡纳
+
+### 按场景推荐
+
+| 场景 | 推荐酒款 |
+|------|----------|
+| 接待外宾 | 香槟开场、波尔多主菜 |
+| 中式宴请 | 波尔多、勃艮第（搭配中菜） |
+| 签约庆功 | 香槟、年份香槟 |
+| 节日送礼 | 知名牌子+礼盒 |
+
+### 注意事项
+
+- 避开过于小众的酒庄
+- 红白起泡比例合理
+- 注意酒精度与餐酒搭配
+- 提前醒酒，备好侍酒工具
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

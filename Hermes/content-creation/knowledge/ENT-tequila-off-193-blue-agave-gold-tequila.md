@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, tequila, 龙舌兰, Jose Cuervo]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-tequila-off-195-jose-cuervo-tequila-especial, ENT-tequila-jose-cuervo-especial-gold, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold]
-related_typed: {ENT-tequila-off-195-jose-cuervo-tequila-especial: same_brand, ENT-tequila-jose-cuervo-especial-gold: same_brand, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

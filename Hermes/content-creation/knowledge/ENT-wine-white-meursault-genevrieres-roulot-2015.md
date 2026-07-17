@@ -7,8 +7,6 @@ tags: [白酒, 勃艮第, 一级园, 霞多丽]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-meursault-roulot, ENT-wine-white-meursault-charmes-roulot-2016, ENT-wine-white-meursault-perrieres-coche-dury-2015, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
-related_typed: {ENT-wine-real-meursault-roulot: same_brand, ENT-wine-white-meursault-charmes-roulot-2016: same_brand, ENT-wine-white-meursault-perrieres-coche-dury-2015: same_region, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: same_subcat}
 data_confidence: simulated
 version: 1
 ---

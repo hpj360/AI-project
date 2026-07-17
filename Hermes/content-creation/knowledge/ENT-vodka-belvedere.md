@@ -7,8 +7,6 @@ tags: [伏特加, vodka, 波兰, Belvedere, 黑麦, 传统]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
-related_typed: {ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat, ENT-vodka-off-142-poliakov: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

@@ -7,8 +7,6 @@ tags: [桃红, rosé, 法国, 普罗旺斯, Côtes de Provence]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-rose-whispering-angel-2020, ENT-wine-rose-garrus-2018, ENT-wine-rose-miraval-2020, ENT-wine-rose-minuty-m-2025, ENT-wine-rose-domaine-tempier-bandol-2025]
-related_typed: {ENT-wine-rose-whispering-angel-2020: same_brand, ENT-wine-rose-garrus-2018: same_brand, ENT-wine-rose-miraval-2020: same_region, ENT-wine-rose-minuty-m-2025: same_region, ENT-wine-rose-domaine-tempier-bandol-2025: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / VinePair
 version: 1

@@ -7,8 +7,6 @@ tags: [酿造工艺, 蒸馏, 连续蒸馏, 谷物威士忌, 伏特加]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [PROC-fermentation-basics, PROC-fermentation-wild-vs-commercial, PROC-distillation-pot-still, PROC-aging-oak-types, PROC-aging-oxidation]
-related_typed: {PROC-fermentation-basics: same_subcat, PROC-fermentation-wild-vs-commercial: same_subcat, PROC-distillation-pot-still: same_subcat, PROC-aging-oak-types: same_subcat, PROC-aging-oxidation: same_subcat}
 data_confidence: official
 data_source: WSET/IBC
 version: 1
@@ -22,26 +20,118 @@ version: 1
 
 连续蒸馏器（Coffey Still）实现高效、稳定、高纯度烈酒生产，是谷物威士忌与伏特加的基础。
 
-## 图片参考
+## 连续蒸馏器结构
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Column%20Still%20Distillation%20process%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Column%20Still%20Distillation%20process)
-- [Google 图片](https://www.google.com/search?q=Column%20Still%20Distillation%20process%20bottle&tbm=isch)
+### 类型
+1. **Coffey Still**（科菲蒸馏器）：经典双柱式
+2. **Column Still**（多柱式）：现代工业主流
+3. **Carterhead Still**：金酒专用
 
-## 基础信息
+### Coffey Still结构
+- **分析柱 Analyzer**：蒸汽上升
+- **精馏柱 Rectifier**：酒液预热
+- 两柱通过管道连接
+- 连续进料、连续出酒
 
-- **中文名**：连续蒸馏原理
-- **外文名**：Column Still Distillation
-- **分类**：酿造工艺
-- **产地**：
+### 多柱式现代蒸馏
+- 通常3-5柱
+- 分析柱、精馏柱、初馏柱、提纯柱等
+- 可达96% ABV纯酒精
 
-## 合规信息
+## 工作原理
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 分析柱（Analyzer）
+1. 发酵醪液（wash）从顶部进入
+2. 蒸汽从底部上升
+3. 逆流接触
+4. 酒精汽化上升
+5. 废液从底部排出
+
+### 精馏柱（Rectifier）
+1. 酒精蒸汽进入
+2. 与进入的冷醪液管路接触
+3. 冷凝提高浓度
+4. 顶部收集高纯度酒精
+5. 醪液被预热进入分析柱
+
+### 连续过程
+- 进料不停
+- 出酒不停
+- 24/7运行
+- 自动化控制
+
+## 优势
+
+### 效率
+- **连续生产**：无批次间隔
+- **能耗低**：热能回收
+- **产能大**：单台日产数千升
+- **自动化**：人工需求少
+
+### 质量
+- **纯度高**：可达96% ABV
+- **稳定一致**：风格均匀
+- **杂味少**：分离彻底
+- **可调**：调节柱操作参数
+
+### 经济性
+- 单位成本低
+- 适合大规模生产
+- 投资回报快
+
+## 劣势
+
+### 风味
+- **风味单一**：近乎中性酒精
+- **个性弱**：缺乏原料特征
+- **复杂度低**
+- 需后续调配增味
+
+### 灵活性
+- 难以快速切换产品
+- 清洗停产成本高
+- 不适合小批量
+
+## 应用领域
+
+### 谷物威士忌
+- 苏格兰调和威士忌基酒
+- 玉米、小麦、黑麦为原料
+- 约94-95% ABV蒸馏
+- 后稀释陈年
+
+### 伏特加
+- 几乎纯中性酒精
+- 多柱蒸馏至96% ABV
+- 过滤纯化
+- 加水稀释装瓶
+
+### 金酒
+- 中性酒精为基
+- Carterhead Still浸提植物
+- 或复合蒸馏法
+
+### 朗姆酒、龙舌兰
+- 工业化大量朗姆
+- 某些blanco龙舌兰
+
+### 中性酒精
+- 工业酒精原料
+- 医用、燃料
+
+## 与壶式蒸馏对比
+
+| 维度 | 壶式 | 连续 |
+|------|------|------|
+| 工艺 | 批次 | 连续 |
+| 纯度 | 60-70% | 96% |
+| 风味 | 丰富 | 单一 |
+| 产能 | 小 | 大 |
+| 成本 | 高 | 低 |
+| 适用 | 麦芽威士忌、干邑 | 谷物威士忌、伏特加 |
+| 个性 | 强 | 弱 |
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/IBC
 - 数据置信度：official

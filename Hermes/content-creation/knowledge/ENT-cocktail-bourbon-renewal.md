@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 波本, 黑加仑力乔, 柠檬, Jeffrey Morgent
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-spirits_intl-chivas-18, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
-related_typed: {ENT-baike-spirits_intl-chivas-18: base_to_cocktail, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: verified
 data_source: Tales of the Cocktail Spirited Awards / Contemporary Classics
 version: 1

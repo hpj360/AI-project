@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 安格仕苦精, 酸酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-red-hook, ENT-cocktail-old-cuban, ENT-cocktail-paper-plane, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler]
-related_typed: {ENT-cocktail-red-hook: same_brand, ENT-cocktail-old-cuban: same_brand, ENT-cocktail-paper-plane: same_brand, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region}
 data_confidence: simulated
 data_source: Milk & Honey 配方
 version: 1

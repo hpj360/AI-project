@@ -7,8 +7,6 @@ tags: [产区风土, 西班牙, 杜罗河岸, 丹魄, 维奇亚]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official
 data_source: WSET/Consejo Regulador DO Ribera del Duero
 version: 1
@@ -22,26 +20,64 @@ version: 1
 
 西班牙顶级红葡萄酒产区，与里奥哈并称双雄，以强劲的丹魄（Tinto Fino）闻名。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Ribera%20del%20Duero%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Ribera%20del%20Duero%20region)
-- [Google 图片](https://www.google.com/search?q=Ribera%20del%20Duero%20region%20bottle&tbm=isch)
+### 位置
+- 西班牙中部卡斯蒂利亚-莱昂大区
+- 沿杜罗河两岸，长约115公里、宽35公里
+- 海拔750-950米的高原
 
-## 基础信息
+### 气候
+- 极端大陆性气候
+- 夏季白天35°C+，夜晚可降至10°C
+- 昼夜温差达20°C以上，酸度与香气保留
+- 冬季严寒，春季霜冻风险大
+- 年降雨450mm，干旱压力
 
-- **中文名**：杜罗河岸
-- **外文名**：Ribera del Duero
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 多样：沙土、黏土、石灰岩、砾石
+- 不同地块差异大
+- 高海拔沙质土壤有抗根瘤蚜老藤
 
-## 合规信息
+## 等级与陈年体系
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 陈年等级
+
+| 等级 | 橶木桶 | 瓶陈 | 总陈年 |
+|------|--------|------|--------|
+| Joven Roble | 3-12个月 | - | 12个月内 |
+| Crianza | 12个月 | 12个月 | 24个月 |
+| Reserva | 12个月 | 24个月 | 36个月 |
+| Gran Reserva | 24个月 | 36个月 | 60个月 |
+
+## 主要品种
+
+### 红品种
+- **Tinto Fino / Tinta del País**（丹魄当地克隆）≥75%
+  - 与里奥哈丹魄同种，但克隆差异
+  - 葡萄串更松散，皮更厚
+  - 酒体更深，单宁更强
+- **赤霞珠、美乐、马尔贝克**：辅助（≤25%）
+- **阿比略 Albillo**：白品种，少量调配
+
+### 与里奥哈对比
+
+| 项目 | 里奥哈 | 杜罗河岸 |
+|------|--------|----------|
+| 气候 | 大西洋影响 | 极端大陆性 |
+| 海拔 | 中等 | 高（750-950m） |
+| 风格 | 优雅细腻，橡木主导 | 强劲浓郁，果味主导 |
+| 单宁 | 中等柔和 | 强劲高单宁 |
+| 酒精度 | 13-13.5% | 14%+ |
+
+## 代表酒庄
+- **维加·西西利亚（Vega Sicilia）**- 西班牙酒王，Único
+- **平古斯（Pingus）**- Peter Sisseck，超顶级
+- **帕果斯·卡蕾斯（Pago de Carraovejas）**
+- **阿雷杭德罗·费尔南德斯（Tinto Pesquera）**- 现代派先驱
+- **埃米利奥·莫罗（Emilio Moro）**
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/Consejo Regulador DO Ribera del Duero
 - 数据置信度：official

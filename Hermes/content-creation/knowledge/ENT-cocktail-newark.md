@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 苹果白兰地, Fernet-Branca, 味美思]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-mezcal-final-word, ENT-cocktail-coconut-miso-sour, ENT-cocktail-amazake-highball, ENT-cocktail-sea-breeze, ENT-baike-spirits_intl-martell-cordon-bleu]
-related_typed: {ENT-cocktail-mezcal-final-word: same_brand, ENT-cocktail-coconut-miso-sour: same_brand, ENT-cocktail-amazake-highball: same_brand, ENT-cocktail-sea-breeze: same_region, ENT-baike-spirits_intl-martell-cordon-bleu: base_to_cocktail}
 data_confidence: verified
 data_source: Tales of the Cocktail Spirited Awards / Contemporary Classics
 version: 1

@@ -7,8 +7,6 @@ tags: [陈年潜力, 波特, 加强酒, 葡萄牙]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-aging-red-bordeaux, DEC-aging-red-burgundy, DEC-aging-white-burgundy, DEC-aging-barolo, DEC-aging-champagne]
-related_typed: {DEC-aging-red-bordeaux: same_subcat, DEC-aging-red-burgundy: same_subcat, DEC-aging-white-burgundy: same_subcat, DEC-aging-barolo: same_subcat, DEC-aging-champagne: same_subcat}
 data_confidence: official
 data_source: WSET/IVDP
 version: 1
@@ -22,26 +20,166 @@ version: 1
 
 波特酒具有极强陈年潜力，年份波特可陈50-100年+，Tawny在橡木桶中缓慢氧化陈年。
 
-## 图片参考
+## 陈年潜力要素
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Port%20Wine%20Aging%20aging%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Port%20Wine%20Aging%20aging)
-- [Google 图片](https://www.google.com/search?q=Port%20Wine%20Aging%20aging%20bottle&tbm=isch)
+### 1. 高酒精度
+- 加强至19-22%
+- 酒精防腐
+- 高糖分也防腐
 
-## 基础信息
+### 2. 高糖分
+- 残糖约100g/L
+- 糖分防腐
+- 平衡高酒精
 
-- **中文名**：波特陈年
-- **外文名**：Port Wine Aging
-- **分类**：陈年潜力
-- **产地**：
+### 3. 高单宁（年份波特）
+- 国家杜丽佳 Touriga Nacional
+- 皮厚单宁丰富
+- 陈年缓慢聚合
 
-## 合规信息
+### 4. 高酸度
+- 杜罗河谷大陆性气候
+- 葡萄天然高酸
+- 平衡甜与酒精
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+## 类型与陈年潜力
+
+| 类型 | 陈年方式 | 陈年潜力 | 适饮窗口 |
+|------|----------|----------|----------|
+| Vintage Port | 瓶内陈年 | 50-100年+ | 20-50年 |
+| Crusted Port | 瓶内陈年 | 30-50年 | 10-30年 |
+| Late Bottled Vintage | 木桶+瓶 | 10-20年 | 即饮-20年 |
+| Single Quinta Vintage | 瓶内陈年 | 30-50年 | 15-40年 |
+| Aged Tawny (10/20/30/40年) | 木桶陈年 | 装瓶后20-30年 | 即饮-20年 |
+| Colheita | 木桶陈年 | 装瓶后10-20年 | 即饮-10年 |
+| Ruby | 不强调陈年 | 5-10年 | 即饮-5年 |
+| White Port | 不强调陈年 | 5-15年 | 即饮-5年 |
+
+## 年份波特 Vintage Port
+
+### 特点
+- 仅卓越年份生产（约3年/10年）
+- 单一年份
+- 顶级葡萄园葡萄
+- 木桶陈年2年
+- 装瓶后瓶内陈年
+
+### 装瓶后陈年
+- **瓶内缓慢还原陈年**
+- 软木塞微透气
+- 30-50年才达巅峰
+- 部分顶级年份可达100年+
+
+### 陈年风味演变
+
+#### 年轻（10年内）
+- 深宝石红、紫红边缘
+- 黑莓、黑加仑
+- 黑巧克力
+- 香料、胡椒
+- 高单宁
+
+#### 中年（10-30年）
+- 石榴红、砖红边缘
+- 干果（葡萄干、无花果）
+- 巧克力
+- 香料（肉桂、肉豆蔻）
+- 单宁柔化
+
+#### 成熟（30-50年）
+- 砖红、棕色边缘
+- 干花
+- 焦糖、太妃糖
+- 咖啡、可可
+- 皮革
+- 优雅复杂
+
+#### 老年（50年+）
+- 棕色
+- 糖渍水果
+- 烟草
+- 干果
+- 极致复杂
+
+### 沉淀
+- 长期瓶内陈年产生沉淀
+- 需醒酒分离
+- 通常2-4小时醒酒
+- 一次饮用完毕
+
+## Tawny Port
+
+### 木桶陈年氧化
+- 在木桶中缓慢氧化
+- 颜色从红→棕
+- 风味转向坚果、干果
+
+### 标注年份
+- **10年**：平均酒龄10年
+- **20年**：平均酒龄20年
+- **30年**：平均酒龄30年
+- **40年**：平均酒龄40年（极珍稀）
+
+### 装瓶后
+- 即可饮用
+- 装瓶后仍可陈年10-30年
+- 开瓶后保存1-2个月
+
+### Colheita Tawny
+- 单一年份Tawny
+- 木桶陈年7年+
+- 实际通常20-50年+
+- 装瓶后即饮
+
+## 顶级酒庄
+
+### Vintage Port名家
+- **Quinta do Noval**： Nacional（未嫁接老藤）
+- **Graham's**：Malvedos
+- **Fonseca**
+- **Taylor's**：Vargellas
+- **Dow's**
+- **Warre's**
+- **Croft**
+
+## 储存条件
+
+### Vintage Port
+- **温度**：12-15°C恒定
+- **湿度**：70-80%
+- **避光**
+- **平放**
+- **静置**（瓶内陈年）
+
+### Tawny Port
+- 装瓶前在木桶陈年
+- 装瓶后可竖放
+- 避光、阴凉
+
+## 与其他加强酒对比
+
+| 酒款 | 陈年方式 | 陈年潜力 |
+|------|----------|----------|
+| Vintage Port | 瓶内还原 | 50-100年 |
+| Tawny Port | 木桶氧化 | 装瓶后20年 |
+| Madeira | 加热氧化 | 100-200年+ |
+| Oloroso Sherry | Solera氧化 | 装瓶后10年 |
+- 马德拉：陈年潜力最强
+- Vintage Port：瓶内陈年最强
+
+## 适饮建议
+- Vintage Port：等待15-20年起步
+- LBV：装瓶后5-10年
+- Tawny：即饮
+- 老Vintage：醒酒2-4小时
+
+## 顶级年份
+- **2011、2016、2017**
+- **1994、1997、2000、2003、2007**
+- **1977、1985、1992**
+- **1963、1970、1980、1985、1994**
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/IVDP
 - 数据置信度：official

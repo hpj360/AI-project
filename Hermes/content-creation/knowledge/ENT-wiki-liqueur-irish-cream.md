@@ -7,8 +7,6 @@ tags: [利口酒, Baileys, 百利, 爱尔兰, 奶油, 威士忌]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-liqueur-off-203-baileys-original-irish-cream, ENT-liqueur-off-211-davide-campari-bitter-tonic, ENT-liqueur-off-215-lik-r-kahl-a-kaffee, ENT-liqueur-off-224-griottines-de-fougerolles, ENT-liqueur-off-204-aperol]
-related_typed: {ENT-liqueur-off-203-baileys-original-irish-cream: cross_region, ENT-liqueur-off-211-davide-campari-bitter-tonic: cross_region, ENT-liqueur-off-215-lik-r-kahl-a-kaffee: cross_region, ENT-liqueur-off-224-griottines-de-fougerolles: cross_region, ENT-liqueur-off-204-aperol: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1

@@ -7,8 +7,6 @@ tags: [百度百科, yellow_wine, 即墨老酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-yellow_wine-danyang-huangjiu, ENT-baike-yellow_wine-jiaxing-huangjiu, ENT-yellow-guyuelongshan-10year, ENT-yellow-guyuelongshan-8year-king, ENT-baike-yellow_wine-guyue-longshan]
-related_typed: {ENT-baike-yellow_wine-danyang-huangjiu: cross_region, ENT-baike-yellow_wine-jiaxing-huangjiu: cross_region, ENT-yellow-guyuelongshan-10year: cross_region, ENT-yellow-guyuelongshan-8year-king: cross_region, ENT-baike-yellow_wine-guyue-longshan: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E5%8D%B3%E5%A2%A8%E8%80%81%E9%85%92

@@ -7,8 +7,6 @@ tags: [果酒, 西打酒, 苹果酒, 丹麦, Somersby]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-carlsberg, ENT-beer-real-carlsberg-pilsner, ENT-baike-fruit_wine-zhuyeqing-jiu, ENT-baike-fruit_wine-jinjiu, ENT-baike-fruit_wine-wujiapi-jiu]
-related_typed: {ENT-beer-carlsberg: same_brand, ENT-beer-real-carlsberg-pilsner: same_brand, ENT-baike-fruit_wine-zhuyeqing-jiu: cross_region, ENT-baike-fruit_wine-jinjiu: cross_region, ENT-baike-fruit_wine-wujiapi-jiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

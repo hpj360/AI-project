@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, beer, 啤酒, Brasserie Goudale]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-off-080-3-monts, ENT-beer-off-091-blonde-non-filtr-champ-libre, ENT-beer-bud-ice, ENT-beer-goose-island-ipa, ENT-beer-brewdog-punk-ipa]
-related_typed: {ENT-beer-off-080-3-monts: same_region, ENT-beer-off-091-blonde-non-filtr-champ-libre: same_region, ENT-beer-bud-ice: same_subcat, ENT-beer-goose-island-ipa: same_subcat, ENT-beer-brewdog-punk-ipa: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

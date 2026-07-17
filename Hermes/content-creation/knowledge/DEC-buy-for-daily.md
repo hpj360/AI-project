@@ -7,8 +7,6 @@ tags: [购买, 日常, 口粮酒, 性价比, 自饮]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-100, DEC-buy-by-budget-300, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium]
-related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-300: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,56 @@ version: 1
 
 日常口粮酒选择策略：性价比优先、批量购买、品种多样化。
 
-## 图片参考
+## 日常口粮酒选择策略
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Daily%20Table%20Wine%20Selection%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Daily%20Table%20Wine%20Selection%20buying)
-- [Google 图片](https://www.google.com/search?q=Daily%20Table%20Wine%20Selection%20buying%20bottle&tbm=isch)
+### 选购原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 性价比优先 | 100-300元为主力 |
+| 批量购买 | 整箱折扣、电商囤货 |
+| 品种多样 | 红白起泡齐全 |
+| 即饮为主 | 避免陈年等待 |
 
-- **中文名**：日常口粮酒选择
-- **外文名**：Daily Drinking Wine
-- **分类**：购买指南
-- **产地**：
+### 推荐产区与酒款
 
-## 合规信息
+#### 红葡萄酒（日常主力）
+- 智利：赤霞珠、佳美娜（Concha y Toro、Montes 入门）
+- 阿根廷：马尔贝克（Trapiche、Norton）
+- 西班牙：丹魄（Rioja Crianza、Campo Viejo）
+- 法国：朗格多克、Côtes du Rhône
+- 意大利：Chianti、Primitivo
+- 南非：皮诺塔吉
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 白葡萄酒
+- 新西兰：长相思（Oyster Bay、Brancott）
+- 智利：霞多丽（Cono Sur、Vina Maipo）
+- 西班牙：Verdejo、Albariño
+- 法国：密斯卡岱、卢瓦尔干白
+- 德国：雷司令半干（入门）
+
+#### 起泡酒
+- 西班牙 Cava（Codorníu、Freixenet）
+- 意大利 Prosecco（Martini、Gancia）
+- 国产起泡
+
+### 购买渠道
+
+| 渠道 | 优势 | 价格区间 |
+|------|------|----------|
+| 电商大促 | 折扣大、品种全 | 80-200元 |
+| 商超促销 | 即买即饮 | 100-250元 |
+| 进口商直营 | 品质保证 | 150-300元 |
+| 整箱购买 | 折扣10-20% | 80-200元 |
+
+### 囤酒建议
+
+- 整箱混合：6红+4白+2起泡
+- 关注电商 6.18、双 11、年货节
+- 储存于阴凉避光处
+- 1-2 个月内消耗
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

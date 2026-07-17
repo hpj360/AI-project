@@ -7,8 +7,6 @@ tags: [鸡尾酒, 短饮, 伏特加, 牛肉汤, 咸鲜]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-last-word, ENT-cocktail-mezcal-final-word, ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose]
-related_typed: {ENT-cocktail-last-word: same_region, ENT-cocktail-mezcal-final-word: same_region, ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail}
 data_confidence: official
 data_source: IBA 官方配方
 version: 1

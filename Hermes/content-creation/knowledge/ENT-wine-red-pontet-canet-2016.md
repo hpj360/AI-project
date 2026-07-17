@@ -7,8 +7,6 @@ tags: [红酒, 波尔多, 波亚克, 生物动力]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-pontet-canet-2019, ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010, ENT-wine-red-mouton-2016, ENT-wine-red-pichon-baron-2016]
-related_typed: {ENT-wine-red-pontet-canet-2019: same_brand, ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region, ENT-wine-red-mouton-2016: same_region, ENT-wine-red-pichon-baron-2016: same_region}
 data_confidence: simulated
 version: 1
 ---

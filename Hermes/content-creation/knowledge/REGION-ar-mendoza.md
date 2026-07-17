@@ -7,8 +7,6 @@ tags: [产区风土, 阿根廷, 门多萨, 马尔贝克, 高海拔]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official
 data_source: WSET/Wines of Argentina
 version: 1
@@ -22,26 +20,97 @@ version: 1
 
 阿根廷最重要的葡萄酒产区，马尔贝克的家园，安第斯山高海拔造就浓郁风味。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Mendoza%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Mendoza%20region)
-- [Google 图片](https://www.google.com/search?q=Mendoza%20region%20bottle&tbm=isch)
+### 位置
+- 阿根廷西部，安第斯山脉东麓
+- 门多萨省
+- 占阿根廷葡萄酒产量70%+
+- 北纬33°，南半球核心产区
 
-## 基础信息
+### 气候
+- 大陆性干旱气候
+- 高海拔调节温度
+- 年日照300天+
+- 年降雨200mm，全靠融雪灌溉
+- 干燥无病，有机潜力大
+- 昼夜温差大（15-20°C）
 
-- **中文名**：门多萨
-- **外文名**：Mendoza
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 安第斯山冲积土
+- 砂砾、黏土、石灰岩
+- 排水极佳
+- 矿物质丰富
+- 不同海拔土壤差异
 
-## 合规信息
+## 子产区（GI）
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### Luján de Cuyo
+- 海拔800-1100米
+- 马尔贝克传统核心
+- 顶级老藤
+
+### Maipú
+- 历史悠久
+- 老酒庄聚集
+
+### Uco Valley（图蓬加托Tupungato等）
+- 海拔1000-1500米
+- 凉爽，酸度高
+- 新派高端核心
+- 三个子区域：Tupungato、Tunuyán、San Carlos
+
+### San Rafael
+- 南部较温暖
+
+## 主要品种
+
+### 红品种
+- **马尔贝克 Malbec**：旗舰
+  - 颜色深紫
+  - 黑莓、紫罗兰、李子
+  - 单宁柔和，酒体饱满
+  - 高海拔花青素丰富
+- **赤霞珠**：辅助
+- **伯纳达 Bonarda**：阿根廷第二红
+- **西拉**：高海拔风格
+- **坦普兰尼洛**：少量
+- **品丽珠**：辅助
+
+### 白品种
+- **Torrontés**：芳香白
+- **霞多丽**：高海拔
+- **赛美蓉**：少量
+
+## 高海拔特色
+- 海拔600-1500米
+- 高海拔紫外线强，皮厚
+- 昼夜温差延缓成熟
+- 酸度保留，香气复杂
+- Uco Valley 1500米+为极境
+
+## 灌溉传统
+- 安第斯山融雪水
+- 传统洪水灌溉
+- 现代滴灌推广
+- 干旱控制产量
+
+## 历史与发展
+- 16世纪西班牙传教士引入
+- 19世纪欧洲移民带来马尔贝克
+- 1853年法国农学家Pouget引入马尔贝克
+- 1990年代出口爆发
+- 马尔贝克成为阿根廷名片
+
+## 代表酒庄
+- **卡氏家族（Bodega Catena Zapata）**- 阿根廷酒王
+- **诺顿（Bodega Norton）**
+- **蔡普（Zuccardi）**- 单一园先锋
+- **特拉皮切（Trapiche）**
+- **路坦（Luigi Bosca）**
+- **富内斯（Achaval-Ferrer）**
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/Wines of Argentina
 - 数据置信度：official

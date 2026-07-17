@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, sake, 清酒, Hinode]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-sake-off-113-amazake, ENT-baike-sake-juyondai, ENT-baike-sake-hakutsuru, ENT-sake-real-dassai-23, ENT-sake-real-kubota-senjuu]
-related_typed: {ENT-sake-off-113-amazake: same_region, ENT-baike-sake-juyondai: cross_region, ENT-baike-sake-hakutsuru: cross_region, ENT-sake-real-dassai-23: cross_region, ENT-sake-real-kubota-senjuu: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

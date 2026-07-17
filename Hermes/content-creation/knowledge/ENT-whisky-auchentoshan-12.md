@@ -7,8 +7,6 @@ tags: [威士忌, 苏格兰, 单一麦芽, 低地]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-jim-beam-white, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson]
-related_typed: {ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat}
 data_confidence: simulated
 version: 1
 ---

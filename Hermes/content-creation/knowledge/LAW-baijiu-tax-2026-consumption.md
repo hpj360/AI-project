@@ -7,8 +7,6 @@ tags: [法规, 税收政策, 白酒, 消费税, 2026, 关联交易]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: 国家税务总局/国家市场监督管理总局公开资料
 version: 1
@@ -22,26 +20,73 @@ version: 1
 
 2026年6月1日起施行的白酒消费税征管新规，以60%孰高计税原则重塑酒企定价与渠道策略。
 
-## 图片参考
+## 政策信息
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Baijiu%20Consumption%20Tax%20Administration%20Reform%202026%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Baijiu%20Consumption%20Tax%20Administration%20Reform%202026%20law)
-- [Google 图片](https://www.google.com/search?q=Baijiu%20Consumption%20Tax%20Administration%20Reform%202026%20law%20bottle&tbm=isch)
+| 项目 | 内容 |
+|------|------|
+| 政策名称 | 白酒消费税征管新规 |
+| 实施日期 | 2026-06-01 |
+| 发布机构 | 国家税务总局 |
+| 文号 | 国家税务总局9号公告 |
 
-## 基础信息
+## 核心变化
 
-- **中文名**：2026年白酒消费税征管新规（60%孰高计税）
-- **外文名**：Baijiu Consumption Tax Administration Reform 2026
-- **分类**：法律法规
-- **产地**：
+### 1. 基础税率不变
 
-## 合规信息
+基础税率仍维持原有框架：
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+- **从价税**：20%
+- **从量税**：0.5元/500毫升
+
+### 2. 新增填报要求
+
+新增两张强制填报表格：
+
+| 表格 | 用途 |
+|------|------|
+| 《白酒消费税计算明细表》 | 详细计算每批白酒的消费税 |
+| 《白酒生产企业关联销售单位信息报告表》 | 上报所有关联销售公司信息 |
+
+### 3. 「60%孰高计税」原则
+
+新规核心：**60%孰高计税**
+
+- 税务部门可追溯每一批酒水的定价与流向
+- 所有多层嵌套的销售公司、经销商信息均需上报
+- 通过穿透式监管压缩计税基数的行为将面临严格审查
+
+## 影响分析
+
+### 对酒企的影响
+
+| 影响领域 | 具体表现 |
+|---------|---------|
+| 定价策略 | 必须规范定价体系，低价卖给关联公司再高价出售的模式受阻 |
+| 渠道策略 | 多层嵌套销售结构面临合规审查 |
+| 合规成本 | 需建立完整的税务数据上报体系 |
+| 中小酒企 | 依赖关联交易避税的模式受阻，合规成本增加 |
+
+### 对行业的影响
+
+1. **穿透式监管**：长期以来酒企通过关联交易避税的模式终结
+2. **税务透明化**：倒逼企业规范定价体系
+3. **行业整合**：合规成本增加加速中小酒企出清
+4. **终端价格**：可能传导至终端零售价格
+
+## 配套政策
+
+- 与GB/T 48009-2026《白酒质量通则》形成配合
+- 针对「无资质贴牌、擦边山寨、虚假宣传」的监管同步收紧
+- 行业粗放式增长时代正式终结
+
+## 数据来源
+
+- **来源**：国家税务总局9号公告
+- **发布机构**：国家税务总局
+- **参考**：中国酒业协会、国家市场监督管理总局公开资料
+
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：国家税务总局/国家市场监督管理总局公开资料
 - 数据置信度：official

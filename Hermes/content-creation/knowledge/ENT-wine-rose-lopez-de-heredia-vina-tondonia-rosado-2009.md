@@ -7,8 +7,6 @@ tags: [桃红, 里奥哈, Gran Reserva, López de Heredia]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009, ENT-wine-rose-muga-rosado-2020, ENT-wine-rose-whispering-angel-2024, ENT-wine-rose-domaine-tempier-bandol-2025, ENT-wine-rose-miraval-2020]
-related_typed: {ENT-wine-white-lopez-de-heredia-vina-tondonia-blanco-2009: same_brand, ENT-wine-rose-muga-rosado-2020: same_region, ENT-wine-rose-whispering-angel-2024: cross_region, ENT-wine-rose-domaine-tempier-bandol-2025: cross_region, ENT-wine-rose-miraval-2020: same_subcat}
 data_confidence: simulated
 version: 1
 ---

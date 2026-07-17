@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 咸鲜, Bacardi, 菠萝, 黄瓜, 椰子]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-cold-pizza, ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation]
-related_typed: {ENT-cocktail-cold-pizza: same_brand, ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region}
 data_confidence: verified
 data_source: World's 50 Best Bars 2025 / Double Chicken Please
 version: 1

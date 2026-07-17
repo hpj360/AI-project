@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, beer, 啤酒, GRIMBERGEN]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-bud-ice, ENT-beer-goose-island-ipa, ENT-beer-brewdog-punk-ipa, ENT-beer-hoegaarden, ENT-beer-delirium-tremens]
-related_typed: {ENT-beer-bud-ice: same_subcat, ENT-beer-goose-island-ipa: same_subcat, ENT-beer-brewdog-punk-ipa: same_subcat, ENT-beer-hoegaarden: same_subcat, ENT-beer-delirium-tremens: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

@@ -6,39 +6,32 @@
 
 Mango Mojito是一款鸡尾酒，使用7种配料调制，盛于Jar。
 
-## 基础信息
+## 基本信息
 
-- **中文名**：Mango Mojito
-- **外文名**：Mango Mojito
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：18.3%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+- **酒精度**：约 18.3% ABV（估算）
+- **分类**：Cocktail
+- **含酒精**：Alcoholic
+- **推荐杯具**：Jar（Jar）
 
-## 风味轮廓
+## 配方
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+| 配料 | 用量 |
+|------|------|
+| Lime | 3 |
+| Mango | 1 Fresh |
+| Mint | Sprig |
+| White Rum | 200 ml |
+| Ice | cubes |
+| Soda Water | Top |
+| Mango | Garnish with |
 
-## 评分奖项
+## 调制方法
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 3504 |
-| Difford's Guide | 4.28 | 2023 |
-| IBA 推荐 | 4.9 | 2022 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+Squeeze the juice from 1½ limes and blend with the mango to give a smooth purée.
+Cut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.
+Divide the mango purée between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

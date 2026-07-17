@@ -7,8 +7,6 @@ tags: [法规, 国家标准, 白酒, 质量通则, 2026, GB/T 48009]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026, LAW-baijiu-tax-2026-consumption]
-related_typed: {LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat, LAW-baijiu-tax-2026-consumption: same_subcat}
 data_confidence: official
 data_source: 国家市场监督管理总局/国家标准化管理委员会/中国标准在线服务网
 version: 1
@@ -22,26 +20,66 @@ version: 1
 
 中国首个覆盖全部白酒品类的通用国家标准，2026年11月1日实施，被业内视为白酒行业「基本法」。
 
-## 图片参考
+## 标准信息
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=GB/T%2048009-2026%20General%20Quality%20Requirements%20for%20Baijiu%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/GB/T%2048009-2026%20General%20Quality%20Requirements%20for%20Baijiu%20law)
-- [Google 图片](https://www.google.com/search?q=GB/T%2048009-2026%20General%20Quality%20Requirements%20for%20Baijiu%20law%20bottle&tbm=isch)
+| 项目 | 内容 |
+|------|------|
+| 标准号 | GB/T 48009-2026 |
+| 标准名称 | 白酒质量通则 |
+| 英文名称 | General quality requirements for baijiu |
+| 标准状态 | 即将实施 |
+| 发布日期 | 2026-04-30 |
+| 实施日期 | 2026-11-01 |
+| 标准类型 | 推荐性国家标准（GB/T） |
+| ICS号 | 67.160.10 |
+| 中标分类号 | X61 |
+| 页数 | 16页 |
 
-## 基础信息
+## 适用范围
 
-- **中文名**：GB/T 48009-2026 白酒质量通则（白酒基本法）
-- **外文名**：GB/T 48009-2026 General Quality Requirements for Baijiu
-- **分类**：法律法规
-- **产地**：
+本文件规定了白酒的要求、检验规则和标志、包装、运输、贮存，给出了产品分类和质量分级原则，描述了相应的试验方法。
 
-## 合规信息
+**本文件适用于各类白酒产品。**
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+## 核心术语定义
+
+该标准对以下核心术语进行了明确界定：
+
+- **白酒**：以谷物为原料、搭配酒曲，完整经历蒸煮、糖化、发酵、蒸馏、陈酿、勾调全流程的蒸馏酒
+- **酒曲**：白酒发酵的糖化发酵剂
+- **发酵容器**：白酒发酵使用的容器
+- **蒸馏容器**：白酒蒸馏使用的容器
+- **贮存容器**：白酒陈酿贮存使用的容器
+
+## 历史意义
+
+1. **首个通用国标**：填补白酒行业通用基础标准领域的空白
+2. **「白酒基本法」**：被业内视为里程碑式文件
+3. **系统梳理香型**：各香型的工艺与风味特征被系统梳理
+4. **国际化支撑**：外文版翻译工作同步推进，助力中国白酒国际化
+5. **消费者保护**：帮助消费者辨别「独家秘方」「特殊工艺」等营销噱头
+
+## 起草单位
+
+由中国食品发酵工业研究院牵头，茅台、五粮液、汾酒、洋河、泸州老窖、西凤、桂林三花、石湾酒厂、口子酒业、衡水老白干、酒鬼酒、董酒、习酒、古井贡、郎酒、劲牌、红星、剑南春、华润酒业、舍得、珍酒、稻花香、牛栏山、枝江酒业、国台、天佑德青稞酒、汾阳王、河套酒业等20余家酒企参与制定。
+
+## 关联标准
+
+- GB 5009.225（酒精度测定）
+- GB/T 10345（白酒分析方法）
+- GB/T 10346（白酒检验规则）
+- GB/T 15109（白酒术语）
+- GB/T 23544（白酒企业良好生产规范）
+- JJF 1070（定量包装商品净含量计量检验规则）
+
+## 数据来源
+
+- **来源**：国家市场监督管理总局、国家标准化管理委员会
+- **发布机构**：全国白酒标准化技术委员会（SAC/TC 358）
+- **在线查询**：https://www.spc.org.cn/online/cc40292727f4bd43c9fb5832718c6206.html
+
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：国家市场监督管理总局/国家标准化管理委员会/中国标准在线服务网
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [DEC, 鸡尾酒, 入门, 决策]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-whisky-tasting, SOP-sake-tasting, SOP-baijiu-tasting]
-related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat}
 data_confidence: official
 data_source: IBA 经典鸡尾酒指南
 version: 1

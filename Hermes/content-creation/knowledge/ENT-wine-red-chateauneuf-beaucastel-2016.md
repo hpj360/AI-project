@@ -7,8 +7,6 @@ tags: [红酒, 罗讷河谷, 南罗讷, GSM]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-clos-des-papes-2016, ENT-wine-red-pegau-2016, ENT-baike-wine-longhui-putaojiu, ENT-brand-margaux, ENT-brand-mouton-rothschild]
-related_typed: {ENT-wine-red-clos-des-papes-2016: same_region, ENT-wine-red-pegau-2016: same_region, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-margaux: same_subcat, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: simulated
 version: 1
 ---

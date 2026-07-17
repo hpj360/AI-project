@@ -7,8 +7,6 @@ tags: [产区风土, 中国, 山东, 烟台, 海岸气候]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official
 data_source: 烟台市葡萄与葡萄酒局
 version: 1
@@ -22,26 +20,74 @@ version: 1
 
 中国现代葡萄酒工业的摇篮，「国际葡萄·葡萄酒城」，张裕大本营。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Shandong%20Yantai%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Shandong%20Yantai%20region)
-- [Google 图片](https://www.google.com/search?q=Shandong%20Yantai%20region%20bottle&tbm=isch)
+### 位置
+- 山东省东部烟台市
+- 山东半岛北部，渤海与黄海之间
+- 北纬37°，与波尔多同纬度
+- 主要分布于蓬莱、龙口、莱山、海阳
 
-## 基础信息
+### 气候
+- 暖温带湿润季风气候
+- 海洋调节，温和湿润
+- 夏季温暖但不酷热
+- 降水集中于夏季（700-800mm）
+- 秋季成熟期湿润，病害风险需管理
 
-- **中文名**：山东烟台
-- **外文名**：Shandong Yantai
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 多样：砾石、沙壤土、棕壤
+- 蓬莱以砂砾和棕壤为主
+- 含少量石灰岩
+- 部分区域偏酸
 
-## 合规信息
+## 主要子产区
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 子产区 | 位置 | 主要品种 | 特点 |
+|--------|------|----------|------|
+| 蓬莱 | 半岛北海岸 | 赤霞珠、霞多丽 | 海岸气候，精品聚集 |
+| 龙口 | 半岛北部 | 赤霞珠 | 张裕大本营 |
+| 海阳 | 半岛南部 | 赤霞珠 | 较温暖 |
+| 栖霞 | 内陆 | 多品种 | 海拔较高 |
+| 莱山 | 烟台市区南 | 霞多丽 | 张裕卡斯特酒庄 |
+
+## 主要品种
+
+### 红品种
+- **赤霞珠**：主力，颜色深
+- **蛇龙珠（Cabernet Gernischt）**：中国特色，张裕推广
+- **美乐**：辅助
+- **马瑟兰**：新兴
+
+### 白品种
+- **霞多丽**：主力白
+- **贵人香（Italian Riesling）**：传统
+- **长相思**：少量
+- **小芒森（Petit Manseng）**：蓬莱特色，甜酒
+
+## 历史与地位
+- 1892年张弼士创办张裕
+- 中国现代葡萄酒工业发源地
+- 1987年烟台获"国际葡萄·葡萄酒城"称号（OIV）
+- 张裕是中国最早、规模最大的葡萄酒企业
+- 长期主导中国葡萄酒产业
+
+## 发展特点
+- 大企业（张裕、长城）+ 精品酒庄并行
+- 海岸气候塑造清新风格
+- "蓬莱海岸葡萄酒"地理标志
+- 旅游与酒庄文化发达
+
+## 代表酒庄
+- **张裕卡斯特酒庄**- 中法合作旗舰
+- **张裕爱斐堡北京**（虽在北京，张裕品牌）
+- **君顶酒庄**- 蓬莱精品
+- **瑞枫奥塞斯**- 蓬莱
+- **国宾酒庄**- 蓬莱
+- **苏各兰酒庄**- 苏格兰主题
+- **龙亭酒庄**- 生物动力法
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：烟台市葡萄与葡萄酒局
 - 数据置信度：official

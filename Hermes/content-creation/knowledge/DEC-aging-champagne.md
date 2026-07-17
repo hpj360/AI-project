@@ -7,8 +7,6 @@ tags: [陈年潜力, 香槟, 起泡酒, 酒泥陈年]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-aging-red-bordeaux, DEC-aging-red-burgundy, DEC-aging-white-burgundy, DEC-aging-barolo, DEC-aging-port]
-related_typed: {DEC-aging-red-bordeaux: same_subcat, DEC-aging-red-burgundy: same_subcat, DEC-aging-white-burgundy: same_subcat, DEC-aging-barolo: same_subcat, DEC-aging-port: same_subcat}
 data_confidence: official
 data_source: WSET/CIVC
 version: 1
@@ -22,26 +20,173 @@ version: 1
 
 顶级香槟具有惊人陈年潜力，年份香槟可陈20-50年，酒泥陈年与高酸度支撑复杂演变。
 
-## 图片参考
+## 陈年潜力要素
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Champagne%20Aging%20aging%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Champagne%20Aging%20aging)
-- [Google 图片](https://www.google.com/search?q=Champagne%20Aging%20aging%20bottle&tbm=isch)
+### 1. 极高酸度
+- 北界产区，凉爽气候
+- 采摘早保留高酸
+- pH通常3.0-3.2
+- 防腐与陈年基础
 
-## 基础信息
+### 2. 酒泥陈年
+- 酵母自溶贡献复杂度
+- 法定最低12个月
+- 年份香槟36个月+
+- 顶级特酿5-10年+
 
-- **中文名**：香槟陈年
-- **外文名**：Champagne Aging
-- **分类**：陈年潜力
-- **产地**：
+### 3. 高品质基酒
+- 顶级村葡萄（Grand Cru）
+- 部分橡木桶发酵
+- 多年份调配（NV）
+- 单一年份（Vintage）
 
-## 合规信息
+### 4. 二氧化碳保护
+- 瓶内压力防腐
+- 减少氧化
+- 缓慢陈年
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+## 类型与陈年潜力
+
+| 类型 | 陈年潜力 | 适饮窗口 |
+|------|----------|----------|
+| 顶级年份香槟 | 20-50年 | 10-40年 |
+| 标准年份香槟 | 15-30年 | 8-20年 |
+| 顶级NV特酿 | 10-20年 | 5-15年 |
+| 标准NV | 3-5年 | 1-3年 |
+
+## 顶级香槟陈年
+
+### Dom Pérignon
+- 陈年潜力：20-40年
+- Moët & Chandon旗舰
+- 仅年份生产
+- 第二发酵后7-10年才上市
+- P2、P3系列超长陈年
+
+### Krug
+- 陈年潜力：20-50年
+- 珍藏Clos d'Ambonnay、Clos du Mesnil
+- 全部橡木桶发酵
+- 6-10年酒泥陈年
+- Krug Collection老年份
+
+### Salon
+- 陈年潜力：30-50年
+- 仅Mesnil-sur-Oger特级园
+- 仅卓越年份生产
+- 100%霞多丽白中白
+- 10年+酒泥陈年
+
+### Cristal (Louis Roederer)
+- 陈年潜力：20-30年
+- 1876年为俄国沙皇创制
+- 顶级年份香槟
+
+### Bollinger
+- 陈年潜力：20-30年
+- RD（Récemment Dégorgé）
+- Vieilles Vignes Françaises
+
+## 陈年风味演变
+
+### 香气演变
+
+#### 年轻（一类+二类）
+- 柑橘、青苹果
+- 白花、杏仁
+- 面包、饼干（酒泥自溶）
+- 黄油、奶油
+
+#### 陈年发展
+- **蜂蜜**
+- **烤面包**
+- **坚果**（杏仁、榛子）
+- **干果**（杏干、无花果）
+- **蜂蜡**
+- **香料**（姜、肉桂）
+- **咖啡、可可**
+
+#### 深度陈年
+- **糖渍柑橘**
+- **焦糖**
+- **蘑菇**
+- **林地**
+- **烟草**
+
+### 口感
+- 气泡从强劲→细腻→消失
+- 酒体更厚重
+- 矿物感增强
+- 余味悠长
+- 酸度逐渐柔化
+
+## 气泡演变
+- 年轻：强劲、持续
+- 5-10年：细腻、绵密
+- 20年+：稀疏、细小
+- 30年+：可能近静止
+
+## 品种与陈年
+
+### 霞多丽主导（白中白）
+- 高酸、矿物
+- 陈年潜力极强
+- 缓慢发展
+- Salon、Krug Clos du Mesnil
+
+### 黑皮诺主导（黑中白）
+- 结构、果味
+- 陈年潜力强
+- 早于纯霞多丽发展
+- Bollinger、Krug
+
+### 调配香槟
+- 平衡、复杂
+- 顶级调配陈年极强
+- Dom Pérignon、Cristal
+
+## 储存条件（关键）
+
+### 装瓶前
+- 酒窖12-14°C
+- 横放或竖放
+
+### 装瓶后
+- **温度**：10-13°C恒定
+- **湿度**：70-80%
+- **避光**（极重要）
+- **平放**（保持软木塞湿润）
+- **静置**
+
+## 年份香槟 vs 无年份
+
+### 年份香槟 Vintage
+- 仅卓越年份生产
+- 单一年份基酒
+- 法定36个月+酒泥陈年
+- 实际通常5-10年
+- 陈年潜力强
+
+### 无年份 NV
+- 多年份调配
+- 风格稳定
+- 法定12个月酒泥陈年
+- 实际通常2-3年
+- 适饮期早
+
+## 适饮建议
+- NV：上市即可饮用，1-3年内
+- 年份香槟：等待5-10年起步
+- 顶级特酿：10-20年
+- 老香槟：偶尔尝试，醒酒30分钟
+
+## 顶级年份
+- **2008、2012、2013**
+- **1996、2002**
+- **1982、1985、1988、1990**
+- **1959、1964、1971**
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/CIVC
 - 数据置信度：official

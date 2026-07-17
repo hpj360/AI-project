@@ -7,8 +7,6 @@ tags: [鸡尾酒, 桑格里, 波特酒, 禁酒令前]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-manhattan, ENT-cocktail-dry-martini, ENT-cocktail-whiskey-sour, ENT-cocktail-aviation, ENT-cocktail-cosmopolitan]
-related_typed: {ENT-cocktail-manhattan: same_region, ENT-cocktail-dry-martini: same_region, ENT-cocktail-whiskey-sour: same_region, ENT-cocktail-aviation: same_region, ENT-cocktail-cosmopolitan: same_region}
 data_confidence: simulated
 data_source: Jerry Thomas 1862 Bartenders Guide
 version: 1

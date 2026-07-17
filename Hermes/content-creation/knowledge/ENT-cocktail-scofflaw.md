@@ -7,8 +7,6 @@ tags: [鸡尾酒, 古典, 黑麦, 味美思, 禁酒令]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-sidecar, ENT-cocktail-between-the-sheets, ENT-cocktail-white-lady, ENT-cocktail-bloody-mary, ENT-cocktail-mimosa]
-related_typed: {ENT-cocktail-sidecar: same_region, ENT-cocktail-between-the-sheets: same_region, ENT-cocktail-white-lady: same_region, ENT-cocktail-bloody-mary: same_region, ENT-cocktail-mimosa: same_region}
 data_confidence: official
 data_source: IBA 官方配方
 version: 1

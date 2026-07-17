@@ -7,8 +7,6 @@ tags: [红酒, 波尔多, 玛歌]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-canon-2015, ENT-wine-red-margaux-2015, ENT-wine-red-palmer-2015, ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu]
-related_typed: {ENT-wine-red-canon-2015: same_brand, ENT-wine-red-margaux-2015: same_region, ENT-wine-red-palmer-2015: same_region, ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

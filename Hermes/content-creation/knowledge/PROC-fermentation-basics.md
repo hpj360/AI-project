@@ -7,8 +7,6 @@ tags: [酿造工艺, 发酵, 酵母, 糖, 酒精]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [PROC-fermentation-wild-vs-commercial, PROC-distillation-pot-still, PROC-distillation-column-still, PROC-aging-oak-types, PROC-aging-oxidation]
-related_typed: {PROC-fermentation-wild-vs-commercial: same_subcat, PROC-distillation-pot-still: same_subcat, PROC-distillation-column-still: same_subcat, PROC-aging-oak-types: same_subcat, PROC-aging-oxidation: same_subcat}
 data_confidence: official
 data_source: WSET/Oxford Companion
 version: 1
@@ -22,26 +20,75 @@ version: 1
 
 葡萄酒发酵的核心原理：酵母将糖分转化为酒精与二氧化碳，同时产生热量与副产物。
 
-## 图片参考
+## 发酵化学方程式
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Fermentation%20Basics%20process%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Fermentation%20Basics%20process)
-- [Google 图片](https://www.google.com/search?q=Fermentation%20Basics%20process%20bottle&tbm=isch)
+### 主反应
+```
+C6H12O6 → 2 C2H5OH + 2 CO2 + 热量
+葡萄糖     酒精       二氧化碳
+```
+- 1克糖 ≈ 0.51克酒精 + 0.49克CO2
+- 17克糖/升 ≈ 1%酒精度
+- 发酵产生约23.5 kcal/mol热量
 
-## 基础信息
+## 发酵阶段
 
-- **中文名**：发酵原理详解
-- **外文名**：Fermentation Basics
-- **分类**：酿造工艺
-- **产地**：
+### 初期（滞后期）
+- 酵母适应环境
+- 酵母繁殖
+- 糖分消耗缓慢
+- 温度上升
 
-## 合规信息
+### 主发酵期
+- 酵母活跃代谢
+- CO2大量释放（"沸腾"）
+- 糖分快速下降
+- 温度达到峰值
+- 红葡萄酒：浸渍提取色素单宁
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 后期
+- 糖分耗尽
+- 酵母活力下降
+- 酒精度升高抑制酵母
+- 残糖决定甜度
+
+## 关键参数
+
+### 温度
+| 类型 | 温度范围 | 影响 |
+|------|----------|------|
+| 白葡萄酒 | 12-18°C | 保留芳香 |
+| 红葡萄酒 | 25-30°C | 提取色素单宁 |
+| 过低 | <10°C | 发酵停滞 |
+| 过高 | >35°C | 酵母死亡，挥发酸升高 |
+
+### 糖度
+- 17-24°Brix常见
+- 决定最终酒精度
+- 加糖（chaptalization）合法区不同
+
+### 酸度
+- pH 3.0-3.8最佳
+- 低pH抑制杂菌
+- 高pH需调整
+
+## 酵母作用
+- 转化糖分为酒精
+- 产生次级代谢产物（酯、高级醇）
+- 影响风味复杂度
+
+## 营养需求
+- 氮源（氨基酸、铵盐）
+- 维生素（B1、B6）
+- 甾醇（氧气存在时合成）
+
+## 发酵管理
+- 温度控制
+- 氧气管理（初期适量，后期隔绝）
+- 营养补充
+- 防止氧化与污染
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/Oxford Companion
 - 数据置信度：official

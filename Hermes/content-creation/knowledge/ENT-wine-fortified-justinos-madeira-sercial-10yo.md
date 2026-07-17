@@ -7,8 +7,6 @@ tags: [加强酒, 马德拉, Sercial, 陈年]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-fortified-blandys-vintage-bual-1996, ENT-port-taylor-fladgate-vintage-2024, ENT-port-dows-vintage-2016, ENT-port-grahams-ruby-2019, ENT-port-grahams-20year-tawny]
-related_typed: {ENT-wine-fortified-blandys-vintage-bual-1996: same_region, ENT-port-taylor-fladgate-vintage-2024: cross_region, ENT-port-dows-vintage-2016: cross_region, ENT-port-grahams-ruby-2019: cross_region, ENT-port-grahams-20year-tawny: same_subcat}
 data_confidence: simulated
 version: 1
 ---

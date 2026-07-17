@@ -7,8 +7,6 @@ tags: [白酒, baijiu, 中国, 贵州, 习酒, 酱香型, 53度]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baijiu-xijiu-jinzhi-xijiu, ENT-baijiu-xijiu-junpin-xijiu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
-related_typed: {ENT-baijiu-xijiu-jinzhi-xijiu: same_brand, ENT-baijiu-xijiu-junpin-xijiu: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: verified
 data_source: 京东 / 酒仙网
 version: 1

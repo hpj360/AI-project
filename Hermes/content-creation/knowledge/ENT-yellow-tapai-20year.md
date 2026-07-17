@@ -7,8 +7,6 @@ tags: [黄酒, 花雕, 绍兴, 塔牌, 二十年陈, 中华老字号, 手工酿�
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-yellow-guyuelongshan-10year, ENT-yellow-guyuelongshan-8year-king, ENT-yellow-guyuelongshan-5year, ENT-yellow-guyuelongshan-3year, ENT-yellow-guyuelongshan-aged]
-related_typed: {ENT-yellow-guyuelongshan-10year: same_region, ENT-yellow-guyuelongshan-8year-king: same_region, ENT-yellow-guyuelongshan-5year: same_region, ENT-yellow-guyuelongshan-3year: same_region, ENT-yellow-guyuelongshan-aged: same_region}
 data_confidence: verified
 data_source: 国航知音商城 / 塔牌官方
 version: 1

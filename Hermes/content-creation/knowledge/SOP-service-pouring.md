@@ -7,8 +7,6 @@ tags: [侍酒, 倒酒, 份量, 顺序, 操作规范]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-temperature-red, SOP-service-temperature-white, SOP-service-temperature-sparkling]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat, SOP-service-temperature-sparkling: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
 version: 1
@@ -22,26 +20,96 @@ version: 1
 
 倒酒操作规范：标准份量、倒酒顺序、瓶口处理与礼仪。
 
-## 图片参考
+## 倒酒操作规范
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Pouring%20SOP%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Pouring%20SOP%20pairing)
-- [Google 图片](https://www.google.com/search?q=Wine%20Pouring%20SOP%20pairing%20bottle&tbm=isch)
+### 标准倒酒份量
 
-## 基础信息
+| 酒款类型 | 标准份量 | 一瓶可倒 |
+|----------|----------|----------|
+| 红葡萄酒 | 120-150ml | 5-6 杯 |
+| 白葡萄酒 | 120-150ml | 5-6 杯 |
+| 起泡酒 | 100-120ml | 6-7 杯 |
+| 甜酒 | 60-90ml | 8-12 杯 |
+| 加强酒 | 50-60ml | 12-15 杯 |
 
-- **中文名**：倒酒规范
-- **外文名**：Wine Pouring Procedure
-- **分类**：餐酒搭配
-- **产地**：
+#### 份量原则
 
-## 合规信息
+- 标准杯为酒杯容量的 1/3
+- 留出空间摇杯释放香气
+- 起泡酒分两次倒，避免泡沫溢出
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 倒酒顺序
+
+#### 试饮顺序
+1. 主人/点酒人试饮（约 30ml）
+2. 确认品质后再服务其他客人
+
+#### 服务顺序
+
+| 顺序 | 客人 |
+|------|------|
+| 1 | 女士优先 |
+| 2 | 年长女士 |
+| 3 | 其他女士 |
+| 4 | 男士 |
+| 5 | 主人最后 |
+
+#### 正式宴请顺序
+- 主宾 → 副主宾 → 其他女士 → 男士 → 主人
+
+### 倒酒操作步骤
+
+#### 1. 准备
+- 酒瓶外壁擦拭干净
+- 餐巾缠绕瓶口，防止滴落
+- 站立于客人右侧
+
+#### 2. 倒酒
+- 酒标朝向客人
+- 瓶口距杯口约 5cm
+- 缓慢倾斜瓶身
+- 倒至标准份量
+
+#### 3. 收瓶
+- 倒完缓慢回正瓶身
+- 顺时针旋转 1/4 圈
+- 餐巾擦拭瓶口
+- 移至下一位客人
+
+### 不同酒款倒酒要点
+
+#### 红葡萄酒
+- 标准份量 120-150ml
+- 可在桌面酒篮中服务
+
+#### 白葡萄酒
+- 标准份量 120-150ml
+- 冰桶保温服务
+
+#### 起泡酒
+- 分两次倒，先倒 1/3
+- 等泡沫消退再倒至 2/3
+- 标准份量 100-120ml
+
+#### 甜酒与加强酒
+- 使用小杯
+- 标准份量 60-90ml
+
+### 倒酒禁忌
+
+- 酒杯倒满（影响摇杯）
+- 瓶口碰杯口（不卫生）
+- 跨越客人倒酒（不礼貌）
+- 反手倒酒（不专业）
+
+### 续酒服务
+
+- 观察客人酒杯，剩余 1/4 时询问
+- 续酒前擦拭瓶口
+- 续酒顺序与首次一致
+- 一瓶酒服务完毕再开新瓶
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Court of Master Sommeliers
 - 数据置信度：official

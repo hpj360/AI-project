@@ -7,8 +7,6 @@ tags: [侍酒, 温度, 烈酒, 威士忌, 白兰地]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
 version: 1
@@ -22,26 +20,98 @@ version: 1
 
 烈酒侍酒温度：威士忌、白兰地、龙舌兰等烈酒的最佳饮用温度。
 
-## 图片参考
+## 烈酒侍酒温度指南
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Spirits%20Service%20Temperature%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Spirits%20Service%20Temperature%20pairing)
-- [Google 图片](https://www.google.com/search?q=Spirits%20Service%20Temperature%20pairing%20bottle&tbm=isch)
+### 侍酒温度原则
 
-## 基础信息
+- 烈酒酒精度高（35-50%）
+- 温度影响香气释放与口感
+- 不同烈酒有不同最佳温度
+- 中国夏季部分烈酒可稍降温
 
-- **中文名**：烈酒侍酒温度
-- **外文名**：Spirits Temperature
-- **分类**：餐酒搭配
-- **产地**：
+### 烈酒侍酒温度分类
 
-## 合规信息
+| 烈酒类型 | 侍酒温度 | 适用 |
+|----------|----------|------|
+| 白兰地/干邑 | 16-20℃ | 室温或手心升温 |
+| 单一麦威士忌 | 16-18℃ | 室温 |
+| 调和威士忌 | 14-16℃ | 略低于室温 |
+| 波本 | 16-18℃ | 室温 |
+| 龙舌兰 | 16-20℃ | 室温 |
+| 朗姆酒 | 16-18℃ | 室温 |
+| 伏特加 | 0-5℃ | 充分冰镇 |
+| 金酒 | 0-5℃ | 充分冰镇 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 按酒款详细温度
+
+#### 白兰地与干邑
+- VS/VSOP：16-18℃
+- XO/Hors d'âge：18-20℃
+- 雅文邑 Armagnac：16-18℃
+- 苹果白兰地 Calvados：16-18℃
+- 手心握杯缓慢升温，释放香气
+
+#### 威士忌
+- 苏格兰单一麦：16-18℃
+- 苏格兰调和：14-16℃
+- 爱尔兰威士忌：14-16℃
+- 美国波本：16-18℃
+- 日本威士忌：16-18℃
+- 加冰饮用：温度降至 5-8℃
+
+#### 龙舌兰
+- Blanco/Plata：16-18℃
+- Reposado：18-20℃
+- Añejo：18-20℃
+- Extra Añejo：20-22℃
+
+#### 朗姆酒
+- 白朗姆：14-16℃
+- 金朗姆：16-18℃
+- 黑朗姆：18-20℃
+
+#### 中国白酒
+- 酱香型（茅台）：20-25℃
+- 浓香型（五粮液）：18-22℃
+- 清香型（汾酒）：15-18℃
+- 米香型：15-18℃
+
+### 温度调整方法
+
+#### 升温（手心）
+- 手心握住杯肚
+- 体温缓慢升温
+- 释放复杂香气
+- 适用：干邑、陈年威士忌
+
+#### 降温
+- 冰镇（伏特加、金酒）
+- 加冰块（威士忌加冰）
+- 冷冻伏特加专用瓶
+
+#### 室温服务
+- 大部分烈酒室温服务
+- 避免阳光直射
+- 远离热源
+
+### 烈酒酒杯选择
+
+| 酒杯类型 | 适用 | 说明 |
+|----------|------|------|
+| 白兰地杯 Snifter | 干邑、雅文邑 | 聚香、手心升温 |
+| 格兰凯恩杯 | 威士忌 | 通用专业品鉴 |
+| 郁金香杯 Copita | 威士忌、干邑 | 聚香效果好 |
+| 老式杯 Rocks | 加冰烈酒 | 容量大 |
+| Shot 杯 | 伏特加、龙舌兰 | 一口饮 |
+
+### 实用建议
+
+- 烈酒开瓶后可长期保存
+- 避免阳光直射与高温
+- 中国夏季可适当降温
+- 加冰会稀释酒液，可选大冰块
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Court of Master Sommeliers
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [侍酒, 餐厅, 全流程, 服务, SOP]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
-related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
 version: 1
@@ -22,26 +20,124 @@ version: 1
 
 餐厅专业侍酒全流程：从点酒推荐到餐后服务的完整规范。
 
-## 图片参考
+## 餐厅侍酒全流程
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Restaurant%20Wine%20Service%20SOP%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Restaurant%20Wine%20Service%20SOP%20pairing)
-- [Google 图片](https://www.google.com/search?q=Restaurant%20Wine%20Service%20SOP%20pairing%20bottle&tbm=isch)
+### 完整流程概览
 
-## 基础信息
+| 阶段 | 内容 |
+|------|------|
+| 1 | 接待与点酒 |
+| 2 | 酒款确认 |
+| 3 | 开瓶与试饮 |
+| 4 | 倒酒服务 |
+| 5 | 餐中服务 |
+| 6 | 餐后服务 |
 
-- **中文名**：餐厅侍酒全流程
-- **外文名**：Restaurant Wine Service
-- **分类**：餐酒搭配
-- **产地**：
+### 1. 接待与点酒
 
-## 合规信息
+#### 推荐流程
+1. 客人入座后递交酒单
+2. 等待客人浏览，主动询问预算
+3. 根据菜品与预算推荐酒款
+4. 提供 2-3 个选项，红白搭配
+5. 说明产区、风格与价格
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 推荐技巧
+- 询问客人偏好（红/白/起泡）
+- 询问预算区间
+- 根据主菜搭配推荐
+- 提供高、中、低三档选项
+- 主动介绍酒款特色
+
+### 2. 酒款确认
+
+#### 服务流程
+1. 从酒窖取出酒瓶
+2. 双手呈递酒瓶，酒标朝向点酒人
+3. 口述酒款名称、产区、年份
+4. 等待客人确认
+5. 客人确认后方可开瓶
+
+#### 注意事项
+- 确认酒款与订单一致
+- 检查年份是否正确
+- 酒瓶外观完好无损
+- 温度是否合适
+
+### 3. 开瓶与试饮
+
+#### 开瓶流程
+1. 当客人面开瓶
+2. 标准开瓶操作（详见 SOP-service-opening）
+3. 取出软木塞放于桌面
+4. 擦拭瓶口
+
+#### 试饮流程
+1. 向点酒人杯中倒入约 30ml
+2. 请点酒人试饮
+3. 试饮确认品质
+4. 确认后开始服务其他客人
+
+### 4. 倒酒服务
+
+#### 服务顺序
+
+| 顺序 | 客人 |
+|------|------|
+| 1 | 点酒人试饮 |
+| 2 | 主宾 |
+| 3 | 女士 |
+| 4 | 男士 |
+| 5 | 点酒人 |
+
+#### 倒酒标准
+- 标准份量 120-150ml
+- 酒杯容量 1/3
+- 站立于客人右侧
+- 酒标朝向客人
+
+### 5. 餐中服务
+
+#### 续酒
+- 观察客人酒杯
+- 剩余 1/4 时主动询问
+- 续酒顺序与首次一致
+- 一瓶服务完毕再开新瓶
+
+#### 换酒
+- 上一瓶服务完毕
+- 提供新酒款选择
+- 更换酒杯（避免串味）
+- 重新试饮流程
+
+#### 温度维护
+- 白葡萄酒冰桶伺候
+- 红葡萄酒常温或酒篮
+- 起泡酒全程冰镇
+
+### 6. 餐后服务
+
+#### 结束流程
+- 询问客人是否需要剩余酒
+- 提供打包服务（部分餐厅）
+- 撤酒杯与酒具
+- 清点账单
+
+#### 后续
+- 记录客人偏好
+- 收藏酒款评价
+- 改进推荐服务
+
+### 餐厅侍酒禁忌
+
+- 跨越客人倒酒
+- 酒标朝向自己
+- 酒杯倒满
+- 反手倒酒
+- 强行续酒
+- 不试饮直接服务
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Court of Master Sommeliers
 - 数据置信度：official

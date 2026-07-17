@@ -7,8 +7,6 @@ tags: [法律法规, TTB, 美国, 标签, AVA, ABV]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: U.S. Alcohol and Tobacco Tax and Trade Bureau (TTB)
 version: 1
@@ -22,26 +20,53 @@ version: 1
 
 美国TTB负责酒类标签法规、AVA葡萄酒产区制度、ABV标注等监管，是联邦酒类主管部门。
 
-## 图片参考
+## TTB概述
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=US%20TTB%20Alcohol%20Regulations%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/US%20TTB%20Alcohol%20Regulations%20law)
-- [Google 图片](https://www.google.com/search?q=US%20TTB%20Alcohol%20Regulations%20law%20bottle&tbm=isch)
+**TTB（Alcohol and Tobacco Tax and Trade Bureau）** 隶属于美国财政部，依据《联邦酒精管理法》（FAA Act）对酒类进行监管，主管酒类标签、广告、税收和产区认定。
 
-## 基础信息
+### 标签法规（27 CFR Part 4-5）
 
-- **中文名**：美国烟酒税收贸易局法规
-- **外文名**：US Alcohol and Tobacco Tax and Trade Bureau Regulations
-- **分类**：法律法规
-- **产地**：
+#### 必标项
 
-## 合规信息
+- **品牌名称**
+- **酒类类别**：需符合27 CFR定义（如Wine、Whisky、Rum）
+- **酒精度（ABV）**：精度要求±0.5%（≤14%可标"Table Wine"）
+- **净含量**：公制与英制双标
+- **生产商/装瓶商信息**：名称、地址
+- **健康警示语**：必须含政府警示语（Surgeon General's Warning）
+- **亚硫酸盐声明**：≥10mg/L须标"Contains Sulfites"
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### AVA产区制度
+
+**AVA（American Viticultural Area）** 是美国法定葡萄种植区制度：
+
+| 项 | 说明 |
+|------|------|
+| 管理机构 | TTB |
+| 标注条件 | 85%以上葡萄来自该AVA |
+| 总数 | 截至2024年已超过260个AVA |
+| 著名AVA | Napa Valley、Sonoma County、Willamette Valley |
+
+### ABV标注规则
+
+| 酒精度区间 | 标注要求 |
+|------------|----------|
+| <0.5% | 标"non-alcoholic"或"alcohol free" |
+| 0.5%-7% | 需精确标注 |
+| 7%-14% | 允许±1.5%误差，可标"Table Wine" |
+| >14% | 允许±1%误差 |
+| >20%（烈酒） | 允许±0.5%误差 |
+
+### 蒸馏酒身份标准
+
+依据27 CFR Part 5，烈酒必须符合身份标准：
+
+- **Bour Whiskey**：玉米占比≥51%，新烧焦橡木桶陈酿
+- **Rye Whiskey**：黑麦占比≥51%
+- **Vodka**：中性酒精，无 distinctive 特征
+- **Rum**：由甘蔗制品发酵蒸馏
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：U.S. Alcohol and Tobacco Tax and Trade Bureau (TTB)
 - 数据置信度：official

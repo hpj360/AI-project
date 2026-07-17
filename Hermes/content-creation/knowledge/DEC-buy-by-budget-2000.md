@@ -7,8 +7,6 @@ tags: [购买, 预算, 2000元, 顶级, 名庄]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-buy-by-budget-100, DEC-buy-by-budget-300, DEC-buy-by-budget-800, DEC-buy-by-budget-premium, DEC-buy-for-business]
-related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-300: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-premium: same_subcat, DEC-buy-for-business: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,45 @@ version: 1
 
 800-2000元价位的选酒策略：可触达特级园、波尔多二级庄。
 
-## 图片参考
+## 800-2000元选酒策略
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Wine%20Buying%20Guide%20800-2000%20RMB%20buying%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Wine%20Buying%20Guide%20800-2000%20RMB%20buying)
-- [Google 图片](https://www.google.com/search?q=Wine%20Buying%20Guide%20800-2000%20RMB%20buying%20bottle&tbm=isch)
+### 选购原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 特级园触达 | 勃艮第特级园 Grand Cru |
+| 列级庄正牌 | 波尔多二至五级庄正牌 |
+| 顶级年份 | 名庄伟大年份 |
+| 知名酒评家高分 | 95+ 分酒款 |
 
-- **中文名**：八百至两千元选酒指南
-- **外文名**：Fine Wine 800-2000 RMB
-- **分类**：购买指南
-- **产地**：
+### 推荐产区与酒款
 
-## 合规信息
+#### 红葡萄酒
+- 勃艮第特级园：Chambertin、Clos de Vougeot、Echézeaux
+- 波尔多列级庄：Léoville-Las Cases、Pichon-Longueville
+- 罗讷河谷：Château de Beaucastel、Clos des Papes
+- 意大利：Brunello Riserva、Barolo Riserva
+- 西班牙：Vega Sicilia Único、Pingus 入门
+- 澳洲：Penfolds Grange（旧年份）、Henschke Hill of Grace
+- 美国：Screaming Eagle、Harlan Estate 入门
+- 智利：Almavila、Seña
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 白葡萄酒
+- 勃艮第特级园：Corton-Charlemagne、Montrachet
+- 德国顶级雷司令：Egon Müller、J.J. Prüm Auslese
+- 法国阿尔萨斯：Trimbach Clos Sainte-Hune
+
+#### 甜酒与起泡
+- 苏玳顶级：Château d'Yquem（半瓶装）
+- 香槟：vintage 年份香槟、Salon 入门
+
+### 推荐场景
+
+- 重要商务宴请
+- 高端礼品
+- 长期陈放（10-30年）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

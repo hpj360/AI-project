@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, beer, 啤酒, Brewdog]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-beer-off-093-punk-ipa, ENT-beer-hoegaarden, ENT-beer-delirium-tremens, ENT-beer-rochefort-6, ENT-beer-rochefort-8]
-related_typed: {ENT-beer-off-093-punk-ipa: same_brand, ENT-beer-hoegaarden: same_subcat, ENT-beer-delirium-tremens: same_subcat, ENT-beer-rochefort-6: same_subcat, ENT-beer-rochefort-8: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

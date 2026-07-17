@@ -7,8 +7,6 @@ tags: [百度百科, wine, 贺兰山东麓葡萄酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-wine-zhangyu-putaojiu, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu]
-related_typed: {ENT-baike-wine-zhangyu-putaojiu: cross_region, ENT-baike-wine-zhangyu-jiebaina: cross_region, ENT-baike-wine-changcheng-putaojiu: cross_region, ENT-baike-wine-wangchao-putaojiu: cross_region, ENT-baike-wine-weilong-putaojiu: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E8%B4%BA%E5%85%B0%E5%B1%B1%E4%B8%9C%E9%BA%93%E8%91%A1%E8%90%84%E9%85%92

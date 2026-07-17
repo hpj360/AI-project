@@ -7,8 +7,6 @@ tags: [鸡尾酒, 配方, 鸡尾酒, Cocktail]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-caipirinha, ENT-cocktail-kir, ENT-cocktail-mimosa, ENT-cocktail-bramble, ENT-cocktail-dark-n-stormy]
-related_typed: {ENT-cocktail-caipirinha: same_subcat, ENT-cocktail-kir: same_subcat, ENT-cocktail-mimosa: same_subcat, ENT-cocktail-bramble: same_subcat, ENT-cocktail-dark-n-stormy: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1
@@ -26,50 +24,27 @@ ratings:
 
 Flaming Lamborghini是一款鸡尾酒，使用4种配料调制，盛于鸡尾酒杯。
 
-## 图片参考
+## 基本信息
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Flaming%20Lamborghini%20cocktail%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Flaming%20Lamborghini%20cocktail)
-- [Google 图片](https://www.google.com/search?q=Flaming%20Lamborghini%20cocktail%20bottle&tbm=isch)
+- **酒精度**：约 9.2% ABV（估算）
+- **分类**：Cocktail
+- **含酒精**：Alcoholic
+- **推荐杯具**：鸡尾酒杯（Cocktail glass）
 
-## 基础信息
+## 配方
 
-- **中文名**：Flaming Lamborghini
-- **外文名**：Flaming Lamborghini
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：9.2%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+| 配料 | 用量 |
+|------|------|
+| Kahlua | 1 oz |
+| Sambuca | 1 oz |
+| Blue Curacao | 1 oz |
+| Baileys irish cream | 1 oz |
 
-## 风味轮廓
+## 调制方法
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 17217 |
-| Difford's Guide | 4.22 | 2023 |
-| IBA 推荐 | 4.6 | 2020 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
-
-## 合规信息
-
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+Pour the Sambuca and Kahlua into the Cocktail Glass and give the drinker a straw. Pour the Baileys and Blue Curacao into two sepsrate shot glasses either side of the cocktail glass. Set light the concotion in the cocktail glass and start to drink through the straw (this drink should be drunk in one) , as the bottom of the glass is reached put out the fire by pouring the Baileys and Blue Curacao into the cocktail glass and keep drinking till it's all gone!!
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

@@ -7,8 +7,6 @@ tags: [红酒, 智利, 波尔多混酿]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-rose-montes-cherub-2020, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool, ENT-wine_red-off-002-bordeaux-2013]
-related_typed: {ENT-wine-rose-montes-cherub-2020: same_brand, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat, ENT-wine_red-off-002-bordeaux-2013: same_subcat}
 data_confidence: simulated
 version: 1
 ---

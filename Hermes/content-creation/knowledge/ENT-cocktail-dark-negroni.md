@@ -7,8 +7,6 @@ tags: [鸡尾酒, 酒吧签名, 黑朗姆, 苦味]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash, ENT-cocktail-brandy-fix, ENT-cocktail-port-sangaree]
-related_typed: {ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region, ENT-cocktail-brandy-fix: same_region, ENT-cocktail-port-sangaree: same_region}
 data_confidence: simulated
 data_source: 现代配方
 version: 1

@@ -7,8 +7,6 @@ tags: [雪莉, Sherry, 西班牙, Fino, Especial, 高端]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-fortified-emilio-hidalgo-la-panesa-fino-en-rama, ENT-sherry-gonzalez-byass-tio-pepe-fino, ENT-sherry-valdespino-inocente-fino, ENT-sherry-lustau-puerto-fino, ENT-sherry-tradicion-vors-palo-cortado]
-related_typed: {ENT-wine-fortified-emilio-hidalgo-la-panesa-fino-en-rama: same_brand, ENT-sherry-gonzalez-byass-tio-pepe-fino: same_region, ENT-sherry-valdespino-inocente-fino: same_region, ENT-sherry-lustau-puerto-fino: same_region, ENT-sherry-tradicion-vors-palo-cortado: same_region}
 data_confidence: verified
 data_source: Wine-Searcher
 version: 1

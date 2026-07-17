@@ -7,8 +7,6 @@ tags: [SOP, 清酒, 品鉴]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-wine-tasting-5steps, SOP-white-wine-tasting, SOP-whisky-tasting, SOP-baijiu-tasting, SOP-champagne-service]
-related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-white-wine-tasting: same_subcat, SOP-whisky-tasting: same_subcat, SOP-baijiu-tasting: same_subcat, SOP-champagne-service: same_subcat}
 data_confidence: official
 data_source: 日本酒サービス研究会 唎酒師教本
 version: 1

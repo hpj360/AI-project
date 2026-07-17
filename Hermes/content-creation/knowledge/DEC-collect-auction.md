@@ -7,8 +7,6 @@ tags: [收藏投资, 拍卖, 苏富比, 佳士得, 跨境物流]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [DEC-collect-basics, DEC-collect-vintage-chart, DEC-collect-livex, DEC-collect-whisky, DEC-collect-baijiu]
-related_typed: {DEC-collect-basics: same_subcat, DEC-collect-vintage-chart: same_subcat, DEC-collect-livex: same_subcat, DEC-collect-whisky: same_subcat, DEC-collect-baijiu: same_subcat}
 data_confidence: verified
 data_source: Sotheby's/Christie's
 version: 1
@@ -22,26 +20,69 @@ version: 1
 
 苏富比、佳士得等拍卖行的注册流程、佣金结构、跨境物流及竞拍注意事项。
 
-## 图片参考
+## 拍卖行概览
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Auction%20Participation%20Guide%20collect%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Auction%20Participation%20Guide%20collect)
-- [Google 图片](https://www.google.com/search?q=Auction%20Participation%20Guide%20collect%20bottle&tbm=isch)
+| 拍卖行 | 成立年份 | 总部 | 酒类拍卖场次/年 | 特色 |
+|--------|---------|------|----------------|------|
+| 苏富比 Sotheby's | 1744 | 纽约 | 30+ | 顶级单一藏家专场 |
+| 佳士得 Christie's | 1766 | 伦敦 | 25+ | 亚洲市场强势 |
+| 邦瀚斯 Bonhams | 1793 | 伦敦 | 15+ | 威士忌专场突出 |
+| Acker | 1820 | 纽约 | 20+ | 亚洲拍卖密度高 |
+| Zachys | 1944 | 纽约 | 15+ | 勃艮第专场强势 |
 
-## 基础信息
+## 注册流程
 
-- **中文名**：拍卖参与流程
-- **外文名**：Auction Participation Guide
-- **分类**：收藏投资
-- **产地**：
+### 1. 账户注册
+- 提交身份证明（护照/身份证）
+- 地址证明（3个月内水电账单）
+- 信用卡或银行资信证明
+- 审核周期：3-7个工作日
 
-## 合规信息
+### 2. 竞拍方式
+- **现场竞拍**：亲临拍卖厅，举牌竞投
+- **电话竞拍**：工作人员代为出价，需提前预约
+- **书面竞拍**：提交书面最高出价，由拍卖师代投
+- **在线竞拍**：通过BidNow、Christie's LIVE等平台实时出价
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+## 佣金结构
+
+### 买家佣金（以苏富比为例）
+
+| 成交价段 | 佣金率 |
+|----------|--------|
+| 0-40万港元 | 25% |
+| 40万-800万港元 | 20% |
+| 800万港元以上 | 13.9% |
+
+### 卖家佣金
+- 基础佣金：成交价的10-15%
+- 保险费：1%
+- 图录费：单瓶100-500港元
+- 仓储费：拍卖前90天免费，超期计费
+
+## 跨境物流
+
+### 出口
+- 原产地证明（欧盟酒需EX-A证书）
+- 卫生检疫证书
+- 温控运输（恒温集装箱15°C）
+- 保险：货值110%投保
+
+### 进口（中国大陆）
+- 综合税率：约48.2%（关税14%+增值税13%+消费税20%+附加）
+- 个人自用限额：6瓶/次（部分口岸放宽至12瓶）
+- 商业进口需食品经营许可证、酒类流通备案
+
+## 竞拍注意事项
+
+1. 仔细阅读图录状况报告（condition report）
+2. 关注原箱、原木箱、原纸包装完整性
+3. 液面水平（ullage）：低于瓶颈底部需折价
+4. 预展期亲自验货，或委托专业鉴定
+5. 设定心理价位，避免情绪化举牌
+6. 留意"不可撤销竞价"（irrevocable bid）条款
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Sotheby's/Christie's
 - 数据置信度：verified

@@ -7,8 +7,6 @@ tags: [葡萄酒, 白葡萄酒, 勃艮第, Meursault, 霞多丽, Roulot, 一级�
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-white-meursault-genevrieres-roulot-2015, ENT-wine-white-meursault-charmes-roulot-2016, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no, ENT-wine_white-off-027-vin]
-related_typed: {ENT-wine-white-meursault-genevrieres-roulot-2015: same_brand, ENT-wine-white-meursault-charmes-roulot-2016: same_brand, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: cross_region, ENT-wine_white-off-027-vin: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

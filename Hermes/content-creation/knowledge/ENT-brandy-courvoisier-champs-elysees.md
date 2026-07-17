@@ -7,8 +7,6 @@ tags: [白兰地, 干邑, 法国, 拿破仑, 限量]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brandy-courvoisier-vsop, ENT-brandy-courvoisier-xo, ENT-brand-courvoisier-vsop, ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop]
-related_typed: {ENT-brandy-courvoisier-vsop: same_brand, ENT-brandy-courvoisier-xo: same_brand, ENT-brand-courvoisier-vsop: same_brand, ENT-brandy-hennessy-vs: same_region, ENT-brandy-hennessy-vsop: same_region}
 data_confidence: simulated
 version: 1
 ---

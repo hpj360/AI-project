@@ -7,8 +7,6 @@ tags: [波特, Port, 葡萄牙, 杜罗河, Vintage, 年份波特, 2024]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-port-dows-vintage-2016, ENT-port-grahams-ruby-2019, ENT-port-grahams-20year-tawny, ENT-port-taylors-40year-tawny, ENT-port-taylors-quinta-vargellas]
-related_typed: {ENT-port-dows-vintage-2016: same_region, ENT-port-grahams-ruby-2019: cross_region, ENT-port-grahams-20year-tawny: cross_region, ENT-port-taylors-40year-tawny: cross_region, ENT-port-taylors-quinta-vargellas: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / wine-searcher.com
 version: 1

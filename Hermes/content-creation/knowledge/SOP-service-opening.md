@@ -7,8 +7,6 @@ tags: [侍酒, 开瓶, 海马刀, 操作规范, SOP]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white, SOP-service-temperature-sparkling]
-related_typed: {SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat, SOP-service-temperature-sparkling: same_subcat}
 data_confidence: official
 data_source: Court of Master Sommeliers
 version: 1
@@ -22,26 +20,74 @@ version: 1
 
 专业开瓶操作流程：开瓶器选择、割帽、拔塞、检查全步骤规范。
 
-## 图片参考
+## 专业开瓶操作规范
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Professional%20Wine%20Opening%20SOP%20pairing%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Professional%20Wine%20Opening%20SOP%20pairing)
-- [Google 图片](https://www.google.com/search?q=Professional%20Wine%20Opening%20SOP%20pairing%20bottle&tbm=isch)
+### 工具准备
 
-## 基础信息
+| 工具 | 用途 |
+|------|------|
+| 海马刀 Waiter's Friend | 通用开瓶器 |
+| 蝴蝶开瓶器 | 入门辅助 |
+| 老酒开瓶器 Ah-So | 老酒专用 |
+| 割帽器 | 切割瓶帽 |
+| 餐巾 | 擦拭瓶口 |
 
-- **中文名**：专业开瓶操作规范
-- **外文名**：Wine Opening Procedure
-- **分类**：餐酒搭配
-- **产地**：
+### 标准开瓶流程
 
-## 合规信息
+#### 1. 准备
+- 酒瓶直立静置，让沉淀下沉
+- 准备开瓶器与餐巾
+- 向客人展示酒标确认
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 2. 割帽
+- 用割帽器或海马刀小刀沿瓶唇下沿切割
+- 一圈完整切割，避免撕裂
+- 取下瓶帽，统一收纳
+- 用餐巾擦拭瓶口
+
+#### 3. 拔塞
+
+| 步骤 | 操作 |
+|------|------|
+| 1. 定位 | 螺旋锥尖端对准软木塞中心 |
+| 2. 旋转 | 顺时针缓慢旋入，保持垂直 |
+| 3. 深度 | 螺旋锥插入 5-6 圈，不穿透 |
+| 4. 一级撬 | 利用第一级支点撬起塞子一半 |
+| 5. 二级撬 | 切换第二级支点撬起剩余 |
+| 6. 完成 | 用手轻拔最后一段，避免"啵"声 |
+
+#### 4. 检查
+- 闻软木塞：判断是否 TCA 污染
+- 检查塞子状态：完整、湿润
+- 擦拭瓶口内外
+- 向客人小量试饮
+
+### 不同瓶塞处理
+
+#### 软木塞（标准）
+- 海马刀常规操作
+
+#### 合成塞
+- 较硬，需更大力度
+- 螺旋锥可旋入深一些
+
+#### 老酒软木塞（脆弱）
+- 使用 Ah-So 老酒开瓶器
+- 两片金属片夹住塞子
+- 缓慢旋转拔出，避免断裂
+
+#### 螺旋盖 Stelvin
+- 直接拧开，无需开瓶器
+- 擦拭瓶口即可
+
+### 禁忌
+
+- 螺旋锥穿透软木塞（木屑落入酒中）
+- 拔塞时发出"啵"声（不专业）
+- 割帽不完整（撕裂不美观）
+- 用牙咬开瓶塞（极不专业）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Court of Master Sommeliers
 - 数据置信度：official

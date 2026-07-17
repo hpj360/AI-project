@@ -7,8 +7,6 @@ tags: [场景, 独酌, 放松, 自饮, 休闲]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SCENE-spring-festival, SCENE-mid-autumn, SCENE-wedding, SCENE-business-dinner, SCENE-birthday]
-related_typed: {SCENE-spring-festival: same_subcat, SCENE-mid-autumn: same_subcat, SCENE-wedding: same_subcat, SCENE-business-dinner: same_subcat, SCENE-birthday: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,120 @@ version: 1
 
 独酌放松用酒推荐：适合一人独饮、放松心情的酒款选择。
 
-## 图片参考
+## 独酌放松用酒推荐
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Solo%20Relaxation%20Wine%20scene%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Solo%20Relaxation%20Wine%20scene)
-- [Google 图片](https://www.google.com/search?q=Solo%20Relaxation%20Wine%20scene%20bottle&tbm=isch)
+### 独酌用酒原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 个人偏好 | 选自己喜欢的 |
+| 适量饮酒 | 一杯即可放松 |
+| 慢饮细品 | 享受独处时光 |
+| 性价比 | 不必追求昂贵 |
 
-- **中文名**：独酌放松用酒
-- **外文名**：Solo Relaxation Wine
-- **分类**：场景推荐
-- **产地**：
+### 按心情推荐
 
-## 合规信息
+#### 1. 工作疲惫后放松
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 推荐酒款 | 价格区间 | 备注 |
+|----------|----------|------|
+| 黑皮诺 | 200-800元 | 优雅柔和 |
+| 梅洛 | 150-500元 | 圆润易饮 |
+| 霞多丽（过桶） | 200-800元 | 圆润舒缓 |
+| Pinotage | 150-400元 | 独特风味 |
+
+#### 2. 周末悠闲独酌
+- 勃艮第黑皮诺：复杂有深度
+- 波尔多红酒：经典耐品
+- 苏玳贵腐：甜润舒缓
+- 价格：500-2000元
+
+#### 3. 夜晚独处思考
+- 老酒波尔多：陈年香醇
+- 雅文邑 Armagnac：复杂悠长
+- 单一麦威士忌：深思冥想
+- 价格：500-3000元
+
+#### 4. 看书观影搭配
+- 黑皮诺：轻盈不抢注意力
+- 长相思：清爽解腻
+- Prosecco：轻松愉快
+- 价格：150-500元
+
+### 按时段推荐
+
+#### 下午独酌
+- 干白：长相思、灰皮诺
+- 桃红：清爽浪漫
+- 起泡：Prosecco、Cava
+- 价格：150-500元
+
+#### 晚餐搭配
+- 红酒：黑皮诺、梅洛
+- 白酒：霞多丽、Viognier
+- 价格：200-800元
+
+#### 睡前小酌
+- 甜酒：苏玳、冰酒
+- 加强酒：Tawny Port
+- 烈酒：单一麦威士忌
+- 价格：300-1500元
+
+### 按预算推荐
+
+#### 经济独酌（100-300元）
+- 智利赤霞珠、阿根廷马尔贝克
+- 新西兰长相思、智利霞多丽
+- Prosecco、Cava
+- 国产精品
+
+#### 中端独酌（300-800元）
+- 波尔多产区级、Rioja Reserva
+- 勃艮第村庄级
+- 阿尔萨斯干白
+- 香槟入门
+
+#### 高端独酌（800元以上）
+- 勃艮第一级园
+- 波尔多列级庄副牌
+- 年份香槟
+- 老酒陈年
+
+### 独酌场景搭配
+
+#### 1. 阳台独酌
+- 起泡酒：Prosecco、Cava
+- 桃红：清爽浪漫
+- 干白：清爽解压
+- 配：坚果、奶酪
+
+#### 2. 浴缸独酌
+- 香槟：极致享受
+- 起泡：轻松愉快
+- 甜酒：舒缓放松
+- 配：巧克力、水果
+
+#### 3. 书房独酌
+- 红酒：黑皮诺、勃艮第
+- 烈酒：单一麦威士忌
+- 加强酒：Tawny Port
+- 配：奶酪、黑巧克力
+
+#### 4. 沙发追剧
+- 红酒：梅洛、仙粉黛
+- 白酒：长相思、霞多丽
+- 起泡：Prosecco
+- 配：薯片、爆米花
+
+### 独酌用酒注意事项
+
+- 适量饮酒，一杯即可
+- 选自己喜欢的口味
+- 不必追求昂贵
+- 享受独处时光
+- 准备小食搭配
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

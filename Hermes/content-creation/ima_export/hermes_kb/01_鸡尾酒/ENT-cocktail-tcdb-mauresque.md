@@ -6,39 +6,30 @@
 
 Mauresque是一款鸡尾酒，使用3种配料调制，盛于柯林斯杯。
 
-## 基础信息
+## 基本信息
 
-- **中文名**：Mauresque
-- **外文名**：Mauresque
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：18%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+- **酒精度**：约 18% ABV（估算）
+- **分类**：Cocktail
+- **含酒精**：Alcoholic
+- **推荐杯具**：柯林斯杯（Collins glass）
 
-## 风味轮廓
+## 配方
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+| 配料 | 用量 |
+|------|------|
+| Ricard | 3 cl |
+| Orgeat Syrup | 1 cl |
+| Water | Full Glass |
 
-## 评分奖项
+## 调制方法
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.5 | 49287 |
-| Difford's Guide | 4.15 | 2022 |
-| IBA 推荐 | 4.2 | 2023 |
+1 - Pour the Ricard (or pastis)
+2 - Pour the orgeat syrup
+3 - Finally pour the water and add ice cubes at your convenience.
 
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

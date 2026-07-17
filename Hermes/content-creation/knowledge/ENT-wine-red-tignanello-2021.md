@@ -7,8 +7,6 @@ tags: [葡萄酒, 红葡萄酒, 意大利, 超级托斯卡纳, 天娜, Antinori]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-tignanello, ENT-wine-real-tignanello-2018, ENT-wine-red-solaia-2016, ENT-wine-red-solaia-2021, ENT-brand-opus-one]
-related_typed: {ENT-wine-real-tignanello: same_brand, ENT-wine-real-tignanello-2018: same_brand, ENT-wine-red-solaia-2016: same_brand, ENT-wine-red-solaia-2021: same_region, ENT-brand-opus-one: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / wine-searcher.com
 version: 1

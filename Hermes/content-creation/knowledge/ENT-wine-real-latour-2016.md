@@ -7,8 +7,6 @@ tags: [葡萄酒, 红葡萄酒, 波尔多, 拉图, 一级庄]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-lafite-rothschild, ENT-wine-real-latour, ENT-wine-real-mouton-rothschild, ENT-wine-real-pichon-longueville-baron, ENT-wine-real-lynch-bages]
-related_typed: {ENT-wine-real-lafite-rothschild: same_region, ENT-wine-real-latour: same_region, ENT-wine-real-mouton-rothschild: same_region, ENT-wine-real-pichon-longueville-baron: same_region, ENT-wine-real-lynch-bages: same_region}
 data_confidence: verified
 data_source: Wine-Searcher/品牌官网
 version: 1

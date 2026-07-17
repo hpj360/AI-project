@@ -7,8 +7,6 @@ tags: [白酒, 勃艮第, 特级园, DRC, 霞多丽]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-chevalier-montrachet-leflaive-2015]
-related_typed: {ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-real-richebourg: same_brand, ENT-wine-white-montrachet-leflaive-2014: same_region, ENT-wine-white-chevalier-montrachet-leflaive-2015: same_region}
 data_confidence: simulated
 version: 1
 ---

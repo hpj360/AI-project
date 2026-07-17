@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 查特酒, 朗姆, 提基]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-martinez, ENT-cocktail-saturn, ENT-cocktail-jasmine, ENT-cocktail-tommys-margarita, ENT-cocktail-fogcutter]
-related_typed: {ENT-cocktail-martinez: same_region, ENT-cocktail-saturn: same_region, ENT-cocktail-jasmine: same_region, ENT-cocktail-tommys-margarita: same_region, ENT-cocktail-fogcutter: same_region}
 data_confidence: simulated
 data_source: Smuggler's Cove 配方
 version: 1

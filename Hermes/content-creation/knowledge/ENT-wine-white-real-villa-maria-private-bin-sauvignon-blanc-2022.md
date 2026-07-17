@@ -7,8 +7,6 @@ tags: [白葡萄酒, 新西兰, 长相思, Marlborough, Villa Maria]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-white-real-villa-maria-reserve-chardonnay-2022, ENT-wine-white-real-cloudy-bay-sauvignon-blanc-2022, ENT-wine-white-real-kim-crawford-sauvignon-blanc-2022, ENT-wine-white-real-oyster-bay-sauvignon-blanc-2022, ENT-wine-white-real-greywacke-sauvignon-blanc-2022]
-related_typed: {ENT-wine-white-real-villa-maria-reserve-chardonnay-2022: same_brand, ENT-wine-white-real-cloudy-bay-sauvignon-blanc-2022: same_region, ENT-wine-white-real-kim-crawford-sauvignon-blanc-2022: same_region, ENT-wine-white-real-oyster-bay-sauvignon-blanc-2022: same_region, ENT-wine-white-real-greywacke-sauvignon-blanc-2022: same_region}
 data_confidence: verified
 data_source: Wine-Searcher / James Suckling
 version: 1

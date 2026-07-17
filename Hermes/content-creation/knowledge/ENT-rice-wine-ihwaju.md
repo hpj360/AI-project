@@ -7,8 +7,6 @@ tags: [米酒, 韩国, 梨花酒, 传统]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rice-wine-makgeolli, ENT-rice-wine-yakju, ENT-baike-rice_wine-kejia-niangjiu, ENT-baike-rice_wine-riben-qingjiu, ENT-rice-guilin-san-hua-52]
-related_typed: {ENT-rice-wine-makgeolli: same_brand, ENT-rice-wine-yakju: same_brand, ENT-baike-rice_wine-kejia-niangjiu: cross_region, ENT-baike-rice_wine-riben-qingjiu: cross_region, ENT-rice-guilin-san-hua-52: same_subcat}
 data_confidence: simulated
 version: 1
 ---

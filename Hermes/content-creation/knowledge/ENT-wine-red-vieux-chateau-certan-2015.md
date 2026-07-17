@@ -7,8 +7,6 @@ tags: [红酒, 波尔多, 波美侯]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-petrus-2015, ENT-wine-red-le-pin-2015, ENT-wine-red-levangile-2015, ENT-wine-red-trotanoy-2015, ENT-baike-wine-tonghua-putaojiu]
-related_typed: {ENT-wine-red-petrus-2015: same_region, ENT-wine-red-le-pin-2015: same_region, ENT-wine-red-levangile-2015: same_region, ENT-wine-red-trotanoy-2015: same_region, ENT-baike-wine-tonghua-putaojiu: same_subcat}
 data_confidence: simulated
 version: 1
 ---

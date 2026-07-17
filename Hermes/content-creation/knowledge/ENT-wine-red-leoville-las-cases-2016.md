@@ -7,8 +7,6 @@ tags: [红酒, 波尔多, 圣朱利安]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-leoville-poyferre-2016, ENT-wine-red-ducru-beaucaillou-2016, ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu, ENT-brand-lafite-rothschild]
-related_typed: {ENT-wine-red-leoville-poyferre-2016: same_region, ENT-wine-red-ducru-beaucaillou-2016: same_region, ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-lafite-rothschild: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [场景, 约会, 浪漫, 二人世界, 起泡酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SCENE-spring-festival, SCENE-mid-autumn, SCENE-wedding, SCENE-business-dinner, SCENE-birthday]
-related_typed: {SCENE-spring-festival: same_subcat, SCENE-mid-autumn: same_subcat, SCENE-wedding: same_subcat, SCENE-business-dinner: same_subcat, SCENE-birthday: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,107 @@ version: 1
 
 约会场景用酒推荐：营造浪漫氛围的酒款选择与搭配建议。
 
-## 图片参考
+## 约会场景用酒推荐
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Date%20Night%20Wine%20scene%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Date%20Night%20Wine%20scene)
-- [Google 图片](https://www.google.com/search?q=Date%20Night%20Wine%20scene%20bottle&tbm=isch)
+### 约会用酒原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 浪漫氛围 | 起泡酒、桃红为主角 |
+| 口感优雅 | 避免过于浓重 |
+| 颜值酒标 | 精美酒标增色 |
+| 适量饮酒 | 保持清醒 |
 
-- **中文名**：约会场景用酒
-- **外文名**：Date Night Wine
-- **分类**：场景推荐
-- **产地**：
+### 按约会阶段推荐
 
-## 合规信息
+#### 1. 见面开场
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 推荐酒款 | 价格区间 | 备注 |
+|----------|----------|------|
+| 香槟 | 600-2000元 | 经典浪漫 |
+| Prosecco | 150-400元 | 经济选择 |
+| 桃红起泡 | 200-600元 | 浪漫色彩 |
+| Moscato d'Asti | 150-300元 | 甜美低酒精 |
+
+#### 2. 用餐搭配
+
+##### 西餐约会
+- 前菜：干白（长相思、霞多丽）
+- 主菜（海鲜）：干白（夏布利、霞多丽）
+- 主菜（红肉）：红酒（黑皮诺、梅洛）
+- 甜品：甜酒（Moscato、冰酒）
+
+##### 中餐约会
+- 粤菜：干白（霞多丽、灰皮诺）
+- 川菜：半甜雷司令、琼瑶浆
+- 日料：纯米酒、吟酿
+- 火锅：起泡酒、半甜雷司令
+
+##### 居家约会
+- 简餐：红酒（黑皮诺、梅洛）
+- 沙拉：干白（长相思）
+- 甜品：甜酒（Moscato、Asti）
+
+#### 3. 餐后小酌
+- 甜酒：苏玳、冰酒
+- 加强酒：Tawny Port
+- 起泡甜：Moscato d'Asti
+- 价格：300-1000元
+
+### 按约会类型推荐
+
+#### 浪漫晚餐
+
+| 阶段 | 推荐酒款 | 价格区间 |
+|------|----------|----------|
+| 开场 | 香槟、桃红起泡 | 500-1500元 |
+| 主菜 | 红酒（黑皮诺、勃艮第） | 500-2000元 |
+| 甜品 | 甜酒（Moscato、冰酒） | 200-800元 |
+
+#### 家居约会
+- 起泡：Prosecco、Cava
+- 红酒：智利、阿根廷
+- 甜酒：Moscato d'Asti
+- 价格：150-500元/瓶
+
+#### 户外野餐
+- 桃红：清爽便携
+- 起泡：Cava、Prosecco
+- 干白：长相思、灰皮诺
+- 价格：150-500元/瓶
+
+#### 酒吧约会
+- 香槟：经典选择
+- 鸡尾酒：香槟鸡尾酒
+- 红酒：勃艮第黑皮诺
+- 价格：500-2000元/瓶
+
+### 按预算推荐
+
+#### 经济方案（200-500元/瓶）
+- 起泡：Prosecco、Cava
+- 红酒：智利、阿根廷、西班牙
+- 甜酒：Moscato d'Asti
+
+#### 中端方案（500-1500元/瓶）
+- 起泡：香槟入门
+- 红酒：波尔多产区级、勃艮第村庄
+- 甜酒：苏玳入门、冰酒
+
+#### 高端方案（1500元以上/瓶）
+- 起泡：年份香槟、Krug
+- 红酒：勃艮第一级园、波尔多列级庄
+- 甜酒：苏玳顶级
+
+### 约会用酒注意事项
+
+- 起泡酒营造浪漫氛围
+- 桃红颜色浪漫
+- 避免过高度数（保持清醒）
+- 注意酒标颜值
+- 提前准备酒杯与冰桶
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

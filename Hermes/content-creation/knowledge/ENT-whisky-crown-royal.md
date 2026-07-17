@@ -7,8 +7,6 @@ tags: [威士忌, 加拿大, 调和威士忌]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-crown-royal-black, ENT-brand-yamazaki-12, ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson]
-related_typed: {ENT-whisky-crown-royal-black: same_brand, ENT-brand-yamazaki-12: same_subcat, ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [白酒, baijiu, 中国, 四川, 郎酒, 酱香型, 53度]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baike-baijiu-ext-shede, ENT-baike-baijiu-ext-shuijingfang, ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-fenjiu-laobaifen-10]
-related_typed: {ENT-baike-baijiu-ext-shede: same_region, ENT-baike-baijiu-ext-shuijingfang: same_region, ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat, ENT-baijiu-fenjiu-laobaifen-10: same_subcat}
 data_confidence: verified
 data_source: 新浪财经
 version: 1

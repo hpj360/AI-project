@@ -7,8 +7,6 @@ tags: [甜酒, 奥地利, TBA, Kracher, 贵腐]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-dessert-kracher-beerenauslese-zwischen-den-seen-2016, ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-royal-tokaji-gold-label]
-related_typed: {ENT-wine-dessert-kracher-beerenauslese-zwischen-den-seen-2016: same_brand, ENT-dessert-yquem-2018: cross_region, ENT-dessert-yquem-2022: cross_region, ENT-dessert-suduiraut-2023: cross_region, ENT-dessert-royal-tokaji-gold-label: same_subcat}
 data_confidence: simulated
 version: 1
 ---

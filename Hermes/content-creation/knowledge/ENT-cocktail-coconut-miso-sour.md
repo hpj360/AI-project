@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 发酵, 味噌, 椰子, 酸酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-newark, ENT-cocktail-mezcal-final-word, ENT-cocktail-amazake-highball, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini]
-related_typed: {ENT-cocktail-newark: same_brand, ENT-cocktail-mezcal-final-word: same_brand, ENT-cocktail-amazake-highball: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region}
 data_confidence: verified
 data_source: 2026 发酵调酒趋势 / 通用配方
 version: 1

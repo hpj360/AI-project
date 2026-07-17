@@ -7,8 +7,6 @@ tags: [葡萄酒, 红葡萄酒, 波尔多, 波亚克, 庞特卡奈, 五级庄, �
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wine-red-pontet-canet-2016, ENT-wine-real-lafite-rothschild, ENT-wine-real-latour, ENT-wine-real-mouton-rothschild, ENT-wine-real-pichon-longueville-baron]
-related_typed: {ENT-wine-red-pontet-canet-2016: same_brand, ENT-wine-real-lafite-rothschild: same_region, ENT-wine-real-latour: same_region, ENT-wine-real-mouton-rothschild: same_region, ENT-wine-real-pichon-longueville-baron: same_region}
 data_confidence: verified
 data_source: Wine-Searcher / wine-searcher.com
 version: 1

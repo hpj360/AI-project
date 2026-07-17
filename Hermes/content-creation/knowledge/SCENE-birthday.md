@@ -7,8 +7,6 @@ tags: [场景, 生日, 庆祝, 派对, 起泡酒]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SCENE-spring-festival, SCENE-mid-autumn, SCENE-wedding, SCENE-business-dinner, SCENE-date-night]
-related_typed: {SCENE-spring-festival: same_subcat, SCENE-mid-autumn: same_subcat, SCENE-wedding: same_subcat, SCENE-business-dinner: same_subcat, SCENE-date-night: same_subcat}
 data_confidence: official
 data_source: WSET Service & Buying Guide
 version: 1
@@ -22,26 +20,100 @@ version: 1
 
 生日庆祝用酒推荐：从孩子到长辈，不同年龄段的生日酒选择。
 
-## 图片参考
+## 生日庆祝用酒推荐
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Birthday%20Celebration%20Wine%20scene%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Birthday%20Celebration%20Wine%20scene)
-- [Google 图片](https://www.google.com/search?q=Birthday%20Celebration%20Wine%20scene%20bottle&tbm=isch)
+### 生日用酒原则
 
-## 基础信息
+| 原则 | 说明 |
+|------|------|
+| 喜庆氛围 | 起泡酒为主角 |
+| 寿星偏好 | 根据寿星口味选酒 |
+| 年龄适配 | 不同年龄段差异 |
+| 蛋糕搭配 | 甜酒配甜点 |
 
-- **中文名**：生日庆祝用酒
-- **外文名**：Birthday Wine
-- **分类**：场景推荐
-- **产地**：
+### 按年龄段推荐
 
-## 合规信息
+#### 孩子生日（非酒精）
+- 葡萄汁、气泡果汁
+- 国产无酒精起泡
+- 价格：50-150元
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 年轻人生日（18-35岁）
+- 起泡酒：Prosecco、Asti
+- 桃红：Moscato、Brachetto
+- 甜白：半甜雷司令
+- 价格：150-500元
+
+#### 中年人生日（35-60岁）
+- 香槟：Moët、Veuve Clicquot
+- 红酒：波尔多、勃艮第
+- 甜酒：苏玳、冰酒
+- 价格：500-2000元
+
+#### 长辈生日（60岁+）
+- 红酒：波尔多列级庄、勃艮第
+- 甜酒：贵腐、冰酒
+- 加强酒：Tawny Port
+- 价格：1000-5000元
+
+### 生日蛋糕配酒
+
+| 蛋糕类型 | 推荐酒款 | 搭配理由 |
+|----------|----------|----------|
+| 巧克力蛋糕 | Banyuls、Tawny Port | 浓郁匹配 |
+| 水果蛋糕 | Moscato d'Asti、Asti | 果香呼应 |
+| 奶酪蛋糕 | 苏玳、冰酒 | 甜度匹配 |
+| 提拉米苏 | Vin Santo、Recioto | 经典配 |
+| 草莓蛋糕 | 桃红起泡、Brachetto | 浆果香 |
+
+### 按场景推荐
+
+#### 家庭生日宴
+
+| 阶段 | 推荐酒款 | 价格区间 |
+|------|----------|----------|
+| 开场 | 起泡酒（香槟、Prosecco） | 200-800元 |
+| 主菜 | 红酒/白酒 | 300-1000元 |
+| 蛋糕 | 甜酒/起泡甜 | 200-800元 |
+
+#### 朋友生日派对
+- 起泡酒：Prosecco、Cava（氛围）
+- 红酒：智利、阿根廷（性价比）
+- 鸡尾酒：Sangria（派对应景）
+- 价格：150-500元/瓶
+
+#### 餐厅生日宴
+- 香槟开场
+- 红白配主菜
+- 甜酒配蛋糕
+- 价格：500-2000元/瓶
+
+### 按预算推荐
+
+#### 经济方案（200-500元/瓶）
+- 起泡：Cava、Prosecco
+- 红酒：智利、阿根廷
+- 甜酒：Moscato d'Asti
+
+#### 中端方案（500-1500元/瓶）
+- 起泡：香槟入门
+- 红酒：波尔多产区级、勃艮第村庄
+- 甜酒：苏玳入门、冰酒
+
+#### 高端方案（1500元以上/瓶）
+- 起泡：年份香槟、顶级香槟
+- 红酒：波尔多列级庄
+- 甜酒：苏玳顶级、贵腐
+
+### 生日用酒注意事项
+
+- 起泡酒是生日主角
+- 蛋糕甜度需匹配酒款甜度
+- 准备蜡烛与开瓶器
+- 注意酒精度（老人、女性）
+- 提供非酒精饮品
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET Service & Buying Guide
 - 数据置信度：official

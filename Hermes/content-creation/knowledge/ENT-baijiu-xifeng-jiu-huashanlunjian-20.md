@@ -7,8 +7,6 @@ tags: [白酒, baijiu, 中国, 陕西, 西凤, 凤香型, 55度]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-fenjiu-laobaifen-10, ENT-baijiu-fenjiu-qinghua-30, ENT-baijiu-fenjiu-huangai-bofen]
-related_typed: {ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat, ENT-baijiu-fenjiu-laobaifen-10: same_subcat, ENT-baijiu-fenjiu-qinghua-30: same_subcat, ENT-baijiu-fenjiu-huangai-bofen: same_subcat}
 data_confidence: verified
 data_source: 新浪财经
 version: 1

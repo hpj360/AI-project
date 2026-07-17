@@ -6,44 +6,28 @@
 
 Ace是一款鸡尾酒，使用5种配料调制，盛于马天尼杯。
 
-## 基础信息
+## 基本信息
 
-- **中文名**：Ace
-- **外文名**：Ace
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：8.6%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+- **酒精度**：约 8.6% ABV（估算）
+- **分类**：Cocktail
+- **含酒精**：Alcoholic
+- **推荐杯具**：马天尼杯（Martini Glass）
 
-## 风味轮廓
+## 配方
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
+| 配料 | 用量 |
+|------|------|
+| Gin | 2 shots |
+| Grenadine | 1/2 shot |
+| Heavy cream | 1/2 shot |
+| Milk | 1/2 shot |
+| Egg White | 1/2 Fresh |
 
-## 评分奖项
+## 调制方法
 
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.8 | 41697 |
-| Difford's Guide | 4.49 | 2023 |
-| IBA 推荐 | 5.0 | 2022 |
-
-### 获奖记录
-
-- **2019** Tales of the Cocktail Spirited Award
-- **2019** IBA World Competition Gold
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
+Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

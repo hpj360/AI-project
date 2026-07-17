@@ -7,8 +7,6 @@ tags: [法律法规, 酒驾, BAC, 血液酒精浓度, 各国标准]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
-related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official
 data_source: WHO Global Status Report on Road Safety; 各国交通法规
 version: 1
@@ -22,26 +20,85 @@ version: 1
 
 各国酒驾BAC标准差异显著，中国≥20mg/100ml、美国≥80mg/100ml、日本≥15mg/100ml，体现公共健康政策差异。
 
-## 图片参考
+## 概念说明
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Global%20Drink%20Driving%20Limits%20law%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Global%20Drink%20Driving%20Limits%20law)
-- [Google 图片](https://www.google.com/search?q=Global%20Drink%20Driving%20Limits%20law%20bottle&tbm=isch)
+### BAC（血液酒精浓度）单位
 
-## 基础信息
+- **mg/100ml**：每100毫升血液中酒精毫克数
+- **‰（千分比）**：每1000毫升血液中酒精克数
+- **g/dL**：每100毫升血液中酒精克数（美国常用）
 
-- **中文名**：各国酒驾血液酒精浓度标准
-- **外文名**：Blood Alcohol Concentration Limits by Country
-- **分类**：法律法规
-- **产地**：
+#### 单位换算
 
-## 合规信息
+| mg/100ml | ‰ | g/dL |
+|----------|---|------|
+| 20 | 0.2 | 0.02 |
+| 50 | 0.5 | 0.05 |
+| 80 | 0.8 | 0.08 |
+| 100 | 1.0 | 0.10 |
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 各国酒驾标准对比
+
+#### 亚洲
+
+| 国家/地区 | BAC限值（mg/100ml） | 处罚（首次） |
+|-----------|---------------------|--------------|
+| 中国大陆 | ≥20（饮酒驾车）/ ≥80（醉酒驾车） | 吊销驾照5年，追究刑责 |
+| 中国香港 | 22（约0.05%） | 罚款+监禁 |
+| 日本 | ≥15 | 罚款+3年以下监禁 |
+| 韩国 | ≥50 | 罚款+吊销驾照 |
+| 新加坡 | ≥35 | 罚款+监禁 |
+| 印度 | 30 | 6个月监禁 |
+| 泰国 | 50 | 罚款+监禁 |
+
+#### 欧洲
+
+| 国家 | BAC限值（mg/100ml） | 特殊规定 |
+|------|---------------------|----------|
+| 英国 | 80（苏格兰为50） | - |
+| 德国 | 50 | 新司机5年内零容忍 |
+| 法国 | 50 | 需备呼吸测酒器 |
+| 意大利 | 50 | 新司机零容忍3年 |
+| 西班牙 | 50 | 新司机20 |
+| 瑞典 | 20 | 严刑9个月 |
+| 挪威 | 20 | - |
+| 波兰 | 20 | - |
+| 捷克 | 0 | 完全禁止 |
+| 匈牙利 | 0 | 完全禁止 |
+
+#### 美洲与大洋洲
+
+| 国家 | BAC限值（mg/100ml） | 备注 |
+|------|---------------------|------|
+| 美国 | 80（联邦） | 部分州对<21岁为0 |
+| 加拿大 | 80（已降为50） | 2018年新法 |
+| 澳大利亚 | 50 | 学习/临时驾照为0 |
+| 新西兰 | 50 | <20岁为0 |
+| 巴西 | 0 | 完全禁止 |
+
+### 中国酒驾认定标准
+
+依据《车辆驾驶人员血液、呼气酒精含量阈值与检验》（GB 19522-2024）：
+
+| 类别 | 血液酒精含量 | 处罚 |
+|------|--------------|------|
+| 饮酒驾车 | 20-80 mg/100ml | 暂扣6个月驾照，1000-2000元罚款 |
+| 醉酒驾车 | ≥80 mg/100ml | 吊销驾照，5年内不得重新取得，追究刑事责任 |
+
+#### 醉驾入刑
+
+依据《刑法修正案（八）》（2011年）：
+
+- **危险驾驶罪**：醉酒驾驶机动车，处拘役（1-6个月），并处罚金
+- 不论是否发生事故，只要达到醉驾标准即入刑
+
+### 国际趋势
+
+- 严格化：多数国家BAC限值呈下降趋势
+- 零容忍：捷克、匈牙利、沙特等国完全禁止
+- 新司机严格化：欧盟多数国家对新手司机要求更低BAC
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WHO Global Status Report on Road Safety; 各国交通法规
 - 数据置信度：official

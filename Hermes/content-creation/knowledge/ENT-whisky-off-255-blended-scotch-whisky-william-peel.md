@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, whisky, 威士忌, WILLIAM PEEL]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-whisky-off-253-william-peel, ENT-brand-glenlivet-12, ENT-brand-lagavulin-16, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black]
-related_typed: {ENT-whisky-off-253-william-peel: same_brand, ENT-brand-glenlivet-12: cross_region, ENT-brand-lagavulin-16: cross_region, ENT-brand-laphroaig-10: same_subcat, ENT-brand-johnnie-walker-black: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

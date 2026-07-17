@@ -7,8 +7,6 @@ tags: [OpenFoodFacts, gin, 金酒, Bombay Sapphire]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-gin-off-127-bombay-sapphire-london-dry-gin, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks, ENT-gin-hendricks-lunar]
-related_typed: {ENT-gin-off-127-bombay-sapphire-london-dry-gin: same_brand, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat, ENT-gin-hendricks-lunar: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

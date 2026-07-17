@@ -7,8 +7,6 @@ tags: [加强酒, 马德拉, Verdelho, 年份]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-port-taylor-fladgate-vintage-2024, ENT-port-dows-vintage-2016, ENT-port-grahams-ruby-2019, ENT-port-grahams-20year-tawny, ENT-port-taylors-40year-tawny]
-related_typed: {ENT-port-taylor-fladgate-vintage-2024: cross_region, ENT-port-dows-vintage-2016: cross_region, ENT-port-grahams-ruby-2019: cross_region, ENT-port-grahams-20year-tawny: cross_region, ENT-port-taylors-40year-tawny: same_subcat}
 data_confidence: simulated
 version: 1
 ---

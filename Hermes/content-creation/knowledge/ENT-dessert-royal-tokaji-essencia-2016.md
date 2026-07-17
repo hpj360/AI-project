@@ -7,8 +7,6 @@ tags: [甜酒, dessert, 匈牙利, 托卡伊, Tokaji, Essencia, 顶级, Furmint]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-dessert-royal-tokaji-gold-label, ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-vin-de-constance]
-related_typed: {ENT-dessert-royal-tokaji-gold-label: same_brand, ENT-dessert-yquem-2018: cross_region, ENT-dessert-yquem-2022: cross_region, ENT-dessert-suduiraut-2023: cross_region, ENT-dessert-vin-de-constance: same_subcat}
 data_confidence: verified
 data_source: Wine Enthusiast
 version: 1

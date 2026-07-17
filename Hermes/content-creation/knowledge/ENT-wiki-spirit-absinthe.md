@@ -7,8 +7,6 @@ tags: [烈酒, 苦艾酒, 茴香, 瑞士]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-wiki-spirit-soju, ENT-wiki-spirit-baijiu-intro, ENT-wiki-spirit-arak, ENT-wiki-spirit-grappa, ENT-wiki-spirit-eau-de-vie]
-related_typed: {ENT-wiki-spirit-soju: same_subcat, ENT-wiki-spirit-baijiu-intro: same_subcat, ENT-wiki-spirit-arak: same_subcat, ENT-wiki-spirit-grappa: same_subcat, ENT-wiki-spirit-eau-de-vie: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1
@@ -22,26 +20,51 @@ version: 1
 
 苦艾酒是高酒精度茴香味烈酒，起源于瑞士，19世纪末在法国流行。
 
-## 图片参考
+## 概述
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Absinthe%20other_spirit%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Absinthe%20other_spirit)
-- [Google 图片](https://www.google.com/search?q=Absinthe%20other_spirit%20bottle&tbm=isch)
+苦艾酒（Absinthe）是一种高酒精度的茴香味烈酒，酒精度通常在45%-74%之间，部分传统配方可达89.9%。起源于18世纪末的瑞士，19世纪在法国巴黎流行，被称为"绿仙子"（La Fée Verte）。
 
-## 基础信息
+## 历史背景
 
-- **中文名**：苦艾酒
-- **外文名**：Absinthe
-- **分类**：其他烈酒
-- **产地**：瑞士/法国
+- **起源**：约1792年，瑞士医生Pierre Ordinaire发明了苦艾酒配方
+- **商业化**：1797年，Henri-Louis Pernod在瑞士Couvet开设第一家苦艾酒酒厂
+- **黄金时代**：19世纪末-20世纪初，法国"美好年代"（Belle Époque）时期的标志性饮品
+- **禁令**：1915年法国禁止苦艾酒（误认其致幻），2000年后欧盟解禁
+- **解禁**：2007年美国解禁苦艾酒
 
-## 合规信息
+## 酿造工艺
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 原料
+- **基酒**：中性酒精（葡萄酒或谷物蒸馏）
+- **草药**：苦艾（Artemisia absinthium）、茴香、茴芹
+- **辅助**：薄荷、柠檬草、当归根等
+
+### 工艺
+1. 中性酒精浸泡草药
+2. 蒸馏提取精油
+3. 静置陈化
+4. 部分产品进行着色（叶绿素浸出）
+
+## 风味特征
+
+- **颜色**：清澈或翡翠绿
+- **香气**：茴香、草本、泥土
+- **口感**：茴香主导，苦味回甘，草本复杂
+- **余味**：悠长草本
+
+## 饮用方式
+
+### 传统法（法国仪式）
+1. 倒一杯苦艾酒
+2. 在特制勺子上放糖块
+3. 缓慢滴入冰水（1:3至1:5比例）
+4. 糖溶解后饮用
+
+### 现代饮用
+- 直接加冰水
+- 用于鸡尾酒（Death in the Afternoon, Sazerac变体）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wikipedia
 - 数据置信度：verified

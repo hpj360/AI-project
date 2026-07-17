@@ -7,8 +7,6 @@ tags: [鸡尾酒, 创新, 可持续, Flor de Caña, 玉米, 菠萝皮, Tales 202
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-bacardi-carta-blanca, ENT-brand-captain-morgan-original, ENT-brand-havana-club-3, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
-related_typed: {ENT-brand-bacardi-carta-blanca: base_to_cocktail, ENT-brand-captain-morgan-original: base_to_cocktail, ENT-brand-havana-club-3: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: verified
 data_source: Tales of the Cocktail 2025 / Flor de Caña Sustainable Cocktail Competition
 version: 1

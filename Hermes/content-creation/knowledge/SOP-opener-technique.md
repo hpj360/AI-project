@@ -7,8 +7,6 @@ tags: [酒具器皿, 开瓶, 操作规范, 软木塞]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-glassware-red-bordeaux, SOP-glassware-red-burgundy, SOP-glassware-white, SOP-glassware-sparkling, SOP-glassware-spirits]
-related_typed: {SOP-glassware-red-bordeaux: same_subcat, SOP-glassware-red-burgundy: same_subcat, SOP-glassware-white: same_subcat, SOP-glassware-sparkling: same_subcat, SOP-glassware-spirits: same_subcat}
 data_confidence: official
 data_source: ISG国际侍酒师协会/WSET侍酒标准
 version: 1
@@ -22,26 +20,100 @@ version: 1
 
 软木塞完整取出、断塞处理、老酒开瓶的专业操作规范。
 
-## 图片参考
+## 海马刀标准操作
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Opening%20Technique%20glassware%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Opening%20Technique%20glassware)
-- [Google 图片](https://www.google.com/search?q=Opening%20Technique%20glassware%20bottle&tbm=isch)
+### 第一步：割帽
 
-## 基础信息
+1. **持瓶**：左手握瓶身，瓶身略倾斜
+2. **定位**：刀片贴瓶唇下方
+3. **切割**：顺时针或逆时针旋转一圈
+4. **揭帽**：用刀尖挑起锡纸，揭下
+5. **擦拭**：用干净布擦净瓶口
 
-- **中文名**：开瓶技术
-- **外文名**：Bottle Opening Technique
-- **分类**：酒具器皿
-- **产地**：
+### 第二步：螺旋插入
 
-## 合规信息
+1. **定位螺旋**：尖端对准软木塞中心
+2. **45°斜插**：螺旋呈45°角插入第一圈
+3. **垂直旋转**：旋转至垂直，继续深入
+4. **深度控制**：插入至距塞底1cm，约5-6圈
+5. **避免穿透**：穿透会污染酒液
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+### 第三步：杠杆拔塞
+
+1. **第一段杠杆**：卡住瓶口，缓慢上提至70°
+2. **切换第二段**：用第二段卡口继续上提
+3. **手拔最后**：手握塞子缓慢旋转拔出
+4. **听声**：完整软木塞应有轻微"啵"声
+5. **擦拭瓶口**：内外清洁
+
+## 断塞处理
+
+### 断塞原因
+
+- 软木塞老化干燥
+- 螺旋钻偏移
+- 拔塞过猛
+- 螺旋钻过短
+
+### 处理方法
+
+| 情况 | 处理方式 |
+|------|---------|
+| 断塞外露1/2 | 重新插入螺旋，垂直缓慢拔出 |
+| 断塞外露1/3 | 用Ah-So夹住残塞拔出 |
+| 断塞陷入瓶内 | 用细长工具推入瓶中，过滤酒液 |
+| 软木塞粉碎 | 过滤酒液，更换醒酒器 |
+
+### 紧急过滤
+
+1. **纱布过滤**：双层纱布覆盖瓶口
+2. **咖啡滤纸**：细密滤纸二次过滤
+3. **不锈钢滤网**：茶滤或专用酒滤
+4. **更换容器**：过滤后转入醒酒器
+
+## 老酒开瓶规范
+
+### 准备工作
+
+1. **直立静置**：开瓶前24-48小时
+2. **检查瓶况**：水位、酒色、塞顶状态
+3. **工具准备**：Ah-So老酒开瓶器
+4. **光源准备**：蜡烛或强光手电
+
+### Ah-So操作
+
+1. **插入长片**：长金属片沿塞与瓶壁间隙插入
+2. **插入短片**：短金属片插入另一侧
+3. **摇摆深入**：左右摇摆，缓慢深入
+4. **旋转拔出**：握住手柄旋转上提
+5. **检查塞子**：观察塞子状况、酒液
+
+## 香槟开瓶规范
+
+### 安全操作
+
+1. **去除锡纸**：撕开蘑菇塞锡纸
+2. **松开铁丝**：逆时针拧6圈，保留铁丝笼
+3. **持瓶姿势**：45°斜持，瓶口朝无人方向
+4. **握塞旋转**：一手握塞，一手转瓶底
+5. **缓慢释放**：感受压力，缓慢倾斜拔出
+6. **避免喷射**：发出"嘶"声而非"砰"声
+
+### 禁忌
+
+- 严禁对准人脸
+- 严禁摇晃瓶身
+- 严禁去除铁丝后立即开塞
+- 严禁高温环境开瓶
+
+## 开瓶后处理
+
+1. **擦拭瓶口**：内外清洁
+2. **闻塞确认**：检查有无霉味、TCA污染
+3. **小口试酒**：确认无异常后侍酒
+4. **保留软木塞**：陈列或回收
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：ISG国际侍酒师协会/WSET侍酒标准
 - 数据置信度：official

@@ -7,8 +7,6 @@ tags: [鸡尾酒, 高球, 金酒, 青柠, IBA]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-saketini, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball]
-related_typed: {ENT-cocktail-saketini: cross_region, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
 version: 1

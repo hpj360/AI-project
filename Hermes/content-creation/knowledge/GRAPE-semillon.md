@@ -7,8 +7,6 @@ tags: [葡萄品种, 白品种, 赛美蓉, 苏玳, 波尔多]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [GRAPE-cabernet-sauvignon, GRAPE-merlot, GRAPE-pinot-noir, GRAPE-syrah, GRAPE-grenache]
-related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat}
 data_confidence: official
 data_source: Wine Grapes (Jancis Robinson)/WSET
 version: 1
@@ -22,26 +20,60 @@ version: 1
 
 波尔多白混酿的核心品种，苏玳贵腐甜白的主角，猎人谷独特单品种风格。
 
-## 图片参考
+## 品种概况
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=S%C3%A9millon%20grape%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/S%C3%A9millon%20grape)
-- [Google 图片](https://www.google.com/search?q=S%C3%A9millon%20grape%20bottle&tbm=isch)
+### 基本信息
 
-## 基础信息
+- **原产地**：法国波尔多
+- **亲本**：古老品种，与长相思有亲缘关系
+- **果串**：中等大小，圆柱形，较紧凑
+- **果粒**：中等，皮薄，金黄色
+- **成熟期**：中熟
 
-- **中文名**：赛美蓉
-- **外文名**：Sémillon
-- **分类**：葡萄品种
-- **产地**：
+### 风味特征
 
-## 合规信息
+#### 苏玳贵腐甜白
+- **香气**：杏子、菠萝、蜂蜜、藏红花、无花果、橘子酱
+- **酸度**：中高（平衡甜度）
+- **酒体**：饱满，浓郁粘稠
+- **甜度**：极高
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+#### 波尔多干白（混酿）
+- **香气**：柠檬、青苹果、蜂蜡、柠檬草
+- **酸度**：中等
+- **酒体**：中等
+- **橡木**：常经橡木桶
+
+#### 澳洲猎人谷（单品种干白）
+- **香气**：青柠、蜂蜡、烤面包、皮革（陈年）
+- **酸度**：低
+- **酒体**：中等至饱满
+- **陈年**：独特陈年能力
+
+### 主要产区
+
+| 产区 | 风格特征 | 代表酒庄 |
+|------|----------|----------|
+| 苏玳/巴萨克 | 贵腐甜白，陈年极强 | 滴金、Climens、Suduiraut |
+| 佩萨克-雷奥良 | 干白混酿经典 | Domaine de Chevalier、Haut-Brion |
+| 猎人谷 | 单品种干白，独特陈年 | Tyrrell's、Brokenwood |
+| 巴罗萨谷 | 单品种丰富风格 | Peter Lehmann |
+| 华盛顿州 | 单品种饱满 | L'Ecole 41 |
+
+### 混酿搭配
+
+- **波尔多干白**：赛美蓉+长相思+密斯卡岱
+- **苏玳贵腐**：赛美蓉为主（80%+）+长相思+密斯卡岱
+- **猎人谷**：通常单品种装瓶
+
+### 陈年潜力
+
+- 滴金贵腐甜白：50-100年+
+- 苏玳顶级：30-50年
+- 猎人谷单品种：20-30年+
+- 波尔多干白顶级：10-15年
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：Wine Grapes (Jancis Robinson)/WSET
 - 数据置信度：official

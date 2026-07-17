@@ -7,8 +7,6 @@ tags: [SOP, 白葡萄酒, 品鉴]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [SOP-wine-tasting-5steps, SOP-whisky-tasting, SOP-sake-tasting, SOP-baijiu-tasting, SOP-champagne-service]
-related_typed: {SOP-wine-tasting-5steps: same_subcat, SOP-whisky-tasting: same_subcat, SOP-sake-tasting: same_subcat, SOP-baijiu-tasting: same_subcat, SOP-champagne-service: same_subcat}
 data_confidence: official
 data_source: WSET Systematic Approach to Tasting (White Wine)
 version: 1

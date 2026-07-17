@@ -7,8 +7,6 @@ tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-dark-n-stormy, ENT-cocktail-vesper, ENT-cocktail-gimlet, ENT-cocktail-screwdriver, ENT-cocktail-harvey-wallbanger]
-related_typed: {ENT-cocktail-dark-n-stormy: same_subcat, ENT-cocktail-vesper: same_subcat, ENT-cocktail-gimlet: same_subcat, ENT-cocktail-screwdriver: same_subcat, ENT-cocktail-harvey-wallbanger: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1
@@ -26,50 +24,28 @@ ratings:
 
 Gin Cooler是一款经典饮品，使用5种配料调制，盛于柯林斯杯。
 
-## 图片参考
+## 基本信息
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Gin%20Cooler%20cocktail%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Gin%20Cooler%20cocktail)
-- [Google 图片](https://www.google.com/search?q=Gin%20Cooler%20cocktail%20bottle&tbm=isch)
+- **酒精度**：约 40.0% ABV（估算）
+- **分类**：Ordinary Drink
+- **含酒精**：Alcoholic
+- **推荐杯具**：柯林斯杯（Collins glass）
 
-## 基础信息
+## 配方
 
-- **中文名**：Gin Cooler
-- **外文名**：Gin Cooler
-- **分类**：鸡尾酒
-- **产地**：
-- **酒精度**：40.0%
-- **参考价格（RMB）**：¥50-200
-- **价格档位**：daily
+| 配料 | 用量 |
+|------|------|
+| Gin | 2 oz |
+| Carbonated water | 适量 |
+| Powdered sugar | 适量 |
+| Orange spiral | 适量 |
+| Lemon peel | 适量 |
 
-## 风味轮廓
+## 调制方法
 
-| 维度 | 评分 (1-5) | 轮廓 |
-|------|-----------|------|
-| 甜 | 3 | ███░░ |
-| 酸 | 3 | ███░░ |
-| 苦 | 2 | ██░░░ |
-| 烈 | 3 | ███░░ |
-| 香 | 4 | ████░ |
-> 注：风味轮廓为子类默认值，具体品牌可能有差异。
-
-## 评分奖项
-
-| 评分机构 | 评分 | 年份/票数 |
-|---------|------|----------|
-| Vivino 用户 | 4.6 | 38287 |
-| Difford's Guide | 4.15 | 2022 |
-| IBA 推荐 | 4.3 | 2021 |
-
-> 注：以上为参考评分（离线知识库整理），实际以官方发布为准。
-
-## 合规信息
-
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：TheCocktailDB / thecocktaildb.com
 - 数据置信度：verified

@@ -7,8 +7,6 @@ tags: [朗姆酒, 古巴, 哈瓦那俱乐部, 陈年]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-rum-off-174-rhum-cubain, ENT-rum-havana-club-3, ENT-rum-havana-club-anejo-reserva, ENT-rum-caribbean-ron-del-caribe, ENT-brand-diplomatico-reserva]
-related_typed: {ENT-rum-off-174-rhum-cubain: same_brand, ENT-rum-havana-club-3: same_brand, ENT-rum-havana-club-anejo-reserva: same_brand, ENT-rum-caribbean-ron-del-caribe: same_region, ENT-brand-diplomatico-reserva: same_subcat}
 data_confidence: simulated
 version: 1
 ---

@@ -7,8 +7,6 @@ tags: [伏特加, 法国, 高端]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-brand-belvedere, ENT-brand-stolichnaya, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
-related_typed: {ENT-brand-belvedere: cross_region, ENT-brand-stolichnaya: cross_region, ENT-brand-finlandia: cross_region, ENT-vodka-off-141-absolut-vodka: same_subcat, ENT-vodka-off-142-poliakov: same_subcat}
 data_confidence: official
 data_source: 品牌官方/Wikipedia
 version: 1

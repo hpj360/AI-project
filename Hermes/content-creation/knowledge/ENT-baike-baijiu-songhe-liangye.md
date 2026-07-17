@@ -7,8 +7,6 @@ tags: [百度百科, baijiu, 宋河粮液]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-baijiu-luzhou-touqu, ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-fenjiu-laobaifen-10, ENT-baijiu-fenjiu-qinghua-30]
-related_typed: {ENT-baijiu-luzhou-touqu: same_subcat, ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat, ENT-baijiu-fenjiu-laobaifen-10: same_subcat, ENT-baijiu-fenjiu-qinghua-30: same_subcat}
 data_confidence: verified
 data_source: 百度百科
 source_url: https://baike.baidu.com/item/%E5%AE%8B%E6%B2%B3%E7%B2%AE%E6%B6%B2

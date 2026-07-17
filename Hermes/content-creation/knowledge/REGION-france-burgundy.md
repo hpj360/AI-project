@@ -7,8 +7,6 @@ tags: [产区风土, 法国, 勃艮第, 黑皮诺, 霞多丽]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [REGION-france-bordeaux, REGION-france-champagne, REGION-france-rhone, REGION-france-loire, REGION-france-alsace]
-related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat, REGION-france-alsace: same_subcat}
 data_confidence: official
 data_source: WSET/BIVB
 version: 1
@@ -22,26 +20,49 @@ version: 1
 
 以单一品种葡萄酒闻名的顶级产区，黑皮诺与霞多丽的圣地，风土分级最为精细。
 
-## 图片参考
+## 地理与气候
 
-- [WikiMedia Commons](https://commons.wikimedia.org/w/index.php?search=Burgundy%20region%20bottle&title=Special:MediaSearch&type=image)
-- [Unsplash 图库](https://unsplash.com/s/photos/Burgundy%20region)
-- [Google 图片](https://www.google.com/search?q=Burgundy%20region%20bottle&tbm=isch)
+### 位置
+- 法国东部，从第戎到里昂
+- 核心产区为金丘（Côte d'Or）
+- 金丘分为夜丘（Côte de Nuits）和伯恩丘（Côte de Beaune）
 
-## 基础信息
+### 气候
+- 大陆性气候
+- 冬季寒冷，春季霜冻风险大
+- 夏季温暖但短促，秋季雨水影响收获
 
-- **中文名**：勃艮第
-- **外文名**：Burgundy
-- **分类**：产区风土
-- **产地**：
+### 土壤
+- 侏罗纪石灰岩和泥灰岩
+- 金丘以石灰岩为主，赋予矿物感
+- 夏布利（Chablis）为启莫里奇阶土壤（Kimmeridgian）
+- 风土差异决定地块等级
 
-## 合规信息
+## 法定等级（四级金字塔）
 
-- **可购性**：市售
-- **合规提示**：理性饮酒，未成年人禁止饮酒
+| 等级 | 数量 | 占比 |
+|------|------|------|
+| 特级园 Grand Cru | 33块 | 约1% |
+| 一级园 Premier Cru | 约640块 | 约10% |
+| 村庄级 Village | 44个 | 约23% |
+| 大区级 Régional | - | 约52% |
+
+## 主要子产区
+
+- **夏布利**：霞多丽白，矿物感强，高酸
+- **夜丘**：黑皮诺红为主（伏旧、罗曼尼、热夫雷）
+- **伯恩丘**：霞多丽白为主（默尔索、蒙哈榭），亦有黑皮诺
+- **夏隆内丘**：吕利、梅尔居雷
+- **马孔内**：普伊-富赛（霞多丽）
+
+## 代表酒庄
+- 罗曼尼·康帝酒庄（DRC）
+- 亨利·贾耶（Henri Jayer）
+- 乐华酒庄（Leroy）
+- 法维莱（Faiveley）
+- 路易亚都（Louis Jadot）
 
 ## 参考资料
 
-- 本条目由 content-creation 知识库构建系统生成，基于公开资料整理。
 - 数据来源：WSET/BIVB
 - 数据置信度：official

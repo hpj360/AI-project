@@ -7,8 +7,6 @@ tags: [鸡尾酒, 现代经典, 梅斯卡尔, 龙舌兰, 古典]
 status: active
 created: 2026-07-17
 updated: 2026-07-17
-related: [ENT-cocktail-naked-and-famous, ENT-cocktail-naked-famous, ENT-cocktail-dirty-martini, ENT-cocktail-french-martini, ENT-cocktail-tom-collins]
-related_typed: {ENT-cocktail-naked-and-famous: same_brand, ENT-cocktail-naked-famous: same_brand, ENT-cocktail-dirty-martini: same_region, ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region}
 data_confidence: simulated
 version: 1
 ---
