@@ -1,4 +1,4 @@
-# 皇冠 Imperia
+# 皇冠 Imperia（伏特加）
 
 **Russian Standard Imperia**
 

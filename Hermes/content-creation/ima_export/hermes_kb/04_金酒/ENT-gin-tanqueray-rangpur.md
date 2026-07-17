@@ -1,4 +1,4 @@
-# 添加利 Rangpur
+# 添加利 Rangpur（金酒）
 
 **Tanqueray Rangpur**
 

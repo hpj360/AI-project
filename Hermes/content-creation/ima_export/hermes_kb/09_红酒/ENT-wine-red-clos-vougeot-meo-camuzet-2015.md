@@ -1,4 +1,4 @@
-# 伏旧园 Méo-Camuzet 2015
+# 伏旧园 Méo-Camuzet 2015（红酒）
 
 **Clos de Vougeot Méo-Camuzet 2015**
 

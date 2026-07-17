@@ -1,4 +1,4 @@
-# 衡水老白干 十九酒坊
+# 衡水老白干 十九酒坊（白酒）
 
 **Hengshui Laobaigan 19 Jiu Fang**
 

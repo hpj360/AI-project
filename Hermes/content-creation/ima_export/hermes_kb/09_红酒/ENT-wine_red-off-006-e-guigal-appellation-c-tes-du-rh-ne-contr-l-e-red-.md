@@ -1,4 +1,4 @@
-# E.Guigal Appellation Côtes Du Rhône Contrôlée Red Wine
+# E.Guigal Appellation Côtes Du Rhône Contrôlée Red Wine（葡萄酒）
 
 **E.Guigal Appellation Côtes Du Rhône Contrôlée Red Wine**
 

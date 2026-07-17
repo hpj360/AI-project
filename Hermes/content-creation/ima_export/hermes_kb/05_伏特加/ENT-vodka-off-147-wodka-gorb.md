@@ -1,4 +1,4 @@
-# Wodka Gorb.
+# Wodka Gorb.（伏特加）
 
 **Wodka Gorb.**
 

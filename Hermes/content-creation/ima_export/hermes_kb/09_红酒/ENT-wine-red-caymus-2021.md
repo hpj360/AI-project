@@ -1,4 +1,4 @@
-# Caymus赤霞珠 2021
+# Caymus赤霞珠 2021（葡萄酒）
 
 **Caymus Vineyards Cabernet Sauvignon 2021**
 

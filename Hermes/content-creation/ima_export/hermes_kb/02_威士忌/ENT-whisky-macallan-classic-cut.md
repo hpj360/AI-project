@@ -1,4 +1,4 @@
-# 麦卡伦 经典切
+# 麦卡伦 经典切（威士忌）
 
 **Macallan Classic Cut**
 

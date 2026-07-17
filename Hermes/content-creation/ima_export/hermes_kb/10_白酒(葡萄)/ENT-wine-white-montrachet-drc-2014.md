@@ -1,4 +1,4 @@
-# 蒙哈榭 DRC 2014
+# 蒙哈榭 DRC 2014（白酒）
 
 **Domaine de la Romanée-Conti Montrachet 2014**
 

@@ -1,4 +1,4 @@
-# 九江双蒸
+# 九江双蒸（白酒）
 
 **Jiujiang Shuangzheng**
 

@@ -1,4 +1,4 @@
-# 卡慕 Ile de Ré Fine Island
+# 卡慕 Ile de Ré Fine Island（白兰地）
 
 **Camus Ile de Ré Fine Island Cognac**
 

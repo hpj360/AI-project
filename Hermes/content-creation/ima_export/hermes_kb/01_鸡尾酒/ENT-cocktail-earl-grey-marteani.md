@@ -1,4 +1,4 @@
-# 伯爵茶马天尼
+# 伯爵茶马天尼（金酒）
 
 **Earl Grey MarTEAni**
 

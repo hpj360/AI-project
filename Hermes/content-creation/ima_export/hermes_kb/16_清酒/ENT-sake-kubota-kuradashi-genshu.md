@@ -1,4 +1,4 @@
-# 久保田 蔵出原酒
+# 久保田 蔵出原酒（清酒）
 
 **Kubota Kuradashi Genshu**
 

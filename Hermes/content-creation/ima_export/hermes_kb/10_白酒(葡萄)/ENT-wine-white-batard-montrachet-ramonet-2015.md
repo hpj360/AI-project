@@ -1,4 +1,4 @@
-# 巴塔蒙哈榭拉莫内 2015
+# 巴塔蒙哈榭拉莫内 2015（白酒）
 
 **Domaine Ramonet Bâtard-Montrachet 2015**
 

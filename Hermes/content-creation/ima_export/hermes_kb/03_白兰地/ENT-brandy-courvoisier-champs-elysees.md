@@ -1,4 +1,4 @@
-# 拿破仑 香榭丽舍
+# 拿破仑 香榭丽舍（白兰地）
 
 **Courvoisier Champs-Élysées**
 

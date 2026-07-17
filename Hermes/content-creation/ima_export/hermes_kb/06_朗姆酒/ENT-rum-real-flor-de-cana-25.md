@@ -1,4 +1,4 @@
-# Flor de Caña 25
+# 甘蔗花（Flor de Caña 25）
 
 **Flor de Caña 25 Year Old Rum**
 

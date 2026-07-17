@@ -1,4 +1,4 @@
-# 露纹艺术系列设拉子 2016
+# 露纹艺术系列设拉子 2016（红酒）
 
 **Leeuwin Estate Art Series Shiraz 2016**
 

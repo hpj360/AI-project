@@ -1,4 +1,4 @@
-# El Dorado 21
+# El Dorado 21（朗姆酒）
 
 **El Dorado 21 Year Old Rum**
 

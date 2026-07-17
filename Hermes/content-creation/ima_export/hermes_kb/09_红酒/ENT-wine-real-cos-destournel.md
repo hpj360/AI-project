@@ -1,4 +1,4 @@
-# 爱士图尔古堡
+# 爱士图尔古堡（红酒）
 
 **Château Cos d'Estournel**
 

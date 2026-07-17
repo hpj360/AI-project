@@ -1,4 +1,4 @@
-# 史密斯拉菲特白 2017
+# 史密斯拉菲特白 2017（白酒）
 
 **Château Smith Haut Lafitte Blanc 2017**
 

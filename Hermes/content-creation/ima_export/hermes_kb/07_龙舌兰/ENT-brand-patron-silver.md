@@ -1,4 +1,4 @@
-# 培恩 Silver
+# 培恩 Silver（龙舌兰）
 
 **Patrón Silver**
 

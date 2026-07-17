@@ -1,4 +1,4 @@
-# 绍兴花雕酒 十年陈（出口装）
+# 绍兴花雕酒 十年陈（出口装）（黄酒）
 
 **Shaoxing Hua Diao Wine Aged 10 Years (Export)**
 

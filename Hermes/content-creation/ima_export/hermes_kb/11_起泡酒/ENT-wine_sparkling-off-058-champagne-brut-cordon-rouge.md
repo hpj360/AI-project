@@ -1,4 +1,4 @@
-# Champagne brut Cordon Rouge
+# 香槟（Champagne brut Cordon Rouge）
 
 **Champagne brut Cordon Rouge**
 

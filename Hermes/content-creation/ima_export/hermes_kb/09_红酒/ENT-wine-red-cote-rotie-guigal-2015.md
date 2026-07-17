@@ -1,4 +1,4 @@
-# 罗第吉佳尔 2015
+# 罗第吉佳尔 2015（红酒）
 
 **E. Guigal Côte-Rôtie La Mouline 2015**
 

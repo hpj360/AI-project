@@ -1,4 +1,4 @@
-# Tequila Jose Cuervo
+# 豪帅快活（Tequila Jose Cuervo）
 
 **Tequila Jose Cuervo**
 

@@ -1,4 +1,4 @@
-# 卡帝娜·萨帕塔 阿德里安娜园 2018
+# 卡帝娜·萨帕塔 阿德里安娜园 2018（葡萄酒）
 
 **Catena Zapata Adrianna Vineyard 2018**
 

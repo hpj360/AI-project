@@ -1,4 +1,4 @@
-# 漓江三花酒 28 度（珍品）
+# 漓江三花酒 28 度（珍品）（米酒）
 
 **Lijiang Sanhua Wine 28% (Premium)**
 

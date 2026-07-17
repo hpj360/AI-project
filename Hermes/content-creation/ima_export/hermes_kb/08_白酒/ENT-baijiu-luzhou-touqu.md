@@ -1,4 +1,4 @@
-# 泸州老窖 头曲
+# 泸州老窖 头曲（白酒）
 
 **Luzhou Laojiao Touqu**
 

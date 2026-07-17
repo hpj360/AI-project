@@ -1,4 +1,4 @@
-# Blended Scotch Whisky
+# Blended Scotch Whisky（威士忌）
 
 **Blended Scotch Whisky**
 

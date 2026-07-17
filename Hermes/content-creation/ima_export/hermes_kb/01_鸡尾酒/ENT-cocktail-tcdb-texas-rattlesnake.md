@@ -1,4 +1,4 @@
-# Texas Rattlesnake
+# 响尾蛇（Texas Rattlesnake）
 
 **Texas Rattlesnake**
 

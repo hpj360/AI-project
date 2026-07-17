@@ -1,4 +1,4 @@
-# 百富 14 年卡瑞杜
+# 百富 14 年卡瑞杜（威士忌）
 
 **Balvenie 14 Caribbean Cask**
 

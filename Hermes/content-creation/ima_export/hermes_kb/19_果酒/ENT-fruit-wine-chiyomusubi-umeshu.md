@@ -1,4 +1,4 @@
-# 千代结梅酒
+# 千代结梅酒（果酒）
 
 **Chiyomusubi Umeshu**
 

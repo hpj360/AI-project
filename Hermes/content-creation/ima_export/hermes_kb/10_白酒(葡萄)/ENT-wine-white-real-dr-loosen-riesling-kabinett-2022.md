@@ -1,4 +1,4 @@
-# Dr. Loosen Kabinett 雷司令 2022
+# Dr. Loosen Kabinett 雷司令 2022（葡萄酒）
 
 **Dr. Loosen Riesling Kabinett Mosel 2022**
 

@@ -1,4 +1,4 @@
-# 浓缩咖啡马天尼（迪克原版）
+# 浓缩咖啡马天尼（迪克原版）（伏特加）
 
 **Espresso Martini (Dick Bradsell Original)**
 

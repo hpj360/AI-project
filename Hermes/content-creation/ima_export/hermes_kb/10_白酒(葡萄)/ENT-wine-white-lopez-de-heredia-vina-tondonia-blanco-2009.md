@@ -1,4 +1,4 @@
-# 瑞加度尼亚白 2009
+# 瑞加度尼亚白 2009（白酒）
 
 **R. López de Heredia Viña Tondonia Blanco 2009**
 

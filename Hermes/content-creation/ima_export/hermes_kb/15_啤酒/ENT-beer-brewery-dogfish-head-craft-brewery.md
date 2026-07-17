@@ -1,4 +1,4 @@
-# Dogfish Head Craft Brewery 啤酒厂
+# Dogfish Head Craft Brewery 啤酒厂（啤酒）
 
 **Dogfish Head Craft Brewery**
 

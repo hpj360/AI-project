@@ -1,4 +1,4 @@
-# 西施佳雅 2016
+# 西施佳雅 2016（红酒）
 
 **Tenuta San Guido Sassicaia 2016**
 

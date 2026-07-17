@@ -1,4 +1,4 @@
-# Gran Centenario Leyenda
+# Gran Centenario Leyenda（龙舌兰）
 
 **Gran Centenario Leyenda Extra Añejo Tequila**
 

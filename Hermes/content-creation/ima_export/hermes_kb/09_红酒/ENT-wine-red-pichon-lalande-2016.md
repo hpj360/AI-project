@@ -1,4 +1,4 @@
-# 碧尚女爵城堡 2016
+# 碧尚女爵城堡 2016（红酒）
 
 **Château Pichon Longueville Comtesse de Lalande 2016**
 

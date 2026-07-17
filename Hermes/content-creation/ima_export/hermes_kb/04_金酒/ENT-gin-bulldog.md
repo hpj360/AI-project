@@ -1,4 +1,4 @@
-# 狮牌 Bulldog
+# 狮牌 Bulldog（金酒）
 
 **Bulldog Gin**
 

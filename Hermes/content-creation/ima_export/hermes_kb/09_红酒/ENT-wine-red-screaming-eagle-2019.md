@@ -1,4 +1,4 @@
-# 啸鹰赤霞珠 2019
+# 啸鹰赤霞珠 2019（葡萄酒）
 
 **Screaming Eagle Cabernet Sauvignon 2019**
 

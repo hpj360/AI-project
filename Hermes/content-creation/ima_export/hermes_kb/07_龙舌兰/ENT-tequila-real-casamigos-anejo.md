@@ -1,4 +1,4 @@
-# Casamigos Añejo
+# 卡萨米格斯（Casamigos Añejo）
 
 **Casamigos Añejo Tequila**
 

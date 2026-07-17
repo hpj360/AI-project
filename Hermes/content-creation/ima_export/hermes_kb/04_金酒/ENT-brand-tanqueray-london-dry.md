@@ -1,4 +1,4 @@
-# 添加利伦敦干金酒
+# 添加利伦敦干金酒（金酒）
 
 **Tanqueray London Dry Gin**
 

@@ -1,4 +1,4 @@
-# 美格 波本
+# 美格 波本（威士忌）
 
 **Maker's Mark Bourbon**
 

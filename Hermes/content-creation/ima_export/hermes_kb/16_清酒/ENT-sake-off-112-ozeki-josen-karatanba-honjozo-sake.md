@@ -1,4 +1,4 @@
-# Ozeki Josen Karatanba Honjozo Sake
+# 清酒（Ozeki Josen Karatanba Honjozo Sake）
 
 **Ozeki Josen Karatanba Honjozo Sake**
 

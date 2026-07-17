@@ -1,4 +1,4 @@
-# 卡萨诺沃 Casamigos Blanco
+# 卡萨诺沃 Casamigos Blanco（龙舌兰）
 
 **Casamigos Blanco**
 

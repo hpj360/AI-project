@@ -1,4 +1,4 @@
-# 奥纳亚 2016
+# 奥纳亚 2016（红酒）
 
 **Tenuta dell'Ornellaia 2016**
 

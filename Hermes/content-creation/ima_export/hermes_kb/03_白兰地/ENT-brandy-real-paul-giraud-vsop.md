@@ -1,4 +1,4 @@
-# Paul Giraud VSOP
+# 保罗吉罗（Paul Giraud VSOP）
 
 **Paul Giraud VSOP Cognac**
 

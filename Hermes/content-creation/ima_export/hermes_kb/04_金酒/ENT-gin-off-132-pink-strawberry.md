@@ -1,4 +1,4 @@
-# Pink Strawberry
+# Pink Strawberry（金酒）
 
 **Pink Strawberry**
 

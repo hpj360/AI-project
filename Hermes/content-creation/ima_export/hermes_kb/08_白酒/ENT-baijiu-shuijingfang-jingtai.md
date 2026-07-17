@@ -1,4 +1,4 @@
-# 水井坊 井台
+# 水井坊 井台（白酒）
 
 **Shuijingfang Jingtai**
 

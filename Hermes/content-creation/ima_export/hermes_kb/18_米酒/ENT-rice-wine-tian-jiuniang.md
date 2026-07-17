@@ -1,4 +1,4 @@
-# 甜酒酿
+# 甜酒酿（米酒）
 
 **Sweet Fermented Rice**
 

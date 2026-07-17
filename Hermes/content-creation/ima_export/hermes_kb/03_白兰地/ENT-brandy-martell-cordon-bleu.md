@@ -1,4 +1,4 @@
-# 马爹利 蓝带
+# 马爹利 蓝带（白兰地）
 
 **Martell Cordon Bleu**
 

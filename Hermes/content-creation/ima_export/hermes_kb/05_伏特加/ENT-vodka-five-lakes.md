@@ -1,4 +1,4 @@
-# 五湖 Pyat Ozer
+# 五湖 Pyat Ozer（伏特加）
 
 **Pyat Ozer Vodka**
 

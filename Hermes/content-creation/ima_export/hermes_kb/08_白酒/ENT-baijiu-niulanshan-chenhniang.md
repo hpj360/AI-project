@@ -1,4 +1,4 @@
-# 牛栏山 陈酿
+# 牛栏山 陈酿（白酒）
 
 **Niulanshan Chenniang**
 

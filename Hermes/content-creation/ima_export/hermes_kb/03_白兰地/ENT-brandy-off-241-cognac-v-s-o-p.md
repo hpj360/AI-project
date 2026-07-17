@@ -1,4 +1,4 @@
-# Cognac V.S.O.P.
+# Cognac V.S.O.P.（白兰地）
 
 **Cognac V.S.O.P.**
 

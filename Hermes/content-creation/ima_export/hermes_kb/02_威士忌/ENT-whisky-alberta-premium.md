@@ -1,4 +1,4 @@
-# Alberta Premium
+# 阿尔伯塔至尊（Alberta Premium）
 
 **Alberta Premium**
 

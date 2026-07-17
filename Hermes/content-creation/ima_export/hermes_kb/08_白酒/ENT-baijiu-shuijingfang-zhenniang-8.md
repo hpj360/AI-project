@@ -1,4 +1,4 @@
-# 水井坊 臻酿八号
+# 水井坊 臻酿八号（白酒）
 
 **Shuijingfang Zhenniang 8**
 

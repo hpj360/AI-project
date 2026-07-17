@@ -1,4 +1,4 @@
-# BUMBU Original rum 40%
+# 原创（BUMBU Original rum 40%）
 
 **BUMBU Original rum 40%**
 

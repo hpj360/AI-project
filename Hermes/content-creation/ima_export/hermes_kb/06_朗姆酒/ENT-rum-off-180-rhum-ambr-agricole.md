@@ -1,4 +1,4 @@
-# Rhum ambré agricole
+# Rhum ambré agricole（朗姆酒）
 
 **Rhum ambré agricole**
 

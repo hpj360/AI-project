@@ -1,4 +1,4 @@
-# 清酒酿造工艺
+# 清酒酿造工艺（清酒）
 
 **Sake Brewing Process**
 

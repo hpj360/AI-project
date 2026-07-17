@@ -1,4 +1,4 @@
-# Empellón Cocina's Fat-Washed Mezcal
+# 梅斯卡尔（Empellón Cocina's Fat-Washed Mezcal）
 
 **Empellón Cocina's Fat-Washed Mezcal**
 

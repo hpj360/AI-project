@@ -1,4 +1,4 @@
-# Sir Edward's Finest Blended Scotch Whisky
+# Sir Edward's Finest Blended Scotch Whisky（威士忌）
 
 **Sir Edward's Finest Blended Scotch Whisky**
 

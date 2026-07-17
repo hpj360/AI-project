@@ -1,4 +1,4 @@
-# Punk IPA
+# 朋克IPA（Punk IPA）
 
 **Punk IPA**
 

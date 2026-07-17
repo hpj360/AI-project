@@ -1,4 +1,4 @@
-# Pétrus 帕图斯
+# Pétrus 帕图斯（红酒）
 
 **Pétrus**
 

@@ -1,4 +1,4 @@
-# 按酱汁配酒
+# 按酱汁配酒（红酒）
 
 **Sauce-Based Food and Wine Pairing**
 

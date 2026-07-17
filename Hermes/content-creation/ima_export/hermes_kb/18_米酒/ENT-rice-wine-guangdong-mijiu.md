@@ -1,4 +1,4 @@
-# 广东米酒
+# 广东米酒（米酒）
 
 **Guangdong Rice Wine**
 

@@ -1,4 +1,4 @@
-# Johnnie Walker Blue Label
+# 尊尼获加（Johnnie Walker Blue Label）
 
 **Johnnie Walker Blue Label Blended Scotch Whisky**
 

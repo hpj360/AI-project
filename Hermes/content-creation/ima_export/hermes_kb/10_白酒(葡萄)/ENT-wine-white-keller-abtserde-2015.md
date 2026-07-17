@@ -1,4 +1,4 @@
-# 凯勒 2015
+# 凯勒 2015（白酒）
 
 **Weingut Keller Rheinhessen Westhofen Abtserde 2015**
 

@@ -1,4 +1,4 @@
-# SILVER tequila 40%
+# SILVER tequila 40%（龙舌兰）
 
 **SILVER tequila 40%**
 

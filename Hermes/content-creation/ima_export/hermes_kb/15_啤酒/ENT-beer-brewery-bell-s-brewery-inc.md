@@ -1,4 +1,4 @@
-# Bell's Brewery, Inc 啤酒厂
+# Bell's Brewery, Inc 啤酒厂（啤酒）
 
 **Bell's Brewery, Inc**
 

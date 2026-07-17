@@ -1,4 +1,4 @@
-# 嘉士伯啤酒
+# 嘉士伯啤酒（啤酒）
 
 **Carlsberg Pilsner**
 

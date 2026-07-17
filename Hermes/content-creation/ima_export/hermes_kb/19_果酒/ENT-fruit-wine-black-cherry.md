@@ -1,4 +1,4 @@
-# 黑樱桃酒
+# 黑樱桃酒（果酒）
 
 **Black Cherry Wine**
 

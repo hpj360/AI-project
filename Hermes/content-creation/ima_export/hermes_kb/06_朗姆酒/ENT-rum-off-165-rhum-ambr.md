@@ -1,4 +1,4 @@
-# Rhum ambré
+# Rhum ambré（朗姆酒）
 
 **Rhum ambré**
 

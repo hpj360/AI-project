@@ -1,4 +1,4 @@
-# Sierra Tequila Blanco
+# Sierra Tequila Blanco（龙舌兰）
 
 **Sierra Tequila Blanco**
 

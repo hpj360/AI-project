@@ -1,4 +1,4 @@
-# 伏旧园 DRC 2015
+# 伏旧园 DRC 2015（红酒）
 
 **Clos de Vougeot DRC 2015**
 

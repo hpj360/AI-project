@@ -1,4 +1,4 @@
-# 汤品配酒
+# 汤品配酒（葡萄酒）
 
 **Soup and Wine Pairing**
 

@@ -1,4 +1,4 @@
-# 唐胡里奥 Blanco
+# 唐胡里奥 Blanco（龙舌兰）
 
 **Don Julio Blanco**
 

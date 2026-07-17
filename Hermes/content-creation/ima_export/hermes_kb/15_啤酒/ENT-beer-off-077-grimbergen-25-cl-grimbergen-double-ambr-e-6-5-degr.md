@@ -1,4 +1,4 @@
-# Grimbergen 25 cl Grimbergen Double Ambrèe 6.5 DEGRE ALCOOL
+# Grimbergen 25 cl Grimbergen Double Ambrèe 6.5 DEGRE ALCOOL（啤酒）
 
 **Grimbergen 25 cl Grimbergen Double Ambrèe 6.5 DEGRE ALCOOL**
 

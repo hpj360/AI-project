@@ -1,4 +1,4 @@
-# 孟买蓝宝石 奢华
+# 孟买蓝宝石 奢华（金酒）
 
 **Bombay Sapphire East**
 

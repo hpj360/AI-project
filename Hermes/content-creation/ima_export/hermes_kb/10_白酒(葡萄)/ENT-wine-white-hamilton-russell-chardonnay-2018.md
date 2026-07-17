@@ -1,4 +1,4 @@
-# 汉密尔顿拉塞尔霞多丽 2018
+# 汉密尔顿拉塞尔霞多丽 2018（白酒）
 
 **Hamilton Russell Chardonnay 2018**
 

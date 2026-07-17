@@ -1,4 +1,4 @@
-# 洋河 天之蓝
+# 洋河 天之蓝（白酒）
 
 **Yanghe Tianzhilan**
 

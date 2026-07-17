@@ -1,4 +1,4 @@
-# 摩根船长原味香料朗姆
+# 摩根船长原味香料朗姆（朗姆酒）
 
 **Captain Morgan Original Spiced Rum**
 

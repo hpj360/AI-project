@@ -1,4 +1,4 @@
-# 石榴酒
+# 石榴酒（果酒）
 
 **Pomegranate Wine**
 

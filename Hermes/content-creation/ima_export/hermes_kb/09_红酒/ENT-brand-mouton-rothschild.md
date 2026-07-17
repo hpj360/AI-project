@@ -1,4 +1,4 @@
-# 木桐罗斯柴尔德
+# 木桐罗斯柴尔德（红酒）
 
 **Château Mouton Rothschild**
 

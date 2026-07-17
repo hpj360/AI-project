@@ -1,4 +1,4 @@
-# 绍扎 Blanco
+# 绍扎 Blanco（龙舌兰）
 
 **Sauza Blanco**
 

@@ -1,4 +1,4 @@
-# Alus BREWDOG PUNK ipa
+# 朋克IPA（Alus BREWDOG PUNK ipa）
 
 **Alus BREWDOG PUNK ipa**
 

@@ -1,4 +1,4 @@
-# 奥纳亚 2021
+# 奥纳亚 2021（葡萄酒）
 
 **Ornellaia Bolgheri Superiore 2021**
 

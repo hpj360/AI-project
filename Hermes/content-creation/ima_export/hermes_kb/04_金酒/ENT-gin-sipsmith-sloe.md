@@ -1,4 +1,4 @@
-# 黑刺莓 Sipsmith Sloe
+# 黑刺莓 Sipsmith Sloe（金酒）
 
 **Sipsmith Sloe Gin**
 

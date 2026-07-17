@@ -1,4 +1,4 @@
-# 肯德尔杰克逊珍藏霞多丽 2018
+# 肯德尔杰克逊珍藏霞多丽 2018（白酒）
 
 **Kendall-Jackson Vintner's Reserve Chardonnay 2018**
 

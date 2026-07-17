@@ -1,4 +1,4 @@
-# 百加得白朗姆
+# 百加得白朗姆（朗姆酒）
 
 **Bacardi Carta Blanca**
 

@@ -1,4 +1,4 @@
-# Forstquell 啤酒厂
+# Forstquell 啤酒厂（啤酒）
 
 **Forstquell**
 

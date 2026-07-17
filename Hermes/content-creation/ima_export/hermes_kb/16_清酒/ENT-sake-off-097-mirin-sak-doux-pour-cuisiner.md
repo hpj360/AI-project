@@ -1,4 +1,4 @@
-# Mirin Saké doux pour cuisiner
+# Mirin Saké doux pour cuisiner（清酒）
 
 **Mirin Saké doux pour cuisiner**
 

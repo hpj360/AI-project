@@ -1,4 +1,4 @@
-# 调配型苏格兰威士忌 Blended Scotch Whisky
+# 调配型苏格兰威士忌 Blended Scotch Whisky（威士忌）
 
 **Blended Scotch Whisky**
 

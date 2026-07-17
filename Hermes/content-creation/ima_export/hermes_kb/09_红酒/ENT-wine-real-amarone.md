@@ -1,4 +1,4 @@
-# 阿玛罗尼
+# 阿玛罗尼（红酒）
 
 **Amarone della Valpolicella**
 

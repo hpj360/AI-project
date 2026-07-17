@@ -1,4 +1,4 @@
-# 茅台防伪鉴别指南
+# 茅台防伪鉴别指南（白酒）
 
 **Moutai Anti-Counterfeit Guide**
 

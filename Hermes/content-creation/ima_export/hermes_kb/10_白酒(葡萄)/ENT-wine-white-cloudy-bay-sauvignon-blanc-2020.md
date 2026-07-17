@@ -1,4 +1,4 @@
-# 云雾之湾长相思 2020
+# 云雾之湾长相思 2020（白酒）
 
 **Cloudy Bay Sauvignon Blanc 2020**
 

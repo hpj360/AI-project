@@ -1,4 +1,4 @@
-# Sake
+# 清酒（Sake）
 
 **Sake**
 

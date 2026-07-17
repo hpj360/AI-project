@@ -1,4 +1,4 @@
-# 单车长相思 2020
+# 单车长相思 2020（白酒）
 
 **Cono Sur Bicicleta Sauvignon Blanc 2020**
 

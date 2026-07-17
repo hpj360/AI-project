@@ -1,4 +1,4 @@
-# Jacob's Creek 霞多丽 2022
+# Jacob's Creek 霞多丽 2022（葡萄酒）
 
 **Jacob's Creek Chardonnay South Eastern Australia 2022**
 

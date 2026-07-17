@@ -1,4 +1,4 @@
-# 中国白酒投资趋势
+# 中国白酒投资趋势（白酒）
 
 **China Baijiu Investment Trends**
 

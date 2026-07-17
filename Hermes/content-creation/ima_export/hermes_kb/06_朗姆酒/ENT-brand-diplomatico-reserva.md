@@ -1,4 +1,4 @@
-# 外交官 Reserva Exclusiva
+# 外交官 Reserva Exclusiva（朗姆酒）
 
 **Diplomático Reserva Exclusiva**
 

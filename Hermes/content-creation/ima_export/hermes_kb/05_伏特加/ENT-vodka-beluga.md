@@ -1,4 +1,4 @@
-# 贝尔鲁卡 Beluga
+# 贝尔鲁卡 Beluga（伏特加）
 
 **Beluga Noble**
 

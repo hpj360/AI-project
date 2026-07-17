@@ -1,4 +1,4 @@
-# 江西封缸酒
+# 江西封缸酒（黄酒）
 
 **Jiangxi Fenggang Wine**
 

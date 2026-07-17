@@ -1,4 +1,4 @@
-# 尤尼科
+# 尤尼科（红酒）
 
 **Vega Sicilia Unico**
 

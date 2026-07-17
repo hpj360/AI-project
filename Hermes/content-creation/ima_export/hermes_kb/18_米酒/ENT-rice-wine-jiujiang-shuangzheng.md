@@ -1,4 +1,4 @@
-# 九江双蒸酒
+# 九江双蒸酒（米酒）
 
 **Jiujiang Shuangzheng Wine**
 

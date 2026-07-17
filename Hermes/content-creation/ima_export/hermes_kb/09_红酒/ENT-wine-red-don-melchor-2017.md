@@ -1,4 +1,4 @@
-# 唐美佳 2017
+# 唐美佳 2017（红酒）
 
 **Concha y Toro Don Melchor 2017**
 

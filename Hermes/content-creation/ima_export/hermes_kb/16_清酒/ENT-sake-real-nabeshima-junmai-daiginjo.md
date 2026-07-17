@@ -1,4 +1,4 @@
-# 锅岛 纯米大吟醸
+# 锅岛 纯米大吟醸（清酒）
 
 **Nabeshima Junmai Daiginjo**
 

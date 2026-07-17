@@ -1,4 +1,4 @@
-# Casas del Bosque 长相思 2022
+# Casas del Bosque 长相思 2022（葡萄酒）
 
 **Casas del Bosque Sauvignon Blanc Casablanca 2022**
 

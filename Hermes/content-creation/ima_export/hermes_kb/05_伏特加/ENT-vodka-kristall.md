@@ -1,4 +1,4 @@
-# 水晶 Kristall
+# 水晶 Kristall（伏特加）
 
 **Kristall Vodka**
 

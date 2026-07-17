@@ -1,4 +1,4 @@
-# Greywacke 长相思 2022
+# Greywacke 长相思 2022（葡萄酒）
 
 **Greywacke Sauvignon Blanc Marlborough 2022**
 

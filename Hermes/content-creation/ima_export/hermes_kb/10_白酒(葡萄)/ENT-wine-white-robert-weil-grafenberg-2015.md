@@ -1,4 +1,4 @@
-# 罗伯特威尔 2015
+# 罗伯特威尔 2015（白酒）
 
 **Weingut Robert Weil Kiedrich Gräfenberg 2015**
 

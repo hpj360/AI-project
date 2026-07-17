@@ -1,4 +1,4 @@
-# 伊瑟索 Jayer 1999
+# 伊瑟索 Jayer 1999（红酒）
 
 **Échézeaux Henri Jayer 1999**
 

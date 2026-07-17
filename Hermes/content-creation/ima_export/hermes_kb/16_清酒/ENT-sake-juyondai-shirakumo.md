@@ -1,4 +1,4 @@
-# 十四代 白雲
+# 十四代 白雲（清酒）
 
 **Juyondai Shirakumo**
 

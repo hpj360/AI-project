@@ -1,4 +1,4 @@
-# Bombay Sapphire London Dry Gin
+# 孟买蓝宝石（Bombay Sapphire London Dry Gin）
 
 **Bombay Sapphire London Dry Gin**
 

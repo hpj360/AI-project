@@ -1,4 +1,4 @@
-# 圣詹姆斯 St. James
+# 圣詹姆斯 St. James（朗姆酒）
 
 **St. James Rhum**
 

@@ -1,4 +1,4 @@
-# Casamigos Reposado
+# 卡萨米格斯（Casamigos Reposado）
 
 **Casamigos Reposado Tequila**
 

@@ -1,4 +1,4 @@
-# 里奥哈珍藏
+# 里奥哈珍藏（红酒）
 
 **Rioja Gran Reserva**
 

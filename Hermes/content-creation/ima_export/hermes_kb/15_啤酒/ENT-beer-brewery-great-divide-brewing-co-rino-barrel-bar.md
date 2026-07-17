@@ -1,4 +1,4 @@
-# Great Divide Brewing Co - RiNo Barrel Bar 啤酒厂
+# Great Divide Brewing Co - RiNo Barrel Bar 啤酒厂（啤酒）
 
 **Great Divide Brewing Co - RiNo Barrel Bar**
 

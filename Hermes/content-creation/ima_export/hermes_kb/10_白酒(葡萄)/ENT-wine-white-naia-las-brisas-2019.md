@@ -1,4 +1,4 @@
-# 奈亚绿风 2019
+# 奈亚绿风 2019（白酒）
 
 **Bodegas Naia Las Brisas 2019**
 

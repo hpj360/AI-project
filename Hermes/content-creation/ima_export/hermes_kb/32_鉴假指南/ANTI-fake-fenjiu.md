@@ -1,4 +1,4 @@
-# 汾酒防伪鉴别指南
+# 汾酒防伪鉴别指南（白酒）
 
 **Fenjiu Anti-Counterfeit Guide**
 

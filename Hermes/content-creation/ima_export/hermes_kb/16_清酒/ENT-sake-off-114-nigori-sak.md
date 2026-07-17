@@ -1,4 +1,4 @@
-# Nigori saké
+# 浊酒（Nigori saké）
 
 **Nigori saké**
 

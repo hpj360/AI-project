@@ -1,4 +1,4 @@
-# CHOYA Extra Years Umeshu
+# CHOYA Extra Years Umeshu（果酒）
 
 **CHOYA Extra Years Umeshu**
 

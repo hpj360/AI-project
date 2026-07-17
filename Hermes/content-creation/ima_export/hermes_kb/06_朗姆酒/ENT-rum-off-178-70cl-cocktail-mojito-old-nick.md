@@ -1,4 +1,4 @@
-# 70CL Cocktail Mojito Old Nick
+# 莫吉托（70CL Cocktail Mojito Old Nick）
 
 **70CL Cocktail Mojito Old Nick**
 

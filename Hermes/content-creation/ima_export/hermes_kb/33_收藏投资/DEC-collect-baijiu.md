@@ -1,4 +1,4 @@
-# 白酒收藏
+# 白酒收藏（白酒）
 
 **Baijiu Collection**
 

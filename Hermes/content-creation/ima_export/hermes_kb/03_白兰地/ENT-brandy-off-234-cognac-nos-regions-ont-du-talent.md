@@ -1,4 +1,4 @@
-# Cognac Nos Regions ont du Talent
+# Cognac Nos Regions ont du Talent（白兰地）
 
 **Cognac Nos Regions ont du Talent**
 

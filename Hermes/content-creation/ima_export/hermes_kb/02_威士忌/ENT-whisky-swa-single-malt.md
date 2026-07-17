@@ -1,4 +1,4 @@
-# 单一麦芽苏格兰威士忌 Single Malt Scotch Whisky
+# 单一麦芽苏格兰威士忌 Single Malt Scotch Whisky（威士忌）
 
 **Single Malt Scotch Whisky**
 

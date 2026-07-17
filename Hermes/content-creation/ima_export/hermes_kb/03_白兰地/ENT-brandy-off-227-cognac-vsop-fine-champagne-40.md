@@ -1,4 +1,4 @@
-# Cognac Vsop - Fine Champagne 40°
+# 香槟（Cognac Vsop - Fine Champagne 40°）
 
 **Cognac Vsop - Fine Champagne 40°**
 

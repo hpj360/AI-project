@@ -1,4 +1,4 @@
-# 红星 二锅头
+# 红星 二锅头（白酒）
 
 **Hongxing Erguotou**
 

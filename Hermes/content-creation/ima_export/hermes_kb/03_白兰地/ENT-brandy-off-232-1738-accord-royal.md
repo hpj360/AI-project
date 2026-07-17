@@ -1,4 +1,4 @@
-# 1738 Accord Royal
+# 1738 Accord Royal（白兰地）
 
 **1738 Accord Royal**
 

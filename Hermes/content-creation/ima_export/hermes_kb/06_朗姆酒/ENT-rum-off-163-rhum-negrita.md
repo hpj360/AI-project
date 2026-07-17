@@ -1,4 +1,4 @@
-# Rhum Negrita
+# 内格里塔（Rhum Negrita）
 
 **Rhum Negrita**
 

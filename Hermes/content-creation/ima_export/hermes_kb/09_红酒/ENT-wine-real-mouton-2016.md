@@ -1,4 +1,4 @@
-# 木桐古堡 2016
+# 木桐古堡 2016（葡萄酒）
 
 **Château Mouton Rothschild 2016**
 

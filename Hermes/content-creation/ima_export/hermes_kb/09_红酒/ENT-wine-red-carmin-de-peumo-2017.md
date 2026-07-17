@@ -1,4 +1,4 @@
-# 卡尔明 2017
+# 卡尔明 2017（红酒）
 
 **Concha y Toro Carmin de Peumo 2017**
 

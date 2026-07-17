@@ -1,4 +1,4 @@
-# 调配谷物苏格兰威士忌 Blended Grain Scotch Whisky
+# 调配谷物苏格兰威士忌 Blended Grain Scotch Whisky（威士忌）
 
 **Blended Grain Scotch Whisky**
 

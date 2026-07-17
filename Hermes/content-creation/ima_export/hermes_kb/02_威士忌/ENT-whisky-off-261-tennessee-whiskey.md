@@ -1,4 +1,4 @@
-# Tennessee Whiskey
+# Tennessee Whiskey（威士忌）
 
 **Tennessee Whiskey**
 

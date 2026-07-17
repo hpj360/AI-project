@@ -1,4 +1,4 @@
-# SUNTORY 山崎桶陈梅酒 RICH AMBER
+# SUNTORY 山崎桶陈梅酒 RICH AMBER（果酒）
 
 **SUNTORY Plum Liqueur Barrel-aged from Yamazaki Distillery RICH AMBER**
 

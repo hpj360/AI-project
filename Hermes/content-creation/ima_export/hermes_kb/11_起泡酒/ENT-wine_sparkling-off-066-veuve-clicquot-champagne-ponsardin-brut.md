@@ -1,4 +1,4 @@
-# Veuve Clicquot Champagne Ponsardin Brut
+# 香槟（Veuve Clicquot Champagne Ponsardin Brut）
 
 **Veuve Clicquot Champagne Ponsardin Brut**
 

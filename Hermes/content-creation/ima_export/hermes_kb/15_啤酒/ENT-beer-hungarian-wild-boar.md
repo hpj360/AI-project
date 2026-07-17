@@ -1,4 +1,4 @@
-# 匈牙利野猪啤酒
+# 匈牙利野猪啤酒（啤酒）
 
 **Hungarian Wild Boar**
 

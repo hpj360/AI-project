@@ -1,4 +1,4 @@
-# 大都会鱼子酱
+# 大都会鱼子酱（伏特加）
 
 **Cosmopolitan Caviar**
 

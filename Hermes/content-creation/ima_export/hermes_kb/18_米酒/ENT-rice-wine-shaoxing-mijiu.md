@@ -1,4 +1,4 @@
-# 绍兴米酒
+# 绍兴米酒（米酒）
 
 **Shaoxing Rice Wine**
 

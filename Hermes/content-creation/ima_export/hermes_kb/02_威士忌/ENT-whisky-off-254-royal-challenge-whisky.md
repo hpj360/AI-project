@@ -1,4 +1,4 @@
-# Royal Challenge Whisky
+# Royal Challenge Whisky（威士忌）
 
 **Royal Challenge Whisky**
 

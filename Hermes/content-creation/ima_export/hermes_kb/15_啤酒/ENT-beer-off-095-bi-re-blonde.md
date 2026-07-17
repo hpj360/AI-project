@@ -1,4 +1,4 @@
-# Bière blonde
+# Bière blonde（啤酒）
 
 **Bière blonde**
 

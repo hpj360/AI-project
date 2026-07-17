@@ -1,4 +1,4 @@
-# 葡萄酒通用鉴别方法
+# 葡萄酒通用鉴别方法（葡萄酒）
 
 **General Wine Identification Methods**
 

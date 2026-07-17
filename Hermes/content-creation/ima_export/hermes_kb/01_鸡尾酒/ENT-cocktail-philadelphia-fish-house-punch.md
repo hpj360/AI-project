@@ -1,4 +1,4 @@
-# 费城渔会潘趣
+# 费城渔会潘趣（白兰地）
 
 **Philadelphia Fish House Punch**
 

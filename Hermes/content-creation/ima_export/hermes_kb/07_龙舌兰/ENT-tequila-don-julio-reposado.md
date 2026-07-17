@@ -1,4 +1,4 @@
-# 唐胡里奥 Reposado
+# 唐胡里奥 Reposado（龙舌兰）
 
 **Don Julio Reposado**
 

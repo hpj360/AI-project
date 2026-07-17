@@ -1,4 +1,4 @@
-# 中国白酒GB/T国家标准
+# 中国白酒GB/T国家标准（白酒）
 
 **China Baijiu GB/T Standards**
 

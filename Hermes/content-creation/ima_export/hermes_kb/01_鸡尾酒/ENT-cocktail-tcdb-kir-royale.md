@@ -1,4 +1,4 @@
-# Kir Royale
+# 艾尔（Kir Royale）
 
 **Kir Royale**
 

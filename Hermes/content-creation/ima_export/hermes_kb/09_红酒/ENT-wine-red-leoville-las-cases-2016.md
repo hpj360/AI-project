@@ -1,4 +1,4 @@
-# 雄狮城堡 2016
+# 雄狮城堡 2016（红酒）
 
 **Château Léoville Las Cases 2016**
 

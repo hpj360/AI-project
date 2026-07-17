@@ -1,4 +1,4 @@
-# 风之森 Alpha 3
+# 风之森 Alpha 3（清酒）
 
 **Kaze no Mori Alpha 3 Junmai**
 

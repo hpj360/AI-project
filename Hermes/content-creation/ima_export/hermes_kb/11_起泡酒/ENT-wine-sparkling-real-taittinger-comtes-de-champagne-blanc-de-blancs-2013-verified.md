@@ -1,4 +1,4 @@
-# Taittinger Comtes de Champagne Blanc de Blancs 2013 (Verified)
+# 香槟（Taittinger Comtes de Champagne Blanc de Blancs 2013 (Verified)）
 
 **Taittinger Comtes de Champagne Blanc de Blancs 2013**
 

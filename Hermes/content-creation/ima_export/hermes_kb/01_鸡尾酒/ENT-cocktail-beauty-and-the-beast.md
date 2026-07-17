@@ -1,4 +1,4 @@
-# 美女与野兽
+# 美女与野兽（金酒）
 
 **Beauty and the Beast**
 

@@ -1,4 +1,4 @@
-# 御鹿 Rare VSOP
+# 御鹿 Rare VSOP（白兰地）
 
 **Hine Rare VSOP Cognac**
 

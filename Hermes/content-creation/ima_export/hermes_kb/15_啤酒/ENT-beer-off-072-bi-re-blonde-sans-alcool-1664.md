@@ -1,4 +1,4 @@
-# Bière Blonde sans alcool 1664
+# Bière Blonde sans alcool 1664（啤酒）
 
 **Bière Blonde sans alcool 1664**
 

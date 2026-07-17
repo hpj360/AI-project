@@ -1,4 +1,4 @@
-# Gin Bombay
+# 孟买蓝宝石（Gin Bombay）
 
 **Gin Bombay**
 

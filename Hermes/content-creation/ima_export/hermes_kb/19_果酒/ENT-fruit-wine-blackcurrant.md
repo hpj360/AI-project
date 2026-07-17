@@ -1,4 +1,4 @@
-# 黑加仑酒
+# 黑加仑酒（果酒）
 
 **Blackcurrant Wine**
 

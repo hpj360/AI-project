@@ -1,4 +1,4 @@
-# Belgické pivo SKLO
+# Belgické pivo SKLO（啤酒）
 
 **Belgické pivo SKLO**
 

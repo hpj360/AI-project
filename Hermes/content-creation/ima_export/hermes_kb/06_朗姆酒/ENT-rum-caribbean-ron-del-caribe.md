@@ -1,4 +1,4 @@
-# 加勒比 Ron del Caribe
+# 加勒比 Ron del Caribe（朗姆酒）
 
 **Ron del Caribe**
 

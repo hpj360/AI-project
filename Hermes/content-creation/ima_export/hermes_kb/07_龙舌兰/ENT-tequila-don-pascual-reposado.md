@@ -1,4 +1,4 @@
-# 雷波萨多 Don Pascual Reposado
+# 雷波萨多 Don Pascual Reposado（龙舌兰）
 
 **Don Pascual Reposado**
 

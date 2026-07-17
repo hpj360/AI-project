@@ -1,4 +1,4 @@
-# 谢弗弗雷利希 2015
+# 谢弗弗雷利希 2015（白酒）
 
 **Weingut Schäfer-Fröhlich Bockenauer Felseneck 2015**
 

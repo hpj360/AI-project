@@ -1,4 +1,4 @@
-# 拿破仑 XO
+# 拿破仑 XO（白兰地）
 
 **Courvoisier XO**
 

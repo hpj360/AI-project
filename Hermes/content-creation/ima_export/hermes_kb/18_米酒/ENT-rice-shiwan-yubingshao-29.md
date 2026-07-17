@@ -1,4 +1,4 @@
-# 石湾玉冰烧 29 度
+# 石湾玉冰烧 29 度（米酒）
 
 **Shiwan Yubingshao 29% Baijiu**
 

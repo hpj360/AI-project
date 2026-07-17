@@ -1,4 +1,4 @@
-# 郎酒青花郎 53 度
+# 郎酒青花郎 53 度（白酒）
 
 **Langjiu Qing Hua Lang 53% Baijiu**
 

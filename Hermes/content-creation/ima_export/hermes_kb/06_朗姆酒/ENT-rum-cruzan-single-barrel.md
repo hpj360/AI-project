@@ -1,4 +1,4 @@
-# 克鲁桑 单桶
+# 克鲁桑 单桶（朗姆酒）
 
 **Cruzan Single Barrel**
 

@@ -1,4 +1,4 @@
-# Kim Crawford 长相思 2022
+# Kim Crawford 长相思 2022（葡萄酒）
 
 **Kim Crawford Sauvignon Blanc Marlborough 2022**
 

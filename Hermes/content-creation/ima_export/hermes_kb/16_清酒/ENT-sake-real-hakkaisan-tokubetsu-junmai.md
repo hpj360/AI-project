@@ -1,4 +1,4 @@
-# 八海山特別纯米
+# 八海山特別纯米（清酒）
 
 **Hakkaisan Tokubetsu Junmai**
 

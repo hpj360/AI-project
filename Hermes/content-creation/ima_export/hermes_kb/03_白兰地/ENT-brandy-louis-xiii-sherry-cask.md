@@ -1,4 +1,4 @@
-# 路易十三 雪莉桶限量
+# 路易十三 雪莉桶限量（白兰地）
 
 **Louis XIII Sherry Cask**
 

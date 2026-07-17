@@ -1,4 +1,4 @@
-# Whisky Ecosse blended sans âge 1 L Sir Edwards
+# Whisky Ecosse blended sans âge 1 L Sir Edwards（威士忌）
 
 **Whisky Ecosse blended sans âge 1 L Sir Edwards**
 

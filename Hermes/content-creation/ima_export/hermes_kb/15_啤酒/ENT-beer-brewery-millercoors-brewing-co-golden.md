@@ -1,4 +1,4 @@
-# MillerCoors Brewing Co - Golden 啤酒厂
+# MillerCoors Brewing Co - Golden 啤酒厂（啤酒）
 
 **MillerCoors Brewing Co - Golden**
 

@@ -1,4 +1,4 @@
-# 日本酒类税法
+# 日本酒类税法（清酒）
 
 **Japan Liquor Tax Law**
 

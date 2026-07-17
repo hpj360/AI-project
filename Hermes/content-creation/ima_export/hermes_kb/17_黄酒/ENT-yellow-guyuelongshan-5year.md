@@ -1,4 +1,4 @@
-# 古越龙山 金五年花雕
+# 古越龙山 金五年花雕（黄酒）
 
 **Guyue Longshan Golden 5-Year Hua Diao**
 

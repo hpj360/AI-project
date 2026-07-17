@@ -1,4 +1,4 @@
-# Lustau Solera Reserva Puerto Fino Sherry
+# 雪利（Lustau Solera Reserva Puerto Fino Sherry）
 
 **Lustau Solera Reserva Puerto Fino Sherry**
 

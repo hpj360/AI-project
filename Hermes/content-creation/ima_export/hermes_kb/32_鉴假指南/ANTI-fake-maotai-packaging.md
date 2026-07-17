@@ -1,4 +1,4 @@
-# 茅台包装鉴别要点
+# 茅台包装鉴别要点（白酒）
 
 **Moutai Packaging Identification Points**
 

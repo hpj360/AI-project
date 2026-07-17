@@ -1,4 +1,4 @@
-# 海曼勒文施泰因 2015
+# 海曼勒文施泰因 2015（白酒）
 
 **Weingut Heymann-Löwenstein Winninger Herrenberg 2015**
 

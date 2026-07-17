@@ -1,4 +1,4 @@
-# 上善如水
+# 上善如水（清酒）
 
 **Josen Mizunogotoshi**
 

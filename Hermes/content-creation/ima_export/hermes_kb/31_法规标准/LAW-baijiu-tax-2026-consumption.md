@@ -1,4 +1,4 @@
-# 2026年白酒消费税征管新规（60%孰高计税）
+# 2026年白酒消费税征管新规（60%孰高计税）（白酒）
 
 **Baijiu Consumption Tax Administration Reform 2026**
 

@@ -1,4 +1,4 @@
-# Paulaner Bräuhaus 啤酒厂
+# Paulaner Bräuhaus 啤酒厂（啤酒）
 
 **Paulaner Bräuhaus**
 

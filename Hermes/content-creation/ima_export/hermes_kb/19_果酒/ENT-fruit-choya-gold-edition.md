@@ -1,4 +1,4 @@
-# CHOYA Gold Edition Umeshu
+# CHOYA Gold Edition Umeshu（果酒）
 
 **CHOYA Gold Edition Umeshu**
 

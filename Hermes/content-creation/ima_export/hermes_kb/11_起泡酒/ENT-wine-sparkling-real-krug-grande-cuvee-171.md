@@ -1,4 +1,4 @@
-# Krug Grande Cuvée 171ème
+# 库克（Krug Grande Cuvée 171ème）
 
 **Krug Grande Cuvée 171ème Édition**
 

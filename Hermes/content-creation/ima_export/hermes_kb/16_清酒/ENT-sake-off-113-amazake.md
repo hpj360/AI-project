@@ -1,4 +1,4 @@
-# Amazake
+# Amazake（清酒）
 
 **Amazake**
 

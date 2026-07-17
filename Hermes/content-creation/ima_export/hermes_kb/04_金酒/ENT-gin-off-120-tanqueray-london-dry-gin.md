@@ -1,4 +1,4 @@
-# Tanqueray London Dry Gin
+# 添加利（Tanqueray London Dry Gin）
 
 **Tanqueray London Dry Gin**
 

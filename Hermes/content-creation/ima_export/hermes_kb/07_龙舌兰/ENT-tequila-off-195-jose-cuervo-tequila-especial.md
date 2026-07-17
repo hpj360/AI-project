@@ -1,4 +1,4 @@
-# jose cuervo tequila especial
+# 豪帅快活（jose cuervo tequila especial）
 
 **jose cuervo tequila especial**
 

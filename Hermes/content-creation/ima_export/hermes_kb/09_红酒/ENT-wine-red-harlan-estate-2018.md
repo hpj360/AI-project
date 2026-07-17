@@ -1,4 +1,4 @@
-# 哈兰酒庄 2018
+# 哈兰酒庄 2018（葡萄酒）
 
 **Harlan Estate Napa Valley 2018**
 

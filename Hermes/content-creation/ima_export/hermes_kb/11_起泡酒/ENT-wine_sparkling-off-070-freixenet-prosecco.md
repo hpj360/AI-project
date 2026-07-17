@@ -1,4 +1,4 @@
-# Freixenet Prosecco
+# 普罗塞克（Freixenet Prosecco）
 
 **Freixenet Prosecco**
 

@@ -1,4 +1,4 @@
-# 坎特一号 Ketel One
+# 坎特一号 Ketel One（伏特加）
 
 **Ketel One Vodka**
 

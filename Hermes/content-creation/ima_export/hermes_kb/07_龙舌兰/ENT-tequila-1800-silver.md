@@ -1,4 +1,4 @@
-# 1800 Silver
+# 1800 Silver（龙舌兰）
 
 **1800 Silver**
 

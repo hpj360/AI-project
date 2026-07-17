@@ -1,4 +1,4 @@
-# 轩尼诗 VS
+# 轩尼诗 VS（白兰地）
 
 **Hennessy VS**
 

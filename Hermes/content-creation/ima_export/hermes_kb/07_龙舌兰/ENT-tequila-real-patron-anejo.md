@@ -1,4 +1,4 @@
-# Patrón Añejo
+# 培恩陈年（Patrón Añejo）
 
 **Patrón Añejo Tequila**
 

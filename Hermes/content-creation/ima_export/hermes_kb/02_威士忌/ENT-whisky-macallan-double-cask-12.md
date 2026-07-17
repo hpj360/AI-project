@@ -1,4 +1,4 @@
-# The Macallan Double Cask 12 Year Old
+# 麦卡伦（The Macallan Double Cask 12 Year Old）
 
 **The Macallan Double Cask 12 Year Old Single Malt Scotch Whisky**
 

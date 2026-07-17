@@ -1,4 +1,4 @@
-# 百年庄园 Gran Centenario Reposado
+# 百年庄园 Gran Centenario Reposado（龙舌兰）
 
 **Gran Centenario Reposado**
 

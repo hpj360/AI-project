@@ -1,4 +1,4 @@
-# 写乐 纯米吟醸
+# 写乐 纯米吟醸（清酒）
 
 **Sharaku Junmai Ginjo**
 

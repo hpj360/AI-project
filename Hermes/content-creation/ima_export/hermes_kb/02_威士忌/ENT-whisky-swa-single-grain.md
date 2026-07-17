@@ -1,4 +1,4 @@
-# 单一谷物苏格兰威士忌 Single Grain Scotch Whisky
+# 单一谷物苏格兰威士忌 Single Grain Scotch Whisky（威士忌）
 
 **Single Grain Scotch Whisky**
 

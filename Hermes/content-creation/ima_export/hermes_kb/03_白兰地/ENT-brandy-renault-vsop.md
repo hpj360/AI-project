@@ -1,4 +1,4 @@
-# 雷诺 VSOP
+# 雷诺 VSOP（白兰地）
 
 **Renault VSOP**
 

@@ -1,4 +1,4 @@
-# Rum - Don Papa Baroko
+# Rum - Don Papa Baroko（朗姆酒）
 
 **Rum - Don Papa Baroko**
 

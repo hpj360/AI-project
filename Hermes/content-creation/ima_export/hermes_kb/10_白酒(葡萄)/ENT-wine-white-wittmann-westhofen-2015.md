@@ -1,4 +1,4 @@
-# 维特曼 2015
+# 维特曼 2015（白酒）
 
 **Weingut Wittmann Westhofener Aulerde 2015**
 

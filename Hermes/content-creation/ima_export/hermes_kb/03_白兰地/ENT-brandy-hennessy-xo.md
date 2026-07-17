@@ -1,4 +1,4 @@
-# 轩尼诗 XO
+# 轩尼诗 XO（白兰地）
 
 **Hennessy XO**
 

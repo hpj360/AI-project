@@ -1,4 +1,4 @@
-# 改良金酒鸡尾酒
+# 改良金酒鸡尾酒（金酒）
 
 **Improved Gin Cocktail**
 

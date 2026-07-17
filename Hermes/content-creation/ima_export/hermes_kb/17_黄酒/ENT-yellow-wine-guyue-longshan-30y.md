@@ -1,4 +1,4 @@
-# 古越龙山 30年陈酿
+# 古越龙山 30年陈酿（黄酒）
 
 **Guyue Longshan 30 Year Aged**
 

@@ -1,4 +1,4 @@
-# Manhattan 曼哈顿
+# Manhattan 曼哈顿（威士忌）
 
 **Manhattan**
 

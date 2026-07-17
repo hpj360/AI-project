@@ -1,4 +1,4 @@
-# 雷诺 XO
+# 雷诺 XO（白兰地）
 
 **Renault XO**
 

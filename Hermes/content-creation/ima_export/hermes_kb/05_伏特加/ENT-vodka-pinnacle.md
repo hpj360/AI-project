@@ -1,4 +1,4 @@
-# 品尼高 Pinnacle
+# 品尼高 Pinnacle（伏特加）
 
 **Pinnacle Vodka**
 

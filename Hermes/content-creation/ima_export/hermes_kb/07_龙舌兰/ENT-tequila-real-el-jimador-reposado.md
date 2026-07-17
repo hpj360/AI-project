@@ -1,4 +1,4 @@
-# El Jimador Reposado
+# 艾尔吉玛多（El Jimador Reposado）
 
 **El Jimador Reposado Tequila**
 

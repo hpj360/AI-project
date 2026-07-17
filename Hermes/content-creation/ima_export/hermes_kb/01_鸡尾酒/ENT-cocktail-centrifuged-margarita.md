@@ -1,4 +1,4 @@
-# 离心玛格丽特
+# 离心玛格丽特（龙舌兰）
 
 **Centrifuged Margarita**
 

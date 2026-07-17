@@ -1,4 +1,4 @@
-# Imperial Cocktail
+# 帝国（Imperial Cocktail）
 
 **Imperial Cocktail**
 

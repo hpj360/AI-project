@@ -1,4 +1,4 @@
-# 塔牌 黄酒二十年陈酿绍兴酒
+# 塔牌 黄酒二十年陈酿绍兴酒（黄酒）
 
 **Tapai 20-Year Aged Shaoxing Wine**
 

@@ -1,4 +1,4 @@
-# 弗拉恰内洛 2017
+# 弗拉恰内洛 2017（红酒）
 
 **Fontodi Flaccianello della Pieve 2017**
 

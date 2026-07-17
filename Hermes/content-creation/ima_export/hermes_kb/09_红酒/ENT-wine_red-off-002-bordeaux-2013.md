@@ -1,4 +1,4 @@
-# Bordeaux 2013
+# 波尔多（Bordeaux 2013）
 
 **Bordeaux 2013**
 

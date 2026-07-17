@@ -1,4 +1,4 @@
-# 蒙哈榭乐弗莱夫 2014
+# 蒙哈榭乐弗莱夫 2014（白酒）
 
 **Domaine Leflaive Montrachet 2014**
 

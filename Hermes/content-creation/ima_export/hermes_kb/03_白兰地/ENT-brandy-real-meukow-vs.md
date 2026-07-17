@@ -1,4 +1,4 @@
-# 缪克 VS
+# 缪克 VS（白兰地）
 
 **Meukow VS Cognac**
 

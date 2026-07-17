@@ -1,4 +1,4 @@
-# 六号花园 Nolet's
+# 六号花园 Nolet's（金酒）
 
 **Nolet's Reserve Gin**
 

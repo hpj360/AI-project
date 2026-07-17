@@ -1,4 +1,4 @@
-# 临川贡酒
+# 临川贡酒（白酒）
 
 **Linchuan Gongjiu**
 

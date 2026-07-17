@@ -1,4 +1,4 @@
-# Clase Azul Reposado
+# 蓝阶级（Clase Azul Reposado）
 
 **Clase Azul Reposado Tequila**
 

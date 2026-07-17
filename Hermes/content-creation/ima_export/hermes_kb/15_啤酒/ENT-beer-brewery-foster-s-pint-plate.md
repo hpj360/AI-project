@@ -1,4 +1,4 @@
-# Foster's Pint & Plate 啤酒厂
+# Foster's Pint & Plate 啤酒厂（啤酒）
 
 **Foster's Pint & Plate**
 

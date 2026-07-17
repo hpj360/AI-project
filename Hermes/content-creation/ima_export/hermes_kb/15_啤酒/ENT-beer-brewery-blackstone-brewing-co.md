@@ -1,4 +1,4 @@
-# Blackstone Brewing Co 啤酒厂
+# Blackstone Brewing Co 啤酒厂（啤酒）
 
 **Blackstone Brewing Co**
 

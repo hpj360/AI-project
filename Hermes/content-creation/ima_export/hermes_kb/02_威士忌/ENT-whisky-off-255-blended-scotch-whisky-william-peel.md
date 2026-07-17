@@ -1,4 +1,4 @@
-# Blended Scotch Whisky WILLIAM PEEL
+# Blended Scotch Whisky WILLIAM PEEL（威士忌）
 
 **Blended Scotch Whisky WILLIAM PEEL**
 

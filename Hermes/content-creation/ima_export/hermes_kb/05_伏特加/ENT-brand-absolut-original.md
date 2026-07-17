@@ -1,4 +1,4 @@
-# 绝对伏特加原味
+# 绝对伏特加原味（伏特加）
 
 **Absolut Original Vodka**
 

@@ -1,4 +1,4 @@
-# 葡萄酒收藏入门指南
+# 葡萄酒收藏入门指南（葡萄酒）
 
 **Wine Collecting Basics**
 

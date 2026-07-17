@@ -1,4 +1,4 @@
-# 特奎拉 Don Valente Blanco
+# 特奎拉 Don Valente Blanco（龙舌兰）
 
 **Don Valente Blanco**
 

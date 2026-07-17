@@ -1,4 +1,4 @@
-# 杰克丹尼 绅士杰克
+# 杰克丹尼 绅士杰克（威士忌）
 
 **Jack Daniel's Gentleman Jack**
 

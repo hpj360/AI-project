@@ -1,4 +1,4 @@
-# 威士忌投资
+# 威士忌投资（威士忌）
 
 **Whisky Investment**
 

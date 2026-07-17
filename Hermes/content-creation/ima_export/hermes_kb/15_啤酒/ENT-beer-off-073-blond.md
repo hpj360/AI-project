@@ -1,4 +1,4 @@
-# Blond
+# Blond（啤酒）
 
 **Blond**
 

@@ -1,4 +1,4 @@
-# 苏联红牌 Stoli Soviet
+# 苏联红牌 Stoli Soviet（伏特加）
 
 **Stolichnaya Soviet Edition**
 

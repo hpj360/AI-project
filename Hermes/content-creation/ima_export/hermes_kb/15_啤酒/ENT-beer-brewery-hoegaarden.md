@@ -1,4 +1,4 @@
-# Hoegaarden 啤酒厂
+# Hoegaarden 啤酒厂（啤酒）
 
 **Hoegaarden**
 

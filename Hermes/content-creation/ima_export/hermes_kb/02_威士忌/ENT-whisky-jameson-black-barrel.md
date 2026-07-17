@@ -1,4 +1,4 @@
-# 尊美醇 黑桶
+# 尊美醇 黑桶（威士忌）
 
 **Jameson Black Barrel**
 

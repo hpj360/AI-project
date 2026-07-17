@@ -1,4 +1,4 @@
-# 八海山 3年熟成
+# 八海山 3年熟成（清酒）
 
 **Hakkaisan 3 Year Snow Aged**
 

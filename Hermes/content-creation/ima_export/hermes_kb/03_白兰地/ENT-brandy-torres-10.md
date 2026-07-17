@@ -1,4 +1,4 @@
-# Torres 10 年
+# Torres 10 年（白兰地）
 
 **Torres 10 Years**
 

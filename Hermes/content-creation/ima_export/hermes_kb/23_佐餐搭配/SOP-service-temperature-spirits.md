@@ -1,4 +1,4 @@
-# 烈酒侍酒温度
+# 烈酒侍酒温度（威士忌）
 
 **Spirits Service Temperature**
 

@@ -1,4 +1,4 @@
-# Chartreuse
+# 查特（Chartreuse）
 
 **Chartreuse**
 

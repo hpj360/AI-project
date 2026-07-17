@@ -1,4 +1,4 @@
-# Nordes Atlantic Galician Gin
+# Nordes Atlantic Galician Gin（金酒）
 
 **Nordes Atlantic Galician Gin**
 

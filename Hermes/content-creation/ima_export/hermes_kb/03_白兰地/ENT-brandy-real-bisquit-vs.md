@@ -1,4 +1,4 @@
-# 百事吉 VS
+# 百事吉 VS（白兰地）
 
 **Bisquit VS Cognac**
 

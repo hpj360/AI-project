@@ -1,4 +1,4 @@
-# 卡慕 VSOP
+# 卡慕 VSOP（白兰地）
 
 **Camus VSOP**
 

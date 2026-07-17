@@ -1,4 +1,4 @@
-# Beluga Noble Vodka
+# 白鲸（Beluga Noble Vodka）
 
 **Beluga Noble Vodka**
 

@@ -1,4 +1,4 @@
-# 摩根船长 香料
+# 摩根船长 香料（朗姆酒）
 
 **Captain Morgan Spiced**
 

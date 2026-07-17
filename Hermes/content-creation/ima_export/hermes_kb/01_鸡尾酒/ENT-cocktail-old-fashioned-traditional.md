@@ -1,4 +1,4 @@
-# 古典（传统版）
+# 古典（传统版）（威士忌）
 
 **Old Fashioned (Traditional)**
 

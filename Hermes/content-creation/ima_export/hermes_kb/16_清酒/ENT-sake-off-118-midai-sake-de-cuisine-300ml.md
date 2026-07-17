@@ -1,4 +1,4 @@
-# Midai Sake De Cuisine 300Ml
+# 清酒（Midai Sake De Cuisine 300Ml）
 
 **Midai Sake De Cuisine 300Ml**
 

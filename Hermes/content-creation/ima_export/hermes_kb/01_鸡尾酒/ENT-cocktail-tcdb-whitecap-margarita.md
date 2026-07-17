@@ -1,4 +1,4 @@
-# Whitecap Margarita
+# 玛格丽特（Whitecap Margarita）
 
 **Whitecap Margarita**
 

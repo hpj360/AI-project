@@ -1,4 +1,4 @@
-# Corpse Reviver
+# 亡者复甦（Corpse Reviver）
 
 **Corpse Reviver**
 

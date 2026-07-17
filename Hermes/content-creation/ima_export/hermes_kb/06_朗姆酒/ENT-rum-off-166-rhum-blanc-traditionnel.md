@@ -1,4 +1,4 @@
-# Rhum blanc traditionnel
+# Rhum blanc traditionnel（朗姆酒）
 
 **Rhum blanc traditionnel**
 

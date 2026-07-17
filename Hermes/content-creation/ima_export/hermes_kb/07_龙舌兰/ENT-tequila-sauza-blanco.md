@@ -1,4 +1,4 @@
-# 索萨 Sauza Blanco
+# 索萨 Sauza Blanco（龙舌兰）
 
 **Sauza Blanco**
 

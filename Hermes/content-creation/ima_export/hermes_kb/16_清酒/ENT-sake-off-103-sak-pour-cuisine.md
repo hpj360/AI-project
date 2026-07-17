@@ -1,4 +1,4 @@
-# Saké pour cuisine
+# Saké pour cuisine（清酒）
 
 **Saké pour cuisine**
 

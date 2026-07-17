@@ -1,4 +1,4 @@
-# 米尼奥 Mi Tierra Blanco
+# 米尼奥 Mi Tierra Blanco（龙舌兰）
 
 **Mi Tierra Blanco**
 

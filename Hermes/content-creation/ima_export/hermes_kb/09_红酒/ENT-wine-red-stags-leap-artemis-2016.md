@@ -1,4 +1,4 @@
-# 鹿跃阿耳忒弥斯 2016
+# 鹿跃阿耳忒弥斯 2016（红酒）
 
 **Stag's Leap Wine Cellars Artemis 2016**
 

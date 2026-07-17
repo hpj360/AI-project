@@ -1,4 +1,4 @@
-# Château Sainte Marguerite Fantastique Rosé 2024
+# 阿斯蒂（Château Sainte Marguerite Fantastique Rosé 2024）
 
 **Château Sainte Marguerite Fantastique Rosé 2024**
 

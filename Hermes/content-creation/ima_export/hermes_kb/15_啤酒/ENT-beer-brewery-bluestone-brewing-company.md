@@ -1,4 +1,4 @@
-# Bluestone Brewing Company 啤酒厂
+# Bluestone Brewing Company 啤酒厂（啤酒）
 
 **Bluestone Brewing Company**
 

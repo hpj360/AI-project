@@ -1,4 +1,4 @@
-# 粉象啤酒
+# 粉象啤酒（啤酒）
 
 **Delirium Tremens**
 

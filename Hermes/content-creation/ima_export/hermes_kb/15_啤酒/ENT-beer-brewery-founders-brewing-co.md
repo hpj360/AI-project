@@ -1,4 +1,4 @@
-# Founders Brewing Co 啤酒厂
+# Founders Brewing Co 啤酒厂（啤酒）
 
 **Founders Brewing Co**
 

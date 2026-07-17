@@ -1,4 +1,4 @@
-# Sierra Nevada Brewing Co 啤酒厂
+# Sierra Nevada Brewing Co 啤酒厂（啤酒）
 
 **Sierra Nevada Brewing Co**
 

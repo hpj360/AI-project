@@ -1,4 +1,4 @@
-# 默尔索夏姆 2016
+# 默尔索夏姆 2016（白酒）
 
 **Domaine Roulot Meursault Charmes 2016**
 

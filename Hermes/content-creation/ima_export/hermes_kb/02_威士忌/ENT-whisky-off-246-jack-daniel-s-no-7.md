@@ -1,4 +1,4 @@
-# Jack Daniel's No.7
+# 杰克丹尼（Jack Daniel's No.7）
 
 **Jack Daniel's No.7**
 

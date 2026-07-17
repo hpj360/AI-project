@@ -1,4 +1,4 @@
-# Villa Maria Private Bin 长相思 2022
+# Villa Maria Private Bin 长相思 2022（葡萄酒）
 
 **Villa Maria Private Bin Sauvignon Blanc Marlborough 2022**
 

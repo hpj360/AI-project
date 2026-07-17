@@ -1,4 +1,4 @@
-# Premium PINK Distilled Gin
+# Premium PINK Distilled Gin（金酒）
 
 **Premium PINK Distilled Gin**
 

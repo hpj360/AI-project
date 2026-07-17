@@ -1,4 +1,4 @@
-# Champagne Veuve Clicquot brut
+# 香槟（Champagne Veuve Clicquot brut）
 
 **Champagne Veuve Clicquot brut**
 

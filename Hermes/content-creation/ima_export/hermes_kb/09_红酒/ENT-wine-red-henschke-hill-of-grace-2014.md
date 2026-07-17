@@ -1,4 +1,4 @@
-# 神恩山 2014
+# 神恩山 2014（红酒）
 
 **Henschke Hill of Grace 2014**
 

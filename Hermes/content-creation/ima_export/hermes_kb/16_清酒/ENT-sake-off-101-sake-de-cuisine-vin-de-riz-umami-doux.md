@@ -1,4 +1,4 @@
-# Sake de cuisine vin de riz umami doux
+# 清酒（Sake de cuisine vin de riz umami doux）
 
 **Sake de cuisine vin de riz umami doux**
 

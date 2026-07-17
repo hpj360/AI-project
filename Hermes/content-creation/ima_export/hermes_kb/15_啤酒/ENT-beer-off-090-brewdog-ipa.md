@@ -1,4 +1,4 @@
-# BREWDOG IPA
+# 酿酒狗（BREWDOG IPA）
 
 **BREWDOG IPA**
 

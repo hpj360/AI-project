@@ -1,4 +1,4 @@
-# 夏布利普吕斯 2016
+# 夏布利普吕斯 2016（白酒）
 
 **Domaine Dauvissat Chablis Grand Cru Les Preuses 2016**
 

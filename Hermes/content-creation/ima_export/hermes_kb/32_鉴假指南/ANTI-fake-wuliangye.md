@@ -1,4 +1,4 @@
-# 五粮液防伪鉴别指南
+# 五粮液防伪鉴别指南（白酒）
 
 **Wuliangye Anti-Counterfeit Guide**
 

@@ -1,4 +1,4 @@
-# 古越龙山 陈年花雕加饭
+# 古越龙山 陈年花雕加饭（黄酒）
 
 **Guyue Longshan Aged Hua Diao Jia Fan**
 

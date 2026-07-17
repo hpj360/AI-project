@@ -1,4 +1,4 @@
-# 木桐城堡 2016
+# 木桐城堡 2016（红酒）
 
 **Château Mouton Rothschild 2016**
 

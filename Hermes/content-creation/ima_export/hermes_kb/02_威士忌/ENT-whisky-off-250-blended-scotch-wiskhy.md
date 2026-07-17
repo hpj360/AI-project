@@ -1,4 +1,4 @@
-# Blended Scotch Wiskhy
+# Blended Scotch Wiskhy（威士忌）
 
 **Blended Scotch Wiskhy**
 

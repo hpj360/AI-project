@@ -1,4 +1,4 @@
-# London Dry Gin
+# London Dry Gin（金酒）
 
 **London Dry Gin**
 

@@ -1,4 +1,4 @@
-# 法拉宾 VS
+# 法拉宾 VS（白兰地）
 
 **Frapin VS Cognac**
 

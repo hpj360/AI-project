@@ -1,4 +1,4 @@
-# Ridge Monte Bello 2019
+# Ridge Monte Bello 2019（葡萄酒）
 
 **Ridge Vineyards Monte Bello 2019**
 

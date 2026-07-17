@@ -1,4 +1,4 @@
-# 甘酒高球
+# 甘酒高球（威士忌）
 
 **Amazake Highball**
 

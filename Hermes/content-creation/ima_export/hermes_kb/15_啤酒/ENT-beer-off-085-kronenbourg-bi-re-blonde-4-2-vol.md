@@ -1,4 +1,4 @@
-# Kronenbourg Bière blonde 4.2%vol
+# Kronenbourg Bière blonde 4.2%vol（啤酒）
 
 **Kronenbourg Bière blonde 4.2%vol**
 

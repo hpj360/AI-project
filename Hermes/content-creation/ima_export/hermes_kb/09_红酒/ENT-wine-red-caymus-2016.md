@@ -1,4 +1,4 @@
-# 凯慕斯 2016
+# 凯慕斯 2016（红酒）
 
 **Caymus Cabernet Sauvignon 2016**
 

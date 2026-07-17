@@ -1,4 +1,4 @@
-# 真空低温金酒浸渍
+# 真空低温金酒浸渍（金酒）
 
 **Sous Vide Gin Infusion**
 

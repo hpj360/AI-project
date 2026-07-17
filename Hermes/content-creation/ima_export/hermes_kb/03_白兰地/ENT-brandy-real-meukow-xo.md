@@ -1,4 +1,4 @@
-# 缪克 XO
+# 缪克 XO（白兰地）
 
 **Meukow XO Cognac**
 

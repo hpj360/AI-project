@@ -1,4 +1,4 @@
-# Herradura Silver
+# 马蹄（Herradura Silver）
 
 **Herradura Silver Tequila**
 

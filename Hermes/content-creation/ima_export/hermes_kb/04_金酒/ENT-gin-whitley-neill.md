@@ -1,4 +1,4 @@
-# Whitley Neill
+# 惠特利尼尔（Whitley Neill）
 
 **Whitley Neill**
 

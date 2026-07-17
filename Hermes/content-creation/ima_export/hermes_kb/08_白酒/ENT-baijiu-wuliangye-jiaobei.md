@@ -1,4 +1,4 @@
-# 五粮液 交杯
+# 五粮液 交杯（白酒）
 
 **Wuliangye Jiaobei**
 

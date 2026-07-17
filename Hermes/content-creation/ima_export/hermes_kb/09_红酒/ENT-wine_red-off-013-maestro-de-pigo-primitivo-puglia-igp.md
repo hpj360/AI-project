@@ -1,4 +1,4 @@
-# Maestro de Pigo Primitivo Puglia IGP
+# Maestro de Pigo Primitivo Puglia IGP（葡萄酒）
 
 **Maestro de Pigo Primitivo Puglia IGP**
 

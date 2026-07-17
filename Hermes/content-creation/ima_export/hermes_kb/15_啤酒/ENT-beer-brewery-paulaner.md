@@ -1,4 +1,4 @@
-# Paulaner 啤酒厂
+# Paulaner 啤酒厂（啤酒）
 
 **Paulaner**
 

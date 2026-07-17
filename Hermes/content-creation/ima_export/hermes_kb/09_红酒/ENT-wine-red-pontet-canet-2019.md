@@ -1,4 +1,4 @@
-# 庞特卡奈 2019
+# 庞特卡奈 2019（葡萄酒）
 
 **Château Pontet-Canet Pauillac 2019**
 

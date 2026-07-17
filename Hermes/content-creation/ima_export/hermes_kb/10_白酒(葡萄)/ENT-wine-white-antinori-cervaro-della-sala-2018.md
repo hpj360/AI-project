@@ -1,4 +1,4 @@
-# 安东尼骑士 2018
+# 安东尼骑士 2018（白酒）
 
 **Antinori Cervaro della Sala 2018**
 

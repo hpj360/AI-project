@@ -1,4 +1,4 @@
-# Blue Agave Gold Tequila
+# Blue Agave Gold Tequila（龙舌兰）
 
 **Blue Agave Gold Tequila**
 

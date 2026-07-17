@@ -1,4 +1,4 @@
-# 杜克豪城堡 2016
+# 杜克豪城堡 2016（红酒）
 
 **Château Ducru-Beaucaillou 2016**
 

@@ -1,4 +1,4 @@
-# 维森小麦白啤
+# 维森小麦白啤（啤酒）
 
 **Weihenstephaner Hefeweissbier**
 

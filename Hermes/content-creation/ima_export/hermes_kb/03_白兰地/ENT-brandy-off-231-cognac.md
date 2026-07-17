@@ -1,4 +1,4 @@
-# Cognac
+# Cognac（白兰地）
 
 **Cognac**
 

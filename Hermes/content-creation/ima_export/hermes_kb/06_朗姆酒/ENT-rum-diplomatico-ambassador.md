@@ -1,4 +1,4 @@
-# 外交官 Ambassador
+# 外交官 Ambassador（朗姆酒）
 
 **Diplomatico Ambassador**
 

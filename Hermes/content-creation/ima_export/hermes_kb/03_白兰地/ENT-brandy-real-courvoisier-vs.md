@@ -1,4 +1,4 @@
-# 拿破仑 VS
+# 拿破仑 VS（白兰地）
 
 **Courvoisier VS Cognac**
 

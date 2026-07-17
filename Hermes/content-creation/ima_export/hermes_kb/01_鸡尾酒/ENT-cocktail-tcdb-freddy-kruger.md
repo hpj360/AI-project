@@ -1,4 +1,4 @@
-# Freddy Kruger
+# 库克（Freddy Kruger）
 
 **Freddy Kruger**
 

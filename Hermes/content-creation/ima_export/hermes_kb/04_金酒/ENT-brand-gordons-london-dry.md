@@ -1,4 +1,4 @@
-# 哥顿伦敦干金酒
+# 哥顿伦敦干金酒（金酒）
 
 **Gordon's London Dry Gin**
 

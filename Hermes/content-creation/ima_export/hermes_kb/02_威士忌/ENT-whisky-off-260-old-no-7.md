@@ -1,4 +1,4 @@
-# Old No. 7
+# Old No. 7（威士忌）
 
 **Old No. 7**
 

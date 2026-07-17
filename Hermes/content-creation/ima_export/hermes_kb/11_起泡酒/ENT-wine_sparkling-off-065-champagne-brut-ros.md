@@ -1,4 +1,4 @@
-# Champagne brut rosé
+# 香槟（Champagne brut rosé）
 
 **Champagne brut rosé**
 

@@ -1,4 +1,4 @@
-# 布鲁内罗比翁迪桑蒂 2013
+# 布鲁内罗比翁迪桑蒂 2013（红酒）
 
 **Biondi-Santi Brunello di Montalcino 2013**
 

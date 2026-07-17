@@ -1,4 +1,4 @@
-# 拉菲古堡 2010
+# 拉菲古堡 2010（红酒）
 
 **Château Lafite Rothschild 2010**
 

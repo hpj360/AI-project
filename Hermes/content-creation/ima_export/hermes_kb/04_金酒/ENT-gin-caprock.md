@@ -1,4 +1,4 @@
-# 卡普罗克 CapRock
+# 卡普罗克 CapRock（金酒）
 
 **CapRock Organic Gin**
 

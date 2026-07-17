@@ -1,4 +1,4 @@
-# 罗第杰汉 2015
+# 罗第杰汉 2015（红酒）
 
 **Jean-Michel Gerin Côte-Rôtie 2015**
 

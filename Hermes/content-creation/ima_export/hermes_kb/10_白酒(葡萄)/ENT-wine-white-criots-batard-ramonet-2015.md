@@ -1,4 +1,4 @@
-# 夏山蒙哈榭克里奥 2015
+# 夏山蒙哈榭克里奥 2015（白酒）
 
 **Domaine Ramonet Criots-Bâtard-Montrachet 2015**
 

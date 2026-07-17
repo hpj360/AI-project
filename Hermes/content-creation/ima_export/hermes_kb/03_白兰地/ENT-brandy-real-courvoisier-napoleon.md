@@ -1,4 +1,4 @@
-# 拿破仑 Napoleon
+# 拿破仑 Napoleon（白兰地）
 
 **Courvoisier Napoleon Cognac**
 

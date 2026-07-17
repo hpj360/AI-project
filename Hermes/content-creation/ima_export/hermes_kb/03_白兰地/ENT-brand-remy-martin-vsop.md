@@ -1,4 +1,4 @@
-# 人头马 VSOP
+# 人头马 VSOP（白兰地）
 
 **Rémy Martin VSOP**
 

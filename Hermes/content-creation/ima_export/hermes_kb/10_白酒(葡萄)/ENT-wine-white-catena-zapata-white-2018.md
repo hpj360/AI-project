@@ -1,4 +1,4 @@
-# 卡替尼萨帕塔白 2018
+# 卡替尼萨帕塔白 2018（白酒）
 
 **Catena Zapata White Bones Chardonnay 2018**
 

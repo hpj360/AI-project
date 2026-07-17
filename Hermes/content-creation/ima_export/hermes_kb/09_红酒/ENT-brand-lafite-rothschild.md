@@ -1,4 +1,4 @@
-# 拉菲古堡
+# 拉菲古堡（红酒）
 
 **Château Lafite Rothschild**
 

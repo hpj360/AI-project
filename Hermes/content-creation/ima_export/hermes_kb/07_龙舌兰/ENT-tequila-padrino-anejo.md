@@ -1,4 +1,4 @@
-# 帕德龙 Padrino Añejo
+# 帕德龙 Padrino Añejo（龙舌兰）
 
 **Padrino Añejo**
 

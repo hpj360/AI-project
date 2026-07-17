@@ -1,4 +1,4 @@
-# Sake organic
+# 清酒（Sake organic）
 
 **Sake organic**
 

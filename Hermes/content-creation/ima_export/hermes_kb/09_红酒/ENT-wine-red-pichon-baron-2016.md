@@ -1,4 +1,4 @@
-# 碧尚男爵城堡 2016
+# 碧尚男爵城堡 2016（红酒）
 
 **Château Pichon Longueville Baron 2016**
 

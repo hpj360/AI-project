@@ -1,4 +1,4 @@
-# 奥美加 Olmeca Gold
+# 奥美加 Olmeca Gold（龙舌兰）
 
 **Olmeca Gold**
 

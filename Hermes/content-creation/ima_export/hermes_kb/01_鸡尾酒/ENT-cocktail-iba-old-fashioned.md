@@ -1,4 +1,4 @@
-# Old Fashioned 古典鸡尾酒
+# Old Fashioned 古典鸡尾酒（威士忌）
 
 **Old Fashioned**
 

@@ -1,4 +1,4 @@
-# 奔富雅塔娜 2016
+# 奔富雅塔娜 2016（白酒）
 
 **Penfolds Yattarna Chardonnay 2016**
 

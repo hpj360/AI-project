@@ -1,4 +1,4 @@
-# 拉菲古堡 2018
+# 拉菲古堡 2018（葡萄酒）
 
 **Château Lafite Rothschild 2018**
 

@@ -1,4 +1,4 @@
-# Barefoot Merlot, California
+# Barefoot Merlot, California（葡萄酒）
 
 **Barefoot Merlot, California**
 

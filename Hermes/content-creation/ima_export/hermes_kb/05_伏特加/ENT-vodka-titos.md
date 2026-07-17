@@ -1,4 +1,4 @@
-# Tito's Handmade Vodka
+# 蒂托（Tito's Handmade Vodka）
 
 **Tito's Handmade Vodka**
 

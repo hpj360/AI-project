@@ -1,4 +1,4 @@
-# 清酒酒具选择与使用
+# 清酒酒具选择与使用（清酒）
 
 **Sake Vessel Selection**
 

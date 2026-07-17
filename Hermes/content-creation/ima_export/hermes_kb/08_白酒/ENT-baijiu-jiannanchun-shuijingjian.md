@@ -1,4 +1,4 @@
-# 剑南春 水晶剑
+# 剑南春 水晶剑（白酒）
 
 **Jiannanchun Crystal Sword**
 

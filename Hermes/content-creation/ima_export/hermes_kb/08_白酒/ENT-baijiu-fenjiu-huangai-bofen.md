@@ -1,4 +1,4 @@
-# 汾酒 黄盖玻汾
+# 汾酒 黄盖玻汾（白酒）
 
 **Fenjiu Huangai Bofen**
 

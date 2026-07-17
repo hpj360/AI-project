@@ -1,4 +1,4 @@
-# 衡水老白干 古法 20
+# 衡水老白干 古法 20（白酒）
 
 **Hengshui Laobaigan Gufa 20**
 

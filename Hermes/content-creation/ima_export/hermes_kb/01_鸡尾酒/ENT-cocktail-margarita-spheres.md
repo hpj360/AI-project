@@ -1,4 +1,4 @@
-# 玛格丽特球
+# 玛格丽特球（龙舌兰）
 
 **Margarita Spheres**
 

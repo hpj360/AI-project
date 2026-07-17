@@ -1,4 +1,4 @@
-# Duvel Moortgat Brewery 啤酒厂
+# Duvel Moortgat Brewery 啤酒厂（啤酒）
 
 **Duvel Moortgat Brewery**
 

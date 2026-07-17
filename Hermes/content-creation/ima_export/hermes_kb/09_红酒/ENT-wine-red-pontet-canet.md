@@ -1,4 +1,4 @@
-# Château Pontet-Canet
+# Château Pontet-Canet（红酒）
 
 **Château Pontet-Canet**
 

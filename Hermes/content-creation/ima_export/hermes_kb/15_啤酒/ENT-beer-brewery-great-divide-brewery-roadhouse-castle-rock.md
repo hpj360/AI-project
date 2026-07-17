@@ -1,4 +1,4 @@
-# Great Divide Brewery & Roadhouse - Castle Rock 啤酒厂
+# Great Divide Brewery & Roadhouse - Castle Rock 啤酒厂（啤酒）
 
 **Great Divide Brewery & Roadhouse - Castle Rock**
 

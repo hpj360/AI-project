@@ -1,4 +1,4 @@
-# 响 Harmony
+# 响 Harmony（威士忌）
 
 **Hibiki Harmony**
 

@@ -1,4 +1,4 @@
-# Gin Malfy
+# 玛尔菲（Gin Malfy）
 
 **Gin Malfy**
 

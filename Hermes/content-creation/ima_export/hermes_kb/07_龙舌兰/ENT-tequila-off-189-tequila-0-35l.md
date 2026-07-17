@@ -1,4 +1,4 @@
-# Tequila 0.35L
+# Tequila 0.35L（龙舌兰）
 
 **Tequila 0.35L**
 

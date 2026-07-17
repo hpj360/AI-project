@@ -1,4 +1,4 @@
-# The Macallan Sherry Oak Cask 12 Year Old
+# 麦卡伦（The Macallan Sherry Oak Cask 12 Year Old）
 
 **The Macallan Sherry Oak Cask 12 Year Old Single Malt Scotch Whisky**
 

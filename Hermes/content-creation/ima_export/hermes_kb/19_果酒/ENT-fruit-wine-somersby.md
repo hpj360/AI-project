@@ -1,4 +1,4 @@
-# Somersby 西打酒
+# Somersby 西打酒（果酒）
 
 **Somersby Cider**
 

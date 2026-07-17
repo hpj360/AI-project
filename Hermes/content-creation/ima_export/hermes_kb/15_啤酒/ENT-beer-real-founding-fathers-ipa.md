@@ -1,4 +1,4 @@
-# 内华达山淡色艾尔
+# 内华达山淡色艾尔（啤酒）
 
 **Sierra Nevada Pale Ale**
 

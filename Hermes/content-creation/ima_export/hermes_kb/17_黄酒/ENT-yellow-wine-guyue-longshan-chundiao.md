@@ -1,4 +1,4 @@
-# 古越龙山 醇雕
+# 古越龙山 醇雕（黄酒）
 
 **Guyue Longshan Chundiao**
 

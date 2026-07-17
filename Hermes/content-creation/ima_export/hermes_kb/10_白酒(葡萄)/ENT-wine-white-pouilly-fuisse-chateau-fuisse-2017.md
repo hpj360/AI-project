@@ -1,4 +1,4 @@
-# 普伊富赛 2017
+# 普伊富赛 2017（白酒）
 
 **Château Fuissé Pouilly-Fuissé 2017**
 

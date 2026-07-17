@@ -1,4 +1,4 @@
-# Westmalle Brewery 啤酒厂
+# Westmalle Brewery 啤酒厂（啤酒）
 
 **Westmalle Brewery**
 

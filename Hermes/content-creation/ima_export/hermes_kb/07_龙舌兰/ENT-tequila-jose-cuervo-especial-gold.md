@@ -1,4 +1,4 @@
-# 豪帅 Jose Cuervo Especial Gold
+# 豪帅 Jose Cuervo Especial Gold（龙舌兰）
 
 **Jose Cuervo Especial Gold**
 

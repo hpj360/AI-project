@@ -1,4 +1,4 @@
-# 银快 Blanco
+# 银快 Blanco（龙舌兰）
 
 **Herradura Blanco**
 

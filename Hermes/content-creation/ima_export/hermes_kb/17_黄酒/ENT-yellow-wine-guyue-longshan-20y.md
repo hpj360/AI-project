@@ -1,4 +1,4 @@
-# 古越龙山 20年陈酿
+# 古越龙山 20年陈酿（黄酒）
 
 **Guyue Longshan 20 Year Aged**
 

@@ -1,4 +1,4 @@
-# 平古斯 2015
+# 平古斯 2015（红酒）
 
 **Dominio de Pingus Pingus 2015**
 

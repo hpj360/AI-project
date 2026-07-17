@@ -1,4 +1,4 @@
-# Whiskey Sour 威士忌酸
+# Whiskey Sour 威士忌酸（威士忌）
 
 **Whiskey Sour**
 

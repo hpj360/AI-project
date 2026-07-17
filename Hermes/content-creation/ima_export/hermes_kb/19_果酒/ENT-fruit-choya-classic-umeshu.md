@@ -1,4 +1,4 @@
-# CHOYA Classic Umeshu
+# CHOYA Classic Umeshu（果酒）
 
 **CHOYA Classic Umeshu**
 

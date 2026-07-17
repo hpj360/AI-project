@@ -1,4 +1,4 @@
-# F.X. Pichler Grüner Veltliner Smaragd 2022
+# F.X. Pichler Grüner Veltliner Smaragd 2022（葡萄酒）
 
 **F.X. Pichler Grüner Veltliner Smaragd Wachau 2022**
 

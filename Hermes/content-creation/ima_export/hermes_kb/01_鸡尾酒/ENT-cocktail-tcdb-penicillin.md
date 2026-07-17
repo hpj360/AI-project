@@ -1,4 +1,4 @@
-# Penicillin
+# 盘尼西林（Penicillin）
 
 **Penicillin**
 

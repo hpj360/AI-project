@@ -1,4 +1,4 @@
-# 露纹艺术系列霞多丽 2017
+# 露纹艺术系列霞多丽 2017（白酒）
 
 **Leeuwin Estate Art Series Chardonnay 2017**
 

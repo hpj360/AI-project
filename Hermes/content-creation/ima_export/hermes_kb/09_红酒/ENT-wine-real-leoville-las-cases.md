@@ -1,4 +1,4 @@
-# 雄狮古堡
+# 雄狮古堡（红酒）
 
 **Château Léoville Las Cases**
 

@@ -1,4 +1,4 @@
-# 酿酒狗朋克 IPA
+# 酿酒狗朋克 IPA（啤酒）
 
 **BrewDog Punk IPA**
 

@@ -1,4 +1,4 @@
-# 董酒 红标董酒
+# 董酒 红标董酒（白酒）
 
 **Dongjiu Hongbiao Dongjiu**
 

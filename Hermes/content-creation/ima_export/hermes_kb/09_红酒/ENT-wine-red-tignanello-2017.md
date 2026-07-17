@@ -1,4 +1,4 @@
-# 天娜 2017
+# 天娜 2017（红酒）
 
 **Antinori Tignanello 2017**
 

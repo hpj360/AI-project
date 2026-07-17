@@ -1,4 +1,4 @@
-# Rekorderlig 西打酒
+# Rekorderlig 西打酒（果酒）
 
 **Rekorderlig Cider**
 

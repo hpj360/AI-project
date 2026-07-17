@@ -1,4 +1,4 @@
-# Great Divide Brewery & Roadhouse - Lone Tree 啤酒厂
+# Great Divide Brewery & Roadhouse - Lone Tree 啤酒厂（啤酒）
 
 **Great Divide Brewery & Roadhouse - Lone Tree**
 

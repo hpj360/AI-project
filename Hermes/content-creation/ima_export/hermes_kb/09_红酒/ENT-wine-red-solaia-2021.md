@@ -1,4 +1,4 @@
-# 索拉雅 2021
+# 索拉雅 2021（葡萄酒）
 
 **Marchesi Antinori Solaia Toscana IGT 2021**
 

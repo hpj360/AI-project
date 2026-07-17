@@ -1,4 +1,4 @@
-# J&B Blended Scotch Whisky
+# J&B（J&B Blended Scotch Whisky）
 
 **J&B Blended Scotch Whisky**
 

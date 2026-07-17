@@ -1,4 +1,4 @@
-# 液氮玛格丽特
+# 液氮玛格丽特（龙舌兰）
 
 **Liquid Nitrogen Margarita**
 

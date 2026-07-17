@@ -1,4 +1,4 @@
-# 塞瓦亚 Selvarey
+# 塞瓦亚 Selvarey（朗姆酒）
 
 **Selvarey Rum**
 

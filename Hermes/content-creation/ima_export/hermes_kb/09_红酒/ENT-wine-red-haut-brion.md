@@ -1,4 +1,4 @@
-# Château Haut-Brion
+# 侯伯王（Château Haut-Brion）
 
 **Château Haut-Brion**
 

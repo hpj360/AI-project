@@ -1,4 +1,4 @@
-# 考顿查理曼 2014
+# 考顿查理曼 2014（白酒）
 
 **Domaine Bonneau du Martray Corton-Charlemagne 2014**
 

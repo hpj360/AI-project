@@ -1,4 +1,4 @@
-# 哥顿 接骨木花
+# 哥顿 接骨木花（金酒）
 
 **Gordon's Elderflower**
 

@@ -1,4 +1,4 @@
-# 百加得 Gold
+# 百加得 Gold（朗姆酒）
 
 **Bacardi Gold Rum**
 

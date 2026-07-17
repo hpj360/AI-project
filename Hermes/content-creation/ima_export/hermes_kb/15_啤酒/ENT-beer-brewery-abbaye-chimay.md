@@ -1,4 +1,4 @@
-# Abbaye Chimay 啤酒厂
+# Abbaye Chimay 啤酒厂（啤酒）
 
 **Abbaye Chimay**
 

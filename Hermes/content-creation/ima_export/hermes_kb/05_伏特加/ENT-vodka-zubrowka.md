@@ -1,4 +1,4 @@
-# 野牛草 Zubrowka
+# 野牛草 Zubrowka（伏特加）
 
 **Zubrówka Bison Grass**
 

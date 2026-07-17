@@ -1,4 +1,4 @@
-# 清酒侍酒温度
+# 清酒侍酒温度（清酒）
 
 **Sake Service Temperature**
 

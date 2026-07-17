@@ -1,4 +1,4 @@
-# 八海山 纯米大吟醸
+# 八海山 纯米大吟醸（清酒）
 
 **Hakkaisan Junmai Daiginjo**
 

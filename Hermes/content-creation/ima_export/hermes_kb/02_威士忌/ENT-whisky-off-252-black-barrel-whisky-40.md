@@ -1,4 +1,4 @@
-# Black Barrel whisky 40%
+# Black Barrel whisky 40%（威士忌）
 
 **Black Barrel whisky 40%**
 

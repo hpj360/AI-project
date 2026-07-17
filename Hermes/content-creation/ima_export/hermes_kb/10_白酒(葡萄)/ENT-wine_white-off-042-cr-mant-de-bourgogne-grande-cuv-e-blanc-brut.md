@@ -1,4 +1,4 @@
-# Crémant de Bourgogne grande cuvée blanc brut
+# 勃艮第（Crémant de Bourgogne grande cuvée blanc brut）
 
 **Crémant de Bourgogne grande cuvée blanc brut**
 

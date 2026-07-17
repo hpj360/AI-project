@@ -1,4 +1,4 @@
-# Mexicanos Tequila Beer
+# Mexicanos Tequila Beer（龙舌兰）
 
 **Mexicanos Tequila Beer**
 

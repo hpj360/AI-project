@@ -1,4 +1,4 @@
-# 格兰杰 10 年原桶
+# 格兰杰 10 年原桶（威士忌）
 
 **Glenmorangie Original 10**
 

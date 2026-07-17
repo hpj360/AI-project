@@ -1,4 +1,4 @@
-# 国潮白酒趋势
+# 国潮白酒趋势（白酒）
 
 **Guochao Baijiu Trend**
 

@@ -1,4 +1,4 @@
-# 婷芭克世家圣翰园 2013
+# 婷芭克世家圣翰园 2013（白酒）
 
 **Maison Trimbach Clos Sainte Hune 2013**
 

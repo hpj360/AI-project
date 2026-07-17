@@ -1,4 +1,4 @@
-# 红荔牌红米酒
+# 红荔牌红米酒（米酒）
 
 **Hongli Red Rice Wine**
 

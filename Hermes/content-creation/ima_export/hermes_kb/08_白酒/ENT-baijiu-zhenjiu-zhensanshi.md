@@ -1,4 +1,4 @@
-# 珍酒 珍三十
+# 珍酒 珍三十（白酒）
 
 **Zhenjiu Zhensanshi**
 

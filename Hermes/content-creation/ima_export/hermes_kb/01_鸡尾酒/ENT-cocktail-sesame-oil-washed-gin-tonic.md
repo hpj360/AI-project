@@ -1,4 +1,4 @@
-# 洗油金汤力
+# 洗油金汤力（金酒）
 
 **Sesame Oil Washed Gin & Tonic**
 

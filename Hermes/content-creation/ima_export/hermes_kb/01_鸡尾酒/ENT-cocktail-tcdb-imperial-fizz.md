@@ -1,4 +1,4 @@
-# Imperial Fizz
+# 帝国（Imperial Fizz）
 
 **Imperial Fizz**
 

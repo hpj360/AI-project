@@ -1,4 +1,4 @@
-# 醋栗酒
+# 醋栗酒（果酒）
 
 **Gooseberry Wine**
 

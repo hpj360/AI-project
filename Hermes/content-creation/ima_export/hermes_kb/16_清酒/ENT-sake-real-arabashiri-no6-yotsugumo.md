@@ -1,4 +1,4 @@
-# 新政 No.6 Yotsugumo 四ッ雲
+# 新政 No.6 Yotsugumo 四ッ雲（清酒）
 
 **Aramasa No.6 Yotsugumo Junmai Ginjo**
 

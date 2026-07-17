@@ -1,4 +1,4 @@
-# Bacardi Razz
+# 百加得（Bacardi Razz）
 
 **Bacardi Razz**
 

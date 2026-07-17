@@ -1,4 +1,4 @@
-# Allagash Brewing Co 啤酒厂
+# Allagash Brewing Co 啤酒厂（啤酒）
 
 **Allagash Brewing Co**
 

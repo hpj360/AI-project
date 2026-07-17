@@ -1,4 +1,4 @@
-# 烈酒品鉴杯型对比
+# 烈酒品鉴杯型对比（威士忌）
 
 **Spirits Tasting Glass Comparison**
 

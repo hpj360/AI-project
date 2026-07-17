@@ -1,4 +1,4 @@
-# Gösser Brauerei (Heineken) 啤酒厂
+# Gösser Brauerei (Heineken) 啤酒厂（啤酒）
 
 **Gösser Brauerei (Heineken)**
 

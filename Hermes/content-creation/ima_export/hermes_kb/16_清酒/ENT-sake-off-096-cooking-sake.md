@@ -1,4 +1,4 @@
-# Cooking Sake
+# 清酒（Cooking Sake）
 
 **Cooking Sake**
 

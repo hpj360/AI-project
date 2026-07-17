@@ -1,4 +1,4 @@
-# Very Special Cognac
+# Very Special Cognac（白兰地）
 
 **Very Special Cognac**
 

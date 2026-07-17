@@ -1,4 +1,4 @@
-# 桂林三花酒 52 度（玻瓶）
+# 桂林三花酒 52 度（玻瓶）（米酒）
 
 **Guilin Sanhua Wine 52% (Glass Bottle)**
 

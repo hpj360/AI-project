@@ -1,4 +1,4 @@
-# Stellar Brewery 啤酒厂
+# Stellar Brewery 啤酒厂（啤酒）
 
 **Stellar Brewery**
 

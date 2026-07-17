@@ -1,4 +1,4 @@
-# 蒙特莱纳霞多丽 2017
+# 蒙特莱纳霞多丽 2017（白酒）
 
 **Chateau Montelena Chardonnay 2017**
 

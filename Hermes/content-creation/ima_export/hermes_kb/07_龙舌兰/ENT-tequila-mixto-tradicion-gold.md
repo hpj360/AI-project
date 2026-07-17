@@ -1,4 +1,4 @@
-# 米克斯托 Mixto Tradición Gold
+# 米克斯托 Mixto Tradición Gold（龙舌兰）
 
 **Mixto Tradición Gold**
 

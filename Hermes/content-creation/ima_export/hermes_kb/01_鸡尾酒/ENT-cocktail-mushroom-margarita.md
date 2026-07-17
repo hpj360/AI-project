@@ -1,4 +1,4 @@
-# 蘑菇玛格丽特
+# 蘑菇玛格丽特（龙舌兰）
 
 **Mushroom Margarita**
 

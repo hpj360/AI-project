@@ -1,4 +1,4 @@
-# 摩根黑
+# 摩根黑（朗姆酒）
 
 **Captain Morgan Black**
 

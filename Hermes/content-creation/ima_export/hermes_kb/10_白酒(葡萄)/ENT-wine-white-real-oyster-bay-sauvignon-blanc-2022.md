@@ -1,4 +1,4 @@
-# Oyster Bay 长相思 2022
+# Oyster Bay 长相思 2022（葡萄酒）
 
 **Oyster Bay Sauvignon Blanc Marlborough 2022**
 

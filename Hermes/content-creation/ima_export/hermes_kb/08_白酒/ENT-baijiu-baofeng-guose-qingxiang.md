@@ -1,4 +1,4 @@
-# 宝丰 国色清香
+# 宝丰 国色清香（白酒）
 
 **Baofeng Guose Qingxiang**
 

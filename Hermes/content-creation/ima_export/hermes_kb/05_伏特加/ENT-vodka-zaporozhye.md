@@ -1,4 +1,4 @@
-# 扎波罗热 Zaporozhye
+# 扎波罗热 Zaporozhye（伏特加）
 
 **Zaporozhye Vodka**
 

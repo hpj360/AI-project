@@ -1,4 +1,4 @@
-# Vin blanc Classic
+# Vin blanc Classic（葡萄酒）
 
 **Vin blanc Classic**
 

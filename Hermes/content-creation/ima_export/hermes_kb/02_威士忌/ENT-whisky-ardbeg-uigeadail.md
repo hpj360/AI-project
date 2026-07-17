@@ -1,4 +1,4 @@
-# 雅伯 Uigeadail
+# 雅伯 Uigeadail（威士忌）
 
 **Ardbeg Uigeadail**
 

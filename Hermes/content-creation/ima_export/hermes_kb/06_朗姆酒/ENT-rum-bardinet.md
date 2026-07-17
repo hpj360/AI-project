@@ -1,4 +1,4 @@
-# 巴迪堤 Bardinet
+# 巴迪堤 Bardinet（朗姆酒）
 
 **Bardinet Rum**
 

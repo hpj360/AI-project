@@ -1,4 +1,4 @@
-# Gordon's London Dry Gin
+# 歌顿金酒（Gordon's London Dry Gin）
 
 **Gordon's London Dry Gin**
 

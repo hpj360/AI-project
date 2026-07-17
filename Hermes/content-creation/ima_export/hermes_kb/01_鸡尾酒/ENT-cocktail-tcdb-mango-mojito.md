@@ -1,4 +1,4 @@
-# Mango Mojito
+# 莫吉托（Mango Mojito）
 
 **Mango Mojito**
 

@@ -1,4 +1,4 @@
-# Dogfish Head Brewings & Eats 啤酒厂
+# Dogfish Head Brewings & Eats 啤酒厂（啤酒）
 
 **Dogfish Head Brewings & Eats**
 

@@ -1,4 +1,4 @@
-# Malibu 椰子朗姆酒
+# Malibu 椰子朗姆酒（朗姆酒）
 
 **Malibu Original Coconut Rum**
 

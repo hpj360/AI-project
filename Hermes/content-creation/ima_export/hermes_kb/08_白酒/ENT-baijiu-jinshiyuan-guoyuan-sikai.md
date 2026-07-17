@@ -1,4 +1,4 @@
-# 今世缘 国缘四开
+# 今世缘 国缘四开（白酒）
 
 **Jinshiyuan Guoyuan Sikai**
 

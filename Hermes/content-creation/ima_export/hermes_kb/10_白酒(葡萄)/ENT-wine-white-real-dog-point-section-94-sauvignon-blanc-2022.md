@@ -1,4 +1,4 @@
-# Dog Point Section 94 长相思 2022
+# Dog Point Section 94 长相思 2022（葡萄酒）
 
 **Dog Point Section 94 Sauvignon Blanc Marlborough 2022**
 

@@ -1,4 +1,4 @@
-# 氮气浓缩咖啡马天尼
+# 氮气浓缩咖啡马天尼（伏特加）
 
 **Nitro Espresso Martini**
 

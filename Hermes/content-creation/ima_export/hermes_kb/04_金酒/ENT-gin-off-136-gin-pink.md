@@ -1,4 +1,4 @@
-# Gin Pink
+# Gin Pink（金酒）
 
 **Gin Pink**
 

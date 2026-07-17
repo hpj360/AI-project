@@ -1,4 +1,4 @@
-# Grant's Triple Wood Blended Scotch Whisky
+# 格兰（Grant's Triple Wood Blended Scotch Whisky）
 
 **Grant's Triple Wood Blended Scotch Whisky**
 

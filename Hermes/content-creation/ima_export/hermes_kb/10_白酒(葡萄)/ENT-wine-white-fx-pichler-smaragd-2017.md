@@ -1,4 +1,4 @@
-# FX 皮希勒绿维特利纳 2017
+# FX 皮希勒绿维特利纳 2017（白酒）
 
 **FX Pichler Grüner Veltliner Smaragd 2017**
 

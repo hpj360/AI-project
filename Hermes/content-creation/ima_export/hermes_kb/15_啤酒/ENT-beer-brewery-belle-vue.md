@@ -1,4 +1,4 @@
-# Belle-Vue 啤酒厂
+# Belle-Vue 啤酒厂（啤酒）
 
 **Belle-Vue**
 

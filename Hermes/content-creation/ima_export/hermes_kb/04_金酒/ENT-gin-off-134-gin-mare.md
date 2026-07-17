@@ -1,4 +1,4 @@
-# Gin Mare
+# 海风金酒（Gin Mare）
 
 **Gin Mare**
 

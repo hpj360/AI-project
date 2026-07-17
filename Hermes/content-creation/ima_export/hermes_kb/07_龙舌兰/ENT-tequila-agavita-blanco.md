@@ -1,4 +1,4 @@
-# 阿瓜维瓦 Agavita Blanco
+# 阿瓜维瓦 Agavita Blanco（龙舌兰）
 
 **Agavita Blanco**
 

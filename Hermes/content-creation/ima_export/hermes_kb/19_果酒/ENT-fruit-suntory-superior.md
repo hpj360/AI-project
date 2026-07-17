@@ -1,4 +1,4 @@
-# SUNTORY 山崎桶陈梅酒 SUPERIOR
+# SUNTORY 山崎桶陈梅酒 SUPERIOR（果酒）
 
 **SUNTORY Plum Liqueur Blended with barrel-aged from Yamazaki Distillery SUPERIOR**
 

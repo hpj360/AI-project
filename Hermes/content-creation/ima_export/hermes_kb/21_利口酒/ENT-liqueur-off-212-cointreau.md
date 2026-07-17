@@ -1,4 +1,4 @@
-# Cointreau
+# 君度（Cointreau）
 
 **Cointreau**
 

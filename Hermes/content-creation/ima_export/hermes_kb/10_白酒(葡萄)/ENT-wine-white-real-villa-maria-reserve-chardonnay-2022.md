@@ -1,4 +1,4 @@
-# Villa Maria Reserve 霞多丽 2022
+# Villa Maria Reserve 霞多丽 2022（葡萄酒）
 
 **Villa Maria Reserve Chardonnay Marlborough 2022**
 

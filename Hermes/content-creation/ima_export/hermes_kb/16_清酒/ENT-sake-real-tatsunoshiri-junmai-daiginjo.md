@@ -1,4 +1,4 @@
-# 龍の曙 纯米大吟醸
+# 龍の曙 纯米大吟醸（清酒）
 
 **Tatsunoshiri Junmai Daiginjo**
 

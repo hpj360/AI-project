@@ -1,4 +1,4 @@
-# Cognac VSOP Baronne de Fontignac 40° 70cl
+# Cognac VSOP Baronne de Fontignac 40° 70cl（白兰地）
 
 **Cognac VSOP Baronne de Fontignac 40° 70cl**
 

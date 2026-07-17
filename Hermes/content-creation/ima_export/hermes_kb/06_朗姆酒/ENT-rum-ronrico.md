@@ -1,4 +1,4 @@
-# 朗匿可 Ronrico
+# 朗匿可 Ronrico（朗姆酒）
 
 **Ronrico Rum**
 

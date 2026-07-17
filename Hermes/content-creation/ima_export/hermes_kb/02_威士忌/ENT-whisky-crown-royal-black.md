@@ -1,4 +1,4 @@
-# 皇冠 黑麦
+# 皇冠 黑麦（威士忌）
 
 **Crown Royal Black**
 

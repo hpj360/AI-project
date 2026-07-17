@@ -1,4 +1,4 @@
-# 会稽山黄酒
+# 会稽山黄酒（黄酒）
 
 **Kuaijishan Yellow Wine**
 

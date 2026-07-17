@@ -1,4 +1,4 @@
-# 巴罗洛孔特诺 2013
+# 巴罗洛孔特诺 2013（红酒）
 
 **Giacomo Conterno Barolo Riserva 2013**
 

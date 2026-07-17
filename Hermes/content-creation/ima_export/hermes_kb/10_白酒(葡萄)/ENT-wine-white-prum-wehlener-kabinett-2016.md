@@ -1,4 +1,4 @@
-# 普朗珍藏 2016
+# 普朗珍藏 2016（白酒）
 
 **Joh. Jos. Prüm Wehlener Sonnenuhr Kabinett 2016**
 

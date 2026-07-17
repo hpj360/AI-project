@@ -1,4 +1,4 @@
-# 基斯特勒霞多丽 2017
+# 基斯特勒霞多丽 2017（白酒）
 
 **Kistler Vineyards Les Embisees Chardonnay 2017**
 

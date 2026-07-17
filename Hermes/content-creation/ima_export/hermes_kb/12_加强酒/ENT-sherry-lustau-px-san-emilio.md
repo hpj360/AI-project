@@ -1,4 +1,4 @@
-# Lustau Solera Reserva Pedro Ximénez San Emilio Sherry
+# 雪利（Lustau Solera Reserva Pedro Ximénez San Emilio Sherry）
 
 **Lustau Solera Reserva Pedro Ximénez San Emilio Sherry**
 

@@ -1,4 +1,4 @@
-# 德国皮尔森（纯净法）
+# 德国皮尔森（纯净法）（啤酒）
 
 **German Pilsner (Reinheitsgebot)**
 

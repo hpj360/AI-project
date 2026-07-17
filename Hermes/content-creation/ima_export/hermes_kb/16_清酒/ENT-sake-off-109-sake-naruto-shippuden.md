@@ -1,4 +1,4 @@
-# Sake Naruto Shippuden
+# 清酒（Sake Naruto Shippuden）
 
 **Sake Naruto Shippuden**
 

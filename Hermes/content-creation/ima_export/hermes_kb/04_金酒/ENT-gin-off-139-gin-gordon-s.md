@@ -1,4 +1,4 @@
-# Gin Gordon's
+# 歌顿金酒（Gin Gordon's）
 
 **Gin Gordon's**
 

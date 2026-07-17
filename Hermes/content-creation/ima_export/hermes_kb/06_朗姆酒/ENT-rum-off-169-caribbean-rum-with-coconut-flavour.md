@@ -1,4 +1,4 @@
-# Caribbean rum with coconut flavour
+# Caribbean rum with coconut flavour（朗姆酒）
 
 **Caribbean rum with coconut flavour**
 

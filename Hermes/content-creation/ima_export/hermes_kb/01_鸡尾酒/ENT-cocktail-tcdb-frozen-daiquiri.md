@@ -1,4 +1,4 @@
-# Frozen Daiquiri
+# 得其利（Frozen Daiquiri）
 
 **Frozen Daiquiri**
 

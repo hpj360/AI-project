@@ -1,4 +1,4 @@
-# 布肯伍德墓园 2016
+# 布肯伍德墓园 2016（红酒）
 
 **Brokenwood Graveyard Shiraz 2016**
 

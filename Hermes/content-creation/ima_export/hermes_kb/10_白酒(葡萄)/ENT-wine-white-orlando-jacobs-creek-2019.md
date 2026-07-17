@@ -1,4 +1,4 @@
-# 奥兰多杰卡斯霞多丽 2019
+# 奥兰多杰卡斯霞多丽 2019（白酒）
 
 **Orlando Jacobs Creek Chardonnay 2019**
 

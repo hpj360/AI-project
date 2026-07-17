@@ -1,4 +1,4 @@
-# 约翰走路黑牌 12 年
+# 约翰走路黑牌 12 年（威士忌）
 
 **Johnnie Walker Black Label 12 Year**
 

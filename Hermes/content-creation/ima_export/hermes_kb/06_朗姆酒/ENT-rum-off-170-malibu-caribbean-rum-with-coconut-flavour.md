@@ -1,4 +1,4 @@
-# Malibu - Caribbean rum with coconut flavour
+# 马利宝（Malibu - Caribbean rum with coconut flavour）
 
 **Malibu - Caribbean rum with coconut flavour**
 

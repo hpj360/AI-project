@@ -1,4 +1,4 @@
-# El Jimador Blanco
+# 艾尔吉玛多（El Jimador Blanco）
 
 **El Jimador Blanco Tequila**
 

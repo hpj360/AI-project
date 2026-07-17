@@ -1,4 +1,4 @@
-# 庞特卡奈古堡
+# 庞特卡奈古堡（红酒）
 
 **Château Pichon Longueville Baron**
 

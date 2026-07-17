@@ -1,4 +1,4 @@
-# Brauerei Forst 啤酒厂
+# Brauerei Forst 啤酒厂（啤酒）
 
 **Brauerei Forst**
 

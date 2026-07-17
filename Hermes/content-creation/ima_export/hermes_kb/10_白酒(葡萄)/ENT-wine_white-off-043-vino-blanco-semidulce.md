@@ -1,4 +1,4 @@
-# Vino Blanco Semidulce
+# Vino Blanco Semidulce（葡萄酒）
 
 **Vino Blanco Semidulce**
 

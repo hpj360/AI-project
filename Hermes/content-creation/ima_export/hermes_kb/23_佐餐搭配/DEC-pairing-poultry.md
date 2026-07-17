@@ -1,4 +1,4 @@
-# 禽类配酒指南
+# 禽类配酒指南（葡萄酒）
 
 **Poultry and Wine Pairing Guide**
 

@@ -1,4 +1,4 @@
-# 董酒 国密董酒
+# 董酒 国密董酒（白酒）
 
 **Dongjiu Guomi Dongjiu**
 

@@ -1,4 +1,4 @@
-# 鹅岛 IPA
+# 鹅岛 IPA（啤酒）
 
 **Goose Island IPA**
 

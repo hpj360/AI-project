@@ -1,4 +1,4 @@
-# 夏山凯乐 2016
+# 夏山凯乐 2016（白酒）
 
 **Domaine Ramonet Chassagne-Montrachet Les Caillerets 2016**
 

@@ -1,4 +1,4 @@
-# 牛栏山 二锅头 绿瓶
+# 牛栏山 二锅头 绿瓶（白酒）
 
 **Niulanshan Erguotou Green Bottle**
 

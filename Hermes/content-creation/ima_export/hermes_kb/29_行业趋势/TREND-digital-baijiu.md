@@ -1,4 +1,4 @@
-# 中国数字酒证
+# 中国数字酒证（白酒）
 
 **China Digital Baijiu Certificates**
 

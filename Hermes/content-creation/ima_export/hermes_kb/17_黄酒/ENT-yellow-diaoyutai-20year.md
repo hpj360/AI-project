@@ -1,4 +1,4 @@
-# 钓鱼台花雕酒 二十年陈
+# 钓鱼台花雕酒 二十年陈（黄酒）
 
 **Diao Yu Tai Hua Diao Wine Aged 20 Years**
 

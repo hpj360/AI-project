@@ -1,4 +1,4 @@
-# 必富达伦敦干金酒
+# 必富达伦敦干金酒（金酒）
 
 **Beefeater London Dry Gin**
 

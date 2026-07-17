@@ -1,4 +1,4 @@
-# 人头马 1738 Accord Royal
+# 人头马 1738 Accord Royal（白兰地）
 
 **Rémy Martin 1738 Accord Royal**
 

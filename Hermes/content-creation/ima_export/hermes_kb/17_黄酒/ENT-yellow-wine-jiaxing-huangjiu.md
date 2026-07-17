@@ -1,4 +1,4 @@
-# 嘉兴黄酒
+# 嘉兴黄酒（黄酒）
 
 **Jiaxing Yellow Wine**
 

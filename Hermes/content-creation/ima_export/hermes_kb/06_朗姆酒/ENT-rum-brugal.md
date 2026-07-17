@@ -1,4 +1,4 @@
-# 布卡纳斯 Brugal
+# 布卡纳斯 Brugal（朗姆酒）
 
 **Brugal Añejo**
 

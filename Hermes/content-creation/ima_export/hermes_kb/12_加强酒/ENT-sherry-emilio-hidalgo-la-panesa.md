@@ -1,4 +1,4 @@
-# Emilio Hidalgo La Panesa Especial Fino Sherry
+# 雪利（Emilio Hidalgo La Panesa Especial Fino Sherry）
 
 **Emilio Hidalgo La Panesa Especial Fino Sherry**
 

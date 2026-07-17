@@ -1,4 +1,4 @@
-# Traditional Style Grilled Squid
+# Traditional Style Grilled Squid（金酒）
 
 **Traditional Style Grilled Squid**
 

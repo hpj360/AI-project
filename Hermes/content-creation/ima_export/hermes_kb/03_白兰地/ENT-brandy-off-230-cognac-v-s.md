@@ -1,4 +1,4 @@
-# Cognac V.S.
+# Cognac V.S.（白兰地）
 
 **Cognac V.S.**
 

@@ -1,4 +1,4 @@
-# 黑米黄酒
+# 黑米黄酒（黄酒）
 
 **Black Rice Yellow Wine**
 

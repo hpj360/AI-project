@@ -1,4 +1,4 @@
-# 八海山 本酿造
+# 八海山 本酿造（清酒）
 
 **Hakkaisan Honjozo**
 

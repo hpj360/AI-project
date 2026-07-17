@@ -1,4 +1,4 @@
-# Licor de Tequila
+# Licor de Tequila（龙舌兰）
 
 **Licor de Tequila**
 

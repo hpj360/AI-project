@@ -1,4 +1,4 @@
-# 教皇新堡佩高 2016
+# 教皇新堡佩高 2016（红酒）
 
 **Domaine du Pégau Châteauneuf-du-Pape 2016**
 

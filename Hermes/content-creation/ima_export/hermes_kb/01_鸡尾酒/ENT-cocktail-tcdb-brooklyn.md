@@ -1,4 +1,4 @@
-# Brooklyn
+# 布鲁克林（Brooklyn）
 
 **Brooklyn**
 

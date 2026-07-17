@@ -1,4 +1,4 @@
-# Death in the Afternoon
+# 午后之死（Death in the Afternoon）
 
 **Death in the Afternoon**
 

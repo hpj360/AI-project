@@ -1,4 +1,4 @@
-# Tom Collins
+# 汤姆柯林斯（Tom Collins）
 
 **Tom Collins**
 

@@ -1,4 +1,4 @@
-# 札幌黑标生啤
+# 札幌黑标生啤（啤酒）
 
 **Sapporo Black Label Draft**
 

@@ -1,4 +1,4 @@
-# 沙洲优黄
+# 沙洲优黄（黄酒）
 
 **Shazhou Youhuang**
 

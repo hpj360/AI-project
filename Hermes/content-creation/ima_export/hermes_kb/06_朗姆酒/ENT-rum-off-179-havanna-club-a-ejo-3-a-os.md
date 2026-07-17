@@ -1,4 +1,4 @@
-# Havanna Club Añejo 3 Años
+# Havanna Club Añejo 3 Años（朗姆酒）
 
 **Havanna Club Añejo 3 Años**
 

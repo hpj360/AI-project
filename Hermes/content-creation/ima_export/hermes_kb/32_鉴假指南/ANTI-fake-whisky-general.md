@@ -1,4 +1,4 @@
-# 威士忌通用鉴别方法
+# 威士忌通用鉴别方法（威士忌）
 
 **General Whisky Identification Methods**
 

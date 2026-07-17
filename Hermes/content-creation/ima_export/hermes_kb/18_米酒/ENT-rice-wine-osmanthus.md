@@ -1,4 +1,4 @@
-# 桂花米酒
+# 桂花米酒（米酒）
 
 **Osmanthus Rice Wine**
 

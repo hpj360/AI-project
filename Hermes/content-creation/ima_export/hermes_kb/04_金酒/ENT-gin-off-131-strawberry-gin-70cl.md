@@ -1,4 +1,4 @@
-# Strawberry Gin 70CL
+# Strawberry Gin 70CL（金酒）
 
 **Strawberry Gin 70CL**
 

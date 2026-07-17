@@ -1,4 +1,4 @@
-# 16 Stone Brewpub 啤酒厂
+# 16 Stone Brewpub 啤酒厂（啤酒）
 
 **16 Stone Brewpub**
 

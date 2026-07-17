@@ -1,4 +1,4 @@
-# 水果味葡萄酒
+# 水果味葡萄酒（果酒）
 
 **Fruit Flavored Wine**
 

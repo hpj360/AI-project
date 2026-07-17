@@ -1,4 +1,4 @@
-# 壶式蒸馏原理
+# 壶式蒸馏原理（威士忌）
 
 **Pot Still Distillation**
 

@@ -1,4 +1,4 @@
-# 欧盟葡萄酒法规
+# 欧盟葡萄酒法规（葡萄酒）
 
 **EU Wine Regulation CMO**
 

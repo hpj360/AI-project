@@ -1,4 +1,4 @@
-# Bumbu
+# Bumbu（朗姆酒）
 
 **Bumbu Rum**
 

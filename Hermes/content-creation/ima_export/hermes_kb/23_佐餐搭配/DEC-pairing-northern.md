@@ -1,4 +1,4 @@
-# 北方菜配酒指南
+# 北方菜配酒指南（红酒）
 
 **Northern Chinese Cuisine and Wine Pairing**
 

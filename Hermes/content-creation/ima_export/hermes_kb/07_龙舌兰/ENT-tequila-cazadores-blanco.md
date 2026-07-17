@@ -1,4 +1,4 @@
-# 赛尔维纳 Cazadores Blanco
+# 赛尔维纳 Cazadores Blanco（龙舌兰）
 
 **Cazadores Blanco**
 

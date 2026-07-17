@@ -1,4 +1,4 @@
-# Sherry Eggnog
+# 雪利（Sherry Eggnog）
 
 **Sherry Eggnog**
 

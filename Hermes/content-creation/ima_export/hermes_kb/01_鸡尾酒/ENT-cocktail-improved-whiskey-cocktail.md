@@ -1,4 +1,4 @@
-# 改良威士忌鸡尾酒
+# 改良威士忌鸡尾酒（威士忌）
 
 **Improved Whiskey Cocktail**
 

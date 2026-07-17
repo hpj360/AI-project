@@ -1,4 +1,4 @@
-# 黑糯米酒
+# 黑糯米酒（米酒）
 
 **Black Glutinous Rice Wine**
 

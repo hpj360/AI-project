@@ -1,4 +1,4 @@
-# Bell's Eccentric Cafe 啤酒厂
+# Bell's Eccentric Cafe 啤酒厂（啤酒）
 
 **Bell's Eccentric Cafe**
 

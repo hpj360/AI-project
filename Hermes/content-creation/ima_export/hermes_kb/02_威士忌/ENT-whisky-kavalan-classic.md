@@ -1,4 +1,4 @@
-# Kavalan 经典
+# Kavalan 经典（威士忌）
 
 **Kavalan Classic**
 

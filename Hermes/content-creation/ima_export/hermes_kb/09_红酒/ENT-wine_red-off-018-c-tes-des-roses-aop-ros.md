@@ -1,4 +1,4 @@
-# Côtes des Roses AOP, rosé
+# Côtes des Roses AOP, rosé（葡萄酒）
 
 **Côtes des Roses AOP, rosé**
 

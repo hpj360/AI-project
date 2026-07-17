@@ -1,4 +1,4 @@
-# Captain Morgan Spiced Gold
+# 摩根船长（Captain Morgan Spiced Gold）
 
 **Captain Morgan Spiced Gold**
 

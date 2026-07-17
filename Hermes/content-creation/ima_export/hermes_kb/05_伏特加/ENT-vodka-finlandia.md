@@ -1,4 +1,4 @@
-# 芬兰 Finlandia
+# 芬兰 Finlandia（伏特加）
 
 **Finlandia Vodka**
 

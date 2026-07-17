@@ -1,4 +1,4 @@
-# 罗伯特蒙大维珍藏 2016
+# 罗伯特蒙大维珍藏 2016（红酒）
 
 **Robert Mondavi Reserve Cabernet 2016**
 

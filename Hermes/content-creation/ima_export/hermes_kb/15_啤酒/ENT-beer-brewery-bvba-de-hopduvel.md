@@ -1,4 +1,4 @@
-# BVBA De Hopduvel 啤酒厂
+# BVBA De Hopduvel 啤酒厂（啤酒）
 
 **BVBA De Hopduvel**
 

@@ -1,4 +1,4 @@
-# whisky
+# whisky（威士忌）
 
 **whisky**
 

@@ -1,4 +1,4 @@
-# Mojito Extra
+# 莫吉托（Mojito Extra）
 
 **Mojito Extra**
 

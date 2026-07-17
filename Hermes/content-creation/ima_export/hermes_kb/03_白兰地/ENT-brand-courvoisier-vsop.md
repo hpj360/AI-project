@@ -1,4 +1,4 @@
-# 拿破仑 VSOP
+# 拿破仑 VSOP（白兰地）
 
 **Courvoisier VSOP**
 

@@ -1,4 +1,4 @@
-# 马爹利 VS
+# 马爹利 VS（白兰地）
 
 **Martell VS Cognac**
 

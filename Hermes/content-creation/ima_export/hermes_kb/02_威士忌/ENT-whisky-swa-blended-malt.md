@@ -1,4 +1,4 @@
-# 调配麦芽苏格兰威士忌 Blended Malt Scotch Whisky
+# 调配麦芽苏格兰威士忌 Blended Malt Scotch Whisky（威士忌）
 
 **Blended Malt Scotch Whisky**
 

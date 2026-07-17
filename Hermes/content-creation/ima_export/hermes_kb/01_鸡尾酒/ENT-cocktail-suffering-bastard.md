@@ -1,4 +1,4 @@
-# 苦难混蛋
+# 苦难混蛋（金酒）
 
 **Suffering Bastard**
 

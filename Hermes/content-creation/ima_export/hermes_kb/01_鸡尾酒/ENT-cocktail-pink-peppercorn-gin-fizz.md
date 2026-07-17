@@ -1,4 +1,4 @@
-# 粉红胡椒金菲士
+# 粉红胡椒金菲士（金酒）
 
 **Pink Peppercorn Gin Fizz**
 

@@ -1,4 +1,4 @@
-# London Dry Gin Kingerly & Sons
+# London Dry Gin Kingerly & Sons（金酒）
 
 **London Dry Gin Kingerly & Sons**
 

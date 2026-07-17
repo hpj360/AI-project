@@ -1,4 +1,4 @@
-# 青岛纯生
+# 青岛纯生（啤酒）
 
 **Tsingtao Pure Draft**
 

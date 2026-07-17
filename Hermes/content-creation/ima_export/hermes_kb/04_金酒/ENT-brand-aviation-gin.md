@@ -1,4 +1,4 @@
-# Aviation 美式金酒
+# Aviation 美式金酒（金酒）
 
 **Aviation American Gin**
 

@@ -1,4 +1,4 @@
-# Torres 5 年
+# Torres 5 年（白兰地）
 
 **Torres 5**
 

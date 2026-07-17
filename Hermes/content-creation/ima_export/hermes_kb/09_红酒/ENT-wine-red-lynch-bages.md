@@ -1,4 +1,4 @@
-# Château Lynch-Bages
+# 靓茨伯（Château Lynch-Bages）
 
 **Château Lynch-Bages**
 

@@ -1,4 +1,4 @@
-# 富恩特 Fortaleza Blanco
+# 富恩特 Fortaleza Blanco（龙舌兰）
 
 **Fortaleza Blanco**
 

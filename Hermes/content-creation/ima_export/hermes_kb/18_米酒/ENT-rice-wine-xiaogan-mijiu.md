@@ -1,4 +1,4 @@
-# 孝感米酒
+# 孝感米酒（米酒）
 
 **Xiaogan Rice Wine**
 

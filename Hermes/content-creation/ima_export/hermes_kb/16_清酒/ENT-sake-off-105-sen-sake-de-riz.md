@@ -1,4 +1,4 @@
-# Sen sake de riz
+# 清酒（Sen sake de riz）
 
 **Sen sake de riz**
 

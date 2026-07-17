@@ -1,4 +1,4 @@
-# 荆棘（弗雷德俱乐部版本）
+# 荆棘（弗雷德俱乐部版本）（金酒）
 
 **Bramble (Fred's Club Version)**
 

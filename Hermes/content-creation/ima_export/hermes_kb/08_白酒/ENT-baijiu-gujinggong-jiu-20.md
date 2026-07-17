@@ -1,4 +1,4 @@
-# 古井贡酒 年份原浆 古 20 52 度
+# 古井贡酒 年份原浆 古 20 52 度（白酒）
 
 **Gujing Gongjiu Vintage Original 20 52% Baijiu**
 

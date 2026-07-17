@@ -1,4 +1,4 @@
-# 萨凯帕 Centenario 25
+# 萨凯帕 Centenario 25（朗姆酒）
 
 **Zacapa Centenario 25**
 

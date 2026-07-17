@@ -1,4 +1,4 @@
-# Tequila Blanco Merida
+# Tequila Blanco Merida（龙舌兰）
 
 **Tequila Blanco Merida**
 

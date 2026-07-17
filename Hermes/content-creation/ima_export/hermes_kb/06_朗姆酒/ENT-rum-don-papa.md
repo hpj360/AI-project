@@ -1,4 +1,4 @@
-# 唐帕帕 Don Papa
+# 唐帕帕 Don Papa（朗姆酒）
 
 **Don Papa Rum**
 

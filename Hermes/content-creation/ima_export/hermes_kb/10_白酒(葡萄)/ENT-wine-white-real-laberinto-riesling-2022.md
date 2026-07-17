@@ -1,4 +1,4 @@
-# Laberinto Riesling 2022
+# Laberinto Riesling 2022（葡萄酒）
 
 **Laberinto Riesling Malleco 2022**
 

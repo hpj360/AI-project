@@ -1,4 +1,4 @@
-# Biere blonde sans gluten JADE
+# Biere blonde sans gluten JADE（啤酒）
 
 **Biere blonde sans gluten JADE**
 

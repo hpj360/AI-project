@@ -1,4 +1,4 @@
-# Cognac Vsop
+# Cognac Vsop（白兰地）
 
 **Cognac Vsop**
 

@@ -1,4 +1,4 @@
-# 皮耶罗潘经典苏瓦韦 2019
+# 皮耶罗潘经典苏瓦韦 2019（白酒）
 
 **Leonildo Pieropan Soave Classico 2019**
 

@@ -1,4 +1,4 @@
-# 四玫瑰 单桶
+# 四玫瑰 单桶（威士忌）
 
 **Four Roses Single Barrel**
 

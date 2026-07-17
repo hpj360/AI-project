@@ -1,4 +1,4 @@
-# 圣玛格丽特灰皮诺 2019
+# 圣玛格丽特灰皮诺 2019（白酒）
 
 **Santa Margherita Pinot Grigio 2019**
 

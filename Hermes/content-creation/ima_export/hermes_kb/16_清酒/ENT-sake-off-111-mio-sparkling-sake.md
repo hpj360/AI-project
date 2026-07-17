@@ -1,4 +1,4 @@
-# Mio sparkling sake
+# 清酒（Mio sparkling sake）
 
 **Mio sparkling sake**
 

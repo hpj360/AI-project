@@ -1,4 +1,4 @@
-# 兰加pure 融合
+# 兰加pure 融合（威士忌）
 
 **Amrut Fusion**
 

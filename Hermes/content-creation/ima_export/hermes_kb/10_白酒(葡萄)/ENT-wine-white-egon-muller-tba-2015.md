@@ -1,4 +1,4 @@
-# 伊慕 TBA 2015
+# 伊慕 TBA 2015（白酒）
 
 **Egon Müller Scharzhofberg TBA 2015**
 

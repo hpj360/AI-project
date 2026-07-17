@@ -1,4 +1,4 @@
-# 御鹿 纯净
+# 御鹿 纯净（白兰地）
 
 **Hine Talent de Thomas**
 

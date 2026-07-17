@@ -1,4 +1,4 @@
-# 红肉配酒指南
+# 红肉配酒指南（葡萄酒）
 
 **Red Meat and Wine Pairing Guide**
 

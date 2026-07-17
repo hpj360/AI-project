@@ -1,4 +1,4 @@
-# Daiquiri 戴基丽
+# Daiquiri 戴基丽（朗姆酒）
 
 **Daiquiri**
 

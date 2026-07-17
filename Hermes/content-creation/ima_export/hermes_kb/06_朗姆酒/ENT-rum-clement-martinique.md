@@ -1,4 +1,4 @@
-# 马蒂尼卡斯 Clément
+# 马蒂尼卡斯 Clément（朗姆酒）
 
 **Clément Rhum**
 

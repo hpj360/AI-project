@@ -1,4 +1,4 @@
-# Bière Brune Draught 4,2% GUINNESS
+# 健力士（Bière Brune Draught 4,2% GUINNESS）
 
 **Bière Brune Draught 4,2% GUINNESS**
 

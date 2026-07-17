@@ -1,4 +1,4 @@
-# Château Latour
+# 拉图酒庄（Château Latour）
 
 **Château Latour**
 

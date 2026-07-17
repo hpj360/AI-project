@@ -1,4 +1,4 @@
-# Plantation XO 20周年纪念
+# Plantation XO 20周年纪念（朗姆酒）
 
 **Plantation XO 20th Anniversary Rum**
 

@@ -1,4 +1,4 @@
-# Miyako Sake nihonshu
+# 清酒（Miyako Sake nihonshu）
 
 **Miyako Sake nihonshu**
 

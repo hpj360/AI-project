@@ -1,4 +1,4 @@
-# Bijou
+# 宝石（Bijou）
 
 **Bijou**
 

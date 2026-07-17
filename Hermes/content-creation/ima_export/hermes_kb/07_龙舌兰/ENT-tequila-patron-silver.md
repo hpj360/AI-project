@@ -1,4 +1,4 @@
-# 白金武士 Patrón Silver
+# 白金武士 Patrón Silver（龙舌兰）
 
 **Patrón Silver**
 

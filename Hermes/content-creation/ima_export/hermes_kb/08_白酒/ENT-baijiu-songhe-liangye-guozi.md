@@ -1,4 +1,4 @@
-# 宋河粮液 国字宋河
+# 宋河粮液 国字宋河（白酒）
 
 **Songhe Liangye Guozi Songhe**
 

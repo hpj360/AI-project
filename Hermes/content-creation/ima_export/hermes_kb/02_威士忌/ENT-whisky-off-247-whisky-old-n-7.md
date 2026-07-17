@@ -1,4 +1,4 @@
-# Whisky Old N°7
+# Whisky Old N°7（威士忌）
 
 **Whisky Old N°7**
 

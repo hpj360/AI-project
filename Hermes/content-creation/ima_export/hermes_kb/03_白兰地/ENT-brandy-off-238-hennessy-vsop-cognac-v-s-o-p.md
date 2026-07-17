@@ -1,4 +1,4 @@
-# Hennessy Vsop Cognac V.s.o.p.
+# 轩尼诗（Hennessy Vsop Cognac V.s.o.p.）
 
 **Hennessy Vsop Cognac V.s.o.p.**
 

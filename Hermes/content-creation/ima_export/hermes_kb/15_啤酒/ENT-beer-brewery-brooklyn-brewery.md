@@ -1,4 +1,4 @@
-# Brooklyn Brewery 啤酒厂
+# Brooklyn Brewery 啤酒厂（啤酒）
 
 **Brooklyn Brewery**
 

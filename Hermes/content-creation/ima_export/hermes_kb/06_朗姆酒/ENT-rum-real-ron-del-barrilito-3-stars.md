@@ -1,4 +1,4 @@
-# Ron del Barrilito 3 Stars
+# Ron del Barrilito 3 Stars（朗姆酒）
 
 **Ron del Barrilito Three Stars Rum**
 

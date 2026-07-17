@@ -1,4 +1,4 @@
-# GB/T 48009-2026 白酒质量通则（白酒基本法）
+# GB/T 48009-2026 白酒质量通则（白酒基本法）（白酒）
 
 **GB/T 48009-2026 General Quality Requirements for Baijiu**
 

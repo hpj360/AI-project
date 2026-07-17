@@ -1,4 +1,4 @@
-# Stella Artois Brewery 啤酒厂
+# Stella Artois Brewery 啤酒厂（啤酒）
 
 **Stella Artois Brewery**
 

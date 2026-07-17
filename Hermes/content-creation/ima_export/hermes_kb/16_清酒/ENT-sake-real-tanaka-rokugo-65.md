@@ -1,4 +1,4 @@
-# 田中六五
+# 田中六五（清酒）
 
 **Tanaka Rokugo Junmai Ginjo**
 

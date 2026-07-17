@@ -1,4 +1,4 @@
-# 日料配酒指南
+# 日料配酒指南（清酒）
 
 **Japanese Cuisine and Wine Pairing**
 

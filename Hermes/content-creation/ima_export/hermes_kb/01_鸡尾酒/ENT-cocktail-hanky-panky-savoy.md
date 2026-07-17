@@ -1,4 +1,4 @@
-# 汉基潘基（萨伏伊版本）
+# 汉基潘基（萨伏伊版本）（金酒）
 
 **Hanky Panky (Savoy Version)**
 

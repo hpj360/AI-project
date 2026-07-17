@@ -1,4 +1,4 @@
-# 海兹玛莎园 2014
+# 海兹玛莎园 2014（红酒）
 
 **Heitz Cellar Martha's Vineyard 2014**
 

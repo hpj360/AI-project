@@ -1,4 +1,4 @@
-# Manzairaku Kaga Umeshu
+# Manzairaku Kaga Umeshu（果酒）
 
 **Manzairaku Kaga Umeshu**
 

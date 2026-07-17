@@ -1,4 +1,4 @@
-# 玛卡迪奥 Macayo Blanco
+# 玛卡迪奥 Macayo Blanco（龙舌兰）
 
 **Macayo Blanco**
 

@@ -1,4 +1,4 @@
-# Blanc
+# Blanc（葡萄酒）
 
 **Blanc**
 

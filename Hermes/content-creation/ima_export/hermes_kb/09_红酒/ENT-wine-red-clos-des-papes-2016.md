@@ -1,4 +1,4 @@
-# 教皇新堡克洛帕普 2016
+# 教皇新堡克洛帕普 2016（红酒）
 
 **Clos des Papes Châteauneuf-du-Pape 2016**
 

@@ -1,4 +1,4 @@
-# 唯森啤酒
+# 唯森啤酒（啤酒）
 
 **Weihenstephaner**
 

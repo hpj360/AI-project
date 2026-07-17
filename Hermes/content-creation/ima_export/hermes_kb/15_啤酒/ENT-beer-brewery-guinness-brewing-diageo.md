@@ -1,4 +1,4 @@
-# Guinness Brewing (Diageo) 啤酒厂
+# Guinness Brewing (Diageo) 啤酒厂（啤酒）
 
 **Guinness Brewing (Diageo)**
 

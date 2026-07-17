@@ -1,4 +1,4 @@
-# Frozen Pineapple Daiquiri
+# 得其利（Frozen Pineapple Daiquiri）
 
 **Frozen Pineapple Daiquiri**
 

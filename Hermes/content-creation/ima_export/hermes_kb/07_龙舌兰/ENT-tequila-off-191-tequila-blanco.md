@@ -1,4 +1,4 @@
-# Tequila Blanco
+# Tequila Blanco（龙舌兰）
 
 **Tequila Blanco**
 

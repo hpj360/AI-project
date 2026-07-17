@@ -1,4 +1,4 @@
-# 狗点长相思 2020
+# 狗点长相思 2020（白酒）
 
 **Dog Point Sauvignon Blanc 2020**
 

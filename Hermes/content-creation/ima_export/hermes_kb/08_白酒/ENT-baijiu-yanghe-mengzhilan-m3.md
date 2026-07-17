@@ -1,4 +1,4 @@
-# 洋河 梦之蓝 M3
+# 洋河 梦之蓝 M3（白酒）
 
 **Yanghe Mengzhilan M3**
 

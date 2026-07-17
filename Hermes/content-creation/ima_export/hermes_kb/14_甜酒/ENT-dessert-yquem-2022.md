@@ -1,4 +1,4 @@
-# Château d'Yquem 2022
+# 滴金酒庄（Château d'Yquem 2022）
 
 **Château d'Yquem 2022**
 

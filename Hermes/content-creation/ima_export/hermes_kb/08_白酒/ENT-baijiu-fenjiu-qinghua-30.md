@@ -1,4 +1,4 @@
-# 汾酒青花 30 复兴版 53 度
+# 汾酒青花 30 复兴版 53 度（白酒）
 
 **Fenjiu Qinghua 30 Revival 53% Baijiu**
 

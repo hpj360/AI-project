@@ -1,4 +1,4 @@
-# 勃艮第杯选择与使用
+# 勃艮第杯选择与使用（红酒）
 
 **Burgundy Glass Selection**
 

@@ -1,4 +1,4 @@
-# 小红颜容 2016
+# 小红颜容 2016（红酒）
 
 **Château La Mission Haut-Brion 2016**
 

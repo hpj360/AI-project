@@ -1,4 +1,4 @@
-# 醒酒器类型与选择
+# 醒酒器类型与选择（红酒）
 
 **Decanter Types and Selection**
 

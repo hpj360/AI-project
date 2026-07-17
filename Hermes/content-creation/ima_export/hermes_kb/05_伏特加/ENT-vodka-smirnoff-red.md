@@ -1,4 +1,4 @@
-# Smirnoff Red Label Vodka
+# 斯米诺（Smirnoff Red Label Vodka）
 
 **Smirnoff Red Label Vodka**
 

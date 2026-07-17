@@ -1,4 +1,4 @@
-# 低温豆蔻金酒
+# 低温豆蔻金酒（金酒）
 
 **Sous Vide Cardamom Gin**
 

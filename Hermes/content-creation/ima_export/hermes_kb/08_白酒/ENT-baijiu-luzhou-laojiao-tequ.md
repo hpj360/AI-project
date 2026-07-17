@@ -1,4 +1,4 @@
-# 泸州老窖 特曲
+# 泸州老窖 特曲（白酒）
 
 **Luzhou Laojiao Tequ**
 

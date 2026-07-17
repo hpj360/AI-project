@@ -1,4 +1,4 @@
-# 白酒侍酒温度指南
+# 白酒侍酒温度指南（葡萄酒）
 
 **White Wine Service Temperature Guide**
 

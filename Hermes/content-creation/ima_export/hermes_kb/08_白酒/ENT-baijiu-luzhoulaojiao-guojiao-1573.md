@@ -1,4 +1,4 @@
-# 泸州老窖 国窖 1573 52 度
+# 泸州老窖 国窖 1573 52 度（白酒）
 
 **Luzhou Laojiao Guojiao 1573 52% Baijiu**
 

@@ -1,4 +1,4 @@
-# Malt 12 Years Whisky 40º
+# Malt 12 Years Whisky 40º（威士忌）
 
 **Malt 12 Years Whisky 40º**
 

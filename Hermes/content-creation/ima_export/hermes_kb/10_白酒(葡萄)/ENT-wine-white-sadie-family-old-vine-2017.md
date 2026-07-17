@@ -1,4 +1,4 @@
-# 萨迪家族老藤白 2017
+# 萨迪家族老藤白 2017（白酒）
 
 **Sadie Family Old Vine Series White 2017**
 

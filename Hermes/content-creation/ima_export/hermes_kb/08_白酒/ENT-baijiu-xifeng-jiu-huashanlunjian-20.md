@@ -1,4 +1,4 @@
-# 西凤酒 华山论剑 20 年 55 度
+# 西凤酒 华山论剑 20 年 55 度（白酒）
 
 **Xifengjiu Huashan Lunjian 20 Year 55% Baijiu**
 

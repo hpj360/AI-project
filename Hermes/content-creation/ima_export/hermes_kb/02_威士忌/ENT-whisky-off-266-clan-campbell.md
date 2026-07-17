@@ -1,4 +1,4 @@
-# Clan Campbell
+# Clan Campbell（威士忌）
 
 **Clan Campbell**
 

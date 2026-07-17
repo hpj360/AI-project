@@ -1,4 +1,4 @@
-# Ozeki Sake DRY
+# 清酒（Ozeki Sake DRY）
 
 **Ozeki Sake DRY**
 

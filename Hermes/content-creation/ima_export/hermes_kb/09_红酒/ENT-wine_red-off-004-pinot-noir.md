@@ -1,4 +1,4 @@
-# Pinot noir
+# Pinot noir（葡萄酒）
 
 **Pinot noir**
 

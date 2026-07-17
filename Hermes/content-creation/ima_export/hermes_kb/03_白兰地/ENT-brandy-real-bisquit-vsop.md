@@ -1,4 +1,4 @@
-# 百事吉 VSOP
+# 百事吉 VSOP（白兰地）
 
 **Bisquit VSOP Cognac**
 

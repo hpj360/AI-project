@@ -1,4 +1,4 @@
-# 宝嘉龙古堡
+# 宝嘉龙古堡（红酒）
 
 **Château Ducru-Beaucaillou**
 

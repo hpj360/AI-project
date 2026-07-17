@@ -1,4 +1,4 @@
-# 怡园深蓝 2017
+# 怡园深蓝 2017（红酒）
 
 **Grace Vineyard Deep Blue 2017**
 

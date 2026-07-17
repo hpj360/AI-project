@@ -1,4 +1,4 @@
-# 1800 Añejo
+# 1800 Añejo（龙舌兰）
 
 **1800 Añejo Tequila**
 

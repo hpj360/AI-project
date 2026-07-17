@@ -1,4 +1,4 @@
-# 尊尼获加 蓝牌
+# 尊尼获加 蓝牌（威士忌）
 
 **Johnnie Walker Blue Label**
 

@@ -1,4 +1,4 @@
-# 江西米酒
+# 江西米酒（米酒）
 
 **Jiangxi Rice Wine**
 

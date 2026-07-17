@@ -1,4 +1,4 @@
-# Tequila
+# Tequila（龙舌兰）
 
 **Tequila**
 

@@ -1,4 +1,4 @@
-# 哈瓦那俱乐部 Añejo Reserva
+# 哈瓦那俱乐部 Añejo Reserva（朗姆酒）
 
 **Havana Club Añejo Reserva**
 

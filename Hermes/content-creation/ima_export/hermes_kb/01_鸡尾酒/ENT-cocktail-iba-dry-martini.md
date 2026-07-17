@@ -1,4 +1,4 @@
-# Dry Martini 干马天尼
+# Dry Martini 干马天尼（金酒）
 
 **Dry Martini**
 

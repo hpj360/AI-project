@@ -1,4 +1,4 @@
-# la goudale blonde 1l
+# la goudale blonde 1l（啤酒）
 
 **la goudale blonde 1l**
 

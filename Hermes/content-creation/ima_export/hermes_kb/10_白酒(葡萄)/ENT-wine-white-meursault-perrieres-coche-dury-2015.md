@@ -1,4 +1,4 @@
-# 默尔索佩里耶 2015
+# 默尔索佩里耶 2015（白酒）
 
 **Domaine Coche-Dury Meursault Perrières 2015**
 

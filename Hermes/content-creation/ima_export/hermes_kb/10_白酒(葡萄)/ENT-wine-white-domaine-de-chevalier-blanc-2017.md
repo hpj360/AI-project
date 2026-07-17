@@ -1,4 +1,4 @@
-# 骑士庄园白 2017
+# 骑士庄园白 2017（白酒）
 
 **Domaine de Chevalier Blanc 2017**
 

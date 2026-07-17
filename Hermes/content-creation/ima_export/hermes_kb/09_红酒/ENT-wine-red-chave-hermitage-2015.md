@@ -1,4 +1,4 @@
-# 夏芙埃米塔日 2015
+# 夏芙埃米塔日 2015（红酒）
 
 **Domaine Jean-Louis Chave Hermitage 2015**
 

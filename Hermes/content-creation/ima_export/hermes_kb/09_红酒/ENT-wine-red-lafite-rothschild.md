@@ -1,4 +1,4 @@
-# Château Lafite Rothschild
+# 拉菲古堡（Château Lafite Rothschild）
 
 **Château Lafite Rothschild**
 

@@ -1,4 +1,4 @@
-# 红牌 Stolichnaya
+# 红牌 Stolichnaya（伏特加）
 
 **Stolichnaya**
 

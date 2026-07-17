@@ -1,4 +1,4 @@
-# 人头马 CLUB
+# 人头马 CLUB（白兰地）
 
 **Rémy Martin CLUB**
 

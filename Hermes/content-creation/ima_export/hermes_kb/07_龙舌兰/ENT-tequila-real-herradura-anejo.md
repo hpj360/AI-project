@@ -1,4 +1,4 @@
-# Herradura Añejo
+# 马蹄（Herradura Añejo）
 
 **Herradura Añejo Tequila**
 

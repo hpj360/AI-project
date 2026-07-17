@@ -1,4 +1,4 @@
-# 布林德迈尔老藤绿维特利纳 2017
+# 布林德迈尔老藤绿维特利纳 2017（白酒）
 
 **Weingut Bründlmayer Grüner Veltliner Alte Reben 2017**
 

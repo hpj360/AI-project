@@ -1,4 +1,4 @@
-# 哥顿 伦敦干
+# 哥顿 伦敦干（金酒）
 
 **Gordon's London Dry**
 

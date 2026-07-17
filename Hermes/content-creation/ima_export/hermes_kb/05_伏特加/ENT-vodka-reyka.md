@@ -1,4 +1,4 @@
-# Reyka Vodka
+# Reyka Vodka（伏特加）
 
 **Reyka Vodka**
 

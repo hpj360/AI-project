@@ -1,4 +1,4 @@
-# 古越龙山 花雕酒
+# 古越龙山 花雕酒（黄酒）
 
 **Guyue Longshan Huadiao**
 

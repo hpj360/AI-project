@@ -1,4 +1,4 @@
-# 海鲜配酒指南
+# 海鲜配酒指南（葡萄酒）
 
 **Seafood and Wine Pairing Guide**
 

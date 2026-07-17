@@ -1,4 +1,4 @@
-# 澄清血腥玛丽
+# 澄清血腥玛丽（伏特加）
 
 **Clarified Bloody Mary**
 

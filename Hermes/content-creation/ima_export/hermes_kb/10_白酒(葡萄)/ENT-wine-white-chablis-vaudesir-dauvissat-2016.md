@@ -1,4 +1,4 @@
-# 夏布利沃德西尔 2016
+# 夏布利沃德西尔 2016（白酒）
 
 **Domaine Dauvissat Chablis Grand Cru Vaudésir 2016**
 

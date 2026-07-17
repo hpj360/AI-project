@@ -1,4 +1,4 @@
-# 埃米塔日小教堂 2015
+# 埃米塔日小教堂 2015（红酒）
 
 **M. Chapoutier Hermitage La Chapelle 2015**
 

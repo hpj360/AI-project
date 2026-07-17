@@ -1,4 +1,4 @@
-# 景芝 景阳春
+# 景芝 景阳春（白酒）
 
 **Jingzhi Jingyangchun**
 

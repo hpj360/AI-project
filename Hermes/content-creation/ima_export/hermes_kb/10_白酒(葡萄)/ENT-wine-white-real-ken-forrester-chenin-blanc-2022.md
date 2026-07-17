@@ -1,4 +1,4 @@
-# Ken Forrester 白诗南 2022
+# Ken Forrester 白诗南 2022（葡萄酒）
 
 **Ken Forrester Chenin Blanc Stellenbosch 2022**
 

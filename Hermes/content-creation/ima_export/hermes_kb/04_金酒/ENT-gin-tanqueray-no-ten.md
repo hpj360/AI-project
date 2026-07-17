@@ -1,4 +1,4 @@
-# Tanqueray Nº Ten Gin
+# 添加利（Tanqueray Nº Ten Gin）
 
 **Tanqueray Nº Ten Gin**
 

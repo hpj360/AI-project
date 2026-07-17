@@ -1,4 +1,4 @@
-# 博恩蜜思园 2016
+# 博恩蜜思园 2016（白酒）
 
 **Joseph Drouhin Beaune Clos des Mouches 2016**
 

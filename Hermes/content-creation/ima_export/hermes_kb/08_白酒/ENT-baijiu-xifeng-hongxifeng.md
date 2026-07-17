@@ -1,4 +1,4 @@
-# 西凤酒 红西凤
+# 西凤酒 红西凤（白酒）
 
 **Xifeng Hongxifeng**
 

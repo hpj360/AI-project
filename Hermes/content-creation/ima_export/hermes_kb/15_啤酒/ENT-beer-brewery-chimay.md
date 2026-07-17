@@ -1,4 +1,4 @@
-# Chimay 啤酒厂
+# Chimay 啤酒厂（啤酒）
 
 **Chimay**
 

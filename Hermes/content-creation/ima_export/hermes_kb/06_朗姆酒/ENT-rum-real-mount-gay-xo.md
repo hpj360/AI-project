@@ -1,4 +1,4 @@
-# Mount Gay XO
+# 盖伊山XO（Mount Gay XO）
 
 **Mount Gay XO Rum**
 

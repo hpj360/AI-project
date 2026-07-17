@@ -1,4 +1,4 @@
-# 蚝湾长相思 2020
+# 蚝湾长相思 2020（白酒）
 
 **Oyster Bay Sauvignon Blanc 2020**
 

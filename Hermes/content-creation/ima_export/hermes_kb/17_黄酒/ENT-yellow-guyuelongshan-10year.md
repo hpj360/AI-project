@@ -1,4 +1,4 @@
-# 古越龙山 十年陈酿花雕
+# 古越龙山 十年陈酿花雕（黄酒）
 
 **Guyue Longshan 10-Year Aged Hua Diao**
 

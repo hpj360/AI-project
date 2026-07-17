@@ -1,4 +1,4 @@
-# Belle Isle Restaurant and Brewing Co 啤酒厂
+# Belle Isle Restaurant and Brewing Co 啤酒厂（啤酒）
 
 **Belle Isle Restaurant and Brewing Co**
 

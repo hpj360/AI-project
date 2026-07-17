@@ -1,4 +1,4 @@
-# 四玫瑰 小批量
+# 四玫瑰 小批量（威士忌）
 
 **Four Roses Small Batch**
 

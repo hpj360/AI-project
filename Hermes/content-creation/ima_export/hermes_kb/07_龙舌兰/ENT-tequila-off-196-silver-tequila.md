@@ -1,4 +1,4 @@
-# Silver tequila
+# Silver tequila（龙舌兰）
 
 **Silver tequila**
 

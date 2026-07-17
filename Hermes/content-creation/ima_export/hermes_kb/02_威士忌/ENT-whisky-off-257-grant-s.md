@@ -1,4 +1,4 @@
-# Grant's
+# 格兰（Grant's）
 
 **Grant's**
 

@@ -1,4 +1,4 @@
-# Royal Gin Fizz
+# 金菲士（Royal Gin Fizz）
 
 **Royal Gin Fizz**
 

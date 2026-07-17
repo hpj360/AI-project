@@ -1,4 +1,4 @@
-# Singleton duff 12 y. o. whisky 40%
+# 苏格登（Singleton duff 12 y. o. whisky 40%）
 
 **Singleton duff 12 y. o. whisky 40%**
 

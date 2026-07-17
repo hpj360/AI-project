@@ -1,4 +1,4 @@
-# Grey goose original
+# 灰雁（Grey goose original）
 
 **Grey goose original**
 

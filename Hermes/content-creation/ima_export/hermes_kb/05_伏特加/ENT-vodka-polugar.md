@@ -1,4 +1,4 @@
-# 波尔金卡 Polugar
+# 波尔金卡 Polugar（伏特加）
 
 **Polugar Vodka**
 

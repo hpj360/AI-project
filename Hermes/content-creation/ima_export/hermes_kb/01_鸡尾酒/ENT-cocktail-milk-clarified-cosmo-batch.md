@@ -1,4 +1,4 @@
-# 澄清大都会批次
+# 澄清大都会批次（伏特加）
 
 **Milk Clarified Cosmopolitan Batch**
 

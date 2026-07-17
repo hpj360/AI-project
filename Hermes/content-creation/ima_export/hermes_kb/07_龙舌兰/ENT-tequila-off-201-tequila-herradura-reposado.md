@@ -1,4 +1,4 @@
-# tequila Herradura reposado
+# 马蹄（tequila Herradura reposado）
 
 **tequila Herradura reposado**
 

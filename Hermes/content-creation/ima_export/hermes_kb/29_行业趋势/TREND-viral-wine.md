@@ -1,4 +1,4 @@
-# 网红酒款分析
+# 网红酒款分析（红酒）
 
 **Viral Wine Analysis**
 

@@ -1,4 +1,4 @@
-# 黑龙 石田屋
+# 黑龙 石田屋（清酒）
 
 **Kokuryu Ishidaya Junmai Daiginjo**
 

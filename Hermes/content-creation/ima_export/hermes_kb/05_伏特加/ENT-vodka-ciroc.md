@@ -1,4 +1,4 @@
-# 诗珞珂 Ciroc
+# 诗珞珂 Ciroc（伏特加）
 
 **Cîroc Vodka**
 

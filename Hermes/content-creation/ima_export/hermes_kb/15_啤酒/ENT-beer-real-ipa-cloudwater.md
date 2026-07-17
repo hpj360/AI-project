@@ -1,4 +1,4 @@
-# Cloudwater IPA
+# 印度淡色艾尔（Cloudwater IPA）
 
 **Cloudwater DIPA**
 

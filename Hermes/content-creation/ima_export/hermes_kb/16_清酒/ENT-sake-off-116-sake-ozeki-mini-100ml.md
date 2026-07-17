@@ -1,4 +1,4 @@
-# Sake Ozeki Mini 100ML
+# 清酒（Sake Ozeki Mini 100ML）
 
 **Sake Ozeki Mini 100ML**
 

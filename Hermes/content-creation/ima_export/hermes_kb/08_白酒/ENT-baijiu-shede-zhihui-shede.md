@@ -1,4 +1,4 @@
-# 舍得 智慧舍得
+# 舍得 智慧舍得（白酒）
 
 **Shede Zhihui Shede**
 

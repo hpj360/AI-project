@@ -1,4 +1,4 @@
-# The Botanist Islay Dry Gin
+# 艾雷岛（The Botanist Islay Dry Gin）
 
 **The Botanist Islay Dry Gin**
 

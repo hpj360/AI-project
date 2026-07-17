@@ -1,4 +1,4 @@
-# 伊力特 伊力老窖
+# 伊力特 伊力老窖（白酒）
 
 **Yilite Yili Laojiao**
 

@@ -1,4 +1,4 @@
-# 懒虫 Camarena Reposado
+# 懒虫 Camarena Reposado（龙舌兰）
 
 **Camarena Reposado**
 

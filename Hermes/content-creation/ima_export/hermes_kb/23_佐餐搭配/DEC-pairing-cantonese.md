@@ -1,4 +1,4 @@
-# 粤菜配酒指南
+# 粤菜配酒指南（葡萄酒）
 
 **Cantonese Cuisine and Wine Pairing**
 

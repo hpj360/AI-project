@@ -1,4 +1,4 @@
-# Vecchio Amaro Del Capo
+# 苦味利口酒（Vecchio Amaro Del Capo）
 
 **Vecchio Amaro Del Capo**
 

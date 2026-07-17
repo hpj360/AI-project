@@ -1,4 +1,4 @@
-# 露森珍藏 2016
+# 露森珍藏 2016（白酒）
 
 **Dr. Loosen Wehlener Sonnenuhr Kabinett 2016**
 

@@ -1,4 +1,4 @@
-# Victory Brewing Co 啤酒厂
+# Victory Brewing Co 啤酒厂（啤酒）
 
 **Victory Brewing Co**
 

@@ -1,4 +1,4 @@
-# 绍兴米酒（烹饪用）16 度
+# 绍兴米酒（烹饪用）16 度（米酒）
 
 **Shaoxing Mijiu Cooking Wine 16% ABV**
 

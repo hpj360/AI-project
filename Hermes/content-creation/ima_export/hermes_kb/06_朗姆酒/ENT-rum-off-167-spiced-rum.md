@@ -1,4 +1,4 @@
-# Spiced Rum
+# Spiced Rum（朗姆酒）
 
 **Spiced Rum**
 

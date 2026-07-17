@@ -1,4 +1,4 @@
-# 5 Stones Artisan Brewery 啤酒厂
+# 5 Stones Artisan Brewery 啤酒厂（啤酒）
 
 **5 Stones Artisan Brewery**
 

@@ -1,4 +1,4 @@
-# 十四代 七垂二十贯
+# 十四代 七垂二十贯（清酒）
 
 **Juyondai Nana-tariki Niju-kkan**
 

@@ -1,4 +1,4 @@
-# 夏布利克罗 2016
+# 夏布利克罗 2016（白酒）
 
 **Domaine Raveneau Chablis Grand Cru Les Clos 2016**
 

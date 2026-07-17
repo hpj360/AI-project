@@ -1,4 +1,4 @@
-# 卡帕诺古老配方味美思
+# 卡帕诺古老配方味美思（味美思）
 
 **Carpano Antica Formula Vermouth**
 

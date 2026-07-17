@@ -1,4 +1,4 @@
-# 雪树 Intense
+# 雪树 Intense（伏特加）
 
 **Belvedere Intense**
 

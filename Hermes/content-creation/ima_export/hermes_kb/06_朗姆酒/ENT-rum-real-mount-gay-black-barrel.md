@@ -1,4 +1,4 @@
-# Mount Gay Black Barrel
+# 盖伊山（Mount Gay Black Barrel）
 
 **Mount Gay Black Barrel Rum**
 

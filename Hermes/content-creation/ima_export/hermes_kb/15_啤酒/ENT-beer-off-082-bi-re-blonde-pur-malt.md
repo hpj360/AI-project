@@ -1,4 +1,4 @@
-# Bière blonde pur malt
+# Bière blonde pur malt（啤酒）
 
 **Bière blonde pur malt**
 

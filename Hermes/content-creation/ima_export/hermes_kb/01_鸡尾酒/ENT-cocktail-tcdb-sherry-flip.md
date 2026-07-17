@@ -1,4 +1,4 @@
-# Sherry Flip
+# 雪利（Sherry Flip）
 
 **Sherry Flip**
 

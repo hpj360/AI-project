@@ -1,4 +1,4 @@
-# Gewurztraminer 2012
+# Gewurztraminer 2012（葡萄酒）
 
 **Gewurztraminer 2012**
 

@@ -1,4 +1,4 @@
-# 赖茅 传承
+# 赖茅 传承（白酒）
 
 **Laimao Chuancheng**
 

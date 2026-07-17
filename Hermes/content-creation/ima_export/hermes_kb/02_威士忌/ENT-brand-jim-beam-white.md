@@ -1,4 +1,4 @@
-# 金宾白标波本
+# 金宾白标波本（威士忌）
 
 **Jim Beam White Label**
 

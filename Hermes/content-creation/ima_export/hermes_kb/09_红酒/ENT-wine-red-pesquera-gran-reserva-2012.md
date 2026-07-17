@@ -1,4 +1,4 @@
-# 贝尔德诺珍藏 2012
+# 贝尔德诺珍藏 2012（红酒）
 
 **Tinto Pesquera Gran Reserva 2012**
 

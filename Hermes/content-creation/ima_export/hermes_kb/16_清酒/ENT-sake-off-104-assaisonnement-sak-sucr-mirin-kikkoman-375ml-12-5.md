@@ -1,4 +1,4 @@
-# Assaisonnement Saké Sucré Mirin KIKKOMAN 375ML 12.5%
+# 赛松（Assaisonnement Saké Sucré Mirin KIKKOMAN 375ML 12.5%）
 
 **Assaisonnement Saké Sucré Mirin KIKKOMAN 375ML 12.5%**
 

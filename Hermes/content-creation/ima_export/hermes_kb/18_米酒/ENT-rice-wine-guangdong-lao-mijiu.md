@@ -1,4 +1,4 @@
-# 广东老米酒
+# 广东老米酒（米酒）
 
 **Guangdong Aged Rice Wine**
 

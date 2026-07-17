@@ -1,4 +1,4 @@
-# 洋河梦之蓝 M9 52 度
+# 洋河梦之蓝 M9 52 度（白酒）
 
 **Yanghe Meng Zhilan M9 52% Baijiu**
 

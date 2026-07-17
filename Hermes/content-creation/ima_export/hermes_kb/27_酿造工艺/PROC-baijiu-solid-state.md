@@ -1,4 +1,4 @@
-# 白酒固态发酵工艺
+# 白酒固态发酵工艺（白酒）
 
 **Baijiu Solid-State Fermentation**
 

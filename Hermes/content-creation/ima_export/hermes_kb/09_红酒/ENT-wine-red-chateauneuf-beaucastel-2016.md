@@ -1,4 +1,4 @@
-# 教皇新堡博卡斯特 2016
+# 教皇新堡博卡斯特 2016（红酒）
 
 **Château de Beaucastel Châteauneuf-du-Pape 2016**
 

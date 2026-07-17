@@ -1,4 +1,4 @@
-# 百加得 Carta Blanca
+# 百加得 Carta Blanca（朗姆酒）
 
 **Bacardi Carta Blanca**
 

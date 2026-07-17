@@ -1,4 +1,4 @@
-# 啸鹰 2015
+# 啸鹰 2015（红酒）
 
 **Screaming Eagle Cabernet Sauvignon 2015**
 

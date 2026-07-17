@@ -1,4 +1,4 @@
-# Cuvée Hortense
+# Cuvée Hortense（葡萄酒）
 
 **Cuvée Hortense**
 

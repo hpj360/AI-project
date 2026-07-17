@@ -1,4 +1,4 @@
-# 拉菲酒标识别指南
+# 拉菲酒标识别指南（葡萄酒）
 
 **Lafite Label Identification Guide**
 

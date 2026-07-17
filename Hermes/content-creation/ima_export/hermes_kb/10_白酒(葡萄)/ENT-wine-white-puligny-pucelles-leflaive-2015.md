@@ -1,4 +1,4 @@
-# 普里尼蜜瑟尔 2015
+# 普里尼蜜瑟尔 2015（白酒）
 
 **Domaine Leflaive Puligny-Montrachet Les Pucelles 2015**
 

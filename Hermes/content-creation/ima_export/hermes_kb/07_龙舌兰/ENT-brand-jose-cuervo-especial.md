@@ -1,4 +1,4 @@
-# 豪帅金龙舌兰
+# 豪帅金龙舌兰（龙舌兰）
 
 **Jose Cuervo Especial**
 

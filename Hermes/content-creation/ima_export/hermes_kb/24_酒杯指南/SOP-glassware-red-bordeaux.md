@@ -1,4 +1,4 @@
-# 波尔多杯选择与使用
+# 波尔多杯选择与使用（红酒）
 
 **Bordeaux Glass Selection**
 

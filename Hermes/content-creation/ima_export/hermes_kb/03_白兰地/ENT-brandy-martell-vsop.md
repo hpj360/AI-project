@@ -1,4 +1,4 @@
-# 马爹利 VSOP
+# 马爹利 VSOP（白兰地）
 
 **Martell VSOP**
 

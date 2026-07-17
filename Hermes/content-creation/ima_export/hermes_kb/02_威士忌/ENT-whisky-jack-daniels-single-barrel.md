@@ -1,4 +1,4 @@
-# 杰克丹尼 单桶
+# 杰克丹尼 单桶（威士忌）
 
 **Jack Daniel's Single Barrel**
 

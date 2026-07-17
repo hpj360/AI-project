@@ -1,4 +1,4 @@
-# 银色打伍 2014
+# 银色打伍 2014（红酒）
 
 **Silver Oak Alexander Valley 2014**
 

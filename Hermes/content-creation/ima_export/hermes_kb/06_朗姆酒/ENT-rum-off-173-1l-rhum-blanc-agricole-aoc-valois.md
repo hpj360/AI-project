@@ -1,4 +1,4 @@
-# 1L Rhum Blanc Agricole Aoc Valois
+# 1L Rhum Blanc Agricole Aoc Valois（朗姆酒）
 
 **1L Rhum Blanc Agricole Aoc Valois**
 

@@ -1,4 +1,4 @@
-# 波罗的海 Baltic
+# 波罗的海 Baltic（伏特加）
 
 **Baltic Vodka**
 

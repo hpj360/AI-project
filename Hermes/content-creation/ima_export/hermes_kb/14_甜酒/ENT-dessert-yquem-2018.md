@@ -1,4 +1,4 @@
-# Château d'Yquem 2018
+# 滴金酒庄（Château d'Yquem 2018）
 
 **Château d'Yquem 2018**
 

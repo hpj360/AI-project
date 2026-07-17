@@ -1,4 +1,4 @@
-# 桂林三花酒 洞藏 10 年
+# 桂林三花酒 洞藏 10 年（米酒）
 
 **Guilin Sanhua Cave-aged 10 Year**
 

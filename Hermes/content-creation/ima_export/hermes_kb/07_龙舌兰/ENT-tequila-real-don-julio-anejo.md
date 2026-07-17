@@ -1,4 +1,4 @@
-# 唐胡里奥 Añejo
+# 唐胡里奥 Añejo（龙舌兰）
 
 **Don Julio Añejo Tequila**
 

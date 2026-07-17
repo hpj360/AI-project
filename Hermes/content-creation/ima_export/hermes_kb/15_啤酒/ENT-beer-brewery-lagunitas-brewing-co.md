@@ -1,4 +1,4 @@
-# Lagunitas Brewing Co 啤酒厂
+# Lagunitas Brewing Co 啤酒厂（啤酒）
 
 **Lagunitas Brewing Co**
 

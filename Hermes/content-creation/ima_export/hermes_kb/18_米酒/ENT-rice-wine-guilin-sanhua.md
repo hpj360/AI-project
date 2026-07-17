@@ -1,4 +1,4 @@
-# 桂林三花酒
+# 桂林三花酒（米酒）
 
 **Guilin Sanhua Wine**
 

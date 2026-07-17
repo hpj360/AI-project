@@ -1,4 +1,4 @@
-# 迪厄海涅 Dictador
+# 迪厄海涅 Dictador（朗姆酒）
 
 **Dictador Rum**
 

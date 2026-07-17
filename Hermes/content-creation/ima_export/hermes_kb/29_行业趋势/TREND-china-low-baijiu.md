@@ -1,4 +1,4 @@
-# 中国低度白酒趋势
+# 中国低度白酒趋势（白酒）
 
 **China Low-ABV Baijiu Trend**
 

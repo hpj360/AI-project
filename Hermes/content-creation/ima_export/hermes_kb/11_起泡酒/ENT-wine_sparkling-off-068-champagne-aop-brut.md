@@ -1,4 +1,4 @@
-# Champagne AOP, brut
+# 香槟（Champagne AOP, brut）
 
 **Champagne AOP, brut**
 

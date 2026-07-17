@@ -1,4 +1,4 @@
-# 西施佳雅 2021
+# 西施佳雅 2021（葡萄酒）
 
 **Tenuta San Guido Sassicaia Bolgheri 2021**
 

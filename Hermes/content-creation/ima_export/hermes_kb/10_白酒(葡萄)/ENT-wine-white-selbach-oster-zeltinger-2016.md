@@ -1,4 +1,4 @@
-# 塞尔巴赫奥斯特 2016
+# 塞尔巴赫奥斯特 2016（白酒）
 
 **Weingut Selbach-Oster Zeltinger Sonnenuhr Spätlese 2016**
 

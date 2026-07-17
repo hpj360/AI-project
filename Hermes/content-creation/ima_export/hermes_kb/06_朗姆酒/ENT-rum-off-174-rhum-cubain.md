@@ -1,4 +1,4 @@
-# Rhum Cubain
+# Rhum Cubain（朗姆酒）
 
 **Rhum Cubain**
 

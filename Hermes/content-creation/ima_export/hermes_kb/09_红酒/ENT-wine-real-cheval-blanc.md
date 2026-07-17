@@ -1,4 +1,4 @@
-# 白马古堡
+# 白马古堡（红酒）
 
 **Château Cheval Blanc**
 

@@ -1,4 +1,4 @@
-# 九江双蒸 29.5 度（佳品）
+# 九江双蒸 29.5 度（佳品）（米酒）
 
 **Jiujiang Shuangzheng 29.5% Baijiu**
 

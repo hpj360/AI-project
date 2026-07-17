@@ -1,4 +1,4 @@
-# Trappisten van Westmalle 啤酒厂
+# Trappisten van Westmalle 啤酒厂（啤酒）
 
 **Trappisten van Westmalle**
 

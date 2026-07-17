@@ -1,4 +1,4 @@
-# 白酒酒具选择与使用
+# 白酒酒具选择与使用（白酒）
 
 **Baijiu Vessel Selection**
 

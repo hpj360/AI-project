@@ -1,4 +1,4 @@
-# Tequila estribos
+# Tequila estribos（龙舌兰）
 
 **Tequila estribos**
 

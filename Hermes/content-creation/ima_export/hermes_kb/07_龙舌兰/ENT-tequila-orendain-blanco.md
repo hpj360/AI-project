@@ -1,4 +1,4 @@
-# 欧雷 Orendain Blanco
+# 欧雷 Orendain Blanco（龙舌兰）
 
 **Orendain Blanco**
 

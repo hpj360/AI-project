@@ -1,4 +1,4 @@
-# 达格诺普伊芙美 2017
+# 达格诺普伊芙美 2017（白酒）
 
 **Didier Dagueneau Pouilly-Fumé 2017**
 

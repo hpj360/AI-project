@@ -1,4 +1,4 @@
-# 人头马 XO
+# 人头马 XO（白兰地）
 
 **Rémy Martin XO**
 

@@ -1,4 +1,4 @@
-# Cognac VS
+# Cognac VS（白兰地）
 
 **Cognac VS**
 

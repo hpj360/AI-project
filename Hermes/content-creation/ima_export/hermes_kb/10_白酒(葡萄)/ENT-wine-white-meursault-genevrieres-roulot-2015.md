@@ -1,4 +1,4 @@
-# 默尔索热内弗里耶 2015
+# 默尔索热内弗里耶 2015（白酒）
 
 **Domaine Roulot Meursault Genevrières 2015**
 

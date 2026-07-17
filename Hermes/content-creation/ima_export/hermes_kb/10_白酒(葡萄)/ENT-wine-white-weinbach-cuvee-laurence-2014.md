@@ -1,4 +1,4 @@
-# 温巴赫劳伦斯 2014
+# 温巴赫劳伦斯 2014（白酒）
 
 **Domaine Weinbach Cuvée Laurence 2014**
 

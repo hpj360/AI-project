@@ -1,4 +1,4 @@
-# 埃斯贝隆 Espolòn Blanco
+# 埃斯贝隆 Espolòn Blanco（龙舌兰）
 
 **Espolòn Blanco**
 

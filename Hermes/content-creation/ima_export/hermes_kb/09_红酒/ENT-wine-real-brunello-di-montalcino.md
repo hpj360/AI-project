@@ -1,4 +1,4 @@
-# 布鲁内罗
+# 布鲁内罗（红酒）
 
 **Brunello di Montalcino**
 

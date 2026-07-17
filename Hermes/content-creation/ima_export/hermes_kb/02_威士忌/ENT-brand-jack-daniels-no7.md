@@ -1,4 +1,4 @@
-# 杰克丹尼 Old No.7
+# 杰克丹尼 Old No.7（威士忌）
 
 **Jack Daniel's Old No.7**
 

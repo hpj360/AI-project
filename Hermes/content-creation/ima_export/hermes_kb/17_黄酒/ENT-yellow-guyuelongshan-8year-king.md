@@ -1,4 +1,4 @@
-# 古越龙山 八年花雕王
+# 古越龙山 八年花雕王（黄酒）
 
 **Guyue Longshan 8-Year Hua Diao King**
 

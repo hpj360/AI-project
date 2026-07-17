@@ -1,4 +1,4 @@
-# Gin & Tonic
+# Gin & Tonic（金酒）
 
 **Gin & Tonic**
 

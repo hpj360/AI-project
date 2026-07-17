@@ -1,4 +1,4 @@
-# Plymouth English Gin
+# 普利茅斯（Plymouth English Gin）
 
 **Plymouth English Gin**
 

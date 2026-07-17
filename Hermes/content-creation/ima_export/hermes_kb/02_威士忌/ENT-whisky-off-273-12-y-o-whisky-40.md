@@ -1,4 +1,4 @@
-# 12 y. o. whisky 40%
+# 12 y. o. whisky 40%（威士忌）
 
 **12 y. o. whisky 40%**
 

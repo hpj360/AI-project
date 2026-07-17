@@ -1,4 +1,4 @@
-# 苏格兰威士忌2024年出口数据 Scotch Whisky Exports 2024
+# 苏格兰威士忌2024年出口数据 Scotch Whisky Exports 2024（威士忌）
 
 **Scotch Whisky Exports 2024**
 

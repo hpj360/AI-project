@@ -1,4 +1,4 @@
-# Stone Sour
+# 石头（Stone Sour）
 
 **Stone Sour**
 

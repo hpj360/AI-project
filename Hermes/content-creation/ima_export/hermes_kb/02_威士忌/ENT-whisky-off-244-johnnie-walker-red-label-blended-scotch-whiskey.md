@@ -1,4 +1,4 @@
-# Johnnie Walker Red Label Blended Scotch Whiskey
+# 尊尼获加（Johnnie Walker Red Label Blended Scotch Whiskey）
 
 **Johnnie Walker Red Label Blended Scotch Whiskey**
 

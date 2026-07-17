@@ -1,4 +1,4 @@
-# 十四代 龙泉
+# 十四代 龙泉（清酒）
 
 **Juyondai Ryusen Junmai Daiginjo**
 

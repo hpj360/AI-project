@@ -1,4 +1,4 @@
-# Whisky 40%
+# Whisky 40%（威士忌）
 
 **Whisky 40%**
 

@@ -1,4 +1,4 @@
-# Guinness Open Gate Brewery and Barrel House 啤酒厂
+# Guinness Open Gate Brewery and Barrel House 啤酒厂（啤酒）
 
 **Guinness Open Gate Brewery and Barrel House**
 

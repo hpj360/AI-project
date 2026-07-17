@@ -1,4 +1,4 @@
-# Oyster Bay Sauvignon Blanc 75CL
+# Oyster Bay Sauvignon Blanc 75CL（葡萄酒）
 
 **Oyster Bay Sauvignon Blanc 75CL**
 

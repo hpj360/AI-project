@@ -1,4 +1,4 @@
-# Eristoff black 70cl - 18
+# Eristoff black 70cl - 18（伏特加）
 
 **Eristoff black 70cl - 18**
 

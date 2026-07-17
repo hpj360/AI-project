@@ -1,4 +1,4 @@
-# 十四代 龙月
+# 十四代 龙月（清酒）
 
 **Juyondai Ryugetsu**
 

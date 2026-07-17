@@ -1,4 +1,4 @@
-# LA BLONDE
+# LA BLONDE（啤酒）
 
 **LA BLONDE**
 

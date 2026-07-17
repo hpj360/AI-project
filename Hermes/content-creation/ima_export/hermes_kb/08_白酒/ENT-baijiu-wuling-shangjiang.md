@@ -1,4 +1,4 @@
-# 武陵 上酱
+# 武陵 上酱（白酒）
 
 **Wuling Shangjiang**
 

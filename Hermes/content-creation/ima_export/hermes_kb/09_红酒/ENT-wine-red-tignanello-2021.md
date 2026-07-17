@@ -1,4 +1,4 @@
-# 天娜 2021
+# 天娜 2021（葡萄酒）
 
 **Marchesi Antinori Tignanello Toscana IGT 2021**
 

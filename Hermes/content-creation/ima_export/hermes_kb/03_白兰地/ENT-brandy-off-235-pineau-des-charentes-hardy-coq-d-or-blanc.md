@@ -1,4 +1,4 @@
-# Pineau Des Charentes Hardy Coq D'or Blanc
+# 哈迪（Pineau Des Charentes Hardy Coq D'or Blanc）
 
 **Pineau Des Charentes Hardy Coq D'or Blanc**
 

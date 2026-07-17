@@ -1,4 +1,4 @@
-# 舍得 品味舍得
+# 舍得 品味舍得（白酒）
 
 **Shede Pinwei Shede**
 

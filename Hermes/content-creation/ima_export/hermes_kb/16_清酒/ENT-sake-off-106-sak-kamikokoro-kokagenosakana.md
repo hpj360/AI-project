@@ -1,4 +1,4 @@
-# Saké Kamikokoro Kokagenosakana
+# Saké Kamikokoro Kokagenosakana（清酒）
 
 **Saké Kamikokoro Kokagenosakana**
 

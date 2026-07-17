@@ -1,4 +1,4 @@
-# 贝灵哲私藏 2016
+# 贝灵哲私藏 2016（红酒）
 
 **Beringer Private Reserve Cabernet 2016**
 

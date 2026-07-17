@@ -1,4 +1,4 @@
-# 血腥玛丽球
+# 血腥玛丽球（伏特加）
 
 **Bloody Mary Spheres**
 

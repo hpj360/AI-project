@@ -1,4 +1,4 @@
-# 獭祭纯米大吟酿23
+# 獭祭纯米大吟酿23（清酒）
 
 **Dassai Junmai Daiginjo 23**
 

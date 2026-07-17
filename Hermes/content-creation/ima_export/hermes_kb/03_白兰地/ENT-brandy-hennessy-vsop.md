@@ -1,4 +1,4 @@
-# 轩尼诗 VSOP
+# 轩尼诗 VSOP（白兰地）
 
 **Hennessy VSOP**
 

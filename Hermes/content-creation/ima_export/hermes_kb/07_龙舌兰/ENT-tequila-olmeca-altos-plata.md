@@ -1,4 +1,4 @@
-# 奥尔梅卡 Olmeca Altos Plata
+# 奥尔梅卡 Olmeca Altos Plata（龙舌兰）
 
 **Olmeca Altos Plata**
 

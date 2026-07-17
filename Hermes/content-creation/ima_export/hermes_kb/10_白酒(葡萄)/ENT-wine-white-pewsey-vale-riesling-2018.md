@@ -1,4 +1,4 @@
-# 皮尤西谷雷司令 2018
+# 皮尤西谷雷司令 2018（白酒）
 
 **Pewsey Vale Eden Valley Riesling 2018**
 

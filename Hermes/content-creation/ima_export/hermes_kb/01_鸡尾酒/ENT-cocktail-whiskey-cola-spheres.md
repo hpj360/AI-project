@@ -1,4 +1,4 @@
-# 威士忌可乐球
+# 威士忌可乐球（威士忌）
 
 **Whiskey Cola Spheres**
 

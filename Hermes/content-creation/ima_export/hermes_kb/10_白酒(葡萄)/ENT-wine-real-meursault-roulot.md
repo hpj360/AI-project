@@ -1,4 +1,4 @@
-# 鲁洛 默尔索 2017
+# 鲁洛 默尔索 2017（葡萄酒）
 
 **Meursault, Domaine Roulot 2017**
 

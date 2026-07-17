@@ -1,4 +1,4 @@
-# Hendrick’s Gin
+# Hendrick’s Gin（金酒）
 
 **Hendrick’s Gin**
 

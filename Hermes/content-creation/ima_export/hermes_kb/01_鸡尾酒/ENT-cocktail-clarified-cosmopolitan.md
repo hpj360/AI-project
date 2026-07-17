@@ -1,4 +1,4 @@
-# 澄清大都会
+# 澄清大都会（伏特加）
 
 **Clarified Cosmopolitan**
 

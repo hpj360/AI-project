@@ -1,4 +1,4 @@
-# 草莓酒
+# 草莓酒（果酒）
 
 **Strawberry Wine**
 

@@ -1,4 +1,4 @@
-# La Chouffe Blonde
+# La Chouffe Blonde（啤酒）
 
 **La Chouffe Blonde**
 

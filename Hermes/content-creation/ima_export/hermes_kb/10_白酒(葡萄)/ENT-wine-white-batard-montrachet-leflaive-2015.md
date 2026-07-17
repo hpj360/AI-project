@@ -1,4 +1,4 @@
-# 巴塔蒙哈榭 2015
+# 巴塔蒙哈榭 2015（白酒）
 
 **Domaine Leflaive Bâtard-Montrachet 2015**
 

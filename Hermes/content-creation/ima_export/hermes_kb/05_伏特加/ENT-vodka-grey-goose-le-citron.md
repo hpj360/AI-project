@@ -1,4 +1,4 @@
-# 灰雁 柠檬
+# 灰雁 柠檬（伏特加）
 
 **Grey Goose Le Citron**
 

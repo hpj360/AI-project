@@ -1,4 +1,4 @@
-# 越南米酒
+# 越南米酒（米酒）
 
 **Vietnamese Rice Wine**
 

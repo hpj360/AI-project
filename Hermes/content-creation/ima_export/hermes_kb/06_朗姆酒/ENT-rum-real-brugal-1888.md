@@ -1,4 +1,4 @@
-# Brugal 1888
+# Brugal 1888（朗姆酒）
 
 **Brugal 1888 Ron Añejo**
 

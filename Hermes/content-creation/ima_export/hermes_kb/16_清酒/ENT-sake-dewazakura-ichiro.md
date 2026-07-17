@@ -1,4 +1,4 @@
-# 出羽樱 一路
+# 出羽樱 一路（清酒）
 
 **Dewazakura Ichiro**
 

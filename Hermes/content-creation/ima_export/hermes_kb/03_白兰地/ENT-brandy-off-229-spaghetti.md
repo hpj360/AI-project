@@ -1,4 +1,4 @@
-# Spaghetti
+# Spaghetti（白兰地）
 
 **Spaghetti**
 

@@ -1,4 +1,4 @@
-# Jose Cuervo Especial Tequila Reposado
+# 豪帅快活（Jose Cuervo Especial Tequila Reposado）
 
 **Jose Cuervo Especial Tequila Reposado**
 

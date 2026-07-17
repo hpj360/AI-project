@@ -1,4 +1,4 @@
-# 红星二锅头鉴别指南
+# 红星二锅头鉴别指南（白酒）
 
 **Red Star Erguotou Identification Guide**
 

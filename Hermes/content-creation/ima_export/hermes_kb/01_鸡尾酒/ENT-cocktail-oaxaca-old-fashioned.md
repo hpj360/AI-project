@@ -1,4 +1,4 @@
-# 瓦哈卡古典
+# 瓦哈卡古典（梅斯卡尔）
 
 **Oaxaca Old Fashioned**
 

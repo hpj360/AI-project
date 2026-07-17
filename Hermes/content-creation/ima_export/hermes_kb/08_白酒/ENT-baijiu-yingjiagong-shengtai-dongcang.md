@@ -1,4 +1,4 @@
-# 迎驾贡酒 生态洞藏
+# 迎驾贡酒 生态洞藏（白酒）
 
 **Yingjiagong Shengtai Dongcang**
 

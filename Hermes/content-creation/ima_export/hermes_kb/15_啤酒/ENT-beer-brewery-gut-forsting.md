@@ -1,4 +1,4 @@
-# Gut Forsting 啤酒厂
+# Gut Forsting 啤酒厂（啤酒）
 
 **Gut Forsting**
 

@@ -1,4 +1,4 @@
-# 骑士蒙哈榭 2015
+# 骑士蒙哈榭 2015（白酒）
 
 **Domaine Leflaive Chevalier-Montrachet 2015**
 

@@ -1,4 +1,4 @@
-# Cognac XO
+# Cognac XO（白兰地）
 
 **Cognac XO**
 

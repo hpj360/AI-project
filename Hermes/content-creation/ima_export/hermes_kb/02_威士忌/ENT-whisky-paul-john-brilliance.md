@@ -1,4 +1,4 @@
-# 保罗约翰 经典
+# 保罗约翰 经典（威士忌）
 
 **Paul John Brilliance**
 

@@ -1,4 +1,4 @@
-# Bombay citron pressé distilled gin
+# 孟买蓝宝石（Bombay citron pressé distilled gin）
 
 **Bombay citron pressé distilled gin**
 

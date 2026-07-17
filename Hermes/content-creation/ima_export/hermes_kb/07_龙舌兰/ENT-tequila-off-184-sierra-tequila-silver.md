@@ -1,4 +1,4 @@
-# Sierra Tequila Silver
+# Sierra Tequila Silver（龙舌兰）
 
 **Sierra Tequila Silver**
 

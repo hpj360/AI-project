@@ -1,4 +1,4 @@
-# 坦恩布雷希特圣尔邦园 2014
+# 坦恩布雷希特圣尔邦园 2014（白酒）
 
 **Domaine Zind-Humbrecht Rangen Clos Saint-Urbain 2014**
 

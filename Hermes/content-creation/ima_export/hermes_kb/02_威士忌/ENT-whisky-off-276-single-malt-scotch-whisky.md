@@ -1,4 +1,4 @@
-# Single malt scotch whisky
+# Single malt scotch whisky（威士忌）
 
 **Single malt scotch whisky**
 

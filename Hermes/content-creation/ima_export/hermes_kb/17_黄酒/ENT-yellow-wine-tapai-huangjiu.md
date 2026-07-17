@@ -1,4 +1,4 @@
-# 塔牌黄酒
+# 塔牌黄酒（黄酒）
 
 **Tapai Yellow Wine**
 

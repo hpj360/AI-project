@@ -1,4 +1,4 @@
-# 罗曼尼康帝
+# 罗曼尼康帝（红酒）
 
 **Domaine de la Romanée-Conti**
 

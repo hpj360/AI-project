@@ -1,4 +1,4 @@
-# 蒙特波古堡
+# 蒙特波古堡（红酒）
 
 **Château Troplong Mondot**
 

@@ -1,4 +1,4 @@
-# 贡德洛赫 2015
+# 贡德洛赫 2015（白酒）
 
 **Weingut Gunderloch Nackenheimer Rothenberg 2015**
 

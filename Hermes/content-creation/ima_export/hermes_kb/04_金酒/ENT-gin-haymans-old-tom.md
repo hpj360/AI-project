@@ -1,4 +1,4 @@
-# 希克林 Old Tom
+# 希克林 Old Tom（金酒）
 
 **Hayman's Old Tom**
 

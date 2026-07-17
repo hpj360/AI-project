@@ -1,4 +1,4 @@
-# 御鹿 Triomphe
+# 御鹿 Triomphe（白兰地）
 
 **Hine Triomphe Cognac**
 

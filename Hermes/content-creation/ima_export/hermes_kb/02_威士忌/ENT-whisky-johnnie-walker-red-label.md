@@ -1,4 +1,4 @@
-# 尊尼获加 红牌
+# 尊尼获加 红牌（威士忌）
 
 **Johnnie Walker Red Label**
 

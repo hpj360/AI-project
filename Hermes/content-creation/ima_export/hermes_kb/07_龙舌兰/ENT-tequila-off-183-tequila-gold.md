@@ -1,4 +1,4 @@
-# Tequila Gold
+# Tequila Gold（龙舌兰）
 
 **Tequila Gold**
 

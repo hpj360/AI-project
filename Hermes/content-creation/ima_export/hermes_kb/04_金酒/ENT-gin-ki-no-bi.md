@@ -1,4 +1,4 @@
-# 季之美 Ki No Bi
+# 季之美 Ki No Bi（金酒）
 
 **Ki No Bi Kyoto**
 

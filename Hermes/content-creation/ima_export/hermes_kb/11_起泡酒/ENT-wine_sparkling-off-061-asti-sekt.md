@@ -1,4 +1,4 @@
-# Asti sekt
+# 阿斯蒂（Asti sekt）
 
 **Asti sekt**
 

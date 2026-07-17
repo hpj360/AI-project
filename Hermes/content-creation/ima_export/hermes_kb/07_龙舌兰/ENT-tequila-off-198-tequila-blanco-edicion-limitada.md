@@ -1,4 +1,4 @@
-# Tequila blanco (edicion limitada)
+# Tequila blanco (edicion limitada)（龙舌兰）
 
 **Tequila blanco (edicion limitada)**
 

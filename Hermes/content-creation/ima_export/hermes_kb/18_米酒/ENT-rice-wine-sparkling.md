@@ -1,4 +1,4 @@
-# 气泡米酒
+# 气泡米酒（米酒）
 
 **Sparkling Rice Wine**
 

@@ -1,4 +1,4 @@
-# 艾丝酷 Skyy
+# 艾丝酷 Skyy（伏特加）
 
 **Skyy Vodka**
 

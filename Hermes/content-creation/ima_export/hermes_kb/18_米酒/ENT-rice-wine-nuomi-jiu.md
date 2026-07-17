@@ -1,4 +1,4 @@
-# 糯米酒
+# 糯米酒（米酒）
 
 **Glutinous Rice Wine**
 

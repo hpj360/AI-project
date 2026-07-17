@@ -1,4 +1,4 @@
-# Sake de cuisine
+# 清酒（Sake de cuisine）
 
 **Sake de cuisine**
 

@@ -1,4 +1,4 @@
-# 赫雷德拉 Herradura Reposado
+# 赫雷德拉 Herradura Reposado（龙舌兰）
 
 **Herradura Reposado**
 

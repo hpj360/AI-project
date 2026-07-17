@@ -1,4 +1,4 @@
-# Kavalan 独奏 Vinho
+# Kavalan 独奏 Vinho（威士忌）
 
 **Kavalan Solist Vinho**
 

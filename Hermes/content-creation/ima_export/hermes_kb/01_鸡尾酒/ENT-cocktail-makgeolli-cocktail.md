@@ -1,4 +1,4 @@
-# 马格利鸡尾酒
+# 马格利鸡尾酒（米酒）
 
 **Makgeolli Cocktail**
 

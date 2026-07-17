@@ -1,4 +1,4 @@
-# 云雾之湾长相思 2022
+# 云雾之湾长相思 2022（葡萄酒）
 
 **Cloudy Bay Sauvignon Blanc Marlborough 2022**
 

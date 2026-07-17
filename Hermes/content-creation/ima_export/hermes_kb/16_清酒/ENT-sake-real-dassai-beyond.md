@@ -1,4 +1,4 @@
-# 獭祭 Beyond
+# 獭祭 Beyond（清酒）
 
 **Dassai Beyond Junmai Daiginjo**
 

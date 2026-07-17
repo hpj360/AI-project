@@ -1,4 +1,4 @@
-# 轩尼诗 Master Blender's Selection
+# 轩尼诗 Master Blender's Selection（白兰地）
 
 **Hennessy Master Blender's Selection No. 5**
 

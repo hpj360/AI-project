@@ -1,4 +1,4 @@
-# 皮埃尔费朗 庄园珍藏
+# 皮埃尔费朗 庄园珍藏（白兰地）
 
 **Pierre Ferrand Reserve**
 

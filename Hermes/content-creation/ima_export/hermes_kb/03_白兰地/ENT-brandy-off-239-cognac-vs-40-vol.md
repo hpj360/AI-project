@@ -1,4 +1,4 @@
-# Cognac vs 40% vol
+# Cognac vs 40% vol（白兰地）
 
 **Cognac vs 40% vol**
 

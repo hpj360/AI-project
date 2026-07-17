@@ -1,4 +1,4 @@
-# Great Divide Brewing Co 啤酒厂
+# Great Divide Brewing Co 啤酒厂（啤酒）
 
 **Great Divide Brewing Co**
 

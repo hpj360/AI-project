@@ -1,4 +1,4 @@
-# 百加得 Gran Reserva Diez
+# 百加得 Gran Reserva Diez（朗姆酒）
 
 **Bacardi Gran Reserva Diez**
 

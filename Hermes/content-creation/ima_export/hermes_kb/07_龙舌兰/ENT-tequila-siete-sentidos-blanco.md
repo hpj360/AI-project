@@ -1,4 +1,4 @@
-# 桑札 Siete Sentidos Blanco
+# 桑札 Siete Sentidos Blanco（龙舌兰）
 
 **Siete Sentidos Blanco**
 

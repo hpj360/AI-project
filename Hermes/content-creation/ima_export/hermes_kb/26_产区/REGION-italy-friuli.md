@@ -1,4 +1,4 @@
-# 弗留利产区
+# 弗留利产区（葡萄酒）
 
 **Friuli-Venezia Giulia**
 

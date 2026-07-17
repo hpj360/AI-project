@@ -1,4 +1,4 @@
-# 普里尼康贝特 2016
+# 普里尼康贝特 2016（白酒）
 
 **Domaine Leflaive Puligny Les Combettes 2016**
 

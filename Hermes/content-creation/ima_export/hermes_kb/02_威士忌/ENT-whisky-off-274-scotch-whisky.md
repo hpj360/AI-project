@@ -1,4 +1,4 @@
-# Scotch Whisky
+# Scotch Whisky（威士忌）
 
 **Scotch Whisky**
 

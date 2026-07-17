@@ -1,4 +1,4 @@
-# 佩古俱乐部
+# 佩古俱乐部（金酒）
 
 **Pegu Club Cocktail**
 
