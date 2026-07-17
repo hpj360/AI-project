@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, Gérard Bertrand]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-rose-gerard-bertrand-cote-des-roses, ENT-wine_red-off-004-pinot-noir, ENT-wine_red-off-005-cabernet-sauvignon, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-, ENT-wine_red-off-009-mouton-cadet]
 related_typed: {ENT-wine-rose-gerard-bertrand-cote-des-roses: same_brand, ENT-wine_red-off-004-pinot-noir: same_region, ENT-wine_red-off-005-cabernet-sauvignon: same_region, ENT-wine_red-off-006-e-guigal-appellation-c-tes-du-rh-ne-contr-l-e-red-: same_region, ENT-wine_red-off-009-mouton-cadet: same_region}
 data_confidence: verified

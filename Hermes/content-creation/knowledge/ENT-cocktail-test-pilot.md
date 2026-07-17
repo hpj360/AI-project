@@ -5,8 +5,8 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, Tiki, 朗姆, 杏仁, 美国]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-cocktail-zombie, ENT-cocktail-navy-grog, ENT-cocktail-nui-nui, ENT-cocktail-qb-cooler, ENT-brand-bacardi-carta-blanca]
 related_typed: {ENT-cocktail-zombie: same_region, ENT-cocktail-navy-grog: same_region, ENT-cocktail-nui-nui: same_region, ENT-cocktail-qb-cooler: same_region, ENT-brand-bacardi-carta-blanca: base_to_cocktail}
 data_confidence: simulated

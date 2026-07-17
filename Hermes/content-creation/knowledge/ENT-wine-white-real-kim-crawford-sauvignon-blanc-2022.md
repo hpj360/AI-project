@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_white
 tags: [白葡萄酒, 新西兰, 长相思, Marlborough, Kim Crawford]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-white-real-cloudy-bay-sauvignon-blanc-2022, ENT-wine-white-real-oyster-bay-sauvignon-blanc-2022, ENT-wine-white-real-villa-maria-private-bin-sauvignon-blanc-2022, ENT-wine-white-real-greywacke-sauvignon-blanc-2022, ENT-wine-white-real-dog-point-section-94-sauvignon-blanc-2022]
 related_typed: {ENT-wine-white-real-cloudy-bay-sauvignon-blanc-2022: same_region, ENT-wine-white-real-oyster-bay-sauvignon-blanc-2022: same_region, ENT-wine-white-real-villa-maria-private-bin-sauvignon-blanc-2022: same_region, ENT-wine-white-real-greywacke-sauvignon-blanc-2022: same_region, ENT-wine-white-real-dog-point-section-94-sauvignon-blanc-2022: same_region}
 data_confidence: verified

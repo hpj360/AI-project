@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典, 伏特加, 蔓越莓]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-bomb, ENT-cocktail-sake-martini]
-related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-bomb: cross_region, ENT-cocktail-sake-martini: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-newark, ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-cocktail-sake-bomb]
+related_typed: {ENT-cocktail-newark: same_region, ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-cocktail-sake-bomb: same_subcat}
 data_confidence: official
 data_source: IBA 官方配方
 version: 1

@@ -5,8 +5,8 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 奶昔, Shake]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-cocktail-clover-club, ENT-cocktail-bellini, ENT-cocktail-mojito, ENT-cocktail-espresso-martini, ENT-cocktail-kamikaze]
 related_typed: {ENT-cocktail-clover-club: same_subcat, ENT-cocktail-bellini: same_subcat, ENT-cocktail-mojito: same_subcat, ENT-cocktail-espresso-martini: same_subcat, ENT-cocktail-kamikaze: same_subcat}
 data_confidence: verified

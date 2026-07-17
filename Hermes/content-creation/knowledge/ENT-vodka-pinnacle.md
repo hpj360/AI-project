@@ -5,8 +5,8 @@ category: ENT
 subcategory: vodka
 tags: [伏特加, 法国, Pinnacle]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-off-145-vodka, ENT-vodka-off-146-premium-vodka, ENT-vodka-off-147-wodka-gorb]
 related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat, ENT-vodka-off-145-vodka: same_subcat, ENT-vodka-off-146-premium-vodka: same_subcat, ENT-vodka-off-147-wodka-gorb: same_subcat}
 data_confidence: simulated

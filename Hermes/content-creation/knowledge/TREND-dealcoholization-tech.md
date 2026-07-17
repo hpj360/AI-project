@@ -5,8 +5,8 @@ category: ENT
 subcategory: trend
 tags: [行业趋势, 脱醇技术, 工艺, 无酒精]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [TREND-low-alcohol-rise, TREND-non-alcoholic-beer, TREND-non-alcoholic-wine, TREND-low-abv-cocktail, TREND-hard-seltzer]
 related_typed: {TREND-low-alcohol-rise: same_subcat, TREND-non-alcoholic-beer: same_subcat, TREND-non-alcoholic-wine: same_subcat, TREND-low-abv-cocktail: same_subcat, TREND-hard-seltzer: same_subcat}
 data_confidence: verified

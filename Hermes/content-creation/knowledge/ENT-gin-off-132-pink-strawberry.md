@@ -5,8 +5,8 @@ category: ENT
 subcategory: gin
 tags: [OpenFoodFacts, gin, 金酒, Beefeater]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-gin-beefeater-24, ENT-gin-off-123-london-dry-gin, ENT-gin-off-120-tanqueray-london-dry-gin, ENT-gin-hendricks, ENT-gin-hendricks-lunar]
 related_typed: {ENT-gin-beefeater-24: same_brand, ENT-gin-off-123-london-dry-gin: same_brand, ENT-gin-off-120-tanqueray-london-dry-gin: same_region, ENT-gin-hendricks: same_subcat, ENT-gin-hendricks-lunar: same_subcat}
 data_confidence: verified

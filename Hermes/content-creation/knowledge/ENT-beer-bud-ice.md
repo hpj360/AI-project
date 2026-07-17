@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 美国, 百威, 冰啤]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-beer-budweiser, ENT-beer-real-budweiser, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
 related_typed: {ENT-beer-budweiser: same_brand, ENT-beer-real-budweiser: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated

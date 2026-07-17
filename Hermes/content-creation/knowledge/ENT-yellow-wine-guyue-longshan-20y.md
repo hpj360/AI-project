@@ -5,8 +5,8 @@ category: ENT
 subcategory: yellow_wine
 tags: [黄酒, 绍兴, 古越龙山, 陈酿]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-yellow-wine-guyue-longshan-10y, ENT-yellow-wine-guyue-longshan-30y, ENT-yellow-wine-guyue-longshan-50y, ENT-yellow-guyuelongshan-10year, ENT-yellow-guyuelongshan-8year-king]
 related_typed: {ENT-yellow-wine-guyue-longshan-10y: same_brand, ENT-yellow-wine-guyue-longshan-30y: same_brand, ENT-yellow-wine-guyue-longshan-50y: same_brand, ENT-yellow-guyuelongshan-10year: same_region, ENT-yellow-guyuelongshan-8year-king: same_region}
 data_confidence: simulated

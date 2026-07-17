@@ -5,8 +5,8 @@ category: ENT
 subcategory: tequila
 tags: [OpenFoodFacts, tequila, 龙舌兰, Marque Repère]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-tequila-off-183-tequila-gold, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40]
 related_typed: {ENT-tequila-off-183-tequila-gold: same_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-184-sierra-tequila-silver: same_subcat, ENT-tequila-off-185-silver-tequila-40: same_subcat}
 data_confidence: verified

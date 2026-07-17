@@ -5,8 +5,8 @@ category: ENT
 subcategory: fake
 tags: [假酒鉴别, 甲醇中毒, 食品安全, 应急处理]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ANTI-fake-maotai, ANTI-fake-wuliangye, ANTI-fake-lafite, ANTI-fake-maotai-packaging, ANTI-fake-hongxing]
 related_typed: {ANTI-fake-maotai: same_subcat, ANTI-fake-wuliangye: same_subcat, ANTI-fake-lafite: same_subcat, ANTI-fake-maotai-packaging: same_subcat, ANTI-fake-hongxing: same_subcat}
 data_confidence: official

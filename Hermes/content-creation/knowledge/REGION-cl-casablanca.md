@@ -5,8 +5,8 @@ category: ENT
 subcategory: region
 tags: [产区风土, 智利, 卡萨布兰卡, 黑皮诺, 霞多丽, 冷凉]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [REGION-france-alsace, REGION-france-provence, REGION-france-languedoc, REGION-italy-tuscany, REGION-italy-piedmont]
 related_typed: {REGION-france-alsace: same_subcat, REGION-france-provence: same_subcat, REGION-france-languedoc: same_subcat, REGION-italy-tuscany: same_subcat, REGION-italy-piedmont: same_subcat}
 data_confidence: official

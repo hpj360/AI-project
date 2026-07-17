@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-screwdriver, ENT-cocktail-harvey-wallbanger, ENT-cocktail-greyhound, ENT-cocktail-salty-dog, ENT-cocktail-old-fashioned]
-related_typed: {ENT-cocktail-screwdriver: same_subcat, ENT-cocktail-harvey-wallbanger: same_subcat, ENT-cocktail-greyhound: same_subcat, ENT-cocktail-salty-dog: same_subcat, ENT-cocktail-old-fashioned: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-salty-dog, ENT-cocktail-old-fashioned, ENT-cocktail-martinez, ENT-cocktail-sherry-cobbler, ENT-cocktail-mint-julep]
+related_typed: {ENT-cocktail-salty-dog: same_subcat, ENT-cocktail-old-fashioned: same_subcat, ENT-cocktail-martinez: same_subcat, ENT-cocktail-sherry-cobbler: same_subcat, ENT-cocktail-mint-julep: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

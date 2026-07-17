@@ -5,8 +5,8 @@ category: ENT
 subcategory: pairing
 tags: [侍酒, 上酒顺序, 试饮, 顺序, 规范]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [SOP-service-opening, SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white]
 related_typed: {SOP-service-opening: same_subcat, SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat}
 data_confidence: official

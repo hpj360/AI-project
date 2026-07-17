@@ -5,8 +5,8 @@ category: ENT
 subcategory: vodka
 tags: [伏特加, vodka, Stolichnaya, Stoli, 小麦黑麦, 性价比]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-vodka-stolichnaya, ENT-vodka-stolichnaya-soviet, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka, ENT-vodka-off-142-poliakov]
 related_typed: {ENT-vodka-stolichnaya: same_brand, ENT-vodka-stolichnaya-soviet: same_brand, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat, ENT-vodka-off-142-poliakov: same_subcat}
 data_confidence: verified

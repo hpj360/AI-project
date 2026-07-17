@@ -5,8 +5,8 @@ category: ENT
 subcategory: vodka
 tags: [伏特加, vodka, Smirnoff, 红牌, 全球畅销, 入门]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-no-21, ENT-brand-finlandia, ENT-vodka-off-141-absolut-vodka]
 related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_brand, ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-no-21: same_brand, ENT-brand-finlandia: same_subcat, ENT-vodka-off-141-absolut-vodka: same_subcat}
 data_confidence: verified

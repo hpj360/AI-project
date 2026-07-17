@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 啤酒厂, 区域酒厂, United States]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-beer-tsingtao, ENT-beer-snow, ENT-beer-budweiser, ENT-beer-heineken, ENT-baike-beer-lanzhou-huanghe]
 related_typed: {ENT-beer-tsingtao: cross_region, ENT-beer-snow: cross_region, ENT-beer-budweiser: cross_region, ENT-beer-heineken: cross_region, ENT-baike-beer-lanzhou-huanghe: same_subcat}
 data_confidence: verified

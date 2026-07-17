@@ -5,8 +5,8 @@ category: ENT
 subcategory: brandy
 tags: [白兰地, 干邑, 法国, 卡慕, Ile de Ré, 岛屿, 单一产区]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brandy-camus-vsop, ENT-brandy-camus-xo, ENT-brandy-camus-borders-iut, ENT-baike-spirits_intl-martell-cordon-bleu, ENT-brandy-hennessy-xo]
 related_typed: {ENT-brandy-camus-vsop: same_brand, ENT-brandy-camus-xo: same_brand, ENT-brandy-camus-borders-iut: same_brand, ENT-baike-spirits_intl-martell-cordon-bleu: cross_region, ENT-brandy-hennessy-xo: same_subcat}
 data_confidence: verified

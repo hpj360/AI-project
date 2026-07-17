@@ -5,8 +5,8 @@ category: ENT
 subcategory: brandy
 tags: [白兰地, 干邑, 法国, 马爹利, VS]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop, ENT-brandy-martell-xo]
 related_typed: {ENT-brandy-hennessy-xo: same_region, ENT-brandy-hennessy-paradis: same_region, ENT-brandy-hennessy-richard: same_region, ENT-brandy-martell-vsop: same_region, ENT-brandy-martell-xo: same_region}
 data_confidence: verified

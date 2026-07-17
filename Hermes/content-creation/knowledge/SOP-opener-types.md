@@ -5,8 +5,8 @@ category: ENT
 subcategory: glassware
 tags: [酒具器皿, 开瓶器, 海马刀, 老酒开瓶器]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [SOP-glassware-red-bordeaux, SOP-glassware-red-burgundy, SOP-glassware-white, SOP-glassware-sparkling, SOP-glassware-spirits]
 related_typed: {SOP-glassware-red-bordeaux: same_subcat, SOP-glassware-red-burgundy: same_subcat, SOP-glassware-white: same_subcat, SOP-glassware-sparkling: same_subcat, SOP-glassware-spirits: same_subcat}
 data_confidence: official

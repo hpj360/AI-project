@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_dessert
 tags: [甜酒, 托卡伊, Eszencia, 皇家托卡伊]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-dessert-royal-tokaji-5-puttonyos-2013, ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-royal-tokaji-gold-label]
 related_typed: {ENT-wine-dessert-royal-tokaji-5-puttonyos-2013: same_brand, ENT-dessert-yquem-2018: cross_region, ENT-dessert-yquem-2022: cross_region, ENT-dessert-suduiraut-2023: cross_region, ENT-dessert-royal-tokaji-gold-label: same_subcat}
 data_confidence: simulated

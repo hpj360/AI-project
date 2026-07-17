@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 玛歌, 一级庄]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-red-margaux-2015, ENT-wine-real-palmer, ENT-wine-real-margaux-2015, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu]
 related_typed: {ENT-wine-red-margaux-2015: same_brand, ENT-wine-real-palmer: same_region, ENT-wine-real-margaux-2015: same_region, ENT-baike-wine-zhangyu-jiebaina: cross_region, ENT-baike-wine-changcheng-putaojiu: same_subcat}
 data_confidence: official

@@ -5,8 +5,8 @@ category: ENT
 subcategory: yellow_wine
 tags: [黄酒, 张家港, 沙洲优黄]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-yellow-wine-shazhou-youhuang-huangjiu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang]
 related_typed: {ENT-yellow-wine-shazhou-youhuang-huangjiu: same_brand, ENT-baike-yellow_wine-guyue-longshan: cross_region, ENT-baike-yellow_wine-tapai-huangjiu: cross_region, ENT-baike-yellow_wine-jimo-laojiu: cross_region, ENT-baike-yellow_wine-shazhou-youhuang: same_subcat}
 data_confidence: simulated

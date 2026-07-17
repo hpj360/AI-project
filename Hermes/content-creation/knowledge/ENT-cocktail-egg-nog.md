@@ -5,8 +5,8 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 潘趣, 波本, 干邑, 圣诞]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baike-spirits_intl-chivas-18, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-baike-spirits_intl-martell-cordon-bleu, ENT-cocktail-saketini]
 related_typed: {ENT-baike-spirits_intl-chivas-18: base_to_cocktail, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-baike-spirits_intl-martell-cordon-bleu: base_to_cocktail, ENT-cocktail-saketini: same_subcat}
 data_confidence: official

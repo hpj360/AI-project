@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Whiskey Sour, 摇和]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-negroni, ENT-cocktail-americano, ENT-cocktail-margarita, ENT-cocktail-daiquiri, ENT-cocktail-sidecar]
-related_typed: {ENT-cocktail-negroni: same_subcat, ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat, ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sidecar: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-americano, ENT-cocktail-margarita, ENT-cocktail-daiquiri, ENT-cocktail-sidecar, ENT-cocktail-sazerac]
+related_typed: {ENT-cocktail-americano: same_subcat, ENT-cocktail-margarita: same_subcat, ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sidecar: same_subcat, ENT-cocktail-sazerac: same_subcat}
 data_confidence: official
 data_source: IBA Official
 version: 1

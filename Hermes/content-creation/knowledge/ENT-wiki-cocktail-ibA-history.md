@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [IBA, 国际调酒师协会, 调酒历史, 专业组织]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-old-fashioned-traditional, ENT-cocktail-gin-sour, ENT-cocktail-whiskey-smash, ENT-cocktail-gin-smash, ENT-cocktail-brandy-cobbler]
-related_typed: {ENT-cocktail-old-fashioned-traditional: same_subcat, ENT-cocktail-gin-sour: same_subcat, ENT-cocktail-whiskey-smash: same_subcat, ENT-cocktail-gin-smash: same_subcat, ENT-cocktail-brandy-cobbler: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-gin-smash, ENT-cocktail-brandy-cobbler, ENT-cocktail-philadelphia-fish-house-punch, ENT-cocktail-rum-flip, ENT-cocktail-port-flip]
+related_typed: {ENT-cocktail-gin-smash: same_subcat, ENT-cocktail-brandy-cobbler: same_subcat, ENT-cocktail-philadelphia-fish-house-punch: same_subcat, ENT-cocktail-rum-flip: same_subcat, ENT-cocktail-port-flip: same_subcat}
 data_confidence: verified
 data_source: Wikipedia
 version: 1

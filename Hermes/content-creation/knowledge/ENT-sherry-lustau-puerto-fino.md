@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_fortified
 tags: [雪莉, Sherry, 西班牙, Fino, Solera Reserva, Lustau]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-sherry-lustau-px-san-emilio, ENT-sherry-gonzalez-byass-tio-pepe-fino, ENT-sherry-valdespino-inocente-fino, ENT-sherry-emilio-hidalgo-la-panesa, ENT-sherry-tradicion-vors-palo-cortado]
 related_typed: {ENT-sherry-lustau-px-san-emilio: same_brand, ENT-sherry-gonzalez-byass-tio-pepe-fino: same_region, ENT-sherry-valdespino-inocente-fino: same_region, ENT-sherry-emilio-hidalgo-la-panesa: same_region, ENT-sherry-tradicion-vors-palo-cortado: same_region}
 data_confidence: verified

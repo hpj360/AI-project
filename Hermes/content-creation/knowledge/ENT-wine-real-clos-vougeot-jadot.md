@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [葡萄酒, 红葡萄酒, 勃艮第, Clos de Vougeot, 特级园, 黑皮诺, Jadot]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu, ENT-brand-lafite-rothschild, ENT-brand-latour]
 related_typed: {ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-lafite-rothschild: same_subcat, ENT-brand-latour: same_subcat}
 data_confidence: verified

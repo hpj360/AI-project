@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 勃艮第, 莫雷-圣丹尼, 特级园, 黑皮诺]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brand-latour, ENT-wine-real-latour, ENT-wine-red-latour-2010, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu]
 related_typed: {ENT-brand-latour: same_brand, ENT-wine-real-latour: same_brand, ENT-wine-red-latour-2010: same_brand, ENT-baike-wine-zhangyu-jiebaina: cross_region, ENT-baike-wine-changcheng-putaojiu: same_subcat}
 data_confidence: official

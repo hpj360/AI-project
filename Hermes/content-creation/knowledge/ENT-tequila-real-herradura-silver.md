@@ -5,8 +5,8 @@ category: ENT
 subcategory: tequila
 tags: [龙舌兰酒, Herradura, 墨西哥, Blanco, 马蹄铁]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brand-herradura-blanco, ENT-tequila-real-herradura-anejo, ENT-tequila-real-el-jimador-blanco, ENT-tequila-real-el-jimador-reposado, ENT-brand-sauza-blanco]
 related_typed: {ENT-brand-herradura-blanco: same_brand, ENT-tequila-real-herradura-anejo: same_brand, ENT-tequila-real-el-jimador-blanco: same_brand, ENT-tequila-real-el-jimador-reposado: same_region, ENT-brand-sauza-blanco: same_subcat}
 data_confidence: verified

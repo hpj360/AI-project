@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 印度, 单一麦芽]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-brand-jameson, ENT-brand-crown-royal, ENT-brand-glenmorangie-original]
 related_typed: {ENT-brand-hibiki-harmony: same_subcat, ENT-brand-hakushu: same_subcat, ENT-brand-jameson: same_subcat, ENT-brand-crown-royal: same_subcat, ENT-brand-glenmorangie-original: same_subcat}
 data_confidence: simulated

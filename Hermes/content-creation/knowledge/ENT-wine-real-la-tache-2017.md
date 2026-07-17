@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [葡萄酒, 红葡萄酒, 勃艮第, DRC, 拉塔希, 特级园, 独占, 黑皮诺]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-real-richebourg, ENT-wine-real-romanee-saint-vivant, ENT-wine-real-romanee-conti-2017]
 related_typed: {ENT-wine-real-romanee-conti: same_region, ENT-wine-real-la-tache: same_region, ENT-wine-real-richebourg: same_region, ENT-wine-real-romanee-saint-vivant: same_region, ENT-wine-real-romanee-conti-2017: same_region}
 data_confidence: verified

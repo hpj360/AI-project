@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [葡萄酒, 红葡萄酒, 意大利, 超级托斯卡纳, Sassicaia, 赤霞珠, Bolgheri]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-red-sassicaia-2021, ENT-wine-red-masseto-2021, ENT-wine-red-ornellaia-2021, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-tonghua-putaojiu]
 related_typed: {ENT-wine-red-sassicaia-2021: same_region, ENT-wine-red-masseto-2021: same_region, ENT-wine-red-ornellaia-2021: same_region, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-tonghua-putaojiu: same_subcat}
 data_confidence: verified

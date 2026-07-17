@@ -5,8 +5,8 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典, 烈, 长饮]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brand-absolut-original, ENT-brand-smirnoff-no21, ENT-brand-grey-goose, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east]
 related_typed: {ENT-brand-absolut-original: base_to_cocktail, ENT-brand-smirnoff-no21: base_to_cocktail, ENT-brand-grey-goose: base_to_cocktail, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail}
 data_confidence: official

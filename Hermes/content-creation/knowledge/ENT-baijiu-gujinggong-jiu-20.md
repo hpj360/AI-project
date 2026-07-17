@@ -5,8 +5,8 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, baijiu, 中国, 安徽, 古井贡, 浓香型, 52度]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baike-baijiu-ext-kouzijiao, ENT-baike-baijiu-ext-zhongzi-jiu, ENT-baike-baijiu-ext-xuan-jiu, ENT-baike-baijiu-ext-gaolujia-jiu, ENT-baike-baijiu-ext-gujing-gong-jiu]
 related_typed: {ENT-baike-baijiu-ext-kouzijiao: same_region, ENT-baike-baijiu-ext-zhongzi-jiu: same_region, ENT-baike-baijiu-ext-xuan-jiu: same_region, ENT-baike-baijiu-ext-gaolujia-jiu: same_region, ENT-baike-baijiu-ext-gujing-gong-jiu: same_region}
 data_confidence: verified

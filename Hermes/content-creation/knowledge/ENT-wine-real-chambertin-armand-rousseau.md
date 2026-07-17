@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [葡萄酒, 红葡萄酒, 勃艮第, Chambertin, 特级园, 黑皮诺, Gevrey]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-red-chambertin-rousseau-2015, ENT-wine-real-chambertin, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu]
 related_typed: {ENT-wine-red-chambertin-rousseau-2015: same_brand, ENT-wine-real-chambertin: same_region, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat}
 data_confidence: verified

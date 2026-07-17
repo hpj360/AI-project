@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_dessert
 tags: [甜酒, dessert, 法国, 波尔多, 苏玳, Sauternes, 一级庄, Rothschild]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-wine-real-yquem-2017, ENT-dessert-royal-tokaji-gold-label]
 related_typed: {ENT-dessert-yquem-2018: same_region, ENT-dessert-yquem-2022: same_region, ENT-dessert-suduiraut-2023: same_region, ENT-wine-real-yquem-2017: same_region, ENT-dessert-royal-tokaji-gold-label: same_subcat}
 data_confidence: verified

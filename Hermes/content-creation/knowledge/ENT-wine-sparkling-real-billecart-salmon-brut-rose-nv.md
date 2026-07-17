@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Billecart-Salmon, 桃红, Rosé, NV]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009, ENT-wine_sparkling-off-050-petillant-de-listel-peche, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt]
 related_typed: {ENT-wine-sparkling-billecart-salmon-nicolas-francois-2009: same_brand, ENT-wine_sparkling-off-050-petillant-de-listel-peche: same_subcat, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat}
 data_confidence: verified

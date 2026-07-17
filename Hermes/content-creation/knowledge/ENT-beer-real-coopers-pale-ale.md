@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 淡色艾尔, 澳大利亚, 瓶内发酵]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe, ENT-baike-beer-jinwei-pijiu, ENT-beer-tsingtao, ENT-beer-snow]
 related_typed: {ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat, ENT-baike-beer-jinwei-pijiu: same_subcat, ENT-beer-tsingtao: same_subcat, ENT-beer-snow: same_subcat}
 data_confidence: verified

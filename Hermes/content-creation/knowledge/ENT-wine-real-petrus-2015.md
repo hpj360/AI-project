@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [葡萄酒, 红葡萄酒, 波尔多, 波美侯, 柏图斯, 右岸之王]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-red-petrus-2015, ENT-wine-red-trotanoy-2015, ENT-wine-real-petrus, ENT-wine-real-le-pin-2015, ENT-baike-wine-weilong-putaojiu]
 related_typed: {ENT-wine-red-petrus-2015: same_brand, ENT-wine-red-trotanoy-2015: same_brand, ENT-wine-real-petrus: same_region, ENT-wine-real-le-pin-2015: same_region, ENT-baike-wine-weilong-putaojiu: same_subcat}
 data_confidence: verified

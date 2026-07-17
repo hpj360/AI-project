@@ -5,8 +5,8 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 百度百科, 馥郁香型, 湖南, 酒鬼酒]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baike-baijiu-ext-liuyang-he, ENT-baike-baijiu-ext-wuling-jiu, ENT-baike-baijiu-ext-deshan-daqu, ENT-baijiu-luzhou-guojiao-1573, ENT-baijiu-luzhou-touqu]
 related_typed: {ENT-baike-baijiu-ext-liuyang-he: same_region, ENT-baike-baijiu-ext-wuling-jiu: same_region, ENT-baike-baijiu-ext-deshan-daqu: same_region, ENT-baijiu-luzhou-guojiao-1573: same_subcat, ENT-baijiu-luzhou-touqu: same_subcat}
 data_confidence: verified

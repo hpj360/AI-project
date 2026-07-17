@@ -5,8 +5,8 @@ category: ENT
 subcategory: yellow_wine
 tags: [黄酒, 即墨, 山东, 黍米, 青岛]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 data_confidence: simulated
 version: 1
 related: [ENT-yellow-wine-jimo-laoliu, ENT-baike-yellow_wine-guyue-longshan, ENT-baike-yellow_wine-tapai-huangjiu, ENT-baike-yellow_wine-jimo-laojiu, ENT-baike-yellow_wine-shazhou-youhuang]

@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 勃艮第, 热夫雷-香贝丹, 特级园, 黑皮诺]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-wine-real-chambertin-armand-rousseau, ENT-baike-wine-zhangyu-jiebaina]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-wine-real-chambertin-armand-rousseau: same_region, ENT-baike-wine-zhangyu-jiebaina: same_subcat}
 data_confidence: official

@@ -5,8 +5,8 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Mint Julep, 摇和]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-cocktail-jasmine-tea-cocktail, ENT-cocktail-yuzu-margarita, ENT-cocktail-lychee-martini, ENT-cocktail-negroni, ENT-cocktail-americano]
 related_typed: {ENT-cocktail-jasmine-tea-cocktail: same_subcat, ENT-cocktail-yuzu-margarita: same_subcat, ENT-cocktail-lychee-martini: same_subcat, ENT-cocktail-negroni: same_subcat, ENT-cocktail-americano: same_subcat}
 data_confidence: official

@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-caipirinha, ENT-cocktail-kir, ENT-cocktail-dark-n-stormy, ENT-cocktail-vesper, ENT-cocktail-gimlet]
-related_typed: {ENT-cocktail-caipirinha: same_subcat, ENT-cocktail-kir: same_subcat, ENT-cocktail-dark-n-stormy: same_subcat, ENT-cocktail-vesper: same_subcat, ENT-cocktail-gimlet: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-dark-n-stormy, ENT-cocktail-vesper, ENT-cocktail-gimlet, ENT-cocktail-screwdriver, ENT-cocktail-harvey-wallbanger]
+related_typed: {ENT-cocktail-dark-n-stormy: same_subcat, ENT-cocktail-vesper: same_subcat, ENT-cocktail-gimlet: same_subcat, ENT-cocktail-screwdriver: same_subcat, ENT-cocktail-harvey-wallbanger: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

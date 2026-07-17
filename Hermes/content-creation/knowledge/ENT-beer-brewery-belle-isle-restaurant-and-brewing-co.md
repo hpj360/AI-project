@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 啤酒厂, 酒吧酒厂, United States]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-beer-heineken, ENT-beer-carlsberg, ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona]
 related_typed: {ENT-beer-heineken: cross_region, ENT-beer-carlsberg: cross_region, ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat}
 data_confidence: verified

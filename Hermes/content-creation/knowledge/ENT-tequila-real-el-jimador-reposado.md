@@ -5,10 +5,10 @@ category: ENT
 subcategory: tequila
 tags: [龙舌兰酒, El Jimador, 墨西哥, Reposado]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-brand-herradura-blanco, ENT-tequila-real-herradura-silver, ENT-tequila-real-herradura-anejo, ENT-tequila-real-el-jimador-blanco, ENT-brand-sauza-blanco]
-related_typed: {ENT-brand-herradura-blanco: same_brand, ENT-tequila-real-herradura-silver: same_brand, ENT-tequila-real-herradura-anejo: same_brand, ENT-tequila-real-el-jimador-blanco: same_region, ENT-brand-sauza-blanco: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-tequila-real-herradura-silver, ENT-tequila-real-herradura-anejo, ENT-tequila-real-el-jimador-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
+related_typed: {ENT-tequila-real-herradura-silver: same_brand, ENT-tequila-real-herradura-anejo: same_brand, ENT-tequila-real-el-jimador-blanco: same_brand, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / Good Housekeeping
 version: 1

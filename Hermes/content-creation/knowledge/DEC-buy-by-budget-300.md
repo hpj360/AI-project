@@ -5,8 +5,8 @@ category: ENT
 subcategory: buying
 tags: [购买, 预算, 300元, 中端, 性价比]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [DEC-buy-by-budget-100, DEC-buy-by-budget-800, DEC-buy-by-budget-2000, DEC-buy-by-budget-premium, DEC-buy-for-business]
 related_typed: {DEC-buy-by-budget-100: same_subcat, DEC-buy-by-budget-800: same_subcat, DEC-buy-by-budget-2000: same_subcat, DEC-buy-by-budget-premium: same_subcat, DEC-buy-for-business: same_subcat}
 data_confidence: official

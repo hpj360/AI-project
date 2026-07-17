@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 圣埃美隆, 一级A等]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-ausone, ENT-wine-real-troplong-mondot, ENT-wine-real-angelus, ENT-wine-real-cheval-blanc-2015, ENT-wine-real-ausone-2015]
 related_typed: {ENT-wine-real-ausone: same_region, ENT-wine-real-troplong-mondot: same_region, ENT-wine-real-angelus: same_region, ENT-wine-real-cheval-blanc-2015: same_region, ENT-wine-real-ausone-2015: same_region}
 data_confidence: official

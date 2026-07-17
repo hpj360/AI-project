@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_white
 tags: [白葡萄酒, 智利, 雷司令, Malleco, Laberinto, 冷凉产区]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine_white-off-036-vin-d-espagne-blanc, ENT-wine_white-off-037-bree-chardonnay-weisswein, ENT-wine_white-off-038-el-pesca-to, ENT-wine_white-off-039-bellini-vine-peach-wine, ENT-wine_white-off-040-oyster-bay-sauvignon-blanc-75cl]
 related_typed: {ENT-wine_white-off-036-vin-d-espagne-blanc: same_subcat, ENT-wine_white-off-037-bree-chardonnay-weisswein: same_subcat, ENT-wine_white-off-038-el-pesca-to: same_subcat, ENT-wine_white-off-039-bellini-vine-peach-wine: same_subcat, ENT-wine_white-off-040-oyster-bay-sauvignon-blanc-75cl: same_subcat}
 data_confidence: verified

@@ -5,8 +5,8 @@ category: ENT
 subcategory: trend
 tags: [行业趋势, 低无酒精, 健康, 市场]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [TREND-dealcoholization-tech, TREND-non-alcoholic-beer, TREND-non-alcoholic-wine, TREND-low-abv-cocktail, TREND-hard-seltzer]
 related_typed: {TREND-dealcoholization-tech: same_subcat, TREND-non-alcoholic-beer: same_subcat, TREND-non-alcoholic-wine: same_subcat, TREND-low-abv-cocktail: same_subcat, TREND-hard-seltzer: same_subcat}
 data_confidence: verified

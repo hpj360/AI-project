@@ -5,8 +5,8 @@ category: ENT
 subcategory: rice_wine
 tags: [百度百科, rice_wine, 日本清酒]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-rice-guilin-san-hua-52, ENT-rice-guilin-san-hua-dongzang-10, ENT-rice-jiujiang-shuangzheng-29-5, ENT-rice-shiwan-yubingshao-29, ENT-baike-rice_wine-kejia-niangjiu]
 related_typed: {ENT-rice-guilin-san-hua-52: cross_region, ENT-rice-guilin-san-hua-dongzang-10: cross_region, ENT-rice-jiujiang-shuangzheng-29-5: cross_region, ENT-rice-shiwan-yubingshao-29: cross_region, ENT-baike-rice_wine-kejia-niangjiu: same_subcat}
 data_confidence: verified

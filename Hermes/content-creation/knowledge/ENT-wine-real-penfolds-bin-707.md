@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 澳大利亚, 南澳, 赤霞珠, Penfolds]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-penfolds-grange, ENT-wine-real-penfolds-bin-389, ENT-wine-real-penfolds-st-henri, ENT-brand-penfolds-grange, ENT-baike-wine-wangchao-putaojiu]
 related_typed: {ENT-wine-real-penfolds-grange: same_brand, ENT-wine-real-penfolds-bin-389: same_brand, ENT-wine-real-penfolds-st-henri: same_brand, ENT-brand-penfolds-grange: same_region, ENT-baike-wine-wangchao-putaojiu: same_subcat}
 data_confidence: official

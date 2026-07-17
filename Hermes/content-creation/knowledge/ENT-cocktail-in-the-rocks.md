@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 酒吧签名, 实验, 蛋壳]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-verbena, ENT-cocktail-mezcal-negroni, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball]
-related_typed: {ENT-cocktail-verbena: same_region, ENT-cocktail-mezcal-negroni: same_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-verbena, ENT-cocktail-mezcal-negroni, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail]
+related_typed: {ENT-cocktail-verbena: same_region, ENT-cocktail-mezcal-negroni: same_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat}
 data_confidence: simulated
 data_source: Tello 配方
 version: 1

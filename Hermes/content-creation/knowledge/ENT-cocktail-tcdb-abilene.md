@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-bacardi-cocktail, ENT-cocktail-casablanca, ENT-cocktail-clover-club, ENT-cocktail-bellini, ENT-cocktail-mojito]
-related_typed: {ENT-cocktail-bacardi-cocktail: same_subcat, ENT-cocktail-casablanca: same_subcat, ENT-cocktail-clover-club: same_subcat, ENT-cocktail-bellini: same_subcat, ENT-cocktail-mojito: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-clover-club, ENT-cocktail-bellini, ENT-cocktail-mojito, ENT-cocktail-espresso-martini, ENT-cocktail-kamikaze]
+related_typed: {ENT-cocktail-clover-club: same_subcat, ENT-cocktail-bellini: same_subcat, ENT-cocktail-mojito: same_subcat, ENT-cocktail-espresso-martini: same_subcat, ENT-cocktail-kamikaze: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

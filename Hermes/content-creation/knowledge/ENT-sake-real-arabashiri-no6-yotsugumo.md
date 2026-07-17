@@ -5,8 +5,8 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米吟醸, 新政, No.6, 秋田, 协会6号酵母]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-sake-arabashiri-no6, ENT-sake-aramasa-amaneko, ENT-sake-real-born-gold, ENT-sake-real-tatenokawa-mountain, ENT-sake-real-okuharima-nigori]
 related_typed: {ENT-sake-arabashiri-no6: same_brand, ENT-sake-aramasa-amaneko: same_brand, ENT-sake-real-born-gold: same_subcat, ENT-sake-real-tatenokawa-mountain: same_subcat, ENT-sake-real-okuharima-nigori: same_subcat}
 data_confidence: verified

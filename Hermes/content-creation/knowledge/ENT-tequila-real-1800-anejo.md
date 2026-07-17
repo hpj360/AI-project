@@ -5,10 +5,10 @@ category: ENT
 subcategory: tequila
 tags: [龙舌兰酒, 1800, 墨西哥, Añejo]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40, ENT-tequila-off-186-tequila]
-related_typed: {ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat, ENT-tequila-off-185-silver-tequila-40: same_subcat, ENT-tequila-off-186-tequila: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40, ENT-tequila-off-186-tequila, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado]
+related_typed: {ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat, ENT-tequila-off-185-silver-tequila-40: same_subcat, ENT-tequila-off-186-tequila: same_subcat, ENT-tequila-off-187-jose-cuervo-especial-tequila-reposado: same_subcat}
 data_confidence: verified
 data_source: Wine-Searcher / Flaviar
 version: 1

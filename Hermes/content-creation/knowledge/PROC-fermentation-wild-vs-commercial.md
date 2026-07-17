@@ -5,8 +5,8 @@ category: ENT
 subcategory: process
 tags: [酿造工艺, 酵母, 野生发酵, 商业酵母]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [PROC-fermentation-basics, PROC-distillation-pot-still, PROC-distillation-column-still, PROC-aging-oak-types, PROC-aging-oxidation]
 related_typed: {PROC-fermentation-basics: same_subcat, PROC-distillation-pot-still: same_subcat, PROC-distillation-column-still: same_subcat, PROC-aging-oak-types: same_subcat, PROC-aging-oxidation: same_subcat}
 data_confidence: official

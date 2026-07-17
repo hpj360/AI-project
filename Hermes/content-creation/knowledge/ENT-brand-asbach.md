@@ -5,8 +5,8 @@ category: ENT
 subcategory: brandy
 tags: [白兰地, 德国, Asbach]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brandy-hennessy-paradis, ENT-brandy-hennessy-richard, ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu]
 related_typed: {ENT-brandy-hennessy-paradis: cross_region, ENT-brandy-hennessy-richard: same_subcat, ENT-brandy-martell-vsop: same_subcat, ENT-brandy-martell-xo: same_subcat, ENT-brandy-martell-cordon-bleu: same_subcat}
 data_confidence: official

@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 调和威士忌]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-265-black-label, ENT-whisky-swa-single-malt, ENT-whisky-swa-blended]
 related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_brand, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-265-black-label: same_brand, ENT-whisky-swa-single-malt: same_region, ENT-whisky-swa-blended: same_region}
 data_confidence: simulated

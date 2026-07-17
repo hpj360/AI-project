@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 日本, 单一麦芽]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brand-hibiki-harmony, ENT-brand-hakushu, ENT-gin-roku, ENT-brand-glenlivet-12, ENT-brand-lagavulin-16]
 related_typed: {ENT-brand-hibiki-harmony: same_brand, ENT-brand-hakushu: same_brand, ENT-gin-roku: same_brand, ENT-brand-glenlivet-12: cross_region, ENT-brand-lagavulin-16: same_subcat}
 data_confidence: official

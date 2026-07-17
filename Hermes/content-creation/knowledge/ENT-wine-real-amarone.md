@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 意大利, 威尼托, 阿玛罗尼, 风干葡萄, DOCG]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-baike-wine-changcheng-putaojiu, ENT-baike-wine-wangchao-putaojiu]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-baike-wine-changcheng-putaojiu: cross_region, ENT-baike-wine-wangchao-putaojiu: same_subcat}
 data_confidence: official

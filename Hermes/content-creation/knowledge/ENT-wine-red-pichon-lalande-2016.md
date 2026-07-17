@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 波亚克]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-cristal, ENT-wine-real-cristal-2014, ENT-wine-sparkling-cristal-2013, ENT-wine-red-lafite-2010, ENT-wine-red-latour-2010]
 related_typed: {ENT-wine-real-cristal: same_brand, ENT-wine-real-cristal-2014: same_brand, ENT-wine-sparkling-cristal-2013: same_brand, ENT-wine-red-lafite-2010: same_region, ENT-wine-red-latour-2010: same_region}
 data_confidence: simulated

@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_fortified
 tags: [波特, Port, 葡萄牙, Nacional, 国家园, 稀有, 2020]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-fortified-quinta-do-noval-nacional-2017, ENT-port-grahams-ruby-2019, ENT-port-grahams-20year-tawny, ENT-port-taylors-40year-tawny, ENT-port-taylors-quinta-vargellas]
 related_typed: {ENT-wine-fortified-quinta-do-noval-nacional-2017: same_brand, ENT-port-grahams-ruby-2019: same_region, ENT-port-grahams-20year-tawny: same_region, ENT-port-taylors-40year-tawny: same_region, ENT-port-taylors-quinta-vargellas: same_region}
 data_confidence: verified

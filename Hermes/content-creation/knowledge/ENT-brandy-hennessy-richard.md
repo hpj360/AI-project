@@ -5,8 +5,8 @@ category: ENT
 subcategory: brandy
 tags: [白兰地, 干邑, 法国, 轩尼诗, 限量]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brandy-hennessy-vs, ENT-brandy-hennessy-vsop, ENT-brandy-hennessy-xo, ENT-brandy-hennessy-paradis, ENT-brandy-martell-vsop]
 related_typed: {ENT-brandy-hennessy-vs: same_brand, ENT-brandy-hennessy-vsop: same_brand, ENT-brandy-hennessy-xo: same_brand, ENT-brandy-hennessy-paradis: same_region, ENT-brandy-martell-vsop: same_region}
 data_confidence: simulated

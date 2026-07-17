@@ -5,10 +5,10 @@ category: ENT
 subcategory: tequila
 tags: [OpenFoodFacts, tequila, 龙舌兰, Carrefour]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-brand-don-julio-blanco, ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver]
-related_typed: {ENT-brand-don-julio-blanco: cross_region, ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-brand-sauza-blanco, ENT-brand-herradura-blanco, ENT-tequila-off-183-tequila-gold, ENT-tequila-off-184-sierra-tequila-silver, ENT-tequila-off-185-silver-tequila-40]
+related_typed: {ENT-brand-sauza-blanco: cross_region, ENT-brand-herradura-blanco: cross_region, ENT-tequila-off-183-tequila-gold: same_subcat, ENT-tequila-off-184-sierra-tequila-silver: same_subcat, ENT-tequila-off-185-silver-tequila-40: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

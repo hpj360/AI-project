@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 鸡尾酒, Cocktail]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-long-island-iced-tea, ENT-cocktail-mai-tai, ENT-cocktail-pina-colada, ENT-cocktail-sea-breeze, ENT-cocktail-sex-on-the-beach]
-related_typed: {ENT-cocktail-long-island-iced-tea: same_subcat, ENT-cocktail-mai-tai: same_subcat, ENT-cocktail-pina-colada: same_subcat, ENT-cocktail-sea-breeze: same_subcat, ENT-cocktail-sex-on-the-beach: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-mai-tai, ENT-cocktail-pina-colada, ENT-cocktail-sea-breeze, ENT-cocktail-sex-on-the-beach, ENT-cocktail-tequila-sunrise]
+related_typed: {ENT-cocktail-mai-tai: same_subcat, ENT-cocktail-pina-colada: same_subcat, ENT-cocktail-sea-breeze: same_subcat, ENT-cocktail-sex-on-the-beach: same_subcat, ENT-cocktail-tequila-sunrise: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

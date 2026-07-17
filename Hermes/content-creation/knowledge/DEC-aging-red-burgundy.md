@@ -5,8 +5,8 @@ category: ENT
 subcategory: aging
 tags: [陈年潜力, 勃艮第, 黑皮诺]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [DEC-aging-red-bordeaux, DEC-aging-white-burgundy, DEC-aging-barolo, DEC-aging-champagne, DEC-aging-port]
 related_typed: {DEC-aging-red-bordeaux: same_subcat, DEC-aging-white-burgundy: same_subcat, DEC-aging-barolo: same_subcat, DEC-aging-champagne: same_subcat, DEC-aging-port: same_subcat}
 data_confidence: official

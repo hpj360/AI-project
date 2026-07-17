@@ -5,8 +5,8 @@ category: ENT
 subcategory: collect
 tags: [收藏投资, 退出策略, 拍卖, 私洽, 转售]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [DEC-collect-basics, DEC-collect-vintage-chart, DEC-collect-livex, DEC-collect-auction, DEC-collect-whisky]
 related_typed: {DEC-collect-basics: same_subcat, DEC-collect-vintage-chart: same_subcat, DEC-collect-livex: same_subcat, DEC-collect-auction: same_subcat, DEC-collect-whisky: same_subcat}
 data_confidence: verified

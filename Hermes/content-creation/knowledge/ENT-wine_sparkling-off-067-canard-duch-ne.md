@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_sparkling
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Canard Duchêne]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine_sparkling-off-048-clairette-de-die-tradition, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge, ENT-wine_sparkling-off-063-clairette-de-die-doux, ENT-brand-moet-chandon-imperial]
 related_typed: {ENT-wine_sparkling-off-048-clairette-de-die-tradition: same_region, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_region, ENT-wine_sparkling-off-058-champagne-brut-cordon-rouge: same_region, ENT-wine_sparkling-off-063-clairette-de-die-doux: same_region, ENT-brand-moet-chandon-imperial: same_subcat}
 data_confidence: verified

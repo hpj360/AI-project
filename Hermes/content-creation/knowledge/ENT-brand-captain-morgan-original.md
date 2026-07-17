@@ -5,8 +5,8 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 波多黎各, 香料朗姆]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-rum-real-bacardi-gran-reserva-diez, ENT-rum-real-bacardi-gold, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold]
 related_typed: {ENT-rum-real-bacardi-gran-reserva-diez: same_region, ENT-rum-real-bacardi-gold: same_region, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat}
 data_confidence: official

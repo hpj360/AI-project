@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_fortified
 tags: [加强酒, 雪莉, Amontillado, Valdespino]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-fortified-gonzalez-byass-tio-pepe-fino, ENT-wine-fortified-lustau-palo-cortado-vors, ENT-wine-fortified-williams-humbert-dry-oloroso, ENT-port-taylor-fladgate-vintage-2024, ENT-port-dows-vintage-2016]
 related_typed: {ENT-wine-fortified-gonzalez-byass-tio-pepe-fino: same_region, ENT-wine-fortified-lustau-palo-cortado-vors: same_region, ENT-wine-fortified-williams-humbert-dry-oloroso: same_region, ENT-port-taylor-fladgate-vintage-2024: cross_region, ENT-port-dows-vintage-2016: same_subcat}
 data_confidence: simulated

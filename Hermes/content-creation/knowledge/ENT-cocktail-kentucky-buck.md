@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 波本, 草莓, 高球]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-mint-julep, ENT-cocktail-whiskey-smash, ENT-baike-spirits_intl-chivas-18, ENT-brand-macallan-12, ENT-brand-glenfiddich-12]
-related_typed: {ENT-cocktail-mint-julep: same_region, ENT-cocktail-whiskey-smash: same_region, ENT-baike-spirits_intl-chivas-18: base_to_cocktail, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-mint-julep, ENT-cocktail-whiskey-smash, ENT-cocktail-sous-vide-vanilla-bourbon, ENT-baike-spirits_intl-chivas-18, ENT-brand-macallan-12]
+related_typed: {ENT-cocktail-mint-julep: same_region, ENT-cocktail-whiskey-smash: same_region, ENT-cocktail-sous-vide-vanilla-bourbon: same_region, ENT-baike-spirits_intl-chivas-18: base_to_cocktail, ENT-brand-macallan-12: base_to_cocktail}
 data_confidence: simulated
 version: 1
 ---

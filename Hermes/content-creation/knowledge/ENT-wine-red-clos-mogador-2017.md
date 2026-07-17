@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 西班牙, Priorat]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-red-alvaro-palacios-lermita-2017, ENT-brand-haut-brion, ENT-brand-penfolds-grange, ENT-brand-opus-one, ENT-wine_red-off-001-vin-rouge-sans-alcool]
 related_typed: {ENT-wine-red-alvaro-palacios-lermita-2017: same_region, ENT-brand-haut-brion: same_subcat, ENT-brand-penfolds-grange: same_subcat, ENT-brand-opus-one: same_subcat, ENT-wine_red-off-001-vin-rouge-sans-alcool: same_subcat}
 data_confidence: simulated

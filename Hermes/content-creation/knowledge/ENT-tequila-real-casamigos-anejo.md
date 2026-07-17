@@ -5,8 +5,8 @@ category: ENT
 subcategory: tequila
 tags: [龙舌兰酒, Casamigos, 墨西哥, Añejo, Clooney]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-tequila-real-casamigos-reposado, ENT-tequila-real-don-julio-1942, ENT-tequila-real-don-julio-anejo, ENT-tequila-real-patron-reposado, ENT-tequila-real-patron-anejo]
 related_typed: {ENT-tequila-real-casamigos-reposado: same_brand, ENT-tequila-real-don-julio-1942: same_region, ENT-tequila-real-don-julio-anejo: same_region, ENT-tequila-real-patron-reposado: same_region, ENT-tequila-real-patron-anejo: same_region}
 data_confidence: verified

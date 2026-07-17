@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-mint-julep, ENT-cocktail-brandy-fix, ENT-cocktail-port-sangaree, ENT-cocktail-hot-toddy, ENT-cocktail-bees-knees]
-related_typed: {ENT-cocktail-mint-julep: same_subcat, ENT-cocktail-brandy-fix: same_subcat, ENT-cocktail-port-sangaree: same_subcat, ENT-cocktail-hot-toddy: same_subcat, ENT-cocktail-bees-knees: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-mint-julep, ENT-cocktail-hot-toddy, ENT-cocktail-bees-knees, ENT-cocktail-monkey-gland, ENT-cocktail-southside]
+related_typed: {ENT-cocktail-mint-julep: same_subcat, ENT-cocktail-hot-toddy: same_subcat, ENT-cocktail-bees-knees: same_subcat, ENT-cocktail-monkey-gland: same_subcat, ENT-cocktail-southside: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_fortified
 tags: [雪莉, Sherry, 西班牙, Palo Cortado, VORS, 30年, 高端]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-sherry-tradicion-vors-oloroso, ENT-sherry-gonzalez-byass-tio-pepe-fino, ENT-sherry-valdespino-inocente-fino, ENT-sherry-emilio-hidalgo-la-panesa, ENT-sherry-lustau-puerto-fino]
 related_typed: {ENT-sherry-tradicion-vors-oloroso: same_brand, ENT-sherry-gonzalez-byass-tio-pepe-fino: same_region, ENT-sherry-valdespino-inocente-fino: same_region, ENT-sherry-emilio-hidalgo-la-panesa: same_region, ENT-sherry-lustau-puerto-fino: same_region}
 data_confidence: verified

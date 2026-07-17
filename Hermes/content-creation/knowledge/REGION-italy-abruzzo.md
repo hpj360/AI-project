@@ -5,8 +5,8 @@ category: ENT
 subcategory: region
 tags: [产区风土, 意大利, 阿布鲁佐, 蒙特普尔恰诺]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [REGION-france-bordeaux, REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire]
 related_typed: {REGION-france-bordeaux: same_subcat, REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat}
 data_confidence: official

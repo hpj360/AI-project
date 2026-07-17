@@ -5,8 +5,8 @@ category: ENT
 subcategory: law
 tags: [法律法规, WHO, 全球战略, 公共健康, 酒精政策]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [LAW-gbt-48009-2026-baijiu-general, LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026]
 related_typed: {LAW-gbt-48009-2026-baijiu-general: same_subcat, LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat}
 data_confidence: official

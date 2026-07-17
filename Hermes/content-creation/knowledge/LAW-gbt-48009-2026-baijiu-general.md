@@ -5,8 +5,8 @@ category: ENT
 subcategory: law
 tags: [法规, 国家标准, 白酒, 质量通则, 2026, GB/T 48009]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [LAW-gbt-10781-4-jiangxiang-2025, LAW-gbt-10781-3-mixiang-2025, LAW-gbt-10781-15-xiaoqu-2025, LAW-gbt-10781-12-dongxiang-2026, LAW-baijiu-tax-2026-consumption]
 related_typed: {LAW-gbt-10781-4-jiangxiang-2025: same_subcat, LAW-gbt-10781-3-mixiang-2025: same_subcat, LAW-gbt-10781-15-xiaoqu-2025: same_subcat, LAW-gbt-10781-12-dongxiang-2026: same_subcat, LAW-baijiu-tax-2026-consumption: same_subcat}
 data_confidence: official

@@ -5,8 +5,8 @@ category: ENT
 subcategory: vodka
 tags: [伏特加, 英国, 斯米诺]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice, ENT-vodka-smirnoff-red, ENT-vodka-smirnoff-blue, ENT-vodka-off-142-poliakov]
 related_typed: {ENT-vodka-off-143-vodka-triple-distilled: same_brand, ENT-vodka-off-144-smirnoff-ice: same_brand, ENT-vodka-smirnoff-red: same_brand, ENT-vodka-smirnoff-blue: same_region, ENT-vodka-off-142-poliakov: same_subcat}
 data_confidence: verified

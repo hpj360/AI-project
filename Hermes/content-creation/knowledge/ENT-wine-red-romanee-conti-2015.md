@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 勃艮第, 特级园, DRC]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brand-romanee-conti, ENT-wine-real-romanee-conti, ENT-wine-real-la-tache, ENT-wine-red-la-tache-2015, ENT-wine-red-richebourg-2015]
 related_typed: {ENT-brand-romanee-conti: same_brand, ENT-wine-real-romanee-conti: same_brand, ENT-wine-real-la-tache: same_brand, ENT-wine-red-la-tache-2015: same_region, ENT-wine-red-richebourg-2015: same_region}
 data_confidence: simulated

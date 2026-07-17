@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 啤酒鸡尾酒, Beer]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-bellini, ENT-cocktail-kamikaze, ENT-cocktail-long-island-iced-tea, ENT-cocktail-mai-tai, ENT-cocktail-pina-colada]
-related_typed: {ENT-cocktail-bellini: same_subcat, ENT-cocktail-kamikaze: same_subcat, ENT-cocktail-long-island-iced-tea: same_subcat, ENT-cocktail-mai-tai: same_subcat, ENT-cocktail-pina-colada: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-kamikaze, ENT-cocktail-long-island-iced-tea, ENT-cocktail-mai-tai, ENT-cocktail-pina-colada, ENT-cocktail-sea-breeze]
+related_typed: {ENT-cocktail-kamikaze: same_subcat, ENT-cocktail-long-island-iced-tea: same_subcat, ENT-cocktail-mai-tai: same_subcat, ENT-cocktail-pina-colada: same_subcat, ENT-cocktail-sea-breeze: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

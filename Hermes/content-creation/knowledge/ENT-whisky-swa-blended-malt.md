@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 麦芽, 调配, 法规定义, SWA]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-whisky-swa-single-malt, ENT-whisky-swa-blended, ENT-whisky-swa-single-grain, ENT-whisky-swa-blended-grain, ENT-whisky-swa-export-2024]
 related_typed: {ENT-whisky-swa-single-malt: same_region, ENT-whisky-swa-blended: same_region, ENT-whisky-swa-single-grain: same_region, ENT-whisky-swa-blended-grain: same_region, ENT-whisky-swa-export-2024: same_region}
 data_confidence: official

@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 墨西哥拉格, 墨西哥, 科罗娜]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-beer-corona, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe]
 related_typed: {ENT-beer-corona: same_brand, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat}
 data_confidence: verified

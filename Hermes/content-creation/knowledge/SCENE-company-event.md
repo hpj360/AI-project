@@ -5,8 +5,8 @@ category: ENT
 subcategory: scene
 tags: [场景, 公司活动, 团建, 年会, 商务]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [SCENE-spring-festival, SCENE-mid-autumn, SCENE-wedding, SCENE-business-dinner, SCENE-birthday]
 related_typed: {SCENE-spring-festival: same_subcat, SCENE-mid-autumn: same_subcat, SCENE-wedding: same_subcat, SCENE-business-dinner: same_subcat, SCENE-birthday: same_subcat}
 data_confidence: official

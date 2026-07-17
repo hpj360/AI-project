@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 金酒, 荔枝, 热带]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-french-martini, ENT-cocktail-tom-collins, ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash, ENT-cocktail-brandy-fix]
-related_typed: {ENT-cocktail-french-martini: same_region, ENT-cocktail-tom-collins: same_region, ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region, ENT-cocktail-brandy-fix: same_region}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-sherry-cobbler, ENT-cocktail-brandy-smash, ENT-cocktail-brandy-fix, ENT-cocktail-port-sangaree, ENT-cocktail-southside]
+related_typed: {ENT-cocktail-sherry-cobbler: same_region, ENT-cocktail-brandy-smash: same_region, ENT-cocktail-brandy-fix: same_region, ENT-cocktail-port-sangaree: same_region, ENT-cocktail-southside: same_region}
 data_confidence: simulated
 data_source: 纽约配方
 version: 1

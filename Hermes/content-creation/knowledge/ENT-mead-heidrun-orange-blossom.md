@@ -5,8 +5,8 @@ category: ENT
 subcategory: mead
 tags: [蜂蜜酒, mead, 美国, 加州, 香槟法, 起泡]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-mead-strawberry, ENT-mead-sparkling, ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey]
 related_typed: {ENT-mead-strawberry: same_region, ENT-mead-sparkling: same_region, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: same_subcat}
 data_confidence: verified

@@ -5,10 +5,10 @@ category: ENT
 subcategory: sake
 tags: [OpenFoodFacts, sake, 清酒, Hokkan Sake]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-baike-sake-juyondai, ENT-sake-real-dassai-23, ENT-sake-real-kubota-senjuu, ENT-sake-real-hakkaisan-tokubetsu-junmai, ENT-baike-sake-hakutsuru]
-related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-real-dassai-23: cross_region, ENT-sake-real-kubota-senjuu: cross_region, ENT-sake-real-hakkaisan-tokubetsu-junmai: cross_region, ENT-baike-sake-hakutsuru: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-baike-sake-juyondai, ENT-sake-real-kubota-senjuu, ENT-sake-real-hakkaisan-tokubetsu-junmai, ENT-sake-real-juyondai, ENT-baike-sake-hakutsuru]
+related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-sake-real-kubota-senjuu: cross_region, ENT-sake-real-hakkaisan-tokubetsu-junmai: cross_region, ENT-sake-real-juyondai: cross_region, ENT-baike-sake-hakutsuru: same_subcat}
 data_confidence: verified
 data_source: OpenFoodFacts
 version: 1

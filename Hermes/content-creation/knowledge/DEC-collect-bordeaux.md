@@ -5,8 +5,8 @@ category: ENT
 subcategory: collect
 tags: [收藏投资, 波尔多, 期酒, En Primeur]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [DEC-collect-basics, DEC-collect-vintage-chart, DEC-collect-livex, DEC-collect-auction, DEC-collect-whisky]
 related_typed: {DEC-collect-basics: same_subcat, DEC-collect-vintage-chart: same_subcat, DEC-collect-livex: same_subcat, DEC-collect-auction: same_subcat, DEC-collect-whisky: same_subcat}
 data_confidence: verified

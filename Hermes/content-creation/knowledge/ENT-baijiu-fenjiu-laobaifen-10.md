@@ -5,8 +5,8 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 清香, 山西, 汾酒]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baijiu-fenjiu-qinghua-30, ENT-baijiu-fenjiu-huangai-bofen, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-fenjiu-qinghua-30: same_brand, ENT-baijiu-fenjiu-huangai-bofen: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: simulated

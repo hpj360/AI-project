@@ -5,8 +5,8 @@ category: ENT
 subcategory: scene
 tags: [场景, 婚宴, 婚礼, 用酒清单, 喜庆]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [SCENE-spring-festival, SCENE-mid-autumn, SCENE-business-dinner, SCENE-birthday, SCENE-date-night]
 related_typed: {SCENE-spring-festival: same_subcat, SCENE-mid-autumn: same_subcat, SCENE-business-dinner: same_subcat, SCENE-birthday: same_subcat, SCENE-date-night: same_subcat}
 data_confidence: official

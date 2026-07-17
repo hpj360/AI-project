@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Salon, 白中白, Grand Cru, 年份, 96分]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-sparkling-salon-le-mesnil-2008, ENT-wine-sparkling-real-pierre-peters-cuvee-de-reserve-nv, ENT-wine_sparkling-off-051-sekt-halbtrocken, ENT-wine_sparkling-off-052-nicolas-feuillatte, ENT-wine_sparkling-off-053-sekt]
 related_typed: {ENT-wine-sparkling-salon-le-mesnil-2008: same_brand, ENT-wine-sparkling-real-pierre-peters-cuvee-de-reserve-nv: same_region, ENT-wine_sparkling-off-051-sekt-halbtrocken: same_subcat, ENT-wine_sparkling-off-052-nicolas-feuillatte: same_subcat, ENT-wine_sparkling-off-053-sekt: same_subcat}
 data_confidence: verified

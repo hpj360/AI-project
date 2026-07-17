@@ -5,8 +5,8 @@ category: ENT
 subcategory: other_spirit
 tags: [烈酒, 亚力酒, 中东, 茴香, 蒸馏酒]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wiki-spirit-absinthe, ENT-wiki-spirit-soju, ENT-wiki-spirit-baijiu-intro, ENT-wiki-spirit-grappa, ENT-wiki-spirit-eau-de-vie]
 related_typed: {ENT-wiki-spirit-absinthe: same_subcat, ENT-wiki-spirit-soju: same_subcat, ENT-wiki-spirit-baijiu-intro: same_subcat, ENT-wiki-spirit-grappa: same_subcat, ENT-wiki-spirit-eau-de-vie: same_subcat}
 data_confidence: verified

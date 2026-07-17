@@ -5,8 +5,8 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 十四代]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-sake-juyondai-honmaru, ENT-sake-juyondai-nana-tariki, ENT-sake-juyondai-soko, ENT-sake-real-juyondai, ENT-sake-juyondai-shirakumo]
 related_typed: {ENT-sake-juyondai-honmaru: same_brand, ENT-sake-juyondai-nana-tariki: same_brand, ENT-sake-juyondai-soko: same_brand, ENT-sake-real-juyondai: same_region, ENT-sake-juyondai-shirakumo: same_region}
 data_confidence: simulated

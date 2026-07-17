@@ -5,10 +5,10 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 飞露喜, 福岛]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-sake-real-juyondai, ENT-sake-real-arabashiri, ENT-sake-real-nanbu-bijin, ENT-sake-real-kaze-no-mori, ENT-sake-real-born-gold]
-related_typed: {ENT-sake-real-juyondai: same_subcat, ENT-sake-real-arabashiri: same_subcat, ENT-sake-real-nanbu-bijin: same_subcat, ENT-sake-real-kaze-no-mori: same_subcat, ENT-sake-real-born-gold: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-sake-real-arabashiri, ENT-sake-real-nanbu-bijin, ENT-sake-real-kaze-no-mori, ENT-sake-real-born-gold, ENT-sake-real-tatenokawa-mountain]
+related_typed: {ENT-sake-real-arabashiri: same_subcat, ENT-sake-real-nanbu-bijin: same_subcat, ENT-sake-real-kaze-no-mori: same_subcat, ENT-sake-real-born-gold: same_subcat, ENT-sake-real-tatenokawa-mountain: same_subcat}
 data_confidence: simulated
 version: 1
 ---

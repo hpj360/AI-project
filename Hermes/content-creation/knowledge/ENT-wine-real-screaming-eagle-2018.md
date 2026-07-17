@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [葡萄酒, 红葡萄酒, 美国, 纳帕谷, Screaming Eagle, 赤霞珠, 稀少]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-screaming-eagle, ENT-wine-red-screaming-eagle-2015, ENT-wine-red-screaming-eagle-2019, ENT-wine-real-opus-one-2018, ENT-baike-wine-weilong-putaojiu]
 related_typed: {ENT-wine-real-screaming-eagle: same_brand, ENT-wine-red-screaming-eagle-2015: same_brand, ENT-wine-red-screaming-eagle-2019: same_brand, ENT-wine-real-opus-one-2018: same_region, ENT-baike-wine-weilong-putaojiu: same_subcat}
 data_confidence: verified

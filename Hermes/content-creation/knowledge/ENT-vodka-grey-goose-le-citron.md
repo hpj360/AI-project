@@ -5,8 +5,8 @@ category: ENT
 subcategory: vodka
 tags: [伏特加, 调味, 法国, 灰雁]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-vodka-off-156-grey-goose-original, ENT-vodka-grey-goose-original, ENT-vodka-off-142-poliakov, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice]
 related_typed: {ENT-vodka-off-156-grey-goose-original: same_brand, ENT-vodka-grey-goose-original: same_brand, ENT-vodka-off-142-poliakov: same_subcat, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat}
 data_confidence: simulated

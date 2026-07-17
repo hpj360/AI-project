@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_white
 tags: [葡萄酒, 白葡萄酒, 勃艮第, Montrachet, 特级园, 霞多丽, Leflaive]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-white-montrachet-leflaive-2014, ENT-wine-white-chevalier-montrachet-leflaive-2015, ENT-wine-white-batard-montrachet-leflaive-2015, ENT-wine_white-off-025-vin-blanc-sec, ENT-wine_white-off-026-cordon-negro-umiv-v-no]
 related_typed: {ENT-wine-white-montrachet-leflaive-2014: same_brand, ENT-wine-white-chevalier-montrachet-leflaive-2015: same_brand, ENT-wine-white-batard-montrachet-leflaive-2015: same_brand, ENT-wine_white-off-025-vin-blanc-sec: cross_region, ENT-wine_white-off-026-cordon-negro-umiv-v-no: same_subcat}
 data_confidence: verified

@@ -5,8 +5,8 @@ category: ENT
 subcategory: gin
 tags: [OpenFoodFacts, gin, 金酒, Tanqueray]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-gin-off-132-pink-strawberry, ENT-gin-gordons-elderflower, ENT-gin-beefeater-london-dry, ENT-gin-beefeater-24, ENT-gin-hendricks]
 related_typed: {ENT-gin-off-132-pink-strawberry: same_region, ENT-gin-gordons-elderflower: same_subcat, ENT-gin-beefeater-london-dry: same_subcat, ENT-gin-beefeater-24: same_subcat, ENT-gin-hendricks: same_subcat}
 data_confidence: verified

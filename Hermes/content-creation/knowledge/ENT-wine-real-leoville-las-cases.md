@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 圣朱利安, 二级庄]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-ducru-beaucaillou, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu]
 related_typed: {ENT-wine-real-ducru-beaucaillou: same_region, ENT-baike-wine-zhangyu-jiebaina: cross_region, ENT-baike-wine-changcheng-putaojiu: cross_region, ENT-baike-wine-wangchao-putaojiu: cross_region, ENT-baike-wine-weilong-putaojiu: same_subcat}
 data_confidence: official

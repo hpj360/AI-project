@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 西班牙, 里奥哈, 丹魄, Gran Reserva, DOCa]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-montrachet, ENT-wine-real-clos-de-vougeot, ENT-wine-real-musigny, ENT-wine-red-la-rioja-alta-904-2011, ENT-baike-wine-changcheng-putaojiu]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-clos-de-vougeot: same_brand, ENT-wine-real-musigny: same_brand, ENT-wine-red-la-rioja-alta-904-2011: same_region, ENT-baike-wine-changcheng-putaojiu: same_subcat}
 data_confidence: official

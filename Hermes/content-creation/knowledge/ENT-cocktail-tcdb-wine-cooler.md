@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 派对宾治, Punch / Party Drink]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-pisco-sour, ENT-cocktail-ward-eight, ENT-cocktail-coffee-cocktail, ENT-cocktail-improved-gin-cocktail, ENT-cocktail-old-fashioned-traditional]
-related_typed: {ENT-cocktail-pisco-sour: same_subcat, ENT-cocktail-ward-eight: same_subcat, ENT-cocktail-coffee-cocktail: same_subcat, ENT-cocktail-improved-gin-cocktail: same_subcat, ENT-cocktail-old-fashioned-traditional: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-old-fashioned-traditional, ENT-cocktail-gin-sour, ENT-cocktail-whiskey-smash, ENT-cocktail-gin-smash, ENT-cocktail-brandy-cobbler]
+related_typed: {ENT-cocktail-old-fashioned-traditional: same_subcat, ENT-cocktail-gin-sour: same_subcat, ENT-cocktail-whiskey-smash: same_subcat, ENT-cocktail-gin-smash: same_subcat, ENT-cocktail-brandy-cobbler: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

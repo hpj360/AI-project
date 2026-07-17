@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 勃艮第, 沃热, 特级园, 黑皮诺]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-montrachet, ENT-wine-real-musigny, ENT-wine-real-chambertin, ENT-baike-wine-zhangyu-jiebaina, ENT-baike-wine-changcheng-putaojiu]
 related_typed: {ENT-wine-real-montrachet: same_brand, ENT-wine-real-musigny: same_brand, ENT-wine-real-chambertin: same_brand, ENT-baike-wine-zhangyu-jiebaina: cross_region, ENT-baike-wine-changcheng-putaojiu: same_subcat}
 data_confidence: official

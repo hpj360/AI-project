@@ -5,8 +5,8 @@ category: ENT
 subcategory: scene
 tags: [场景, 商务宴请, 宴请, 面子酒, 礼品]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [SCENE-spring-festival, SCENE-mid-autumn, SCENE-wedding, SCENE-birthday, SCENE-date-night]
 related_typed: {SCENE-spring-festival: same_subcat, SCENE-mid-autumn: same_subcat, SCENE-wedding: same_subcat, SCENE-birthday: same_subcat, SCENE-date-night: same_subcat}
 data_confidence: official

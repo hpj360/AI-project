@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Bollinger, 年份]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-bollinger-la-grande-annee-2014, ENT-wine-sparkling-real-bollinger-la-grande-annee-2014-verified, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 related_typed: {ENT-wine-real-bollinger-la-grande-annee-2014: same_brand, ENT-wine-sparkling-real-bollinger-la-grande-annee-2014-verified: same_brand, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 data_confidence: simulated

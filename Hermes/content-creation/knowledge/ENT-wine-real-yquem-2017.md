@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_dessert
 tags: [葡萄酒, 甜白葡萄酒, 波尔多, 苏玳, 滴金, 贵腐, 一级特等]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-rieussec-premier-cru, ENT-dessert-royal-tokaji-gold-label]
 related_typed: {ENT-dessert-yquem-2018: same_region, ENT-dessert-yquem-2022: same_region, ENT-dessert-suduiraut-2023: same_region, ENT-dessert-rieussec-premier-cru: same_region, ENT-dessert-royal-tokaji-gold-label: same_subcat}
 data_confidence: verified

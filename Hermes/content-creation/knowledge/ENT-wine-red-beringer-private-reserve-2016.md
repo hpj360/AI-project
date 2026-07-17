@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 纳帕谷, 美国]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-red-joseph-phelps-insignia-2016, ENT-brand-mouton-rothschild, ENT-brand-haut-brion, ENT-brand-romanee-conti, ENT-brand-penfolds-grange]
 related_typed: {ENT-wine-red-joseph-phelps-insignia-2016: same_region, ENT-brand-mouton-rothschild: same_subcat, ENT-brand-haut-brion: same_subcat, ENT-brand-romanee-conti: same_subcat, ENT-brand-penfolds-grange: same_subcat}
 data_confidence: simulated

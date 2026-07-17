@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 一级庄]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brand-latour, ENT-wine-real-latour, ENT-wine-real-clos-de-tart, ENT-wine-red-lafite-2010, ENT-wine-red-mouton-2016]
 related_typed: {ENT-brand-latour: same_brand, ENT-wine-real-latour: same_brand, ENT-wine-real-clos-de-tart: same_brand, ENT-wine-red-lafite-2010: same_region, ENT-wine-red-mouton-2016: same_region}
 data_confidence: simulated

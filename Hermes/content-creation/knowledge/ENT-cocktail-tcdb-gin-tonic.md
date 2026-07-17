@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 鸡尾酒, Cocktail]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-caipirinha, ENT-cocktail-kir, ENT-cocktail-mimosa, ENT-cocktail-bramble, ENT-cocktail-dark-n-stormy]
-related_typed: {ENT-cocktail-caipirinha: same_subcat, ENT-cocktail-kir: same_subcat, ENT-cocktail-mimosa: same_subcat, ENT-cocktail-bramble: same_subcat, ENT-cocktail-dark-n-stormy: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-caipirinha, ENT-cocktail-kir, ENT-cocktail-mimosa, ENT-cocktail-dark-n-stormy, ENT-cocktail-vesper]
+related_typed: {ENT-cocktail-caipirinha: same_subcat, ENT-cocktail-kir: same_subcat, ENT-cocktail-mimosa: same_subcat, ENT-cocktail-dark-n-stormy: same_subcat, ENT-cocktail-vesper: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

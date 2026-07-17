@@ -5,8 +5,8 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 百度百科, 河南, 赊店老酒]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baike-baijiu-ext-songhe-liangye, ENT-baike-baijiu-ext-baofeng-jiu, ENT-baike-baijiu-ext-yangshao-jiu, ENT-baijiu-luzhou-laojiao-tequ, ENT-baijiu-luzhou-guojiao-1573]
 related_typed: {ENT-baike-baijiu-ext-songhe-liangye: same_region, ENT-baike-baijiu-ext-baofeng-jiu: same_region, ENT-baike-baijiu-ext-yangshao-jiu: same_region, ENT-baijiu-luzhou-laojiao-tequ: same_subcat, ENT-baijiu-luzhou-guojiao-1573: same_subcat}
 data_confidence: verified

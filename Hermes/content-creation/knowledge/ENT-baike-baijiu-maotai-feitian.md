@@ -5,8 +5,8 @@ category: ENT
 subcategory: baijiu
 tags: [百度百科, baijiu, 飞天茅台酒]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baijiu-laimao-chuancheng, ENT-baijiu-luzhou-touqu, ENT-baijiu-jiannanchun-shuijingjian, ENT-baijiu-jiannanchun-jinjian-k6, ENT-baijiu-fenjiu-laobaifen-10]
 related_typed: {ENT-baijiu-laimao-chuancheng: same_brand, ENT-baijiu-luzhou-touqu: same_subcat, ENT-baijiu-jiannanchun-shuijingjian: same_subcat, ENT-baijiu-jiannanchun-jinjian-k6: same_subcat, ENT-baijiu-fenjiu-laobaifen-10: same_subcat}
 data_confidence: verified

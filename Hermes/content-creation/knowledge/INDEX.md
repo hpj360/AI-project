@@ -1,6 +1,6 @@
 # 知识库全局索引
 
-> content-creation 酒类知识库 | 共 2512 条目 | 由 render_kb.py 维护
+> content-creation 酒类知识库 | 共 2542 条目 | 由 render_kb.py 维护
 
 ## 白酒（117）
 
@@ -1622,10 +1622,12 @@
 - [Wild Blossom Hive2o Variety 4 Pack](./ENT-mead-wild-blossom-hive2o.md) | 蜂蜜酒 | mead
 - [云南野蜂蜜酒](./ENT-mead-yunnan-wild-honey.md) | 蜂蜜酒 | 中国
 
-## 鸡尾酒（660）
+## 鸡尾酒（690）
 
+- [逆谷物](./ENT-cocktail-against-the-grain.md) | 鸡尾酒 | 创新
 - [航空邮件](./ENT-cocktail-airmail.md) | 鸡尾酒 | 现代经典
 - [亚历山大](./ENT-cocktail-alexander.md) | 鸡尾酒 | 短饮
+- [甘酒高球](./ENT-cocktail-amazake-highball.md) | 鸡尾酒 | 创新
 - [美式利坚诺](./ENT-cocktail-americano.md) | 鸡尾酒 | IBA
 - [飞行](./ENT-cocktail-aviation.md) | 鸡尾酒 | IBA
 - [飞行鱼子酱](./ENT-cocktail-aviation-caviar.md) | 鸡尾酒 | 分子
@@ -1646,7 +1648,9 @@
 - [血腥玛丽](./ENT-cocktail-bloody-mary.md) | 鸡尾酒 | IBA
 - [血腥玛丽泡沫](./ENT-cocktail-bloody-mary-foam.md) | 鸡尾酒 | 分子
 - [血腥玛丽球](./ENT-cocktail-bloody-mary-spheres.md) | 鸡尾酒 | 分子
+- [蓝色菲士](./ENT-cocktail-blue-fizz-june.md) | 鸡尾酒 | 创新
 - [林荫大道](./ENT-cocktail-boulevardier.md) | 鸡尾酒 | 酒吧签名
+- [波本复兴](./ENT-cocktail-bourbon-renewal.md) | 鸡尾酒 | 现代经典
 - [荆棘](./ENT-cocktail-bramble.md) | 鸡尾酒 | IBA
 - [荆棘（弗雷德俱乐部版本）](./ENT-cocktail-bramble-freds.md) | 鸡尾酒 | 酒吧签名
 - [白兰地亚历山大](./ENT-cocktail-brandy-alexander.md) | 鸡尾酒 | 短饮
@@ -1657,6 +1661,7 @@
 - [白兰地斯马修](./ENT-cocktail-brandy-smash.md) | 鸡尾酒 | 斯马修
 - [布朗克斯](./ENT-cocktail-bronx.md) | 鸡尾酒 | 古典
 - [布鲁克林](./ENT-cocktail-brooklyn.md) | 鸡尾酒 | 古典
+- [焦化黄油洗油古典](./ENT-cocktail-brown-butter-fat-washed-old-fashioned.md) | 鸡尾酒 | 创新
 - [焦化黄油朗姆古典](./ENT-cocktail-brown-butter-rum-old-fashioned.md) | 鸡尾酒 | 酒吧签名
 - [棕色德比](./ENT-cocktail-brown-derby.md) | 鸡尾酒 | 现代经典
 - [公牛弹](./ENT-cocktail-bull-shot.md) | 鸡尾酒 | 短饮
@@ -1676,7 +1681,10 @@
 - [回廊](./ENT-cocktail-cloister.md) | 鸡尾酒 | 现代经典
 - [三叶草俱乐部](./ENT-cocktail-clover-club.md) | 鸡尾酒 | IBA
 - [蛇牙](./ENT-cocktail-cobras-fang.md) | 鸡尾酒 | Tiki
+- [椰子味噌酸酒](./ENT-cocktail-coconut-miso-sour.md) | 鸡尾酒 | 创新
+- [洗油朗姆潘趣](./ENT-cocktail-coconut-oil-washed-rum-punch.md) | 鸡尾酒 | 创新
 - [咖啡鸡尾酒](./ENT-cocktail-coffee-cocktail.md) | 鸡尾酒 | 古典
+- [冷披萨](./ENT-cocktail-cold-pizza.md) | 鸡尾酒 | 创新
 - [尸体复活者二号](./ENT-cocktail-corpse-reviver-2.md) | 鸡尾酒 | 禁酒令
 - [尸体复活者二号](./ENT-cocktail-corpse-reviver-no2.md) | 鸡尾酒 | 酒吧签名
 - [柯梦波丹](./ENT-cocktail-cosmopolitan.md) | 鸡尾酒 | IBA
@@ -1741,12 +1749,15 @@
 - [改良金酒鸡尾酒](./ENT-cocktail-improved-gin-cocktail.md) | 鸡尾酒 | 古典
 - [改良威士忌鸡尾酒](./ENT-cocktail-improved-whiskey-cocktail.md) | 鸡尾酒 | 酒吧签名
 - [岩石中](./ENT-cocktail-in-the-rocks.md) | 鸡尾酒 | 酒吧签名
+- [日式冷面](./ENT-cocktail-japanese-cold-noodle.md) | 鸡尾酒 | 创新
 - [茉莉](./ENT-cocktail-jasmine.md) | 鸡尾酒 | 酒吧签名
 - [茉莉花茶鸡尾酒](./ENT-cocktail-jasmine-tea-cocktail.md) | 鸡尾酒 | 亚洲
 - [丛林鸟](./ENT-cocktail-jungle-bird.md) | 鸡尾酒 | Tiki
 - [神风特攻](./ENT-cocktail-kamikaze.md) | 鸡尾酒 | IBA
 - [肯塔基巴克](./ENT-cocktail-kentucky-buck.md) | 鸡尾酒 | 现代经典
 - [基尔](./ENT-cocktail-kir.md) | 鸡尾酒 | IBA
+- [高度](./ENT-cocktail-la-altura.md) | 鸡尾酒 | 创新
+- [番茄节](./ENT-cocktail-la-tomatina-clemente.md) | 鸡尾酒 | 创新
 - [临别赠言](./ENT-cocktail-last-word.md) | 鸡尾酒 | 禁酒令
 - [液氮玛格丽特](./ENT-cocktail-liquid-nitrogen-margarita.md) | 鸡尾酒 | 分子
 - [小意大利](./ENT-cocktail-little-italy.md) | 鸡尾酒 | 现代经典
@@ -1756,6 +1767,7 @@
 - [Lyre's 尼格罗尼](./ENT-cocktail-lyres-negroni.md) | 鸡尾酒 | 无酒精
 - [迈泰](./ENT-cocktail-mai-tai.md) | 鸡尾酒 | IBA
 - [马格利鸡尾酒](./ENT-cocktail-makgeolli-cocktail.md) | 鸡尾酒 | 亚洲
+- [芒果马天尼](./ENT-cocktail-mango-martini-superbueno.md) | 鸡尾酒 | 创新
 - [曼哈顿](./ENT-cocktail-manhattan.md) | 鸡尾酒 | IBA
 - [茅台马天尼](./ENT-cocktail-maotai-martini.md) | 鸡尾酒 | 亚洲
 - [玛格丽特](./ENT-cocktail-margarita.md) | 鸡尾酒 | IBA
@@ -1765,17 +1777,26 @@
 - [马天尼珍珠](./ENT-cocktail-martini-pearls.md) | 鸡尾酒 | 分子
 - [玛丽碧克馥](./ENT-cocktail-mary-pickford.md) | 鸡尾酒 | 禁酒令
 - [蜜瓜球](./ENT-cocktail-melon-ball.md) | 鸡尾酒 | 短饮
+- [梅斯卡尔临别赠言](./ENT-cocktail-mezcal-final-word.md) | 鸡尾酒 | 现代经典
 - [梅斯卡尔尼格罗尼](./ENT-cocktail-mezcal-negroni.md) | 鸡尾酒 | 酒吧签名
+- [澄清大都会批次](./ENT-cocktail-milk-clarified-cosmo-batch.md) | 鸡尾酒 | 创新
+- [澄清丛林鸟](./ENT-cocktail-milk-clarified-jungle-bird.md) | 鸡尾酒 | 创新
+- [澄清椰林飘香](./ENT-cocktail-milk-clarified-pina-colada.md) | 鸡尾酒 | 创新
+- [澄清潘趣批次](./ENT-cocktail-milk-clarified-punch-batch.md) | 鸡尾酒 | 创新
 - [含羞草](./ENT-cocktail-mimosa.md) | 鸡尾酒 | IBA
 - [薄荷茱莉普](./ENT-cocktail-mint-julep.md) | 鸡尾酒 | 茱莉普
 - [莫吉托](./ENT-cocktail-mojito.md) | 鸡尾酒 | IBA
 - [莫吉托球](./ENT-cocktail-mojito-spheres.md) | 鸡尾酒 | 分子
 - [猴腺](./ENT-cocktail-monkey-gland.md) | 鸡尾酒 | 禁酒令
 - [蒙特塞拉特](./ENT-cocktail-montserrat.md) | 鸡尾酒 | 现代经典
+- [蘑菇玛格丽特](./ENT-cocktail-mushroom-margarita.md) | 鸡尾酒 | 创新
+- [赤裸与著名](./ENT-cocktail-naked-and-famous.md) | 鸡尾酒 | 现代经典
 - [赤裸与成名](./ENT-cocktail-naked-famous.md) | 鸡尾酒 | 现代经典
 - [海军格罗格](./ENT-cocktail-navy-grog.md) | 鸡尾酒 | Tiki
 - [尼格罗尼](./ENT-cocktail-negroni.md) | 鸡尾酒 | IBA
 - [尼格罗尼果冻](./ENT-cocktail-negroni-jelly.md) | 鸡尾酒 | 分子
+- [纽瓦克](./ENT-cocktail-newark.md) | 鸡尾酒 | 现代经典
+- [尼加拉瓜在呼唤](./ENT-cocktail-nicaragua-calling.md) | 鸡尾酒 | 创新
 - [氮气浓缩咖啡马天尼](./ENT-cocktail-nitro-espresso-martini.md) | 鸡尾酒 | 分子
 - [努伊努伊](./ENT-cocktail-nui-nui.md) | 鸡尾酒 | Tiki
 - [瓦哈卡古典](./ENT-cocktail-oaxaca-old-fashioned.md) | 鸡尾酒 | 现代经典
@@ -1785,6 +1806,7 @@
 - [止痛药](./ENT-cocktail-painkiller.md) | 鸡尾酒 | Tiki
 - [纸飞机](./ENT-cocktail-paper-plane.md) | 鸡尾酒 | 现代经典
 - [纸飞机（Attaboy 版）](./ENT-cocktail-paper-plane-attaboy.md) | 鸡尾酒 | 酒吧签名
+- [花生亚历山大](./ENT-cocktail-peanut-alexander.md) | 鸡尾酒 | 创新
 - [佩古俱乐部](./ENT-cocktail-pegu-club-cocktail.md) | 鸡尾酒 | 现代经典
 - [盘尼西林](./ENT-cocktail-penicillin.md) | 鸡尾酒 | 酒吧签名
 - [费城渔会潘趣](./ENT-cocktail-philadelphia-fish-house-punch.md) | 鸡尾酒 | 潘趣
@@ -1805,17 +1827,20 @@
 - [清酒炸弹](./ENT-cocktail-sake-bomb.md) | 鸡尾酒 | 亚洲
 - [清酒马天尼](./ENT-cocktail-sake-martini.md) | 鸡尾酒 | 亚洲
 - [清酒天尼](./ENT-cocktail-saketini.md) | 鸡尾酒 | 亚洲
+- [樱花高地](./ENT-cocktail-sakura-heights.md) | 鸡尾酒 | 创新
 - [咸狗](./ENT-cocktail-salty-dog.md) | 鸡尾酒 | IBA
 - [武士](./ENT-cocktail-samurai.md) | 鸡尾酒 | 亚洲
 - [撒旦的胡须](./ENT-cocktail-satans-whiskers.md) | 鸡尾酒 | 现代经典
 - [土星](./ENT-cocktail-saturn.md) | 鸡尾酒 | 现代经典
 - [赛泽瑞克](./ENT-cocktail-sazerac.md) | 鸡尾酒 | IBA
+- [舒马天尼](./ENT-cocktail-schmuck-martini.md) | 鸡尾酒 | 创新
 - [禁酒嘲弄者](./ENT-cocktail-scofflaw.md) | 鸡尾酒 | 古典
 - [蝎子](./ENT-cocktail-scorpion.md) | 鸡尾酒 | Tiki
 - [苏打苏格兰](./ENT-cocktail-scotch-soda.md) | 鸡尾酒 | 高球
 - [螺丝刀](./ENT-cocktail-screwdriver.md) | 鸡尾酒 | IBA
 - [海风](./ENT-cocktail-sea-breeze.md) | 鸡尾酒 | IBA
 - [Seedlip 花园菲士](./ENT-cocktail-seedlip-garden-spritz.md) | 鸡尾酒 | 无酒精
+- [洗油金汤力](./ENT-cocktail-sesame-oil-washed-gin-tonic.md) | 鸡尾酒 | 创新
 - [性感沙滩](./ENT-cocktail-sex-on-the-beach.md) | 鸡尾酒 | IBA
 - [雪利柯伯乐](./ENT-cocktail-sherry-cobbler.md) | 鸡尾酒 | 柯伯乐
 - [烧酎高球](./ENT-cocktail-shochu-highball.md) | 鸡尾酒 | 亚洲
@@ -1826,12 +1851,15 @@
 - [烟熏古典](./ENT-cocktail-smoked-old-fashioned.md) | 鸡尾酒 | 现代经典
 - [雪球](./ENT-cocktail-snowball.md) | 鸡尾酒 | 短饮
 - [烧酒莫吉托](./ENT-cocktail-soju-mojito.md) | 鸡尾酒 | 亚洲
+- [低温豆蔻金酒](./ENT-cocktail-sous-vide-cardamom-gin.md) | 鸡尾酒 | 创新
 - [真空低温尼格罗尼](./ENT-cocktail-sous-vide-negroni.md) | 鸡尾酒 | 分子
 - [真空低温古典](./ENT-cocktail-sous-vide-old-fashioned.md) | 鸡尾酒 | 分子
+- [低温香草波本](./ENT-cocktail-sous-vide-vanilla-bourbon.md) | 鸡尾酒 | 创新
 - [真空低温金酒浸渍](./ENT-cocktail-sousvide-gin-infusion.md) | 鸡尾酒 | 分子
 - [南区](./ENT-cocktail-southside.md) | 鸡尾酒 | 禁酒令
 - [毒刺](./ENT-cocktail-stinger.md) | 鸡尾酒 | 短饮
 - [苦难混蛋](./ENT-cocktail-suffering-bastard.md) | 鸡尾酒 | Tiki
+- [摩尔尼格罗尼](./ENT-cocktail-superbueno-mole-negroni.md) | 鸡尾酒 | 创新
 - [A. J.](./ENT-cocktail-tcdb-a-j.md) | 鸡尾酒 | 配方
 - [A1](./ENT-cocktail-tcdb-a1.md) | 鸡尾酒 | 配方
 - [ABC](./ENT-cocktail-tcdb-abc.md) | 鸡尾酒 | 配方
@@ -2160,6 +2188,7 @@
 - [龙舌兰日出](./ENT-cocktail-tequila-sunrise.md) | 鸡尾酒 | IBA
 - [试飞员](./ENT-cocktail-test-pilot.md) | 鸡尾酒 | Tiki
 - [试飞员（现代版）](./ENT-cocktail-test-pilot-modern.md) | 鸡尾酒 | Tiki
+- [三个盒子](./ENT-cocktail-three-boxes.md) | 鸡尾酒 | 创新
 - [三点一划](./ENT-cocktail-three-dots-and-a-dash.md) | 鸡尾酒 | Tiki
 - [东京冰茶](./ENT-cocktail-tokyo-tea.md) | 鸡尾酒 | 亚洲
 - [汤姆柯林斯](./ENT-cocktail-tom-collins.md) | 鸡尾酒 | IBA
@@ -2173,6 +2202,7 @@
 - [紫罗兰时刻主教](./ENT-cocktail-violet-hour-bishop.md) | 鸡尾酒 | 酒吧签名
 - [第八选区](./ENT-cocktail-ward-eight.md) | 鸡尾酒 | 酸酒
 - [第八选区特调](./ENT-cocktail-ward-eight-sig.md) | 鸡尾酒 | 现代经典
+- [芥末高球](./ENT-cocktail-wasabi-highball.md) | 鸡尾酒 | 创新
 - [睡莲](./ENT-cocktail-water-lily.md) | 鸡尾酒 | 酒吧签名
 - [西岸](./ENT-cocktail-westside.md) | 鸡尾酒 | 现代经典
 - [威士忌可乐球](./ENT-cocktail-whiskey-cola-spheres.md) | 鸡尾酒 | 分子

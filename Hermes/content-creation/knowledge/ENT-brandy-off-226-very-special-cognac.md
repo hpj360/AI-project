@@ -5,8 +5,8 @@ category: ENT
 subcategory: brandy
 tags: [OpenFoodFacts, brandy, 白兰地, Hennessy]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brandy-hennessy-richard, ENT-brandy-real-hennessy-master-blender, ENT-brandy-martell-vsop, ENT-brandy-martell-xo, ENT-brandy-martell-cordon-bleu]
 related_typed: {ENT-brandy-hennessy-richard: same_brand, ENT-brandy-real-hennessy-master-blender: same_brand, ENT-brandy-martell-vsop: same_subcat, ENT-brandy-martell-xo: same_subcat, ENT-brandy-martell-cordon-bleu: same_subcat}
 data_confidence: verified

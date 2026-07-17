@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-b-52, ENT-cocktail-black-russian, ENT-cocktail-white-russian, ENT-cocktail-caipirinha, ENT-cocktail-kir]
-related_typed: {ENT-cocktail-b-52: same_subcat, ENT-cocktail-black-russian: same_subcat, ENT-cocktail-white-russian: same_subcat, ENT-cocktail-caipirinha: same_subcat, ENT-cocktail-kir: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-caipirinha, ENT-cocktail-kir, ENT-cocktail-mimosa, ENT-cocktail-bramble, ENT-cocktail-dark-n-stormy]
+related_typed: {ENT-cocktail-caipirinha: same_subcat, ENT-cocktail-kir: same_subcat, ENT-cocktail-mimosa: same_subcat, ENT-cocktail-bramble: same_subcat, ENT-cocktail-dark-n-stormy: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

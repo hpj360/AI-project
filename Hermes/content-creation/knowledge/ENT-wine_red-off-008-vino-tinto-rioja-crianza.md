@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [OpenFoodFacts, wine_red, 红葡萄酒, El Coto]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine_white-off-030-el-coto-blanc, ENT-baike-wine-helanshan-putaojiu, ENT-brand-lafite-rothschild, ENT-brand-latour, ENT-baike-wine-zhangyu-putaojiu]
 related_typed: {ENT-wine_white-off-030-el-coto-blanc: same_brand, ENT-baike-wine-helanshan-putaojiu: cross_region, ENT-brand-lafite-rothschild: cross_region, ENT-brand-latour: cross_region, ENT-baike-wine-zhangyu-putaojiu: same_subcat}
 data_confidence: verified

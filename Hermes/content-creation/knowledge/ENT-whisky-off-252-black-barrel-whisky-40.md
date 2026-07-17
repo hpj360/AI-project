@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, JAMESON]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-whisky-jameson, ENT-whisky-jameson-black-barrel, ENT-whisky-off-243-whisky-40, ENT-brand-glenlivet-12, ENT-brand-lagavulin-16]
 related_typed: {ENT-whisky-jameson: same_brand, ENT-whisky-jameson-black-barrel: same_brand, ENT-whisky-off-243-whisky-40: same_region, ENT-brand-glenlivet-12: cross_region, ENT-brand-lagavulin-16: same_subcat}
 data_confidence: verified

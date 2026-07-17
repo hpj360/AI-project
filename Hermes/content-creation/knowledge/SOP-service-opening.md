@@ -5,8 +5,8 @@ category: ENT
 subcategory: pairing
 tags: [侍酒, 开瓶, 海马刀, 操作规范, SOP]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [SOP-service-decanting, SOP-service-pouring, SOP-service-temperature-red, SOP-service-temperature-white, SOP-service-temperature-sparkling]
 related_typed: {SOP-service-decanting: same_subcat, SOP-service-pouring: same_subcat, SOP-service-temperature-red: same_subcat, SOP-service-temperature-white: same_subcat, SOP-service-temperature-sparkling: same_subcat}
 data_confidence: official

@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 西班牙, 杜罗河岸, 丹魄, Ribera del Duero]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baike-wine-changcheng-putaojiu, ENT-baike-wine-wangchao-putaojiu, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-helanshan-putaojiu, ENT-baike-wine-tonghua-putaojiu]
 related_typed: {ENT-baike-wine-changcheng-putaojiu: cross_region, ENT-baike-wine-wangchao-putaojiu: cross_region, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-helanshan-putaojiu: same_subcat, ENT-baike-wine-tonghua-putaojiu: same_subcat}
 data_confidence: official

@@ -5,8 +5,8 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 浓香, 四川, 水井坊]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baijiu-shuijingfang-jingtai, ENT-baike-baijiu-ext-shuijingfang, ENT-baijiu-quanxing-daqu, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince]
 related_typed: {ENT-baijiu-shuijingfang-jingtai: same_brand, ENT-baike-baijiu-ext-shuijingfang: same_brand, ENT-baijiu-quanxing-daqu: same_region, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: same_subcat}
 data_confidence: simulated

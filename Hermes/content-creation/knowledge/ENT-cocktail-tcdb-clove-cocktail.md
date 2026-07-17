@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-mai-tai, ENT-cocktail-pina-colada, ENT-cocktail-sea-breeze, ENT-cocktail-sex-on-the-beach, ENT-cocktail-tequila-sunrise]
-related_typed: {ENT-cocktail-mai-tai: same_subcat, ENT-cocktail-pina-colada: same_subcat, ENT-cocktail-sea-breeze: same_subcat, ENT-cocktail-sex-on-the-beach: same_subcat, ENT-cocktail-tequila-sunrise: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-pina-colada, ENT-cocktail-sea-breeze, ENT-cocktail-sex-on-the-beach, ENT-cocktail-tequila-sunrise, ENT-cocktail-b-52]
+related_typed: {ENT-cocktail-pina-colada: same_subcat, ENT-cocktail-sea-breeze: same_subcat, ENT-cocktail-sex-on-the-beach: same_subcat, ENT-cocktail-tequila-sunrise: same_subcat, ENT-cocktail-b-52: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

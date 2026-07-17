@@ -5,8 +5,8 @@ category: ENT
 subcategory: grape
 tags: [葡萄品种, 红品种, 赤霞珠, 波尔多]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [GRAPE-merlot, GRAPE-pinot-noir, GRAPE-syrah, GRAPE-grenache, GRAPE-malbec]
 related_typed: {GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat, GRAPE-malbec: same_subcat}
 data_confidence: official

@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_rose
 tags: [桃红, 澳洲, Barossa, Charles Melton]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-rose-whistler-rose-2020, ENT-wine-rose-whispering-angel-2024, ENT-wine-rose-domaine-tempier-bandol-2025, ENT-wine-rose-miraval-2020, ENT-wine-rose-minuty-m-2025]
 related_typed: {ENT-wine-rose-whistler-rose-2020: same_region, ENT-wine-rose-whispering-angel-2024: cross_region, ENT-wine-rose-domaine-tempier-bandol-2025: cross_region, ENT-wine-rose-miraval-2020: cross_region, ENT-wine-rose-minuty-m-2025: same_subcat}
 data_confidence: simulated

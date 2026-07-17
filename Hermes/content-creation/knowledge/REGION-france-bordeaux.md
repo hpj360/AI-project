@@ -5,8 +5,8 @@ category: ENT
 subcategory: region
 tags: [产区风土, 法国, 波尔多, 赤霞珠, 美乐]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [REGION-france-burgundy, REGION-france-champagne, REGION-france-rhone, REGION-france-loire, REGION-france-alsace]
 related_typed: {REGION-france-burgundy: same_subcat, REGION-france-champagne: same_subcat, REGION-france-rhone: same_subcat, REGION-france-loire: same_subcat, REGION-france-alsace: same_subcat}
 data_confidence: official

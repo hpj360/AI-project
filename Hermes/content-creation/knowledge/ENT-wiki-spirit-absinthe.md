@@ -5,8 +5,8 @@ category: ENT
 subcategory: other_spirit
 tags: [烈酒, 苦艾酒, 茴香, 瑞士]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wiki-spirit-soju, ENT-wiki-spirit-baijiu-intro, ENT-wiki-spirit-arak, ENT-wiki-spirit-grappa, ENT-wiki-spirit-eau-de-vie]
 related_typed: {ENT-wiki-spirit-soju: same_subcat, ENT-wiki-spirit-baijiu-intro: same_subcat, ENT-wiki-spirit-arak: same_subcat, ENT-wiki-spirit-grappa: same_subcat, ENT-wiki-spirit-eau-de-vie: same_subcat}
 data_confidence: verified

@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Louis Roederer, 年份]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-cristal, ENT-wine-real-cristal-2014, ENT-wine-red-pichon-lalande-2016, ENT-wine-sparkling-krug-grande-cuvee-170, ENT-wine-sparkling-taittinger-comtes-2013]
 related_typed: {ENT-wine-real-cristal: same_brand, ENT-wine-real-cristal-2014: same_brand, ENT-wine-red-pichon-lalande-2016: same_brand, ENT-wine-sparkling-krug-grande-cuvee-170: same_region, ENT-wine-sparkling-taittinger-comtes-2013: same_region}
 data_confidence: simulated

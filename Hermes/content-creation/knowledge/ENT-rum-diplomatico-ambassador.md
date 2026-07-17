@@ -5,8 +5,8 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 委内瑞拉, Diplomatico, 限量]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-rum-diplomatico-reserva-exclusiva, ENT-rum-off-162-captain-morgan-spiced-gold, ENT-rum-off-163-rhum-negrita, ENT-rum-off-164-bumbu-original-rum-40, ENT-rum-off-165-rhum-ambr]
 related_typed: {ENT-rum-diplomatico-reserva-exclusiva: same_brand, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat, ENT-rum-off-163-rhum-negrita: same_subcat, ENT-rum-off-164-bumbu-original-rum-40: same_subcat, ENT-rum-off-165-rhum-ambr: same_subcat}
 data_confidence: simulated

@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Moët, Grand Vintage, 年份, LVMH]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-dom-perignon, ENT-wine-real-moet-chandon, ENT-wine-real-dom-perignon-2012, ENT-wine-sparkling-real-veuve-clicquot-yellow-label-nv, ENT-wine-sparkling-real-krug-grande-cuvee-171]
 related_typed: {ENT-wine-real-dom-perignon: same_brand, ENT-wine-real-moet-chandon: same_brand, ENT-wine-real-dom-perignon-2012: same_brand, ENT-wine-sparkling-real-veuve-clicquot-yellow-label-nv: same_region, ENT-wine-sparkling-real-krug-grande-cuvee-171: same_region}
 data_confidence: verified

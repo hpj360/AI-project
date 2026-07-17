@@ -5,8 +5,8 @@ category: ENT
 subcategory: collect
 tags: [收藏投资, 葡萄酒, 入门, 储存]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [DEC-collect-vintage-chart, DEC-collect-livex, DEC-collect-auction, DEC-collect-whisky, DEC-collect-baijiu]
 related_typed: {DEC-collect-vintage-chart: same_subcat, DEC-collect-livex: same_subcat, DEC-collect-auction: same_subcat, DEC-collect-whisky: same_subcat, DEC-collect-baijiu: same_subcat}
 data_confidence: verified

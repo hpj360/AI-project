@@ -5,8 +5,8 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, Plantation, 巴巴多斯, 过桶, 法国橡木桶, XO]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-rum-real-mount-gay-xo, ENT-rum-real-mount-gay-black-barrel, ENT-rum-real-bumbu, ENT-rum-off-165-rhum-ambr, ENT-rum-off-166-rhum-blanc-traditionnel]
 related_typed: {ENT-rum-real-mount-gay-xo: same_region, ENT-rum-real-mount-gay-black-barrel: same_region, ENT-rum-real-bumbu: same_region, ENT-rum-off-165-rhum-ambr: same_subcat, ENT-rum-off-166-rhum-blanc-traditionnel: same_subcat}
 data_confidence: verified

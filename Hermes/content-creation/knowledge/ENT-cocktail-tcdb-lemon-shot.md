@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 烈酒shot, Shot]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-old-fashioned, ENT-cocktail-martinez, ENT-cocktail-mint-julep, ENT-cocktail-brandy-fix, ENT-cocktail-port-sangaree]
-related_typed: {ENT-cocktail-old-fashioned: same_subcat, ENT-cocktail-martinez: same_subcat, ENT-cocktail-mint-julep: same_subcat, ENT-cocktail-brandy-fix: same_subcat, ENT-cocktail-port-sangaree: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-mint-julep, ENT-cocktail-port-sangaree, ENT-cocktail-hot-toddy, ENT-cocktail-bees-knees, ENT-cocktail-monkey-gland]
+related_typed: {ENT-cocktail-mint-julep: same_subcat, ENT-cocktail-port-sangaree: same_subcat, ENT-cocktail-hot-toddy: same_subcat, ENT-cocktail-bees-knees: same_subcat, ENT-cocktail-monkey-gland: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 意大利, 超级托斯卡纳, 梅洛]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-red-ornellaia-2016, ENT-wine-red-sassicaia-2016, ENT-brand-mouton-rothschild, ENT-brand-haut-brion, ENT-brand-romanee-conti]
 related_typed: {ENT-wine-red-ornellaia-2016: same_brand, ENT-wine-red-sassicaia-2016: same_region, ENT-brand-mouton-rothschild: same_subcat, ENT-brand-haut-brion: same_subcat, ENT-brand-romanee-conti: same_subcat}
 data_confidence: simulated

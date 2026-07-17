@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 皮尔森, 丹麦, 嘉士伯]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-beer-carlsberg, ENT-fruit-wine-somersby, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu]
 related_typed: {ENT-beer-carlsberg: same_brand, ENT-fruit-wine-somersby: same_brand, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat}
 data_confidence: verified

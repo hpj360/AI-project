@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 鸡尾酒, Cocktail]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-port-sangaree, ENT-cocktail-hot-toddy, ENT-cocktail-bees-knees, ENT-cocktail-monkey-gland, ENT-cocktail-southside]
-related_typed: {ENT-cocktail-port-sangaree: same_subcat, ENT-cocktail-hot-toddy: same_subcat, ENT-cocktail-bees-knees: same_subcat, ENT-cocktail-monkey-gland: same_subcat, ENT-cocktail-southside: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-hot-toddy, ENT-cocktail-monkey-gland, ENT-cocktail-southside, ENT-cocktail-french-75, ENT-cocktail-corpse-reviver-2]
+related_typed: {ENT-cocktail-hot-toddy: same_subcat, ENT-cocktail-monkey-gland: same_subcat, ENT-cocktail-southside: same_subcat, ENT-cocktail-french-75: same_subcat, ENT-cocktail-corpse-reviver-2: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

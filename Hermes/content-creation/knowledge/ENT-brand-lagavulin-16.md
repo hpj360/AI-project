@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 苏格兰, 艾雷岛, 单一麦芽, 泥煤]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brand-laphroaig-10, ENT-brand-glenlivet-12, ENT-brand-johnnie-walker-black, ENT-brand-chivas-regal-12, ENT-brand-jack-daniels-no7]
 related_typed: {ENT-brand-laphroaig-10: same_region, ENT-brand-glenlivet-12: cross_region, ENT-brand-johnnie-walker-black: cross_region, ENT-brand-chivas-regal-12: same_subcat, ENT-brand-jack-daniels-no7: same_subcat}
 data_confidence: official

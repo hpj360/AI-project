@@ -5,8 +5,8 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 久保田]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-sake-kubota-senju, ENT-sake-kubota-suiju, ENT-sake-kubota-hyakuju, ENT-sake-kubota-hachiban, ENT-sake-kubota-kuradashi-genshu]
 related_typed: {ENT-sake-kubota-senju: same_brand, ENT-sake-kubota-suiju: same_brand, ENT-sake-kubota-hyakuju: same_brand, ENT-sake-kubota-hachiban: same_region, ENT-sake-kubota-kuradashi-genshu: same_region}
 data_confidence: simulated

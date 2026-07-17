@@ -5,8 +5,8 @@ category: ENT
 subcategory: grape
 tags: [葡萄品种, 白品种, 密斯卡岱, 麝香葡萄, 芳香品种]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [GRAPE-cabernet-sauvignon, GRAPE-merlot, GRAPE-pinot-noir, GRAPE-syrah, GRAPE-grenache]
 related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-syrah: same_subcat, GRAPE-grenache: same_subcat}
 data_confidence: official

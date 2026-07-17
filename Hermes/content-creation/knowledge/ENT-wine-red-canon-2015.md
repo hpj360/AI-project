@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 波尔多, 圣埃美隆]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-red-rauzan-segla-2016, ENT-wine-red-cheval-blanc-2015, ENT-wine-red-ausone-2015, ENT-wine-red-pavie-2015, ENT-wine-red-angelus-2015]
 related_typed: {ENT-wine-red-rauzan-segla-2016: same_brand, ENT-wine-red-cheval-blanc-2015: same_region, ENT-wine-red-ausone-2015: same_region, ENT-wine-red-pavie-2015: same_region, ENT-wine-red-angelus-2015: same_region}
 data_confidence: simulated

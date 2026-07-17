@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 日本, 单一麦芽]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-whisky-yoichi-10, ENT-whisky-yoichi-15, ENT-whisky-taketsuru-17, ENT-brand-jim-beam-white, ENT-brand-yamazaki-12]
 related_typed: {ENT-whisky-yoichi-10: same_brand, ENT-whisky-yoichi-15: same_brand, ENT-whisky-taketsuru-17: same_brand, ENT-brand-jim-beam-white: same_subcat, ENT-brand-yamazaki-12: same_subcat}
 data_confidence: simulated

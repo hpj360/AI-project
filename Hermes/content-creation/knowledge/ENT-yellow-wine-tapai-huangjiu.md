@@ -5,8 +5,8 @@ category: ENT
 subcategory: yellow_wine
 tags: [黄酒, 绍兴, 塔牌, 手工, 冬酿]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 data_confidence: simulated
 version: 1
 related: [ENT-yellow-wine-tapai, ENT-yellow-guyuelongshan-10year, ENT-yellow-guyuelongshan-8year-king, ENT-yellow-guyuelongshan-5year, ENT-yellow-guyuelongshan-3year]

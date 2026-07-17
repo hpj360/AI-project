@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 当代经典（Contemporary Classics）, Bloody Mary, 摇和]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-baijiu-sour, ENT-cocktail-maotai-martini, ENT-cocktail-chinese-colada, ENT-cocktail-earl-grey-martini, ENT-cocktail-jasmine-tea-cocktail]
-related_typed: {ENT-cocktail-baijiu-sour: same_subcat, ENT-cocktail-maotai-martini: same_subcat, ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-earl-grey-martini: same_subcat, ENT-cocktail-jasmine-tea-cocktail: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-chinese-colada, ENT-cocktail-jasmine-tea-cocktail, ENT-cocktail-yuzu-margarita, ENT-cocktail-lychee-martini, ENT-cocktail-negroni]
+related_typed: {ENT-cocktail-chinese-colada: same_subcat, ENT-cocktail-jasmine-tea-cocktail: same_subcat, ENT-cocktail-yuzu-margarita: same_subcat, ENT-cocktail-lychee-martini: same_subcat, ENT-cocktail-negroni: same_subcat}
 data_confidence: official
 data_source: IBA Official
 version: 1

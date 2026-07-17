@@ -5,8 +5,8 @@ category: ENT
 subcategory: sake
 tags: [清酒, 纯米大吟酿, 日本, 久保田]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baike-sake-juyondai, ENT-baike-sake-hakutsuru, ENT-sake-real-dassai-23, ENT-sake-real-hakkaisan-tokubetsu-junmai, ENT-sake-real-juyondai]
 related_typed: {ENT-baike-sake-juyondai: cross_region, ENT-baike-sake-hakutsuru: cross_region, ENT-sake-real-dassai-23: cross_region, ENT-sake-real-hakkaisan-tokubetsu-junmai: cross_region, ENT-sake-real-juyondai: same_subcat}
 data_confidence: verified

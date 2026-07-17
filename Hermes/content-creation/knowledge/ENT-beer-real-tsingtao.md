@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 拉格, 中国, 青岛]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-beer-tsingtao, ENT-beer-tsingtao-pure-draft, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu, ENT-baike-beer-lanzhou-huanghe]
 related_typed: {ENT-beer-tsingtao: same_brand, ENT-beer-tsingtao-pure-draft: same_brand, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat, ENT-baike-beer-lanzhou-huanghe: same_subcat}
 data_confidence: verified

@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 比利时, 智美, 修道院啤酒, 四料]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-beer-chimay-red, ENT-beer-chimay-gold, ENT-baike-beer-qingdao-pijiu, ENT-baike-beer-yanjing-pijiu, ENT-baike-beer-xuehua-pijiu]
 related_typed: {ENT-beer-chimay-red: same_brand, ENT-beer-chimay-gold: same_brand, ENT-baike-beer-qingdao-pijiu: cross_region, ENT-baike-beer-yanjing-pijiu: cross_region, ENT-baike-beer-xuehua-pijiu: same_subcat}
 data_confidence: simulated

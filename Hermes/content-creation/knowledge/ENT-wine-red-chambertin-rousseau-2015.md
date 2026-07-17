@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 勃艮第, 特级园, 热夫雷]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-chambertin-armand-rousseau, ENT-wine-red-latricieres-chambertin-2015, ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu, ENT-brand-latour]
 related_typed: {ENT-wine-real-chambertin-armand-rousseau: same_brand, ENT-wine-red-latricieres-chambertin-2015: same_region, ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-latour: same_subcat}
 data_confidence: simulated

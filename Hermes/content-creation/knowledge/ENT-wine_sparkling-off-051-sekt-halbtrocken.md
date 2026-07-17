@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_sparkling
 tags: [OpenFoodFacts, wine_sparkling, 起泡酒, Rotkäppchen]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine_sparkling-off-053-sekt, ENT-wine_sparkling-off-055-sekt-mild, ENT-brand-moet-chandon-imperial, ENT-brand-dom-perignon, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise]
 related_typed: {ENT-wine_sparkling-off-053-sekt: same_brand, ENT-wine_sparkling-off-055-sekt-mild: same_brand, ENT-brand-moet-chandon-imperial: cross_region, ENT-brand-dom-perignon: cross_region, ENT-wine_sparkling-off-047-p-tillant-de-listel-framboise: same_subcat}
 data_confidence: verified

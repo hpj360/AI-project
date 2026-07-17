@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 禁酒令, 金酒, 查特酒, 均衡]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-bull-shot, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry, ENT-cocktail-sake-martini]
-related_typed: {ENT-cocktail-bull-shot: same_region, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail, ENT-gin-tanqueray-london-dry: base_to_cocktail, ENT-cocktail-sake-martini: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-bull-shot, ENT-cocktail-mezcal-final-word, ENT-gin-bombay-sapphire, ENT-gin-bombay-sapphire-east, ENT-gin-tanqueray-london-dry]
+related_typed: {ENT-cocktail-bull-shot: same_region, ENT-cocktail-mezcal-final-word: same_region, ENT-gin-bombay-sapphire: base_to_cocktail, ENT-gin-bombay-sapphire-east: base_to_cocktail, ENT-gin-tanqueray-london-dry: base_to_cocktail}
 data_confidence: simulated
 data_source: 禁酒令时代配方
 version: 1

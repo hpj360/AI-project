@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 啤酒厂, 精酿微型酒厂, South Africa]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-beer-harbin, ENT-beer-yanjing, ENT-beer-corona, ENT-beer-tsingtao-pure-draft, ENT-beer-bud-ice]
 related_typed: {ENT-beer-harbin: same_subcat, ENT-beer-yanjing: same_subcat, ENT-beer-corona: same_subcat, ENT-beer-tsingtao-pure-draft: same_subcat, ENT-beer-bud-ice: same_subcat}
 data_confidence: verified

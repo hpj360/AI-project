@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_sparkling
 tags: [葡萄酒, 香槟, 法国, Dom Pérignon, LVMH, 年份香槟, 黑中白]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-dom-perignon, ENT-wine-real-moet-chandon, ENT-wine-sparkling-real-moet-grand-vintage-2015, ENT-wine-real-veuve-clicquot, ENT-wine-real-krug]
 related_typed: {ENT-wine-real-dom-perignon: same_brand, ENT-wine-real-moet-chandon: same_brand, ENT-wine-sparkling-real-moet-grand-vintage-2015: same_brand, ENT-wine-real-veuve-clicquot: same_region, ENT-wine-real-krug: same_region}
 data_confidence: verified

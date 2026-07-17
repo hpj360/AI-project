@@ -5,8 +5,8 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 兼香, 湖北, 白云边]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baijiu-baiyunbian-20nian, ENT-baike-baijiu-ext-baiyun-bian, ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-1618, ENT-baijiu-wuliangye-jiaobei]
 related_typed: {ENT-baijiu-baiyunbian-20nian: same_brand, ENT-baike-baijiu-ext-baiyun-bian: same_brand, ENT-baijiu-wuliangye-puwu: cross_region, ENT-baijiu-wuliangye-1618: cross_region, ENT-baijiu-wuliangye-jiaobei: same_subcat}
 data_confidence: simulated

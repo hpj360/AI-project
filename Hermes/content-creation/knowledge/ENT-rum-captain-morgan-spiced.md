@@ -5,8 +5,8 @@ category: ENT
 subcategory: rum
 tags: [朗姆酒, 英国, 摩根船长, 香料朗姆]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-rum-off-165-rhum-ambr, ENT-rum-captain-morgan-black, ENT-brand-diplomatico-reserva, ENT-brand-ron-zacapa-23, ENT-rum-off-162-captain-morgan-spiced-gold]
 related_typed: {ENT-rum-off-165-rhum-ambr: same_brand, ENT-rum-captain-morgan-black: same_brand, ENT-brand-diplomatico-reserva: cross_region, ENT-brand-ron-zacapa-23: cross_region, ENT-rum-off-162-captain-morgan-spiced-gold: same_subcat}
 data_confidence: simulated

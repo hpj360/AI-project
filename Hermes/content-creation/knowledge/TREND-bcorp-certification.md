@@ -5,8 +5,8 @@ category: ENT
 subcategory: trend
 tags: [行业趋势, B Corp, 社会责任, 可持续]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [TREND-low-alcohol-rise, TREND-dealcoholization-tech, TREND-non-alcoholic-beer, TREND-non-alcoholic-wine, TREND-low-abv-cocktail]
 related_typed: {TREND-low-alcohol-rise: same_subcat, TREND-dealcoholization-tech: same_subcat, TREND-non-alcoholic-beer: same_subcat, TREND-non-alcoholic-wine: same_subcat, TREND-low-abv-cocktail: same_subcat}
 data_confidence: verified

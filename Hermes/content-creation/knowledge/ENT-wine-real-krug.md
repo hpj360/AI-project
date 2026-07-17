@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, LVMH, 霞多丽, 黑皮诺, 皮诺莫尼耶]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-krug-grand-cuvee, ENT-wine-sparkling-real-krug-grande-cuvee-171, ENT-wine-real-dom-perignon, ENT-wine-real-moet-chandon, ENT-wine-real-veuve-clicquot]
 related_typed: {ENT-wine-real-krug-grand-cuvee: same_brand, ENT-wine-sparkling-real-krug-grande-cuvee-171: same_brand, ENT-wine-real-dom-perignon: same_region, ENT-wine-real-moet-chandon: same_region, ENT-wine-real-veuve-clicquot: same_region}
 data_confidence: official

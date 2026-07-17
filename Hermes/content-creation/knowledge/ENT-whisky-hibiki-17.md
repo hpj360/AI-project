@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 日本, 调和威士忌]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-gin-roku, ENT-whisky-yamazaki-12, ENT-whisky-yamazaki-18, ENT-brand-hibiki-harmony, ENT-whisky-hibiki-21]
 related_typed: {ENT-gin-roku: same_brand, ENT-whisky-yamazaki-12: same_brand, ENT-whisky-yamazaki-18: same_brand, ENT-brand-hibiki-harmony: same_region, ENT-whisky-hibiki-21: same_region}
 data_confidence: simulated

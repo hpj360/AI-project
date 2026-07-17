@@ -5,8 +5,8 @@ category: ENT
 subcategory: tequila
 tags: [龙舌兰, 墨西哥, 唐胡里奥, Blanco]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-tequila-real-don-julio-1942, ENT-tequila-real-don-julio-anejo, ENT-brand-jose-cuervo-especial, ENT-brand-patron-silver, ENT-brand-sauza-blanco]
 related_typed: {ENT-tequila-real-don-julio-1942: same_brand, ENT-tequila-real-don-julio-anejo: same_brand, ENT-brand-jose-cuervo-especial: same_region, ENT-brand-patron-silver: same_region, ENT-brand-sauza-blanco: same_region}
 data_confidence: official

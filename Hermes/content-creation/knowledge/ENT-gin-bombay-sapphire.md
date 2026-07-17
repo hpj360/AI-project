@@ -5,8 +5,8 @@ category: ENT
 subcategory: gin
 tags: [金酒, gin, 英国, Bombay Sapphire, London Dry, 10种植物]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-gin-off-124-gin-tonic, ENT-gin-off-127-bombay-sapphire-london-dry-gin, ENT-gin-tanqueray-no-ten, ENT-gin-tanqueray-rangpur, ENT-gin-gordons-london-dry]
 related_typed: {ENT-gin-off-124-gin-tonic: same_brand, ENT-gin-off-127-bombay-sapphire-london-dry-gin: same_brand, ENT-gin-tanqueray-no-ten: cross_region, ENT-gin-tanqueray-rangpur: cross_region, ENT-gin-gordons-london-dry: same_subcat}
 data_confidence: verified

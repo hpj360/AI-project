@@ -5,8 +5,8 @@ category: ENT
 subcategory: collect
 tags: [收藏投资, 拍卖, 苏富比, 佳士得, 跨境物流]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [DEC-collect-basics, DEC-collect-vintage-chart, DEC-collect-livex, DEC-collect-whisky, DEC-collect-baijiu]
 related_typed: {DEC-collect-basics: same_subcat, DEC-collect-vintage-chart: same_subcat, DEC-collect-livex: same_subcat, DEC-collect-whisky: same_subcat, DEC-collect-baijiu: same_subcat}
 data_confidence: verified

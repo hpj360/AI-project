@@ -5,8 +5,8 @@ category: ENT
 subcategory: pairing
 tags: [酱汁, 红酒汁, 奶油汁, 番茄酱, 搭配方法]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [SOP-service-temperature-sparkling, SOP-service-temperature-spirits, SOP-service-temperature-sake, SOP-service-order, SOP-service-restaurant]
 related_typed: {SOP-service-temperature-sparkling: same_subcat, SOP-service-temperature-spirits: same_subcat, SOP-service-temperature-sake: same_subcat, SOP-service-order: same_subcat, SOP-service-restaurant: same_subcat}
 data_confidence: official

@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [OpenFoodFacts, whisky, 威士忌, Johnnie Walker]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey, ENT-whisky-off-249-jhonnie-walker-red-label-1l, ENT-whisky-off-270-red-label, ENT-brand-laphroaig-10, ENT-brand-johnnie-walker-black]
 related_typed: {ENT-whisky-off-244-johnnie-walker-red-label-blended-scotch-whiskey: same_brand, ENT-whisky-off-249-jhonnie-walker-red-label-1l: same_brand, ENT-whisky-off-270-red-label: same_brand, ENT-brand-laphroaig-10: cross_region, ENT-brand-johnnie-walker-black: same_subcat}
 data_confidence: verified

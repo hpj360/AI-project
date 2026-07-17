@@ -5,8 +5,8 @@ category: ENT
 subcategory: sake
 tags: [百度百科, sake, 十四代]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baike-sake-hakutsuru, ENT-sake-real-dassai-23, ENT-sake-real-kubota-senjuu, ENT-sake-real-hakkaisan-tokubetsu-junmai, ENT-sake-real-juyondai]
 related_typed: {ENT-baike-sake-hakutsuru: cross_region, ENT-sake-real-dassai-23: cross_region, ENT-sake-real-kubota-senjuu: cross_region, ENT-sake-real-hakkaisan-tokubetsu-junmai: cross_region, ENT-sake-real-juyondai: same_subcat}
 data_confidence: verified

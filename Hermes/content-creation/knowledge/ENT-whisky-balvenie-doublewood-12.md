@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, whisky, 苏格兰, Speyside, Balvenie, 双桶, 12年]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-whisky-glenfiddich-12, ENT-whisky-glenfiddich-18, ENT-whisky-glenlivet-18, ENT-brand-jack-daniels-no7, ENT-brand-jim-beam-white]
 related_typed: {ENT-whisky-glenfiddich-12: same_region, ENT-whisky-glenfiddich-18: same_region, ENT-whisky-glenlivet-18: same_region, ENT-brand-jack-daniels-no7: same_subcat, ENT-brand-jim-beam-white: same_subcat}
 data_confidence: verified

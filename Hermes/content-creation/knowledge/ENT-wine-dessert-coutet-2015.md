@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_dessert
 tags: [甜酒, 巴萨克, Coutet, 一级庄]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-dessert-climens-2015, ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-royal-tokaji-gold-label]
 related_typed: {ENT-wine-dessert-climens-2015: same_region, ENT-dessert-yquem-2018: cross_region, ENT-dessert-yquem-2022: cross_region, ENT-dessert-suduiraut-2023: cross_region, ENT-dessert-royal-tokaji-gold-label: same_subcat}
 data_confidence: simulated

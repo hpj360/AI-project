@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 现代经典, 黑麦, 酸酒, 波士顿]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-ward-eight, ENT-cocktail-samurai, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail]
-related_typed: {ENT-cocktail-ward-eight: same_region, ENT-cocktail-samurai: cross_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-ward-eight, ENT-cocktail-soju-mojito, ENT-cocktail-shochu-highball, ENT-cocktail-makgeolli-cocktail, ENT-cocktail-baijiu-sour]
+related_typed: {ENT-cocktail-ward-eight: same_region, ENT-cocktail-soju-mojito: same_subcat, ENT-cocktail-shochu-highball: same_subcat, ENT-cocktail-makgeolli-cocktail: same_subcat, ENT-cocktail-baijiu-sour: same_subcat}
 data_confidence: simulated
 data_source: Locke-Ober 配方
 version: 1

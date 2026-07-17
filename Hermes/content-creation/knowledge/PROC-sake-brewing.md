@@ -5,8 +5,8 @@ category: ENT
 subcategory: process
 tags: [酿造工艺, 清酒, 麹, 日本酒, 并行复发酵]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [PROC-fermentation-basics, PROC-fermentation-wild-vs-commercial, PROC-distillation-pot-still, PROC-distillation-column-still, PROC-aging-oak-types]
 related_typed: {PROC-fermentation-basics: same_subcat, PROC-fermentation-wild-vs-commercial: same_subcat, PROC-distillation-pot-still: same_subcat, PROC-distillation-column-still: same_subcat, PROC-aging-oak-types: same_subcat}
 data_confidence: official

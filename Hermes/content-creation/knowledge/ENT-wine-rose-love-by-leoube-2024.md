@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_rose
 tags: [桃红, rosé, 法国, 普罗旺斯, Gold Medal]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-rose-domaines-ott-by-ott, ENT-wine-rose-galoupet-g-2024, ENT-wine-rose-sainte-marguerite-fantastique-2024, ENT-wine-rose-whispering-angel-2024, ENT-wine-rose-domaine-tempier-bandol-2025]
 related_typed: {ENT-wine-rose-domaines-ott-by-ott: same_region, ENT-wine-rose-galoupet-g-2024: same_region, ENT-wine-rose-sainte-marguerite-fantastique-2024: same_region, ENT-wine-rose-whispering-angel-2024: cross_region, ENT-wine-rose-domaine-tempier-bandol-2025: same_subcat}
 data_confidence: verified

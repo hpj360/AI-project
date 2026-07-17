@@ -5,8 +5,8 @@ category: ENT
 subcategory: rice_wine
 tags: [米酒, 米香型白酒, 桂林, 广西]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-rice-guilin-san-hua-52, ENT-rice-guilin-san-hua-dongzang-10, ENT-rice-wine-guilin-sanhua-mijiu, ENT-rice-lijiang-san-hua-52, ENT-rice-lijiang-san-hua-28]
 related_typed: {ENT-rice-guilin-san-hua-52: same_brand, ENT-rice-guilin-san-hua-dongzang-10: same_brand, ENT-rice-wine-guilin-sanhua-mijiu: same_brand, ENT-rice-lijiang-san-hua-52: same_region, ENT-rice-lijiang-san-hua-28: same_region}
 data_confidence: simulated

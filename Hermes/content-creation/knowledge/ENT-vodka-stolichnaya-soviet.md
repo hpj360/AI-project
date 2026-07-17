@@ -5,8 +5,8 @@ category: ENT
 subcategory: vodka
 tags: [伏特加, 俄罗斯, 红牌, 复古]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-vodka-stoli, ENT-vodka-stolichnaya, ENT-vodka-kristall, ENT-vodka-polugar, ENT-vodka-off-142-poliakov]
 related_typed: {ENT-vodka-stoli: same_brand, ENT-vodka-stolichnaya: same_brand, ENT-vodka-kristall: same_region, ENT-vodka-polugar: same_region, ENT-vodka-off-142-poliakov: same_subcat}
 data_confidence: simulated

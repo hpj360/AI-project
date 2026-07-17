@@ -5,8 +5,8 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 獭祭]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-sake-dassai-23, ENT-sake-dassai-39, ENT-sake-dassai-45, ENT-sake-dassai-39-nigori, ENT-sake-dassai-23-nigori]
 related_typed: {ENT-sake-dassai-23: same_brand, ENT-sake-dassai-39: same_brand, ENT-sake-dassai-45: same_brand, ENT-sake-dassai-39-nigori: same_region, ENT-sake-dassai-23-nigori: same_region}
 data_confidence: simulated

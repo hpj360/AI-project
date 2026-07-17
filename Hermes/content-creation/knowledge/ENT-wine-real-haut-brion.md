@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 法国, 波尔多, 佩萨克-雷奥良, 一级庄]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brand-haut-brion, ENT-wine-red-haut-brion, ENT-wine-red-haut-brion-2016, ENT-wine-real-haut-brion-2016, ENT-baike-wine-zhangyu-jiebaina]
 related_typed: {ENT-brand-haut-brion: same_brand, ENT-wine-red-haut-brion: same_brand, ENT-wine-red-haut-brion-2016: same_brand, ENT-wine-real-haut-brion-2016: same_region, ENT-baike-wine-zhangyu-jiebaina: same_subcat}
 data_confidence: official

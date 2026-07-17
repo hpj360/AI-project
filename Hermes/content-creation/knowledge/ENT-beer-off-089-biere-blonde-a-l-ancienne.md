@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [OpenFoodFacts, beer, 啤酒, LA GOUDALE]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-beer-hoegaarden, ENT-beer-delirium-tremens, ENT-beer-rochefort-6, ENT-beer-rochefort-8, ENT-beer-rochefort-10]
 related_typed: {ENT-beer-hoegaarden: same_subcat, ENT-beer-delirium-tremens: same_subcat, ENT-beer-rochefort-6: same_subcat, ENT-beer-rochefort-8: same_subcat, ENT-beer-rochefort-10: same_subcat}
 data_confidence: verified

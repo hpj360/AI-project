@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, wine_red, 法国, 波尔多, Pauillac, 1855一级庄, First Growth]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-lafite-rothschild, ENT-wine-red-latour, ENT-wine-red-mouton-rothschild, ENT-wine-red-pontet-canet, ENT-wine-red-lynch-bages]
 related_typed: {ENT-wine-real-lafite-rothschild: same_brand, ENT-wine-red-latour: same_region, ENT-wine-red-mouton-rothschild: same_region, ENT-wine-red-pontet-canet: same_region, ENT-wine-red-lynch-bages: same_region}
 data_confidence: verified

@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_dessert
 tags: [甜酒, dessert, 南非, Constantia, Muscat, 迟摘, 拿破仑]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-dessert-yquem-2018, ENT-dessert-yquem-2022, ENT-dessert-suduiraut-2023, ENT-dessert-royal-tokaji-gold-label, ENT-dessert-royal-tokaji-essencia-2016]
 related_typed: {ENT-dessert-yquem-2018: cross_region, ENT-dessert-yquem-2022: cross_region, ENT-dessert-suduiraut-2023: cross_region, ENT-dessert-royal-tokaji-gold-label: cross_region, ENT-dessert-royal-tokaji-essencia-2016: same_subcat}
 data_confidence: verified

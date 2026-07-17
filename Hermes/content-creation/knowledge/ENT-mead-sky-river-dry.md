@@ -5,8 +5,8 @@ category: ENT
 subcategory: mead
 tags: [蜂蜜酒, mead, 美国, 华盛顿州, 干型]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-mead-sky-river-sweet, ENT-mead-clove, ENT-mead-shennong-honey, ENT-mead-qinling-honey, ENT-mead-changbaishan-honey]
 related_typed: {ENT-mead-sky-river-sweet: same_brand, ENT-mead-clove: same_region, ENT-mead-shennong-honey: cross_region, ENT-mead-qinling-honey: cross_region, ENT-mead-changbaishan-honey: same_subcat}
 data_confidence: verified

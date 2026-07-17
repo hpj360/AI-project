@@ -5,8 +5,8 @@ category: ENT
 subcategory: vodka
 tags: [伏特加, 俄罗斯, Polugar, 复古]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-vodka-stolichnaya, ENT-vodka-stolichnaya-soviet, ENT-vodka-kristall, ENT-vodka-off-143-vodka-triple-distilled, ENT-vodka-off-144-smirnoff-ice]
 related_typed: {ENT-vodka-stolichnaya: same_region, ENT-vodka-stolichnaya-soviet: same_region, ENT-vodka-kristall: same_region, ENT-vodka-off-143-vodka-triple-distilled: same_subcat, ENT-vodka-off-144-smirnoff-ice: same_subcat}
 data_confidence: simulated

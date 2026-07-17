@@ -5,8 +5,8 @@ category: ENT
 subcategory: grape
 tags: [葡萄品种, 红品种, 西拉, Shiraz, 罗纳河谷]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [GRAPE-cabernet-sauvignon, GRAPE-merlot, GRAPE-pinot-noir, GRAPE-grenache, GRAPE-malbec]
 related_typed: {GRAPE-cabernet-sauvignon: same_subcat, GRAPE-merlot: same_subcat, GRAPE-pinot-noir: same_subcat, GRAPE-grenache: same_subcat, GRAPE-malbec: same_subcat}
 data_confidence: official

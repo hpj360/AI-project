@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 经典饮品, Ordinary Drink]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-three-dots-and-a-dash, ENT-cocktail-cobras-fang, ENT-cocktail-nui-nui, ENT-cocktail-qb-cooler, ENT-cocktail-pisco-sour]
-related_typed: {ENT-cocktail-three-dots-and-a-dash: same_subcat, ENT-cocktail-cobras-fang: same_subcat, ENT-cocktail-nui-nui: same_subcat, ENT-cocktail-qb-cooler: same_subcat, ENT-cocktail-pisco-sour: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-qb-cooler, ENT-cocktail-pisco-sour, ENT-cocktail-ward-eight, ENT-cocktail-coffee-cocktail, ENT-cocktail-improved-gin-cocktail]
+related_typed: {ENT-cocktail-qb-cooler: same_subcat, ENT-cocktail-pisco-sour: same_subcat, ENT-cocktail-ward-eight: same_subcat, ENT-cocktail-coffee-cocktail: same_subcat, ENT-cocktail-improved-gin-cocktail: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

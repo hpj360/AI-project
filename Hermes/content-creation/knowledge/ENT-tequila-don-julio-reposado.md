@@ -5,8 +5,8 @@ category: ENT
 subcategory: tequila
 tags: [龙舌兰, 墨西哥, 唐胡里奥, Reposado]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-tequila-don-julio-blanco, ENT-tequila-jose-cuervo-especial-gold, ENT-tequila-sauza-blanco, ENT-tequila-herradura-reposado, ENT-tequila-patron-silver]
 related_typed: {ENT-tequila-don-julio-blanco: same_brand, ENT-tequila-jose-cuervo-especial-gold: same_region, ENT-tequila-sauza-blanco: same_region, ENT-tequila-herradura-reposado: same_region, ENT-tequila-patron-silver: same_region}
 data_confidence: simulated

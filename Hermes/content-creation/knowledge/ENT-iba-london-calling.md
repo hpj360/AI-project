@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, IBA, 新时代（New Era Drinks）, London Calling, 摇和]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-margarita, ENT-cocktail-daiquiri, ENT-cocktail-sazerac, ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta]
-related_typed: {ENT-cocktail-margarita: same_subcat, ENT-cocktail-daiquiri: same_subcat, ENT-cocktail-sazerac: same_subcat, ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-sazerac, ENT-cocktail-between-the-sheets, ENT-cocktail-brandy-crusta, ENT-cocktail-white-lady, ENT-cocktail-bacardi-cocktail]
+related_typed: {ENT-cocktail-sazerac: same_subcat, ENT-cocktail-between-the-sheets: same_subcat, ENT-cocktail-brandy-crusta: same_subcat, ENT-cocktail-white-lady: same_subcat, ENT-cocktail-bacardi-cocktail: same_subcat}
 data_confidence: official
 data_source: IBA Official
 version: 1

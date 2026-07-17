@@ -5,8 +5,8 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米酒, 田酒, 青森]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-sake-real-hakkaisan-tokubetsu-junmai, ENT-sake-real-juyondai, ENT-sake-real-arabashiri, ENT-sake-real-nanbu-bijin, ENT-sake-real-kaze-no-mori]
 related_typed: {ENT-sake-real-hakkaisan-tokubetsu-junmai: cross_region, ENT-sake-real-juyondai: same_subcat, ENT-sake-real-arabashiri: same_subcat, ENT-sake-real-nanbu-bijin: same_subcat, ENT-sake-real-kaze-no-mori: same_subcat}
 data_confidence: simulated

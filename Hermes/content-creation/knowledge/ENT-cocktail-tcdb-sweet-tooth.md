@@ -5,10 +5,10 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, 配方, 奶昔, Shake]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
-related: [ENT-cocktail-scorpion, ENT-cocktail-test-pilot, ENT-cocktail-three-dots-and-a-dash, ENT-cocktail-cobras-fang, ENT-cocktail-nui-nui]
-related_typed: {ENT-cocktail-scorpion: same_subcat, ENT-cocktail-test-pilot: same_subcat, ENT-cocktail-three-dots-and-a-dash: same_subcat, ENT-cocktail-cobras-fang: same_subcat, ENT-cocktail-nui-nui: same_subcat}
+created: 2026-07-17
+updated: 2026-07-17
+related: [ENT-cocktail-test-pilot, ENT-cocktail-three-dots-and-a-dash, ENT-cocktail-cobras-fang, ENT-cocktail-nui-nui, ENT-cocktail-qb-cooler]
+related_typed: {ENT-cocktail-test-pilot: same_subcat, ENT-cocktail-three-dots-and-a-dash: same_subcat, ENT-cocktail-cobras-fang: same_subcat, ENT-cocktail-nui-nui: same_subcat, ENT-cocktail-qb-cooler: same_subcat}
 data_confidence: verified
 data_source: TheCocktailDB / thecocktaildb.com
 version: 1

@@ -5,8 +5,8 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米酒, 新政, 秋田, 亜麻猫]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-sake-arabashiri-no6, ENT-sake-real-arabashiri-no6-yotsugumo, ENT-sake-takashimizu, ENT-sake-real-nanbu-bijin, ENT-sake-real-kaze-no-mori]
 related_typed: {ENT-sake-arabashiri-no6: same_brand, ENT-sake-real-arabashiri-no6-yotsugumo: same_brand, ENT-sake-takashimizu: same_region, ENT-sake-real-nanbu-bijin: same_subcat, ENT-sake-real-kaze-no-mori: same_subcat}
 data_confidence: simulated

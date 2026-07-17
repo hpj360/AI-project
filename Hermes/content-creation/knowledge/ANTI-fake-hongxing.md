@@ -5,8 +5,8 @@ category: ENT
 subcategory: fake
 tags: [假酒鉴别, 红星, 二锅头, 白酒]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ANTI-fake-maotai, ANTI-fake-wuliangye, ANTI-fake-lafite, ANTI-fake-maotai-packaging, ANTI-fake-fenjiu]
 related_typed: {ANTI-fake-maotai: same_subcat, ANTI-fake-wuliangye: same_subcat, ANTI-fake-lafite: same_subcat, ANTI-fake-maotai-packaging: same_subcat, ANTI-fake-fenjiu: same_subcat}
 data_confidence: official

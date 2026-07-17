@@ -5,8 +5,8 @@ category: ENT
 subcategory: beer
 tags: [啤酒, 美式拉格, 美国, 百威]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-beer-budweiser, ENT-beer-bud-ice, ENT-baike-beer-haerbin-pijiu, ENT-baike-beer-zhujiang-pijiu, ENT-baike-beer-taishan-pijiu]
 related_typed: {ENT-beer-budweiser: same_brand, ENT-beer-bud-ice: same_brand, ENT-baike-beer-haerbin-pijiu: cross_region, ENT-baike-beer-zhujiang-pijiu: cross_region, ENT-baike-beer-taishan-pijiu: same_subcat}
 data_confidence: verified

@@ -5,8 +5,8 @@ category: ENT
 subcategory: whisky
 tags: [威士忌, 爱尔兰, 调和威士忌]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-whisky-off-252-black-barrel-whisky-40, ENT-whisky-jameson-black-barrel, ENT-whisky-redbreast-12, ENT-whisky-redbreast-15, ENT-whisky-green-spot]
 related_typed: {ENT-whisky-off-252-black-barrel-whisky-40: same_brand, ENT-whisky-jameson-black-barrel: same_brand, ENT-whisky-redbreast-12: same_region, ENT-whisky-redbreast-15: same_region, ENT-whisky-green-spot: same_region}
 data_confidence: simulated

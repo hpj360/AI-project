@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [葡萄酒, 红葡萄酒, 波尔多, 拉菲, 一级庄]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-brand-lafite-rothschild, ENT-wine-red-lafite-2010, ENT-wine-red-levangile-2015, ENT-wine-real-lafite-rothschild, ENT-wine-real-latour]
 related_typed: {ENT-brand-lafite-rothschild: same_brand, ENT-wine-red-lafite-2010: same_brand, ENT-wine-red-levangile-2015: same_brand, ENT-wine-real-lafite-rothschild: same_region, ENT-wine-real-latour: same_region}
 data_confidence: verified

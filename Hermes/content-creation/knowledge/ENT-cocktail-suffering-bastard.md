@@ -5,8 +5,8 @@ category: ENT
 subcategory: cocktail
 tags: [鸡尾酒, Tiki, 波本, 金酒, 姜汁啤酒]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baike-spirits_intl-chivas-18, ENT-brand-macallan-12, ENT-brand-glenfiddich-12, ENT-cocktail-tokyo-tea, ENT-cocktail-samurai]
 related_typed: {ENT-baike-spirits_intl-chivas-18: base_to_cocktail, ENT-brand-macallan-12: base_to_cocktail, ENT-brand-glenfiddich-12: base_to_cocktail, ENT-cocktail-tokyo-tea: cross_region, ENT-cocktail-samurai: same_subcat}
 data_confidence: simulated

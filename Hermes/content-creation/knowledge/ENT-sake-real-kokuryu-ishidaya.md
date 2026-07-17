@@ -5,8 +5,8 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 黑龙, 石田屋, 福井, 稀少]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-sake-real-born-gold, ENT-sake-real-tatenokawa-mountain, ENT-sake-real-okuharima-nigori, ENT-sake-off-096-cooking-sake, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner]
 related_typed: {ENT-sake-real-born-gold: same_subcat, ENT-sake-real-tatenokawa-mountain: same_subcat, ENT-sake-real-okuharima-nigori: same_subcat, ENT-sake-off-096-cooking-sake: same_subcat, ENT-sake-off-097-mirin-sak-doux-pour-cuisiner: same_subcat}
 data_confidence: verified

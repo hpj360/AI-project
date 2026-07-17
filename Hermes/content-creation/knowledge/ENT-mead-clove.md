@@ -5,8 +5,8 @@ category: ENT
 subcategory: mead
 tags: [蜂蜜酒, 美国, 丁香, 香料]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-mead-strawberry, ENT-mead-blueberry, ENT-mead-peach, ENT-mead-sky-river-sweet, ENT-mead-sky-river-dry]
 related_typed: {ENT-mead-strawberry: same_brand, ENT-mead-blueberry: same_brand, ENT-mead-peach: same_brand, ENT-mead-sky-river-sweet: same_region, ENT-mead-sky-river-dry: same_region}
 data_confidence: simulated

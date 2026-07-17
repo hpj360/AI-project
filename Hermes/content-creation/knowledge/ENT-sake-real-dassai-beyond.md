@@ -5,8 +5,8 @@ category: ENT
 subcategory: sake
 tags: [清酒, 日本, 纯米大吟醸, 獭祭, Beyond, 旗舰]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-sake-dassai-23, ENT-sake-dassai-39, ENT-sake-dassai-45, ENT-sake-real-kaze-no-mori, ENT-sake-real-born-gold]
 related_typed: {ENT-sake-dassai-23: same_brand, ENT-sake-dassai-39: same_brand, ENT-sake-dassai-45: same_brand, ENT-sake-real-kaze-no-mori: same_subcat, ENT-sake-real-born-gold: same_subcat}
 data_confidence: verified

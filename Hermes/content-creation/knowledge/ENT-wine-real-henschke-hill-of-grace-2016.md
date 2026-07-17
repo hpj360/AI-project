@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [葡萄酒, 红葡萄酒, 澳大利亚, Henschke, 恩典山, 西拉, 老藤]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-henschke-hill-of-grace, ENT-baike-wine-weilong-putaojiu, ENT-baike-wine-tonghua-putaojiu, ENT-baike-wine-longhui-putaojiu, ENT-brand-lafite-rothschild]
 related_typed: {ENT-wine-real-henschke-hill-of-grace: same_brand, ENT-baike-wine-weilong-putaojiu: cross_region, ENT-baike-wine-tonghua-putaojiu: same_subcat, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-lafite-rothschild: same_subcat}
 data_confidence: verified

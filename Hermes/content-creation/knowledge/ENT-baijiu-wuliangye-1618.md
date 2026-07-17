@@ -5,8 +5,8 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 浓香, 四川, 五粮液]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baijiu-wuliangye-puwu, ENT-baijiu-wuliangye-jiaobei, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-wuliangye-puwu: same_brand, ENT-baijiu-wuliangye-jiaobei: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: simulated

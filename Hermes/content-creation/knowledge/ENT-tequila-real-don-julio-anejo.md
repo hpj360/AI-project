@@ -5,8 +5,8 @@ category: ENT
 subcategory: tequila
 tags: [龙舌兰酒, 唐胡里奥, 墨西哥, Añejo, 陈年]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-tequila-real-don-julio-1942, ENT-tequila-real-patron-reposado, ENT-tequila-real-patron-anejo, ENT-tequila-real-gran-centenario-leyenda, ENT-tequila-real-casamigos-reposado]
 related_typed: {ENT-tequila-real-don-julio-1942: same_brand, ENT-tequila-real-patron-reposado: same_region, ENT-tequila-real-patron-anejo: same_region, ENT-tequila-real-gran-centenario-leyenda: same_region, ENT-tequila-real-casamigos-reposado: same_region}
 data_confidence: verified

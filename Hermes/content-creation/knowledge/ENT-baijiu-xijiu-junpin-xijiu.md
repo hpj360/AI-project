@@ -5,8 +5,8 @@ category: ENT
 subcategory: baijiu
 tags: [白酒, 酱香, 贵州, 习酒]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-baijiu-xijiu-jinzhi-xijiu, ENT-baijiu-xijiu-jiaocang-1988, ENT-baijiu-moutai-feitian-53, ENT-baijiu-moutai-prince, ENT-baijiu-moutai-yingbin]
 related_typed: {ENT-baijiu-xijiu-jinzhi-xijiu: same_brand, ENT-baijiu-xijiu-jiaocang-1988: same_brand, ENT-baijiu-moutai-feitian-53: cross_region, ENT-baijiu-moutai-prince: cross_region, ENT-baijiu-moutai-yingbin: same_subcat}
 data_confidence: simulated

@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_sparkling
 tags: [起泡酒, 香槟, Louis Roederer, 霞多丽, 黑皮诺]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-cristal-2014, ENT-wine-red-pichon-lalande-2016, ENT-wine-sparkling-cristal-2013, ENT-wine-real-dom-perignon, ENT-wine-real-moet-chandon]
 related_typed: {ENT-wine-real-cristal-2014: same_brand, ENT-wine-red-pichon-lalande-2016: same_brand, ENT-wine-sparkling-cristal-2013: same_brand, ENT-wine-real-dom-perignon: same_region, ENT-wine-real-moet-chandon: same_region}
 data_confidence: official

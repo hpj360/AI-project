@@ -5,8 +5,8 @@ category: ENT
 subcategory: wine_red
 tags: [红酒, 勃艮第, 特级园]
 status: active
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-07-17
+updated: 2026-07-17
 related: [ENT-wine-real-musigny-comte-vogues, ENT-wine-red-musigny-vogue-2015, ENT-baike-wine-longhui-putaojiu, ENT-brand-margaux, ENT-brand-mouton-rothschild]
 related_typed: {ENT-wine-real-musigny-comte-vogues: same_brand, ENT-wine-red-musigny-vogue-2015: same_brand, ENT-baike-wine-longhui-putaojiu: same_subcat, ENT-brand-margaux: same_subcat, ENT-brand-mouton-rothschild: same_subcat}
 data_confidence: simulated
